@@ -1,0 +1,18 @@
+base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+
+max_results = 3
+
+[file_path]
+page = "./index.md"
+
+[[keywords]]
+topic = "小目标"
+filters = ["small object detect", "sod", "tiny object detect", "tod"]
+
+[[keywords]]
+topic = "注意力机制"
+filters = ["Attention Mechanism"]
+
+[[keywords]]
+topic = "背景差分"
+filters = ["Background Subtraction"]
