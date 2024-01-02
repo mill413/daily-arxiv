@@ -10,9 +10,6 @@ env:
   GITHUB_USER_NAME: mill413
   GITHUB_USER_EMAIL: mill413@outlook.com
 
-permissions:
-  contents: read
-
 jobs:
   build:
     name: update
