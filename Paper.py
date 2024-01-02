@@ -4,7 +4,7 @@ from typing import Self
 from arxiv import Result
 
 
-class Paper():
+class Paper:
     def __init__(self,
                  date: dt,
                  title: str,
