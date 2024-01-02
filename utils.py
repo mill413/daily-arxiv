@@ -4,7 +4,8 @@ from typing import Generator
 from Paper import Paper
 from arxiv import Result
 
-logging.Formatter.converter = (datetime.now() + timedelta(hours=8)).timetuple()
+# For Github Actions logging time
+logging.Formatter.converter = lambda sec,what:(datetime.now() + timedelta(hours=8)).timetuple()
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s",
                     datefmt="%Y/%m/%d %H:%M:%S",
                     level=logging.INFO)
