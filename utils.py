@@ -1,9 +1,10 @@
-import datetime as dt
+from datetime import (datetime, timezone, timedelta)
 import logging
 from typing import Generator
 from Paper import Paper
 from arxiv import Result
 
+logging.Formatter.converter = (datetime.now() + timedelta(hours=8)).timetuple()
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s",
                     datefmt="%Y/%m/%d %H:%M:%S",
                     level=logging.INFO)
@@ -31,8 +32,8 @@ def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
 
 
 def content_to_md(content: dict):
-    now = dt.datetime.utcnow().replace(tzinfo=dt.timezone.utc).astimezone(
-        dt.timezone(dt.timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
+    now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
+        timezone(timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
 
     front_matter = (
         "---",
