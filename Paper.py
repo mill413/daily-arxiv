@@ -17,7 +17,7 @@ class Paper:
         self.authors: str = f"{authors[0].name} et al." if len(
             authors) > 1 else authors[0].name
         self.id: str = id
-        self.url: str = url,
+        self.url: str = url
         self.code: str = code_link
 
     def __str__(self) -> str:
