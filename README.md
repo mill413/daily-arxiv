@@ -12,10 +12,10 @@ A python script to automatically update papers daily from arxiv using Github Act
 
 ## Todo
 
-- [] Implement code link
-- [] Pull index.md to Github Pages
-- [] Logging timezone
-- [] Translation
+- [ ] Implement code link
+- [ ] Pull index.md to Github Pages
+- [ ] Logging timezone
+- [ ] Translation
 
 ## References
 
