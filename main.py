@@ -21,7 +21,8 @@ for k in config["keywords"]:
             max_results=config["max_results"],
             sort_by=arxiv.SortCriterion.SubmittedDate
         ))))
+    
+    list(set(content[topic])).sort
 
-
-# print(content)
+# write papers of each topic to markdown
 content_to_md(content)
