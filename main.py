@@ -9,6 +9,7 @@ with open("config.toml", "rb") as f:
     config = tomllib.load(f)
 
 max_results = config["max_results"]
+
 # get papers from arxiv via arxiv api
 client = arxiv.Client(delay_seconds=3, num_retries=5)
 
