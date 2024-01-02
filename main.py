@@ -23,6 +23,8 @@ for k in config["keywords"]:
             max_results=max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
         ))))
+    
+    assert len(content[topic]) > 0, f"content{topic} empty"
 
     content[topic].sort()
     content[topic] = content[topic][0:max_results]
