@@ -11,7 +11,7 @@ with open("config.toml", "rb") as f:
 max_results = config["max_results"]
 
 # get papers from arxiv via arxiv api
-client = arxiv.Client(delay_seconds=3, num_retries=5)
+client = arxiv.Client()
 
 content: dict[str, list[Paper]] = {}
 for k in config["keywords"]:
