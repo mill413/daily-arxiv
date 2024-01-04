@@ -1,5 +1,3 @@
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-
 max_results = 30
 
 [file_path]
