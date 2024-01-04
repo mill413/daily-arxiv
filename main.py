@@ -32,4 +32,4 @@ for k in config["keywords"]:
         paper.get_code_link()
 
 # write papers of each topic to markdown
-content_to_md(content)
+content_to_md(content, config["file_path"])

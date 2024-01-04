@@ -1,7 +1,6 @@
 max_results = 30
 
-[file_path]
-page = "./index.md"
+file_path = "./index.md"
 
 [[keywords]]
 topic = "小目标"

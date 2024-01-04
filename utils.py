@@ -80,7 +80,7 @@ def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
     return papers
 
 
-def content_to_md(content: dict):
+def content_to_md(content: dict, file: str):
     now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
         timezone(timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
 
@@ -124,5 +124,5 @@ def content_to_md(content: dict):
         md_content.append("\n".join(heading))
         md_content.append("\n".join(table))
 
-    with open("./index.md", "w") as f:
+    with open(file, "w") as f:
         f.write("\n".join(md_content))
