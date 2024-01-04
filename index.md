@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/03 16:08:48
+> Updated on 2024/01/04 10:48:14
 
 <summary>Table of Contents</summary>
 <ol>
@@ -52,10 +52,10 @@ layout: default
 |:-------------|:------|:--------|:----|:-----|
 |**2024/01/02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et al.|[2401.01336v1](http://arxiv.org/abs/2401.01336v1)|**NULL**|
 |**2024/01/02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|**NULL**|
-|**2024/01/02**|**Emulated nuclear spin gyroscope with $^{15}$NV centers in diamond**|Guoqing Wang et al.|[2401.01333v1](http://arxiv.org/abs/2401.01333v1)|**NULL**|
+|**2024/01/02**|**Emulated nuclear spin gyroscope with $^{15}$NV centers in diamond**|Guoqing Wang et al.|[2401.01333v2](http://arxiv.org/abs/2401.01333v2)|**NULL**|
 |**2024/01/02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|**NULL**|
 |**2024/01/02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et al.|[2401.01325v1](http://arxiv.org/abs/2401.01325v1)|**NULL**|
-|**2024/01/02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|**NULL**|
+|**2024/01/02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et al.|[2401.01313v2](http://arxiv.org/abs/2401.01313v2)|**NULL**|
 |**2024/01/02**|**What is the effective size of a parity-time symmetric dimer?**|Li Ge|[2401.01309v1](http://arxiv.org/abs/2401.01309v1)|**NULL**|
 |**2024/01/02**|**Restart uncertainty relation for monitored quantum dynamics**|Ruoyu Yin et al.|[2401.01307v1](http://arxiv.org/abs/2401.01307v1)|**NULL**|
 |**2024/01/02**|**On the uniqueness and computation of commuting extensions**|Pascal Koiran|[2401.01302v1](http://arxiv.org/abs/2401.01302v1)|**NULL**|
