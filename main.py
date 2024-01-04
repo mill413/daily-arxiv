@@ -26,7 +26,7 @@ for k in config["keywords"]:
     
     assert len(content[topic]) > 0, f"content{topic} empty"
 
-    content[topic].sort()
+    content[topic].sort(reverse=True)
     content[topic] = content[topic][0:max_results]
 
 # write papers of each topic to markdown
