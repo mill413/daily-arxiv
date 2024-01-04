@@ -75,42 +75,48 @@ def content_to_md(content: dict):
     now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
         timezone(timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
 
-    front_matter = (
+    front_matter:list[str] =[
         "---",
         "layout: default",
         "---",
         ""
-    )
+    ]
 
-    update_info = (
+    update_info:list[str] = [
         f"> Updated on {now}",
         ""
-    )
+    ]
 
-    toc = (
+    toc:list[str] = [
         "<summary>Table of Contents</summary>",
         "<ol>",
         '\n'.join([f" <li><a href=\"#{topic}\">{topic}</a></li>" for topic in list(content.keys())]),
         "</ol>",
         ""
-    )
+    ]
 
+    md_content:list[str] = [
+        "\n".join(front_matter),
+        "\n".join(update_info),
+        "\n".join(toc),
+    ]
+
+    for topic, papers in content.items():
+        heading:list[str] = [
+            f"## {topic}",
+            ""
+        ]
+        table:list[str] = [
+            "| Publish Date | Title | Authors | PDF | Code |",
+            "|:-------------|:------|:--------|:----|:-----|",
+            '\n'.join([str(paper) for paper in papers]),
+            ""
+        ]
+        md_content.append("\n".join(heading))
+        md_content.append("\n".join(table))
+
+    
     with open("./index.md", "w") as f:
-        f.write("\n".join(front_matter))
-        f.write("\n"+"\n".join(update_info))
-        f.write("\n"+"\n".join(toc))
-        for topic, papers in content.items():
-            heading = (
-                f"## {topic}",
-                ""
-            )
-            table = (
-                "| Publish Date | Title | Authors | PDF | Code |",
-                "|:-------------|:------|:--------|:----|:-----|",
-                '\n'.join([str(paper) for paper in papers]),
-                ""
-            )
-            f.write("\n"+"\n".join(heading))
-            f.write("\n"+"\n".join(table))
+        f.write("\n".join(md_content))
 
 
