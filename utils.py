@@ -2,6 +2,7 @@ import logging
 from datetime import datetime, timedelta, timezone
 from typing import Generator, Self
 
+import requests
 from arxiv import Result
 
 # For Github Actions logging time
@@ -18,16 +19,23 @@ class Paper:
                  title: str,
                  authors: list[Result.Author],
                  id: str,
-                 url: str,
-                 code_link: str | None) -> None:
+                 url: str) -> None:
         self.date: datetime = date
         self.title: str = title
         self.authors: str = f"{authors[0].name} et al." if len(
             authors) > 1 else authors[0].name
         self.id: str = id
         self.url: str = url
-        self.code: str = code_link
+        self.code: str|None = None
 
+    def get_code_link(self):
+            query_url = f"https://arxiv.paperswithcode.com/api/v0/papers/{self.id}"
+            result = requests.get(query_url).json()
+            if "official" in result and result["official"]:
+                self.code = result["official"]["url"]
+            else :
+                self.code = None
+            
     def __str__(self) -> str:
         return f"|**{self.date.strftime("%Y/%m/%d")}**|**{self.title}**|{self.authors}|[{self.id}]({self.url})|**{f"[link]({self.code})" if self.code else "NULL"}**|"
 
@@ -56,6 +64,7 @@ def log(message: str):
 
 
 def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
+    
 
     papers = []
 
@@ -65,8 +74,7 @@ def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
             title=result.title,
             authors=result.authors,
             id=result.get_short_id(),
-            url=result.entry_id,
-            code_link=None  # TODO-code url
+            url=result.entry_id  # TODO-code url
         ))
 
     return papers

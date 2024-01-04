@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/04 11:51:50
+> Updated on 2024/01/04 15:49:02
 
 <summary>Table of Contents</summary>
 <ol>
@@ -59,8 +59,8 @@ layout: default
 |**2024/01/03**|**Aggregation-diffusion phenomena: from microscopic models to free boundary problems**|Inwon Kim et al.|[2401.01840v1](http://arxiv.org/abs/2401.01840v1)|**NULL**|
 |**2024/01/03**|**Relative energy constraint in Boltzmann's surface entropy eliminates thermodynamic inconsistencies and allows negative absolute temperatures**|Ananth Govind Rajan|[2401.01838v1](http://arxiv.org/abs/2401.01838v1)|**NULL**|
 |**2024/01/03**|**Tracing the layers of Photodissociated gas in Trifid Nebula**|Bhaswati Mookerjea et al.|[2401.01837v1](http://arxiv.org/abs/2401.01837v1)|**NULL**|
-|**2024/01/03**|**Concurrent Brainstorming & Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)**|Arash Shahmansoori|[2401.01835v1](http://arxiv.org/abs/2401.01835v1)|**NULL**|
-|**2024/01/03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et al.|[2401.01827v1](http://arxiv.org/abs/2401.01827v1)|**NULL**|
+|**2024/01/03**|**Concurrent Brainstorming & Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)**|Arash Shahmansoori|[2401.01835v1](http://arxiv.org/abs/2401.01835v1)|**[link](https://github.com/arash-shahmansoori/r2cbr3h-sr)**|
+|**2024/01/03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et al.|[2401.01827v1](http://arxiv.org/abs/2401.01827v1)|**[link](https://github.com/salesforce/lavis)**|
 |**2024/01/03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et al.|[2401.01801v1](http://arxiv.org/abs/2401.01801v1)|**NULL**|
 |**2024/01/03**|**Evaluating Trustworthiness of Online News Publishers via Article Classification**|John Bianchi et al.|[2401.01781v1](http://arxiv.org/abs/2401.01781v1)|**NULL**|
 |**2024/01/03**|**Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**|Pierre Erbacher et al.|[2401.01780v1](http://arxiv.org/abs/2401.01780v1)|**NULL**|

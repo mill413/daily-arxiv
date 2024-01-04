@@ -1,7 +1,8 @@
 import tomllib
+
 import arxiv
 
-from utils import parse_papers, content_to_md, Paper
+from utils import Paper, content_to_md, parse_papers
 
 # load config from file
 with open("config.toml", "rb") as f:
@@ -27,6 +28,8 @@ for k in config["keywords"]:
 
     content[topic].sort(reverse=True)
     content[topic] = content[topic][0:max_results]
+    for paper in content[topic]:
+        paper.get_code_link()
 
 # write papers of each topic to markdown
 content_to_md(content)
