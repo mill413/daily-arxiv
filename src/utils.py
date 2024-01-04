@@ -1,7 +1,7 @@
 from datetime import (datetime, timezone, timedelta)
 import logging
 from typing import Generator
-from Paper import Paper
+from src.Paper import Paper
 from arxiv import Result
 
 # For Github Actions logging time
