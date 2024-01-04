@@ -1,8 +1,7 @@
 import tomllib
-from src.Paper import Paper
 import arxiv
 
-from src.utils import parse_papers, content_to_md
+from utils import parse_papers, content_to_md, Paper
 
 # load config from file
 with open("config.toml", "rb") as f:
