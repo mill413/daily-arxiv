@@ -1,12 +1,6 @@
-import tomllib
-
 import arxiv
 
-from utils import Paper, content_to_md, parse_papers
-
-# load config from file
-with open("config.toml", "rb") as f:
-    config = tomllib.load(f)
+from utils import Paper, config, content_to_md, parse_papers
 
 max_results = config["max_results"]
 
@@ -23,7 +17,7 @@ for k in config["keywords"]:
             max_results=max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
         ))))
-    
+
     assert len(content[topic]) > 0, f"content{topic} empty"
 
     content[topic].sort(reverse=True)

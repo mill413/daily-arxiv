@@ -1,4 +1,5 @@
 import logging
+import tomllib
 from datetime import datetime, timedelta, timezone
 from typing import Generator, Self
 
@@ -11,6 +12,10 @@ logging.Formatter.converter = lambda sec, what: (
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s",
                     datefmt="%Y/%m/%d %H:%M:%S",
                     level=logging.INFO)
+
+# load config from file
+with open("config.toml", "rb") as f:
+    config = tomllib.load(f)
 
 
 class Paper:
@@ -26,16 +31,16 @@ class Paper:
             authors) > 1 else authors[0].name
         self.id: str = id
         self.url: str = url
-        self.code: str|None = None
+        self.code: str | None = None
 
     def get_code_link(self):
-            query_url = f"https://arxiv.paperswithcode.com/api/v0/papers/{self.id}"
-            result = requests.get(query_url).json()
-            if "official" in result and result["official"]:
-                self.code = result["official"]["url"]
-            else :
-                self.code = None
-            
+        query_url = f"https://arxiv.paperswithcode.com/api/v0/papers/{self.id}"
+        result = requests.get(query_url).json()
+        if "official" in result and result["official"]:
+            self.code = result["official"]["url"]
+        else:
+            self.code = None
+
     def __str__(self) -> str:
         return f"|**{self.date.strftime("%Y/%m/%d")}**|**{self.title}**|{self.authors}|[{self.id}]({self.url})|**{f"[link]({self.code})" if self.code else "NULL"}**|"
 
@@ -64,7 +69,6 @@ def log(message: str):
 
 
 def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
-    
 
     papers = []
 
