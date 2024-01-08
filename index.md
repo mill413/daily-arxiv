@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/07 08:52:19
+> Updated on 2024/01/08 08:48:59
 
 <summary>Table of Contents</summary>
 <ol>
@@ -15,7 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
-|**2024/01/04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan et al.|[2401.02417v1](http://arxiv.org/abs/2401.02417v1)|**NULL**|
+|**2024/01/04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan et al.|[2401.02417v1](http://arxiv.org/abs/2401.02417v1)|**[link](https://github.com/amazon-science/amazon-od3)**|
 |**2024/01/04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et al.|[2401.02402v1](http://arxiv.org/abs/2401.02402v1)|**NULL**|
 |**2024/01/04**|**Learning the 3D Fauna of the Web**|Zizhang Li et al.|[2401.02400v1](http://arxiv.org/abs/2401.02400v1)|**NULL**|
 |**2024/01/04**|**A model of pseudo-Nambu-Goldstone dark matter with two complex scalars**|Tomohiro Abe et al.|[2401.02397v1](http://arxiv.org/abs/2401.02397v1)|**NULL**|
@@ -35,14 +35,14 @@ layout: default
 |**2024/01/04**|**Locally dualizable modules abound**|Jon F. Carlson et al.|[2401.02350v1](http://arxiv.org/abs/2401.02350v1)|**NULL**|
 |**2024/01/04**|**Evasive Hardware Trojan through Adversarial Power Trace**|Behnam Omidi et al.|[2401.02342v1](http://arxiv.org/abs/2401.02342v1)|**NULL**|
 |**2024/01/04**|**Ammonia Observations of Planck Cold Cores**|Dilda Berdikhan. et al.|[2401.02337v1](http://arxiv.org/abs/2401.02337v1)|**NULL**|
-|**2024/01/04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et al.|[2401.02335v1](http://arxiv.org/abs/2401.02335v1)|**NULL**|
+|**2024/01/04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et al.|[2401.02335v1](http://arxiv.org/abs/2401.02335v1)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024/01/04**|**Structural stability of China's asteroid mission target 2016 HO3 and its possible structure**|Bin Cheng et al.|[2401.02332v1](http://arxiv.org/abs/2401.02332v1)|**NULL**|
-|**2024/01/04**|**LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|**NULL**|
+|**2024/01/04**|**LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|**[link](https://github.com/zhuyiche/llava-phi)**|
 |**2024/01/04**|**Deep Learning for Optical Tweezers**|Antonio Ciarlo et al.|[2401.02321v1](http://arxiv.org/abs/2401.02321v1)|**NULL**|
 |**2024/01/04**|**Flip colouring of graphs II**|Xandru Mifsud|[2401.02315v1](http://arxiv.org/abs/2401.02315v1)|**NULL**|
 |**2024/01/04**|**Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches**|George Alestas et al.|[2401.02314v1](http://arxiv.org/abs/2401.02314v1)|**NULL**|
 |**2024/01/04**|**SuperEdge: Towards a Generalization Model for Self-Supervised Edge Detection**|Leng Kai et al.|[2401.02313v1](http://arxiv.org/abs/2401.02313v1)|**NULL**|
-|**2024/01/04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|**NULL**|
+|**2024/01/04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|**[link](https://github.com/mingyao1120/tr-detr)**|
 |**2024/01/04**|**Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions**|H M Sabbir Ahmad et al.|[2401.02306v1](http://arxiv.org/abs/2401.02306v1)|**NULL**|
 |**2024/01/04**|**Optimal shape design of printing nozzles for extrusion-based additive manufacturing**|Tomas Schuller et al.|[2401.02298v1](http://arxiv.org/abs/2401.02298v1)|**NULL**|
 
@@ -85,7 +85,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
-|**2024/01/04**|**Gravitational waves from dark domain walls**|Øyvind Christiansen et al.|[2401.02409v1](http://arxiv.org/abs/2401.02409v1)|**NULL**|
+|**2024/01/04**|**Gravitational waves from dark domain walls**|Øyvind Christiansen et al.|[2401.02409v1](http://arxiv.org/abs/2401.02409v1)|**[link](https://github.com/oyvach/asgrd)**|
 |**2024/01/04**|**Sono\textcolor{red}{neutrino}escence: Neutrinos from Ringing Bubble of Sonoluminescence**|Rajesh Karmakar et al.|[2401.02405v1](http://arxiv.org/abs/2401.02405v1)|**NULL**|
 |**2024/01/04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et al.|[2401.02383v1](http://arxiv.org/abs/2401.02383v1)|**NULL**|
 |**2024/01/04**|**Measurement of scintillation from proportional electron multiplication in liquid xenon using a needle**|P. Knights et al.|[2401.02327v1](http://arxiv.org/abs/2401.02327v1)|**NULL**|
