@@ -8,7 +8,7 @@ from arxiv import Result
 
 # For Github Actions logging time
 #logging.Formatter.converter = lambda sec, what: (
-    datetime.now() + timedelta(hours=8)).timetuple()
+#    datetime.now() + timedelta(hours=8)).timetuple()
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s",
                     datefmt="%Y/%m/%d %H:%M:%S",
                     level=logging.INFO)
