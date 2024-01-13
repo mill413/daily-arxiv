@@ -97,7 +97,8 @@ def content_to_md(content: dict, file: str):
                  paper.title,
                  paper.authors,
                  Link(url=paper.url, text_or_image=paper.id),
-                 Link(url=paper.code, text_or_image=Bold("link")) if paper.code else Bold("NULL")
+                 Link(url=paper.code, text_or_image=Bold(
+                     "link")) if paper.code else Bold("NULL")
                  ] for paper in papers
             ]
         ))
