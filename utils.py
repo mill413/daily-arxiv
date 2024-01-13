@@ -34,9 +34,7 @@ class Paper:
 
     def get_code_link(self):
         query_url = f"https://arxiv.paperswithcode.com/api/v0/papers/{self.id}"
-        print(self.id)
         result = requests.get(query_url).json()
-        print(result)
         if "official" in result and result["official"]:
             self.code = result["official"]["url"]
         else:
