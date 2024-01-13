@@ -93,7 +93,7 @@ def content_to_md(content: dict, file: str):
         topic_block.append(Table(
             header=["Publish Date", "Title", "Authors", "PDF", "Code"],
             content=[
-                [Bold(paper.date.strftime("%Y/%m/%d")), paper.title, paper.authors, paper.id, paper.url, Bold(f"[link]({paper.code})" if paper.code else "NULL")] for paper in papers
+                [Bold(paper.date.strftime("%Y/%m/%d")), paper.title, paper.authors, Link(url=paper.url, text_or_image=paper.id), Link(url=paper.code, text_or_image=Bold("link")) if paper.code else Bold("NULL")] for paper in papers
             ]
         ))
 
