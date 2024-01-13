@@ -98,19 +98,15 @@ def content_to_md(content: dict, file: str):
         ))
 
     MdBuilder(
-        Paragraph(
-            "---",
-            "layout: default",
-            "---"
-        ),
+        "---",
+        "layout: default",
+        "---",
         Blockquote(f"Updated on {now}"),
-        Paragraph(
-            "<summary>Table of Contents</summary>",
-            "<ol>",
-            '\n'.join([
-                f" <li><a href=\"#{topic}\">{topic}</a></li>"
-                for topic in list(content.keys())]),
-            "</ol>"
-        ),
+        "<summary>Table of Contents</summary>",
+        "<ol>",
+        '\n'.join([
+            f" <li><a href=\"#{topic}\">{topic}</a></li>"
+            for topic in list(content.keys())]),
+        "</ol>",
         topic_block
     ).write_to_file(file)
