@@ -98,9 +98,7 @@ def content_to_md(content: dict, file: str):
         ))
 
     MdBuilder(
-        "---",
-        "layout: default",
-        "---",
+        "---\nlayout: default\n---",
         Blockquote(f"Updated on {now}"),
         "<summary>Table of Contents</summary>",
         "<ol>",
