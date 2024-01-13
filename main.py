@@ -1,6 +1,6 @@
 import arxiv
 
-from utils import Paper, config, content_to_md, parse_papers
+from utils import Paper, config, content_to_md, log, parse_papers
 
 max_results = config["max_results"]
 
@@ -11,6 +11,8 @@ content: dict[str, list[Paper]] = {}
 for k in config["keywords"]:
     topic: str = k["topic"]
     content[topic] = []
+    
+    log(f"Query topic {topic}")
     for query in k["filters"]:
         content[topic].extend(parse_papers(client.results(arxiv.Search(
             query=query,
@@ -22,6 +24,8 @@ for k in config["keywords"]:
 
     content[topic].sort(reverse=True)
     content[topic] = content[topic][0:max_results]
+
+    log(f"Get code link of {topic}")
     for paper in content[topic]:
         paper.get_code_link()
 
