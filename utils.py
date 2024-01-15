@@ -67,6 +67,14 @@ def log(message: str):
     logging.info(message)
 
 
+def concat_filters(filters: list[str]) -> str:
+    return "OR".join([
+        f"\"{filter}\"" if " " in filter
+        else filter
+        for filter in filters
+    ])
+
+
 def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
     return [Paper(
         date=result.published.date(),
@@ -110,11 +118,3 @@ def content_to_md(content: dict, file: str):
         "</ol>",
         topic_block
     ).write_to_file(file)
-
-
-def concat_filters(filters: list[str]) -> str:
-    return "OR".join([
-        f"\"{filter}\"" if " " in filter
-        else filter
-        for filter in filters
-    ])
