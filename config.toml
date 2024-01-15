@@ -1,6 +1,6 @@
 max_results = 30
 
-file_path = "./doc/index.md"
+file_path = "./docs/index.md"
 
 [[topics]]
 name = "小目标"

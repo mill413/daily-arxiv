@@ -1,0 +1,14 @@
+title: CV Arxiv Daily
+author: Mill Haruto
+email: mill413@outlook.com
+description: >
+  🎓Arxiv for Small Target Detection
+
+github_username:  mill413
+
+remote_theme: jekyll/minima@v2.5.1
+
+plugins:
+ - jekyll-remote-theme
+ - jekyll-feed
+ - jekyll-seo-tag
