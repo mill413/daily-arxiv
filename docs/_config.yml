@@ -6,7 +6,7 @@ description: >
 
 github_username: mill413
 
-theme: jekyll/minima@v2.5.1
+remote_theme: jekyll/minima@v2.5.1
 
 plugins:
  - jekyll-remote-theme
