@@ -21,7 +21,6 @@ for k in config["keywords"]:
     assert len(content[topic]) > 0, f"content{topic} empty"
 
     content[topic].sort(reverse=True)
-    content[topic] = content[topic][0:max_results]
 
     log(f"Get code link of {topic}")
     for paper in content[topic]:

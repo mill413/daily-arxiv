@@ -34,14 +34,13 @@ class Paper:
 
     def get_code_link(self):
         query_url = f"https://arxiv.paperswithcode.com/api/v0/papers/{self.id}"
+        # print(self.id)
         result = requests.get(query_url).json()
+        # print(result["status"])
         if "official" in result and result["official"]:
             self.code = result["official"]["url"]
         else:
             self.code = None
-
-    def __str__(self) -> str:
-        return f"|**{self.date.strftime("%Y/%m/%d")}**|**{self.title}**|{self.authors}|[{self.id}]({self.url})|**{f"[link]({self.code})" if self.code else "NULL"}**|"
 
     def __repr__(self) -> str:
         return str({
@@ -68,19 +67,13 @@ def log(message: str):
 
 
 def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
-
-    papers = []
-
-    for result in results:
-        papers.append(Paper(
-            date=result.published.date(),
-            title=result.title,
-            authors=result.authors,
-            id=result.get_short_id(),
-            url=result.entry_id
-        ))
-
-    return papers
+    return [Paper(
+        date=result.published.date(),
+        title=result.title,
+        authors=result.authors,
+        id=result.get_short_id(),
+        url=result.entry_id
+    ) for result in results]
 
 
 def content_to_md(content: dict, file: str):
