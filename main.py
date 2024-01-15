@@ -1,6 +1,6 @@
 import arxiv
 
-from utils import Paper, config, content_to_md, log, parse_papers
+from utils import Paper, config, content_to_md, log, parse_papers, concat_filters
 
 max_results = config["max_results"]
 
@@ -10,15 +10,13 @@ client = arxiv.Client()
 content: dict[str, list[Paper]] = {}
 for k in config["keywords"]:
     topic: str = k["topic"]
-    content[topic] = []
-    
+
     log(f"Query topic {topic}")
-    for query in k["filters"]:
-        content[topic].extend(parse_papers(client.results(arxiv.Search(
-            query=query,
-            max_results=max_results,
-            sort_by=arxiv.SortCriterion.SubmittedDate
-        ))))
+    content[topic] = parse_papers(client.results(arxiv.Search(
+        query=concat_filters(k["filters"]),
+        max_results=max_results,
+        sort_by=arxiv.SortCriterion.SubmittedDate
+    )))
 
     assert len(content[topic]) > 0, f"content{topic} empty"
 
