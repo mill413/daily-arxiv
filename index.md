@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/14 08:53:00
+> Updated on 2024/01/15 08:50:59
 
 <summary>Table of Contents</summary>
 
@@ -17,7 +17,7 @@ layout: default
 ## 小目标
 
 | Publish Date | Title | Authors | PDF | Code |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | **2024/01/11** | The chiral phase transition and the axial anomaly | Robert D. Pisarski et al. | [2401.06130v1](http://arxiv.org/abs/2401.06130v1) | **NULL** |
 | **2024/01/11** | Atmospheric chemistry surrogate modeling with sparse identification of nonlinear dynamics | Xiaokai Yang et al. | [2401.06108v1](http://arxiv.org/abs/2401.06108v1) | **NULL** |
 | **2024/01/11** | Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation | Osman Mamun et al. | [2401.06106v1](http://arxiv.org/abs/2401.06106v1) | **NULL** |
@@ -25,7 +25,7 @@ layout: default
 | **2024/01/11** | Precise characterization of a silicon carbide waveguide fiber interface | Marcel Krumrein et al. | [2401.06096v1](http://arxiv.org/abs/2401.06096v1) | **NULL** |
 | **2024/01/11** | 2D Li$^{\bf +}$ ionic hopping in Li$_{\bf 3}$InCl$_{\bf 6}$ as revealed by diffusion-induced nuclear spin relaxation | Florian Stainer et al. | [2401.06090v1](http://arxiv.org/abs/2401.06090v1) | **NULL** |
 | **2024/01/11** | Post-Newtonian effects in compact binaries with a dark matter spike: A Lagrangian approach | Diego Montalvo et al. | [2401.06084v1](http://arxiv.org/abs/2401.06084v1) | **NULL** |
-| **2024/01/11** | Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint | Zhipeng Chen et al. | [2401.06081v1](http://arxiv.org/abs/2401.06081v1) | **NULL** |
+| **2024/01/11** | Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint | Zhipeng Chen et al. | [2401.06081v1](http://arxiv.org/abs/2401.06081v1) | [**link**](https://github.com/rucaibox/rlmec) |
 | **2024/01/11** | Nanofluidic platform for studying the first-order phase transitions in superfluid helium-3 | Petri J. Heikkinen et al. | [2401.06079v1](http://arxiv.org/abs/2401.06079v1) | **NULL** |
 | **2024/01/11** | Twisted TMDs in the small-angle limit: exponentially flat and trivial bands | Simon Becker et al. | [2401.06078v1](http://arxiv.org/abs/2401.06078v1) | **NULL** |
 | **2024/01/11** | LEGO:Language Enhanced Multi-modal Grounding Model | Zhaowei Li et al. | [2401.06071v1](http://arxiv.org/abs/2401.06071v1) | [**link**](https://github.com/lzw-lzw/lego) |
@@ -52,7 +52,7 @@ layout: default
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | **2024/01/11** | Atmospheric chemistry surrogate modeling with sparse identification of nonlinear dynamics | Xiaokai Yang et al. | [2401.06108v1](http://arxiv.org/abs/2401.06108v1) | **NULL** |
 | **2024/01/11** | Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation | Osman Mamun et al. | [2401.06106v1](http://arxiv.org/abs/2401.06106v1) | **NULL** |
 | **2024/01/11** | In situ coherent X-ray scattering reveals polycrystalline structure and discrete annealing events in strongly-coupled nanocrystal superlattices | Matthew J. Hurley et al. | [2401.06103v1](http://arxiv.org/abs/2401.06103v1) | **NULL** |
@@ -87,7 +87,7 @@ layout: default
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | **2024/01/11** | Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors | Jack Saunders et al. | [2401.06126v1](http://arxiv.org/abs/2401.06126v1) | **NULL** |
 | **2024/01/11** | Anomalous dispersion, superluminality and instabilities in two-flavour theories with local non-Hermitian mass mixing | Maxim N. Chernodub et al. | [2401.06097v1](http://arxiv.org/abs/2401.06097v1) | **NULL** |
 | **2024/01/11** | Lepton pair production in muon-nucleus scattering | G. Abbiendi et al. | [2401.06077v1](http://arxiv.org/abs/2401.06077v1) | **NULL** |
