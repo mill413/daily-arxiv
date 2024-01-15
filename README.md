@@ -7,13 +7,14 @@ A python script to automatically update papers daily from arxiv using Github Act
 1. Fork this repo
 2. Check `Settings->Actions->General->Workflow permissions`, choose `Read and write permissions` and save
 3. Change `GITHUB_USER_NAME` and `GITHUB_USER_EMAIL` to yours in file `.github/workflows/daily-arxiv-update.yml`
-4. Change keywords in `config.toml` following given format
-5. Run workflow `Update arxiv` in Actions
+4. Go to `Settings->Pages`, choose `Deploy from a branch` in `Source`, choose `main` and `/docs` in `Branch` and save
+5. Change keywords in `config.toml` following given format
+6. Run workflow `Update arxiv` in Actions
 
 ## Todo
 
 - [x] Implement code link
-- [ ] Pull index.md to Github Pages
+- [x] Pull index.md to Github Pages
 - [x] Logging timezone
 
 ## References
