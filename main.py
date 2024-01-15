@@ -16,7 +16,8 @@ for k in config["topics"]:
         query=concat_filters(k["filters"]),
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
-    ))).sort(reverse=True)
+    )))
+    content[topic].sort(reverse=True)
 
     assert len(content[topic]) > 0, f"Content of {topic} empty"
 
