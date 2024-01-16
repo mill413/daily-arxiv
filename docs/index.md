@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/15 20:45:20
+> Updated on 2024/01/16 08:59:49
 
 <summary>Table of Contents</summary>
 
@@ -34,7 +34,7 @@ layout: default
 | **2023/09/10** | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art | Aref Miri Rekavandi et al. | [2309.04902v1](http://arxiv.org/abs/2309.04902v1) | [**link**](https://github.com/arekavandi/transformer-sod) |
 | **2023/08/18** | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning | Xiang Yuan et al. | [2308.09534v1](http://arxiv.org/abs/2308.09534v1) | [**link**](https://github.com/shaunyuan22/cfinet) |
 | **2023/07/21** | BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation | Yosuke Shinya | [2307.11748v1](http://arxiv.org/abs/2307.11748v1) | [**link**](https://github.com/shinya7y/UniverseNet) |
-| **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | **NULL** |
+| **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
 | **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
 | **2023/05/05** | DSPDet3D: Dynamic Spatial Pruning for 3D Small Object Detection | Xiuwei Xu et al. | [2305.03716v2](http://arxiv.org/abs/2305.03716v2) | [**link**](https://github.com/xuxw98/dspdet3d) |
 | **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
@@ -69,7 +69,7 @@ layout: default
 | **2024/01/10** | SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation | Mengmeng Zhang et al. | [2401.04900v1](http://arxiv.org/abs/2401.04900v1) | **NULL** |
 | **2024/01/10** | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu et al. | [2401.04872v1](http://arxiv.org/abs/2401.04872v1) | **NULL** |
 | **2024/01/09** | T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge | Mauro Belgiovine et al. | [2401.04837v1](http://arxiv.org/abs/2401.04837v1) | [**link**](https://github.com/genesys-neu/t-prime) |
-| **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v1](http://arxiv.org/abs/2401.04658v1) | **NULL** |
+| **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v1](http://arxiv.org/abs/2401.04658v1) | [**link**](https://github.com/opennlplab/lightning-attention) |
 | **2024/01/09** | Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System | Galib Muhammad Shahriar Himel et al. | [2401.04746v1](http://arxiv.org/abs/2401.04746v1) | **NULL** |
 | **2024/01/08** | RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM | Ziying Song et al. | [2401.03907v1](http://arxiv.org/abs/2401.03907v1) | **NULL** |
 | **2024/01/08** | Gramformer: Learning Crowd Counting via Graph-Modulated Transformer | Hui Lin et al. | [2401.03870v1](http://arxiv.org/abs/2401.03870v1) | [**link**](https://github.com/LoraLinH/Gramformer) |
