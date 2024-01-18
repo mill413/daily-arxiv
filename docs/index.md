@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/17 08:48:23
+> Updated on 2024/01/18 08:47:45
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
+| **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | **NULL** |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
 | **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v1](http://arxiv.org/abs/2312.02528v1) | **NULL** |
@@ -46,14 +48,22 @@ layout: default
 | **2023/03/15** | Cascaded Zoom-in Detector for High Resolution Aerial Images | Akhil Meethal et al. | [2303.08747v1](http://arxiv.org/abs/2303.08747v1) | [**link**](https://github.com/akhilpm/dronedetectron2) |
 | **2023/03/06** | Automatic detection of aerial survey ground control points based on Yolov5-OBB | Cheng Chuanxiang et al. | [2303.03041v1](http://arxiv.org/abs/2303.03041v1) | **NULL** |
 | **2023/03/03** | Confidence-driven Bounding Box Localization for Small Object Detection | Huixin Sun et al. | [2303.01803v1](http://arxiv.org/abs/2303.01803v1) | **NULL** |
-| **2023/03/02** | Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection | Alina Ciocarlan et al. | [2303.01363v1](http://arxiv.org/abs/2303.01363v1) | **NULL** |
-| **2023/01/28** | Local Contrast and Global Contextual Information Make Infrared Small Object Salient Again | Chenyi Wang et al. | [2301.12093v3](http://arxiv.org/abs/2301.12093v3) | [**link**](https://github.com/wcyjerry/UCFnet) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v1](http://arxiv.org/abs/2401.08209v1) | **NULL** |
+| **2024/01/16** | Statistical Test for Attention Map in Vision Transformer | Tomohiro Shiraishi et al. | [2401.08169v1](http://arxiv.org/abs/2401.08169v1) | [**link**](https://github.com/shirara1016/statistical_test_for_vit_attention) |
+| **2024/01/16** | CycLight: learning traffic signal cooperation with a cycle-level strategy | Gengyue Han et al. | [2401.08121v1](http://arxiv.org/abs/2401.08121v1) | **NULL** |
+| **2024/01/16** | Attention-Based CNN-BiLSTM for Sleep State Classification of Spatiotemporal Wide-Field Calcium Imaging Data | Xiaohui Zhang et al. | [2401.08098v1](http://arxiv.org/abs/2401.08098v1) | [**link**](https://github.com/comp-imaging-sci/attention-based-bilstm-sleep-scoring) |
+| **2024/01/15** | PMFSNet: Polarized Multi-scale Feature Self-attention Network For Lightweight Medical Image Segmentation | Jiahui Zhong et al. | [2401.07579v1](http://arxiv.org/abs/2401.07579v1) | [**link**](https://github.com/yykzjh/pmfsnet) |
+| **2024/01/15** | Robust Semi-Supervised Learning for Self-learning Open-World Classes | Wenjuan Xi et al. | [2401.07551v1](http://arxiv.org/abs/2401.07551v1) | [**link**](https://github.com/njustkmg/ssoc) |
+| **2024/01/14** | Promptformer: Prompted Conformer Transducer for ASR | Sergio Duarte-Torres et al. | [2401.07360v1](http://arxiv.org/abs/2401.07360v1) | **NULL** |
+| **2024/01/14** | HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval | Zexuan Qiu et al. | [2401.07212v1](http://arxiv.org/abs/2401.07212v1) | **NULL** |
+| **2024/01/13** | Distance-aware Attention Reshaping: Enhance Generalization of Neural Solver for Large-scale Vehicle Routing Problems | Yang Wang et al. | [2401.06979v1](http://arxiv.org/abs/2401.06979v1) | **NULL** |
 | **2024/01/12** | Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text | Muskan Garg et al. | [2401.06709v1](http://arxiv.org/abs/2401.06709v1) | **NULL** |
+| **2024/01/12** | Cross-Attention Watermarking of Large Language Models | Folco Bertini Baldassini et al. | [2401.06829v1](http://arxiv.org/abs/2401.06829v1) | [**link**](https://gitlab.com/folbaeni/linguistic-watermark) |
 | **2024/01/12** | Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation | Thi Linh Hoang et al. | [2401.06436v1](http://arxiv.org/abs/2401.06436v1) | [**link**](https://github.com/linhthi/ts) |
 | **2024/01/12** | Mutual Distillation Learning For Person Re-Identification | Huiyuan Fu et al. | [2401.06430v1](http://arxiv.org/abs/2401.06430v1) | [**link**](https://github.com/kuilongcui/mdpr) |
 | **2024/01/11** | Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs | Yanying Zhou et al. | [2401.06226v1](http://arxiv.org/abs/2401.06226v1) | **NULL** |
@@ -69,20 +79,10 @@ layout: default
 | **2024/01/10** | SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation | Mengmeng Zhang et al. | [2401.04900v1](http://arxiv.org/abs/2401.04900v1) | **NULL** |
 | **2024/01/10** | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu et al. | [2401.04872v1](http://arxiv.org/abs/2401.04872v1) | **NULL** |
 | **2024/01/09** | T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge | Mauro Belgiovine et al. | [2401.04837v1](http://arxiv.org/abs/2401.04837v1) | [**link**](https://github.com/genesys-neu/t-prime) |
-| **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v1](http://arxiv.org/abs/2401.04658v1) | [**link**](https://github.com/opennlplab/lightning-attention) |
+| **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v2](http://arxiv.org/abs/2401.04658v2) | [**link**](https://github.com/opennlplab/lightning-attention) |
 | **2024/01/09** | Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System | Galib Muhammad Shahriar Himel et al. | [2401.04746v1](http://arxiv.org/abs/2401.04746v1) | **NULL** |
 | **2024/01/08** | RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM | Ziying Song et al. | [2401.03907v1](http://arxiv.org/abs/2401.03907v1) | **NULL** |
 | **2024/01/08** | Gramformer: Learning Crowd Counting via Graph-Modulated Transformer | Hui Lin et al. | [2401.03870v1](http://arxiv.org/abs/2401.03870v1) | [**link**](https://github.com/LoraLinH/Gramformer) |
-| **2024/01/08** | Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling | Jiawei Lu et al. | [2401.03692v1](http://arxiv.org/abs/2401.03692v1) | **NULL** |
-| **2024/01/07** | Text Classification Based on Knowledge Graphs and Improved Attention Mechanism | Siyu Li et al. | [2401.03591v1](http://arxiv.org/abs/2401.03591v1) | **NULL** |
-| **2024/01/06** | MetaISP -- Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition | Matheus Souza et al. | [2401.03220v1](http://arxiv.org/abs/2401.03220v1) | [**link**](https://github.com/vccimaging/MetaISP) |
-| **2024/01/05** | Generating Non-Stationary Textures using Self-Rectification | Yang Zhou et al. | [2401.02847v1](http://arxiv.org/abs/2401.02847v1) | [**link**](https://github.com/xiaorongjun000/self-rectification) |
-| **2024/01/05** | Two-stage Progressive Residual Dense Attention Network for Image Denoising | Wencong Wu et al. | [2401.02831v1](http://arxiv.org/abs/2401.02831v1) | **NULL** |
-| **2024/01/05** | Powerformer: A Section-adaptive Transformer for Power Flow Adjustment | Kaixuan Chen et al. | [2401.02771v2](http://arxiv.org/abs/2401.02771v2) | **NULL** |
-| **2024/01/05** | MAMI: Multi-Attentional Mutual-Information for Long Sequence Neuron Captioning | Alfirsa Damasyifa Fauzulhaq et al. | [2401.02744v1](http://arxiv.org/abs/2401.02744v1) | **NULL** |
-| **2024/01/05** | A Cost-Efficient FPGA Implementation of Tiny Transformer Model using Neural ODE | Ikumi Okubo et al. | [2401.02721v1](http://arxiv.org/abs/2401.02721v1) | **NULL** |
-| **2024/01/04** | Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition | Shadi Sartipi et al. | [2401.02344v1](http://arxiv.org/abs/2401.02344v1) | **NULL** |
-| **2024/01/04** | GridFormer: Point-Grid Transformer for Surface Reconstruction | Shengtao Li et al. | [2401.02292v1](http://arxiv.org/abs/2401.02292v1) | [**link**](https://github.com/list17/gridformer) |
 
 ## 背景差分
 
