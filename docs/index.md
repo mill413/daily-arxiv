@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/18 08:47:45
+> Updated on 2024/01/19 08:48:19
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/17** | Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery | Jia Jia et al. | [2401.09325v1](http://arxiv.org/abs/2401.09325v1) | **NULL** |
+| **2024/01/17** | Efficient Image Super-Resolution via Symmetric Visual Attention Network | Chengxu Wu et al. | [2401.08913v1](http://arxiv.org/abs/2401.08913v1) | **NULL** |
 | **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v1](http://arxiv.org/abs/2401.08209v1) | **NULL** |
 | **2024/01/16** | Statistical Test for Attention Map in Vision Transformer | Tomohiro Shiraishi et al. | [2401.08169v1](http://arxiv.org/abs/2401.08169v1) | [**link**](https://github.com/shirara1016/statistical_test_for_vit_attention) |
 | **2024/01/16** | CycLight: learning traffic signal cooperation with a cycle-level strategy | Gengyue Han et al. | [2401.08121v1](http://arxiv.org/abs/2401.08121v1) | **NULL** |
@@ -62,6 +64,7 @@ layout: default
 | **2024/01/14** | Promptformer: Prompted Conformer Transducer for ASR | Sergio Duarte-Torres et al. | [2401.07360v1](http://arxiv.org/abs/2401.07360v1) | **NULL** |
 | **2024/01/14** | HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval | Zexuan Qiu et al. | [2401.07212v1](http://arxiv.org/abs/2401.07212v1) | **NULL** |
 | **2024/01/13** | Distance-aware Attention Reshaping: Enhance Generalization of Neural Solver for Large-scale Vehicle Routing Problems | Yang Wang et al. | [2401.06979v1](http://arxiv.org/abs/2401.06979v1) | **NULL** |
+| **2024/01/12** | Zero-Shot RTL Code Generation with Attention Sink Augmented Large Language Models | Selim Sandal et al. | [2401.08683v1](http://arxiv.org/abs/2401.08683v1) | **NULL** |
 | **2024/01/12** | Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text | Muskan Garg et al. | [2401.06709v1](http://arxiv.org/abs/2401.06709v1) | **NULL** |
 | **2024/01/12** | Cross-Attention Watermarking of Large Language Models | Folco Bertini Baldassini et al. | [2401.06829v1](http://arxiv.org/abs/2401.06829v1) | [**link**](https://gitlab.com/folbaeni/linguistic-watermark) |
 | **2024/01/12** | Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation | Thi Linh Hoang et al. | [2401.06436v1](http://arxiv.org/abs/2401.06436v1) | [**link**](https://github.com/linhthi/ts) |
@@ -80,9 +83,6 @@ layout: default
 | **2024/01/10** | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu et al. | [2401.04872v1](http://arxiv.org/abs/2401.04872v1) | **NULL** |
 | **2024/01/09** | T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge | Mauro Belgiovine et al. | [2401.04837v1](http://arxiv.org/abs/2401.04837v1) | [**link**](https://github.com/genesys-neu/t-prime) |
 | **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v2](http://arxiv.org/abs/2401.04658v2) | [**link**](https://github.com/opennlplab/lightning-attention) |
-| **2024/01/09** | Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System | Galib Muhammad Shahriar Himel et al. | [2401.04746v1](http://arxiv.org/abs/2401.04746v1) | **NULL** |
-| **2024/01/08** | RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM | Ziying Song et al. | [2401.03907v1](http://arxiv.org/abs/2401.03907v1) | **NULL** |
-| **2024/01/08** | Gramformer: Learning Crowd Counting via Graph-Modulated Transformer | Hui Lin et al. | [2401.03870v1](http://arxiv.org/abs/2401.03870v1) | [**link**](https://github.com/LoraLinH/Gramformer) |
 
 ## 背景差分
 
