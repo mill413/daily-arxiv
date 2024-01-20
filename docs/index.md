@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/19 08:48:19
+> Updated on 2024/01/20 08:47:24
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/18** | Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation | Changgu Chen et al. | [2401.10150v1](http://arxiv.org/abs/2401.10150v1) | **NULL** |
+| **2024/01/18** | MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection | Guanxiong Sun et al. | [2401.09923v1](http://arxiv.org/abs/2401.09923v1) | **NULL** |
+| **2024/01/18** | Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance | Xuan Zhang et al. | [2401.09724v1](http://arxiv.org/abs/2401.09724v1) | [**link**](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users) |
+| **2024/01/17** | Efficient generative adversarial networks using linear additive-attention Transformers | Emilio Morales-Juarez et al. | [2401.09596v1](http://arxiv.org/abs/2401.09596v1) | **NULL** |
 | **2024/01/17** | Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery | Jia Jia et al. | [2401.09325v1](http://arxiv.org/abs/2401.09325v1) | **NULL** |
 | **2024/01/17** | Efficient Image Super-Resolution via Symmetric Visual Attention Network | Chengxu Wu et al. | [2401.08913v1](http://arxiv.org/abs/2401.08913v1) | **NULL** |
-| **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v1](http://arxiv.org/abs/2401.08209v1) | **NULL** |
+| **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v2](http://arxiv.org/abs/2401.08209v2) | [**link**](https://github.com/labshuhanggu/adaptive-token-dictionary) |
 | **2024/01/16** | Statistical Test for Attention Map in Vision Transformer | Tomohiro Shiraishi et al. | [2401.08169v1](http://arxiv.org/abs/2401.08169v1) | [**link**](https://github.com/shirara1016/statistical_test_for_vit_attention) |
 | **2024/01/16** | CycLight: learning traffic signal cooperation with a cycle-level strategy | Gengyue Han et al. | [2401.08121v1](http://arxiv.org/abs/2401.08121v1) | **NULL** |
 | **2024/01/16** | Attention-Based CNN-BiLSTM for Sleep State Classification of Spatiotemporal Wide-Field Calcium Imaging Data | Xiaohui Zhang et al. | [2401.08098v1](http://arxiv.org/abs/2401.08098v1) | [**link**](https://github.com/comp-imaging-sci/attention-based-bilstm-sleep-scoring) |
@@ -79,10 +83,6 @@ layout: default
 | **2024/01/10** | Watermark Text Pattern Spotting in Document Images | Mateusz Krubiński et al. | [2401.05167v2](http://arxiv.org/abs/2401.05167v2) | **NULL** |
 | **2024/01/10** | EmMixformer: Mix transformer for eye movement recognition | Huafeng Qin et al. | [2401.04956v1](http://arxiv.org/abs/2401.04956v1) | **NULL** |
 | **2024/01/10** | Deep Learning Based Resource Allocation for Full-duplex Device-to-Device Communication | Xinxin Zhang et al. | [2401.04906v1](http://arxiv.org/abs/2401.04906v1) | **NULL** |
-| **2024/01/10** | SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation | Mengmeng Zhang et al. | [2401.04900v1](http://arxiv.org/abs/2401.04900v1) | **NULL** |
-| **2024/01/10** | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu et al. | [2401.04872v1](http://arxiv.org/abs/2401.04872v1) | **NULL** |
-| **2024/01/09** | T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge | Mauro Belgiovine et al. | [2401.04837v1](http://arxiv.org/abs/2401.04837v1) | [**link**](https://github.com/genesys-neu/t-prime) |
-| **2024/01/09** | Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models | Zhen Qin et al. | [2401.04658v2](http://arxiv.org/abs/2401.04658v2) | [**link**](https://github.com/opennlplab/lightning-attention) |
 
 ## 背景差分
 
