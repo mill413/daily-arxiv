@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/23 08:49:33
+> Updated on 2024/01/24 08:49:58
 
 <summary>Table of Contents</summary>
 
@@ -53,14 +53,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/22** | HgbNet: predicting hemoglobin level/anemia degree from EHR data | Zhuo Zhi et al. | [2401.12002v1](http://arxiv.org/abs/2401.12002v1) | **NULL** |
+| **2024/01/22** | The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting | Jinliang Deng et al. | [2401.11929v1](http://arxiv.org/abs/2401.11929v1) | **NULL** |
+| **2024/01/22** | LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution | Feiwei Qin et al. | [2401.11859v1](http://arxiv.org/abs/2401.11859v1) | [**link**](https://github.com/sad192/large-kernel-transformer) |
+| **2024/01/22** | Collaborative Position Reasoning Network for Referring Image Segmentation | Jianjian Cao et al. | [2401.11775v1](http://arxiv.org/abs/2401.11775v1) | **NULL** |
+| **2024/01/22** | Attention on Personalized Clinical Decision Support System: Federated Learning Approach | Chu Myaet Thwal et al. | [2401.11736v1](http://arxiv.org/abs/2401.11736v1) | **NULL** |
+| **2024/01/22** | TIM: An Efficient Temporal Interaction Module for Spiking Transformer | Sicheng Shen et al. | [2401.11687v1](http://arxiv.org/abs/2401.11687v1) | **NULL** |
+| **2024/01/22** | Rethinking Cross-Attention for Infrared and Visible Image Fusion | Lihua Jian et al. | [2401.11675v1](http://arxiv.org/abs/2401.11675v1) | **NULL** |
+| **2024/01/22** | MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo | Chenjie Cao et al. | [2401.11673v1](http://arxiv.org/abs/2401.11673v1) | **NULL** |
+| **2024/01/22** | Streaming Bilingual End-to-End ASR model using Attention over Multiple Softmax | Aditya Patil et al. | [2401.11645v1](http://arxiv.org/abs/2401.11645v1) | **NULL** |
+| **2024/01/20** | DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection | Lixu Wang et al. | [2401.11271v1](http://arxiv.org/abs/2401.11271v1) | **NULL** |
+| **2024/01/20** | Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks | Songjie Xie et al. | [2401.11155v1](http://arxiv.org/abs/2401.11155v1) | **NULL** |
+| **2024/01/20** | Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities | Georgios Ioannides et al. | [2401.11143v1](http://arxiv.org/abs/2401.11143v1) | **NULL** |
+| **2024/01/20** | SPAND: Sleep Prediction Architecture using Network Dynamics | Maryam Khalid et al. | [2401.11113v1](http://arxiv.org/abs/2401.11113v1) | **NULL** |
+| **2024/01/19** | Federated Learning with Dual Attention for Robust Modulation Classification under Attacks | Han Zhang et al. | [2401.11039v1](http://arxiv.org/abs/2401.11039v1) | **NULL** |
 | **2024/01/19** | Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads | Tianle Cai et al. | [2401.10774v1](http://arxiv.org/abs/2401.10774v1) | [**link**](https://github.com/fasterdecoding/medusa) |
+| **2024/01/19** | Dynamic Semantic Compression for CNN Inference in Multi-access Edge Computing: A Graph Reinforcement Learning-based Autoencoder | Nan Li et al. | [2401.12167v1](http://arxiv.org/abs/2401.12167v1) | **NULL** |
 | **2024/01/19** | DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval | Xiangpeng Yang et al. | [2401.10588v1](http://arxiv.org/abs/2401.10588v1) | **NULL** |
 | **2024/01/19** | Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting | Bo Zhao et al. | [2401.10537v1](http://arxiv.org/abs/2401.10537v1) | **NULL** |
 | **2024/01/18** | Using LLM such as ChatGPT for Designing and Implementing a RISC Processor: Execution,Challenges and Limitations | Shadeeb Hossain et al. | [2401.10364v1](http://arxiv.org/abs/2401.10364v1) | [**link**](https://github.com/Shadeeb-Hossain/LLM-for-RISC/blob/main/RISC_LLM.rar) |
-| **2024/01/18** | Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation | Changgu Chen et al. | [2401.10150v2](http://arxiv.org/abs/2401.10150v2) | **NULL** |
+| **2024/01/18** | Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation | Changgu Chen et al. | [2401.10150v3](http://arxiv.org/abs/2401.10150v3) | **NULL** |
 | **2024/01/18** | MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection | Guanxiong Sun et al. | [2401.09923v1](http://arxiv.org/abs/2401.09923v1) | **NULL** |
 | **2024/01/18** | Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance | Xuan Zhang et al. | [2401.09724v1](http://arxiv.org/abs/2401.09724v1) | [**link**](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users) |
-| **2024/01/17** | Efficient generative adversarial networks using linear additive-attention Transformers | Emilio Morales-Juarez et al. | [2401.09596v1](http://arxiv.org/abs/2401.09596v1) | **NULL** |
+| **2024/01/17** | Efficient generative adversarial networks using linear additive-attention Transformers | Emilio Morales-Juarez et al. | [2401.09596v1](http://arxiv.org/abs/2401.09596v1) | [**link**](https://github.com/milmor/ladagan) |
 | **2024/01/17** | Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery | Jia Jia et al. | [2401.09325v1](http://arxiv.org/abs/2401.09325v1) | **NULL** |
 | **2024/01/17** | Efficient Image Super-Resolution via Symmetric Visual Attention Network | Chengxu Wu et al. | [2401.08913v1](http://arxiv.org/abs/2401.08913v1) | **NULL** |
 | **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v2](http://arxiv.org/abs/2401.08209v2) | [**link**](https://github.com/labshuhanggu/adaptive-token-dictionary) |
@@ -68,21 +83,6 @@ layout: default
 | **2024/01/16** | CycLight: learning traffic signal cooperation with a cycle-level strategy | Gengyue Han et al. | [2401.08121v1](http://arxiv.org/abs/2401.08121v1) | **NULL** |
 | **2024/01/16** | Attention-Based CNN-BiLSTM for Sleep State Classification of Spatiotemporal Wide-Field Calcium Imaging Data | Xiaohui Zhang et al. | [2401.08098v1](http://arxiv.org/abs/2401.08098v1) | [**link**](https://github.com/comp-imaging-sci/attention-based-bilstm-sleep-scoring) |
 | **2024/01/15** | PMFSNet: Polarized Multi-scale Feature Self-attention Network For Lightweight Medical Image Segmentation | Jiahui Zhong et al. | [2401.07579v1](http://arxiv.org/abs/2401.07579v1) | [**link**](https://github.com/yykzjh/pmfsnet) |
-| **2024/01/15** | Robust Semi-Supervised Learning for Self-learning Open-World Classes | Wenjuan Xi et al. | [2401.07551v1](http://arxiv.org/abs/2401.07551v1) | [**link**](https://github.com/njustkmg/ssoc) |
-| **2024/01/14** | Promptformer: Prompted Conformer Transducer for ASR | Sergio Duarte-Torres et al. | [2401.07360v1](http://arxiv.org/abs/2401.07360v1) | **NULL** |
-| **2024/01/14** | HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval | Zexuan Qiu et al. | [2401.07212v1](http://arxiv.org/abs/2401.07212v1) | **NULL** |
-| **2024/01/13** | Distance-aware Attention Reshaping: Enhance Generalization of Neural Solver for Large-scale Vehicle Routing Problems | Yang Wang et al. | [2401.06979v1](http://arxiv.org/abs/2401.06979v1) | **NULL** |
-| **2024/01/12** | Zero-Shot RTL Code Generation with Attention Sink Augmented Large Language Models | Selim Sandal et al. | [2401.08683v1](http://arxiv.org/abs/2401.08683v1) | **NULL** |
-| **2024/01/12** | Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text | Muskan Garg et al. | [2401.06709v1](http://arxiv.org/abs/2401.06709v1) | **NULL** |
-| **2024/01/12** | Cross-Attention Watermarking of Large Language Models | Folco Bertini Baldassini et al. | [2401.06829v1](http://arxiv.org/abs/2401.06829v1) | [**link**](https://gitlab.com/folbaeni/linguistic-watermark) |
-| **2024/01/12** | Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation | Thi Linh Hoang et al. | [2401.06436v1](http://arxiv.org/abs/2401.06436v1) | [**link**](https://github.com/linhthi/ts) |
-| **2024/01/12** | Mutual Distillation Learning For Person Re-Identification | Huiyuan Fu et al. | [2401.06430v1](http://arxiv.org/abs/2401.06430v1) | [**link**](https://github.com/kuilongcui/mdpr) |
-| **2024/01/11** | Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs | Yanying Zhou et al. | [2401.06226v1](http://arxiv.org/abs/2401.06226v1) | **NULL** |
-| **2024/01/11** | Leveraging Frequency Domain Learning in 3D Vessel Segmentation | Xinyuan Wang et al. | [2401.06224v1](http://arxiv.org/abs/2401.06224v1) | **NULL** |
-| **2024/01/11** | Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation | Yicong Li et al. | [2401.05744v1](http://arxiv.org/abs/2401.05744v1) | **NULL** |
-| **2024/01/11** | LKCA: Large Kernel Convolutional Attention | Chenghao Li et al. | [2401.05738v1](http://arxiv.org/abs/2401.05738v1) | **NULL** |
-| **2024/01/11** | Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach | Gang Wu et al. | [2401.05633v1](http://arxiv.org/abs/2401.05633v1) | [**link**](https://github.com/aitical/cfsr) |
-| **2024/01/11** | Self-Attention and Hybrid Features for Replay and Deep-Fake Audio Detection | Lian Huang et al. | [2401.05614v1](http://arxiv.org/abs/2401.05614v1) | **NULL** |
 
 ## 背景差分
 
