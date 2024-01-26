@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/25 08:49:23
+> Updated on 2024/01/26 08:44:18
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/23** | Deep Spatiotemporal Clutter Filtering of Transthoracic Echocardiographic Images Using a 3D Convolutional Auto-Encoder | Mahdi Tabassian et al. | [2401.13147v1](http://arxiv.org/abs/2401.13147v1) | [**link**](https://github.com/mahditabassian/deep-clutter-filtering) |
+| **2024/01/23** | PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion | Shyam Sundar Kannan et al. | [2401.13082v1](http://arxiv.org/abs/2401.13082v1) | **NULL** |
+| **2024/01/23** | A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications | Mohammad Shamsesalehi et al. | [2401.13059v1](http://arxiv.org/abs/2401.13059v1) | **NULL** |
 | **2024/01/23** | EL-VIT: Probing Vision Transformer with Interactive Visualization | Hong Zhou et al. | [2401.12666v1](http://arxiv.org/abs/2401.12666v1) | **NULL** |
 | **2024/01/23** | ToDA: Target-oriented Diffusion Attacker against Recommendation System | Xiaohao Liu et al. | [2401.12578v1](http://arxiv.org/abs/2401.12578v1) | **NULL** |
 | **2024/01/23** | InfoRank: Unbiased Learning-to-Rank via Conditional Mutual Information Minimization | Jiarui Jin et al. | [2401.12553v1](http://arxiv.org/abs/2401.12553v1) | **NULL** |
 | **2024/01/23** | MAST: Video Polyp Segmentation with a Mixture-Attention Siamese Transformer | Geng Chen et al. | [2401.12439v1](http://arxiv.org/abs/2401.12439v1) | [**link**](https://github.com/junqing-yang/mast) |
 | **2024/01/22** | HgbNet: predicting hemoglobin level/anemia degree from EHR data | Zhuo Zhi et al. | [2401.12002v1](http://arxiv.org/abs/2401.12002v1) | **NULL** |
 | **2024/01/22** | The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting | Jinliang Deng et al. | [2401.11929v1](http://arxiv.org/abs/2401.11929v1) | **NULL** |
-| **2024/01/22** | LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution | Feiwei Qin et al. | [2401.11859v1](http://arxiv.org/abs/2401.11859v1) | [**link**](https://github.com/sad192/large-kernel-transformer) |
+| **2024/01/22** | LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution | Feiwei Qin et al. | [2401.11859v2](http://arxiv.org/abs/2401.11859v2) | [**link**](https://github.com/sad192/large-kernel-transformer) |
 | **2024/01/22** | Collaborative Position Reasoning Network for Referring Image Segmentation | Jianjian Cao et al. | [2401.11775v1](http://arxiv.org/abs/2401.11775v1) | **NULL** |
 | **2024/01/22** | Attention on Personalized Clinical Decision Support System: Federated Learning Approach | Chu Myaet Thwal et al. | [2401.11736v1](http://arxiv.org/abs/2401.11736v1) | **NULL** |
 | **2024/01/22** | TIM: An Efficient Temporal Interaction Module for Spiking Transformer | Sicheng Shen et al. | [2401.11687v2](http://arxiv.org/abs/2401.11687v2) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2024/01/18** | MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection | Guanxiong Sun et al. | [2401.09923v1](http://arxiv.org/abs/2401.09923v1) | **NULL** |
 | **2024/01/18** | Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance | Xuan Zhang et al. | [2401.09724v1](http://arxiv.org/abs/2401.09724v1) | [**link**](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users) |
 | **2024/01/17** | Efficient generative adversarial networks using linear additive-attention Transformers | Emilio Morales-Juarez et al. | [2401.09596v1](http://arxiv.org/abs/2401.09596v1) | [**link**](https://github.com/milmor/ladagan) |
-| **2024/01/17** | Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery | Jia Jia et al. | [2401.09325v1](http://arxiv.org/abs/2401.09325v1) | **NULL** |
-| **2024/01/17** | Efficient Image Super-Resolution via Symmetric Visual Attention Network | Chengxu Wu et al. | [2401.08913v1](http://arxiv.org/abs/2401.08913v1) | **NULL** |
-| **2024/01/16** | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | Leheng Zhang et al. | [2401.08209v2](http://arxiv.org/abs/2401.08209v2) | [**link**](https://github.com/labshuhanggu/adaptive-token-dictionary) |
 
 ## 背景差分
 
