@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/26 08:44:18
+> Updated on 2024/01/27 08:43:57
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/25** | Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease | Yihao Lin et al. | [2401.14130v1](http://arxiv.org/abs/2401.14130v1) | **NULL** |
+| **2024/01/25** | GQHAN: A Grover-inspired Quantum Hard Attention Network | Ren-Xin Zhao et al. | [2401.14089v1](http://arxiv.org/abs/2401.14089v1) | **NULL** |
+| **2024/01/25** | CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion | Nisha Huang et al. | [2401.14066v1](http://arxiv.org/abs/2401.14066v1) | [**link**](https://github.com/haha-lisa/creativesynth) |
+| **2024/01/25** | On the Feasibility of Simple Transformer for Dynamic Graph Modeling | Yuxia Wu et al. | [2401.14009v1](http://arxiv.org/abs/2401.14009v1) | **NULL** |
+| **2024/01/25** | Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention | Quang-Trung Truong et al. | [2401.13937v1](http://arxiv.org/abs/2401.13937v1) | **NULL** |
+| **2024/01/25** | Edge Conditional Node Update Graph Neural Network for Multi-variate Time Series Anomaly Detection | Hayoung Jo et al. | [2401.13872v1](http://arxiv.org/abs/2401.13872v1) | **NULL** |
+| **2024/01/24** | LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection | Dat Nguyen et al. | [2401.13856v1](http://arxiv.org/abs/2401.13856v1) | **NULL** |
 | **2024/01/23** | Deep Spatiotemporal Clutter Filtering of Transthoracic Echocardiographic Images Using a 3D Convolutional Auto-Encoder | Mahdi Tabassian et al. | [2401.13147v1](http://arxiv.org/abs/2401.13147v1) | [**link**](https://github.com/mahditabassian/deep-clutter-filtering) |
 | **2024/01/23** | PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion | Shyam Sundar Kannan et al. | [2401.13082v1](http://arxiv.org/abs/2401.13082v1) | **NULL** |
 | **2024/01/23** | A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications | Mohammad Shamsesalehi et al. | [2401.13059v1](http://arxiv.org/abs/2401.13059v1) | **NULL** |
@@ -70,19 +77,12 @@ layout: default
 | **2024/01/22** | MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo | Chenjie Cao et al. | [2401.11673v1](http://arxiv.org/abs/2401.11673v1) | **NULL** |
 | **2024/01/22** | Streaming Bilingual End-to-End ASR model using Attention over Multiple Softmax | Aditya Patil et al. | [2401.11645v1](http://arxiv.org/abs/2401.11645v1) | **NULL** |
 | **2024/01/20** | DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection | Lixu Wang et al. | [2401.11271v1](http://arxiv.org/abs/2401.11271v1) | **NULL** |
-| **2024/01/20** | Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks | Songjie Xie et al. | [2401.11155v1](http://arxiv.org/abs/2401.11155v1) | **NULL** |
+| **2024/01/20** | Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks | Songjie Xie et al. | [2401.11155v1](http://arxiv.org/abs/2401.11155v1) | [**link**](https://github.com/songjiexie/hyper-ajscc) |
 | **2024/01/20** | Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities | Georgios Ioannides et al. | [2401.11143v1](http://arxiv.org/abs/2401.11143v1) | **NULL** |
 | **2024/01/20** | SPAND: Sleep Prediction Architecture using Network Dynamics | Maryam Khalid et al. | [2401.11113v1](http://arxiv.org/abs/2401.11113v1) | **NULL** |
 | **2024/01/19** | Federated Learning with Dual Attention for Robust Modulation Classification under Attacks | Han Zhang et al. | [2401.11039v1](http://arxiv.org/abs/2401.11039v1) | **NULL** |
 | **2024/01/19** | Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads | Tianle Cai et al. | [2401.10774v1](http://arxiv.org/abs/2401.10774v1) | [**link**](https://github.com/fasterdecoding/medusa) |
 | **2024/01/19** | Dynamic Semantic Compression for CNN Inference in Multi-access Edge Computing: A Graph Reinforcement Learning-based Autoencoder | Nan Li et al. | [2401.12167v1](http://arxiv.org/abs/2401.12167v1) | **NULL** |
-| **2024/01/19** | DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval | Xiangpeng Yang et al. | [2401.10588v1](http://arxiv.org/abs/2401.10588v1) | **NULL** |
-| **2024/01/19** | Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting | Bo Zhao et al. | [2401.10537v1](http://arxiv.org/abs/2401.10537v1) | **NULL** |
-| **2024/01/18** | Using LLM such as ChatGPT for Designing and Implementing a RISC Processor: Execution,Challenges and Limitations | Shadeeb Hossain et al. | [2401.10364v1](http://arxiv.org/abs/2401.10364v1) | [**link**](https://github.com/Shadeeb-Hossain/LLM-for-RISC/blob/main/RISC_LLM.rar) |
-| **2024/01/18** | Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation | Changgu Chen et al. | [2401.10150v3](http://arxiv.org/abs/2401.10150v3) | **NULL** |
-| **2024/01/18** | MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection | Guanxiong Sun et al. | [2401.09923v1](http://arxiv.org/abs/2401.09923v1) | **NULL** |
-| **2024/01/18** | Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance | Xuan Zhang et al. | [2401.09724v1](http://arxiv.org/abs/2401.09724v1) | [**link**](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users) |
-| **2024/01/17** | Efficient generative adversarial networks using linear additive-attention Transformers | Emilio Morales-Juarez et al. | [2401.09596v1](http://arxiv.org/abs/2401.09596v1) | [**link**](https://github.com/milmor/ladagan) |
 
 ## 背景差分
 
