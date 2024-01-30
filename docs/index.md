@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/29 08:44:22
+> Updated on 2024/01/30 08:43:58
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/26** | On the generalization capacity of neural networks during generic multimodal reasoning | Takuya Ito et al. | [2401.15030v1](http://arxiv.org/abs/2401.15030v1) | **NULL** |
+| **2024/01/26** | Endowing Protein Language Models with Structural Knowledge | Dexiong Chen et al. | [2401.14819v1](http://arxiv.org/abs/2401.14819v1) | **NULL** |
+| **2024/01/26** | SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization | Yanlin Wang et al. | [2401.14727v1](http://arxiv.org/abs/2401.14727v1) | **NULL** |
+| **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | **NULL** |
 | **2024/01/25** | Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease | Yihao Lin et al. | [2401.14130v1](http://arxiv.org/abs/2401.14130v1) | **NULL** |
 | **2024/01/25** | GQHAN: A Grover-inspired Quantum Hard Attention Network | Ren-Xin Zhao et al. | [2401.14089v1](http://arxiv.org/abs/2401.14089v1) | **NULL** |
 | **2024/01/25** | CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion | Nisha Huang et al. | [2401.14066v1](http://arxiv.org/abs/2401.14066v1) | [**link**](https://github.com/haha-lisa/creativesynth) |
@@ -78,11 +82,7 @@ layout: default
 | **2024/01/22** | Streaming Bilingual End-to-End ASR model using Attention over Multiple Softmax | Aditya Patil et al. | [2401.11645v1](http://arxiv.org/abs/2401.11645v1) | **NULL** |
 | **2024/01/20** | DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection | Lixu Wang et al. | [2401.11271v1](http://arxiv.org/abs/2401.11271v1) | **NULL** |
 | **2024/01/20** | Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks | Songjie Xie et al. | [2401.11155v1](http://arxiv.org/abs/2401.11155v1) | [**link**](https://github.com/songjiexie/hyper-ajscc) |
-| **2024/01/20** | Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities | Georgios Ioannides et al. | [2401.11143v1](http://arxiv.org/abs/2401.11143v1) | **NULL** |
-| **2024/01/20** | SPAND: Sleep Prediction Architecture using Network Dynamics | Maryam Khalid et al. | [2401.11113v1](http://arxiv.org/abs/2401.11113v1) | **NULL** |
-| **2024/01/19** | Federated Learning with Dual Attention for Robust Modulation Classification under Attacks | Han Zhang et al. | [2401.11039v1](http://arxiv.org/abs/2401.11039v1) | **NULL** |
-| **2024/01/19** | Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads | Tianle Cai et al. | [2401.10774v1](http://arxiv.org/abs/2401.10774v1) | [**link**](https://github.com/fasterdecoding/medusa) |
-| **2024/01/19** | Dynamic Semantic Compression for CNN Inference in Multi-access Edge Computing: A Graph Reinforcement Learning-based Autoencoder | Nan Li et al. | [2401.12167v1](http://arxiv.org/abs/2401.12167v1) | **NULL** |
+| **2024/01/20** | Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities | Georgios Ioannides et al. | [2401.11143v2](http://arxiv.org/abs/2401.11143v2) | **NULL** |
 
 ## 背景差分
 
