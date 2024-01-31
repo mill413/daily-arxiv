@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/30 08:43:58
+> Updated on 2024/01/31 08:43:57
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/29** | Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction | Zhixin Huang et al. | [2401.15964v1](http://arxiv.org/abs/2401.15964v1) | **NULL** |
+| **2024/01/29** | EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization | Xueming Yan et al. | [2401.15931v1](http://arxiv.org/abs/2401.15931v1) | **NULL** |
+| **2024/01/29** | MV2MAE: Multi-View Video Masked Autoencoders | Ketul Shah et al. | [2401.15900v1](http://arxiv.org/abs/2401.15900v1) | **NULL** |
+| **2024/01/29** | A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs | Yun Young Choi et al. | [2401.15894v1](http://arxiv.org/abs/2401.15894v1) | **NULL** |
+| **2024/01/29** | DrBERT: Unveiling the Potential of Masked Language Modeling Decoder in BERT pretraining | Wen Liang et al. | [2401.15861v1](http://arxiv.org/abs/2401.15861v1) | **NULL** |
+| **2024/01/29** | Attentive Convolutional Deep Reinforcement Learning for Optimizing Solar-Storage Systems in Real-Time Electricity Markets | Jinhao Li et al. | [2401.15853v1](http://arxiv.org/abs/2401.15853v1) | **NULL** |
+| **2024/01/29** | Deep Reinforcement Learning for Voltage Control and Renewable Accommodation Using Spatial-Temporal Graph Information | Jinhao Li et al. | [2401.15848v1](http://arxiv.org/abs/2401.15848v1) | **NULL** |
+| **2024/01/26** | Deep Learning with Tabular Data: A Self-supervised Approach | Tirth Kiranbhai Vyas | [2401.15238v1](http://arxiv.org/abs/2401.15238v1) | **NULL** |
+| **2024/01/26** | CascadedGaze: Efficiency in Global Context Extraction for Image Restoration | Amirhosein Ghasemabadi et al. | [2401.15235v1](http://arxiv.org/abs/2401.15235v1) | **NULL** |
 | **2024/01/26** | On the generalization capacity of neural networks during generic multimodal reasoning | Takuya Ito et al. | [2401.15030v1](http://arxiv.org/abs/2401.15030v1) | **NULL** |
-| **2024/01/26** | Endowing Protein Language Models with Structural Knowledge | Dexiong Chen et al. | [2401.14819v1](http://arxiv.org/abs/2401.14819v1) | **NULL** |
+| **2024/01/26** | Endowing Protein Language Models with Structural Knowledge | Dexiong Chen et al. | [2401.14819v1](http://arxiv.org/abs/2401.14819v1) | [**link**](https://github.com/borgwardtlab/pst) |
 | **2024/01/26** | SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization | Yanlin Wang et al. | [2401.14727v1](http://arxiv.org/abs/2401.14727v1) | **NULL** |
-| **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | **NULL** |
+| **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | [**link**](https://github.com/bozdaglab/ta-rnn) |
 | **2024/01/25** | Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease | Yihao Lin et al. | [2401.14130v1](http://arxiv.org/abs/2401.14130v1) | **NULL** |
 | **2024/01/25** | GQHAN: A Grover-inspired Quantum Hard Attention Network | Ren-Xin Zhao et al. | [2401.14089v1](http://arxiv.org/abs/2401.14089v1) | **NULL** |
-| **2024/01/25** | CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion | Nisha Huang et al. | [2401.14066v1](http://arxiv.org/abs/2401.14066v1) | [**link**](https://github.com/haha-lisa/creativesynth) |
+| **2024/01/25** | CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion | Nisha Huang et al. | [2401.14066v1](http://arxiv.org/abs/2401.14066v1) | **NULL** |
 | **2024/01/25** | On the Feasibility of Simple Transformer for Dynamic Graph Modeling | Yuxia Wu et al. | [2401.14009v1](http://arxiv.org/abs/2401.14009v1) | **NULL** |
 | **2024/01/25** | Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention | Quang-Trung Truong et al. | [2401.13937v1](http://arxiv.org/abs/2401.13937v1) | **NULL** |
 | **2024/01/25** | Edge Conditional Node Update Graph Neural Network for Multi-variate Time Series Anomaly Detection | Hayoung Jo et al. | [2401.13872v1](http://arxiv.org/abs/2401.13872v1) | **NULL** |
@@ -71,18 +80,9 @@ layout: default
 | **2024/01/23** | ToDA: Target-oriented Diffusion Attacker against Recommendation System | Xiaohao Liu et al. | [2401.12578v1](http://arxiv.org/abs/2401.12578v1) | **NULL** |
 | **2024/01/23** | InfoRank: Unbiased Learning-to-Rank via Conditional Mutual Information Minimization | Jiarui Jin et al. | [2401.12553v1](http://arxiv.org/abs/2401.12553v1) | **NULL** |
 | **2024/01/23** | MAST: Video Polyp Segmentation with a Mixture-Attention Siamese Transformer | Geng Chen et al. | [2401.12439v1](http://arxiv.org/abs/2401.12439v1) | [**link**](https://github.com/junqing-yang/mast) |
+| **2024/01/22** | Accelerating Material Property Prediction using Generically Complete Isometry Invariants | Jonathan Balasingham et al. | [2401.15089v1](http://arxiv.org/abs/2401.15089v1) | **NULL** |
 | **2024/01/22** | HgbNet: predicting hemoglobin level/anemia degree from EHR data | Zhuo Zhi et al. | [2401.12002v1](http://arxiv.org/abs/2401.12002v1) | **NULL** |
 | **2024/01/22** | The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting | Jinliang Deng et al. | [2401.11929v1](http://arxiv.org/abs/2401.11929v1) | **NULL** |
-| **2024/01/22** | LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution | Feiwei Qin et al. | [2401.11859v2](http://arxiv.org/abs/2401.11859v2) | [**link**](https://github.com/sad192/large-kernel-transformer) |
-| **2024/01/22** | Collaborative Position Reasoning Network for Referring Image Segmentation | Jianjian Cao et al. | [2401.11775v1](http://arxiv.org/abs/2401.11775v1) | **NULL** |
-| **2024/01/22** | Attention on Personalized Clinical Decision Support System: Federated Learning Approach | Chu Myaet Thwal et al. | [2401.11736v1](http://arxiv.org/abs/2401.11736v1) | **NULL** |
-| **2024/01/22** | TIM: An Efficient Temporal Interaction Module for Spiking Transformer | Sicheng Shen et al. | [2401.11687v2](http://arxiv.org/abs/2401.11687v2) | **NULL** |
-| **2024/01/22** | Rethinking Cross-Attention for Infrared and Visible Image Fusion | Lihua Jian et al. | [2401.11675v1](http://arxiv.org/abs/2401.11675v1) | **NULL** |
-| **2024/01/22** | MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo | Chenjie Cao et al. | [2401.11673v1](http://arxiv.org/abs/2401.11673v1) | **NULL** |
-| **2024/01/22** | Streaming Bilingual End-to-End ASR model using Attention over Multiple Softmax | Aditya Patil et al. | [2401.11645v1](http://arxiv.org/abs/2401.11645v1) | **NULL** |
-| **2024/01/20** | DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection | Lixu Wang et al. | [2401.11271v1](http://arxiv.org/abs/2401.11271v1) | **NULL** |
-| **2024/01/20** | Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks | Songjie Xie et al. | [2401.11155v1](http://arxiv.org/abs/2401.11155v1) | [**link**](https://github.com/songjiexie/hyper-ajscc) |
-| **2024/01/20** | Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities | Georgios Ioannides et al. | [2401.11143v2](http://arxiv.org/abs/2401.11143v2) | **NULL** |
 
 ## 背景差分
 
