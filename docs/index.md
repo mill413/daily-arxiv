@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/01 08:46:30
+> Updated on 2024/02/02 08:44:08
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/01/31** | HyperZ$\cdot$Z$\cdot$W Operator Connects Slow-Fast Networks for Full Context Interaction | Harvie Zhang | [2401.17948v1](http://arxiv.org/abs/2401.17948v1) | **NULL** |
+| **2024/01/31** | Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning | Erwan Escudie et al. | [2401.17914v1](http://arxiv.org/abs/2401.17914v1) | **NULL** |
+| **2024/01/31** | Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication | Zikai Feng et al. | [2401.17880v1](http://arxiv.org/abs/2401.17880v1) | **NULL** |
+| **2024/01/31** | Graph Transformers without Positional Encodings | Ayush Garg | [2401.17791v1](http://arxiv.org/abs/2401.17791v1) | **NULL** |
+| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v1](http://arxiv.org/abs/2401.17612v1) | **NULL** |
+| **2024/01/31** | Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition | Lei Liu et al. | [2401.17604v1](http://arxiv.org/abs/2401.17604v1) | **NULL** |
+| **2024/01/31** | Scavenging Hyena: Distilling Transformers into Long Convolution Models | Tokiniaina Raharison Ralambomihanta et al. | [2401.17574v1](http://arxiv.org/abs/2401.17574v1) | **NULL** |
 | **2024/01/30** | Semantic Forwarding for Next Generation Relay Networks | Enes Arda et al. | [2401.17247v1](http://arxiv.org/abs/2401.17247v1) | **NULL** |
 | **2024/01/30** | Multiple Yield Curve Modeling and Forecasting using Deep Learning | Ronald Richman et al. | [2401.16985v1](http://arxiv.org/abs/2401.16985v1) | **NULL** |
 | **2024/01/30** | Engineering A Large Language Model From Scratch | Abiodun Finbarrs Oketunji | [2401.16736v1](http://arxiv.org/abs/2401.16736v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/01/25** | On the Feasibility of Simple Transformer for Dynamic Graph Modeling | Yuxia Wu et al. | [2401.14009v1](http://arxiv.org/abs/2401.14009v1) | **NULL** |
 | **2024/01/25** | Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention | Quang-Trung Truong et al. | [2401.13937v1](http://arxiv.org/abs/2401.13937v1) | **NULL** |
 | **2024/01/25** | Edge Conditional Node Update Graph Neural Network for Multi-variate Time Series Anomaly Detection | Hayoung Jo et al. | [2401.13872v1](http://arxiv.org/abs/2401.13872v1) | **NULL** |
-| **2024/01/24** | LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection | Dat Nguyen et al. | [2401.13856v1](http://arxiv.org/abs/2401.13856v1) | **NULL** |
-| **2024/01/23** | Deep Spatiotemporal Clutter Filtering of Transthoracic Echocardiographic Images Using a 3D Convolutional Auto-Encoder | Mahdi Tabassian et al. | [2401.13147v1](http://arxiv.org/abs/2401.13147v1) | [**link**](https://github.com/mahditabassian/deep-clutter-filtering) |
-| **2024/01/23** | PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion | Shyam Sundar Kannan et al. | [2401.13082v1](http://arxiv.org/abs/2401.13082v1) | **NULL** |
-| **2024/01/23** | A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications | Mohammad Shamsesalehi et al. | [2401.13059v1](http://arxiv.org/abs/2401.13059v1) | **NULL** |
-| **2024/01/23** | EL-VIT: Probing Vision Transformer with Interactive Visualization | Hong Zhou et al. | [2401.12666v1](http://arxiv.org/abs/2401.12666v1) | **NULL** |
-| **2024/01/23** | ToDA: Target-oriented Diffusion Attacker against Recommendation System | Xiaohao Liu et al. | [2401.12578v1](http://arxiv.org/abs/2401.12578v1) | **NULL** |
-| **2024/01/23** | InfoRank: Unbiased Learning-to-Rank via Conditional Mutual Information Minimization | Jiarui Jin et al. | [2401.12553v1](http://arxiv.org/abs/2401.12553v1) | **NULL** |
 
 ## 背景差分
 
