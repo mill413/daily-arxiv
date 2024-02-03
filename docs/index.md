@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/02 08:44:08
+> Updated on 2024/02/03 08:43:11
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | **NULL** |
@@ -47,22 +48,25 @@ layout: default
 | **2023/03/20** | Rethinking the backbone architecture for tiny object detection | Jinlai Ning et al. | [2303.11267v1](http://arxiv.org/abs/2303.11267v1) | **NULL** |
 | **2023/03/15** | Cascaded Zoom-in Detector for High Resolution Aerial Images | Akhil Meethal et al. | [2303.08747v1](http://arxiv.org/abs/2303.08747v1) | [**link**](https://github.com/akhilpm/dronedetectron2) |
 | **2023/03/06** | Automatic detection of aerial survey ground control points based on Yolov5-OBB | Cheng Chuanxiang et al. | [2303.03041v1](http://arxiv.org/abs/2303.03041v1) | **NULL** |
-| **2023/03/03** | Confidence-driven Bounding Box Localization for Small Object Detection | Huixin Sun et al. | [2303.01803v1](http://arxiv.org/abs/2303.01803v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/01** | Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces | Chloe Wang et al. | [2402.00789v1](http://arxiv.org/abs/2402.00789v1) | **NULL** |
+| **2024/02/01** | Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders | Yingji Zhang et al. | [2402.00723v1](http://arxiv.org/abs/2402.00723v1) | **NULL** |
+| **2024/02/01** | Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction | Sahab Zandi et al. | [2402.00299v1](http://arxiv.org/abs/2402.00299v1) | **NULL** |
+| **2024/01/31** | Multimodal Neurodegenerative Disease Subtyping Explained by ChatGPT | Diego Machado Reyes et al. | [2402.00137v1](http://arxiv.org/abs/2402.00137v1) | **NULL** |
 | **2024/01/31** | HyperZ$\cdot$Z$\cdot$W Operator Connects Slow-Fast Networks for Full Context Interaction | Harvie Zhang | [2401.17948v1](http://arxiv.org/abs/2401.17948v1) | **NULL** |
 | **2024/01/31** | Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning | Erwan Escudie et al. | [2401.17914v1](http://arxiv.org/abs/2401.17914v1) | **NULL** |
 | **2024/01/31** | Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication | Zikai Feng et al. | [2401.17880v1](http://arxiv.org/abs/2401.17880v1) | **NULL** |
 | **2024/01/31** | Graph Transformers without Positional Encodings | Ayush Garg | [2401.17791v1](http://arxiv.org/abs/2401.17791v1) | **NULL** |
-| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v1](http://arxiv.org/abs/2401.17612v1) | **NULL** |
+| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v1](http://arxiv.org/abs/2401.17612v1) | [**link**](https://github.com/bozdaglab/igcn) |
 | **2024/01/31** | Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition | Lei Liu et al. | [2401.17604v1](http://arxiv.org/abs/2401.17604v1) | **NULL** |
 | **2024/01/31** | Scavenging Hyena: Distilling Transformers into Long Convolution Models | Tokiniaina Raharison Ralambomihanta et al. | [2401.17574v1](http://arxiv.org/abs/2401.17574v1) | **NULL** |
 | **2024/01/30** | Semantic Forwarding for Next Generation Relay Networks | Enes Arda et al. | [2401.17247v1](http://arxiv.org/abs/2401.17247v1) | **NULL** |
 | **2024/01/30** | Multiple Yield Curve Modeling and Forecasting using Deep Learning | Ronald Richman et al. | [2401.16985v1](http://arxiv.org/abs/2401.16985v1) | **NULL** |
-| **2024/01/30** | Engineering A Large Language Model From Scratch | Abiodun Finbarrs Oketunji | [2401.16736v1](http://arxiv.org/abs/2401.16736v1) | **NULL** |
+| **2024/01/30** | Engineering A Large Language Model From Scratch | Abiodun Finbarrs Oketunji | [2401.16736v2](http://arxiv.org/abs/2401.16736v2) | **NULL** |
 | **2024/01/30** | Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers | Jianbin Jiao et al. | [2401.16700v1](http://arxiv.org/abs/2401.16700v1) | **NULL** |
 | **2024/01/29** | Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction | Zhixin Huang et al. | [2401.15964v1](http://arxiv.org/abs/2401.15964v1) | **NULL** |
 | **2024/01/29** | EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization | Xueming Yan et al. | [2401.15931v1](http://arxiv.org/abs/2401.15931v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | [**link**](https://github.com/bozdaglab/ta-rnn) |
 | **2024/01/25** | Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease | Yihao Lin et al. | [2401.14130v1](http://arxiv.org/abs/2401.14130v1) | **NULL** |
 | **2024/01/25** | GQHAN: A Grover-inspired Quantum Hard Attention Network | Ren-Xin Zhao et al. | [2401.14089v1](http://arxiv.org/abs/2401.14089v1) | **NULL** |
-| **2024/01/25** | CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion | Nisha Huang et al. | [2401.14066v2](http://arxiv.org/abs/2401.14066v2) | **NULL** |
-| **2024/01/25** | On the Feasibility of Simple Transformer for Dynamic Graph Modeling | Yuxia Wu et al. | [2401.14009v1](http://arxiv.org/abs/2401.14009v1) | **NULL** |
-| **2024/01/25** | Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention | Quang-Trung Truong et al. | [2401.13937v1](http://arxiv.org/abs/2401.13937v1) | **NULL** |
-| **2024/01/25** | Edge Conditional Node Update Graph Neural Network for Multi-variate Time Series Anomaly Detection | Hayoung Jo et al. | [2401.13872v1](http://arxiv.org/abs/2401.13872v1) | **NULL** |
 
 ## 背景差分
 
