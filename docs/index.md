@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/05 08:45:14
+> Updated on 2024/02/06 08:43:25
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/02** | Spectrum-guided Feature Enhancement Network for Event Person Re-Identification | Hongchen Tan et al. | [2402.01269v1](http://arxiv.org/abs/2402.01269v1) | **NULL** |
+| **2024/02/01** | FuseFormer: A Transformer for Visual and Thermal Image Fusion | Aytekin Erdogan et al. | [2402.00971v1](http://arxiv.org/abs/2402.00971v1) | **NULL** |
 | **2024/02/01** | Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces | Chloe Wang et al. | [2402.00789v1](http://arxiv.org/abs/2402.00789v1) | **NULL** |
 | **2024/02/01** | Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders | Yingji Zhang et al. | [2402.00723v1](http://arxiv.org/abs/2402.00723v1) | **NULL** |
 | **2024/02/01** | Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction | Sahab Zandi et al. | [2402.00299v1](http://arxiv.org/abs/2402.00299v1) | **NULL** |
@@ -81,13 +83,12 @@ layout: default
 | **2024/01/26** | Endowing Protein Language Models with Structural Knowledge | Dexiong Chen et al. | [2401.14819v1](http://arxiv.org/abs/2401.14819v1) | [**link**](https://github.com/borgwardtlab/pst) |
 | **2024/01/26** | SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization | Yanlin Wang et al. | [2401.14727v1](http://arxiv.org/abs/2401.14727v1) | [**link**](https://github.com/deepsoftwareanalytics/sparsecoder) |
 | **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | [**link**](https://github.com/bozdaglab/ta-rnn) |
-| **2024/01/25** | Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease | Yihao Lin et al. | [2401.14130v1](http://arxiv.org/abs/2401.14130v1) | **NULL** |
-| **2024/01/25** | GQHAN: A Grover-inspired Quantum Hard Attention Network | Ren-Xin Zhao et al. | [2401.14089v1](http://arxiv.org/abs/2401.14089v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
 | **2024/01/05** | Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning | Geoffery Agorku et al. | [2401.03070v1](http://arxiv.org/abs/2401.03070v1) | **NULL** |
 | **2023/12/19** | The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters | Adit H. Edward et al. | [2312.12380v1](http://arxiv.org/abs/2312.12380v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/03/26** | ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection | Yongqi An et al. | [2303.14679v1](http://arxiv.org/abs/2303.14679v1) | [**link**](https://github.com/casia-iva-lab/zbs) |
 | **2023/03/21** | The Galactic TeV sky: sources or diffuse emission? | Kathrin Egberts et al. | [2303.11850v1](http://arxiv.org/abs/2303.11850v1) | **NULL** |
 | **2023/03/14** | Interpretable Machine Learning Methods Applied to Jet Background Subtraction in Heavy Ion Collisions | Tanner Mengel et al. | [2303.08275v2](http://arxiv.org/abs/2303.08275v2) | **NULL** |
-| **2023/03/13** | Constraining the Astrophysical p Process: Cross Section Measurement of the 84Kr(p,g)85Rb Reaction in Inverse Kinematics | Alicia Palmisano-Kyle et al. | [2303.07232v1](http://arxiv.org/abs/2303.07232v1) | **NULL** |
