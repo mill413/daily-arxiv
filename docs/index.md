@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/06 08:43:25
+> Updated on 2024/02/07 08:42:24
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/05** | Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining | Jiarun Liu et al. | [2402.03302v1](http://arxiv.org/abs/2402.03302v1) | [**link**](https://github.com/jiarunliu/swin-umamba) |
+| **2024/02/05** | CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models | Arash Harirpoush et al. | [2402.03230v1](http://arxiv.org/abs/2402.03230v1) | [**link**](https://github.com/healthx-lab/deepsegthoracic) |
+| **2024/02/05** | Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism | Chengchun Liu et al. | [2402.03112v1](http://arxiv.org/abs/2402.03112v1) | **NULL** |
+| **2024/02/05** | On combining acoustic and modulation spectrograms in an attention LSTM-based system for speech intelligibility level classification | Ascensión Gallardo-Antolín et al. | [2402.02865v1](http://arxiv.org/abs/2402.02865v1) | **NULL** |
+| **2024/02/05** | An Attention Long Short-Term Memory based system for automatic classification of speech intelligibility | Miguel Fernández-Díaz et al. | [2402.02850v1](http://arxiv.org/abs/2402.02850v1) | **NULL** |
+| **2024/02/05** | Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective | Zexin Wang et al. | [2402.02820v1](http://arxiv.org/abs/2402.02820v1) | [**link**](https://github.com/cstcloudops/fcvae) |
+| **2024/02/04** | Key-Graph Transformer for Image Restoration | Bin Ren et al. | [2402.02634v1](http://arxiv.org/abs/2402.02634v1) | **NULL** |
+| **2024/02/04** | Latent Graph Diffusion: A Unified Framework for Generation and Prediction on Graphs | Zhou Cai et al. | [2402.02518v1](http://arxiv.org/abs/2402.02518v1) | **NULL** |
+| **2024/02/04** | Multi-modal Causal Structure Learning and Root Cause Analysis | Lecheng Zheng et al. | [2402.02357v1](http://arxiv.org/abs/2402.02357v1) | **NULL** |
+| **2024/02/03** | XTSFormer: Cross-Temporal-Scale Transformer for Irregular Time Event Prediction | Tingsong Xiao et al. | [2402.02258v1](http://arxiv.org/abs/2402.02258v1) | **NULL** |
+| **2024/02/03** | Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets | Lei Xu et al. | [2402.02245v1](http://arxiv.org/abs/2402.02245v1) | **NULL** |
+| **2024/02/03** | Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models | Xindi Wang et al. | [2402.02244v1](http://arxiv.org/abs/2402.02244v1) | **NULL** |
+| **2024/02/03** | Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization | Bo Yang et al. | [2402.02141v1](http://arxiv.org/abs/2402.02141v1) | **NULL** |
+| **2024/02/03** | Self-attention Networks Localize When QK-eigenspectrum Concentrates | Han Bao et al. | [2402.02098v1](http://arxiv.org/abs/2402.02098v1) | **NULL** |
+| **2024/02/03** | Deep Semantic-Visual Alignment for Zero-Shot Remote Sensing Image Scene Classification | Wenjia Xu et al. | [2402.02094v1](http://arxiv.org/abs/2402.02094v1) | [**link**](https://github.com/wenjiaxu/rs_scene_zsl) |
+| **2024/02/03** | Topology-Informed Graph Transformer | Yun Young Choi et al. | [2402.02005v1](http://arxiv.org/abs/2402.02005v1) | **NULL** |
 | **2024/02/02** | Spectrum-guided Feature Enhancement Network for Event Person Re-Identification | Hongchen Tan et al. | [2402.01269v1](http://arxiv.org/abs/2402.01269v1) | **NULL** |
 | **2024/02/01** | FuseFormer: A Transformer for Visual and Thermal Image Fusion | Aytekin Erdogan et al. | [2402.00971v1](http://arxiv.org/abs/2402.00971v1) | **NULL** |
 | **2024/02/01** | Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces | Chloe Wang et al. | [2402.00789v1](http://arxiv.org/abs/2402.00789v1) | **NULL** |
@@ -63,26 +79,10 @@ layout: default
 | **2024/01/31** | Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning | Erwan Escudie et al. | [2401.17914v1](http://arxiv.org/abs/2401.17914v1) | **NULL** |
 | **2024/01/31** | Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication | Zikai Feng et al. | [2401.17880v1](http://arxiv.org/abs/2401.17880v1) | **NULL** |
 | **2024/01/31** | Graph Transformers without Positional Encodings | Ayush Garg | [2401.17791v1](http://arxiv.org/abs/2401.17791v1) | **NULL** |
-| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v1](http://arxiv.org/abs/2401.17612v1) | [**link**](https://github.com/bozdaglab/igcn) |
+| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v2](http://arxiv.org/abs/2401.17612v2) | [**link**](https://github.com/bozdaglab/igcn) |
 | **2024/01/31** | Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition | Lei Liu et al. | [2401.17604v1](http://arxiv.org/abs/2401.17604v1) | **NULL** |
 | **2024/01/31** | Scavenging Hyena: Distilling Transformers into Long Convolution Models | Tokiniaina Raharison Ralambomihanta et al. | [2401.17574v1](http://arxiv.org/abs/2401.17574v1) | **NULL** |
 | **2024/01/30** | Semantic Forwarding for Next Generation Relay Networks | Enes Arda et al. | [2401.17247v1](http://arxiv.org/abs/2401.17247v1) | **NULL** |
-| **2024/01/30** | Multiple Yield Curve Modeling and Forecasting using Deep Learning | Ronald Richman et al. | [2401.16985v1](http://arxiv.org/abs/2401.16985v1) | **NULL** |
-| **2024/01/30** | Engineering A Large Language Model From Scratch | Abiodun Finbarrs Oketunji | [2401.16736v2](http://arxiv.org/abs/2401.16736v2) | **NULL** |
-| **2024/01/30** | Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers | Jianbin Jiao et al. | [2401.16700v1](http://arxiv.org/abs/2401.16700v1) | **NULL** |
-| **2024/01/29** | Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction | Zhixin Huang et al. | [2401.15964v1](http://arxiv.org/abs/2401.15964v1) | **NULL** |
-| **2024/01/29** | EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization | Xueming Yan et al. | [2401.15931v1](http://arxiv.org/abs/2401.15931v1) | **NULL** |
-| **2024/01/29** | MV2MAE: Multi-View Video Masked Autoencoders | Ketul Shah et al. | [2401.15900v1](http://arxiv.org/abs/2401.15900v1) | **NULL** |
-| **2024/01/29** | A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs | Yun Young Choi et al. | [2401.15894v1](http://arxiv.org/abs/2401.15894v1) | **NULL** |
-| **2024/01/29** | DrBERT: Unveiling the Potential of Masked Language Modeling Decoder in BERT pretraining | Wen Liang et al. | [2401.15861v1](http://arxiv.org/abs/2401.15861v1) | **NULL** |
-| **2024/01/29** | Attentive Convolutional Deep Reinforcement Learning for Optimizing Solar-Storage Systems in Real-Time Electricity Markets | Jinhao Li et al. | [2401.15853v1](http://arxiv.org/abs/2401.15853v1) | **NULL** |
-| **2024/01/29** | Deep Reinforcement Learning for Voltage Control and Renewable Accommodation Using Spatial-Temporal Graph Information | Jinhao Li et al. | [2401.15848v1](http://arxiv.org/abs/2401.15848v1) | **NULL** |
-| **2024/01/26** | Deep Learning with Tabular Data: A Self-supervised Approach | Tirth Kiranbhai Vyas | [2401.15238v1](http://arxiv.org/abs/2401.15238v1) | [**link**](https://github.com/tirthvyas-tk-labs/deep-learning-with-tabular-data-a-self-supervised-approach) |
-| **2024/01/26** | CascadedGaze: Efficiency in Global Context Extraction for Image Restoration | Amirhosein Ghasemabadi et al. | [2401.15235v1](http://arxiv.org/abs/2401.15235v1) | **NULL** |
-| **2024/01/26** | On the generalization capacity of neural networks during generic multimodal reasoning | Takuya Ito et al. | [2401.15030v1](http://arxiv.org/abs/2401.15030v1) | **NULL** |
-| **2024/01/26** | Endowing Protein Language Models with Structural Knowledge | Dexiong Chen et al. | [2401.14819v1](http://arxiv.org/abs/2401.14819v1) | [**link**](https://github.com/borgwardtlab/pst) |
-| **2024/01/26** | SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization | Yanlin Wang et al. | [2401.14727v1](http://arxiv.org/abs/2401.14727v1) | [**link**](https://github.com/deepsoftwareanalytics/sparsecoder) |
-| **2024/01/26** | TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records | Mohammad Al Olaimat et al. | [2401.14694v1](http://arxiv.org/abs/2401.14694v1) | [**link**](https://github.com/bozdaglab/ta-rnn) |
 
 ## 背景差分
 
