@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/07 08:42:24
+> Updated on 2024/02/08 08:43:22
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/06** | CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers | Adjorn van Engelenhoven et al. | [2402.04239v1](http://arxiv.org/abs/2402.04239v1) | **NULL** |
+| **2024/02/06** | Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing | H. M. K. D. Wickramathilaka et al. | [2402.03835v1](http://arxiv.org/abs/2402.03835v1) | **NULL** |
+| **2024/02/06** | Reinforcement Learning from Bagged Reward: A Transformer-based Approach for Instance-Level Reward Redistribution | Yuting Tang et al. | [2402.03771v1](http://arxiv.org/abs/2402.03771v1) | **NULL** |
+| **2024/02/06** | Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes | Dongxia Wu et al. | [2402.03726v1](http://arxiv.org/abs/2402.03726v1) | **NULL** |
+| **2024/02/05** | Attention Meets Post-hoc Interpretability: A Mathematical Perspective | Gianluigi Lopardo et al. | [2402.03485v1](http://arxiv.org/abs/2402.03485v1) | [**link**](https://github.com/gianluigilopardo/attention_meets_xai) |
+| **2024/02/05** | Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact | Mahdi Saleh et al. | [2402.03466v1](http://arxiv.org/abs/2402.03466v1) | **NULL** |
 | **2024/02/05** | Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining | Jiarun Liu et al. | [2402.03302v1](http://arxiv.org/abs/2402.03302v1) | [**link**](https://github.com/jiarunliu/swin-umamba) |
 | **2024/02/05** | CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models | Arash Harirpoush et al. | [2402.03230v1](http://arxiv.org/abs/2402.03230v1) | [**link**](https://github.com/healthx-lab/deepsegthoracic) |
 | **2024/02/05** | Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism | Chengchun Liu et al. | [2402.03112v1](http://arxiv.org/abs/2402.03112v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/01/31** | Multimodal Neurodegenerative Disease Subtyping Explained by ChatGPT | Diego Machado Reyes et al. | [2402.00137v1](http://arxiv.org/abs/2402.00137v1) | **NULL** |
 | **2024/01/31** | HyperZ$\cdot$Z$\cdot$W Operator Connects Slow-Fast Networks for Full Context Interaction | Harvie Zhang | [2401.17948v1](http://arxiv.org/abs/2401.17948v1) | **NULL** |
 | **2024/01/31** | Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning | Erwan Escudie et al. | [2401.17914v1](http://arxiv.org/abs/2401.17914v1) | **NULL** |
-| **2024/01/31** | Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication | Zikai Feng et al. | [2401.17880v1](http://arxiv.org/abs/2401.17880v1) | **NULL** |
-| **2024/01/31** | Graph Transformers without Positional Encodings | Ayush Garg | [2401.17791v1](http://arxiv.org/abs/2401.17791v1) | **NULL** |
-| **2024/01/31** | IGCN: Integrative Graph Convolutional Networks for Multi-modal Data | Cagri Ozdemir et al. | [2401.17612v2](http://arxiv.org/abs/2401.17612v2) | [**link**](https://github.com/bozdaglab/igcn) |
-| **2024/01/31** | Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition | Lei Liu et al. | [2401.17604v1](http://arxiv.org/abs/2401.17604v1) | **NULL** |
-| **2024/01/31** | Scavenging Hyena: Distilling Transformers into Long Convolution Models | Tokiniaina Raharison Ralambomihanta et al. | [2401.17574v1](http://arxiv.org/abs/2401.17574v1) | **NULL** |
-| **2024/01/30** | Semantic Forwarding for Next Generation Relay Networks | Enes Arda et al. | [2401.17247v1](http://arxiv.org/abs/2401.17247v1) | **NULL** |
 
 ## 背景差分
 
