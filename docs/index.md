@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/09 08:42:54
+> Updated on 2024/02/10 08:42:28
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/08** | DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer | Zhiyuan Ma et al. | [2402.05712v1](http://arxiv.org/abs/2402.05712v1) | [**link**](https://github.com/theericma/diffspeaker) |
+| **2024/02/08** | A Non-Intrusive Neural Quality Assessment Model for Surface Electromyography Signals | Cho-Yuan Lee et al. | [2402.05482v1](http://arxiv.org/abs/2402.05482v1) | **NULL** |
+| **2024/02/08** | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis | Dewei Zhou et al. | [2402.05408v1](http://arxiv.org/abs/2402.05408v1) | [**link**](https://github.com/limuloo/migc) |
+| **2024/02/08** | Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis | Mingxin Liu et al. | [2402.05373v1](http://arxiv.org/abs/2402.05373v1) | **NULL** |
+| **2024/02/08** | Attention as Robust Representation for Time Series Forecasting | PeiSong Niu et al. | [2402.05370v1](http://arxiv.org/abs/2402.05370v1) | **NULL** |
+| **2024/02/07** | Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection | Pramit Saha et al. | [2402.05294v1](http://arxiv.org/abs/2402.05294v1) | **NULL** |
 | **2024/02/07** | Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation | Ziyang Wang et al. | [2402.05079v1](http://arxiv.org/abs/2402.05079v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
 | **2024/02/07** | Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer | Mingxaun Liu et al. | [2402.04798v1](http://arxiv.org/abs/2402.04798v1) | **NULL** |
 | **2024/02/07** | Progressive Conservative Adaptation for Evolving Target Domains | Gangming Zhao et al. | [2402.04573v1](http://arxiv.org/abs/2402.04573v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/02/03** | Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets | Lei Xu et al. | [2402.02245v1](http://arxiv.org/abs/2402.02245v1) | **NULL** |
 | **2024/02/03** | Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models | Xindi Wang et al. | [2402.02244v1](http://arxiv.org/abs/2402.02244v1) | **NULL** |
 | **2024/02/03** | Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization | Bo Yang et al. | [2402.02141v1](http://arxiv.org/abs/2402.02141v1) | **NULL** |
-| **2024/02/03** | Self-attention Networks Localize When QK-eigenspectrum Concentrates | Han Bao et al. | [2402.02098v1](http://arxiv.org/abs/2402.02098v1) | **NULL** |
-| **2024/02/03** | Deep Semantic-Visual Alignment for Zero-Shot Remote Sensing Image Scene Classification | Wenjia Xu et al. | [2402.02094v1](http://arxiv.org/abs/2402.02094v1) | [**link**](https://github.com/wenjiaxu/rs_scene_zsl) |
-| **2024/02/03** | Topology-Informed Graph Transformer | Yun Young Choi et al. | [2402.02005v1](http://arxiv.org/abs/2402.02005v1) | **NULL** |
-| **2024/02/02** | Spectrum-guided Feature Enhancement Network for Event Person Re-Identification | Hongchen Tan et al. | [2402.01269v1](http://arxiv.org/abs/2402.01269v1) | **NULL** |
-| **2024/02/01** | FuseFormer: A Transformer for Visual and Thermal Image Fusion | Aytekin Erdogan et al. | [2402.00971v1](http://arxiv.org/abs/2402.00971v1) | **NULL** |
-| **2024/02/01** | Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces | Chloe Wang et al. | [2402.00789v1](http://arxiv.org/abs/2402.00789v1) | **NULL** |
 
 ## 背景差分
 
