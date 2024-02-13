@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/12 08:44:24
+> Updated on 2024/02/13 08:44:15
 
 <summary>Table of Contents</summary>
 
@@ -60,7 +60,7 @@ layout: default
 | **2024/02/08** | Attention as Robust Representation for Time Series Forecasting | PeiSong Niu et al. | [2402.05370v1](http://arxiv.org/abs/2402.05370v1) | **NULL** |
 | **2024/02/07** | Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection | Pramit Saha et al. | [2402.05294v1](http://arxiv.org/abs/2402.05294v1) | **NULL** |
 | **2024/02/07** | Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation | Ziyang Wang et al. | [2402.05079v1](http://arxiv.org/abs/2402.05079v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
-| **2024/02/07** | Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer | Mingxaun Liu et al. | [2402.04798v1](http://arxiv.org/abs/2402.04798v1) | **NULL** |
+| **2024/02/07** | Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer | Mingxuan Liu et al. | [2402.04798v2](http://arxiv.org/abs/2402.04798v2) | **NULL** |
 | **2024/02/07** | Progressive Conservative Adaptation for Evolving Target Domains | Gangming Zhao et al. | [2402.04573v1](http://arxiv.org/abs/2402.04573v1) | **NULL** |
 | **2024/02/07** | Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention | Saebom Leem et al. | [2402.04563v1](http://arxiv.org/abs/2402.04563v1) | [**link**](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention) |
 | **2024/02/07** | DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion | Guoqiang Liang et al. | [2402.04558v1](http://arxiv.org/abs/2402.04558v1) | **NULL** |
@@ -68,6 +68,7 @@ layout: default
 | **2024/02/06** | Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing | H. M. K. D. Wickramathilaka et al. | [2402.03835v1](http://arxiv.org/abs/2402.03835v1) | **NULL** |
 | **2024/02/06** | Reinforcement Learning from Bagged Reward: A Transformer-based Approach for Instance-Level Reward Redistribution | Yuting Tang et al. | [2402.03771v1](http://arxiv.org/abs/2402.03771v1) | **NULL** |
 | **2024/02/06** | Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes | Dongxia Wu et al. | [2402.03726v1](http://arxiv.org/abs/2402.03726v1) | **NULL** |
+| **2024/02/06** | Breaking Symmetry When Training Transformers | Chunsheng Zuo et al. | [2402.05969v1](http://arxiv.org/abs/2402.05969v1) | **NULL** |
 | **2024/02/05** | Attention Meets Post-hoc Interpretability: A Mathematical Perspective | Gianluigi Lopardo et al. | [2402.03485v1](http://arxiv.org/abs/2402.03485v1) | [**link**](https://github.com/gianluigilopardo/attention_meets_xai) |
 | **2024/02/05** | Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact | Mahdi Saleh et al. | [2402.03466v1](http://arxiv.org/abs/2402.03466v1) | **NULL** |
 | **2024/02/05** | Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining | Jiarun Liu et al. | [2402.03302v1](http://arxiv.org/abs/2402.03302v1) | [**link**](https://github.com/jiarunliu/swin-umamba) |
@@ -82,7 +83,6 @@ layout: default
 | **2024/02/03** | XTSFormer: Cross-Temporal-Scale Transformer for Irregular Time Event Prediction | Tingsong Xiao et al. | [2402.02258v1](http://arxiv.org/abs/2402.02258v1) | **NULL** |
 | **2024/02/03** | Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets | Lei Xu et al. | [2402.02245v1](http://arxiv.org/abs/2402.02245v1) | **NULL** |
 | **2024/02/03** | Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models | Xindi Wang et al. | [2402.02244v1](http://arxiv.org/abs/2402.02244v1) | **NULL** |
-| **2024/02/03** | Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization | Bo Yang et al. | [2402.02141v1](http://arxiv.org/abs/2402.02141v1) | **NULL** |
 
 ## 背景差分
 
