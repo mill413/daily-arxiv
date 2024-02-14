@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/13 08:44:15
+> Updated on 2024/02/14 08:44:22
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/12** | FAST: Factorizable Attention for Speeding up Transformers | Armin Gerami et al. | [2402.07901v1](http://arxiv.org/abs/2402.07901v1) | **NULL** |
+| **2024/02/12** | Multi-Intent Attribute-Aware Text Matching in Searching | Mingzhe Li et al. | [2402.07788v1](http://arxiv.org/abs/2402.07788v1) | **NULL** |
+| **2024/02/12** | Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism | Philipp Froehlich et al. | [2402.07735v1](http://arxiv.org/abs/2402.07735v1) | **NULL** |
+| **2024/02/12** | News Recommendation with Attention Mechanism | Tianrui Liu et al. | [2402.07422v1](http://arxiv.org/abs/2402.07422v1) | **NULL** |
+| **2024/02/11** | Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation | Ziyang Wang et al. | [2402.07245v1](http://arxiv.org/abs/2402.07245v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
+| **2024/02/11** | A novel spatial-frequency domain network for zero-shot incremental learning | Jie Ren et al. | [2402.07216v1](http://arxiv.org/abs/2402.07216v1) | **NULL** |
+| **2024/02/11** | GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention | Fangyu Ding et al. | [2402.07191v1](http://arxiv.org/abs/2402.07191v1) | [**link**](https://github.com/dingfangyu/gsina) |
+| **2024/02/10** | TREET: TRansfer Entropy Estimation via Transformer | Omer Luxembourg et al. | [2402.06919v1](http://arxiv.org/abs/2402.06919v1) | [**link**](https://github.com/omerlux/treet) |
 | **2024/02/08** | DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer | Zhiyuan Ma et al. | [2402.05712v1](http://arxiv.org/abs/2402.05712v1) | [**link**](https://github.com/theericma/diffspeaker) |
 | **2024/02/08** | A Non-Intrusive Neural Quality Assessment Model for Surface Electromyography Signals | Cho-Yuan Lee et al. | [2402.05482v1](http://arxiv.org/abs/2402.05482v1) | **NULL** |
 | **2024/02/08** | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis | Dewei Zhou et al. | [2402.05408v1](http://arxiv.org/abs/2402.05408v1) | [**link**](https://github.com/limuloo/migc) |
@@ -75,14 +83,6 @@ layout: default
 | **2024/02/05** | CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models | Arash Harirpoush et al. | [2402.03230v1](http://arxiv.org/abs/2402.03230v1) | [**link**](https://github.com/healthx-lab/deepsegthoracic) |
 | **2024/02/05** | Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism | Chengchun Liu et al. | [2402.03112v1](http://arxiv.org/abs/2402.03112v1) | **NULL** |
 | **2024/02/05** | On combining acoustic and modulation spectrograms in an attention LSTM-based system for speech intelligibility level classification | Ascensión Gallardo-Antolín et al. | [2402.02865v1](http://arxiv.org/abs/2402.02865v1) | **NULL** |
-| **2024/02/05** | An Attention Long Short-Term Memory based system for automatic classification of speech intelligibility | Miguel Fernández-Díaz et al. | [2402.02850v1](http://arxiv.org/abs/2402.02850v1) | **NULL** |
-| **2024/02/05** | Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective | Zexin Wang et al. | [2402.02820v1](http://arxiv.org/abs/2402.02820v1) | [**link**](https://github.com/cstcloudops/fcvae) |
-| **2024/02/04** | Key-Graph Transformer for Image Restoration | Bin Ren et al. | [2402.02634v1](http://arxiv.org/abs/2402.02634v1) | **NULL** |
-| **2024/02/04** | Latent Graph Diffusion: A Unified Framework for Generation and Prediction on Graphs | Zhou Cai et al. | [2402.02518v1](http://arxiv.org/abs/2402.02518v1) | **NULL** |
-| **2024/02/04** | Multi-modal Causal Structure Learning and Root Cause Analysis | Lecheng Zheng et al. | [2402.02357v1](http://arxiv.org/abs/2402.02357v1) | **NULL** |
-| **2024/02/03** | XTSFormer: Cross-Temporal-Scale Transformer for Irregular Time Event Prediction | Tingsong Xiao et al. | [2402.02258v1](http://arxiv.org/abs/2402.02258v1) | **NULL** |
-| **2024/02/03** | Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets | Lei Xu et al. | [2402.02245v1](http://arxiv.org/abs/2402.02245v1) | **NULL** |
-| **2024/02/03** | Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models | Xindi Wang et al. | [2402.02244v1](http://arxiv.org/abs/2402.02244v1) | **NULL** |
 
 ## 背景差分
 
