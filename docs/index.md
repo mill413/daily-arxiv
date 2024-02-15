@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/14 08:44:22
+> Updated on 2024/02/15 08:44:05
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/13** | Revealing Decurve Flows for Generalized Graph Propagation | Chen Lin et al. | [2402.08480v1](http://arxiv.org/abs/2402.08480v1) | **NULL** |
+| **2024/02/13** | Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products | Guy Bar-Shalom et al. | [2402.08450v1](http://arxiv.org/abs/2402.08450v1) | **NULL** |
+| **2024/02/13** | Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs | Hengnian Gu et al. | [2402.08256v1](http://arxiv.org/abs/2402.08256v1) | **NULL** |
+| **2024/02/13** | Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective | Kai Guo et al. | [2402.08228v1](http://arxiv.org/abs/2402.08228v1) | **NULL** |
+| **2024/02/13** | Transformer Mechanisms Mimic Frontostriatal Gating Operations When Trained on Human Working Memory Tasks | Aaron Traylor et al. | [2402.08211v1](http://arxiv.org/abs/2402.08211v1) | **NULL** |
 | **2024/02/12** | FAST: Factorizable Attention for Speeding up Transformers | Armin Gerami et al. | [2402.07901v1](http://arxiv.org/abs/2402.07901v1) | **NULL** |
 | **2024/02/12** | Multi-Intent Attribute-Aware Text Matching in Searching | Mingzhe Li et al. | [2402.07788v1](http://arxiv.org/abs/2402.07788v1) | **NULL** |
-| **2024/02/12** | Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism | Philipp Froehlich et al. | [2402.07735v1](http://arxiv.org/abs/2402.07735v1) | **NULL** |
+| **2024/02/12** | Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism | Philipp Froehlich et al. | [2402.07735v2](http://arxiv.org/abs/2402.07735v2) | **NULL** |
 | **2024/02/12** | News Recommendation with Attention Mechanism | Tianrui Liu et al. | [2402.07422v1](http://arxiv.org/abs/2402.07422v1) | **NULL** |
 | **2024/02/11** | Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation | Ziyang Wang et al. | [2402.07245v1](http://arxiv.org/abs/2402.07245v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
 | **2024/02/11** | A novel spatial-frequency domain network for zero-shot incremental learning | Jie Ren et al. | [2402.07216v1](http://arxiv.org/abs/2402.07216v1) | **NULL** |
@@ -78,16 +83,12 @@ layout: default
 | **2024/02/06** | Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes | Dongxia Wu et al. | [2402.03726v1](http://arxiv.org/abs/2402.03726v1) | **NULL** |
 | **2024/02/06** | Breaking Symmetry When Training Transformers | Chunsheng Zuo et al. | [2402.05969v1](http://arxiv.org/abs/2402.05969v1) | **NULL** |
 | **2024/02/05** | Attention Meets Post-hoc Interpretability: A Mathematical Perspective | Gianluigi Lopardo et al. | [2402.03485v1](http://arxiv.org/abs/2402.03485v1) | [**link**](https://github.com/gianluigilopardo/attention_meets_xai) |
-| **2024/02/05** | Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact | Mahdi Saleh et al. | [2402.03466v1](http://arxiv.org/abs/2402.03466v1) | **NULL** |
-| **2024/02/05** | Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining | Jiarun Liu et al. | [2402.03302v1](http://arxiv.org/abs/2402.03302v1) | [**link**](https://github.com/jiarunliu/swin-umamba) |
-| **2024/02/05** | CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models | Arash Harirpoush et al. | [2402.03230v1](http://arxiv.org/abs/2402.03230v1) | [**link**](https://github.com/healthx-lab/deepsegthoracic) |
-| **2024/02/05** | Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism | Chengchun Liu et al. | [2402.03112v1](http://arxiv.org/abs/2402.03112v1) | **NULL** |
-| **2024/02/05** | On combining acoustic and modulation spectrograms in an attention LSTM-based system for speech intelligibility level classification | Ascensión Gallardo-Antolín et al. | [2402.02865v1](http://arxiv.org/abs/2402.02865v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
 | **2024/01/05** | Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning | Geoffery Agorku et al. | [2401.03070v1](http://arxiv.org/abs/2401.03070v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/03/27** | Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07) | A. T. Barnes et al. | [2303.15499v2](http://arxiv.org/abs/2303.15499v2) | **NULL** |
 | **2023/03/26** | ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection | Yongqi An et al. | [2303.14679v1](http://arxiv.org/abs/2303.14679v1) | [**link**](https://github.com/casia-iva-lab/zbs) |
 | **2023/03/21** | The Galactic TeV sky: sources or diffuse emission? | Kathrin Egberts et al. | [2303.11850v1](http://arxiv.org/abs/2303.11850v1) | **NULL** |
-| **2023/03/14** | Interpretable Machine Learning Methods Applied to Jet Background Subtraction in Heavy Ion Collisions | Tanner Mengel et al. | [2303.08275v2](http://arxiv.org/abs/2303.08275v2) | **NULL** |
