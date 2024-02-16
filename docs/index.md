@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/15 08:44:05
+> Updated on 2024/02/16 08:43:16
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v1](http://arxiv.org/abs/2402.09329v1) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
+| **2024/02/14** | Crop and Couple: cardiac image segmentation using interlinked specialist networks | Abbas Khan et al. | [2402.09156v1](http://arxiv.org/abs/2402.09156v1) | [**link**](https://github.com/kabbas570/crocnet) |
+| **2024/02/14** | Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks | Zihang Song et al. | [2402.09109v1](http://arxiv.org/abs/2402.09109v1) | **NULL** |
+| **2024/02/14** | Predictive Temporal Attention on Event-based Video Stream for Energy-efficient Situation Awareness | Yiming Bu et al. | [2402.08936v1](http://arxiv.org/abs/2402.08936v1) | **NULL** |
+| **2024/02/14** | Tree-Based Hard Attention with Self-Motivation for Large Language Models | Chenxi Lin et al. | [2402.08874v1](http://arxiv.org/abs/2402.08874v1) | **NULL** |
+| **2024/02/13** | Approximation of relation functions and attention mechanisms | Awni Altabaa et al. | [2402.08856v1](http://arxiv.org/abs/2402.08856v1) | **NULL** |
 | **2024/02/13** | Revealing Decurve Flows for Generalized Graph Propagation | Chen Lin et al. | [2402.08480v1](http://arxiv.org/abs/2402.08480v1) | **NULL** |
 | **2024/02/13** | Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products | Guy Bar-Shalom et al. | [2402.08450v1](http://arxiv.org/abs/2402.08450v1) | **NULL** |
 | **2024/02/13** | Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs | Hengnian Gu et al. | [2402.08256v1](http://arxiv.org/abs/2402.08256v1) | **NULL** |
-| **2024/02/13** | Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective | Kai Guo et al. | [2402.08228v1](http://arxiv.org/abs/2402.08228v1) | **NULL** |
+| **2024/02/13** | Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective | Kai Guo et al. | [2402.08228v2](http://arxiv.org/abs/2402.08228v2) | **NULL** |
 | **2024/02/13** | Transformer Mechanisms Mimic Frontostriatal Gating Operations When Trained on Human Working Memory Tasks | Aaron Traylor et al. | [2402.08211v1](http://arxiv.org/abs/2402.08211v1) | **NULL** |
 | **2024/02/12** | FAST: Factorizable Attention for Speeding up Transformers | Armin Gerami et al. | [2402.07901v1](http://arxiv.org/abs/2402.07901v1) | **NULL** |
 | **2024/02/12** | Multi-Intent Attribute-Aware Text Matching in Searching | Mingzhe Li et al. | [2402.07788v1](http://arxiv.org/abs/2402.07788v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/02/07** | Progressive Conservative Adaptation for Evolving Target Domains | Gangming Zhao et al. | [2402.04573v1](http://arxiv.org/abs/2402.04573v1) | **NULL** |
 | **2024/02/07** | Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention | Saebom Leem et al. | [2402.04563v1](http://arxiv.org/abs/2402.04563v1) | [**link**](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention) |
 | **2024/02/07** | DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion | Guoqiang Liang et al. | [2402.04558v1](http://arxiv.org/abs/2402.04558v1) | **NULL** |
-| **2024/02/06** | CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers | Adjorn van Engelenhoven et al. | [2402.04239v1](http://arxiv.org/abs/2402.04239v1) | **NULL** |
-| **2024/02/06** | Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing | H. M. K. D. Wickramathilaka et al. | [2402.03835v1](http://arxiv.org/abs/2402.03835v1) | **NULL** |
-| **2024/02/06** | Reinforcement Learning from Bagged Reward: A Transformer-based Approach for Instance-Level Reward Redistribution | Yuting Tang et al. | [2402.03771v1](http://arxiv.org/abs/2402.03771v1) | **NULL** |
-| **2024/02/06** | Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes | Dongxia Wu et al. | [2402.03726v1](http://arxiv.org/abs/2402.03726v1) | **NULL** |
-| **2024/02/06** | Breaking Symmetry When Training Transformers | Chunsheng Zuo et al. | [2402.05969v1](http://arxiv.org/abs/2402.05969v1) | **NULL** |
-| **2024/02/05** | Attention Meets Post-hoc Interpretability: A Mathematical Perspective | Gianluigi Lopardo et al. | [2402.03485v1](http://arxiv.org/abs/2402.03485v1) | [**link**](https://github.com/gianluigilopardo/attention_meets_xai) |
 
 ## 背景差分
 
