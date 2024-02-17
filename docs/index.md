@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/16 08:43:16
+> Updated on 2024/02/17 08:43:04
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/15** | InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization | Zhengyang Hu et al. | [2402.10158v1](http://arxiv.org/abs/2402.10158v1) | **NULL** |
+| **2024/02/15** | Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention | Hansol Jung et al. | [2402.09784v1](http://arxiv.org/abs/2402.09784v1) | **NULL** |
 | **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v1](http://arxiv.org/abs/2402.09329v1) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
 | **2024/02/14** | Crop and Couple: cardiac image segmentation using interlinked specialist networks | Abbas Khan et al. | [2402.09156v1](http://arxiv.org/abs/2402.09156v1) | [**link**](https://github.com/kabbas570/crocnet) |
 | **2024/02/14** | Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks | Zihang Song et al. | [2402.09109v1](http://arxiv.org/abs/2402.09109v1) | **NULL** |
@@ -81,13 +83,12 @@ layout: default
 | **2024/02/07** | Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation | Ziyang Wang et al. | [2402.05079v1](http://arxiv.org/abs/2402.05079v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
 | **2024/02/07** | Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer | Mingxuan Liu et al. | [2402.04798v2](http://arxiv.org/abs/2402.04798v2) | **NULL** |
 | **2024/02/07** | Progressive Conservative Adaptation for Evolving Target Domains | Gangming Zhao et al. | [2402.04573v1](http://arxiv.org/abs/2402.04573v1) | **NULL** |
-| **2024/02/07** | Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention | Saebom Leem et al. | [2402.04563v1](http://arxiv.org/abs/2402.04563v1) | [**link**](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention) |
-| **2024/02/07** | DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion | Guoqiang Liang et al. | [2402.04558v1](http://arxiv.org/abs/2402.04558v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/04/02** | Percolation-induced resistivity drop in cold-pressed LuH2 | Ningning Wang et al. | [2304.00558v1](http://arxiv.org/abs/2304.00558v1) | **NULL** |
 | **2023/03/27** | Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07) | A. T. Barnes et al. | [2303.15499v2](http://arxiv.org/abs/2303.15499v2) | **NULL** |
 | **2023/03/26** | ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection | Yongqi An et al. | [2303.14679v1](http://arxiv.org/abs/2303.14679v1) | [**link**](https://github.com/casia-iva-lab/zbs) |
-| **2023/03/21** | The Galactic TeV sky: sources or diffuse emission? | Kathrin Egberts et al. | [2303.11850v1](http://arxiv.org/abs/2303.11850v1) | **NULL** |
