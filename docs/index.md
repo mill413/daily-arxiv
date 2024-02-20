@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/19 08:45:13
+> Updated on 2024/02/20 08:43:01
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/16** | EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge | Xuan Shen et al. | [2402.10787v1](http://arxiv.org/abs/2402.10787v1) | **NULL** |
+| **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v1](http://arxiv.org/abs/2402.10739v1) | **NULL** |
+| **2024/02/16** | BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.10717v1](http://arxiv.org/abs/2402.10717v1) | **NULL** |
+| **2024/02/16** | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | Yuqi Chen et al. | [2402.10635v1](http://arxiv.org/abs/2402.10635v1) | [**link**](https://github.com/microsoft/SeqML/tree/main/ContiFormer) |
+| **2024/02/16** | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | Ivan Marisca et al. | [2402.10634v1](http://arxiv.org/abs/2402.10634v1) | **NULL** |
 | **2024/02/15** | InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization | Zhengyang Hu et al. | [2402.10158v1](http://arxiv.org/abs/2402.10158v1) | **NULL** |
 | **2024/02/15** | Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention | Hansol Jung et al. | [2402.09784v1](http://arxiv.org/abs/2402.09784v1) | **NULL** |
 | **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v1](http://arxiv.org/abs/2402.09329v1) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
@@ -78,11 +83,6 @@ layout: default
 | **2024/02/08** | A Non-Intrusive Neural Quality Assessment Model for Surface Electromyography Signals | Cho-Yuan Lee et al. | [2402.05482v1](http://arxiv.org/abs/2402.05482v1) | **NULL** |
 | **2024/02/08** | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis | Dewei Zhou et al. | [2402.05408v1](http://arxiv.org/abs/2402.05408v1) | [**link**](https://github.com/limuloo/migc) |
 | **2024/02/08** | Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis | Mingxin Liu et al. | [2402.05373v1](http://arxiv.org/abs/2402.05373v1) | **NULL** |
-| **2024/02/08** | Attention as Robust Representation for Time Series Forecasting | PeiSong Niu et al. | [2402.05370v1](http://arxiv.org/abs/2402.05370v1) | **NULL** |
-| **2024/02/07** | Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection | Pramit Saha et al. | [2402.05294v1](http://arxiv.org/abs/2402.05294v1) | **NULL** |
-| **2024/02/07** | Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation | Ziyang Wang et al. | [2402.05079v1](http://arxiv.org/abs/2402.05079v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
-| **2024/02/07** | Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer | Mingxuan Liu et al. | [2402.04798v2](http://arxiv.org/abs/2402.04798v2) | **NULL** |
-| **2024/02/07** | Progressive Conservative Adaptation for Evolving Target Domains | Gangming Zhao et al. | [2402.04573v1](http://arxiv.org/abs/2402.04573v1) | **NULL** |
 
 ## 背景差分
 
