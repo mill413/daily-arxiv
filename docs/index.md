@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/20 08:43:01
+> Updated on 2024/02/21 08:44:25
 
 <summary>Table of Contents</summary>
 
@@ -53,19 +53,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/19** | Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach | Chengyi Ju et al. | [2402.12202v1](http://arxiv.org/abs/2402.12202v1) | **NULL** |
+| **2024/02/19** | Language-guided Image Reflection Separation | Haofeng Zhong et al. | [2402.11874v1](http://arxiv.org/abs/2402.11874v1) | **NULL** |
+| **2024/02/19** | CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking | Zian Su et al. | [2402.11842v1](http://arxiv.org/abs/2402.11842v1) | [**link**](https://github.com/ziansu/codeart) |
+| **2024/02/19** | MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.11788v1](http://arxiv.org/abs/2402.11788v1) | **NULL** |
+| **2024/02/18** | FGeo-HyperGNet: Geometry Problem Solving Integrating Formal Symbolic System and Hypergraph Neural Network | Xiaokai Zhang et al. | [2402.11461v1](http://arxiv.org/abs/2402.11461v1) | [**link**](https://github.com/bitsecret/hypergnet) |
+| **2024/02/17** | ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition | Anxhelo Diko et al. | [2402.11301v1](http://arxiv.org/abs/2402.11301v1) | [**link**](https://github.com/adiko1997/revit) |
+| **2024/02/16** | ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment | Yangyifei Luo et al. | [2402.11000v1](http://arxiv.org/abs/2402.11000v1) | **NULL** |
 | **2024/02/16** | EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge | Xuan Shen et al. | [2402.10787v1](http://arxiv.org/abs/2402.10787v1) | **NULL** |
-| **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v1](http://arxiv.org/abs/2402.10739v1) | **NULL** |
+| **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v2](http://arxiv.org/abs/2402.10739v2) | **NULL** |
 | **2024/02/16** | BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.10717v1](http://arxiv.org/abs/2402.10717v1) | **NULL** |
 | **2024/02/16** | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | Yuqi Chen et al. | [2402.10635v1](http://arxiv.org/abs/2402.10635v1) | [**link**](https://github.com/microsoft/SeqML/tree/main/ContiFormer) |
 | **2024/02/16** | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | Ivan Marisca et al. | [2402.10634v1](http://arxiv.org/abs/2402.10634v1) | **NULL** |
 | **2024/02/15** | InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization | Zhengyang Hu et al. | [2402.10158v1](http://arxiv.org/abs/2402.10158v1) | **NULL** |
-| **2024/02/15** | Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention | Hansol Jung et al. | [2402.09784v1](http://arxiv.org/abs/2402.09784v1) | **NULL** |
-| **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v1](http://arxiv.org/abs/2402.09329v1) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
+| **2024/02/15** | Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention | Hansol Jung et al. | [2402.09784v2](http://arxiv.org/abs/2402.09784v2) | **NULL** |
+| **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v2](http://arxiv.org/abs/2402.09329v2) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
 | **2024/02/14** | Crop and Couple: cardiac image segmentation using interlinked specialist networks | Abbas Khan et al. | [2402.09156v1](http://arxiv.org/abs/2402.09156v1) | [**link**](https://github.com/kabbas570/crocnet) |
 | **2024/02/14** | Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks | Zihang Song et al. | [2402.09109v1](http://arxiv.org/abs/2402.09109v1) | **NULL** |
 | **2024/02/14** | Predictive Temporal Attention on Event-based Video Stream for Energy-efficient Situation Awareness | Yiming Bu et al. | [2402.08936v1](http://arxiv.org/abs/2402.08936v1) | **NULL** |
 | **2024/02/14** | Tree-Based Hard Attention with Self-Motivation for Large Language Models | Chenxi Lin et al. | [2402.08874v1](http://arxiv.org/abs/2402.08874v1) | **NULL** |
 | **2024/02/13** | Approximation of relation functions and attention mechanisms | Awni Altabaa et al. | [2402.08856v1](http://arxiv.org/abs/2402.08856v1) | **NULL** |
+| **2024/02/13** | Measuring and Controlling Persona Drift in Language Model Dialogs | Kenneth Li et al. | [2402.10962v1](http://arxiv.org/abs/2402.10962v1) | **NULL** |
 | **2024/02/13** | Revealing Decurve Flows for Generalized Graph Propagation | Chen Lin et al. | [2402.08480v1](http://arxiv.org/abs/2402.08480v1) | **NULL** |
 | **2024/02/13** | Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products | Guy Bar-Shalom et al. | [2402.08450v1](http://arxiv.org/abs/2402.08450v1) | **NULL** |
 | **2024/02/13** | Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs | Hengnian Gu et al. | [2402.08256v1](http://arxiv.org/abs/2402.08256v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/02/12** | Multi-Intent Attribute-Aware Text Matching in Searching | Mingzhe Li et al. | [2402.07788v1](http://arxiv.org/abs/2402.07788v1) | **NULL** |
 | **2024/02/12** | Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism | Philipp Froehlich et al. | [2402.07735v2](http://arxiv.org/abs/2402.07735v2) | **NULL** |
 | **2024/02/12** | News Recommendation with Attention Mechanism | Tianrui Liu et al. | [2402.07422v1](http://arxiv.org/abs/2402.07422v1) | **NULL** |
-| **2024/02/11** | Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation | Ziyang Wang et al. | [2402.07245v1](http://arxiv.org/abs/2402.07245v1) | [**link**](https://github.com/ziyangwang007/mamba-unet) |
-| **2024/02/11** | A novel spatial-frequency domain network for zero-shot incremental learning | Jie Ren et al. | [2402.07216v1](http://arxiv.org/abs/2402.07216v1) | **NULL** |
-| **2024/02/11** | GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention | Fangyu Ding et al. | [2402.07191v1](http://arxiv.org/abs/2402.07191v1) | [**link**](https://github.com/dingfangyu/gsina) |
-| **2024/02/10** | TREET: TRansfer Entropy Estimation via Transformer | Omer Luxembourg et al. | [2402.06919v1](http://arxiv.org/abs/2402.06919v1) | [**link**](https://github.com/omerlux/treet) |
-| **2024/02/08** | DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer | Zhiyuan Ma et al. | [2402.05712v1](http://arxiv.org/abs/2402.05712v1) | [**link**](https://github.com/theericma/diffspeaker) |
-| **2024/02/08** | A Non-Intrusive Neural Quality Assessment Model for Surface Electromyography Signals | Cho-Yuan Lee et al. | [2402.05482v1](http://arxiv.org/abs/2402.05482v1) | **NULL** |
-| **2024/02/08** | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis | Dewei Zhou et al. | [2402.05408v1](http://arxiv.org/abs/2402.05408v1) | [**link**](https://github.com/limuloo/migc) |
-| **2024/02/08** | Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis | Mingxin Liu et al. | [2402.05373v1](http://arxiv.org/abs/2402.05373v1) | **NULL** |
 
 ## 背景差分
 
@@ -90,6 +90,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
+| **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
 | **2024/01/05** | Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning | Geoffery Agorku et al. | [2401.03070v1](http://arxiv.org/abs/2401.03070v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/04/20** | General mass formulas for charged Kerr-AdS black holes | Yunjiao Gao et al. | [2304.10290v3](http://arxiv.org/abs/2304.10290v3) | **NULL** |
 | **2023/04/02** | Percolation-induced resistivity drop in cold-pressed LuH2 | Ningning Wang et al. | [2304.00558v1](http://arxiv.org/abs/2304.00558v1) | **NULL** |
 | **2023/03/27** | Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07) | A. T. Barnes et al. | [2303.15499v2](http://arxiv.org/abs/2303.15499v2) | **NULL** |
-| **2023/03/26** | ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection | Yongqi An et al. | [2303.14679v1](http://arxiv.org/abs/2303.14679v1) | [**link**](https://github.com/casia-iva-lab/zbs) |
