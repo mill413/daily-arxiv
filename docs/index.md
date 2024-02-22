@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/21 08:44:25
+> Updated on 2024/02/22 08:43:23
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
@@ -47,12 +48,15 @@ layout: default
 | **2023/03/27** | A novel Multi to Single Module for small object detection | Xiaohui Guo | [2303.14977v1](http://arxiv.org/abs/2303.14977v1) | **NULL** |
 | **2023/03/20** | Rethinking the backbone architecture for tiny object detection | Jinlai Ning et al. | [2303.11267v1](http://arxiv.org/abs/2303.11267v1) | **NULL** |
 | **2023/03/15** | Cascaded Zoom-in Detector for High Resolution Aerial Images | Akhil Meethal et al. | [2303.08747v1](http://arxiv.org/abs/2303.08747v1) | [**link**](https://github.com/akhilpm/dronedetectron2) |
-| **2023/03/06** | Automatic detection of aerial survey ground control points based on Yolov5-OBB | Cheng Chuanxiang et al. | [2303.03041v1](http://arxiv.org/abs/2303.03041v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/20** | How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena | Marco Gaido et al. | [2402.13208v1](http://arxiv.org/abs/2402.13208v1) | **NULL** |
+| **2024/02/20** | Conditional Logical Message Passing Transformer for Complex Query Answering | Chongzhi Zhang et al. | [2402.12954v1](http://arxiv.org/abs/2402.12954v1) | **NULL** |
+| **2024/02/20** | Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach | Guillermo Puebla et al. | [2402.12675v1](http://arxiv.org/abs/2402.12675v1) | [**link**](https://github.com/GuillermoPuebla/object-centric-reasoning) |
+| **2024/02/19** | Towards Cross-Domain Continual Learning | Marcus de Carvalho et al. | [2402.12490v1](http://arxiv.org/abs/2402.12490v1) | [**link**](https://github.com/ivsucram/cdcl) |
 | **2024/02/19** | Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach | Chengyi Ju et al. | [2402.12202v1](http://arxiv.org/abs/2402.12202v1) | **NULL** |
 | **2024/02/19** | Language-guided Image Reflection Separation | Haofeng Zhong et al. | [2402.11874v1](http://arxiv.org/abs/2402.11874v1) | **NULL** |
 | **2024/02/19** | CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking | Zian Su et al. | [2402.11842v1](http://arxiv.org/abs/2402.11842v1) | [**link**](https://github.com/ziansu/codeart) |
@@ -61,7 +65,7 @@ layout: default
 | **2024/02/17** | ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition | Anxhelo Diko et al. | [2402.11301v1](http://arxiv.org/abs/2402.11301v1) | [**link**](https://github.com/adiko1997/revit) |
 | **2024/02/16** | ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment | Yangyifei Luo et al. | [2402.11000v1](http://arxiv.org/abs/2402.11000v1) | **NULL** |
 | **2024/02/16** | EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge | Xuan Shen et al. | [2402.10787v1](http://arxiv.org/abs/2402.10787v1) | **NULL** |
-| **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v2](http://arxiv.org/abs/2402.10739v2) | **NULL** |
+| **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v2](http://arxiv.org/abs/2402.10739v2) | [**link**](https://github.com/lmd0311/pointmamba) |
 | **2024/02/16** | BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.10717v1](http://arxiv.org/abs/2402.10717v1) | **NULL** |
 | **2024/02/16** | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | Yuqi Chen et al. | [2402.10635v1](http://arxiv.org/abs/2402.10635v1) | [**link**](https://github.com/microsoft/SeqML/tree/main/ContiFormer) |
 | **2024/02/16** | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | Ivan Marisca et al. | [2402.10634v1](http://arxiv.org/abs/2402.10634v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/02/13** | Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs | Hengnian Gu et al. | [2402.08256v1](http://arxiv.org/abs/2402.08256v1) | **NULL** |
 | **2024/02/13** | Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective | Kai Guo et al. | [2402.08228v2](http://arxiv.org/abs/2402.08228v2) | **NULL** |
 | **2024/02/13** | Transformer Mechanisms Mimic Frontostriatal Gating Operations When Trained on Human Working Memory Tasks | Aaron Traylor et al. | [2402.08211v1](http://arxiv.org/abs/2402.08211v1) | **NULL** |
-| **2024/02/12** | FAST: Factorizable Attention for Speeding up Transformers | Armin Gerami et al. | [2402.07901v1](http://arxiv.org/abs/2402.07901v1) | **NULL** |
-| **2024/02/12** | Multi-Intent Attribute-Aware Text Matching in Searching | Mingzhe Li et al. | [2402.07788v1](http://arxiv.org/abs/2402.07788v1) | **NULL** |
-| **2024/02/12** | Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism | Philipp Froehlich et al. | [2402.07735v2](http://arxiv.org/abs/2402.07735v2) | **NULL** |
-| **2024/02/12** | News Recommendation with Attention Mechanism | Tianrui Liu et al. | [2402.07422v1](http://arxiv.org/abs/2402.07422v1) | **NULL** |
 
 ## 背景差分
 
