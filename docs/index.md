@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/22 08:43:23
+> Updated on 2024/02/23 08:42:59
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/21** | TransGOP: Transformer-Based Gaze Object Prediction | Binglu Wang et al. | [2402.13578v1](http://arxiv.org/abs/2402.13578v1) | **NULL** |
+| **2024/02/21** | ToDo: Token Downsampling for Efficient Generation of High-Resolution Images | Ethan Smith et al. | [2402.13573v1](http://arxiv.org/abs/2402.13573v1) | **NULL** |
+| **2024/02/21** | From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers | M. Emrullah Ildiz et al. | [2402.13512v1](http://arxiv.org/abs/2402.13512v1) | **NULL** |
+| **2024/02/21** | HetTree: Heterogeneous Tree Graph Neural Network | Mingyu Guan et al. | [2402.13496v1](http://arxiv.org/abs/2402.13496v1) | **NULL** |
 | **2024/02/20** | How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena | Marco Gaido et al. | [2402.13208v1](http://arxiv.org/abs/2402.13208v1) | **NULL** |
 | **2024/02/20** | Conditional Logical Message Passing Transformer for Complex Query Answering | Chongzhi Zhang et al. | [2402.12954v1](http://arxiv.org/abs/2402.12954v1) | **NULL** |
+| **2024/02/20** | Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-terminal Coding Sequences | Zhanglu Yan et al. | [2402.13297v1](http://arxiv.org/abs/2402.13297v1) | **NULL** |
 | **2024/02/20** | Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach | Guillermo Puebla et al. | [2402.12675v1](http://arxiv.org/abs/2402.12675v1) | [**link**](https://github.com/GuillermoPuebla/object-centric-reasoning) |
 | **2024/02/19** | Towards Cross-Domain Continual Learning | Marcus de Carvalho et al. | [2402.12490v1](http://arxiv.org/abs/2402.12490v1) | [**link**](https://github.com/ivsucram/cdcl) |
+| **2024/02/19** | DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models | Berkay Berabi et al. | [2402.13291v1](http://arxiv.org/abs/2402.13291v1) | **NULL** |
 | **2024/02/19** | Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach | Chengyi Ju et al. | [2402.12202v1](http://arxiv.org/abs/2402.12202v1) | **NULL** |
 | **2024/02/19** | Language-guided Image Reflection Separation | Haofeng Zhong et al. | [2402.11874v1](http://arxiv.org/abs/2402.11874v1) | **NULL** |
 | **2024/02/19** | CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking | Zian Su et al. | [2402.11842v1](http://arxiv.org/abs/2402.11842v1) | [**link**](https://github.com/ziansu/codeart) |
@@ -77,17 +83,12 @@ layout: default
 | **2024/02/14** | Predictive Temporal Attention on Event-based Video Stream for Energy-efficient Situation Awareness | Yiming Bu et al. | [2402.08936v1](http://arxiv.org/abs/2402.08936v1) | **NULL** |
 | **2024/02/14** | Tree-Based Hard Attention with Self-Motivation for Large Language Models | Chenxi Lin et al. | [2402.08874v1](http://arxiv.org/abs/2402.08874v1) | **NULL** |
 | **2024/02/13** | Approximation of relation functions and attention mechanisms | Awni Altabaa et al. | [2402.08856v1](http://arxiv.org/abs/2402.08856v1) | **NULL** |
-| **2024/02/13** | Measuring and Controlling Persona Drift in Language Model Dialogs | Kenneth Li et al. | [2402.10962v1](http://arxiv.org/abs/2402.10962v1) | **NULL** |
-| **2024/02/13** | Revealing Decurve Flows for Generalized Graph Propagation | Chen Lin et al. | [2402.08480v1](http://arxiv.org/abs/2402.08480v1) | **NULL** |
-| **2024/02/13** | Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products | Guy Bar-Shalom et al. | [2402.08450v1](http://arxiv.org/abs/2402.08450v1) | **NULL** |
-| **2024/02/13** | Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs | Hengnian Gu et al. | [2402.08256v1](http://arxiv.org/abs/2402.08256v1) | **NULL** |
-| **2024/02/13** | Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective | Kai Guo et al. | [2402.08228v2](http://arxiv.org/abs/2402.08228v2) | **NULL** |
-| **2024/02/13** | Transformer Mechanisms Mimic Frontostriatal Gating Operations When Trained on Human Working Memory Tasks | Aaron Traylor et al. | [2402.08211v1](http://arxiv.org/abs/2402.08211v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v1](http://arxiv.org/abs/2402.13805v1) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
 | **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/05/15** | Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment | Zahra Sattari et al. | [2305.09021v1](http://arxiv.org/abs/2305.09021v1) | **NULL** |
 | **2023/04/20** | General mass formulas for charged Kerr-AdS black holes | Yunjiao Gao et al. | [2304.10290v3](http://arxiv.org/abs/2304.10290v3) | **NULL** |
 | **2023/04/02** | Percolation-induced resistivity drop in cold-pressed LuH2 | Ningning Wang et al. | [2304.00558v1](http://arxiv.org/abs/2304.00558v1) | **NULL** |
-| **2023/03/27** | Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07) | A. T. Barnes et al. | [2303.15499v2](http://arxiv.org/abs/2303.15499v2) | **NULL** |
