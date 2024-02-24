@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/23 08:42:59
+> Updated on 2024/02/24 08:41:25
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
@@ -47,12 +48,21 @@ layout: default
 | **2023/03/31** | Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm | Hongen Liu | [2304.00018v1](http://arxiv.org/abs/2304.00018v1) | **NULL** |
 | **2023/03/27** | A novel Multi to Single Module for small object detection | Xiaohui Guo | [2303.14977v1](http://arxiv.org/abs/2303.14977v1) | **NULL** |
 | **2023/03/20** | Rethinking the backbone architecture for tiny object detection | Jinlai Ning et al. | [2303.11267v1](http://arxiv.org/abs/2303.11267v1) | **NULL** |
-| **2023/03/15** | Cascaded Zoom-in Detector for High Resolution Aerial Images | Akhil Meethal et al. | [2303.08747v1](http://arxiv.org/abs/2303.08747v1) | [**link**](https://github.com/akhilpm/dronedetectron2) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/22** | Prompting a Pretrained Transformer Can Be a Universal Approximator | Aleksandar Petrov et al. | [2402.14753v1](http://arxiv.org/abs/2402.14753v1) | **NULL** |
+| **2024/02/22** | How Transformers Learn Causal Structure with Gradient Descent | Eshaan Nichani et al. | [2402.14735v1](http://arxiv.org/abs/2402.14735v1) | **NULL** |
+| **2024/02/22** | CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks | Yifan Duan et al. | [2402.14708v1](http://arxiv.org/abs/2402.14708v1) | **NULL** |
+| **2024/02/22** | Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation | Jiajie Su et al. | [2402.14473v1](http://arxiv.org/abs/2402.14473v1) | [**link**](https://github.com/tiliaceaesu/pbat) |
+| **2024/02/22** | Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing | Hao Li et al. | [2402.14398v1](http://arxiv.org/abs/2402.14398v1) | **NULL** |
+| **2024/02/22** | Reading Relevant Feature from Global Representation Memory for Visual Object Tracking | Xinyu Zhou et al. | [2402.14392v1](http://arxiv.org/abs/2402.14392v1) | **NULL** |
+| **2024/02/22** | RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation | Changsong Pang et al. | [2402.14380v1](http://arxiv.org/abs/2402.14380v1) | **NULL** |
+| **2024/02/22** | Learning to Kern -- Set-wise Estimation of Optimal Letter Space | Kei Nakatsuru et al. | [2402.14313v1](http://arxiv.org/abs/2402.14313v1) | **NULL** |
+| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
+| **2024/02/22** | HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention | Shuang Chen et al. | [2402.14185v1](http://arxiv.org/abs/2402.14185v1) | [**link**](https://github.com/chrischen1023/hint) |
 | **2024/02/21** | TransGOP: Transformer-Based Gaze Object Prediction | Binglu Wang et al. | [2402.13578v1](http://arxiv.org/abs/2402.13578v1) | **NULL** |
 | **2024/02/21** | ToDo: Token Downsampling for Efficient Generation of High-Resolution Images | Ethan Smith et al. | [2402.13573v1](http://arxiv.org/abs/2402.13573v1) | **NULL** |
 | **2024/02/21** | From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers | M. Emrullah Ildiz et al. | [2402.13512v1](http://arxiv.org/abs/2402.13512v1) | **NULL** |
@@ -69,20 +79,10 @@ layout: default
 | **2024/02/19** | MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.11788v1](http://arxiv.org/abs/2402.11788v1) | **NULL** |
 | **2024/02/18** | FGeo-HyperGNet: Geometry Problem Solving Integrating Formal Symbolic System and Hypergraph Neural Network | Xiaokai Zhang et al. | [2402.11461v1](http://arxiv.org/abs/2402.11461v1) | [**link**](https://github.com/bitsecret/hypergnet) |
 | **2024/02/17** | ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition | Anxhelo Diko et al. | [2402.11301v1](http://arxiv.org/abs/2402.11301v1) | [**link**](https://github.com/adiko1997/revit) |
-| **2024/02/16** | ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment | Yangyifei Luo et al. | [2402.11000v1](http://arxiv.org/abs/2402.11000v1) | **NULL** |
+| **2024/02/16** | ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment | Yangyifei Luo et al. | [2402.11000v1](http://arxiv.org/abs/2402.11000v1) | [**link**](https://github.com/zjukg/MEAformer) |
 | **2024/02/16** | EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge | Xuan Shen et al. | [2402.10787v1](http://arxiv.org/abs/2402.10787v1) | **NULL** |
 | **2024/02/16** | PointMamba: A Simple State Space Model for Point Cloud Analysis | Dingkang Liang et al. | [2402.10739v2](http://arxiv.org/abs/2402.10739v2) | [**link**](https://github.com/lmd0311/pointmamba) |
 | **2024/02/16** | BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.10717v1](http://arxiv.org/abs/2402.10717v1) | **NULL** |
-| **2024/02/16** | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | Yuqi Chen et al. | [2402.10635v1](http://arxiv.org/abs/2402.10635v1) | [**link**](https://github.com/microsoft/SeqML/tree/main/ContiFormer) |
-| **2024/02/16** | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | Ivan Marisca et al. | [2402.10634v1](http://arxiv.org/abs/2402.10634v1) | **NULL** |
-| **2024/02/15** | InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization | Zhengyang Hu et al. | [2402.10158v1](http://arxiv.org/abs/2402.10158v1) | **NULL** |
-| **2024/02/15** | Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention | Hansol Jung et al. | [2402.09784v2](http://arxiv.org/abs/2402.09784v2) | **NULL** |
-| **2024/02/14** | YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection | Chun-Tse Chien et al. | [2402.09329v2](http://arxiv.org/abs/2402.09329v2) | [**link**](https://github.com/ruiyangju/fracture_detection_improved_yolov8) |
-| **2024/02/14** | Crop and Couple: cardiac image segmentation using interlinked specialist networks | Abbas Khan et al. | [2402.09156v1](http://arxiv.org/abs/2402.09156v1) | [**link**](https://github.com/kabbas570/crocnet) |
-| **2024/02/14** | Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks | Zihang Song et al. | [2402.09109v1](http://arxiv.org/abs/2402.09109v1) | **NULL** |
-| **2024/02/14** | Predictive Temporal Attention on Event-based Video Stream for Energy-efficient Situation Awareness | Yiming Bu et al. | [2402.08936v1](http://arxiv.org/abs/2402.08936v1) | **NULL** |
-| **2024/02/14** | Tree-Based Hard Attention with Self-Motivation for Large Language Models | Chenxi Lin et al. | [2402.08874v1](http://arxiv.org/abs/2402.08874v1) | **NULL** |
-| **2024/02/13** | Approximation of relation functions and attention mechanisms | Awni Altabaa et al. | [2402.08856v1](http://arxiv.org/abs/2402.08856v1) | **NULL** |
 
 ## 背景差分
 
