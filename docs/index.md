@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/27 08:42:58
+> Updated on 2024/02/28 08:42:56
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/26** | GARNN: An Interpretable Graph Attentive Recurrent Neural Network for Predicting Blood Glucose Levels via Multivariate Time Series | Chengzhe Piao et al. | [2402.16230v1](http://arxiv.org/abs/2402.16230v1) | **NULL** |
+| **2024/02/25** | ASEM: Enhancing Empathy in Chatbot through Attention-based Sentiment and Emotion Modeling | Omama Hamad et al. | [2402.16194v1](http://arxiv.org/abs/2402.16194v1) | [**link**](https://github.com/mirah-official/empathetic-chatbot-asem) |
+| **2024/02/25** | StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention | Seungwon Seo et al. | [2402.16092v1](http://arxiv.org/abs/2402.16092v1) | [**link**](https://github.com/daintlab/stochastic_cross_attention) |
+| **2024/02/25** | Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation | Chunxi Wang et al. | [2402.16003v1](http://arxiv.org/abs/2402.16003v1) | **NULL** |
+| **2024/02/25** | Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management | Mohammed Abo Sen | [2402.15945v1](http://arxiv.org/abs/2402.15945v1) | **NULL** |
+| **2024/02/24** | A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation | Yilin Zheng et al. | [2402.15815v1](http://arxiv.org/abs/2402.15815v1) | **NULL** |
+| **2024/02/24** | Gait-Based Privacy Protection for Smart Wearable Devices | Yu Su et al. | [2402.15797v1](http://arxiv.org/abs/2402.15797v1) | **NULL** |
+| **2024/02/24** | How Do Humans Write Code? Large Models Do It the Same Way Too | Long Li | [2402.15729v1](http://arxiv.org/abs/2402.15729v1) | **NULL** |
 | **2024/02/23** | TransFlower: An Explainable Transformer-Based Model with Flow-to-Flow Attention for Commuting Flow Prediction | Yan Luo et al. | [2402.15398v1](http://arxiv.org/abs/2402.15398v1) | **NULL** |
 | **2024/02/23** | Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models | Shunyu Liu et al. | [2402.15289v1](http://arxiv.org/abs/2402.15289v1) | [**link**](https://github.com/qlb6x/diffusionabsa) |
 | **2024/02/23** | Multimodal Transformer With a Low-Computational-Cost Guarantee | Sungjin Park et al. | [2402.15096v1](http://arxiv.org/abs/2402.15096v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/02/21** | HetTree: Heterogeneous Tree Graph Neural Network | Mingyu Guan et al. | [2402.13496v1](http://arxiv.org/abs/2402.13496v1) | **NULL** |
 | **2024/02/20** | How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena | Marco Gaido et al. | [2402.13208v1](http://arxiv.org/abs/2402.13208v1) | **NULL** |
 | **2024/02/20** | Conditional Logical Message Passing Transformer for Complex Query Answering | Chongzhi Zhang et al. | [2402.12954v1](http://arxiv.org/abs/2402.12954v1) | **NULL** |
-| **2024/02/20** | Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-terminal Coding Sequences | Zhanglu Yan et al. | [2402.13297v1](http://arxiv.org/abs/2402.13297v1) | **NULL** |
-| **2024/02/20** | Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach | Guillermo Puebla et al. | [2402.12675v1](http://arxiv.org/abs/2402.12675v1) | [**link**](https://github.com/GuillermoPuebla/object-centric-reasoning) |
-| **2024/02/19** | Towards Cross-Domain Continual Learning | Marcus de Carvalho et al. | [2402.12490v1](http://arxiv.org/abs/2402.12490v1) | [**link**](https://github.com/ivsucram/cdcl) |
-| **2024/02/19** | DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models | Berkay Berabi et al. | [2402.13291v2](http://arxiv.org/abs/2402.13291v2) | **NULL** |
-| **2024/02/19** | Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach | Chengyi Ju et al. | [2402.12202v1](http://arxiv.org/abs/2402.12202v1) | **NULL** |
-| **2024/02/19** | Language-guided Image Reflection Separation | Haofeng Zhong et al. | [2402.11874v1](http://arxiv.org/abs/2402.11874v1) | **NULL** |
-| **2024/02/19** | CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking | Zian Su et al. | [2402.11842v1](http://arxiv.org/abs/2402.11842v1) | [**link**](https://github.com/ziansu/codeart) |
-| **2024/02/19** | MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion | Raktim Kumar Mondol et al. | [2402.11788v1](http://arxiv.org/abs/2402.11788v1) | **NULL** |
 
 ## 背景差分
 
