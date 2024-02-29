@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/28 08:42:56
+> Updated on 2024/02/29 08:43:24
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/27** | NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents | Tamara Czinczoll et al. | [2402.17682v1](http://arxiv.org/abs/2402.17682v1) | **NULL** |
+| **2024/02/27** | Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem | Cong Zhang et al. | [2402.17606v1](http://arxiv.org/abs/2402.17606v1) | **NULL** |
+| **2024/02/27** | Latent Attention for Linear Time Transformers | Rares Dolga et al. | [2402.17512v1](http://arxiv.org/abs/2402.17512v1) | **NULL** |
+| **2024/02/27** | FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation | Li Lin et al. | [2402.17502v1](http://arxiv.org/abs/2402.17502v1) | **NULL** |
+| **2024/02/27** | CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification | Haoran Lai et al. | [2402.17417v1](http://arxiv.org/abs/2402.17417v1) | **NULL** |
+| **2024/02/27** | Generative Learning for Forecasting the Dynamics of Complex Systems | Han Gao et al. | [2402.17157v1](http://arxiv.org/abs/2402.17157v1) | **NULL** |
+| **2024/02/27** | Target Speaker Extraction by Directly Exploiting Contextual Information in the Time-Frequency Domain | Xue Yang et al. | [2402.17146v1](http://arxiv.org/abs/2402.17146v1) | **NULL** |
+| **2024/02/26** | Multi-Human Mesh Recovery with Transformers | Zeyu Wang et al. | [2402.16806v1](http://arxiv.org/abs/2402.16806v1) | **NULL** |
+| **2024/02/26** | DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation | Shang Wu et al. | [2402.16640v1](http://arxiv.org/abs/2402.16640v1) | **NULL** |
+| **2024/02/26** | JefiAtten: An Attention Based Neural Network Model for Solving Maxwell's Equations with Charge and Current Sources | Ming-Yan Sun et al. | [2402.16920v1](http://arxiv.org/abs/2402.16920v1) | **NULL** |
 | **2024/02/26** | GARNN: An Interpretable Graph Attentive Recurrent Neural Network for Predicting Blood Glucose Levels via Multivariate Time Series | Chengzhe Piao et al. | [2402.16230v1](http://arxiv.org/abs/2402.16230v1) | **NULL** |
 | **2024/02/25** | ASEM: Enhancing Empathy in Chatbot through Attention-based Sentiment and Emotion Modeling | Omama Hamad et al. | [2402.16194v1](http://arxiv.org/abs/2402.16194v1) | [**link**](https://github.com/mirah-official/empathetic-chatbot-asem) |
 | **2024/02/25** | StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention | Seungwon Seo et al. | [2402.16092v1](http://arxiv.org/abs/2402.16092v1) | [**link**](https://github.com/daintlab/stochastic_cross_attention) |
@@ -72,17 +82,7 @@ layout: default
 | **2024/02/22** | CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks | Yifan Duan et al. | [2402.14708v1](http://arxiv.org/abs/2402.14708v1) | **NULL** |
 | **2024/02/22** | Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation | Jiajie Su et al. | [2402.14473v1](http://arxiv.org/abs/2402.14473v1) | [**link**](https://github.com/tiliaceaesu/pbat) |
 | **2024/02/22** | Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing | Hao Li et al. | [2402.14398v1](http://arxiv.org/abs/2402.14398v1) | **NULL** |
-| **2024/02/22** | Reading Relevant Feature from Global Representation Memory for Visual Object Tracking | Xinyu Zhou et al. | [2402.14392v2](http://arxiv.org/abs/2402.14392v2) | **NULL** |
-| **2024/02/22** | RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation | Changsong Pang et al. | [2402.14380v1](http://arxiv.org/abs/2402.14380v1) | [**link**](https://github.com/orca-uboat/radarmoseve) |
-| **2024/02/22** | Learning to Kern -- Set-wise Estimation of Optimal Letter Space | Kei Nakatsuru et al. | [2402.14313v1](http://arxiv.org/abs/2402.14313v1) | **NULL** |
-| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
-| **2024/02/22** | HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention | Shuang Chen et al. | [2402.14185v1](http://arxiv.org/abs/2402.14185v1) | [**link**](https://github.com/chrischen1023/hint) |
-| **2024/02/21** | TransGOP: Transformer-Based Gaze Object Prediction | Binglu Wang et al. | [2402.13578v1](http://arxiv.org/abs/2402.13578v1) | **NULL** |
-| **2024/02/21** | ToDo: Token Downsampling for Efficient Generation of High-Resolution Images | Ethan Smith et al. | [2402.13573v1](http://arxiv.org/abs/2402.13573v1) | **NULL** |
-| **2024/02/21** | From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers | M. Emrullah Ildiz et al. | [2402.13512v1](http://arxiv.org/abs/2402.13512v1) | **NULL** |
-| **2024/02/21** | HetTree: Heterogeneous Tree Graph Neural Network | Mingyu Guan et al. | [2402.13496v1](http://arxiv.org/abs/2402.13496v1) | **NULL** |
-| **2024/02/20** | How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena | Marco Gaido et al. | [2402.13208v1](http://arxiv.org/abs/2402.13208v1) | **NULL** |
-| **2024/02/20** | Conditional Logical Message Passing Transformer for Complex Query Answering | Chongzhi Zhang et al. | [2402.12954v1](http://arxiv.org/abs/2402.12954v1) | **NULL** |
+| **2024/02/22** | Reading Relevant Feature from Global Representation Memory for Visual Object Tracking | Xinyu Zhou et al. | [2402.14392v3](http://arxiv.org/abs/2402.14392v3) | **NULL** |
 
 ## 背景差分
 
