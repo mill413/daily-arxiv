@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/02/29 08:43:24
+> Updated on 2024/03/01 08:49:06
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/02/27** | NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents | Tamara Czinczoll et al. | [2402.17682v1](http://arxiv.org/abs/2402.17682v1) | **NULL** |
+| **2024/02/28** | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | Mahdi Karami et al. | [2402.18508v1](http://arxiv.org/abs/2402.18508v1) | **NULL** |
+| **2024/02/28** | Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model | Sangjoon Park et al. | [2402.18362v1](http://arxiv.org/abs/2402.18362v1) | **NULL** |
+| **2024/02/28** | Grid-Based Continuous Normal Representation for Anomaly Detection | Joo Chan Lee et al. | [2402.18293v1](http://arxiv.org/abs/2402.18293v1) | [**link**](https://github.com/tae-mo/GRAD) |
+| **2024/02/28** | Conformer: Embedding Continuous Attention in Vision Transformer for Weather Forecasting | Hira Saleem et al. | [2402.17966v1](http://arxiv.org/abs/2402.17966v1) | **NULL** |
+| **2024/02/28** | An Iterative Associative Memory Model for Empathetic Response Generation | Zhou Yang et al. | [2402.17959v1](http://arxiv.org/abs/2402.17959v1) | **NULL** |
+| **2024/02/27** | NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents | Tamara Czinczoll et al. | [2402.17682v1](http://arxiv.org/abs/2402.17682v1) | [**link**](https://github.com/aiintelligentsystems/next-level-bert) |
 | **2024/02/27** | Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem | Cong Zhang et al. | [2402.17606v1](http://arxiv.org/abs/2402.17606v1) | **NULL** |
 | **2024/02/27** | Latent Attention for Linear Time Transformers | Rares Dolga et al. | [2402.17512v1](http://arxiv.org/abs/2402.17512v1) | **NULL** |
 | **2024/02/27** | FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation | Li Lin et al. | [2402.17502v1](http://arxiv.org/abs/2402.17502v1) | **NULL** |
@@ -67,7 +72,7 @@ layout: default
 | **2024/02/25** | ASEM: Enhancing Empathy in Chatbot through Attention-based Sentiment and Emotion Modeling | Omama Hamad et al. | [2402.16194v1](http://arxiv.org/abs/2402.16194v1) | [**link**](https://github.com/mirah-official/empathetic-chatbot-asem) |
 | **2024/02/25** | StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention | Seungwon Seo et al. | [2402.16092v1](http://arxiv.org/abs/2402.16092v1) | [**link**](https://github.com/daintlab/stochastic_cross_attention) |
 | **2024/02/25** | Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation | Chunxi Wang et al. | [2402.16003v1](http://arxiv.org/abs/2402.16003v1) | **NULL** |
-| **2024/02/25** | Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management | Mohammed Abo Sen | [2402.15945v1](http://arxiv.org/abs/2402.15945v1) | **NULL** |
+| **2024/02/25** | Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management | Mohammed Abo Sen | [2402.15945v2](http://arxiv.org/abs/2402.15945v2) | **NULL** |
 | **2024/02/24** | A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation | Yilin Zheng et al. | [2402.15815v1](http://arxiv.org/abs/2402.15815v1) | **NULL** |
 | **2024/02/24** | Gait-Based Privacy Protection for Smart Wearable Devices | Yu Su et al. | [2402.15797v1](http://arxiv.org/abs/2402.15797v1) | **NULL** |
 | **2024/02/24** | How Do Humans Write Code? Large Models Do It the Same Way Too | Long Li | [2402.15729v1](http://arxiv.org/abs/2402.15729v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/02/22** | Boosting gets full Attention for Relational Learning | Mathieu Guillame-Bert et al. | [2402.14926v1](http://arxiv.org/abs/2402.14926v1) | **NULL** |
 | **2024/02/22** | MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Zechun Liu et al. | [2402.14905v1](http://arxiv.org/abs/2402.14905v1) | **NULL** |
 | **2024/02/22** | Prompting a Pretrained Transformer Can Be a Universal Approximator | Aleksandar Petrov et al. | [2402.14753v1](http://arxiv.org/abs/2402.14753v1) | **NULL** |
-| **2024/02/22** | How Transformers Learn Causal Structure with Gradient Descent | Eshaan Nichani et al. | [2402.14735v1](http://arxiv.org/abs/2402.14735v1) | **NULL** |
-| **2024/02/22** | CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks | Yifan Duan et al. | [2402.14708v1](http://arxiv.org/abs/2402.14708v1) | **NULL** |
-| **2024/02/22** | Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation | Jiajie Su et al. | [2402.14473v1](http://arxiv.org/abs/2402.14473v1) | [**link**](https://github.com/tiliaceaesu/pbat) |
-| **2024/02/22** | Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing | Hao Li et al. | [2402.14398v1](http://arxiv.org/abs/2402.14398v1) | **NULL** |
-| **2024/02/22** | Reading Relevant Feature from Global Representation Memory for Visual Object Tracking | Xinyu Zhou et al. | [2402.14392v3](http://arxiv.org/abs/2402.14392v3) | **NULL** |
 
 ## 背景差分
 
