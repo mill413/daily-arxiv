@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/01 08:49:06
+> Updated on 2024/03/02 08:42:46
 
 <summary>Table of Contents</summary>
 
@@ -25,7 +25,7 @@ layout: default
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | **NULL** |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
-| **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v1](http://arxiv.org/abs/2312.02528v1) | **NULL** |
+| **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | **NULL** |
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/02/29** | GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials | Fankai Xie et al. | [2402.19327v1](http://arxiv.org/abs/2402.19327v1) | **NULL** |
+| **2024/02/29** | CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition | Feng Lu et al. | [2402.19231v1](http://arxiv.org/abs/2402.19231v1) | [**link**](https://github.com/lu-feng/cricavpr) |
+| **2024/02/29** | Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation | Qidan Zhu et al. | [2402.19118v1](http://arxiv.org/abs/2402.19118v1) | **NULL** |
+| **2024/02/28** | Trends, Applications, and Challenges in Human Attention Modelling | Giuseppe Cartella et al. | [2402.18673v1](http://arxiv.org/abs/2402.18673v1) | [**link**](https://github.com/aimagelab/awesome-human-visual-attention) |
 | **2024/02/28** | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | Mahdi Karami et al. | [2402.18508v1](http://arxiv.org/abs/2402.18508v1) | **NULL** |
 | **2024/02/28** | Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model | Sangjoon Park et al. | [2402.18362v1](http://arxiv.org/abs/2402.18362v1) | **NULL** |
 | **2024/02/28** | Grid-Based Continuous Normal Representation for Anomaly Detection | Joo Chan Lee et al. | [2402.18293v1](http://arxiv.org/abs/2402.18293v1) | [**link**](https://github.com/tae-mo/GRAD) |
@@ -79,10 +83,6 @@ layout: default
 | **2024/02/23** | TransFlower: An Explainable Transformer-Based Model with Flow-to-Flow Attention for Commuting Flow Prediction | Yan Luo et al. | [2402.15398v1](http://arxiv.org/abs/2402.15398v1) | **NULL** |
 | **2024/02/23** | Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models | Shunyu Liu et al. | [2402.15289v1](http://arxiv.org/abs/2402.15289v1) | [**link**](https://github.com/qlb6x/diffusionabsa) |
 | **2024/02/23** | Multimodal Transformer With a Low-Computational-Cost Guarantee | Sungjin Park et al. | [2402.15096v1](http://arxiv.org/abs/2402.15096v1) | **NULL** |
-| **2024/02/23** | Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions | Clement Neo et al. | [2402.15055v1](http://arxiv.org/abs/2402.15055v1) | **NULL** |
-| **2024/02/22** | Boosting gets full Attention for Relational Learning | Mathieu Guillame-Bert et al. | [2402.14926v1](http://arxiv.org/abs/2402.14926v1) | **NULL** |
-| **2024/02/22** | MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Zechun Liu et al. | [2402.14905v1](http://arxiv.org/abs/2402.14905v1) | **NULL** |
-| **2024/02/22** | Prompting a Pretrained Transformer Can Be a Universal Approximator | Aleksandar Petrov et al. | [2402.14753v1](http://arxiv.org/abs/2402.14753v1) | **NULL** |
 
 ## 背景差分
 
