@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/03 08:46:41
+> Updated on 2024/03/04 08:44:25
 
 <summary>Table of Contents</summary>
 
@@ -25,7 +25,7 @@ layout: default
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | **NULL** |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
-| **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | **NULL** |
+| **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
@@ -80,7 +80,7 @@ layout: default
 | **2024/02/24** | A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation | Yilin Zheng et al. | [2402.15815v1](http://arxiv.org/abs/2402.15815v1) | **NULL** |
 | **2024/02/24** | Gait-Based Privacy Protection for Smart Wearable Devices | Yu Su et al. | [2402.15797v1](http://arxiv.org/abs/2402.15797v1) | **NULL** |
 | **2024/02/24** | How Do Humans Write Code? Large Models Do It the Same Way Too | Long Li | [2402.15729v1](http://arxiv.org/abs/2402.15729v1) | **NULL** |
-| **2024/02/23** | TransFlower: An Explainable Transformer-Based Model with Flow-to-Flow Attention for Commuting Flow Prediction | Yan Luo et al. | [2402.15398v1](http://arxiv.org/abs/2402.15398v1) | **NULL** |
+| **2024/02/23** | TransFlower: An Explainable Transformer-Based Model with Flow-to-Flow Attention for Commuting Flow Prediction | Yan Luo et al. | [2402.15398v1](http://arxiv.org/abs/2402.15398v1) | [**link**](https://github.com/zwanah/transflower) |
 | **2024/02/23** | Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models | Shunyu Liu et al. | [2402.15289v1](http://arxiv.org/abs/2402.15289v1) | [**link**](https://github.com/qlb6x/diffusionabsa) |
 | **2024/02/23** | Multimodal Transformer With a Low-Computational-Cost Guarantee | Sungjin Park et al. | [2402.15096v1](http://arxiv.org/abs/2402.15096v1) | **NULL** |
 
