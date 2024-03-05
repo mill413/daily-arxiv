@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/04 08:44:25
+> Updated on 2024/03/05 08:43:27
 
 <summary>Table of Contents</summary>
 
@@ -88,7 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v1](http://arxiv.org/abs/2402.13805v1) | **NULL** |
+| **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
 | **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
