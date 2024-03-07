@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/06 08:43:41
+> Updated on 2024/03/07 08:35:50
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/05** | VQSynery: Robust Drug Synergy Prediction With Vector Quantization Mechanism | Jiawei Wu et al. | [2403.03089v1](http://arxiv.org/abs/2403.03089v1) | **NULL** |
+| **2024/03/05** | TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax | Tobias Christian Nauen et al. | [2403.02920v1](http://arxiv.org/abs/2403.02920v1) | [**link**](https://github.com/tobna/taylorshift) |
+| **2024/03/05** | Quantum Mixed-State Self-Attention Network | Fu Chen et al. | [2403.02871v1](http://arxiv.org/abs/2403.02871v1) | **NULL** |
+| **2024/03/05** | Learning to Defer to a Population: A Meta-Learning Approach | Dharmesh Tailor et al. | [2403.02683v1](http://arxiv.org/abs/2403.02683v1) | [**link**](https://github.com/dvtailor/meta-l2d) |
+| **2024/03/04** | NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function | Abdullah Nazhat Abdullah et al. | [2403.02411v1](http://arxiv.org/abs/2403.02411v1) | [**link**](https://github.com/Abdullah-88/NiNformer) |
+| **2024/03/04** | Self-Supervised Facial Representation Learning with Facial Region Awareness | Zheng Gao et al. | [2403.02138v1](http://arxiv.org/abs/2403.02138v1) | **NULL** |
+| **2024/03/04** | SA-SOT: Speaker-Aware Serialized Output Training for Multi-Talker ASR | Zhiyun Fan et al. | [2403.02010v1](http://arxiv.org/abs/2403.02010v1) | **NULL** |
+| **2024/03/04** | RCoCo: Contrastive Collective Link Prediction across Multiplex Network in Riemannian Space | Li Sun et al. | [2403.01864v1](http://arxiv.org/abs/2403.01864v1) | **NULL** |
+| **2024/03/04** | AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation | Haonan Wang et al. | [2403.01818v1](http://arxiv.org/abs/2403.01818v1) | [**link**](https://github.com/xmed-lab/AllSpark) |
+| **2024/03/04** | Improving out-of-distribution generalization in graphs via hierarchical semantic environments | Yinhua Piao et al. | [2403.01773v1](http://arxiv.org/abs/2403.01773v1) | **NULL** |
+| **2024/03/04** | KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification | Bo Li et al. | [2403.01767v1](http://arxiv.org/abs/2403.01767v1) | **NULL** |
+| **2024/03/04** | Attention Guidance Mechanism for Handwritten Mathematical Expression Recognition | Yutian Liu et al. | [2403.01756v2](http://arxiv.org/abs/2403.01756v2) | **NULL** |
+| **2024/03/04** | MCA: Moment Channel Attention Networks | Yangbo Jiang et al. | [2403.01713v1](http://arxiv.org/abs/2403.01713v1) | **NULL** |
+| **2024/03/04** | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | Jiecheng Lu et al. | [2403.01673v1](http://arxiv.org/abs/2403.01673v1) | **NULL** |
+| **2024/03/03** | You Need to Pay Better Attention | Mehran Hosseini et al. | [2403.01643v1](http://arxiv.org/abs/2403.01643v1) | **NULL** |
+| **2024/03/03** | Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network | Renjie Xu et al. | [2403.01501v1](http://arxiv.org/abs/2403.01501v1) | [**link**](https://github.com/renj-xu/negsc) |
+| **2024/03/03** | BronchoCopilot: Towards Autonomous Robotic Bronchoscopy via Multimodal Reinforcement Learning | Jianbo Zhao et al. | [2403.01483v1](http://arxiv.org/abs/2403.01483v1) | **NULL** |
+| **2024/03/03** | Representation Learning on Heterophilic Graph with Directional Neighborhood Attention | Qincheng Lu et al. | [2403.01475v1](http://arxiv.org/abs/2403.01475v1) | **NULL** |
+| **2024/03/03** | Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation | Dipesh Gyawali et al. | [2403.01407v1](http://arxiv.org/abs/2403.01407v1) | **NULL** |
 | **2024/03/02** | Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment | Luyao Wang et al. | [2403.01203v1](http://arxiv.org/abs/2403.01203v1) | **NULL** |
 | **2024/03/02** | ELA: Efficient Local Attention for Deep Convolutional Neural Networks | Wei Xu et al. | [2403.01123v1](http://arxiv.org/abs/2403.01123v1) | **NULL** |
+| **2024/03/01** | ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys | Yue Niu et al. | [2403.02352v1](http://arxiv.org/abs/2403.02352v1) | **NULL** |
 | **2024/03/01** | Tri-Modal Motion Retrieval by Learning a Joint Embedding Space | Kangning Yin et al. | [2403.00691v1](http://arxiv.org/abs/2403.00691v1) | **NULL** |
 | **2024/03/01** | GLFNET: Global-Local (frequency) Filter Networks for efficient medical image segmentation | Athanasios Tragakis et al. | [2403.00396v1](http://arxiv.org/abs/2403.00396v1) | **NULL** |
 | **2024/02/29** | GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials | Fankai Xie et al. | [2402.19327v1](http://arxiv.org/abs/2402.19327v1) | **NULL** |
@@ -63,26 +83,6 @@ layout: default
 | **2024/02/29** | Identification of Craving Maps among Marijuana Users via Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks | Jun-En Ding et al. | [2403.00033v2](http://arxiv.org/abs/2403.00033v2) | **NULL** |
 | **2024/02/28** | Trends, Applications, and Challenges in Human Attention Modelling | Giuseppe Cartella et al. | [2402.18673v1](http://arxiv.org/abs/2402.18673v1) | [**link**](https://github.com/aimagelab/awesome-human-visual-attention) |
 | **2024/02/28** | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | Mahdi Karami et al. | [2402.18508v1](http://arxiv.org/abs/2402.18508v1) | **NULL** |
-| **2024/02/28** | Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model | Sangjoon Park et al. | [2402.18362v1](http://arxiv.org/abs/2402.18362v1) | **NULL** |
-| **2024/02/28** | Grid-Based Continuous Normal Representation for Anomaly Detection | Joo Chan Lee et al. | [2402.18293v1](http://arxiv.org/abs/2402.18293v1) | [**link**](https://github.com/tae-mo/GRAD) |
-| **2024/02/28** | Conformer: Embedding Continuous Attention in Vision Transformer for Weather Forecasting | Hira Saleem et al. | [2402.17966v1](http://arxiv.org/abs/2402.17966v1) | **NULL** |
-| **2024/02/28** | An Iterative Associative Memory Model for Empathetic Response Generation | Zhou Yang et al. | [2402.17959v1](http://arxiv.org/abs/2402.17959v1) | **NULL** |
-| **2024/02/27** | NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents | Tamara Czinczoll et al. | [2402.17682v1](http://arxiv.org/abs/2402.17682v1) | [**link**](https://github.com/aiintelligentsystems/next-level-bert) |
-| **2024/02/27** | Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem | Cong Zhang et al. | [2402.17606v1](http://arxiv.org/abs/2402.17606v1) | **NULL** |
-| **2024/02/27** | Latent Attention for Linear Time Transformers | Rares Dolga et al. | [2402.17512v2](http://arxiv.org/abs/2402.17512v2) | **NULL** |
-| **2024/02/27** | FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation | Li Lin et al. | [2402.17502v1](http://arxiv.org/abs/2402.17502v1) | **NULL** |
-| **2024/02/27** | CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification | Haoran Lai et al. | [2402.17417v1](http://arxiv.org/abs/2402.17417v1) | **NULL** |
-| **2024/02/27** | GIN-SD: Source Detection in Graphs with Incomplete Nodes via Positional Encoding and Attentive Fusion | Le Cheng et al. | [2403.00014v1](http://arxiv.org/abs/2403.00014v1) | **NULL** |
-| **2024/02/27** | Generative Learning for Forecasting the Dynamics of Complex Systems | Han Gao et al. | [2402.17157v1](http://arxiv.org/abs/2402.17157v1) | **NULL** |
-| **2024/02/27** | PreRoutGNN for Timing Prediction with Order Preserving Partition: Global Circuit Pre-training, Local Delay Learning and Attentional Cell Modeling | Ruizhe Zhong et al. | [2403.00012v1](http://arxiv.org/abs/2403.00012v1) | **NULL** |
-| **2024/02/27** | Target Speaker Extraction by Directly Exploiting Contextual Information in the Time-Frequency Domain | Xue Yang et al. | [2402.17146v1](http://arxiv.org/abs/2402.17146v1) | **NULL** |
-| **2024/02/26** | Multi-Human Mesh Recovery with Transformers | Zeyu Wang et al. | [2402.16806v1](http://arxiv.org/abs/2402.16806v1) | **NULL** |
-| **2024/02/26** | DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation | Shang Wu et al. | [2402.16640v1](http://arxiv.org/abs/2402.16640v1) | **NULL** |
-| **2024/02/26** | JefiAtten: An Attention Based Neural Network Model for Solving Maxwell's Equations with Charge and Current Sources | Ming-Yan Sun et al. | [2402.16920v1](http://arxiv.org/abs/2402.16920v1) | **NULL** |
-| **2024/02/26** | GARNN: An Interpretable Graph Attentive Recurrent Neural Network for Predicting Blood Glucose Levels via Multivariate Time Series | Chengzhe Piao et al. | [2402.16230v1](http://arxiv.org/abs/2402.16230v1) | **NULL** |
-| **2024/02/25** | ASEM: Enhancing Empathy in Chatbot through Attention-based Sentiment and Emotion Modeling | Omama Hamad et al. | [2402.16194v1](http://arxiv.org/abs/2402.16194v1) | [**link**](https://github.com/mirah-official/empathetic-chatbot-asem) |
-| **2024/02/25** | StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention | Seungwon Seo et al. | [2402.16092v1](http://arxiv.org/abs/2402.16092v1) | [**link**](https://github.com/daintlab/stochastic_cross_attention) |
-| **2024/02/25** | Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation | Chunxi Wang et al. | [2402.16003v1](http://arxiv.org/abs/2402.16003v1) | **NULL** |
 
 ## 背景差分
 
