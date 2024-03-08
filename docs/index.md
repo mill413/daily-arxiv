@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/07 08:35:50
+> Updated on 2024/03/08 08:43:40
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
@@ -47,12 +48,16 @@ layout: default
 | **2023/04/07** | TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors | Shaoyu Chen et al. | [2304.03428v1](http://arxiv.org/abs/2304.03428v1) | **NULL** |
 | **2023/03/31** | Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm | Hongen Liu | [2304.00018v1](http://arxiv.org/abs/2304.00018v1) | **NULL** |
 | **2023/03/27** | A novel Multi to Single Module for small object detection | Xiaohui Guo | [2303.14977v1](http://arxiv.org/abs/2303.14977v1) | **NULL** |
-| **2023/03/20** | Rethinking the backbone architecture for tiny object detection | Jinlai Ning et al. | [2303.11267v1](http://arxiv.org/abs/2303.11267v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/06** | Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators | Mohammad Ali Labbaf Khaniki et al. | [2403.03606v1](http://arxiv.org/abs/2403.03606v1) | **NULL** |
+| **2024/03/06** | LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features | Xuying Xiong et al. | [2403.03527v1](http://arxiv.org/abs/2403.03527v1) | **NULL** |
+| **2024/03/06** | Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding | Mengying Jiang et al. | [2403.03465v1](http://arxiv.org/abs/2403.03465v1) | [**link**](https://github.com/mengyingjiang/gcn-sa) |
+| **2024/03/06** | HDRFlow: Real-Time HDR Video Reconstruction with Large Motions | Gangwei Xu et al. | [2403.03447v1](http://arxiv.org/abs/2403.03447v1) | **NULL** |
+| **2024/03/05** | ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures | Salim Rukhsar et al. | [2403.03276v1](http://arxiv.org/abs/2403.03276v1) | **NULL** |
 | **2024/03/05** | VQSynery: Robust Drug Synergy Prediction With Vector Quantization Mechanism | Jiawei Wu et al. | [2403.03089v1](http://arxiv.org/abs/2403.03089v1) | **NULL** |
 | **2024/03/05** | TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax | Tobias Christian Nauen et al. | [2403.02920v1](http://arxiv.org/abs/2403.02920v1) | [**link**](https://github.com/tobna/taylorshift) |
 | **2024/03/05** | Quantum Mixed-State Self-Attention Network | Fu Chen et al. | [2403.02871v1](http://arxiv.org/abs/2403.02871v1) | **NULL** |
@@ -61,7 +66,7 @@ layout: default
 | **2024/03/04** | Self-Supervised Facial Representation Learning with Facial Region Awareness | Zheng Gao et al. | [2403.02138v1](http://arxiv.org/abs/2403.02138v1) | **NULL** |
 | **2024/03/04** | SA-SOT: Speaker-Aware Serialized Output Training for Multi-Talker ASR | Zhiyun Fan et al. | [2403.02010v1](http://arxiv.org/abs/2403.02010v1) | **NULL** |
 | **2024/03/04** | RCoCo: Contrastive Collective Link Prediction across Multiplex Network in Riemannian Space | Li Sun et al. | [2403.01864v1](http://arxiv.org/abs/2403.01864v1) | **NULL** |
-| **2024/03/04** | AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation | Haonan Wang et al. | [2403.01818v1](http://arxiv.org/abs/2403.01818v1) | [**link**](https://github.com/xmed-lab/AllSpark) |
+| **2024/03/04** | AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation | Haonan Wang et al. | [2403.01818v2](http://arxiv.org/abs/2403.01818v2) | [**link**](https://github.com/xmed-lab/AllSpark) |
 | **2024/03/04** | Improving out-of-distribution generalization in graphs via hierarchical semantic environments | Yinhua Piao et al. | [2403.01773v1](http://arxiv.org/abs/2403.01773v1) | **NULL** |
 | **2024/03/04** | KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification | Bo Li et al. | [2403.01767v1](http://arxiv.org/abs/2403.01767v1) | **NULL** |
 | **2024/03/04** | Attention Guidance Mechanism for Handwritten Mathematical Expression Recognition | Yutian Liu et al. | [2403.01756v2](http://arxiv.org/abs/2403.01756v2) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/03/01** | Tri-Modal Motion Retrieval by Learning a Joint Embedding Space | Kangning Yin et al. | [2403.00691v1](http://arxiv.org/abs/2403.00691v1) | **NULL** |
 | **2024/03/01** | GLFNET: Global-Local (frequency) Filter Networks for efficient medical image segmentation | Athanasios Tragakis et al. | [2403.00396v1](http://arxiv.org/abs/2403.00396v1) | **NULL** |
 | **2024/02/29** | GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials | Fankai Xie et al. | [2402.19327v1](http://arxiv.org/abs/2402.19327v1) | **NULL** |
-| **2024/02/29** | CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition | Feng Lu et al. | [2402.19231v1](http://arxiv.org/abs/2402.19231v1) | [**link**](https://github.com/lu-feng/cricavpr) |
-| **2024/02/29** | Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation | Qidan Zhu et al. | [2402.19118v1](http://arxiv.org/abs/2402.19118v1) | **NULL** |
-| **2024/02/29** | Identification of Craving Maps among Marijuana Users via Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks | Jun-En Ding et al. | [2403.00033v2](http://arxiv.org/abs/2403.00033v2) | **NULL** |
-| **2024/02/28** | Trends, Applications, and Challenges in Human Attention Modelling | Giuseppe Cartella et al. | [2402.18673v1](http://arxiv.org/abs/2402.18673v1) | [**link**](https://github.com/aimagelab/awesome-human-visual-attention) |
-| **2024/02/28** | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | Mahdi Karami et al. | [2402.18508v1](http://arxiv.org/abs/2402.18508v1) | **NULL** |
 
 ## 背景差分
 
