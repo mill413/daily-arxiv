@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/08 08:43:40
+> Updated on 2024/03/09 08:41:55
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v1](http://arxiv.org/abs/2403.04765v1) | **NULL** |
+| **2024/03/07** | Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism | Xiaoyu Tang et al. | [2403.04743v1](http://arxiv.org/abs/2403.04743v1) | **NULL** |
+| **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v1](http://arxiv.org/abs/2403.04661v1) | **NULL** |
+| **2024/03/07** | T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers | Mariano V. Ntrougkas et al. | [2403.04523v1](http://arxiv.org/abs/2403.04523v1) | **NULL** |
+| **2024/03/07** | From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction | Ang Li et al. | [2403.04369v1](http://arxiv.org/abs/2403.04369v1) | [**link**](https://github.com/liang-star177/fwgb) |
+| **2024/03/07** | A mechanism-informed reinforcement learning framework for shape optimization of airfoils | Jingfeng Wang et al. | [2403.04329v1](http://arxiv.org/abs/2403.04329v1) | **NULL** |
+| **2024/03/07** | MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive | Pengzhou Cheng et al. | [2403.04293v1](http://arxiv.org/abs/2403.04293v1) | **NULL** |
+| **2024/03/07** | ACC-ViT : Atrous Convolution's Comeback in Vision Transformers | Nabil Ibtehaz et al. | [2403.04200v1](http://arxiv.org/abs/2403.04200v1) | **NULL** |
+| **2024/03/07** | Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model | Hao Peng et al. | [2403.04175v1](http://arxiv.org/abs/2403.04175v1) | **NULL** |
 | **2024/03/06** | Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators | Mohammad Ali Labbaf Khaniki et al. | [2403.03606v1](http://arxiv.org/abs/2403.03606v1) | **NULL** |
 | **2024/03/06** | LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features | Xuying Xiong et al. | [2403.03527v1](http://arxiv.org/abs/2403.03527v1) | **NULL** |
 | **2024/03/06** | Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding | Mengying Jiang et al. | [2403.03465v1](http://arxiv.org/abs/2403.03465v1) | [**link**](https://github.com/mengyingjiang/gcn-sa) |
@@ -74,15 +83,6 @@ layout: default
 | **2024/03/04** | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | Jiecheng Lu et al. | [2403.01673v1](http://arxiv.org/abs/2403.01673v1) | **NULL** |
 | **2024/03/03** | You Need to Pay Better Attention | Mehran Hosseini et al. | [2403.01643v1](http://arxiv.org/abs/2403.01643v1) | **NULL** |
 | **2024/03/03** | Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network | Renjie Xu et al. | [2403.01501v1](http://arxiv.org/abs/2403.01501v1) | [**link**](https://github.com/renj-xu/negsc) |
-| **2024/03/03** | BronchoCopilot: Towards Autonomous Robotic Bronchoscopy via Multimodal Reinforcement Learning | Jianbo Zhao et al. | [2403.01483v1](http://arxiv.org/abs/2403.01483v1) | **NULL** |
-| **2024/03/03** | Representation Learning on Heterophilic Graph with Directional Neighborhood Attention | Qincheng Lu et al. | [2403.01475v1](http://arxiv.org/abs/2403.01475v1) | **NULL** |
-| **2024/03/03** | Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation | Dipesh Gyawali et al. | [2403.01407v1](http://arxiv.org/abs/2403.01407v1) | **NULL** |
-| **2024/03/02** | Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment | Luyao Wang et al. | [2403.01203v1](http://arxiv.org/abs/2403.01203v1) | **NULL** |
-| **2024/03/02** | ELA: Efficient Local Attention for Deep Convolutional Neural Networks | Wei Xu et al. | [2403.01123v1](http://arxiv.org/abs/2403.01123v1) | **NULL** |
-| **2024/03/01** | ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys | Yue Niu et al. | [2403.02352v1](http://arxiv.org/abs/2403.02352v1) | **NULL** |
-| **2024/03/01** | Tri-Modal Motion Retrieval by Learning a Joint Embedding Space | Kangning Yin et al. | [2403.00691v1](http://arxiv.org/abs/2403.00691v1) | **NULL** |
-| **2024/03/01** | GLFNET: Global-Local (frequency) Filter Networks for efficient medical image segmentation | Athanasios Tragakis et al. | [2403.00396v1](http://arxiv.org/abs/2403.00396v1) | **NULL** |
-| **2024/02/29** | GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials | Fankai Xie et al. | [2402.19327v1](http://arxiv.org/abs/2402.19327v1) | **NULL** |
 
 ## 背景差分
 
