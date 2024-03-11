@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/10 08:47:40
+> Updated on 2024/03/11 08:44:41
 
 <summary>Table of Contents</summary>
 
@@ -42,7 +42,7 @@ layout: default
 | **2023/07/21** | BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation | Yosuke Shinya | [2307.11748v1](http://arxiv.org/abs/2307.11748v1) | [**link**](https://github.com/shinya7y/UniverseNet) |
 | **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
 | **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
-| **2023/05/05** | DSPDet3D: Dynamic Spatial Pruning for 3D Small Object Detection | Xiuwei Xu et al. | [2305.03716v2](http://arxiv.org/abs/2305.03716v2) | [**link**](https://github.com/xuxw98/dspdet3d) |
+| **2023/05/05** | 3D Small Object Detection with Dynamic Spatial Pruning | Xiuwei Xu et al. | [2305.03716v3](http://arxiv.org/abs/2305.03716v3) | [**link**](https://github.com/xuxw98/dspdet3d) |
 | **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
 | **2023/04/07** | High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection | Yifan Yin et al. | [2304.03812v1](http://arxiv.org/abs/2304.03812v1) | **NULL** |
 | **2023/04/07** | TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors | Shaoyu Chen et al. | [2304.03428v1](http://arxiv.org/abs/2304.03428v1) | **NULL** |
