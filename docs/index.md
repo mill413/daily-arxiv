@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/11 08:44:41
+> Updated on 2024/03/12 08:43:08
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/08** | MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models | Zijie Fang et al. | [2403.05160v1](http://arxiv.org/abs/2403.05160v1) | **NULL** |
+| **2024/03/08** | Multimodal Infusion Tuning for Large Models | Hao Sun et al. | [2403.05060v1](http://arxiv.org/abs/2403.05060v1) | **NULL** |
+| **2024/03/08** | Are Human Conversations Special? A Large Language Model Perspective | Toshish Jawale et al. | [2403.05045v1](http://arxiv.org/abs/2403.05045v1) | **NULL** |
 | **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v1](http://arxiv.org/abs/2403.04765v1) | **NULL** |
 | **2024/03/07** | Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism | Xiaoyu Tang et al. | [2403.04743v1](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
 | **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v1](http://arxiv.org/abs/2403.04661v1) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2024/03/04** | KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification | Bo Li et al. | [2403.01767v1](http://arxiv.org/abs/2403.01767v1) | **NULL** |
 | **2024/03/04** | Attention Guidance Mechanism for Handwritten Mathematical Expression Recognition | Yutian Liu et al. | [2403.01756v2](http://arxiv.org/abs/2403.01756v2) | **NULL** |
 | **2024/03/04** | MCA: Moment Channel Attention Networks | Yangbo Jiang et al. | [2403.01713v1](http://arxiv.org/abs/2403.01713v1) | **NULL** |
-| **2024/03/04** | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | Jiecheng Lu et al. | [2403.01673v1](http://arxiv.org/abs/2403.01673v1) | **NULL** |
-| **2024/03/03** | You Need to Pay Better Attention | Mehran Hosseini et al. | [2403.01643v1](http://arxiv.org/abs/2403.01643v1) | **NULL** |
-| **2024/03/03** | Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network | Renjie Xu et al. | [2403.01501v1](http://arxiv.org/abs/2403.01501v1) | [**link**](https://github.com/renj-xu/negsc) |
 
 ## 背景差分
 
