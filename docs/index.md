@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/12 08:43:08
+> Updated on 2024/03/13 08:44:29
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/11** | Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling | Wele Gedara Chaminda Bandara et al. | [2403.06978v1](http://arxiv.org/abs/2403.06978v1) | [**link**](https://github.com/wgcban/apt) |
+| **2024/03/11** | Explainable Transformer Prototypes for Medical Diagnoses | Ugur Demir et al. | [2403.06961v1](http://arxiv.org/abs/2403.06961v1) | [**link**](https://github.com/nubagcilab/r2r_proto) |
+| **2024/03/11** | MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning | Yichuan Li et al. | [2403.06914v1](http://arxiv.org/abs/2403.06914v1) | **NULL** |
+| **2024/03/11** | FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks | Muhammad Saif Ullah Khan et al. | [2403.06904v1](http://arxiv.org/abs/2403.06904v1) | **NULL** |
+| **2024/03/11** | MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation | Wenhao Wu et al. | [2403.06747v2](http://arxiv.org/abs/2403.06747v2) | **NULL** |
+| **2024/03/11** | Real-Time Multimodal Cognitive Assistant for Emergency Medical Services | Keshara Weerasinghe et al. | [2403.06734v1](http://arxiv.org/abs/2403.06734v1) | **NULL** |
+| **2024/03/11** | Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data | Jinghan Huang et al. | [2403.06687v1](http://arxiv.org/abs/2403.06687v1) | **NULL** |
+| **2024/03/10** | FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification | Omnia Alwazzan et al. | [2403.06339v1](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
+| **2024/03/09** | Frequency Attention for Knowledge Distillation | Cuong Pham et al. | [2403.05894v1](http://arxiv.org/abs/2403.05894v1) | [**link**](https://github.com/cuong-pv/FAM-KD) |
+| **2024/03/09** | TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation | Jian Qu et al. | [2403.05822v1](http://arxiv.org/abs/2403.05822v1) | **NULL** |
+| **2024/03/09** | sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks | Qu Yang et al. | [2403.05772v1](http://arxiv.org/abs/2403.05772v1) | **NULL** |
 | **2024/03/08** | MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models | Zijie Fang et al. | [2403.05160v1](http://arxiv.org/abs/2403.05160v1) | **NULL** |
 | **2024/03/08** | Multimodal Infusion Tuning for Large Models | Hao Sun et al. | [2403.05060v1](http://arxiv.org/abs/2403.05060v1) | **NULL** |
 | **2024/03/08** | Are Human Conversations Special? A Large Language Model Perspective | Toshish Jawale et al. | [2403.05045v1](http://arxiv.org/abs/2403.05045v1) | **NULL** |
-| **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v1](http://arxiv.org/abs/2403.04765v1) | **NULL** |
+| **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v2](http://arxiv.org/abs/2403.04765v2) | **NULL** |
 | **2024/03/07** | Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism | Xiaoyu Tang et al. | [2403.04743v1](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
 | **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v1](http://arxiv.org/abs/2403.04661v1) | **NULL** |
 | **2024/03/07** | T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers | Mariano V. Ntrougkas et al. | [2403.04523v1](http://arxiv.org/abs/2403.04523v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2024/03/05** | ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures | Salim Rukhsar et al. | [2403.03276v1](http://arxiv.org/abs/2403.03276v1) | [**link**](https://github.com/salim-lysiun/arnn) |
 | **2024/03/05** | VQSynery: Robust Drug Synergy Prediction With Vector Quantization Mechanism | Jiawei Wu et al. | [2403.03089v1](http://arxiv.org/abs/2403.03089v1) | **NULL** |
 | **2024/03/05** | TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax | Tobias Christian Nauen et al. | [2403.02920v1](http://arxiv.org/abs/2403.02920v1) | [**link**](https://github.com/tobna/taylorshift) |
-| **2024/03/05** | Quantum Mixed-State Self-Attention Network | Fu Chen et al. | [2403.02871v1](http://arxiv.org/abs/2403.02871v1) | **NULL** |
-| **2024/03/05** | Learning to Defer to a Population: A Meta-Learning Approach | Dharmesh Tailor et al. | [2403.02683v1](http://arxiv.org/abs/2403.02683v1) | [**link**](https://github.com/dvtailor/meta-l2d) |
-| **2024/03/04** | NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function | Abdullah Nazhat Abdullah et al. | [2403.02411v1](http://arxiv.org/abs/2403.02411v1) | [**link**](https://github.com/Abdullah-88/NiNformer) |
-| **2024/03/04** | Self-Supervised Facial Representation Learning with Facial Region Awareness | Zheng Gao et al. | [2403.02138v1](http://arxiv.org/abs/2403.02138v1) | **NULL** |
-| **2024/03/04** | SA-SOT: Speaker-Aware Serialized Output Training for Multi-Talker ASR | Zhiyun Fan et al. | [2403.02010v1](http://arxiv.org/abs/2403.02010v1) | **NULL** |
-| **2024/03/04** | RCoCo: Contrastive Collective Link Prediction across Multiplex Network in Riemannian Space | Li Sun et al. | [2403.01864v1](http://arxiv.org/abs/2403.01864v1) | **NULL** |
-| **2024/03/04** | AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation | Haonan Wang et al. | [2403.01818v2](http://arxiv.org/abs/2403.01818v2) | [**link**](https://github.com/xmed-lab/AllSpark) |
-| **2024/03/04** | Improving out-of-distribution generalization in graphs via hierarchical semantic environments | Yinhua Piao et al. | [2403.01773v1](http://arxiv.org/abs/2403.01773v1) | **NULL** |
-| **2024/03/04** | KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification | Bo Li et al. | [2403.01767v1](http://arxiv.org/abs/2403.01767v1) | **NULL** |
-| **2024/03/04** | Attention Guidance Mechanism for Handwritten Mathematical Expression Recognition | Yutian Liu et al. | [2403.01756v2](http://arxiv.org/abs/2403.01756v2) | **NULL** |
-| **2024/03/04** | MCA: Moment Channel Attention Networks | Yangbo Jiang et al. | [2403.01713v1](http://arxiv.org/abs/2403.01713v1) | **NULL** |
 
 ## 背景差分
 
@@ -97,7 +97,7 @@ layout: default
 | **2024/01/05** | Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning | Geoffery Agorku et al. | [2401.03070v1](http://arxiv.org/abs/2401.03070v1) | **NULL** |
 | **2023/12/19** | The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters | Adit H. Edward et al. | [2312.12380v1](http://arxiv.org/abs/2312.12380v1) | **NULL** |
 | **2023/12/14** | Solar flare catalog from 3 years of Chandrayaan-2 XSM observations | Aravind Bharathi Valluvan et al. | [2312.09191v2](http://arxiv.org/abs/2312.09191v2) | [**link**](https://github.com/devansh-dvj/suryadrishti) |
-| **2023/12/11** | Are Solar Microflares more efficient in accelerating electrons when rooted near a Sunspot? | Jonas Saqri et al. | [2312.06856v1](http://arxiv.org/abs/2312.06856v1) | **NULL** |
+| **2023/12/11** | Efficiency of solar microflares in accelerating electrons when rooted in a sunspot | Jonas Saqri et al. | [2312.06856v2](http://arxiv.org/abs/2312.06856v2) | **NULL** |
 | **2023/12/11** | Non-negative matrix factorization approach to sky subtraction for optical spectroscopy | Fedor Kolganov et al. | [2312.06761v1](http://arxiv.org/abs/2312.06761v1) | **NULL** |
 | **2023/12/04** | Cable Slack Detection for Arresting Gear Application using Machine Vision | Ari Goodman et al. | [2312.02320v1](http://arxiv.org/abs/2312.02320v1) | **NULL** |
 | **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
