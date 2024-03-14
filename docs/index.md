@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/13 08:44:29
+> Updated on 2024/03/14 08:43:19
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/12** | Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis | Jiawen Li et al. | [2403.07719v1](http://arxiv.org/abs/2403.07719v1) | [**link**](https://github.com/wonderlandxd/wikg) |
+| **2024/03/12** | Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution | Haochen Sun et al. | [2403.07390v1](http://arxiv.org/abs/2403.07390v1) | **NULL** |
+| **2024/03/12** | Gabor-guided transformer for single image deraining | Sijin He et al. | [2403.07380v1](http://arxiv.org/abs/2403.07380v1) | **NULL** |
+| **2024/03/12** | Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration | Weiying Xue et al. | [2403.07246v1](http://arxiv.org/abs/2403.07246v1) | **NULL** |
 | **2024/03/11** | Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling | Wele Gedara Chaminda Bandara et al. | [2403.06978v1](http://arxiv.org/abs/2403.06978v1) | [**link**](https://github.com/wgcban/apt) |
 | **2024/03/11** | Explainable Transformer Prototypes for Medical Diagnoses | Ugur Demir et al. | [2403.06961v1](http://arxiv.org/abs/2403.06961v1) | [**link**](https://github.com/nubagcilab/r2r_proto) |
-| **2024/03/11** | MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning | Yichuan Li et al. | [2403.06914v1](http://arxiv.org/abs/2403.06914v1) | **NULL** |
+| **2024/03/11** | MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning | Yichuan Li et al. | [2403.06914v2](http://arxiv.org/abs/2403.06914v2) | **NULL** |
 | **2024/03/11** | FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks | Muhammad Saif Ullah Khan et al. | [2403.06904v1](http://arxiv.org/abs/2403.06904v1) | **NULL** |
-| **2024/03/11** | MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation | Wenhao Wu et al. | [2403.06747v2](http://arxiv.org/abs/2403.06747v2) | **NULL** |
+| **2024/03/11** | MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation | Wenhao Wu et al. | [2403.06747v3](http://arxiv.org/abs/2403.06747v3) | **NULL** |
 | **2024/03/11** | Real-Time Multimodal Cognitive Assistant for Emergency Medical Services | Keshara Weerasinghe et al. | [2403.06734v1](http://arxiv.org/abs/2403.06734v1) | **NULL** |
 | **2024/03/11** | Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data | Jinghan Huang et al. | [2403.06687v1](http://arxiv.org/abs/2403.06687v1) | **NULL** |
 | **2024/03/10** | FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification | Omnia Alwazzan et al. | [2403.06339v1](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
@@ -69,7 +73,7 @@ layout: default
 | **2024/03/08** | Are Human Conversations Special? A Large Language Model Perspective | Toshish Jawale et al. | [2403.05045v1](http://arxiv.org/abs/2403.05045v1) | **NULL** |
 | **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v2](http://arxiv.org/abs/2403.04765v2) | **NULL** |
 | **2024/03/07** | Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism | Xiaoyu Tang et al. | [2403.04743v1](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
-| **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v1](http://arxiv.org/abs/2403.04661v1) | **NULL** |
+| **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v2](http://arxiv.org/abs/2403.04661v2) | **NULL** |
 | **2024/03/07** | T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers | Mariano V. Ntrougkas et al. | [2403.04523v1](http://arxiv.org/abs/2403.04523v1) | **NULL** |
 | **2024/03/07** | From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction | Ang Li et al. | [2403.04369v1](http://arxiv.org/abs/2403.04369v1) | [**link**](https://github.com/liang-star177/fwgb) |
 | **2024/03/07** | A mechanism-informed reinforcement learning framework for shape optimization of airfoils | Jingfeng Wang et al. | [2403.04329v1](http://arxiv.org/abs/2403.04329v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/03/06** | Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators | Mohammad Ali Labbaf Khaniki et al. | [2403.03606v1](http://arxiv.org/abs/2403.03606v1) | **NULL** |
 | **2024/03/06** | LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features | Xuying Xiong et al. | [2403.03527v1](http://arxiv.org/abs/2403.03527v1) | **NULL** |
 | **2024/03/06** | Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding | Mengying Jiang et al. | [2403.03465v1](http://arxiv.org/abs/2403.03465v1) | [**link**](https://github.com/mengyingjiang/gcn-sa) |
-| **2024/03/06** | HDRFlow: Real-Time HDR Video Reconstruction with Large Motions | Gangwei Xu et al. | [2403.03447v1](http://arxiv.org/abs/2403.03447v1) | **NULL** |
-| **2024/03/05** | ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures | Salim Rukhsar et al. | [2403.03276v1](http://arxiv.org/abs/2403.03276v1) | [**link**](https://github.com/salim-lysiun/arnn) |
-| **2024/03/05** | VQSynery: Robust Drug Synergy Prediction With Vector Quantization Mechanism | Jiawei Wu et al. | [2403.03089v1](http://arxiv.org/abs/2403.03089v1) | **NULL** |
-| **2024/03/05** | TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax | Tobias Christian Nauen et al. | [2403.02920v1](http://arxiv.org/abs/2403.02920v1) | [**link**](https://github.com/tobna/taylorshift) |
 
 ## 背景差分
 
