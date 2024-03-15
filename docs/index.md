@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/14 08:43:19
+> Updated on 2024/03/15 08:44:03
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/13** | Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution | Samuel Sze et al. | [2403.08748v1](http://arxiv.org/abs/2403.08748v1) | **NULL** |
+| **2024/03/13** | OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework | Wanyun Li et al. | [2403.08682v1](http://arxiv.org/abs/2403.08682v1) | **NULL** |
+| **2024/03/13** | Self-Supervised Learning for Covariance Estimation | Tzvi Diskin et al. | [2403.08662v1](http://arxiv.org/abs/2403.08662v1) | **NULL** |
+| **2024/03/13** | ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos | Lei Shi et al. | [2403.08591v1](http://arxiv.org/abs/2403.08591v1) | **NULL** |
+| **2024/03/13** | A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product | Ao Xiang et al. | [2403.08511v1](http://arxiv.org/abs/2403.08511v1) | **NULL** |
+| **2024/03/13** | Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks | Zongqing Qi et al. | [2403.08499v1](http://arxiv.org/abs/2403.08499v1) | **NULL** |
+| **2024/03/13** | Activating Wider Areas in Image Super-Resolution | Cheng Cheng et al. | [2403.08330v1](http://arxiv.org/abs/2403.08330v1) | **NULL** |
+| **2024/03/13** | Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition | Wenjing Zhu et al. | [2403.08258v1](http://arxiv.org/abs/2403.08258v1) | **NULL** |
+| **2024/03/12** | Mechanics of Next Token Prediction with Self-Attention | Yingcong Li et al. | [2403.08081v1](http://arxiv.org/abs/2403.08081v1) | **NULL** |
+| **2024/03/12** | Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language | Yash Sharma et al. | [2403.08011v1](http://arxiv.org/abs/2403.08011v1) | **NULL** |
 | **2024/03/12** | Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis | Jiawen Li et al. | [2403.07719v1](http://arxiv.org/abs/2403.07719v1) | [**link**](https://github.com/wonderlandxd/wikg) |
 | **2024/03/12** | Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution | Haochen Sun et al. | [2403.07390v1](http://arxiv.org/abs/2403.07390v1) | **NULL** |
 | **2024/03/12** | Gabor-guided transformer for single image deraining | Sijin He et al. | [2403.07380v1](http://arxiv.org/abs/2403.07380v1) | **NULL** |
@@ -65,6 +75,7 @@ layout: default
 | **2024/03/11** | Real-Time Multimodal Cognitive Assistant for Emergency Medical Services | Keshara Weerasinghe et al. | [2403.06734v1](http://arxiv.org/abs/2403.06734v1) | **NULL** |
 | **2024/03/11** | Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data | Jinghan Huang et al. | [2403.06687v1](http://arxiv.org/abs/2403.06687v1) | **NULL** |
 | **2024/03/10** | FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification | Omnia Alwazzan et al. | [2403.06339v1](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
+| **2024/03/10** | Attacking Transformers with Feature Diversity Adversarial Perturbation | Chenxing Gao et al. | [2403.07942v1](http://arxiv.org/abs/2403.07942v1) | **NULL** |
 | **2024/03/09** | Frequency Attention for Knowledge Distillation | Cuong Pham et al. | [2403.05894v1](http://arxiv.org/abs/2403.05894v1) | [**link**](https://github.com/cuong-pv/FAM-KD) |
 | **2024/03/09** | TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation | Jian Qu et al. | [2403.05822v1](http://arxiv.org/abs/2403.05822v1) | **NULL** |
 | **2024/03/09** | sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks | Qu Yang et al. | [2403.05772v1](http://arxiv.org/abs/2403.05772v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2024/03/08** | Multimodal Infusion Tuning for Large Models | Hao Sun et al. | [2403.05060v1](http://arxiv.org/abs/2403.05060v1) | **NULL** |
 | **2024/03/08** | Are Human Conversations Special? A Large Language Model Perspective | Toshish Jawale et al. | [2403.05045v1](http://arxiv.org/abs/2403.05045v1) | **NULL** |
 | **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v2](http://arxiv.org/abs/2403.04765v2) | **NULL** |
-| **2024/03/07** | Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism | Xiaoyu Tang et al. | [2403.04743v1](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
-| **2024/03/07** | Dynamic Cross Attention for Audio-Visual Person Verification | R. Gnana Praveen et al. | [2403.04661v2](http://arxiv.org/abs/2403.04661v2) | **NULL** |
-| **2024/03/07** | T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers | Mariano V. Ntrougkas et al. | [2403.04523v1](http://arxiv.org/abs/2403.04523v1) | **NULL** |
-| **2024/03/07** | From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction | Ang Li et al. | [2403.04369v1](http://arxiv.org/abs/2403.04369v1) | [**link**](https://github.com/liang-star177/fwgb) |
-| **2024/03/07** | A mechanism-informed reinforcement learning framework for shape optimization of airfoils | Jingfeng Wang et al. | [2403.04329v1](http://arxiv.org/abs/2403.04329v1) | **NULL** |
-| **2024/03/07** | MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive | Pengzhou Cheng et al. | [2403.04293v1](http://arxiv.org/abs/2403.04293v1) | **NULL** |
-| **2024/03/07** | ACC-ViT : Atrous Convolution's Comeback in Vision Transformers | Nabil Ibtehaz et al. | [2403.04200v1](http://arxiv.org/abs/2403.04200v1) | **NULL** |
-| **2024/03/07** | Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model | Hao Peng et al. | [2403.04175v1](http://arxiv.org/abs/2403.04175v1) | **NULL** |
-| **2024/03/06** | Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators | Mohammad Ali Labbaf Khaniki et al. | [2403.03606v1](http://arxiv.org/abs/2403.03606v1) | **NULL** |
-| **2024/03/06** | LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features | Xuying Xiong et al. | [2403.03527v1](http://arxiv.org/abs/2403.03527v1) | **NULL** |
-| **2024/03/06** | Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding | Mengying Jiang et al. | [2403.03465v1](http://arxiv.org/abs/2403.03465v1) | [**link**](https://github.com/mengyingjiang/gcn-sa) |
 
 ## 背景差分
 
