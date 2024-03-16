@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/15 08:44:03
+> Updated on 2024/03/16 08:42:47
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/14** | MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models | Zunnan Xu et al. | [2403.09471v1](http://arxiv.org/abs/2403.09471v1) | **NULL** |
+| **2024/03/14** | M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment | Long Nguyen-Phuoc et al. | [2403.09451v1](http://arxiv.org/abs/2403.09451v1) | **NULL** |
+| **2024/03/14** | MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer | Wenyong Han et al. | [2403.09223v1](http://arxiv.org/abs/2403.09223v1) | **NULL** |
+| **2024/03/14** | SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration | Yanfei Songa et al. | [2403.09195v1](http://arxiv.org/abs/2403.09195v1) | **NULL** |
+| **2024/03/14** | SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph | Zhuohang Jiang et al. | [2403.09172v1](http://arxiv.org/abs/2403.09172v1) | **NULL** |
+| **2024/03/14** | CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification | Hyunkyung Han et al. | [2403.09108v1](http://arxiv.org/abs/2403.09108v1) | [**link**](https://github.com/jihyeonseong/cardiocaps) |
+| **2024/03/14** | Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs | Jie Liu et al. | [2403.09039v1](http://arxiv.org/abs/2403.09039v1) | **NULL** |
 | **2024/03/13** | Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution | Samuel Sze et al. | [2403.08748v1](http://arxiv.org/abs/2403.08748v1) | **NULL** |
 | **2024/03/13** | OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework | Wanyun Li et al. | [2403.08682v1](http://arxiv.org/abs/2403.08682v1) | **NULL** |
+| **2024/03/13** | Bifurcated Attention for Single-Context Large-Batch Sampling | Ben Athiwaratkun et al. | [2403.08845v1](http://arxiv.org/abs/2403.08845v1) | **NULL** |
 | **2024/03/13** | Self-Supervised Learning for Covariance Estimation | Tzvi Diskin et al. | [2403.08662v1](http://arxiv.org/abs/2403.08662v1) | **NULL** |
 | **2024/03/13** | ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos | Lei Shi et al. | [2403.08591v1](http://arxiv.org/abs/2403.08591v1) | **NULL** |
 | **2024/03/13** | A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product | Ao Xiang et al. | [2403.08511v1](http://arxiv.org/abs/2403.08511v1) | **NULL** |
 | **2024/03/13** | Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks | Zongqing Qi et al. | [2403.08499v1](http://arxiv.org/abs/2403.08499v1) | **NULL** |
 | **2024/03/13** | Activating Wider Areas in Image Super-Resolution | Cheng Cheng et al. | [2403.08330v1](http://arxiv.org/abs/2403.08330v1) | **NULL** |
+| **2024/03/13** | Structural Positional Encoding for knowledge integration in transformer-based medical process monitoring | Christopher Irwin et al. | [2403.08836v1](http://arxiv.org/abs/2403.08836v1) | [**link**](https://github.com/christopher-irw/proformer_ce) |
 | **2024/03/13** | Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition | Wenjing Zhu et al. | [2403.08258v1](http://arxiv.org/abs/2403.08258v1) | **NULL** |
 | **2024/03/12** | Mechanics of Next Token Prediction with Self-Attention | Yingcong Li et al. | [2403.08081v1](http://arxiv.org/abs/2403.08081v1) | **NULL** |
 | **2024/03/12** | Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language | Yash Sharma et al. | [2403.08011v1](http://arxiv.org/abs/2403.08011v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/03/11** | MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation | Wenhao Wu et al. | [2403.06747v3](http://arxiv.org/abs/2403.06747v3) | **NULL** |
 | **2024/03/11** | Real-Time Multimodal Cognitive Assistant for Emergency Medical Services | Keshara Weerasinghe et al. | [2403.06734v1](http://arxiv.org/abs/2403.06734v1) | **NULL** |
 | **2024/03/11** | Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data | Jinghan Huang et al. | [2403.06687v1](http://arxiv.org/abs/2403.06687v1) | **NULL** |
-| **2024/03/10** | FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification | Omnia Alwazzan et al. | [2403.06339v1](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
-| **2024/03/10** | Attacking Transformers with Feature Diversity Adversarial Perturbation | Chenxing Gao et al. | [2403.07942v1](http://arxiv.org/abs/2403.07942v1) | **NULL** |
-| **2024/03/09** | Frequency Attention for Knowledge Distillation | Cuong Pham et al. | [2403.05894v1](http://arxiv.org/abs/2403.05894v1) | [**link**](https://github.com/cuong-pv/FAM-KD) |
-| **2024/03/09** | TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation | Jian Qu et al. | [2403.05822v1](http://arxiv.org/abs/2403.05822v1) | **NULL** |
-| **2024/03/09** | sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks | Qu Yang et al. | [2403.05772v1](http://arxiv.org/abs/2403.05772v1) | **NULL** |
-| **2024/03/08** | MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models | Zijie Fang et al. | [2403.05160v1](http://arxiv.org/abs/2403.05160v1) | **NULL** |
-| **2024/03/08** | Multimodal Infusion Tuning for Large Models | Hao Sun et al. | [2403.05060v1](http://arxiv.org/abs/2403.05060v1) | **NULL** |
-| **2024/03/08** | Are Human Conversations Special? A Large Language Model Perspective | Toshish Jawale et al. | [2403.05045v1](http://arxiv.org/abs/2403.05045v1) | **NULL** |
-| **2024/03/07** | Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed | Yifan Wang et al. | [2403.04765v2](http://arxiv.org/abs/2403.04765v2) | **NULL** |
 
 ## 背景差分
 
