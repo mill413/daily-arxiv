@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/21 08:45:43
+> Updated on 2024/03/22 08:43:40
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/20** | Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition | R. Gnana Praveen et al. | [2403.13659v1](http://arxiv.org/abs/2403.13659v1) | **NULL** |
+| **2024/03/20** | VL-Mamba: Exploring State Space Models for Multimodal Learning | Yanyuan Qiao et al. | [2403.13600v1](http://arxiv.org/abs/2403.13600v1) | **NULL** |
+| **2024/03/20** | Compress3D: a Compressed Latent Space for 3D Generation from a Single Image | Bowen Zhang et al. | [2403.13524v1](http://arxiv.org/abs/2403.13524v1) | **NULL** |
+| **2024/03/20** | Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data | Fucai Ke et al. | [2403.13246v1](http://arxiv.org/abs/2403.13246v1) | **NULL** |
+| **2024/03/19** | Improved EATFormer: A Vision Transformer for Medical Image Classification | Yulong Shisu et al. | [2403.13167v1](http://arxiv.org/abs/2403.13167v1) | **NULL** |
 | **2024/03/19** | FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation | Shuai Yang et al. | [2403.12962v1](http://arxiv.org/abs/2403.12962v1) | [**link**](https://github.com/williamyang1991/fresco) |
 | **2024/03/19** | Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers | Vidhi Jain et al. | [2403.12943v1](http://arxiv.org/abs/2403.12943v1) | **NULL** |
+| **2024/03/19** | Emotic Masked Autoencoder with Attention Fusion for Facial Expression Recognition | Bach Nguyen-Xuan et al. | [2403.13039v1](http://arxiv.org/abs/2403.13039v1) | **NULL** |
 | **2024/03/19** | IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model | Matteo Bortolon et al. | [2403.12682v1](http://arxiv.org/abs/2403.12682v1) | **NULL** |
 | **2024/03/19** | TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer | Eunjee Choi et al. | [2403.12481v1](http://arxiv.org/abs/2403.12481v1) | **NULL** |
 | **2024/03/19** | Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation | Zhangjie Peng et al. | [2403.12453v1](http://arxiv.org/abs/2403.12453v1) | **NULL** |
@@ -72,17 +78,11 @@ layout: default
 | **2024/03/16** | Entity Alignment with Unlabeled Dangling Cases | Hang Yin et al. | [2403.10978v1](http://arxiv.org/abs/2403.10978v1) | **NULL** |
 | **2024/03/16** | COVID-CT-H-UNet: a novel COVID-19 CT segmentation network based on attention mechanism and Bi-category Hybrid loss | Anay Panja et al. | [2403.10880v1](http://arxiv.org/abs/2403.10880v1) | **NULL** |
 | **2024/03/16** | Twin Transformer using Gated Dynamic Learnable Attention mechanism for Fault Detection and Diagnosis in the Tennessee Eastman Process | Mohammad Ali Labbaf-Khaniki et al. | [2403.10842v1](http://arxiv.org/abs/2403.10842v1) | **NULL** |
-| **2024/03/16** | Deep Reinforcement Learning-based Large-scale Robot Exploration | Yuhong Cao et al. | [2403.10833v1](http://arxiv.org/abs/2403.10833v1) | **NULL** |
+| **2024/03/16** | Deep Reinforcement Learning-based Large-scale Robot Exploration | Yuhong Cao et al. | [2403.10833v1](http://arxiv.org/abs/2403.10833v1) | [**link**](https://github.com/marmotlab/large-scale-drl-exploration) |
 | **2024/03/15** | Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection | Rui Zhang et al. | [2403.10339v1](http://arxiv.org/abs/2403.10339v1) | **NULL** |
 | **2024/03/15** | How Powerful Potential of Attention on Image Restoration? | Cong Wang et al. | [2403.10336v1](http://arxiv.org/abs/2403.10336v1) | **NULL** |
 | **2024/03/15** | Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction | Chen Chen et al. | [2403.10581v1](http://arxiv.org/abs/2403.10581v1) | **NULL** |
 | **2024/03/15** | Monkeypox disease recognition model based on improved SE-InceptionV3 | Junzhuo Chen et al. | [2403.10087v1](http://arxiv.org/abs/2403.10087v1) | [**link**](https://github.com/jzc777/se-inceptionv3-l2) |
-| **2024/03/15** | ST-LDM: A Universal Framework for Text-Grounded Object Generation in Real Images | Xiangtian Xue et al. | [2403.10004v1](http://arxiv.org/abs/2403.10004v1) | **NULL** |
-| **2024/03/15** | MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings | Yu Du et al. | [2403.09996v1](http://arxiv.org/abs/2403.09996v1) | **NULL** |
-| **2024/03/15** | Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers | Jinxia Xie et al. | [2403.10574v1](http://arxiv.org/abs/2403.10574v1) | **NULL** |
-| **2024/03/14** | MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models | Zunnan Xu et al. | [2403.09471v1](http://arxiv.org/abs/2403.09471v1) | **NULL** |
-| **2024/03/14** | M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment | Long Nguyen-Phuoc et al. | [2403.09451v1](http://arxiv.org/abs/2403.09451v1) | **NULL** |
-| **2024/03/14** | MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer | Wenyong Han et al. | [2403.09223v1](http://arxiv.org/abs/2403.09223v1) | **NULL** |
 
 ## 背景差分
 
