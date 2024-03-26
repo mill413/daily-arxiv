@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/25 08:45:38
+> Updated on 2024/03/26 08:44:08
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/22** | Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems | Mengke Ge et al. | [2403.15069v1](http://arxiv.org/abs/2403.15069v1) | **NULL** |
+| **2024/03/22** | MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration | Zhichao Wei et al. | [2403.15059v1](http://arxiv.org/abs/2403.15059v1) | **NULL** |
+| **2024/03/22** | An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images | Zilin Xie et al. | [2403.15032v1](http://arxiv.org/abs/2403.15032v1) | **NULL** |
+| **2024/03/22** | Attention-Driven Reasoning: Unlocking the Potential of Large Language Models | Bingli Liao et al. | [2403.14932v1](http://arxiv.org/abs/2403.14932v1) | **NULL** |
+| **2024/03/21** | Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance | Shenhao Zhu et al. | [2403.14781v1](http://arxiv.org/abs/2403.14781v1) | **NULL** |
+| **2024/03/21** | StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text | Roberto Henschel et al. | [2403.14773v1](http://arxiv.org/abs/2403.14773v1) | **NULL** |
+| **2024/03/21** | Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention | Ethan N. Evans et al. | [2403.14753v1](http://arxiv.org/abs/2403.14753v1) | **NULL** |
 | **2024/03/21** | DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing | Yueru Jia et al. | [2403.14487v1](http://arxiv.org/abs/2403.14487v1) | **NULL** |
 | **2024/03/21** | HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges | Mehul Arora et al. | [2403.14484v1](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
 | **2024/03/21** | CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers | Alex Ranne et al. | [2403.14465v1](http://arxiv.org/abs/2403.14465v1) | **NULL** |
 | **2024/03/21** | gTBLS: Generating Tables from Text by Conditional Question Answering | Anirudh Sundar et al. | [2403.14457v1](http://arxiv.org/abs/2403.14457v1) | **NULL** |
 | **2024/03/21** | RoDLA: Benchmarking the Robustness of Document Layout Analysis Models | Yufan Chen et al. | [2403.14442v1](http://arxiv.org/abs/2403.14442v1) | **NULL** |
+| **2024/03/21** | A task of anomaly detection for a smart satellite Internet of things system | Zilong Shao | [2403.14738v1](http://arxiv.org/abs/2403.14738v1) | **NULL** |
 | **2024/03/21** | SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks | Xinyu Shi et al. | [2403.14302v1](http://arxiv.org/abs/2403.14302v1) | [**link**](https://github.com/xyshi2000/spikingresformer) |
 | **2024/03/21** | Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection | Tim Salzmann et al. | [2403.14270v1](http://arxiv.org/abs/2403.14270v1) | **NULL** |
 | **2024/03/21** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | Kwanyoung Kim et al. | [2403.14183v1](http://arxiv.org/abs/2403.14183v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/03/19** | Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation | Zhangjie Peng et al. | [2403.12453v1](http://arxiv.org/abs/2403.12453v1) | **NULL** |
 | **2024/03/18** | Fusion Transformer with Object Mask Guidance for Image Forgery Analysis | Dimitrios Karageorgiou et al. | [2403.12229v1](http://arxiv.org/abs/2403.12229v1) | **NULL** |
 | **2024/03/18** | From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality? | Guangming Huang et al. | [2403.11894v1](http://arxiv.org/abs/2403.11894v1) | **NULL** |
-| **2024/03/18** | TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions | Hui Lu et al. | [2403.11818v1](http://arxiv.org/abs/2403.11818v1) | [**link**](https://github.com/hotfinda/tcnet) |
-| **2024/03/18** | LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models | Yang Yang et al. | [2403.11627v1](http://arxiv.org/abs/2403.11627v1) | [**link**](https://github.com/young98cn/lora_composer) |
-| **2024/03/18** | Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection | Liren He et al. | [2403.11561v1](http://arxiv.org/abs/2403.11561v1) | **NULL** |
-| **2024/03/18** | Covid-19 detection from CT scans using EfficientNet and Attention mechanism | Ramy Farag et al. | [2403.11505v1](http://arxiv.org/abs/2403.11505v1) | **NULL** |
-| **2024/03/18** | CasSR: Activating Image Power for Real-World Image Super-Resolution | Haolan Chen et al. | [2403.11451v1](http://arxiv.org/abs/2403.11451v1) | **NULL** |
-| **2024/03/18** | GCAM: Gaussian and causal-attention model of food fine-grained recognition | Guohang Zhuang et al. | [2403.12109v1](http://arxiv.org/abs/2403.12109v1) | **NULL** |
-| **2024/03/17** | Unifying Feature and Cost Aggregation with Transformers for Semantic and Visual Correspondence | Sunghwan Hong et al. | [2403.11120v1](http://arxiv.org/abs/2403.11120v1) | **NULL** |
-| **2024/03/17** | Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention | Jie Ren et al. | [2403.11052v1](http://arxiv.org/abs/2403.11052v1) | **NULL** |
 
 ## 背景差分
 
