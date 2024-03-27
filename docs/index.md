@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/26 08:44:08
+> Updated on 2024/03/27 08:44:07
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/25** | QKFormer: Hierarchical Spiking Transformer using Q-K Attention | Chenlin Zhou et al. | [2403.16552v1](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
+| **2024/03/25** | VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting | Yujin Tang et al. | [2403.16536v2](http://arxiv.org/abs/2403.16536v2) | [**link**](https://github.com/yyyujintang/vmrnn-pytorch) |
+| **2024/03/25** | RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection | Zhiwei Lin et al. | [2403.16440v1](http://arxiv.org/abs/2403.16440v1) | [**link**](https://github.com/vdigpku/rcbevdet) |
+| **2024/03/25** | 3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation | Dongwei Gan et al. | [2403.16350v1](http://arxiv.org/abs/2403.16350v1) | [**link**](https://github.com/hidneuron/3d-effivitcaps) |
+| **2024/03/24** | Emotion Recognition from the perspective of Activity Recognition | Savinay Nagendra et al. | [2403.16263v1](http://arxiv.org/abs/2403.16263v1) | **NULL** |
+| **2024/03/24** | CFAT: Unleashing TriangularWindows for Image Super-resolution | Abhisek Ray et al. | [2403.16143v1](http://arxiv.org/abs/2403.16143v1) | [**link**](https://github.com/rayabhisek123/cfat) |
+| **2024/03/24** | AKBR: Learning Adaptive Kernel-based Representations for Graph Classification | Feifei Qian et al. | [2403.16130v1](http://arxiv.org/abs/2403.16130v1) | **NULL** |
+| **2024/03/24** | EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing | Xiangpeng Yang et al. | [2403.16111v1](http://arxiv.org/abs/2403.16111v1) | **NULL** |
+| **2024/03/24** | A Transformer approach for Electricity Price Forecasting | Oscar Llorente Gonzalez et al. | [2403.16108v1](http://arxiv.org/abs/2403.16108v1) | [**link**](https://github.com/osllogon/epf_transformers) |
+| **2024/03/24** | Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks | Hongyin Zhu | [2403.16033v1](http://arxiv.org/abs/2403.16033v1) | **NULL** |
+| **2024/03/24** | VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections | Dongqi Fu et al. | [2403.16030v1](http://arxiv.org/abs/2403.16030v1) | **NULL** |
+| **2024/03/23** | Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation | Bowen Huang et al. | [2403.15691v1](http://arxiv.org/abs/2403.15691v1) | **NULL** |
+| **2024/03/22** | SensoryT5: Infusing Sensorimotor Norms into T5 for Enhanced Fine-grained Emotion Classification | Yuhan Xia et al. | [2403.15574v1](http://arxiv.org/abs/2403.15574v1) | **NULL** |
 | **2024/03/22** | Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems | Mengke Ge et al. | [2403.15069v1](http://arxiv.org/abs/2403.15069v1) | **NULL** |
 | **2024/03/22** | MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration | Zhichao Wei et al. | [2403.15059v1](http://arxiv.org/abs/2403.15059v1) | **NULL** |
 | **2024/03/22** | An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images | Zilin Xie et al. | [2403.15032v1](http://arxiv.org/abs/2403.15032v1) | **NULL** |
 | **2024/03/22** | Attention-Driven Reasoning: Unlocking the Potential of Large Language Models | Bingli Liao et al. | [2403.14932v1](http://arxiv.org/abs/2403.14932v1) | **NULL** |
 | **2024/03/21** | Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance | Shenhao Zhu et al. | [2403.14781v1](http://arxiv.org/abs/2403.14781v1) | **NULL** |
-| **2024/03/21** | StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text | Roberto Henschel et al. | [2403.14773v1](http://arxiv.org/abs/2403.14773v1) | **NULL** |
+| **2024/03/21** | StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text | Roberto Henschel et al. | [2403.14773v1](http://arxiv.org/abs/2403.14773v1) | [**link**](https://github.com/picsart-ai-research/streamingt2v) |
 | **2024/03/21** | Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention | Ethan N. Evans et al. | [2403.14753v1](http://arxiv.org/abs/2403.14753v1) | **NULL** |
 | **2024/03/21** | DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing | Yueru Jia et al. | [2403.14487v1](http://arxiv.org/abs/2403.14487v1) | **NULL** |
 | **2024/03/21** | HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges | Mehul Arora et al. | [2403.14484v1](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
@@ -68,21 +81,8 @@ layout: default
 | **2024/03/21** | A task of anomaly detection for a smart satellite Internet of things system | Zilong Shao | [2403.14738v1](http://arxiv.org/abs/2403.14738v1) | **NULL** |
 | **2024/03/21** | SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks | Xinyu Shi et al. | [2403.14302v1](http://arxiv.org/abs/2403.14302v1) | [**link**](https://github.com/xyshi2000/spikingresformer) |
 | **2024/03/21** | Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection | Tim Salzmann et al. | [2403.14270v1](http://arxiv.org/abs/2403.14270v1) | **NULL** |
+| **2024/03/21** | MOGAM: A Multimodal Object-oriented Graph Attention Model for Depression Detection | Junyeop Cha et al. | [2403.15485v1](http://arxiv.org/abs/2403.15485v1) | **NULL** |
 | **2024/03/21** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | Kwanyoung Kim et al. | [2403.14183v1](http://arxiv.org/abs/2403.14183v1) | **NULL** |
-| **2024/03/20** | Spatial-Temporal Graph Representation Learning for Tactical Networks Future State Prediction | Liu Junhua et al. | [2403.13872v1](http://arxiv.org/abs/2403.13872v1) | **NULL** |
-| **2024/03/20** | Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition | R. Gnana Praveen et al. | [2403.13659v1](http://arxiv.org/abs/2403.13659v1) | **NULL** |
-| **2024/03/20** | VL-Mamba: Exploring State Space Models for Multimodal Learning | Yanyuan Qiao et al. | [2403.13600v1](http://arxiv.org/abs/2403.13600v1) | **NULL** |
-| **2024/03/20** | Compress3D: a Compressed Latent Space for 3D Generation from a Single Image | Bowen Zhang et al. | [2403.13524v1](http://arxiv.org/abs/2403.13524v1) | **NULL** |
-| **2024/03/20** | Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data | Fucai Ke et al. | [2403.13246v1](http://arxiv.org/abs/2403.13246v1) | **NULL** |
-| **2024/03/19** | Improved EATFormer: A Vision Transformer for Medical Image Classification | Yulong Shisu et al. | [2403.13167v1](http://arxiv.org/abs/2403.13167v1) | **NULL** |
-| **2024/03/19** | FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation | Shuai Yang et al. | [2403.12962v1](http://arxiv.org/abs/2403.12962v1) | [**link**](https://github.com/williamyang1991/fresco) |
-| **2024/03/19** | Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers | Vidhi Jain et al. | [2403.12943v1](http://arxiv.org/abs/2403.12943v1) | **NULL** |
-| **2024/03/19** | Emotic Masked Autoencoder with Attention Fusion for Facial Expression Recognition | Bach Nguyen-Xuan et al. | [2403.13039v1](http://arxiv.org/abs/2403.13039v1) | **NULL** |
-| **2024/03/19** | IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model | Matteo Bortolon et al. | [2403.12682v1](http://arxiv.org/abs/2403.12682v1) | **NULL** |
-| **2024/03/19** | TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer | Eunjee Choi et al. | [2403.12481v1](http://arxiv.org/abs/2403.12481v1) | **NULL** |
-| **2024/03/19** | Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation | Zhangjie Peng et al. | [2403.12453v1](http://arxiv.org/abs/2403.12453v1) | **NULL** |
-| **2024/03/18** | Fusion Transformer with Object Mask Guidance for Image Forgery Analysis | Dimitrios Karageorgiou et al. | [2403.12229v1](http://arxiv.org/abs/2403.12229v1) | **NULL** |
-| **2024/03/18** | From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality? | Guangming Huang et al. | [2403.11894v1](http://arxiv.org/abs/2403.11894v1) | **NULL** |
 
 ## 背景差分
 
