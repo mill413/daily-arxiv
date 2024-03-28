@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/27 08:44:07
+> Updated on 2024/03/28 08:44:36
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/26** | Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models | Mohammad Shahab Sepehri et al. | [2403.17902v1](http://arxiv.org/abs/2403.17902v1) | **NULL** |
+| **2024/03/26** | EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention | Zhen Tian et al. | [2403.17729v1](http://arxiv.org/abs/2403.17729v1) | [**link**](https://github.com/rucaibox/eulerformer) |
+| **2024/03/26** | Mix-Initiative Response Generation with Dynamic Prefix Tuning | Yuxiang Nie et al. | [2403.17636v2](http://arxiv.org/abs/2403.17636v2) | **NULL** |
+| **2024/03/26** | Speaker Distance Estimation in Enclosures from Single-Channel Audio | Michael Neri et al. | [2403.17514v1](http://arxiv.org/abs/2403.17514v1) | **NULL** |
+| **2024/03/26** | Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance | Donghoon Ahn et al. | [2403.17377v1](http://arxiv.org/abs/2403.17377v1) | **NULL** |
+| **2024/03/25** | Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study | Ahmed Soliman et al. | [2403.17177v1](http://arxiv.org/abs/2403.17177v1) | **NULL** |
+| **2024/03/25** | TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models | Zhongwei Zhang et al. | [2403.17005v1](http://arxiv.org/abs/2403.17005v1) | **NULL** |
+| **2024/03/25** | CipherFormer: Efficient Transformer Private Inference with Low Round Complexity | Weize Wang et al. | [2403.16860v1](http://arxiv.org/abs/2403.16860v1) | **NULL** |
+| **2024/03/25** | Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks | Huifeng Yin et al. | [2403.17040v1](http://arxiv.org/abs/2403.17040v1) | **NULL** |
 | **2024/03/25** | QKFormer: Hierarchical Spiking Transformer using Q-K Attention | Chenlin Zhou et al. | [2403.16552v1](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
 | **2024/03/25** | VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting | Yujin Tang et al. | [2403.16536v2](http://arxiv.org/abs/2403.16536v2) | [**link**](https://github.com/yyyujintang/vmrnn-pytorch) |
 | **2024/03/25** | RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection | Zhiwei Lin et al. | [2403.16440v1](http://arxiv.org/abs/2403.16440v1) | [**link**](https://github.com/vdigpku/rcbevdet) |
@@ -74,15 +83,6 @@ layout: default
 | **2024/03/21** | StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text | Roberto Henschel et al. | [2403.14773v1](http://arxiv.org/abs/2403.14773v1) | [**link**](https://github.com/picsart-ai-research/streamingt2v) |
 | **2024/03/21** | Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention | Ethan N. Evans et al. | [2403.14753v1](http://arxiv.org/abs/2403.14753v1) | **NULL** |
 | **2024/03/21** | DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing | Yueru Jia et al. | [2403.14487v1](http://arxiv.org/abs/2403.14487v1) | **NULL** |
-| **2024/03/21** | HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges | Mehul Arora et al. | [2403.14484v1](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
-| **2024/03/21** | CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers | Alex Ranne et al. | [2403.14465v1](http://arxiv.org/abs/2403.14465v1) | **NULL** |
-| **2024/03/21** | gTBLS: Generating Tables from Text by Conditional Question Answering | Anirudh Sundar et al. | [2403.14457v1](http://arxiv.org/abs/2403.14457v1) | **NULL** |
-| **2024/03/21** | RoDLA: Benchmarking the Robustness of Document Layout Analysis Models | Yufan Chen et al. | [2403.14442v1](http://arxiv.org/abs/2403.14442v1) | **NULL** |
-| **2024/03/21** | A task of anomaly detection for a smart satellite Internet of things system | Zilong Shao | [2403.14738v1](http://arxiv.org/abs/2403.14738v1) | **NULL** |
-| **2024/03/21** | SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks | Xinyu Shi et al. | [2403.14302v1](http://arxiv.org/abs/2403.14302v1) | [**link**](https://github.com/xyshi2000/spikingresformer) |
-| **2024/03/21** | Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection | Tim Salzmann et al. | [2403.14270v1](http://arxiv.org/abs/2403.14270v1) | **NULL** |
-| **2024/03/21** | MOGAM: A Multimodal Object-oriented Graph Attention Model for Depression Detection | Junyeop Cha et al. | [2403.15485v1](http://arxiv.org/abs/2403.15485v1) | **NULL** |
-| **2024/03/21** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | Kwanyoung Kim et al. | [2403.14183v1](http://arxiv.org/abs/2403.14183v1) | **NULL** |
 
 ## 背景差分
 
