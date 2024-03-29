@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/28 08:44:36
+> Updated on 2024/03/29 08:43:51
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/27** | Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding | Run Shao et al. | [2403.18593v1](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
+| **2024/03/27** | SGDM: Static-Guided Dynamic Module Make Stronger Visual Models | Wenjie Xing et al. | [2403.18282v1](http://arxiv.org/abs/2403.18282v1) | **NULL** |
+| **2024/03/27** | RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers | Zhichao Xu | [2403.18276v1](http://arxiv.org/abs/2403.18276v1) | **NULL** |
+| **2024/03/27** | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding | Zhiheng Cheng et al. | [2403.18271v1](http://arxiv.org/abs/2403.18271v1) | [**link**](https://github.com/cccccczh404/h-sam) |
+| **2024/03/27** | Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation | Xilin Jiang et al. | [2403.18257v1](http://arxiv.org/abs/2403.18257v1) | **NULL** |
+| **2024/03/27** | A Transformer-Based Framework for Payload Malware Detection and Classification | Kyle Stein et al. | [2403.18223v1](http://arxiv.org/abs/2403.18223v1) | **NULL** |
+| **2024/03/26** | Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer | Badri N. Patro et al. | [2403.18063v1](http://arxiv.org/abs/2403.18063v1) | [**link**](https://github.com/badripatro/sct) |
 | **2024/03/26** | Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models | Mohammad Shahab Sepehri et al. | [2403.17902v1](http://arxiv.org/abs/2403.17902v1) | **NULL** |
 | **2024/03/26** | EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention | Zhen Tian et al. | [2403.17729v1](http://arxiv.org/abs/2403.17729v1) | [**link**](https://github.com/rucaibox/eulerformer) |
 | **2024/03/26** | Mix-Initiative Response Generation with Dynamic Prefix Tuning | Yuxiang Nie et al. | [2403.17636v2](http://arxiv.org/abs/2403.17636v2) | **NULL** |
-| **2024/03/26** | Speaker Distance Estimation in Enclosures from Single-Channel Audio | Michael Neri et al. | [2403.17514v1](http://arxiv.org/abs/2403.17514v1) | **NULL** |
+| **2024/03/26** | Speaker Distance Estimation in Enclosures from Single-Channel Audio | Michael Neri et al. | [2403.17514v1](http://arxiv.org/abs/2403.17514v1) | [**link**](https://github.com/michaelneri/audio-distance-estimation) |
 | **2024/03/26** | Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance | Donghoon Ahn et al. | [2403.17377v1](http://arxiv.org/abs/2403.17377v1) | **NULL** |
 | **2024/03/25** | Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study | Ahmed Soliman et al. | [2403.17177v1](http://arxiv.org/abs/2403.17177v1) | **NULL** |
 | **2024/03/25** | TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models | Zhongwei Zhang et al. | [2403.17005v1](http://arxiv.org/abs/2403.17005v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/03/23** | Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation | Bowen Huang et al. | [2403.15691v1](http://arxiv.org/abs/2403.15691v1) | **NULL** |
 | **2024/03/22** | SensoryT5: Infusing Sensorimotor Norms into T5 for Enhanced Fine-grained Emotion Classification | Yuhan Xia et al. | [2403.15574v1](http://arxiv.org/abs/2403.15574v1) | **NULL** |
 | **2024/03/22** | Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems | Mengke Ge et al. | [2403.15069v1](http://arxiv.org/abs/2403.15069v1) | **NULL** |
-| **2024/03/22** | MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration | Zhichao Wei et al. | [2403.15059v1](http://arxiv.org/abs/2403.15059v1) | **NULL** |
-| **2024/03/22** | An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images | Zilin Xie et al. | [2403.15032v1](http://arxiv.org/abs/2403.15032v1) | **NULL** |
-| **2024/03/22** | Attention-Driven Reasoning: Unlocking the Potential of Large Language Models | Bingli Liao et al. | [2403.14932v1](http://arxiv.org/abs/2403.14932v1) | **NULL** |
-| **2024/03/21** | Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance | Shenhao Zhu et al. | [2403.14781v1](http://arxiv.org/abs/2403.14781v1) | **NULL** |
-| **2024/03/21** | StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text | Roberto Henschel et al. | [2403.14773v1](http://arxiv.org/abs/2403.14773v1) | [**link**](https://github.com/picsart-ai-research/streamingt2v) |
-| **2024/03/21** | Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention | Ethan N. Evans et al. | [2403.14753v1](http://arxiv.org/abs/2403.14753v1) | **NULL** |
-| **2024/03/21** | DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing | Yueru Jia et al. | [2403.14487v1](http://arxiv.org/abs/2403.14487v1) | **NULL** |
 
 ## 背景差分
 
