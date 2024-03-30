@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/29 08:43:51
+> Updated on 2024/03/30 08:42:43
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/03/28** | Self-Improved Learning for Scalable Neural Combinatorial Optimization | Fu Luo et al. | [2403.19561v1](http://arxiv.org/abs/2403.19561v1) | **NULL** |
+| **2024/03/28** | Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition | R. Gnana Praveen et al. | [2403.19554v1](http://arxiv.org/abs/2403.19554v1) | **NULL** |
+| **2024/03/28** | Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance | Yulin Pan et al. | [2403.19534v1](http://arxiv.org/abs/2403.19534v1) | **NULL** |
+| **2024/03/28** | Topological Cycle Graph Attention Network for Brain Functional Connectivity | Jinghan Huang et al. | [2403.19149v1](http://arxiv.org/abs/2403.19149v1) | **NULL** |
+| **2024/03/28** | MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation | Seyeon Kim et al. | [2403.19144v1](http://arxiv.org/abs/2403.19144v1) | **NULL** |
+| **2024/03/28** | GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving | Yunpeng Zhang et al. | [2403.19098v1](http://arxiv.org/abs/2403.19098v1) | [**link**](https://github.com/zhangyp15/graphad) |
 | **2024/03/27** | Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding | Run Shao et al. | [2403.18593v1](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
 | **2024/03/27** | SGDM: Static-Guided Dynamic Module Make Stronger Visual Models | Wenjie Xing et al. | [2403.18282v1](http://arxiv.org/abs/2403.18282v1) | **NULL** |
 | **2024/03/27** | RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers | Zhichao Xu | [2403.18276v1](http://arxiv.org/abs/2403.18276v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/03/24** | CFAT: Unleashing TriangularWindows for Image Super-resolution | Abhisek Ray et al. | [2403.16143v1](http://arxiv.org/abs/2403.16143v1) | [**link**](https://github.com/rayabhisek123/cfat) |
 | **2024/03/24** | AKBR: Learning Adaptive Kernel-based Representations for Graph Classification | Feifei Qian et al. | [2403.16130v1](http://arxiv.org/abs/2403.16130v1) | **NULL** |
 | **2024/03/24** | EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing | Xiangpeng Yang et al. | [2403.16111v1](http://arxiv.org/abs/2403.16111v1) | **NULL** |
-| **2024/03/24** | A Transformer approach for Electricity Price Forecasting | Oscar Llorente Gonzalez et al. | [2403.16108v1](http://arxiv.org/abs/2403.16108v1) | [**link**](https://github.com/osllogon/epf_transformers) |
-| **2024/03/24** | Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks | Hongyin Zhu | [2403.16033v1](http://arxiv.org/abs/2403.16033v1) | **NULL** |
-| **2024/03/24** | VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections | Dongqi Fu et al. | [2403.16030v1](http://arxiv.org/abs/2403.16030v1) | **NULL** |
-| **2024/03/23** | Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation | Bowen Huang et al. | [2403.15691v1](http://arxiv.org/abs/2403.15691v1) | **NULL** |
-| **2024/03/22** | SensoryT5: Infusing Sensorimotor Norms into T5 for Enhanced Fine-grained Emotion Classification | Yuhan Xia et al. | [2403.15574v1](http://arxiv.org/abs/2403.15574v1) | **NULL** |
-| **2024/03/22** | Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems | Mengke Ge et al. | [2403.15069v1](http://arxiv.org/abs/2403.15069v1) | **NULL** |
 
 ## 背景差分
 
