@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/03/30 08:42:43
+> Updated on 2024/03/31 08:50:15
 
 <summary>Table of Contents</summary>
 
@@ -25,7 +25,7 @@ layout: default
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
-| **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | **NULL** |
+| **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | [**link**](https://github.com/coolbay/Dr2Net) |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
 | **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
