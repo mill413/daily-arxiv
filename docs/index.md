@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/01 08:50:38
+> Updated on 2024/04/02 08:47:22
 
 <summary>Table of Contents</summary>
 
@@ -25,7 +25,7 @@ layout: default
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
-| **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v1](http://arxiv.org/abs/2401.04105v1) | [**link**](https://github.com/coolbay/Dr2Net) |
+| **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
 | **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
@@ -53,15 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/03/28** | Self-Improved Learning for Scalable Neural Combinatorial Optimization | Fu Luo et al. | [2403.19561v1](http://arxiv.org/abs/2403.19561v1) | **NULL** |
+| **2024/03/29** | Sparse multimodal fusion with modal channel attention | Josiah Bjorgaard | [2403.20280v1](http://arxiv.org/abs/2403.20280v1) | **NULL** |
+| **2024/03/29** | MCNet: A crowd denstity estimation network based on integrating multiscale attention module | Qiang Guo et al. | [2403.20173v1](http://arxiv.org/abs/2403.20173v1) | **NULL** |
+| **2024/03/29** | Sound event localization and classification using WASN in Outdoor Environment | Dongzhe Zhang et al. | [2403.20130v1](http://arxiv.org/abs/2403.20130v1) | **NULL** |
+| **2024/03/29** | FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues | Shuang Li et al. | [2403.20026v1](http://arxiv.org/abs/2403.20026v1) | **NULL** |
+| **2024/03/29** | SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs | Hao Wu et al. | [2403.19936v1](http://arxiv.org/abs/2403.19936v1) | **NULL** |
+| **2024/03/29** | DiJiang: Efficient Large Language Models through Compact Kernelization | Hanting Chen et al. | [2403.19928v1](http://arxiv.org/abs/2403.19928v1) | **NULL** |
+| **2024/03/29** | Video-Based Human Pose Regression via Decoupled Space-Time Aggregation | Jijie He et al. | [2403.19926v1](http://arxiv.org/abs/2403.19926v1) | [**link**](https://github.com/zgspose/dsta) |
+| **2024/03/28** | Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights | Moein Heidari et al. | [2403.19882v1](http://arxiv.org/abs/2403.19882v1) | **NULL** |
+| **2024/03/28** | AlloyBERT: Alloy Property Prediction with Large Language Models | Akshat Chaudhari et al. | [2403.19783v1](http://arxiv.org/abs/2403.19783v1) | **NULL** |
+| **2024/03/28** | CLoRA: A Contrastive Approach to Compose Multiple LoRA Models | Tuna Han Salih Meral et al. | [2403.19776v1](http://arxiv.org/abs/2403.19776v1) | **NULL** |
+| **2024/03/28** | Self-Improved Learning for Scalable Neural Combinatorial Optimization | Fu Luo et al. | [2403.19561v2](http://arxiv.org/abs/2403.19561v2) | **NULL** |
 | **2024/03/28** | Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition | R. Gnana Praveen et al. | [2403.19554v1](http://arxiv.org/abs/2403.19554v1) | **NULL** |
 | **2024/03/28** | Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance | Yulin Pan et al. | [2403.19534v1](http://arxiv.org/abs/2403.19534v1) | **NULL** |
 | **2024/03/28** | Topological Cycle Graph Attention Network for Brain Functional Connectivity | Jinghan Huang et al. | [2403.19149v1](http://arxiv.org/abs/2403.19149v1) | **NULL** |
-| **2024/03/28** | MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation | Seyeon Kim et al. | [2403.19144v1](http://arxiv.org/abs/2403.19144v1) | **NULL** |
+| **2024/03/28** | MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation | Seyeon Kim et al. | [2403.19144v1](http://arxiv.org/abs/2403.19144v1) | [**link**](https://github.com/KU-CVLAB/MoDiTalker) |
 | **2024/03/28** | GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving | Yunpeng Zhang et al. | [2403.19098v1](http://arxiv.org/abs/2403.19098v1) | [**link**](https://github.com/zhangyp15/graphad) |
 | **2024/03/27** | Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding | Run Shao et al. | [2403.18593v1](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
 | **2024/03/27** | SGDM: Static-Guided Dynamic Module Make Stronger Visual Models | Wenjie Xing et al. | [2403.18282v1](http://arxiv.org/abs/2403.18282v1) | **NULL** |
-| **2024/03/27** | RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers | Zhichao Xu | [2403.18276v1](http://arxiv.org/abs/2403.18276v1) | **NULL** |
+| **2024/03/27** | RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers | Zhichao Xu | [2403.18276v1](http://arxiv.org/abs/2403.18276v1) | [**link**](https://github.com/zhichaoxu-shufe/rankmamba) |
 | **2024/03/27** | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding | Zhiheng Cheng et al. | [2403.18271v1](http://arxiv.org/abs/2403.18271v1) | [**link**](https://github.com/cccccczh404/h-sam) |
 | **2024/03/27** | Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation | Xilin Jiang et al. | [2403.18257v1](http://arxiv.org/abs/2403.18257v1) | **NULL** |
 | **2024/03/27** | A Transformer-Based Framework for Payload Malware Detection and Classification | Kyle Stein et al. | [2403.18223v1](http://arxiv.org/abs/2403.18223v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/03/26** | Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance | Donghoon Ahn et al. | [2403.17377v1](http://arxiv.org/abs/2403.17377v1) | **NULL** |
 | **2024/03/25** | Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study | Ahmed Soliman et al. | [2403.17177v1](http://arxiv.org/abs/2403.17177v1) | **NULL** |
 | **2024/03/25** | TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models | Zhongwei Zhang et al. | [2403.17005v1](http://arxiv.org/abs/2403.17005v1) | **NULL** |
-| **2024/03/25** | CipherFormer: Efficient Transformer Private Inference with Low Round Complexity | Weize Wang et al. | [2403.16860v1](http://arxiv.org/abs/2403.16860v1) | **NULL** |
-| **2024/03/25** | Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks | Huifeng Yin et al. | [2403.17040v1](http://arxiv.org/abs/2403.17040v1) | **NULL** |
-| **2024/03/25** | QKFormer: Hierarchical Spiking Transformer using Q-K Attention | Chenlin Zhou et al. | [2403.16552v1](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
-| **2024/03/25** | VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting | Yujin Tang et al. | [2403.16536v2](http://arxiv.org/abs/2403.16536v2) | [**link**](https://github.com/yyyujintang/vmrnn-pytorch) |
-| **2024/03/25** | RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection | Zhiwei Lin et al. | [2403.16440v1](http://arxiv.org/abs/2403.16440v1) | [**link**](https://github.com/vdigpku/rcbevdet) |
-| **2024/03/25** | 3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation | Dongwei Gan et al. | [2403.16350v1](http://arxiv.org/abs/2403.16350v1) | [**link**](https://github.com/hidneuron/3d-effivitcaps) |
-| **2024/03/24** | Emotion Recognition from the perspective of Activity Recognition | Savinay Nagendra et al. | [2403.16263v1](http://arxiv.org/abs/2403.16263v1) | **NULL** |
-| **2024/03/24** | CFAT: Unleashing TriangularWindows for Image Super-resolution | Abhisek Ray et al. | [2403.16143v1](http://arxiv.org/abs/2403.16143v1) | [**link**](https://github.com/rayabhisek123/cfat) |
-| **2024/03/24** | AKBR: Learning Adaptive Kernel-based Representations for Graph Classification | Feifei Qian et al. | [2403.16130v1](http://arxiv.org/abs/2403.16130v1) | **NULL** |
-| **2024/03/24** | EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing | Xiangpeng Yang et al. | [2403.16111v1](http://arxiv.org/abs/2403.16111v1) | **NULL** |
 
 ## 背景差分
 
