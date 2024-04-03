@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/02 08:47:22
+> Updated on 2024/04/03 08:43:46
 
 <summary>Table of Contents</summary>
 
@@ -58,8 +58,8 @@ layout: default
 | **2024/03/29** | Sound event localization and classification using WASN in Outdoor Environment | Dongzhe Zhang et al. | [2403.20130v1](http://arxiv.org/abs/2403.20130v1) | **NULL** |
 | **2024/03/29** | FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues | Shuang Li et al. | [2403.20026v1](http://arxiv.org/abs/2403.20026v1) | **NULL** |
 | **2024/03/29** | SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs | Hao Wu et al. | [2403.19936v1](http://arxiv.org/abs/2403.19936v1) | **NULL** |
-| **2024/03/29** | DiJiang: Efficient Large Language Models through Compact Kernelization | Hanting Chen et al. | [2403.19928v1](http://arxiv.org/abs/2403.19928v1) | **NULL** |
-| **2024/03/29** | Video-Based Human Pose Regression via Decoupled Space-Time Aggregation | Jijie He et al. | [2403.19926v1](http://arxiv.org/abs/2403.19926v1) | [**link**](https://github.com/zgspose/dsta) |
+| **2024/03/29** | DiJiang: Efficient Large Language Models through Compact Kernelization | Hanting Chen et al. | [2403.19928v2](http://arxiv.org/abs/2403.19928v2) | [**link**](https://github.com/yuchuantian/dijiang) |
+| **2024/03/29** | Video-Based Human Pose Regression via Decoupled Space-Time Aggregation | Jijie He et al. | [2403.19926v2](http://arxiv.org/abs/2403.19926v2) | [**link**](https://github.com/zgspose/dsta) |
 | **2024/03/28** | Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights | Moein Heidari et al. | [2403.19882v1](http://arxiv.org/abs/2403.19882v1) | **NULL** |
 | **2024/03/28** | AlloyBERT: Alloy Property Prediction with Large Language Models | Akshat Chaudhari et al. | [2403.19783v1](http://arxiv.org/abs/2403.19783v1) | **NULL** |
 | **2024/03/28** | CLoRA: A Contrastive Approach to Compose Multiple LoRA Models | Tuna Han Salih Meral et al. | [2403.19776v1](http://arxiv.org/abs/2403.19776v1) | **NULL** |
