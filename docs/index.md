@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/03 08:43:46
+> Updated on 2024/04/04 08:46:16
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/02** | SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation | Vinkle Srivastav et al. | [2404.02041v1](http://arxiv.org/abs/2404.02041v1) | **NULL** |
+| **2024/04/02** | Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method | Jyun-An Lin et al. | [2404.01929v1](http://arxiv.org/abs/2404.01929v1) | **NULL** |
+| **2024/04/01** | Large Motion Model for Unified Multi-Modal Motion Generation | Mingyuan Zhang et al. | [2404.01284v1](http://arxiv.org/abs/2404.01284v1) | **NULL** |
+| **2024/04/01** | Positioning is All You Need | Xin Li | [2404.01183v1](http://arxiv.org/abs/2404.01183v1) | **NULL** |
+| **2024/04/01** | Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation | Yulin Chen et al. | [2404.01127v1](http://arxiv.org/abs/2404.01127v1) | **NULL** |
+| **2024/04/01** | CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening | Wen-Jie Shu et al. | [2404.01121v1](http://arxiv.org/abs/2404.01121v1) | **NULL** |
+| **2024/04/01** | Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On | Xu Yang et al. | [2404.01089v1](http://arxiv.org/abs/2404.01089v1) | **NULL** |
+| **2024/04/01** | Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC | Spandan Mondal et al. | [2404.01071v1](http://arxiv.org/abs/2404.01071v1) | **NULL** |
+| **2024/04/01** | Cross-channel Recommendation for Multi-channel Retail | Yijin Choi et al. | [2404.00972v1](http://arxiv.org/abs/2404.00972v1) | **NULL** |
+| **2024/04/01** | Harnessing The Power of Attention For Patch-Based Biomedical Image Classification | Gousia Habib et al. | [2404.00949v1](http://arxiv.org/abs/2404.00949v1) | **NULL** |
+| **2024/04/01** | GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields | Yunsong Wang et al. | [2404.00931v1](http://arxiv.org/abs/2404.00931v1) | [**link**](https://github.com/wangys16/gov-nesf) |
+| **2024/03/31** | GAMA-IR: Global Additive Multidimensional Averaging for Fast Image Restoration | Youssef Mansour et al. | [2404.00807v1](http://arxiv.org/abs/2404.00807v1) | **NULL** |
+| **2024/03/31** | On Difficulties of Attention Factorization through Shared Memory | Uladzislau Yorsh et al. | [2404.00798v1](http://arxiv.org/abs/2404.00798v1) | **NULL** |
+| **2024/03/31** | MugenNet: A Novel Combined Convolution Neural Network and Transformer Network with its Application for Colonic Polyp Image Segmentation | Chen Peng et al. | [2404.00726v1](http://arxiv.org/abs/2404.00726v1) | **NULL** |
+| **2024/03/31** | DRCT: Saving Image Super-resolution away from Information Bottleneck | Chih-Chung Hsu et al. | [2404.00722v2](http://arxiv.org/abs/2404.00722v2) | **NULL** |
+| **2024/03/31** | KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation | Jihua Peng et al. | [2404.00658v2](http://arxiv.org/abs/2404.00658v2) | [**link**](https://github.com/JihuaPeng/KTPFormer) |
+| **2024/03/31** | A Multi-Branched Radial Basis Network Approach to Predicting Complex Chaotic Behaviours | Aarush Sinha | [2404.00618v1](http://arxiv.org/abs/2404.00618v1) | [**link**](https://github.com/chungimungi/A-Multi-Branched-Radial-Basis-Network-Approach-to-Predicting-Complex-Chaotic-Behaviours) |
+| **2024/03/30** | QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs | Saleh Ashkboos et al. | [2404.00456v1](http://arxiv.org/abs/2404.00456v1) | **NULL** |
+| **2024/03/30** | Accurate Cutting-point Estimation for Robotic Lychee Harvesting through Geometry-aware Learning | Gengming Zhang et al. | [2404.00364v1](http://arxiv.org/abs/2404.00364v1) | **NULL** |
+| **2024/03/30** | Rethinking Attention-Based Multiple Instance Learning for Whole-Slide Pathological Image Classification: An Instance Attribute Viewpoint | Linghan Cai et al. | [2404.00351v1](http://arxiv.org/abs/2404.00351v1) | **NULL** |
+| **2024/03/30** | TRABSA: Interpretable Sentiment Analysis of Tweets using Attention-based BiLSTM and Twitter-RoBERTa | Md Abrar Jahin et al. | [2404.00297v1](http://arxiv.org/abs/2404.00297v1) | **NULL** |
+| **2024/03/30** | Radio Frequency Interference Detection Using Efficient Multi-Scale Convolutional Attention UNet | Fei Gu et al. | [2404.00277v1](http://arxiv.org/abs/2404.00277v1) | **NULL** |
+| **2024/03/30** | HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification | Judy X Yang et al. | [2404.00272v1](http://arxiv.org/abs/2404.00272v1) | **NULL** |
+| **2024/03/30** | A Simple Yet Effective Approach for Diversified Session-Based Recommendation | Qing Yin et al. | [2404.00261v1](http://arxiv.org/abs/2404.00261v1) | **NULL** |
 | **2024/03/29** | Sparse multimodal fusion with modal channel attention | Josiah Bjorgaard | [2403.20280v1](http://arxiv.org/abs/2403.20280v1) | **NULL** |
 | **2024/03/29** | MCNet: A crowd denstity estimation network based on integrating multiscale attention module | Qiang Guo et al. | [2403.20173v1](http://arxiv.org/abs/2403.20173v1) | **NULL** |
 | **2024/03/29** | Sound event localization and classification using WASN in Outdoor Environment | Dongzhe Zhang et al. | [2403.20130v1](http://arxiv.org/abs/2403.20130v1) | **NULL** |
 | **2024/03/29** | FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues | Shuang Li et al. | [2403.20026v1](http://arxiv.org/abs/2403.20026v1) | **NULL** |
 | **2024/03/29** | SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs | Hao Wu et al. | [2403.19936v1](http://arxiv.org/abs/2403.19936v1) | **NULL** |
 | **2024/03/29** | DiJiang: Efficient Large Language Models through Compact Kernelization | Hanting Chen et al. | [2403.19928v2](http://arxiv.org/abs/2403.19928v2) | [**link**](https://github.com/yuchuantian/dijiang) |
-| **2024/03/29** | Video-Based Human Pose Regression via Decoupled Space-Time Aggregation | Jijie He et al. | [2403.19926v2](http://arxiv.org/abs/2403.19926v2) | [**link**](https://github.com/zgspose/dsta) |
-| **2024/03/28** | Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights | Moein Heidari et al. | [2403.19882v1](http://arxiv.org/abs/2403.19882v1) | **NULL** |
-| **2024/03/28** | AlloyBERT: Alloy Property Prediction with Large Language Models | Akshat Chaudhari et al. | [2403.19783v1](http://arxiv.org/abs/2403.19783v1) | **NULL** |
-| **2024/03/28** | CLoRA: A Contrastive Approach to Compose Multiple LoRA Models | Tuna Han Salih Meral et al. | [2403.19776v1](http://arxiv.org/abs/2403.19776v1) | **NULL** |
-| **2024/03/28** | Self-Improved Learning for Scalable Neural Combinatorial Optimization | Fu Luo et al. | [2403.19561v2](http://arxiv.org/abs/2403.19561v2) | **NULL** |
-| **2024/03/28** | Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition | R. Gnana Praveen et al. | [2403.19554v1](http://arxiv.org/abs/2403.19554v1) | **NULL** |
-| **2024/03/28** | Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance | Yulin Pan et al. | [2403.19534v1](http://arxiv.org/abs/2403.19534v1) | **NULL** |
-| **2024/03/28** | Topological Cycle Graph Attention Network for Brain Functional Connectivity | Jinghan Huang et al. | [2403.19149v1](http://arxiv.org/abs/2403.19149v1) | **NULL** |
-| **2024/03/28** | MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation | Seyeon Kim et al. | [2403.19144v1](http://arxiv.org/abs/2403.19144v1) | [**link**](https://github.com/KU-CVLAB/MoDiTalker) |
-| **2024/03/28** | GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving | Yunpeng Zhang et al. | [2403.19098v1](http://arxiv.org/abs/2403.19098v1) | [**link**](https://github.com/zhangyp15/graphad) |
-| **2024/03/27** | Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding | Run Shao et al. | [2403.18593v1](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
-| **2024/03/27** | SGDM: Static-Guided Dynamic Module Make Stronger Visual Models | Wenjie Xing et al. | [2403.18282v1](http://arxiv.org/abs/2403.18282v1) | **NULL** |
-| **2024/03/27** | RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers | Zhichao Xu | [2403.18276v1](http://arxiv.org/abs/2403.18276v1) | [**link**](https://github.com/zhichaoxu-shufe/rankmamba) |
-| **2024/03/27** | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding | Zhiheng Cheng et al. | [2403.18271v1](http://arxiv.org/abs/2403.18271v1) | [**link**](https://github.com/cccccczh404/h-sam) |
-| **2024/03/27** | Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation | Xilin Jiang et al. | [2403.18257v1](http://arxiv.org/abs/2403.18257v1) | **NULL** |
-| **2024/03/27** | A Transformer-Based Framework for Payload Malware Detection and Classification | Kyle Stein et al. | [2403.18223v1](http://arxiv.org/abs/2403.18223v1) | **NULL** |
-| **2024/03/26** | Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer | Badri N. Patro et al. | [2403.18063v1](http://arxiv.org/abs/2403.18063v1) | [**link**](https://github.com/badripatro/sct) |
-| **2024/03/26** | Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models | Mohammad Shahab Sepehri et al. | [2403.17902v1](http://arxiv.org/abs/2403.17902v1) | **NULL** |
-| **2024/03/26** | EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention | Zhen Tian et al. | [2403.17729v1](http://arxiv.org/abs/2403.17729v1) | [**link**](https://github.com/rucaibox/eulerformer) |
-| **2024/03/26** | Mix-Initiative Response Generation with Dynamic Prefix Tuning | Yuxiang Nie et al. | [2403.17636v2](http://arxiv.org/abs/2403.17636v2) | **NULL** |
-| **2024/03/26** | Speaker Distance Estimation in Enclosures from Single-Channel Audio | Michael Neri et al. | [2403.17514v1](http://arxiv.org/abs/2403.17514v1) | [**link**](https://github.com/michaelneri/audio-distance-estimation) |
-| **2024/03/26** | Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance | Donghoon Ahn et al. | [2403.17377v1](http://arxiv.org/abs/2403.17377v1) | **NULL** |
-| **2024/03/25** | Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study | Ahmed Soliman et al. | [2403.17177v1](http://arxiv.org/abs/2403.17177v1) | **NULL** |
-| **2024/03/25** | TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models | Zhongwei Zhang et al. | [2403.17005v1](http://arxiv.org/abs/2403.17005v1) | **NULL** |
 
 ## 背景差分
 
