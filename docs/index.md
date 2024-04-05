@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/04 08:46:16
+> Updated on 2024/04/05 08:44:55
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/03** | Attention is Naturally Sparse with Gaussian Distributed Input | Yichuan Deng et al. | [2404.02690v1](http://arxiv.org/abs/2404.02690v1) | **NULL** |
+| **2024/04/03** | Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition | Ikuo Nakamura | [2404.02624v1](http://arxiv.org/abs/2404.02624v1) | **NULL** |
+| **2024/04/03** | HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras | Zhongyu Xia et al. | [2404.02517v1](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
 | **2024/04/02** | SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation | Vinkle Srivastav et al. | [2404.02041v1](http://arxiv.org/abs/2404.02041v1) | **NULL** |
 | **2024/04/02** | Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method | Jyun-An Lin et al. | [2404.01929v1](http://arxiv.org/abs/2404.01929v1) | **NULL** |
 | **2024/04/01** | Large Motion Model for Unified Multi-Modal Motion Generation | Mingyuan Zhang et al. | [2404.01284v1](http://arxiv.org/abs/2404.01284v1) | **NULL** |
-| **2024/04/01** | Positioning is All You Need | Xin Li | [2404.01183v1](http://arxiv.org/abs/2404.01183v1) | **NULL** |
+| **2024/04/01** | Positioning is All You Need | Xin Li | [2404.01183v2](http://arxiv.org/abs/2404.01183v2) | **NULL** |
 | **2024/04/01** | Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation | Yulin Chen et al. | [2404.01127v1](http://arxiv.org/abs/2404.01127v1) | **NULL** |
 | **2024/04/01** | CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening | Wen-Jie Shu et al. | [2404.01121v1](http://arxiv.org/abs/2404.01121v1) | **NULL** |
 | **2024/04/01** | Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On | Xu Yang et al. | [2404.01089v1](http://arxiv.org/abs/2404.01089v1) | **NULL** |
@@ -70,7 +73,7 @@ layout: default
 | **2024/03/31** | DRCT: Saving Image Super-resolution away from Information Bottleneck | Chih-Chung Hsu et al. | [2404.00722v2](http://arxiv.org/abs/2404.00722v2) | **NULL** |
 | **2024/03/31** | KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation | Jihua Peng et al. | [2404.00658v2](http://arxiv.org/abs/2404.00658v2) | [**link**](https://github.com/JihuaPeng/KTPFormer) |
 | **2024/03/31** | A Multi-Branched Radial Basis Network Approach to Predicting Complex Chaotic Behaviours | Aarush Sinha | [2404.00618v1](http://arxiv.org/abs/2404.00618v1) | [**link**](https://github.com/chungimungi/A-Multi-Branched-Radial-Basis-Network-Approach-to-Predicting-Complex-Chaotic-Behaviours) |
-| **2024/03/30** | QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs | Saleh Ashkboos et al. | [2404.00456v1](http://arxiv.org/abs/2404.00456v1) | **NULL** |
+| **2024/03/30** | QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs | Saleh Ashkboos et al. | [2404.00456v1](http://arxiv.org/abs/2404.00456v1) | [**link**](https://github.com/spcl/quarot) |
 | **2024/03/30** | Accurate Cutting-point Estimation for Robotic Lychee Harvesting through Geometry-aware Learning | Gengming Zhang et al. | [2404.00364v1](http://arxiv.org/abs/2404.00364v1) | **NULL** |
 | **2024/03/30** | Rethinking Attention-Based Multiple Instance Learning for Whole-Slide Pathological Image Classification: An Instance Attribute Viewpoint | Linghan Cai et al. | [2404.00351v1](http://arxiv.org/abs/2404.00351v1) | **NULL** |
 | **2024/03/30** | TRABSA: Interpretable Sentiment Analysis of Tweets using Attention-based BiLSTM and Twitter-RoBERTa | Md Abrar Jahin et al. | [2404.00297v1](http://arxiv.org/abs/2404.00297v1) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2024/03/29** | Sparse multimodal fusion with modal channel attention | Josiah Bjorgaard | [2403.20280v1](http://arxiv.org/abs/2403.20280v1) | **NULL** |
 | **2024/03/29** | MCNet: A crowd denstity estimation network based on integrating multiscale attention module | Qiang Guo et al. | [2403.20173v1](http://arxiv.org/abs/2403.20173v1) | **NULL** |
 | **2024/03/29** | Sound event localization and classification using WASN in Outdoor Environment | Dongzhe Zhang et al. | [2403.20130v1](http://arxiv.org/abs/2403.20130v1) | **NULL** |
-| **2024/03/29** | FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues | Shuang Li et al. | [2403.20026v1](http://arxiv.org/abs/2403.20026v1) | **NULL** |
-| **2024/03/29** | SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs | Hao Wu et al. | [2403.19936v1](http://arxiv.org/abs/2403.19936v1) | **NULL** |
-| **2024/03/29** | DiJiang: Efficient Large Language Models through Compact Kernelization | Hanting Chen et al. | [2403.19928v2](http://arxiv.org/abs/2403.19928v2) | [**link**](https://github.com/yuchuantian/dijiang) |
 
 ## 背景差分
 
