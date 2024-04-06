@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/05 08:44:55
+> Updated on 2024/04/06 08:43:31
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v1](http://arxiv.org/abs/2404.03507v1) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
@@ -47,12 +48,17 @@ layout: default
 | **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
 | **2023/04/07** | High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection | Yifan Yin et al. | [2304.03812v1](http://arxiv.org/abs/2304.03812v1) | **NULL** |
 | **2023/04/07** | TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors | Shaoyu Chen et al. | [2304.03428v1](http://arxiv.org/abs/2304.03428v1) | **NULL** |
-| **2023/03/31** | Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm | Hongen Liu | [2304.00018v1](http://arxiv.org/abs/2304.00018v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/04** | Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning | Rui Li et al. | [2404.03658v1](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
+| **2024/04/04** | InsectMamba: Insect Pest Classification with State Space Model | Qianning Wang et al. | [2404.03611v1](http://arxiv.org/abs/2404.03611v1) | **NULL** |
+| **2024/04/04** | Part-Attention Based Model Make Occluded Person Re-Identification Stronger | Zhihao Chen et al. | [2404.03443v1](http://arxiv.org/abs/2404.03443v1) | **NULL** |
+| **2024/04/04** | Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity | Raffael Theiler et al. | [2404.03368v1](http://arxiv.org/abs/2404.03368v1) | **NULL** |
+| **2024/04/04** | LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity | Walid Bousselham et al. | [2404.03214v1](http://arxiv.org/abs/2404.03214v1) | **NULL** |
+| **2024/04/04** | Diverse and Tailored Image Generation for Zero-shot Multi-label Classification | Kaixin Zhang et al. | [2404.03144v1](http://arxiv.org/abs/2404.03144v1) | **NULL** |
 | **2024/04/03** | Attention is Naturally Sparse with Gaussian Distributed Input | Yichuan Deng et al. | [2404.02690v1](http://arxiv.org/abs/2404.02690v1) | **NULL** |
 | **2024/04/03** | Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition | Ikuo Nakamura | [2404.02624v1](http://arxiv.org/abs/2404.02624v1) | **NULL** |
 | **2024/04/03** | HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras | Zhongyu Xia et al. | [2404.02517v1](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
@@ -77,17 +83,13 @@ layout: default
 | **2024/03/30** | Accurate Cutting-point Estimation for Robotic Lychee Harvesting through Geometry-aware Learning | Gengming Zhang et al. | [2404.00364v1](http://arxiv.org/abs/2404.00364v1) | **NULL** |
 | **2024/03/30** | Rethinking Attention-Based Multiple Instance Learning for Whole-Slide Pathological Image Classification: An Instance Attribute Viewpoint | Linghan Cai et al. | [2404.00351v1](http://arxiv.org/abs/2404.00351v1) | **NULL** |
 | **2024/03/30** | TRABSA: Interpretable Sentiment Analysis of Tweets using Attention-based BiLSTM and Twitter-RoBERTa | Md Abrar Jahin et al. | [2404.00297v1](http://arxiv.org/abs/2404.00297v1) | **NULL** |
-| **2024/03/30** | Radio Frequency Interference Detection Using Efficient Multi-Scale Convolutional Attention UNet | Fei Gu et al. | [2404.00277v1](http://arxiv.org/abs/2404.00277v1) | **NULL** |
-| **2024/03/30** | HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification | Judy X Yang et al. | [2404.00272v1](http://arxiv.org/abs/2404.00272v1) | **NULL** |
-| **2024/03/30** | A Simple Yet Effective Approach for Diversified Session-Based Recommendation | Qing Yin et al. | [2404.00261v1](http://arxiv.org/abs/2404.00261v1) | **NULL** |
-| **2024/03/29** | Sparse multimodal fusion with modal channel attention | Josiah Bjorgaard | [2403.20280v1](http://arxiv.org/abs/2403.20280v1) | **NULL** |
-| **2024/03/29** | MCNet: A crowd denstity estimation network based on integrating multiscale attention module | Qiang Guo et al. | [2403.20173v1](http://arxiv.org/abs/2403.20173v1) | **NULL** |
-| **2024/03/29** | Sound event localization and classification using WASN in Outdoor Environment | Dongzhe Zhang et al. | [2403.20130v1](http://arxiv.org/abs/2403.20130v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v1](http://arxiv.org/abs/2404.03043v1) | **NULL** |
+| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v1](http://arxiv.org/abs/2404.03003v1) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
@@ -116,5 +118,3 @@ layout: default
 | **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
 | **2023/05/16** | Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT | NEXT Collaboration et al. | [2305.09435v4](http://arxiv.org/abs/2305.09435v4) | **NULL** |
 | **2023/05/15** | Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment | Zahra Sattari et al. | [2305.09021v1](http://arxiv.org/abs/2305.09021v1) | **NULL** |
-| **2023/04/20** | General mass formulas for charged Kerr-AdS black holes | Yunjiao Gao et al. | [2304.10290v3](http://arxiv.org/abs/2304.10290v3) | **NULL** |
-| **2023/04/02** | Percolation-induced resistivity drop in cold-pressed LuH2 | Ningning Wang et al. | [2304.00558v1](http://arxiv.org/abs/2304.00558v1) | **NULL** |
