@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/08 08:46:07
+> Updated on 2024/04/09 08:44:45
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v1](http://arxiv.org/abs/2404.03507v1) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
@@ -47,12 +48,17 @@ layout: default
 | **2023/05/05** | 3D Small Object Detection with Dynamic Spatial Pruning | Xiuwei Xu et al. | [2305.03716v3](http://arxiv.org/abs/2305.03716v3) | [**link**](https://github.com/xuxw98/dspdet3d) |
 | **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
 | **2023/04/07** | High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection | Yifan Yin et al. | [2304.03812v1](http://arxiv.org/abs/2304.03812v1) | **NULL** |
-| **2023/04/07** | TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors | Shaoyu Chen et al. | [2304.03428v1](http://arxiv.org/abs/2304.03428v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/05** | Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology | Gaith Rjoub et al. | [2404.04205v1](http://arxiv.org/abs/2404.04205v1) | **NULL** |
+| **2024/04/05** | Learning Correlation Structures for Vision Transformers | Manjin Kim et al. | [2404.03924v1](http://arxiv.org/abs/2404.03924v1) | **NULL** |
+| **2024/04/05** | Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation | Jiaming Wang et al. | [2404.03915v1](http://arxiv.org/abs/2404.03915v1) | **NULL** |
+| **2024/04/05** | LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification | Judy X Yang et al. | [2404.03883v1](http://arxiv.org/abs/2404.03883v1) | **NULL** |
+| **2024/04/04** | BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model | Chenwei Xu et al. | [2404.03830v1](http://arxiv.org/abs/2404.03830v1) | [**link**](https://github.com/magics-lab/bishop) |
+| **2024/04/04** | Outlier-Efficient Hopfield Layers for Large Transformer-Based Models | Jerry Yao-Chieh Hu et al. | [2404.03828v1](http://arxiv.org/abs/2404.03828v1) | [**link**](https://github.com/magics-lab/outeffhop) |
 | **2024/04/04** | Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning | Rui Li et al. | [2404.03658v1](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
 | **2024/04/04** | InsectMamba: Insect Pest Classification with State Space Model | Qianning Wang et al. | [2404.03611v1](http://arxiv.org/abs/2404.03611v1) | **NULL** |
 | **2024/04/04** | Part-Attention Based Model Make Occluded Person Re-Identification Stronger | Zhihao Chen et al. | [2404.03443v2](http://arxiv.org/abs/2404.03443v2) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/03/31** | On Difficulties of Attention Factorization through Shared Memory | Uladzislau Yorsh et al. | [2404.00798v1](http://arxiv.org/abs/2404.00798v1) | [**link**](https://github.com/vladyorsh/lra_efficient_transformers) |
 | **2024/03/31** | MugenNet: A Novel Combined Convolution Neural Network and Transformer Network with its Application for Colonic Polyp Image Segmentation | Chen Peng et al. | [2404.00726v1](http://arxiv.org/abs/2404.00726v1) | **NULL** |
 | **2024/03/31** | DRCT: Saving Image Super-resolution away from Information Bottleneck | Chih-Chung Hsu et al. | [2404.00722v2](http://arxiv.org/abs/2404.00722v2) | **NULL** |
-| **2024/03/31** | KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation | Jihua Peng et al. | [2404.00658v2](http://arxiv.org/abs/2404.00658v2) | [**link**](https://github.com/JihuaPeng/KTPFormer) |
-| **2024/03/31** | A Multi-Branched Radial Basis Network Approach to Predicting Complex Chaotic Behaviours | Aarush Sinha | [2404.00618v1](http://arxiv.org/abs/2404.00618v1) | [**link**](https://github.com/chungimungi/A-Multi-Branched-Radial-Basis-Network-Approach-to-Predicting-Complex-Chaotic-Behaviours) |
-| **2024/03/30** | QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs | Saleh Ashkboos et al. | [2404.00456v1](http://arxiv.org/abs/2404.00456v1) | [**link**](https://github.com/spcl/quarot) |
-| **2024/03/30** | Accurate Cutting-point Estimation for Robotic Lychee Harvesting through Geometry-aware Learning | Gengming Zhang et al. | [2404.00364v1](http://arxiv.org/abs/2404.00364v1) | **NULL** |
-| **2024/03/30** | Rethinking Attention-Based Multiple Instance Learning for Whole-Slide Pathological Image Classification: An Instance Attribute Viewpoint | Linghan Cai et al. | [2404.00351v1](http://arxiv.org/abs/2404.00351v1) | **NULL** |
-| **2024/03/30** | TRABSA: Interpretable Sentiment Analysis of Tweets using Attention-based BiLSTM and Twitter-RoBERTa | Md Abrar Jahin et al. | [2404.00297v1](http://arxiv.org/abs/2404.00297v1) | **NULL** |
 
 ## 背景差分
 
