@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/09 08:44:45
+> Updated on 2024/04/10 08:44:20
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/08** | MLP Can Be A Good Transformer Learner | Sihao Lin et al. | [2404.05657v1](http://arxiv.org/abs/2404.05657v1) | **NULL** |
+| **2024/04/08** | Multi-head Attention-based Deep Multiple Instance Learning | Hassan Keshvarikhojasteh et al. | [2404.05362v1](http://arxiv.org/abs/2404.05362v1) | **NULL** |
+| **2024/04/08** | Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder | Judy X Yang et al. | [2404.05258v1](http://arxiv.org/abs/2404.05258v1) | **NULL** |
+| **2024/04/08** | Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation | Swati Jindal et al. | [2404.05215v1](http://arxiv.org/abs/2404.05215v1) | [**link**](https://github.com/jswati31/stage) |
+| **2024/04/08** | Bidirectional Long-Range Parser for Sequential Data Understanding | George Leotescu et al. | [2404.05210v1](http://arxiv.org/abs/2404.05210v1) | **NULL** |
+| **2024/04/08** | ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting | Hengyu Ye et al. | [2404.05192v1](http://arxiv.org/abs/2404.05192v1) | [**link**](https://github.com/yhyhyhyhyhy/atfnet) |
+| **2024/04/07** | StockGPT: A GenAI Model for Stock Prediction and Trading | Dat Mai | [2404.05101v1](http://arxiv.org/abs/2404.05101v1) | **NULL** |
+| **2024/04/07** | GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets | Dongjing Shan et al. | [2404.04924v1](http://arxiv.org/abs/2404.04924v1) | **NULL** |
+| **2024/04/07** | CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data | Wei Fang et al. | [2404.04878v1](http://arxiv.org/abs/2404.04878v1) | **NULL** |
+| **2024/04/06** | Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment | Prasun C Tripathi et al. | [2404.04718v1](http://arxiv.org/abs/2404.04718v1) | [**link**](https://github.com/prasunc/hemodynamics) |
+| **2024/04/06** | Empowering Image Recovery_ A Multi-Attention Approach | Juan Wen et al. | [2404.04617v2](http://arxiv.org/abs/2404.04617v2) | **NULL** |
+| **2024/04/06** | A self-attention model for robust rigid slice-to-volume registration of functional MRI | Samah Khawaled et al. | [2404.04546v1](http://arxiv.org/abs/2404.04546v1) | **NULL** |
+| **2024/04/05** | Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness | Shadi Alijani et al. | [2404.04452v1](http://arxiv.org/abs/2404.04452v1) | **NULL** |
 | **2024/04/05** | Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology | Gaith Rjoub et al. | [2404.04205v1](http://arxiv.org/abs/2404.04205v1) | **NULL** |
+| **2024/04/05** | JobFormer: Skill-Aware Job Recommendation with Semantic-Enhanced Transformer | Zhihao Guan et al. | [2404.04313v1](http://arxiv.org/abs/2404.04313v1) | **NULL** |
 | **2024/04/05** | Learning Correlation Structures for Vision Transformers | Manjin Kim et al. | [2404.03924v1](http://arxiv.org/abs/2404.03924v1) | **NULL** |
 | **2024/04/05** | Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation | Jiaming Wang et al. | [2404.03915v1](http://arxiv.org/abs/2404.03915v1) | **NULL** |
 | **2024/04/05** | LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification | Judy X Yang et al. | [2404.03883v1](http://arxiv.org/abs/2404.03883v1) | **NULL** |
@@ -68,27 +82,13 @@ layout: default
 | **2024/04/03** | Attention is Naturally Sparse with Gaussian Distributed Input | Yichuan Deng et al. | [2404.02690v1](http://arxiv.org/abs/2404.02690v1) | **NULL** |
 | **2024/04/03** | Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition | Ikuo Nakamura | [2404.02624v1](http://arxiv.org/abs/2404.02624v1) | **NULL** |
 | **2024/04/03** | HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras | Zhongyu Xia et al. | [2404.02517v1](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
-| **2024/04/02** | SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation | Vinkle Srivastav et al. | [2404.02041v1](http://arxiv.org/abs/2404.02041v1) | **NULL** |
-| **2024/04/02** | Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method | Jyun-An Lin et al. | [2404.01929v1](http://arxiv.org/abs/2404.01929v1) | **NULL** |
-| **2024/04/01** | Large Motion Model for Unified Multi-Modal Motion Generation | Mingyuan Zhang et al. | [2404.01284v1](http://arxiv.org/abs/2404.01284v1) | **NULL** |
-| **2024/04/01** | Positioning is All You Need | Xin Li | [2404.01183v2](http://arxiv.org/abs/2404.01183v2) | **NULL** |
-| **2024/04/01** | Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation | Yulin Chen et al. | [2404.01127v1](http://arxiv.org/abs/2404.01127v1) | **NULL** |
-| **2024/04/01** | CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening | Wen-Jie Shu et al. | [2404.01121v1](http://arxiv.org/abs/2404.01121v1) | **NULL** |
-| **2024/04/01** | Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On | Xu Yang et al. | [2404.01089v1](http://arxiv.org/abs/2404.01089v1) | **NULL** |
-| **2024/04/01** | Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC | Spandan Mondal et al. | [2404.01071v1](http://arxiv.org/abs/2404.01071v1) | **NULL** |
-| **2024/04/01** | Cross-channel Recommendation for Multi-channel Retail | Yijin Choi et al. | [2404.00972v1](http://arxiv.org/abs/2404.00972v1) | **NULL** |
-| **2024/04/01** | Harnessing The Power of Attention For Patch-Based Biomedical Image Classification | Gousia Habib et al. | [2404.00949v1](http://arxiv.org/abs/2404.00949v1) | **NULL** |
-| **2024/04/01** | GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields | Yunsong Wang et al. | [2404.00931v1](http://arxiv.org/abs/2404.00931v1) | [**link**](https://github.com/wangys16/gov-nesf) |
-| **2024/03/31** | GAMA-IR: Global Additive Multidimensional Averaging for Fast Image Restoration | Youssef Mansour et al. | [2404.00807v1](http://arxiv.org/abs/2404.00807v1) | **NULL** |
-| **2024/03/31** | On Difficulties of Attention Factorization through Shared Memory | Uladzislau Yorsh et al. | [2404.00798v1](http://arxiv.org/abs/2404.00798v1) | [**link**](https://github.com/vladyorsh/lra_efficient_transformers) |
-| **2024/03/31** | MugenNet: A Novel Combined Convolution Neural Network and Transformer Network with its Application for Colonic Polyp Image Segmentation | Chen Peng et al. | [2404.00726v1](http://arxiv.org/abs/2404.00726v1) | **NULL** |
-| **2024/03/31** | DRCT: Saving Image Super-resolution away from Information Bottleneck | Chih-Chung Hsu et al. | [2404.00722v2](http://arxiv.org/abs/2404.00722v2) | **NULL** |
+| **2024/04/02** | Enhancing Ship Classification in Optical Satellite Imagery: Integrating Convolutional Block Attention Module with ResNet for Improved Performance | Ryan Donghan Kwon et al. | [2404.02135v3](http://arxiv.org/abs/2404.02135v3) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v1](http://arxiv.org/abs/2404.03043v1) | **NULL** |
+| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v2](http://arxiv.org/abs/2404.03043v2) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v1](http://arxiv.org/abs/2404.03003v1) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
