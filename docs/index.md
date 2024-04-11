@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/10 08:44:20
+> Updated on 2024/04/11 08:45:12
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v1](http://arxiv.org/abs/2404.03507v1) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
@@ -47,20 +48,29 @@ layout: default
 | **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
 | **2023/05/05** | 3D Small Object Detection with Dynamic Spatial Pruning | Xiuwei Xu et al. | [2305.03716v3](http://arxiv.org/abs/2305.03716v3) | [**link**](https://github.com/xuxw98/dspdet3d) |
 | **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
-| **2023/04/07** | High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection | Yifan Yin et al. | [2304.03812v1](http://arxiv.org/abs/2304.03812v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/04/08** | MLP Can Be A Good Transformer Learner | Sihao Lin et al. | [2404.05657v1](http://arxiv.org/abs/2404.05657v1) | **NULL** |
-| **2024/04/08** | Multi-head Attention-based Deep Multiple Instance Learning | Hassan Keshvarikhojasteh et al. | [2404.05362v1](http://arxiv.org/abs/2404.05362v1) | **NULL** |
+| **2024/04/09** | Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection | Zihang Song et al. | [2404.06469v1](http://arxiv.org/abs/2404.06469v1) | **NULL** |
+| **2024/04/09** | Rolling Shutter Correction with Intermediate Distortion Flow Estimation | Mingdeng Cao et al. | [2404.06350v1](http://arxiv.org/abs/2404.06350v1) | [**link**](https://github.com/ljzycmd/dfrsc) |
+| **2024/04/09** | Space-Time Video Super-resolution with Neural Operator | Yuantong Zhang et al. | [2404.06036v1](http://arxiv.org/abs/2404.06036v1) | **NULL** |
+| **2024/04/09** | Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion | Pan Mu et al. | [2404.06033v2](http://arxiv.org/abs/2404.06033v2) | [**link**](https://github.com/zhiyingdu/bhfmef) |
+| **2024/04/09** | EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker | Baojie Fan et al. | [2404.05960v1](http://arxiv.org/abs/2404.05960v1) | **NULL** |
+| **2024/04/09** | LATUP-Net: A Lightweight 3D Attention U-Net with Parallel Convolutions for Brain Tumor Segmentation | Ebtihal J. Alwadee et al. | [2404.05911v1](http://arxiv.org/abs/2404.05911v1) | **NULL** |
+| **2024/04/08** | Rapid and Precise Topological Comparison with Merge Tree Neural Networks | Yu Qin et al. | [2404.05879v1](http://arxiv.org/abs/2404.05879v1) | **NULL** |
+| **2024/04/08** | Softmax Attention with Constant Cost per Token | Franz A. Heinsen | [2404.05843v1](http://arxiv.org/abs/2404.05843v1) | [**link**](https://github.com/glassroom/heinsen_attention) |
+| **2024/04/08** | Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks | Andre R Kuroswiski et al. | [2404.05840v1](http://arxiv.org/abs/2404.05840v1) | **NULL** |
+| **2024/04/08** | MLP Can Be A Good Transformer Learner | Sihao Lin et al. | [2404.05657v1](http://arxiv.org/abs/2404.05657v1) | [**link**](https://github.com/sihaoevery/lambda_vit) |
+| **2024/04/08** | Multi-head Attention-based Deep Multiple Instance Learning | Hassan Keshvarikhojasteh et al. | [2404.05362v1](http://arxiv.org/abs/2404.05362v1) | [**link**](https://github.com/tueimage/mad-mil) |
 | **2024/04/08** | Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder | Judy X Yang et al. | [2404.05258v1](http://arxiv.org/abs/2404.05258v1) | **NULL** |
-| **2024/04/08** | Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation | Swati Jindal et al. | [2404.05215v1](http://arxiv.org/abs/2404.05215v1) | [**link**](https://github.com/jswati31/stage) |
+| **2024/04/08** | Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation | Swati Jindal et al. | [2404.05215v2](http://arxiv.org/abs/2404.05215v2) | [**link**](https://github.com/jswati31/stage) |
 | **2024/04/08** | Bidirectional Long-Range Parser for Sequential Data Understanding | George Leotescu et al. | [2404.05210v1](http://arxiv.org/abs/2404.05210v1) | **NULL** |
 | **2024/04/08** | ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting | Hengyu Ye et al. | [2404.05192v1](http://arxiv.org/abs/2404.05192v1) | [**link**](https://github.com/yhyhyhyhyhy/atfnet) |
-| **2024/04/07** | StockGPT: A GenAI Model for Stock Prediction and Trading | Dat Mai | [2404.05101v1](http://arxiv.org/abs/2404.05101v1) | **NULL** |
+| **2024/04/07** | StockGPT: A GenAI Model for Stock Prediction and Trading | Dat Mai | [2404.05101v2](http://arxiv.org/abs/2404.05101v2) | **NULL** |
 | **2024/04/07** | GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets | Dongjing Shan et al. | [2404.04924v1](http://arxiv.org/abs/2404.04924v1) | **NULL** |
+| **2024/04/07** | CSA-Trans: Code Structure Aware Transformer for AST | Saeyoon Oh et al. | [2404.05767v1](http://arxiv.org/abs/2404.05767v1) | **NULL** |
 | **2024/04/07** | CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data | Wei Fang et al. | [2404.04878v1](http://arxiv.org/abs/2404.04878v1) | **NULL** |
 | **2024/04/06** | Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment | Prasun C Tripathi et al. | [2404.04718v1](http://arxiv.org/abs/2404.04718v1) | [**link**](https://github.com/prasunc/hemodynamics) |
 | **2024/04/06** | Empowering Image Recovery_ A Multi-Attention Approach | Juan Wen et al. | [2404.04617v2](http://arxiv.org/abs/2404.04617v2) | **NULL** |
@@ -73,23 +83,13 @@ layout: default
 | **2024/04/05** | LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification | Judy X Yang et al. | [2404.03883v1](http://arxiv.org/abs/2404.03883v1) | **NULL** |
 | **2024/04/04** | BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model | Chenwei Xu et al. | [2404.03830v1](http://arxiv.org/abs/2404.03830v1) | [**link**](https://github.com/magics-lab/bishop) |
 | **2024/04/04** | Outlier-Efficient Hopfield Layers for Large Transformer-Based Models | Jerry Yao-Chieh Hu et al. | [2404.03828v1](http://arxiv.org/abs/2404.03828v1) | [**link**](https://github.com/magics-lab/outeffhop) |
-| **2024/04/04** | Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning | Rui Li et al. | [2404.03658v1](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
-| **2024/04/04** | InsectMamba: Insect Pest Classification with State Space Model | Qianning Wang et al. | [2404.03611v1](http://arxiv.org/abs/2404.03611v1) | **NULL** |
-| **2024/04/04** | Part-Attention Based Model Make Occluded Person Re-Identification Stronger | Zhihao Chen et al. | [2404.03443v2](http://arxiv.org/abs/2404.03443v2) | **NULL** |
-| **2024/04/04** | Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity | Raffael Theiler et al. | [2404.03368v1](http://arxiv.org/abs/2404.03368v1) | **NULL** |
-| **2024/04/04** | LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity | Walid Bousselham et al. | [2404.03214v1](http://arxiv.org/abs/2404.03214v1) | [**link**](https://github.com/walbouss/legrad) |
-| **2024/04/04** | Diverse and Tailored Image Generation for Zero-shot Multi-label Classification | Kaixin Zhang et al. | [2404.03144v1](http://arxiv.org/abs/2404.03144v1) | **NULL** |
-| **2024/04/03** | Attention is Naturally Sparse with Gaussian Distributed Input | Yichuan Deng et al. | [2404.02690v1](http://arxiv.org/abs/2404.02690v1) | **NULL** |
-| **2024/04/03** | Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition | Ikuo Nakamura | [2404.02624v1](http://arxiv.org/abs/2404.02624v1) | **NULL** |
-| **2024/04/03** | HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras | Zhongyu Xia et al. | [2404.02517v1](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
-| **2024/04/02** | Enhancing Ship Classification in Optical Satellite Imagery: Integrating Convolutional Block Attention Module with ResNet for Improved Performance | Ryan Donghan Kwon et al. | [2404.02135v3](http://arxiv.org/abs/2404.02135v3) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v2](http://arxiv.org/abs/2404.03043v2) | **NULL** |
-| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v1](http://arxiv.org/abs/2404.03003v1) | **NULL** |
+| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
