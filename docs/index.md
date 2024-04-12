@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/11 08:45:12
+> Updated on 2024/04/12 08:44:57
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/10** | Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention | Tsendsuren Munkhdalai et al. | [2404.07143v1](http://arxiv.org/abs/2404.07143v1) | **NULL** |
+| **2024/04/10** | 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion | Yixuan Li et al. | [2404.07106v1](http://arxiv.org/abs/2404.07106v1) | **NULL** |
+| **2024/04/10** | Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model | Yijia Chen et al. | [2404.07072v1](http://arxiv.org/abs/2404.07072v1) | [**link**](https://github.com/CXH-Research/IRFormer) |
+| **2024/04/10** | FiP: a Fixed-Point Approach for Causal Generative Modeling | Meyer Scetbon et al. | [2404.06969v1](http://arxiv.org/abs/2404.06969v1) | **NULL** |
+| **2024/04/10** | Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach | Anam Hashmi et al. | [2404.06941v1](http://arxiv.org/abs/2404.06941v1) | **NULL** |
+| **2024/04/10** | Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression | Kang You et al. | [2404.06936v1](http://arxiv.org/abs/2404.06936v1) | [**link**](https://github.com/i2-multimedia-lab/polopcac) |
+| **2024/04/10** | GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism | Shuzhou Yuan et al. | [2404.06911v1](http://arxiv.org/abs/2404.06911v1) | **NULL** |
+| **2024/04/09** | FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning | Hossein Rajoli et al. | [2404.06653v1](http://arxiv.org/abs/2404.06653v1) | **NULL** |
 | **2024/04/09** | Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection | Zihang Song et al. | [2404.06469v1](http://arxiv.org/abs/2404.06469v1) | **NULL** |
 | **2024/04/09** | Rolling Shutter Correction with Intermediate Distortion Flow Estimation | Mingdeng Cao et al. | [2404.06350v1](http://arxiv.org/abs/2404.06350v1) | [**link**](https://github.com/ljzycmd/dfrsc) |
 | **2024/04/09** | Space-Time Video Super-resolution with Neural Operator | Yuantong Zhang et al. | [2404.06036v1](http://arxiv.org/abs/2404.06036v1) | **NULL** |
@@ -75,19 +83,12 @@ layout: default
 | **2024/04/06** | Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment | Prasun C Tripathi et al. | [2404.04718v1](http://arxiv.org/abs/2404.04718v1) | [**link**](https://github.com/prasunc/hemodynamics) |
 | **2024/04/06** | Empowering Image Recovery_ A Multi-Attention Approach | Juan Wen et al. | [2404.04617v2](http://arxiv.org/abs/2404.04617v2) | **NULL** |
 | **2024/04/06** | A self-attention model for robust rigid slice-to-volume registration of functional MRI | Samah Khawaled et al. | [2404.04546v1](http://arxiv.org/abs/2404.04546v1) | **NULL** |
-| **2024/04/05** | Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness | Shadi Alijani et al. | [2404.04452v1](http://arxiv.org/abs/2404.04452v1) | **NULL** |
-| **2024/04/05** | Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology | Gaith Rjoub et al. | [2404.04205v1](http://arxiv.org/abs/2404.04205v1) | **NULL** |
-| **2024/04/05** | JobFormer: Skill-Aware Job Recommendation with Semantic-Enhanced Transformer | Zhihao Guan et al. | [2404.04313v1](http://arxiv.org/abs/2404.04313v1) | **NULL** |
-| **2024/04/05** | Learning Correlation Structures for Vision Transformers | Manjin Kim et al. | [2404.03924v1](http://arxiv.org/abs/2404.03924v1) | **NULL** |
-| **2024/04/05** | Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation | Jiaming Wang et al. | [2404.03915v1](http://arxiv.org/abs/2404.03915v1) | **NULL** |
-| **2024/04/05** | LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification | Judy X Yang et al. | [2404.03883v1](http://arxiv.org/abs/2404.03883v1) | **NULL** |
-| **2024/04/04** | BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model | Chenwei Xu et al. | [2404.03830v1](http://arxiv.org/abs/2404.03830v1) | [**link**](https://github.com/magics-lab/bishop) |
-| **2024/04/04** | Outlier-Efficient Hopfield Layers for Large Transformer-Based Models | Jerry Yao-Chieh Hu et al. | [2404.03828v1](http://arxiv.org/abs/2404.03828v1) | [**link**](https://github.com/magics-lab/outeffhop) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v2](http://arxiv.org/abs/2404.03043v2) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
 | **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
 | **2023/05/16** | Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT | NEXT Collaboration et al. | [2305.09435v4](http://arxiv.org/abs/2305.09435v4) | **NULL** |
-| **2023/05/15** | Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment | Zahra Sattari et al. | [2305.09021v1](http://arxiv.org/abs/2305.09021v1) | **NULL** |
