@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/14 09:00:36
+> Updated on 2024/04/15 11:11:23
 
 <summary>Table of Contents</summary>
 
@@ -20,7 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v1](http://arxiv.org/abs/2404.03507v1) | **NULL** |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
@@ -55,6 +55,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/04/11** | LLoCO: Learning Long Contexts Offline | Sijun Tan et al. | [2404.07979v1](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
 | **2024/04/11** | Taming Stable Diffusion for Text to 360° Panorama Image Generation | Cheng Zhang et al. | [2404.07949v1](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
+| **2024/04/11** | SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction | Ying Chen et al. | [2404.08027v1](http://arxiv.org/abs/2404.08027v1) | **NULL** |
 | **2024/04/11** | TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising | Junyi Li et al. | [2404.07846v1](http://arxiv.org/abs/2404.07846v1) | [**link**](https://github.com/nagejacob/tbsn) |
 | **2024/04/11** | Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | Soumyabrata Chaudhuri et al. | [2404.07645v1](http://arxiv.org/abs/2404.07645v1) | **NULL** |
 | **2024/04/11** | Homography Guided Temporal Fusion for Road Line and Marking Segmentation | Shan Wang et al. | [2404.07626v1](http://arxiv.org/abs/2404.07626v1) | [**link**](https://github.com/shanwang-shan/homofusion) |
@@ -73,7 +74,7 @@ layout: default
 | **2024/04/09** | Rolling Shutter Correction with Intermediate Distortion Flow Estimation | Mingdeng Cao et al. | [2404.06350v1](http://arxiv.org/abs/2404.06350v1) | [**link**](https://github.com/ljzycmd/dfrsc) |
 | **2024/04/09** | Space-Time Video Super-resolution with Neural Operator | Yuantong Zhang et al. | [2404.06036v1](http://arxiv.org/abs/2404.06036v1) | **NULL** |
 | **2024/04/09** | Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion | Pan Mu et al. | [2404.06033v2](http://arxiv.org/abs/2404.06033v2) | [**link**](https://github.com/zhiyingdu/bhfmef) |
-| **2024/04/09** | EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker | Baojie Fan et al. | [2404.05960v1](http://arxiv.org/abs/2404.05960v1) | **NULL** |
+| **2024/04/09** | EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker | Baojie Fan et al. | [2404.05960v2](http://arxiv.org/abs/2404.05960v2) | **NULL** |
 | **2024/04/09** | LATUP-Net: A Lightweight 3D Attention U-Net with Parallel Convolutions for Brain Tumor Segmentation | Ebtihal J. Alwadee et al. | [2404.05911v1](http://arxiv.org/abs/2404.05911v1) | **NULL** |
 | **2024/04/08** | Rapid and Precise Topological Comparison with Merge Tree Neural Networks | Yu Qin et al. | [2404.05879v1](http://arxiv.org/abs/2404.05879v1) | **NULL** |
 | **2024/04/08** | Softmax Attention with Constant Cost per Token | Franz A. Heinsen | [2404.05843v1](http://arxiv.org/abs/2404.05843v1) | [**link**](https://github.com/glassroom/heinsen_attention) |
@@ -82,7 +83,6 @@ layout: default
 | **2024/04/08** | Multi-head Attention-based Deep Multiple Instance Learning | Hassan Keshvarikhojasteh et al. | [2404.05362v1](http://arxiv.org/abs/2404.05362v1) | [**link**](https://github.com/tueimage/mad-mil) |
 | **2024/04/08** | Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder | Judy X Yang et al. | [2404.05258v1](http://arxiv.org/abs/2404.05258v1) | **NULL** |
 | **2024/04/08** | Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation | Swati Jindal et al. | [2404.05215v2](http://arxiv.org/abs/2404.05215v2) | [**link**](https://github.com/jswati31/stage) |
-| **2024/04/08** | Bidirectional Long-Range Parser for Sequential Data Understanding | George Leotescu et al. | [2404.05210v1](http://arxiv.org/abs/2404.05210v1) | **NULL** |
 
 ## 背景差分
 
