@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/18 08:44:17
+> Updated on 2024/04/19 08:45:04
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/17** | Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation | Zhiyong Cheng et al. | [2404.11519v1](http://arxiv.org/abs/2404.11519v1) | [**link**](https://github.com/jianhuadongcs/disen-cgcn) |
+| **2024/04/17** | Deep Pattern Network for Click-Through Rate Prediction | Hengyu Zhang et al. | [2404.11456v1](http://arxiv.org/abs/2404.11456v1) | **NULL** |
+| **2024/04/17** | Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis | Weiyu Guo et al. | [2404.11213v1](http://arxiv.org/abs/2404.11213v1) | **NULL** |
+| **2024/04/17** | LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory | Zicheng Liu et al. | [2404.11163v2](http://arxiv.org/abs/2404.11163v2) | **NULL** |
+| **2024/04/17** | Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing | Sanggeon Yun et al. | [2404.11025v1](http://arxiv.org/abs/2404.11025v1) | **NULL** |
 | **2024/04/16** | HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction | Bin Liu et al. | [2404.10561v1](http://arxiv.org/abs/2404.10561v1) | **NULL** |
 | **2024/04/16** | Adversarial Identity Injection for Semantic Face Image Synthesis | Giuseppe Tarollo et al. | [2404.10408v1](http://arxiv.org/abs/2404.10408v1) | **NULL** |
 | **2024/04/16** | Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR | Mingze Sun et al. | [2404.10359v1](http://arxiv.org/abs/2404.10359v1) | **NULL** |
@@ -61,14 +66,15 @@ layout: default
 | **2024/04/15** | Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives - A LESA-CamemBERT-bio Approach | Boammani Aser Lompo et al. | [2404.10171v1](http://arxiv.org/abs/2404.10171v1) | **NULL** |
 | **2024/04/15** | High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers | Luiz Schirmer et al. | [2404.10170v1](http://arxiv.org/abs/2404.10170v1) | **NULL** |
 | **2024/04/15** | Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation | Ruoxi Cheng et al. | [2404.10160v1](http://arxiv.org/abs/2404.10160v1) | **NULL** |
-| **2024/04/15** | Unifying Global and Local Scene Entities Modelling for Precise Action Spotting | Kim Hoang Tran et al. | [2404.09951v1](http://arxiv.org/abs/2404.09951v1) | **NULL** |
+| **2024/04/15** | Vision Augmentation Prediction Autoencoder with Attention Design (VAPAAD) | Yiqiao Yin | [2404.10096v2](http://arxiv.org/abs/2404.10096v2) | **NULL** |
+| **2024/04/15** | Unifying Global and Local Scene Entities Modelling for Precise Action Spotting | Kim Hoang Tran et al. | [2404.09951v1](http://arxiv.org/abs/2404.09951v1) | [**link**](https://github.com/fsoft-aic/unifying-global-local-feature) |
 | **2024/04/15** | HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising | Yang Liu et al. | [2404.09697v1](http://arxiv.org/abs/2404.09697v1) | **NULL** |
 | **2024/04/14** | Hierarchical Attention Models for Multi-Relational Graphs | Roshni G. Iyer et al. | [2404.09365v1](http://arxiv.org/abs/2404.09365v1) | [**link**](https://github.com/roshnigiyer/br-gcn) |
 | **2024/04/14** | Breast Cancer Image Classification Method Based on Deep Transfer Learning | Weimin Wang et al. | [2404.09226v1](http://arxiv.org/abs/2404.09226v1) | **NULL** |
 | **2024/04/14** | HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images | Chengxi Han et al. | [2404.09178v1](http://arxiv.org/abs/2404.09178v1) | [**link**](https://github.com/chengxihan/hanet-cd) |
 | **2024/04/14** | StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging | Xuelong Li et al. | [2404.09158v1](http://arxiv.org/abs/2404.09158v1) | [**link**](https://github.com/bestanhongjun/streaknet) |
 | **2024/04/13** | Developing An Attention-Based Ensemble Learning Framework for Financial Portfolio Optimisation | Zhenglong Li et al. | [2404.08935v1](http://arxiv.org/abs/2404.08935v1) | **NULL** |
-| **2024/04/12** | BERT-LSH: Reducing Absolute Compute For Attention | Zezheng Li et al. | [2404.08836v1](http://arxiv.org/abs/2404.08836v1) | **NULL** |
+| **2024/04/12** | BERT-LSH: Reducing Absolute Compute For Attention | Zezheng Li et al. | [2404.08836v1](http://arxiv.org/abs/2404.08836v1) | [**link**](https://github.com/leo4life2/algoml-final) |
 | **2024/04/12** | Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length | Xuezhe Ma et al. | [2404.08801v2](http://arxiv.org/abs/2404.08801v2) | [**link**](https://github.com/xuezhemax/megalodon) |
 | **2024/04/11** | LLoCO: Learning Long Contexts Offline | Sijun Tan et al. | [2404.07979v1](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
 | **2024/04/11** | Taming Stable Diffusion for Text to 360° Panorama Image Generation | Cheng Zhang et al. | [2404.07949v1](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/04/11** | Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | Soumyabrata Chaudhuri et al. | [2404.07645v1](http://arxiv.org/abs/2404.07645v1) | **NULL** |
 | **2024/04/11** | Homography Guided Temporal Fusion for Road Line and Marking Segmentation | Shan Wang et al. | [2404.07626v1](http://arxiv.org/abs/2404.07626v1) | [**link**](https://github.com/shanwang-shan/homofusion) |
 | **2024/04/11** | Attention based End to end network for Offline Writer Identification on Word level data | Vineet Kumar et al. | [2404.07602v1](http://arxiv.org/abs/2404.07602v1) | **NULL** |
-| **2024/04/11** | M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation | Jiachen Zhu et al. | [2404.07581v2](http://arxiv.org/abs/2404.07581v2) | **NULL** |
-| **2024/04/11** | Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios | Yuan Zhang et al. | [2404.07484v1](http://arxiv.org/abs/2404.07484v1) | **NULL** |
-| **2024/04/10** | Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention | Tsendsuren Munkhdalai et al. | [2404.07143v1](http://arxiv.org/abs/2404.07143v1) | **NULL** |
-| **2024/04/10** | 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion | Yixuan Li et al. | [2404.07106v1](http://arxiv.org/abs/2404.07106v1) | **NULL** |
-| **2024/04/10** | Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model | Yijia Chen et al. | [2404.07072v1](http://arxiv.org/abs/2404.07072v1) | [**link**](https://github.com/CXH-Research/IRFormer) |
-| **2024/04/10** | FiP: a Fixed-Point Approach for Causal Generative Modeling | Meyer Scetbon et al. | [2404.06969v2](http://arxiv.org/abs/2404.06969v2) | **NULL** |
 
 ## 背景差分
 
