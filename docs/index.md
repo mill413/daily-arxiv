@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/21 08:50:11
+> Updated on 2024/04/22 08:47:19
 
 <summary>Table of Contents</summary>
 
@@ -61,7 +61,7 @@ layout: default
 | **2024/04/18** | Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration | Pengfei Wu et al. | [2404.12022v1](http://arxiv.org/abs/2404.12022v1) | **NULL** |
 | **2024/04/18** | FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models | Wei Wu et al. | [2404.11895v1](http://arxiv.org/abs/2404.11895v1) | **NULL** |
 | **2024/04/18** | Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation | Yang Lu et al. | [2404.11858v1](http://arxiv.org/abs/2404.11858v1) | **NULL** |
-| **2024/04/18** | Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture | Sonit Singh | [2404.11843v1](http://arxiv.org/abs/2404.11843v1) | **NULL** |
+| **2024/04/18** | Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture | Sonit Singh | [2404.11843v2](http://arxiv.org/abs/2404.11843v2) | **NULL** |
 | **2024/04/17** | Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach | Mir Rayat Imtiaz Hossain et al. | [2404.11732v1](http://arxiv.org/abs/2404.11732v1) | **NULL** |
 | **2024/04/17** | Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation | Zhiyong Cheng et al. | [2404.11519v1](http://arxiv.org/abs/2404.11519v1) | [**link**](https://github.com/jianhuadongcs/disen-cgcn) |
 | **2024/04/17** | Deep Pattern Network for Click-Through Rate Prediction | Hengyu Zhang et al. | [2404.11456v1](http://arxiv.org/abs/2404.11456v1) | **NULL** |
