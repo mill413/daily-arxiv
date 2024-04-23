@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/22 08:47:19
+> Updated on 2024/04/23 08:45:48
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/19** | ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model | Dingming Liu et al. | [2404.12903v1](http://arxiv.org/abs/2404.12903v1) | **NULL** |
+| **2024/04/19** | Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing | Teng-Fang Hsiao et al. | [2404.12900v1](http://arxiv.org/abs/2404.12900v1) | [**link**](https://github.com/bluedyee/tf-gph) |
+| **2024/04/19** | Camera Agnostic Two-Head Network for Ego-Lane Inference | Chaehyeon Song et al. | [2404.12770v1](http://arxiv.org/abs/2404.12770v1) | **NULL** |
+| **2024/04/19** | Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment | Danqing Ma et al. | [2404.12634v1](http://arxiv.org/abs/2404.12634v1) | **NULL** |
+| **2024/04/19** | Efficient infusion of self-supervised representations in Automatic Speech Recognition | Darshan Prabhu et al. | [2404.12628v1](http://arxiv.org/abs/2404.12628v1) | **NULL** |
+| **2024/04/18** | EnriCo: Enriched Representation and Globally Constrained Inference for Entity and Relation Extraction | Urchade Zaratiana et al. | [2404.12493v1](http://arxiv.org/abs/2404.12493v1) | **NULL** |
 | **2024/04/18** | 6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction | Théo Gieruc et al. | [2404.12378v1](http://arxiv.org/abs/2404.12378v1) | [**link**](https://github.com/continental/6img-to-3d) |
 | **2024/04/18** | When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out | Tristan Piater et al. | [2404.12295v1](http://arxiv.org/abs/2404.12295v1) | **NULL** |
 | **2024/04/18** | Dynamic Modality and View Selection for Multimodal Emotion Recognition with Missing Modalities | Luciana Trinkaus Menon et al. | [2404.12251v1](http://arxiv.org/abs/2404.12251v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/04/15** | High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers | Luiz Schirmer et al. | [2404.10170v1](http://arxiv.org/abs/2404.10170v1) | **NULL** |
 | **2024/04/15** | Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation | Ruoxi Cheng et al. | [2404.10160v1](http://arxiv.org/abs/2404.10160v1) | **NULL** |
 | **2024/04/15** | Vision Augmentation Prediction Autoencoder with Attention Design (VAPAAD) | Yiqiao Yin | [2404.10096v2](http://arxiv.org/abs/2404.10096v2) | **NULL** |
-| **2024/04/15** | Unifying Global and Local Scene Entities Modelling for Precise Action Spotting | Kim Hoang Tran et al. | [2404.09951v1](http://arxiv.org/abs/2404.09951v1) | [**link**](https://github.com/fsoft-aic/unifying-global-local-feature) |
-| **2024/04/15** | HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising | Yang Liu et al. | [2404.09697v1](http://arxiv.org/abs/2404.09697v1) | **NULL** |
-| **2024/04/14** | Hierarchical Attention Models for Multi-Relational Graphs | Roshni G. Iyer et al. | [2404.09365v1](http://arxiv.org/abs/2404.09365v1) | [**link**](https://github.com/roshnigiyer/br-gcn) |
-| **2024/04/14** | Breast Cancer Image Classification Method Based on Deep Transfer Learning | Weimin Wang et al. | [2404.09226v1](http://arxiv.org/abs/2404.09226v1) | **NULL** |
-| **2024/04/14** | HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images | Chengxi Han et al. | [2404.09178v1](http://arxiv.org/abs/2404.09178v1) | [**link**](https://github.com/chengxihan/hanet-cd) |
-| **2024/04/14** | StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging | Xuelong Li et al. | [2404.09158v1](http://arxiv.org/abs/2404.09158v1) | [**link**](https://github.com/bestanhongjun/streaknet) |
 
 ## 背景差分
 
