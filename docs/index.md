@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/23 08:45:48
+> Updated on 2024/04/24 08:45:33
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | **NULL** |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
@@ -47,12 +48,24 @@ layout: default
 | **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
 | **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
 | **2023/05/05** | 3D Small Object Detection with Dynamic Spatial Pruning | Xiuwei Xu et al. | [2305.03716v3](http://arxiv.org/abs/2305.03716v3) | [**link**](https://github.com/xuxw98/dspdet3d) |
-| **2023/04/18** | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection | Chang Xu et al. | [2304.08876v1](http://arxiv.org/abs/2304.08876v1) | [**link**](https://github.com/chasel-tsui/mmrotate-dcfl) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/22** | CrossScore: Towards Multi-View Image Evaluation and Scoring | Zirui Wang et al. | [2404.14409v1](http://arxiv.org/abs/2404.14409v1) | **NULL** |
+| **2024/04/22** | A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module | Mohammad Ali Labbaf Khaniki et al. | [2404.14322v1](http://arxiv.org/abs/2404.14322v1) | **NULL** |
+| **2024/04/22** | PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer | Rui She et al. | [2404.14034v1](http://arxiv.org/abs/2404.14034v1) | **NULL** |
+| **2024/04/22** | C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images | Chengxi Han et al. | [2404.13838v1](http://arxiv.org/abs/2404.13838v1) | [**link**](https://github.com/chengxihan/c2f-semicd-and-c2f-cdnet) |
+| **2024/04/21** | EncodeNet: A Framework for Boosting DNN Accuracy with Entropy-driven Generalized Converting Autoencoder | Hasanul Mahmud et al. | [2404.13770v1](http://arxiv.org/abs/2404.13770v1) | **NULL** |
+| **2024/04/21** | Exploring Diverse Methods in Visual Question Answering | Panfeng Li et al. | [2404.13565v1](http://arxiv.org/abs/2404.13565v1) | **NULL** |
+| **2024/04/21** | LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation | Haoyu Zheng et al. | [2404.13558v2](http://arxiv.org/abs/2404.13558v2) | **NULL** |
+| **2024/04/20** | Nested-TNT: Hierarchical Vision Transformers with Multi-Scale Feature Processing | Yuang Liu et al. | [2404.13434v1](http://arxiv.org/abs/2404.13434v1) | **NULL** |
+| **2024/04/20** | AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation | Yang Yang et al. | [2404.13408v1](http://arxiv.org/abs/2404.13408v1) | **NULL** |
+| **2024/04/20** | SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation | Mansoor Hayat et al. | [2404.13330v1](http://arxiv.org/abs/2404.13330v1) | **NULL** |
+| **2024/04/20** | StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction | Maitreya Shelare et al. | [2404.13270v1](http://arxiv.org/abs/2404.13270v1) | **NULL** |
+| **2024/04/20** | 3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification | Shyam Varahagiri et al. | [2404.13252v1](http://arxiv.org/abs/2404.13252v1) | [**link**](https://github.com/shyamvarahagiri/3d-convsst) |
+| **2024/04/20** | TrialDura: Hierarchical Attention Transformer for Interpretable Clinical Trial Duration Prediction | Ling Yue et al. | [2404.13235v1](http://arxiv.org/abs/2404.13235v1) | **NULL** |
 | **2024/04/19** | ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model | Dingming Liu et al. | [2404.12903v1](http://arxiv.org/abs/2404.12903v1) | **NULL** |
 | **2024/04/19** | Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing | Teng-Fang Hsiao et al. | [2404.12900v1](http://arxiv.org/abs/2404.12900v1) | [**link**](https://github.com/bluedyee/tf-gph) |
 | **2024/04/19** | Camera Agnostic Two-Head Network for Ego-Lane Inference | Chaehyeon Song et al. | [2404.12770v1](http://arxiv.org/abs/2404.12770v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2024/04/18** | Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture | Sonit Singh | [2404.11843v2](http://arxiv.org/abs/2404.11843v2) | **NULL** |
 | **2024/04/17** | Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach | Mir Rayat Imtiaz Hossain et al. | [2404.11732v1](http://arxiv.org/abs/2404.11732v1) | **NULL** |
 | **2024/04/17** | Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation | Zhiyong Cheng et al. | [2404.11519v1](http://arxiv.org/abs/2404.11519v1) | [**link**](https://github.com/jianhuadongcs/disen-cgcn) |
-| **2024/04/17** | Deep Pattern Network for Click-Through Rate Prediction | Hengyu Zhang et al. | [2404.11456v1](http://arxiv.org/abs/2404.11456v1) | **NULL** |
-| **2024/04/17** | Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis | Weiyu Guo et al. | [2404.11213v1](http://arxiv.org/abs/2404.11213v1) | **NULL** |
-| **2024/04/17** | LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory | Zicheng Liu et al. | [2404.11163v2](http://arxiv.org/abs/2404.11163v2) | **NULL** |
-| **2024/04/17** | Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing | Sanggeon Yun et al. | [2404.11025v1](http://arxiv.org/abs/2404.11025v1) | **NULL** |
-| **2024/04/16** | HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction | Bin Liu et al. | [2404.10561v1](http://arxiv.org/abs/2404.10561v1) | **NULL** |
-| **2024/04/16** | Adversarial Identity Injection for Semantic Face Image Synthesis | Giuseppe Tarollo et al. | [2404.10408v1](http://arxiv.org/abs/2404.10408v1) | **NULL** |
-| **2024/04/16** | Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR | Mingze Sun et al. | [2404.10359v1](http://arxiv.org/abs/2404.10359v1) | **NULL** |
-| **2024/04/16** | Anomaly Correction of Business Processes Using Transformer Autoencoder | Ziyou Gong et al. | [2404.10211v1](http://arxiv.org/abs/2404.10211v1) | **NULL** |
-| **2024/04/16** | MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition | Naichuan Zheng et al. | [2404.10210v1](http://arxiv.org/abs/2404.10210v1) | **NULL** |
-| **2024/04/15** | Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives -- A LESA-CamemBERT-bio Approach | Boammani Aser Lompo et al. | [2404.10171v1](http://arxiv.org/abs/2404.10171v1) | **NULL** |
-| **2024/04/15** | High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers | Luiz Schirmer et al. | [2404.10170v1](http://arxiv.org/abs/2404.10170v1) | **NULL** |
-| **2024/04/15** | Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation | Ruoxi Cheng et al. | [2404.10160v1](http://arxiv.org/abs/2404.10160v1) | **NULL** |
-| **2024/04/15** | Vision Augmentation Prediction Autoencoder with Attention Design (VAPAAD) | Yiqiao Yin | [2404.10096v2](http://arxiv.org/abs/2404.10096v2) | **NULL** |
 
 ## 背景差分
 
