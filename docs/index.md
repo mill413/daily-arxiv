@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/24 08:45:33
+> Updated on 2024/04/25 08:49:02
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/23** | From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation | Zehuan Huang et al. | [2404.15267v1](http://arxiv.org/abs/2404.15267v1) | **NULL** |
+| **2024/04/23** | Transformers Can Represent $n$-gram Language Models | Anej Svete et al. | [2404.14994v1](http://arxiv.org/abs/2404.14994v1) | **NULL** |
+| **2024/04/23** | Time-aware Heterogeneous Graph Transformer with Adaptive Attention Merging for Health Event Prediction | Shibo Li et al. | [2404.14815v1](http://arxiv.org/abs/2404.14815v1) | **NULL** |
+| **2024/04/23** | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | Xiongxiao Xu et al. | [2404.14757v1](http://arxiv.org/abs/2404.14757v1) | **NULL** |
+| **2024/04/23** | Deep Overlapping Community Search via Subspace Embedding | Qing Sima et al. | [2404.14692v1](http://arxiv.org/abs/2404.14692v1) | **NULL** |
 | **2024/04/22** | CrossScore: Towards Multi-View Image Evaluation and Scoring | Zirui Wang et al. | [2404.14409v1](http://arxiv.org/abs/2404.14409v1) | **NULL** |
 | **2024/04/22** | A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module | Mohammad Ali Labbaf Khaniki et al. | [2404.14322v1](http://arxiv.org/abs/2404.14322v1) | **NULL** |
 | **2024/04/22** | PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer | Rui She et al. | [2404.14034v1](http://arxiv.org/abs/2404.14034v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/04/18** | MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification | Weikang Yu et al. | [2404.12081v1](http://arxiv.org/abs/2404.12081v1) | [**link**](https://github.com/ericyu97/maskcd) |
 | **2024/04/18** | Data-free Knowledge Distillation for Fine-grained Visual Categorization | Renrong Shao et al. | [2404.12037v1](http://arxiv.org/abs/2404.12037v1) | [**link**](https://github.com/roryshao/dfkd-fgvc) |
 | **2024/04/18** | Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration | Pengfei Wu et al. | [2404.12022v1](http://arxiv.org/abs/2404.12022v1) | **NULL** |
-| **2024/04/18** | FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models | Wei Wu et al. | [2404.11895v1](http://arxiv.org/abs/2404.11895v1) | **NULL** |
-| **2024/04/18** | Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation | Yang Lu et al. | [2404.11858v1](http://arxiv.org/abs/2404.11858v1) | **NULL** |
-| **2024/04/18** | Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture | Sonit Singh | [2404.11843v2](http://arxiv.org/abs/2404.11843v2) | **NULL** |
-| **2024/04/17** | Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach | Mir Rayat Imtiaz Hossain et al. | [2404.11732v1](http://arxiv.org/abs/2404.11732v1) | **NULL** |
-| **2024/04/17** | Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation | Zhiyong Cheng et al. | [2404.11519v1](http://arxiv.org/abs/2404.11519v1) | [**link**](https://github.com/jianhuadongcs/disen-cgcn) |
 
 ## 背景差分
 
