@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/25 08:49:02
+> Updated on 2024/04/26 08:45:54
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | **NULL** |
+| **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/24** | DyGCL: Dynamic Graph Contrastive Learning For Event Prediction | Muhammed Ifte Khairul Islam et al. | [2404.15612v1](http://arxiv.org/abs/2404.15612v1) | **NULL** |
+| **2024/04/23** | CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection | Hongyi Cai et al. | [2404.15451v1](http://arxiv.org/abs/2404.15451v1) | **NULL** |
 | **2024/04/23** | From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation | Zehuan Huang et al. | [2404.15267v1](http://arxiv.org/abs/2404.15267v1) | **NULL** |
 | **2024/04/23** | Transformers Can Represent $n$-gram Language Models | Anej Svete et al. | [2404.14994v1](http://arxiv.org/abs/2404.14994v1) | **NULL** |
 | **2024/04/23** | Time-aware Heterogeneous Graph Transformer with Adaptive Attention Merging for Health Event Prediction | Shibo Li et al. | [2404.14815v1](http://arxiv.org/abs/2404.14815v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/04/18** | When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out | Tristan Piater et al. | [2404.12295v1](http://arxiv.org/abs/2404.12295v1) | **NULL** |
 | **2024/04/18** | Dynamic Modality and View Selection for Multimodal Emotion Recognition with Missing Modalities | Luciana Trinkaus Menon et al. | [2404.12251v1](http://arxiv.org/abs/2404.12251v1) | **NULL** |
 | **2024/04/18** | MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification | Weikang Yu et al. | [2404.12081v1](http://arxiv.org/abs/2404.12081v1) | [**link**](https://github.com/ericyu97/maskcd) |
-| **2024/04/18** | Data-free Knowledge Distillation for Fine-grained Visual Categorization | Renrong Shao et al. | [2404.12037v1](http://arxiv.org/abs/2404.12037v1) | [**link**](https://github.com/roryshao/dfkd-fgvc) |
-| **2024/04/18** | Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration | Pengfei Wu et al. | [2404.12022v1](http://arxiv.org/abs/2404.12022v1) | **NULL** |
 
 ## 背景差分
 
