@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/26 08:45:54
+> Updated on 2024/04/27 08:45:19
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/25** | Modeling Selective Feature Attention for Representation-based Siamese Text Matching | Jianxiang Zang et al. | [2404.16776v1](http://arxiv.org/abs/2404.16776v1) | **NULL** |
+| **2024/04/25** | MMGRec: Multimodal Generative Recommendation with Transformer Model | Han Liu et al. | [2404.16555v1](http://arxiv.org/abs/2404.16555v1) | **NULL** |
+| **2024/04/25** | BezierFormer: A Unified Architecture for 2D and 3D Lane Detection | Zhiwei Dong et al. | [2404.16304v1](http://arxiv.org/abs/2404.16304v1) | **NULL** |
+| **2024/04/24** | ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment | Sarala Naidu et al. | [2404.16183v1](http://arxiv.org/abs/2404.16183v1) | **NULL** |
+| **2024/04/24** | zkLLM: Zero Knowledge Proofs for Large Language Models | Haochen Sun et al. | [2404.16109v1](http://arxiv.org/abs/2404.16109v1) | **NULL** |
+| **2024/04/24** | HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion | Guosheng Lu et al. | [2404.15992v1](http://arxiv.org/abs/2404.15992v1) | **NULL** |
+| **2024/04/24** | A Survey on Visual Mamba | Hanwei Zhang et al. | [2404.15956v1](http://arxiv.org/abs/2404.15956v1) | **NULL** |
+| **2024/04/24** | ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction | Zhiqi Shao et al. | [2404.15899v1](http://arxiv.org/abs/2404.15899v1) | **NULL** |
+| **2024/04/24** | Raformer: Redundancy-Aware Transformer for Video Wire Inpainting | Zhong Ji et al. | [2404.15802v1](http://arxiv.org/abs/2404.15802v1) | [**link**](https://github.com/Suyimu/WRV2) |
+| **2024/04/24** | Gradformer: Graph Transformer with Exponential Decay | Chuang Liu et al. | [2404.15729v1](http://arxiv.org/abs/2404.15729v1) | [**link**](https://github.com/liuchuang0059/gradformer) |
+| **2024/04/24** | Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement | Jiaqi Liu et al. | [2404.15696v1](http://arxiv.org/abs/2404.15696v1) | **NULL** |
 | **2024/04/24** | DyGCL: Dynamic Graph Contrastive Learning For Event Prediction | Muhammed Ifte Khairul Islam et al. | [2404.15612v1](http://arxiv.org/abs/2404.15612v1) | **NULL** |
 | **2024/04/23** | CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection | Hongyi Cai et al. | [2404.15451v1](http://arxiv.org/abs/2404.15451v1) | **NULL** |
 | **2024/04/23** | From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation | Zehuan Huang et al. | [2404.15267v1](http://arxiv.org/abs/2404.15267v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2024/04/20** | SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation | Mansoor Hayat et al. | [2404.13330v1](http://arxiv.org/abs/2404.13330v1) | **NULL** |
 | **2024/04/20** | StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction | Maitreya Shelare et al. | [2404.13270v1](http://arxiv.org/abs/2404.13270v1) | **NULL** |
 | **2024/04/20** | 3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification | Shyam Varahagiri et al. | [2404.13252v1](http://arxiv.org/abs/2404.13252v1) | [**link**](https://github.com/shyamvarahagiri/3d-convsst) |
-| **2024/04/20** | TrialDura: Hierarchical Attention Transformer for Interpretable Clinical Trial Duration Prediction | Ling Yue et al. | [2404.13235v1](http://arxiv.org/abs/2404.13235v1) | **NULL** |
-| **2024/04/19** | ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model | Dingming Liu et al. | [2404.12903v1](http://arxiv.org/abs/2404.12903v1) | **NULL** |
-| **2024/04/19** | Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing | Teng-Fang Hsiao et al. | [2404.12900v1](http://arxiv.org/abs/2404.12900v1) | [**link**](https://github.com/bluedyee/tf-gph) |
-| **2024/04/19** | Camera Agnostic Two-Head Network for Ego-Lane Inference | Chaehyeon Song et al. | [2404.12770v1](http://arxiv.org/abs/2404.12770v1) | **NULL** |
-| **2024/04/19** | Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment | Danqing Ma et al. | [2404.12634v1](http://arxiv.org/abs/2404.12634v1) | **NULL** |
-| **2024/04/19** | Efficient infusion of self-supervised representations in Automatic Speech Recognition | Darshan Prabhu et al. | [2404.12628v1](http://arxiv.org/abs/2404.12628v1) | **NULL** |
-| **2024/04/18** | EnriCo: Enriched Representation and Globally Constrained Inference for Entity and Relation Extraction | Urchade Zaratiana et al. | [2404.12493v1](http://arxiv.org/abs/2404.12493v1) | **NULL** |
-| **2024/04/18** | 6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction | Théo Gieruc et al. | [2404.12378v1](http://arxiv.org/abs/2404.12378v1) | [**link**](https://github.com/continental/6img-to-3d) |
-| **2024/04/18** | When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out | Tristan Piater et al. | [2404.12295v1](http://arxiv.org/abs/2404.12295v1) | **NULL** |
-| **2024/04/18** | Dynamic Modality and View Selection for Multimodal Emotion Recognition with Missing Modalities | Luciana Trinkaus Menon et al. | [2404.12251v1](http://arxiv.org/abs/2404.12251v1) | **NULL** |
-| **2024/04/18** | MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification | Weikang Yu et al. | [2404.12081v1](http://arxiv.org/abs/2404.12081v1) | [**link**](https://github.com/ericyu97/maskcd) |
 
 ## 背景差分
 
