@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/04/29 08:47:42
+> Updated on 2024/04/30 08:45:33
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
@@ -47,12 +48,16 @@ layout: default
 | **2023/07/21** | BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation | Yosuke Shinya | [2307.11748v1](http://arxiv.org/abs/2307.11748v1) | [**link**](https://github.com/shinya7y/UniverseNet) |
 | **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
 | **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
-| **2023/05/05** | 3D Small Object Detection with Dynamic Spatial Pruning | Xiuwei Xu et al. | [2305.03716v3](http://arxiv.org/abs/2305.03716v3) | [**link**](https://github.com/xuxw98/dspdet3d) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/26** | Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data | Charalampos Symeonidis et al. | [2404.17276v1](http://arxiv.org/abs/2404.17276v1) | **NULL** |
+| **2024/04/26** | Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection | Jiawei Song et al. | [2404.17254v1](http://arxiv.org/abs/2404.17254v1) | **NULL** |
+| **2024/04/26** | Binarizing Documents by Leveraging both Space and Frequency | Fabio Quattrini et al. | [2404.17243v1](http://arxiv.org/abs/2404.17243v1) | [**link**](https://github.com/aimagelab/fourbi) |
+| **2024/04/26** | Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment | Kazi Shahriar Sanjid et al. | [2404.17235v1](http://arxiv.org/abs/2404.17235v1) | **NULL** |
+| **2024/04/26** | Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network | Zhaohui Huang et al. | [2404.17138v1](http://arxiv.org/abs/2404.17138v1) | **NULL** |
 | **2024/04/25** | Modeling Selective Feature Attention for Representation-based Siamese Text Matching | Jianxiang Zang et al. | [2404.16776v1](http://arxiv.org/abs/2404.16776v1) | [**link**](https://github.com/hggzjx/sfa) |
 | **2024/04/25** | MMGRec: Multimodal Generative Recommendation with Transformer Model | Han Liu et al. | [2404.16555v1](http://arxiv.org/abs/2404.16555v1) | **NULL** |
 | **2024/04/25** | BezierFormer: A Unified Architecture for 2D and 3D Lane Detection | Zhiwei Dong et al. | [2404.16304v1](http://arxiv.org/abs/2404.16304v1) | **NULL** |
@@ -65,6 +70,7 @@ layout: default
 | **2024/04/24** | Gradformer: Graph Transformer with Exponential Decay | Chuang Liu et al. | [2404.15729v1](http://arxiv.org/abs/2404.15729v1) | [**link**](https://github.com/liuchuang0059/gradformer) |
 | **2024/04/24** | Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement | Jiaqi Liu et al. | [2404.15696v1](http://arxiv.org/abs/2404.15696v1) | **NULL** |
 | **2024/04/24** | DyGCL: Dynamic Graph Contrastive Learning For Event Prediction | Muhammed Ifte Khairul Islam et al. | [2404.15612v1](http://arxiv.org/abs/2404.15612v1) | **NULL** |
+| **2024/04/23** | ThermoPore: Predicting Part Porosity Based on Thermal Images Using Deep Learning | Peter Myung-Won Pak et al. | [2404.16882v1](http://arxiv.org/abs/2404.16882v1) | **NULL** |
 | **2024/04/23** | CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection | Hongyi Cai et al. | [2404.15451v1](http://arxiv.org/abs/2404.15451v1) | **NULL** |
 | **2024/04/23** | From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation | Zehuan Huang et al. | [2404.15267v1](http://arxiv.org/abs/2404.15267v1) | **NULL** |
 | **2024/04/23** | Transformers Can Represent $n$-gram Language Models | Anej Svete et al. | [2404.14994v1](http://arxiv.org/abs/2404.14994v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/04/22** | C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images | Chengxi Han et al. | [2404.13838v1](http://arxiv.org/abs/2404.13838v1) | [**link**](https://github.com/chengxihan/c2f-semicd-and-c2f-cdnet) |
 | **2024/04/21** | EncodeNet: A Framework for Boosting DNN Accuracy with Entropy-driven Generalized Converting Autoencoder | Hasanul Mahmud et al. | [2404.13770v1](http://arxiv.org/abs/2404.13770v1) | **NULL** |
 | **2024/04/21** | Exploring Diverse Methods in Visual Question Answering | Panfeng Li et al. | [2404.13565v1](http://arxiv.org/abs/2404.13565v1) | **NULL** |
-| **2024/04/21** | LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation | Haoyu Zheng et al. | [2404.13558v2](http://arxiv.org/abs/2404.13558v2) | **NULL** |
-| **2024/04/20** | Nested-TNT: Hierarchical Vision Transformers with Multi-Scale Feature Processing | Yuang Liu et al. | [2404.13434v1](http://arxiv.org/abs/2404.13434v1) | **NULL** |
-| **2024/04/20** | AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation | Yang Yang et al. | [2404.13408v1](http://arxiv.org/abs/2404.13408v1) | **NULL** |
-| **2024/04/20** | SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation | Mansoor Hayat et al. | [2404.13330v2](http://arxiv.org/abs/2404.13330v2) | **NULL** |
-| **2024/04/20** | StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction | Maitreya Shelare et al. | [2404.13270v1](http://arxiv.org/abs/2404.13270v1) | **NULL** |
-| **2024/04/20** | 3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification | Shyam Varahagiri et al. | [2404.13252v1](http://arxiv.org/abs/2404.13252v1) | [**link**](https://github.com/shyamvarahagiri/3d-convsst) |
 
 ## 背景差分
 
