@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/01 08:51:02
+> Updated on 2024/05/02 08:45:46
 
 <summary>Table of Contents</summary>
 
@@ -53,14 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/04/30** | InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation | Chanran Kim et al. | [2404.19427v1](http://arxiv.org/abs/2404.19427v1) | **NULL** |
+| **2024/04/30** | Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making | Lei Zhuang et al. | [2404.19403v1](http://arxiv.org/abs/2404.19403v1) | **NULL** |
+| **2024/04/30** | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | Zhigang Sun et al. | [2404.19379v1](http://arxiv.org/abs/2404.19379v1) | **NULL** |
+| **2024/04/30** | QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering | Sheng Ouyang et al. | [2404.19316v1](http://arxiv.org/abs/2404.19316v1) | **NULL** |
+| **2024/04/30** | Flight Trajectory Prediction Using an Enhanced CNN-LSTM Network | Qinzhi Hao et al. | [2404.19218v1](http://arxiv.org/abs/2404.19218v1) | **NULL** |
 | **2024/04/29** | RSCaMa: Remote Sensing Image Change Captioning with State Space Model | Chenyang Liu et al. | [2404.18895v1](http://arxiv.org/abs/2404.18895v1) | [**link**](https://github.com/chen-yang-liu/rscama) |
+| **2024/04/29** | M3H: Multimodal Multitask Machine Learning for Healthcare | Dimitris Bertsimas et al. | [2404.18975v1](http://arxiv.org/abs/2404.18975v1) | **NULL** |
 | **2024/04/29** | Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention | Ruijie Tao et al. | [2404.18501v1](http://arxiv.org/abs/2404.18501v1) | **NULL** |
-| **2024/04/29** | ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal | Zhuohao Li et al. | [2404.18433v2](http://arxiv.org/abs/2404.18433v2) | **NULL** |
+| **2024/04/29** | ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal | Zhuohao Li et al. | [2404.18433v2](http://arxiv.org/abs/2404.18433v2) | [**link**](https://github.com/lizhh268/shadowmaskformer) |
 | **2024/04/29** | Spectral-Spatial Mamba for Hyperspectral Image Classification | Lingbo Huang et al. | [2404.18401v1](http://arxiv.org/abs/2404.18401v1) | **NULL** |
-| **2024/04/28** | Mamba-FETrack: Frame-Event Tracking via State Space Model | Ju Huang et al. | [2404.18174v1](http://arxiv.org/abs/2404.18174v1) | [**link**](https://github.com/event-ahu/mamba_fetrack) |
+| **2024/04/28** | Mamba-FETrack: Frame-Event Tracking via State Space Model | Ju Huang et al. | [2404.18174v1](http://arxiv.org/abs/2404.18174v1) | [**link**](https://github.com/event-ahu/mamba_state_space_model_paper_list) |
 | **2024/04/28** | Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers | Clément Grisi et al. | [2404.18152v1](http://arxiv.org/abs/2404.18152v1) | **NULL** |
+| **2024/04/27** | CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention | Damith Chamalke Senadeera et al. | [2404.18952v1](http://arxiv.org/abs/2404.18952v1) | [**link**](https://github.com/damith92/cuenet) |
 | **2024/04/27** | Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion | Yuntao Shou et al. | [2404.17858v1](http://arxiv.org/abs/2404.17858v1) | **NULL** |
 | **2024/04/27** | GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation | Ziya Ata Yazıcı et al. | [2404.17854v1](http://arxiv.org/abs/2404.17854v1) | [**link**](https://github.com/yaziciz/GLIMS) |
+| **2024/04/27** | Sub-Adjacent Transformer: Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods | Wenzhen Yue et al. | [2404.18948v1](http://arxiv.org/abs/2404.18948v1) | **NULL** |
 | **2024/04/27** | Efficient Bi-manipulation using RGBD Multi-model Fusion based on Attention Mechanism | Jian Shen et al. | [2404.17811v1](http://arxiv.org/abs/2404.17811v1) | **NULL** |
 | **2024/04/27** | CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving | Junyi Gu et al. | [2404.17793v1](http://arxiv.org/abs/2404.17793v1) | [**link**](https://github.com/claud1234/fcn_transformer_object_segmentation) |
 | **2024/04/26** | Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data | Charalampos Symeonidis et al. | [2404.17276v1](http://arxiv.org/abs/2404.17276v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/04/24** | zkLLM: Zero Knowledge Proofs for Large Language Models | Haochen Sun et al. | [2404.16109v1](http://arxiv.org/abs/2404.16109v1) | [**link**](https://github.com/jvhs0706/zkllm-ccs2024) |
 | **2024/04/24** | HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion | Guosheng Lu et al. | [2404.15992v1](http://arxiv.org/abs/2404.15992v1) | **NULL** |
 | **2024/04/24** | A Survey on Visual Mamba | Hanwei Zhang et al. | [2404.15956v2](http://arxiv.org/abs/2404.15956v2) | **NULL** |
-| **2024/04/24** | ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction | Zhiqi Shao et al. | [2404.15899v2](http://arxiv.org/abs/2404.15899v2) | **NULL** |
-| **2024/04/24** | Raformer: Redundancy-Aware Transformer for Video Wire Inpainting | Zhong Ji et al. | [2404.15802v1](http://arxiv.org/abs/2404.15802v1) | [**link**](https://github.com/Suyimu/WRV2) |
-| **2024/04/24** | Gradformer: Graph Transformer with Exponential Decay | Chuang Liu et al. | [2404.15729v1](http://arxiv.org/abs/2404.15729v1) | [**link**](https://github.com/liuchuang0059/gradformer) |
-| **2024/04/24** | Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement | Jiaqi Liu et al. | [2404.15696v1](http://arxiv.org/abs/2404.15696v1) | **NULL** |
-| **2024/04/24** | DyGCL: Dynamic Graph Contrastive Learning For Event Prediction | Muhammed Ifte Khairul Islam et al. | [2404.15612v1](http://arxiv.org/abs/2404.15612v1) | **NULL** |
-| **2024/04/23** | ThermoPore: Predicting Part Porosity Based on Thermal Images Using Deep Learning | Peter Myung-Won Pak et al. | [2404.16882v1](http://arxiv.org/abs/2404.16882v1) | **NULL** |
-| **2024/04/23** | CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection | Hongyi Cai et al. | [2404.15451v1](http://arxiv.org/abs/2404.15451v1) | **NULL** |
-| **2024/04/23** | From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation | Zehuan Huang et al. | [2404.15267v1](http://arxiv.org/abs/2404.15267v1) | **NULL** |
 
 ## 背景差分
 
