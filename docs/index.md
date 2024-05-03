@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/02 08:45:46
+> Updated on 2024/05/03 08:50:04
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/01** | Grains of Saliency: Optimizing Saliency-based Training of Biometric Attack Detection Models | Colton R. Crum et al. | [2405.00650v1](http://arxiv.org/abs/2405.00650v1) | **NULL** |
+| **2024/05/01** | DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting | Yihang Fu et al. | [2405.00522v1](http://arxiv.org/abs/2405.00522v1) | [**link**](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction) |
+| **2024/05/01** | Exploiting Positional Bias for Query-Agnostic Generative Content in Search | Andrew Parry et al. | [2405.00469v1](http://arxiv.org/abs/2405.00469v1) | [**link**](https://github.com/parry-parry/adversarialcontext) |
+| **2024/05/01** | BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine | Mingchen Li et al. | [2405.00465v1](http://arxiv.org/abs/2405.00465v1) | **NULL** |
+| **2024/05/01** | MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation | Xujie Zhang et al. | [2405.00448v1](http://arxiv.org/abs/2405.00448v1) | **NULL** |
+| **2024/05/01** | CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection | Shihan Dou et al. | [2405.00428v1](http://arxiv.org/abs/2405.00428v1) | **NULL** |
+| **2024/05/01** | Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis | Huy H. Nguyen et al. | [2405.00355v1](http://arxiv.org/abs/2405.00355v1) | **NULL** |
+| **2024/04/30** | Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer | Tahira Shehzadi et al. | [2405.00187v1](http://arxiv.org/abs/2405.00187v1) | **NULL** |
+| **2024/04/30** | A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention | Amarjeet Kumar et al. | [2405.00130v1](http://arxiv.org/abs/2405.00130v1) | **NULL** |
 | **2024/04/30** | InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation | Chanran Kim et al. | [2404.19427v1](http://arxiv.org/abs/2404.19427v1) | **NULL** |
 | **2024/04/30** | Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making | Lei Zhuang et al. | [2404.19403v1](http://arxiv.org/abs/2404.19403v1) | **NULL** |
 | **2024/04/30** | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | Zhigang Sun et al. | [2404.19379v1](http://arxiv.org/abs/2404.19379v1) | **NULL** |
 | **2024/04/30** | QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering | Sheng Ouyang et al. | [2404.19316v1](http://arxiv.org/abs/2404.19316v1) | **NULL** |
 | **2024/04/30** | Flight Trajectory Prediction Using an Enhanced CNN-LSTM Network | Qinzhi Hao et al. | [2404.19218v1](http://arxiv.org/abs/2404.19218v1) | **NULL** |
-| **2024/04/29** | RSCaMa: Remote Sensing Image Change Captioning with State Space Model | Chenyang Liu et al. | [2404.18895v1](http://arxiv.org/abs/2404.18895v1) | [**link**](https://github.com/chen-yang-liu/rscama) |
+| **2024/04/29** | RSCaMa: Remote Sensing Image Change Captioning with State Space Model | Chenyang Liu et al. | [2404.18895v2](http://arxiv.org/abs/2404.18895v2) | [**link**](https://github.com/chen-yang-liu/rscama) |
 | **2024/04/29** | M3H: Multimodal Multitask Machine Learning for Healthcare | Dimitris Bertsimas et al. | [2404.18975v1](http://arxiv.org/abs/2404.18975v1) | **NULL** |
 | **2024/04/29** | Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention | Ruijie Tao et al. | [2404.18501v1](http://arxiv.org/abs/2404.18501v1) | **NULL** |
 | **2024/04/29** | ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal | Zhuohao Li et al. | [2404.18433v2](http://arxiv.org/abs/2404.18433v2) | [**link**](https://github.com/lizhh268/shadowmaskformer) |
@@ -74,15 +83,6 @@ layout: default
 | **2024/04/26** | Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data | Charalampos Symeonidis et al. | [2404.17276v1](http://arxiv.org/abs/2404.17276v1) | **NULL** |
 | **2024/04/26** | Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection | Jiawei Song et al. | [2404.17254v1](http://arxiv.org/abs/2404.17254v1) | **NULL** |
 | **2024/04/26** | Binarizing Documents by Leveraging both Space and Frequency | Fabio Quattrini et al. | [2404.17243v1](http://arxiv.org/abs/2404.17243v1) | [**link**](https://github.com/aimagelab/fourbi) |
-| **2024/04/26** | Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment | Kazi Shahriar Sanjid et al. | [2404.17235v1](http://arxiv.org/abs/2404.17235v1) | **NULL** |
-| **2024/04/26** | Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network | Zhaohui Huang et al. | [2404.17138v1](http://arxiv.org/abs/2404.17138v1) | **NULL** |
-| **2024/04/25** | Modeling Selective Feature Attention for Representation-based Siamese Text Matching | Jianxiang Zang et al. | [2404.16776v1](http://arxiv.org/abs/2404.16776v1) | [**link**](https://github.com/hggzjx/sfa) |
-| **2024/04/25** | MMGRec: Multimodal Generative Recommendation with Transformer Model | Han Liu et al. | [2404.16555v1](http://arxiv.org/abs/2404.16555v1) | **NULL** |
-| **2024/04/25** | BezierFormer: A Unified Architecture for 2D and 3D Lane Detection | Zhiwei Dong et al. | [2404.16304v1](http://arxiv.org/abs/2404.16304v1) | **NULL** |
-| **2024/04/24** | ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment | Sarala Naidu et al. | [2404.16183v1](http://arxiv.org/abs/2404.16183v1) | **NULL** |
-| **2024/04/24** | zkLLM: Zero Knowledge Proofs for Large Language Models | Haochen Sun et al. | [2404.16109v1](http://arxiv.org/abs/2404.16109v1) | [**link**](https://github.com/jvhs0706/zkllm-ccs2024) |
-| **2024/04/24** | HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion | Guosheng Lu et al. | [2404.15992v1](http://arxiv.org/abs/2404.15992v1) | **NULL** |
-| **2024/04/24** | A Survey on Visual Mamba | Hanwei Zhang et al. | [2404.15956v2](http://arxiv.org/abs/2404.15956v2) | **NULL** |
 
 ## 背景差分
 
