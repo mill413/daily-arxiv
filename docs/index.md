@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/03 08:50:04
+> Updated on 2024/05/04 08:45:42
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/02** | Transformer-Aided Semantic Communications | Matin Mortaheb et al. | [2405.01521v1](http://arxiv.org/abs/2405.01521v1) | **NULL** |
+| **2024/05/02** | Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy | Hoang-Quan Nguyen et al. | [2405.01337v1](http://arxiv.org/abs/2405.01337v1) | **NULL** |
+| **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
+| **2024/05/02** | Attention and Sensory Processing in Augmented Reality: Empowering ADHD population | Shiva Ghasemi et al. | [2405.01218v1](http://arxiv.org/abs/2405.01218v1) | **NULL** |
+| **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | **NULL** |
+| **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | **NULL** |
+| **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
+| **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
+| **2024/05/02** | MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring | Nianzu Qiao et al. | [2405.01083v1](http://arxiv.org/abs/2405.01083v1) | **NULL** |
+| **2024/05/02** | HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images | Zixun Jiao et al. | [2405.01066v1](http://arxiv.org/abs/2405.01066v1) | **NULL** |
+| **2024/05/02** | Context-Aware Clustering using Large Language Models | Sindhu Tipirneni et al. | [2405.00988v1](http://arxiv.org/abs/2405.00988v1) | **NULL** |
+| **2024/05/01** | Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer | Hui Lin et al. | [2405.00857v1](http://arxiv.org/abs/2405.00857v1) | **NULL** |
 | **2024/05/01** | Grains of Saliency: Optimizing Saliency-based Training of Biometric Attack Detection Models | Colton R. Crum et al. | [2405.00650v1](http://arxiv.org/abs/2405.00650v1) | **NULL** |
 | **2024/05/01** | DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting | Yihang Fu et al. | [2405.00522v1](http://arxiv.org/abs/2405.00522v1) | [**link**](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction) |
 | **2024/05/01** | Exploiting Positional Bias for Query-Agnostic Generative Content in Search | Andrew Parry et al. | [2405.00469v1](http://arxiv.org/abs/2405.00469v1) | [**link**](https://github.com/parry-parry/adversarialcontext) |
-| **2024/05/01** | BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine | Mingchen Li et al. | [2405.00465v1](http://arxiv.org/abs/2405.00465v1) | **NULL** |
+| **2024/05/01** | BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine | Mingchen Li et al. | [2405.00465v2](http://arxiv.org/abs/2405.00465v2) | **NULL** |
 | **2024/05/01** | MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation | Xujie Zhang et al. | [2405.00448v1](http://arxiv.org/abs/2405.00448v1) | **NULL** |
 | **2024/05/01** | CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection | Shihan Dou et al. | [2405.00428v1](http://arxiv.org/abs/2405.00428v1) | **NULL** |
 | **2024/05/01** | Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis | Huy H. Nguyen et al. | [2405.00355v1](http://arxiv.org/abs/2405.00355v1) | **NULL** |
@@ -66,23 +78,11 @@ layout: default
 | **2024/04/30** | Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making | Lei Zhuang et al. | [2404.19403v1](http://arxiv.org/abs/2404.19403v1) | **NULL** |
 | **2024/04/30** | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | Zhigang Sun et al. | [2404.19379v1](http://arxiv.org/abs/2404.19379v1) | **NULL** |
 | **2024/04/30** | QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering | Sheng Ouyang et al. | [2404.19316v1](http://arxiv.org/abs/2404.19316v1) | **NULL** |
+| **2024/04/30** | Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks | Yi Li et al. | [2405.00742v1](http://arxiv.org/abs/2405.00742v1) | **NULL** |
 | **2024/04/30** | Flight Trajectory Prediction Using an Enhanced CNN-LSTM Network | Qinzhi Hao et al. | [2404.19218v1](http://arxiv.org/abs/2404.19218v1) | **NULL** |
-| **2024/04/29** | RSCaMa: Remote Sensing Image Change Captioning with State Space Model | Chenyang Liu et al. | [2404.18895v2](http://arxiv.org/abs/2404.18895v2) | [**link**](https://github.com/chen-yang-liu/rscama) |
 | **2024/04/29** | M3H: Multimodal Multitask Machine Learning for Healthcare | Dimitris Bertsimas et al. | [2404.18975v1](http://arxiv.org/abs/2404.18975v1) | **NULL** |
 | **2024/04/29** | Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention | Ruijie Tao et al. | [2404.18501v1](http://arxiv.org/abs/2404.18501v1) | **NULL** |
 | **2024/04/29** | ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal | Zhuohao Li et al. | [2404.18433v2](http://arxiv.org/abs/2404.18433v2) | [**link**](https://github.com/lizhh268/shadowmaskformer) |
-| **2024/04/29** | Spectral-Spatial Mamba for Hyperspectral Image Classification | Lingbo Huang et al. | [2404.18401v1](http://arxiv.org/abs/2404.18401v1) | **NULL** |
-| **2024/04/28** | Mamba-FETrack: Frame-Event Tracking via State Space Model | Ju Huang et al. | [2404.18174v1](http://arxiv.org/abs/2404.18174v1) | [**link**](https://github.com/event-ahu/mamba_state_space_model_paper_list) |
-| **2024/04/28** | Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers | Clément Grisi et al. | [2404.18152v1](http://arxiv.org/abs/2404.18152v1) | **NULL** |
-| **2024/04/27** | CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention | Damith Chamalke Senadeera et al. | [2404.18952v1](http://arxiv.org/abs/2404.18952v1) | [**link**](https://github.com/damith92/cuenet) |
-| **2024/04/27** | Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion | Yuntao Shou et al. | [2404.17858v1](http://arxiv.org/abs/2404.17858v1) | **NULL** |
-| **2024/04/27** | GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation | Ziya Ata Yazıcı et al. | [2404.17854v1](http://arxiv.org/abs/2404.17854v1) | [**link**](https://github.com/yaziciz/GLIMS) |
-| **2024/04/27** | Sub-Adjacent Transformer: Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods | Wenzhen Yue et al. | [2404.18948v1](http://arxiv.org/abs/2404.18948v1) | **NULL** |
-| **2024/04/27** | Efficient Bi-manipulation using RGBD Multi-model Fusion based on Attention Mechanism | Jian Shen et al. | [2404.17811v1](http://arxiv.org/abs/2404.17811v1) | **NULL** |
-| **2024/04/27** | CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving | Junyi Gu et al. | [2404.17793v1](http://arxiv.org/abs/2404.17793v1) | [**link**](https://github.com/claud1234/fcn_transformer_object_segmentation) |
-| **2024/04/26** | Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data | Charalampos Symeonidis et al. | [2404.17276v1](http://arxiv.org/abs/2404.17276v1) | **NULL** |
-| **2024/04/26** | Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection | Jiawei Song et al. | [2404.17254v1](http://arxiv.org/abs/2404.17254v1) | **NULL** |
-| **2024/04/26** | Binarizing Documents by Leveraging both Space and Frequency | Fabio Quattrini et al. | [2404.17243v1](http://arxiv.org/abs/2404.17243v1) | [**link**](https://github.com/aimagelab/fourbi) |
 
 ## 背景差分
 
