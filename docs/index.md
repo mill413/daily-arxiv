@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/04 08:45:42
+> Updated on 2024/05/05 08:50:45
 
 <summary>Table of Contents</summary>
 
@@ -58,7 +58,7 @@ layout: default
 | **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
 | **2024/05/02** | Attention and Sensory Processing in Augmented Reality: Empowering ADHD population | Shiva Ghasemi et al. | [2405.01218v1](http://arxiv.org/abs/2405.01218v1) | **NULL** |
 | **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | **NULL** |
-| **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | **NULL** |
+| **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | [**link**](https://github.com/null-xyj/CoBFormer) |
 | **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
 | **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
 | **2024/05/02** | MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring | Nianzu Qiao et al. | [2405.01083v1](http://arxiv.org/abs/2405.01083v1) | **NULL** |
@@ -73,7 +73,7 @@ layout: default
 | **2024/05/01** | CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection | Shihan Dou et al. | [2405.00428v1](http://arxiv.org/abs/2405.00428v1) | **NULL** |
 | **2024/05/01** | Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis | Huy H. Nguyen et al. | [2405.00355v1](http://arxiv.org/abs/2405.00355v1) | **NULL** |
 | **2024/04/30** | Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer | Tahira Shehzadi et al. | [2405.00187v1](http://arxiv.org/abs/2405.00187v1) | **NULL** |
-| **2024/04/30** | A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention | Amarjeet Kumar et al. | [2405.00130v1](http://arxiv.org/abs/2405.00130v1) | **NULL** |
+| **2024/04/30** | A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention | Amarjeet Kumar et al. | [2405.00130v1](http://arxiv.org/abs/2405.00130v1) | [**link**](https://github.com/mirthai/csa-net) |
 | **2024/04/30** | InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation | Chanran Kim et al. | [2404.19427v1](http://arxiv.org/abs/2404.19427v1) | **NULL** |
 | **2024/04/30** | Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making | Lei Zhuang et al. | [2404.19403v1](http://arxiv.org/abs/2404.19403v1) | **NULL** |
 | **2024/04/30** | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | Zhigang Sun et al. | [2404.19379v1](http://arxiv.org/abs/2404.19379v1) | **NULL** |
