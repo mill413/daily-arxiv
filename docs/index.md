@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/06 08:48:01
+> Updated on 2024/05/07 08:46:58
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v1](http://arxiv.org/abs/2405.01699v1) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
@@ -47,12 +48,13 @@ layout: default
 | **2023/08/18** | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning | Xiang Yuan et al. | [2308.09534v1](http://arxiv.org/abs/2308.09534v1) | [**link**](https://github.com/shaunyuan22/cfinet) |
 | **2023/07/21** | BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation | Yosuke Shinya | [2307.11748v1](http://arxiv.org/abs/2307.11748v1) | [**link**](https://github.com/shinya7y/UniverseNet) |
 | **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
-| **2023/07/17** | Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime | Pierre Le Jeune et al. | [2307.09562v1](http://arxiv.org/abs/2307.09562v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/03** | SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network | Ziang Zhou et al. | [2405.01927v1](http://arxiv.org/abs/2405.01927v1) | [**link**](https://github.com/scottjiao/slotgat_icml23) |
+| **2024/05/02** | Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps | Yuwei Liu et al. | [2405.01714v1](http://arxiv.org/abs/2405.01714v1) | **NULL** |
 | **2024/05/02** | Transformer-Aided Semantic Communications | Matin Mortaheb et al. | [2405.01521v1](http://arxiv.org/abs/2405.01521v1) | **NULL** |
 | **2024/05/02** | Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy | Hoang-Quan Nguyen et al. | [2405.01337v1](http://arxiv.org/abs/2405.01337v1) | **NULL** |
 | **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
@@ -62,7 +64,7 @@ layout: default
 | **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
 | **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
 | **2024/05/02** | MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring | Nianzu Qiao et al. | [2405.01083v1](http://arxiv.org/abs/2405.01083v1) | **NULL** |
-| **2024/05/02** | HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images | Zixun Jiao et al. | [2405.01066v1](http://arxiv.org/abs/2405.01066v1) | **NULL** |
+| **2024/05/02** | HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images | Zixun Jiao et al. | [2405.01066v2](http://arxiv.org/abs/2405.01066v2) | **NULL** |
 | **2024/05/02** | Context-Aware Clustering using Large Language Models | Sindhu Tipirneni et al. | [2405.00988v1](http://arxiv.org/abs/2405.00988v1) | **NULL** |
 | **2024/05/01** | Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer | Hui Lin et al. | [2405.00857v1](http://arxiv.org/abs/2405.00857v1) | **NULL** |
 | **2024/05/01** | Grains of Saliency: Optimizing Saliency-based Training of Biometric Attack Detection Models | Colton R. Crum et al. | [2405.00650v1](http://arxiv.org/abs/2405.00650v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/04/30** | Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks | Yi Li et al. | [2405.00742v1](http://arxiv.org/abs/2405.00742v1) | **NULL** |
 | **2024/04/30** | Flight Trajectory Prediction Using an Enhanced CNN-LSTM Network | Qinzhi Hao et al. | [2404.19218v1](http://arxiv.org/abs/2404.19218v1) | **NULL** |
 | **2024/04/29** | M3H: Multimodal Multitask Machine Learning for Healthcare | Dimitris Bertsimas et al. | [2404.18975v1](http://arxiv.org/abs/2404.18975v1) | **NULL** |
-| **2024/04/29** | Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention | Ruijie Tao et al. | [2404.18501v1](http://arxiv.org/abs/2404.18501v1) | **NULL** |
-| **2024/04/29** | ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal | Zhuohao Li et al. | [2404.18433v2](http://arxiv.org/abs/2404.18433v2) | [**link**](https://github.com/lizhh268/shadowmaskformer) |
 
 ## 背景差分
 
