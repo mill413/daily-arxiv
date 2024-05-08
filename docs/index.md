@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/07 08:46:58
+> Updated on 2024/05/08 08:38:41
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v1](http://arxiv.org/abs/2405.01699v1) | **NULL** |
+| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | [**link**](https://github.com/yash2629/s.o.a.r) |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
@@ -53,13 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/06** | Dual Relation Mining Network for Zero-Shot Learning | Jinwei Han et al. | [2405.03613v1](http://arxiv.org/abs/2405.03613v1) | **NULL** |
+| **2024/05/06** | Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation | Jesher Joshua M et al. | [2405.03537v1](http://arxiv.org/abs/2405.03537v1) | **NULL** |
+| **2024/05/06** | AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers | Wenhao Zhu et al. | [2405.03481v1](http://arxiv.org/abs/2405.03481v1) | **NULL** |
+| **2024/05/06** | ReCycle: Fast and Efficient Long Time Series Forecasting with Residual Cyclic Transformers | Arvid Weyrauch et al. | [2405.03429v1](http://arxiv.org/abs/2405.03429v1) | [**link**](https://github.com/helmholtz-ai-energy/recycle) |
+| **2024/05/06** | Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement | Jiesong Bai et al. | [2405.03349v1](http://arxiv.org/abs/2405.03349v1) | **NULL** |
+| **2024/05/06** | Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond | Jiuxiang Gu et al. | [2405.03251v1](http://arxiv.org/abs/2405.03251v1) | **NULL** |
+| **2024/05/06** | PTQ4SAM: Post-Training Quantization for Segment Anything | Chengtao Lv et al. | [2405.03144v1](http://arxiv.org/abs/2405.03144v1) | [**link**](https://github.com/chengtao-lv/ptq4sam) |
+| **2024/05/05** | SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection | Kassaw Abraham Mulat et al. | [2405.02906v1](http://arxiv.org/abs/2405.02906v1) | **NULL** |
+| **2024/05/05** | Fast One-Stage Unsupervised Domain Adaptive Person Search | Tianxiang Cui et al. | [2405.02832v1](http://arxiv.org/abs/2405.02832v1) | **NULL** |
+| **2024/05/05** | Fused attention mechanism-based ore sorting network | Junjiang Zhen et al. | [2405.02785v1](http://arxiv.org/abs/2405.02785v1) | **NULL** |
+| **2024/05/03** | What does the Knowledge Neuron Thesis Have to do with Knowledge? | Jingcheng Niu et al. | [2405.02421v1](http://arxiv.org/abs/2405.02421v1) | **NULL** |
 | **2024/05/03** | SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network | Ziang Zhou et al. | [2405.01927v1](http://arxiv.org/abs/2405.01927v1) | [**link**](https://github.com/scottjiao/slotgat_icml23) |
-| **2024/05/02** | Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps | Yuwei Liu et al. | [2405.01714v1](http://arxiv.org/abs/2405.01714v1) | **NULL** |
+| **2024/05/03** | CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection | Jindong Li et al. | [2405.02359v1](http://arxiv.org/abs/2405.02359v1) | [**link**](https://github.com/jindongli-ai/cvtgad) |
+| **2024/05/02** | Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps | Yuwei Liu et al. | [2405.01714v2](http://arxiv.org/abs/2405.01714v2) | **NULL** |
 | **2024/05/02** | Transformer-Aided Semantic Communications | Matin Mortaheb et al. | [2405.01521v1](http://arxiv.org/abs/2405.01521v1) | **NULL** |
 | **2024/05/02** | Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy | Hoang-Quan Nguyen et al. | [2405.01337v1](http://arxiv.org/abs/2405.01337v1) | **NULL** |
 | **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
 | **2024/05/02** | Attention and Sensory Processing in Augmented Reality: Empowering ADHD population | Shiva Ghasemi et al. | [2405.01218v1](http://arxiv.org/abs/2405.01218v1) | **NULL** |
-| **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | **NULL** |
+| **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | [**link**](https://github.com/zhouyupop/fracseg-net) |
 | **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | [**link**](https://github.com/null-xyj/CoBFormer) |
 | **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
 | **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2024/05/01** | DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting | Yihang Fu et al. | [2405.00522v1](http://arxiv.org/abs/2405.00522v1) | [**link**](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction) |
 | **2024/05/01** | Exploiting Positional Bias for Query-Agnostic Generative Content in Search | Andrew Parry et al. | [2405.00469v1](http://arxiv.org/abs/2405.00469v1) | [**link**](https://github.com/parry-parry/adversarialcontext) |
 | **2024/05/01** | BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine | Mingchen Li et al. | [2405.00465v3](http://arxiv.org/abs/2405.00465v3) | **NULL** |
-| **2024/05/01** | MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation | Xujie Zhang et al. | [2405.00448v1](http://arxiv.org/abs/2405.00448v1) | **NULL** |
-| **2024/05/01** | CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection | Shihan Dou et al. | [2405.00428v1](http://arxiv.org/abs/2405.00428v1) | **NULL** |
-| **2024/05/01** | Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis | Huy H. Nguyen et al. | [2405.00355v1](http://arxiv.org/abs/2405.00355v1) | **NULL** |
-| **2024/04/30** | Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer | Tahira Shehzadi et al. | [2405.00187v1](http://arxiv.org/abs/2405.00187v1) | **NULL** |
-| **2024/04/30** | A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention | Amarjeet Kumar et al. | [2405.00130v1](http://arxiv.org/abs/2405.00130v1) | [**link**](https://github.com/mirthai/csa-net) |
-| **2024/04/30** | InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation | Chanran Kim et al. | [2404.19427v1](http://arxiv.org/abs/2404.19427v1) | **NULL** |
-| **2024/04/30** | Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making | Lei Zhuang et al. | [2404.19403v1](http://arxiv.org/abs/2404.19403v1) | **NULL** |
-| **2024/04/30** | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | Zhigang Sun et al. | [2404.19379v1](http://arxiv.org/abs/2404.19379v1) | **NULL** |
-| **2024/04/30** | QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering | Sheng Ouyang et al. | [2404.19316v1](http://arxiv.org/abs/2404.19316v1) | **NULL** |
-| **2024/04/30** | Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks | Yi Li et al. | [2405.00742v1](http://arxiv.org/abs/2405.00742v1) | **NULL** |
-| **2024/04/30** | Flight Trajectory Prediction Using an Enhanced CNN-LSTM Network | Qinzhi Hao et al. | [2404.19218v1](http://arxiv.org/abs/2404.19218v1) | **NULL** |
-| **2024/04/29** | M3H: Multimodal Multitask Machine Learning for Healthcare | Dimitris Bertsimas et al. | [2404.18975v1](http://arxiv.org/abs/2404.18975v1) | **NULL** |
 
 ## 背景差分
 
