@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/08 08:38:41
+> Updated on 2024/05/09 08:47:13
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/07** | A Transformer with Stack Attention | Jiaoda Li et al. | [2405.04515v1](http://arxiv.org/abs/2405.04515v1) | [**link**](https://github.com/rycolab/stack-transformer) |
+| **2024/05/07** | Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer | Zhuoyi Yang et al. | [2405.04312v2](http://arxiv.org/abs/2405.04312v2) | [**link**](https://github.com/thudm/inf-dit) |
+| **2024/05/07** | ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers | Jinke Li et al. | [2405.04299v1](http://arxiv.org/abs/2405.04299v1) | **NULL** |
+| **2024/05/07** | NOVA: NoC-based Vector Unit for Mapping Attention Layers on a CNN Accelerator | Mohit Upadhyay et al. | [2405.04206v1](http://arxiv.org/abs/2405.04206v1) | **NULL** |
+| **2024/05/07** | DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects | Da Fu et al. | [2405.04093v1](http://arxiv.org/abs/2405.04093v1) | **NULL** |
+| **2024/05/07** | MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation | Yanli Yuan et al. | [2405.04064v1](http://arxiv.org/abs/2405.04064v1) | **NULL** |
+| **2024/05/07** | VMambaCC: A Visual State Space Model for Crowd Counting | Hao-Yuan Ma et al. | [2405.03978v1](http://arxiv.org/abs/2405.03978v1) | **NULL** |
 | **2024/05/06** | Dual Relation Mining Network for Zero-Shot Learning | Jinwei Han et al. | [2405.03613v1](http://arxiv.org/abs/2405.03613v1) | **NULL** |
 | **2024/05/06** | Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation | Jesher Joshua M et al. | [2405.03537v1](http://arxiv.org/abs/2405.03537v1) | **NULL** |
 | **2024/05/06** | AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers | Wenhao Zhu et al. | [2405.03481v1](http://arxiv.org/abs/2405.03481v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
 | **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
 | **2024/05/02** | MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring | Nianzu Qiao et al. | [2405.01083v1](http://arxiv.org/abs/2405.01083v1) | **NULL** |
-| **2024/05/02** | HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images | Zixun Jiao et al. | [2405.01066v2](http://arxiv.org/abs/2405.01066v2) | **NULL** |
-| **2024/05/02** | Context-Aware Clustering using Large Language Models | Sindhu Tipirneni et al. | [2405.00988v1](http://arxiv.org/abs/2405.00988v1) | **NULL** |
-| **2024/05/01** | Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer | Hui Lin et al. | [2405.00857v1](http://arxiv.org/abs/2405.00857v1) | **NULL** |
-| **2024/05/01** | Grains of Saliency: Optimizing Saliency-based Training of Biometric Attack Detection Models | Colton R. Crum et al. | [2405.00650v1](http://arxiv.org/abs/2405.00650v1) | **NULL** |
-| **2024/05/01** | DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting | Yihang Fu et al. | [2405.00522v1](http://arxiv.org/abs/2405.00522v1) | [**link**](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction) |
-| **2024/05/01** | Exploiting Positional Bias for Query-Agnostic Generative Content in Search | Andrew Parry et al. | [2405.00469v1](http://arxiv.org/abs/2405.00469v1) | [**link**](https://github.com/parry-parry/adversarialcontext) |
-| **2024/05/01** | BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine | Mingchen Li et al. | [2405.00465v3](http://arxiv.org/abs/2405.00465v3) | **NULL** |
 
 ## 背景差分
 
