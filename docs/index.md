@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/09 08:47:13
+> Updated on 2024/05/10 08:47:13
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | [**link**](https://github.com/yash2629/s.o.a.r) |
+| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v1](http://arxiv.org/abs/2404.06180v1) | **NULL** |
@@ -53,24 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/08** | Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers | Jiuxiang Gu et al. | [2405.05219v1](http://arxiv.org/abs/2405.05219v1) | **NULL** |
+| **2024/05/07** | An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution | Naveed Sultan et al. | [2405.04595v1](http://arxiv.org/abs/2405.04595v1) | **NULL** |
 | **2024/05/07** | A Transformer with Stack Attention | Jiaoda Li et al. | [2405.04515v1](http://arxiv.org/abs/2405.04515v1) | [**link**](https://github.com/rycolab/stack-transformer) |
 | **2024/05/07** | Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer | Zhuoyi Yang et al. | [2405.04312v2](http://arxiv.org/abs/2405.04312v2) | [**link**](https://github.com/thudm/inf-dit) |
 | **2024/05/07** | ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers | Jinke Li et al. | [2405.04299v1](http://arxiv.org/abs/2405.04299v1) | **NULL** |
 | **2024/05/07** | NOVA: NoC-based Vector Unit for Mapping Attention Layers on a CNN Accelerator | Mohit Upadhyay et al. | [2405.04206v1](http://arxiv.org/abs/2405.04206v1) | **NULL** |
 | **2024/05/07** | DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects | Da Fu et al. | [2405.04093v1](http://arxiv.org/abs/2405.04093v1) | **NULL** |
-| **2024/05/07** | MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation | Yanli Yuan et al. | [2405.04064v1](http://arxiv.org/abs/2405.04064v1) | **NULL** |
+| **2024/05/07** | MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation | Yanli Yuan et al. | [2405.04064v2](http://arxiv.org/abs/2405.04064v2) | **NULL** |
 | **2024/05/07** | VMambaCC: A Visual State Space Model for Crowd Counting | Hao-Yuan Ma et al. | [2405.03978v1](http://arxiv.org/abs/2405.03978v1) | **NULL** |
 | **2024/05/06** | Dual Relation Mining Network for Zero-Shot Learning | Jinwei Han et al. | [2405.03613v1](http://arxiv.org/abs/2405.03613v1) | **NULL** |
 | **2024/05/06** | Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation | Jesher Joshua M et al. | [2405.03537v1](http://arxiv.org/abs/2405.03537v1) | **NULL** |
 | **2024/05/06** | AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers | Wenhao Zhu et al. | [2405.03481v1](http://arxiv.org/abs/2405.03481v1) | **NULL** |
 | **2024/05/06** | ReCycle: Fast and Efficient Long Time Series Forecasting with Residual Cyclic Transformers | Arvid Weyrauch et al. | [2405.03429v1](http://arxiv.org/abs/2405.03429v1) | [**link**](https://github.com/helmholtz-ai-energy/recycle) |
-| **2024/05/06** | Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement | Jiesong Bai et al. | [2405.03349v1](http://arxiv.org/abs/2405.03349v1) | **NULL** |
+| **2024/05/06** | Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement | Jiesong Bai et al. | [2405.03349v1](http://arxiv.org/abs/2405.03349v1) | [**link**](https://github.com/YhuoyuH/RetinexMamba) |
 | **2024/05/06** | Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond | Jiuxiang Gu et al. | [2405.03251v1](http://arxiv.org/abs/2405.03251v1) | **NULL** |
 | **2024/05/06** | PTQ4SAM: Post-Training Quantization for Segment Anything | Chengtao Lv et al. | [2405.03144v1](http://arxiv.org/abs/2405.03144v1) | [**link**](https://github.com/chengtao-lv/ptq4sam) |
 | **2024/05/05** | SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection | Kassaw Abraham Mulat et al. | [2405.02906v1](http://arxiv.org/abs/2405.02906v1) | **NULL** |
 | **2024/05/05** | Fast One-Stage Unsupervised Domain Adaptive Person Search | Tianxiang Cui et al. | [2405.02832v1](http://arxiv.org/abs/2405.02832v1) | **NULL** |
 | **2024/05/05** | Fused attention mechanism-based ore sorting network | Junjiang Zhen et al. | [2405.02785v1](http://arxiv.org/abs/2405.02785v1) | **NULL** |
-| **2024/05/03** | What does the Knowledge Neuron Thesis Have to do with Knowledge? | Jingcheng Niu et al. | [2405.02421v1](http://arxiv.org/abs/2405.02421v1) | **NULL** |
+| **2024/05/03** | What does the Knowledge Neuron Thesis Have to do with Knowledge? | Jingcheng Niu et al. | [2405.02421v1](http://arxiv.org/abs/2405.02421v1) | [**link**](https://github.com/frankniujc/kn_thesis) |
 | **2024/05/03** | SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network | Ziang Zhou et al. | [2405.01927v1](http://arxiv.org/abs/2405.01927v1) | [**link**](https://github.com/scottjiao/slotgat_icml23) |
 | **2024/05/03** | CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection | Jindong Li et al. | [2405.02359v1](http://arxiv.org/abs/2405.02359v1) | [**link**](https://github.com/jindongli-ai/cvtgad) |
 | **2024/05/02** | Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps | Yuwei Liu et al. | [2405.01714v2](http://arxiv.org/abs/2405.01714v2) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | [**link**](https://github.com/zhouyupop/fracseg-net) |
 | **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | [**link**](https://github.com/null-xyj/CoBFormer) |
 | **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
-| **2024/05/02** | Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss | Nahuel González et al. | [2405.01088v1](http://arxiv.org/abs/2405.01088v1) | **NULL** |
-| **2024/05/02** | MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring | Nianzu Qiao et al. | [2405.01083v1](http://arxiv.org/abs/2405.01083v1) | **NULL** |
 
 ## 背景差分
 
