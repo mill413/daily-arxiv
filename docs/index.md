@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/10 08:47:13
+> Updated on 2024/05/11 08:46:18
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/09** | Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media | Zhizhen Zhang et al. | [2405.05760v1](http://arxiv.org/abs/2405.05760v1) | **NULL** |
+| **2024/05/09** | CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks | Nick et al. | [2405.05755v1](http://arxiv.org/abs/2405.05755v1) | **NULL** |
 | **2024/05/08** | Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers | Jiuxiang Gu et al. | [2405.05219v1](http://arxiv.org/abs/2405.05219v1) | **NULL** |
+| **2024/05/08** | Transformer Architecture for NetsDB | Subodh Kamble et al. | [2405.04807v2](http://arxiv.org/abs/2405.04807v2) | [**link**](https://github.com/kn0wthing/netsdb) |
 | **2024/05/07** | An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution | Naveed Sultan et al. | [2405.04595v1](http://arxiv.org/abs/2405.04595v1) | **NULL** |
 | **2024/05/07** | A Transformer with Stack Attention | Jiaoda Li et al. | [2405.04515v1](http://arxiv.org/abs/2405.04515v1) | [**link**](https://github.com/rycolab/stack-transformer) |
 | **2024/05/07** | Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer | Zhuoyi Yang et al. | [2405.04312v2](http://arxiv.org/abs/2405.04312v2) | [**link**](https://github.com/thudm/inf-dit) |
@@ -72,6 +75,7 @@ layout: default
 | **2024/05/05** | SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection | Kassaw Abraham Mulat et al. | [2405.02906v1](http://arxiv.org/abs/2405.02906v1) | **NULL** |
 | **2024/05/05** | Fast One-Stage Unsupervised Domain Adaptive Person Search | Tianxiang Cui et al. | [2405.02832v1](http://arxiv.org/abs/2405.02832v1) | **NULL** |
 | **2024/05/05** | Fused attention mechanism-based ore sorting network | Junjiang Zhen et al. | [2405.02785v1](http://arxiv.org/abs/2405.02785v1) | **NULL** |
+| **2024/05/03** | An Attention-Based Deep Generative Model for Anomaly Detection in Industrial Control Systems | Mayra Macas et al. | [2405.05277v1](http://arxiv.org/abs/2405.05277v1) | **NULL** |
 | **2024/05/03** | What does the Knowledge Neuron Thesis Have to do with Knowledge? | Jingcheng Niu et al. | [2405.02421v1](http://arxiv.org/abs/2405.02421v1) | [**link**](https://github.com/frankniujc/kn_thesis) |
 | **2024/05/03** | SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network | Ziang Zhou et al. | [2405.01927v1](http://arxiv.org/abs/2405.01927v1) | [**link**](https://github.com/scottjiao/slotgat_icml23) |
 | **2024/05/03** | CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection | Jindong Li et al. | [2405.02359v1](http://arxiv.org/abs/2405.02359v1) | [**link**](https://github.com/jindongli-ai/cvtgad) |
@@ -79,10 +83,6 @@ layout: default
 | **2024/05/02** | Transformer-Aided Semantic Communications | Matin Mortaheb et al. | [2405.01521v1](http://arxiv.org/abs/2405.01521v1) | **NULL** |
 | **2024/05/02** | Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy | Hoang-Quan Nguyen et al. | [2405.01337v1](http://arxiv.org/abs/2405.01337v1) | **NULL** |
 | **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
-| **2024/05/02** | Attention and Sensory Processing in Augmented Reality: Empowering ADHD population | Shiva Ghasemi et al. | [2405.01218v1](http://arxiv.org/abs/2405.01218v1) | **NULL** |
-| **2024/05/02** | Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT | Yu Zhou et al. | [2405.01204v1](http://arxiv.org/abs/2405.01204v1) | [**link**](https://github.com/zhouyupop/fracseg-net) |
-| **2024/05/02** | Less is More: on the Over-Globalizing Problem in Graph Transformers | Yujie Xing et al. | [2405.01102v1](http://arxiv.org/abs/2405.01102v1) | [**link**](https://github.com/null-xyj/CoBFormer) |
-| **2024/05/02** | Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2405.01095v1](http://arxiv.org/abs/2405.01095v1) | **NULL** |
 
 ## 背景差分
 
