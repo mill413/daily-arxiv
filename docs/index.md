@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/13 08:49:14
+> Updated on 2024/05/14 08:48:00
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/10** | A Lightweight Transformer for Remote Sensing Image Change Captioning | Dongwei Sun et al. | [2405.06598v1](http://arxiv.org/abs/2405.06598v1) | **NULL** |
+| **2024/05/10** | ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data | Piyush Kumar Garg et al. | [2405.06541v1](http://arxiv.org/abs/2405.06541v1) | **NULL** |
+| **2024/05/10** | Compression-Realized Deep Structural Network for Video Quality Enhancement | Hanchi Sun et al. | [2405.06342v1](http://arxiv.org/abs/2405.06342v1) | **NULL** |
+| **2024/05/10** | Interpretable Multi-task Learning with Shared Variable Embeddings | Maciej Żelaszczyk et al. | [2405.06330v1](http://arxiv.org/abs/2405.06330v1) | **NULL** |
+| **2024/05/10** | ODC-SA Net: Orthogonal Direction Enhancement and Scale Aware Network for Polyp Segmentation | Chenhao Xu et al. | [2405.06191v1](http://arxiv.org/abs/2405.06191v1) | **NULL** |
+| **2024/05/09** | A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds | Christopher Z. Cui et al. | [2405.06059v1](http://arxiv.org/abs/2405.06059v1) | **NULL** |
 | **2024/05/09** | Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media | Zhizhen Zhang et al. | [2405.05760v1](http://arxiv.org/abs/2405.05760v1) | **NULL** |
 | **2024/05/09** | CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks | Nick et al. | [2405.05755v1](http://arxiv.org/abs/2405.05755v1) | **NULL** |
 | **2024/05/08** | Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers | Jiuxiang Gu et al. | [2405.05219v1](http://arxiv.org/abs/2405.05219v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/05/05** | Fused attention mechanism-based ore sorting network | Junjiang Zhen et al. | [2405.02785v1](http://arxiv.org/abs/2405.02785v1) | **NULL** |
 | **2024/05/03** | An Attention-Based Deep Generative Model for Anomaly Detection in Industrial Control Systems | Mayra Macas et al. | [2405.05277v1](http://arxiv.org/abs/2405.05277v1) | **NULL** |
 | **2024/05/03** | What does the Knowledge Neuron Thesis Have to do with Knowledge? | Jingcheng Niu et al. | [2405.02421v1](http://arxiv.org/abs/2405.02421v1) | [**link**](https://github.com/frankniujc/kn_thesis) |
-| **2024/05/03** | SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network | Ziang Zhou et al. | [2405.01927v1](http://arxiv.org/abs/2405.01927v1) | [**link**](https://github.com/scottjiao/slotgat_icml23) |
-| **2024/05/03** | CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection | Jindong Li et al. | [2405.02359v1](http://arxiv.org/abs/2405.02359v1) | [**link**](https://github.com/jindongli-ai/cvtgad) |
-| **2024/05/02** | Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps | Yuwei Liu et al. | [2405.01714v2](http://arxiv.org/abs/2405.01714v2) | **NULL** |
-| **2024/05/02** | Transformer-Aided Semantic Communications | Matin Mortaheb et al. | [2405.01521v1](http://arxiv.org/abs/2405.01521v1) | **NULL** |
-| **2024/05/02** | Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy | Hoang-Quan Nguyen et al. | [2405.01337v1](http://arxiv.org/abs/2405.01337v1) | **NULL** |
-| **2024/05/02** | MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving | Haicheng Liao et al. | [2405.01266v1](http://arxiv.org/abs/2405.01266v1) | **NULL** |
 
 ## 背景差分
 
