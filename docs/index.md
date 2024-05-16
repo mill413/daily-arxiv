@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/15 08:47:44
+> Updated on 2024/05/16 08:48:02
 
 <summary>Table of Contents</summary>
 
@@ -53,15 +53,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/05/13** | MambaOut: Do We Really Need Mamba for Vision? | Weihao Yu et al. | [2405.07992v1](http://arxiv.org/abs/2405.07992v1) | [**link**](https://github.com/yuweihao/mambaout) |
+| **2024/05/14** | Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs | Edison Jair Bejarano Sepulveda et al. | [2405.08792v1](http://arxiv.org/abs/2405.08792v1) | **NULL** |
+| **2024/05/14** | Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory | Xueyan Niu et al. | [2405.08707v1](http://arxiv.org/abs/2405.08707v1) | **NULL** |
+| **2024/05/14** | Open-Vocabulary Object Detection via Neighboring Region Attention Alignment | Sunyuan Qiang et al. | [2405.08593v1](http://arxiv.org/abs/2405.08593v1) | **NULL** |
+| **2024/05/14** | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | Qinshuo Liu et al. | [2405.08440v1](http://arxiv.org/abs/2405.08440v1) | **NULL** |
+| **2024/05/14** | NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution | Yihong Chen et al. | [2405.08423v1](http://arxiv.org/abs/2405.08423v1) | **NULL** |
+| **2024/05/14** | WaterMamba: Visual State Space Model for Underwater Image Enhancement | Meisheng Guan et al. | [2405.08419v1](http://arxiv.org/abs/2405.08419v1) | **NULL** |
+| **2024/05/14** | Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach | Yaju Liu et al. | [2405.08328v1](http://arxiv.org/abs/2405.08328v1) | **NULL** |
+| **2024/05/13** | MambaOut: Do We Really Need Mamba for Vision? | Weihao Yu et al. | [2405.07992v2](http://arxiv.org/abs/2405.07992v2) | [**link**](https://github.com/yuweihao/mambaout) |
 | **2024/05/13** | Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network | Shulei Qu et al. | [2405.07845v1](http://arxiv.org/abs/2405.07845v1) | **NULL** |
 | **2024/05/13** | MADRL-Based Rate Adaptation for 360$\degree$ Video Streaming with Multi-Viewpoint Prediction | Haopeng Wang et al. | [2405.07759v1](http://arxiv.org/abs/2405.07759v1) | **NULL** |
 | **2024/05/13** | DynLLM: When Large Language Models Meet Dynamic Graph Recommendation | Ziwei Zhao et al. | [2405.07580v1](http://arxiv.org/abs/2405.07580v1) | **NULL** |
 | **2024/05/13** | A frequency-domain enhanced multi-view network for metal fatigue life prediction | Shuonan Chen et al. | [2405.07507v2](http://arxiv.org/abs/2405.07507v2) | **NULL** |
+| **2024/05/13** | Fighter flight trajectory prediction based on spatio-temporal graphcial attention network | Yao Sun et al. | [2405.08034v1](http://arxiv.org/abs/2405.08034v1) | **NULL** |
 | **2024/05/13** | An Efficient Multimodal Learning Framework to Comprehend Consumer Preferences Using BERT and Cross-Attention | Junichiro Niimi | [2405.07435v1](http://arxiv.org/abs/2405.07435v1) | **NULL** |
 | **2024/05/12** | BoQ: A Place is Worth a Bag of Learnable Queries | Amar Ali-bey et al. | [2405.07364v1](http://arxiv.org/abs/2405.07364v1) | [**link**](https://github.com/amaralibey/bag-of-queries) |
-| **2024/05/12** | Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images | Fatema Tuj Johora Faria et al. | [2405.07338v1](http://arxiv.org/abs/2405.07338v1) | **NULL** |
+| **2024/05/12** | Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images | Fatema Tuj Johora Faria et al. | [2405.07338v1](http://arxiv.org/abs/2405.07338v1) | [**link**](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation) |
 | **2024/05/12** | Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization | Xinyuan Zhang et al. | [2405.07140v1](http://arxiv.org/abs/2405.07140v1) | **NULL** |
+| **2024/05/11** | DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation | Volodymyr Fedynyak et al. | [2405.08715v1](http://arxiv.org/abs/2405.08715v1) | **NULL** |
 | **2024/05/11** | EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation | Md Mostafijur Rahman et al. | [2405.06880v1](http://arxiv.org/abs/2405.06880v1) | [**link**](https://github.com/sldgroup/emcad) |
 | **2024/05/10** | Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images | Jialiang Fan et al. | [2405.06814v1](http://arxiv.org/abs/2405.06814v1) | **NULL** |
 | **2024/05/10** | Summarizing Radiology Reports Findings into Impressions | Raul Salles de Padua et al. | [2405.06802v1](http://arxiv.org/abs/2405.06802v1) | **NULL** |
@@ -74,22 +83,13 @@ layout: default
 | **2024/05/09** | Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media | Zhizhen Zhang et al. | [2405.05760v1](http://arxiv.org/abs/2405.05760v1) | **NULL** |
 | **2024/05/09** | CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks | Nick Nikzad et al. | [2405.05755v2](http://arxiv.org/abs/2405.05755v2) | **NULL** |
 | **2024/05/09** | Evaluating the Efficacy of AI Techniques in Textual Anonymization: A Comparative Study | Dimitris Asimopoulos et al. | [2405.06709v1](http://arxiv.org/abs/2405.06709v1) | **NULL** |
-| **2024/05/08** | Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers | Jiuxiang Gu et al. | [2405.05219v1](http://arxiv.org/abs/2405.05219v1) | **NULL** |
-| **2024/05/08** | Transformer Architecture for NetsDB | Subodh Kamble et al. | [2405.04807v2](http://arxiv.org/abs/2405.04807v2) | [**link**](https://github.com/kn0wthing/netsdb) |
-| **2024/05/07** | An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution | Naveed Sultan et al. | [2405.04595v1](http://arxiv.org/abs/2405.04595v1) | **NULL** |
-| **2024/05/07** | A Transformer with Stack Attention | Jiaoda Li et al. | [2405.04515v2](http://arxiv.org/abs/2405.04515v2) | [**link**](https://github.com/rycolab/stack-transformer) |
-| **2024/05/07** | Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer | Zhuoyi Yang et al. | [2405.04312v2](http://arxiv.org/abs/2405.04312v2) | [**link**](https://github.com/thudm/inf-dit) |
-| **2024/05/07** | ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers | Jinke Li et al. | [2405.04299v1](http://arxiv.org/abs/2405.04299v1) | **NULL** |
-| **2024/05/07** | NOVA: NoC-based Vector Unit for Mapping Attention Layers on a CNN Accelerator | Mohit Upadhyay et al. | [2405.04206v1](http://arxiv.org/abs/2405.04206v1) | **NULL** |
-| **2024/05/07** | DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects | Da Fu et al. | [2405.04093v1](http://arxiv.org/abs/2405.04093v1) | **NULL** |
-| **2024/05/07** | MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation | Yanli Yuan et al. | [2405.04064v2](http://arxiv.org/abs/2405.04064v2) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
-| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v2](http://arxiv.org/abs/2404.03043v2) | **NULL** |
+| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computations of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v3](http://arxiv.org/abs/2404.03043v3) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
