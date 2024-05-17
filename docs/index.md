@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/16 08:48:02
+> Updated on 2024/05/17 08:47:57
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/15** | Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling | Gil Serrano et al. | [2405.09428v1](http://arxiv.org/abs/2405.09428v1) | **NULL** |
+| **2024/05/15** | Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images | Memoona Aziz et al. | [2405.09426v2](http://arxiv.org/abs/2405.09426v2) | **NULL** |
+| **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | **NULL** |
+| **2024/05/15** | HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition | Honghui Chen et al. | [2405.09125v1](http://arxiv.org/abs/2405.09125v1) | **NULL** |
+| **2024/05/15** | Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions | Hitoshi Yoshioka et al. | [2405.09081v1](http://arxiv.org/abs/2405.09081v1) | **NULL** |
 | **2024/05/14** | Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs | Edison Jair Bejarano Sepulveda et al. | [2405.08792v1](http://arxiv.org/abs/2405.08792v1) | **NULL** |
 | **2024/05/14** | Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory | Xueyan Niu et al. | [2405.08707v1](http://arxiv.org/abs/2405.08707v1) | **NULL** |
 | **2024/05/14** | Open-Vocabulary Object Detection via Neighboring Region Attention Alignment | Sunyuan Qiang et al. | [2405.08593v1](http://arxiv.org/abs/2405.08593v1) | **NULL** |
@@ -78,18 +83,12 @@ layout: default
 | **2024/05/10** | ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data | Piyush Kumar Garg et al. | [2405.06541v1](http://arxiv.org/abs/2405.06541v1) | **NULL** |
 | **2024/05/10** | Compression-Realized Deep Structural Network for Video Quality Enhancement | Hanchi Sun et al. | [2405.06342v1](http://arxiv.org/abs/2405.06342v1) | **NULL** |
 | **2024/05/10** | Interpretable Multi-task Learning with Shared Variable Embeddings | Maciej Żelaszczyk et al. | [2405.06330v1](http://arxiv.org/abs/2405.06330v1) | **NULL** |
-| **2024/05/10** | ODC-SA Net: Orthogonal Direction Enhancement and Scale Aware Network for Polyp Segmentation | Chenhao Xu et al. | [2405.06191v1](http://arxiv.org/abs/2405.06191v1) | **NULL** |
-| **2024/05/09** | A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds | Christopher Z. Cui et al. | [2405.06059v1](http://arxiv.org/abs/2405.06059v1) | **NULL** |
-| **2024/05/09** | Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media | Zhizhen Zhang et al. | [2405.05760v1](http://arxiv.org/abs/2405.05760v1) | **NULL** |
-| **2024/05/09** | CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks | Nick Nikzad et al. | [2405.05755v2](http://arxiv.org/abs/2405.05755v2) | **NULL** |
-| **2024/05/09** | Evaluating the Efficacy of AI Techniques in Textual Anonymization: A Comparative Study | Dimitris Asimopoulos et al. | [2405.06709v1](http://arxiv.org/abs/2405.06709v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
-| **2024/04/03** | Linear Anchored Gaussian Mixture Model for Location and Width Computations of Objects in Thick Line Shape | Nafaa Nacereddine et al. | [2404.03043v3](http://arxiv.org/abs/2404.03043v3) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
@@ -118,3 +117,4 @@ layout: default
 | **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
 | **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
 | **2023/05/16** | Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT | NEXT Collaboration et al. | [2305.09435v4](http://arxiv.org/abs/2305.09435v4) | **NULL** |
+| **2023/05/15** | Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment | Zahra Sattari et al. | [2305.09021v1](http://arxiv.org/abs/2305.09021v1) | **NULL** |
