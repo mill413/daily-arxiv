@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/17 08:47:57
+> Updated on 2024/05/18 08:47:19
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/16** | Quantum Vision Transformers for Quark-Gluon Classification | Marçal Comajoan Cara et al. | [2405.10284v1](http://arxiv.org/abs/2405.10284v1) | **NULL** |
+| **2024/05/16** | ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks | Zhehan Zhao et al. | [2405.10218v1](http://arxiv.org/abs/2405.10218v1) | **NULL** |
+| **2024/05/16** | AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion | Ziyu Gong et al. | [2405.10029v1](http://arxiv.org/abs/2405.10029v1) | **NULL** |
 | **2024/05/15** | Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling | Gil Serrano et al. | [2405.09428v1](http://arxiv.org/abs/2405.09428v1) | **NULL** |
 | **2024/05/15** | Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images | Memoona Aziz et al. | [2405.09426v2](http://arxiv.org/abs/2405.09426v2) | **NULL** |
 | **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | **NULL** |
+| **2024/05/15** | An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding | Renqi Chen et al. | [2405.09585v1](http://arxiv.org/abs/2405.09585v1) | **NULL** |
 | **2024/05/15** | HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition | Honghui Chen et al. | [2405.09125v1](http://arxiv.org/abs/2405.09125v1) | **NULL** |
 | **2024/05/15** | Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions | Hitoshi Yoshioka et al. | [2405.09081v1](http://arxiv.org/abs/2405.09081v1) | **NULL** |
 | **2024/05/14** | Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs | Edison Jair Bejarano Sepulveda et al. | [2405.08792v1](http://arxiv.org/abs/2405.08792v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/05/11** | EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation | Md Mostafijur Rahman et al. | [2405.06880v1](http://arxiv.org/abs/2405.06880v1) | [**link**](https://github.com/sldgroup/emcad) |
 | **2024/05/10** | Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images | Jialiang Fan et al. | [2405.06814v1](http://arxiv.org/abs/2405.06814v1) | **NULL** |
 | **2024/05/10** | Summarizing Radiology Reports Findings into Impressions | Raul Salles de Padua et al. | [2405.06802v1](http://arxiv.org/abs/2405.06802v1) | **NULL** |
-| **2024/05/10** | A Lightweight Transformer for Remote Sensing Image Change Captioning | Dongwei Sun et al. | [2405.06598v1](http://arxiv.org/abs/2405.06598v1) | **NULL** |
-| **2024/05/10** | ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data | Piyush Kumar Garg et al. | [2405.06541v1](http://arxiv.org/abs/2405.06541v1) | **NULL** |
-| **2024/05/10** | Compression-Realized Deep Structural Network for Video Quality Enhancement | Hanchi Sun et al. | [2405.06342v1](http://arxiv.org/abs/2405.06342v1) | **NULL** |
-| **2024/05/10** | Interpretable Multi-task Learning with Shared Variable Embeddings | Maciej Żelaszczyk et al. | [2405.06330v1](http://arxiv.org/abs/2405.06330v1) | **NULL** |
 
 ## 背景差分
 
@@ -105,6 +105,7 @@ layout: default
 | **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
 | **2023/10/25** | Spectral Background-Subtracted Activity Maps | Carsten Denker et al. | [2310.16747v1](http://arxiv.org/abs/2310.16747v1) | **NULL** |
 | **2023/10/12** | Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter | A. K. Yi et al. | [2310.07967v2](http://arxiv.org/abs/2310.07967v2) | **NULL** |
+| **2023/09/28** | The Hyper Suprime-Cam extended Point Spread Functions and applications | L. P. Garate-Nuñez et al. | [2309.16244v2](http://arxiv.org/abs/2309.16244v2) | [**link**](https://github.com/luciagarate/hsc_psfs) |
 | **2023/09/27** | Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction | Basit Alawode et al. | [2309.15576v1](http://arxiv.org/abs/2309.15576v1) | **NULL** |
 | **2023/09/15** | A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads | Zixuan Li et al. | [2309.08164v1](http://arxiv.org/abs/2309.08164v1) | **NULL** |
 | **2023/09/12** | Reference Frames and Black Hole Thermodynamics | Franco Fiorini et al. | [2309.06293v2](http://arxiv.org/abs/2309.06293v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
 | **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
 | **2023/05/16** | Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT | NEXT Collaboration et al. | [2305.09435v4](http://arxiv.org/abs/2305.09435v4) | **NULL** |
-| **2023/05/15** | Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment | Zahra Sattari et al. | [2305.09021v1](http://arxiv.org/abs/2305.09021v1) | **NULL** |
