@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/19 08:52:15
+> Updated on 2024/05/20 08:48:55
 
 <summary>Table of Contents</summary>
 
@@ -55,11 +55,11 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/05/16** | Quantum Vision Transformers for Quark-Gluon Classification | Marçal Comajoan Cara et al. | [2405.10284v1](http://arxiv.org/abs/2405.10284v1) | **NULL** |
 | **2024/05/16** | ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks | Zhehan Zhao et al. | [2405.10218v1](http://arxiv.org/abs/2405.10218v1) | **NULL** |
-| **2024/05/16** | AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion | Ziyu Gong et al. | [2405.10029v1](http://arxiv.org/abs/2405.10029v1) | **NULL** |
+| **2024/05/16** | AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion | Ziyu Gong et al. | [2405.10029v2](http://arxiv.org/abs/2405.10029v2) | **NULL** |
 | **2024/05/15** | Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling | Gil Serrano et al. | [2405.09428v1](http://arxiv.org/abs/2405.09428v1) | [**link**](https://github.com/GilSerrano/pinn-air) |
 | **2024/05/15** | Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images | Memoona Aziz et al. | [2405.09426v2](http://arxiv.org/abs/2405.09426v2) | **NULL** |
 | **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | **NULL** |
-| **2024/05/15** | An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding | Renqi Chen et al. | [2405.09585v1](http://arxiv.org/abs/2405.09585v1) | **NULL** |
+| **2024/05/15** | An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding | Renqi Chen et al. | [2405.09585v1](http://arxiv.org/abs/2405.09585v1) | [**link**](https://github.com/RenqiChen/Genomic-Selection) |
 | **2024/05/15** | HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition | Honghui Chen et al. | [2405.09125v1](http://arxiv.org/abs/2405.09125v1) | **NULL** |
 | **2024/05/15** | Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions | Hitoshi Yoshioka et al. | [2405.09081v1](http://arxiv.org/abs/2405.09081v1) | **NULL** |
 | **2024/05/14** | Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs | Edison Jair Bejarano Sepulveda et al. | [2405.08792v1](http://arxiv.org/abs/2405.08792v1) | **NULL** |
