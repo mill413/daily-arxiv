@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/21 08:48:11
+> Updated on 2024/05/22 08:48:24
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
@@ -43,19 +44,30 @@ layout: default
 | **2023/09/27** | Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps | Vipin Gautam et al. | [2309.15782v1](http://arxiv.org/abs/2309.15782v1) | **NULL** |
 | **2023/09/23** | Randomize to Generalize: Domain Randomization for Runway FOD Detection | Javaria Farooq et al. | [2309.13264v1](http://arxiv.org/abs/2309.13264v1) | **NULL** |
 | **2023/09/20** | Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection | Son The Nguyen et al. | [2309.11069v1](http://arxiv.org/abs/2309.11069v1) | **NULL** |
+| **2023/09/15** | OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction | Yupeng Jia et al. | [2309.08504v3](http://arxiv.org/abs/2309.08504v3) | **NULL** |
 | **2023/09/13** | Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances | Xiangrong Zhang et al. | [2309.06751v1](http://arxiv.org/abs/2309.06751v1) | **NULL** |
 | **2023/09/10** | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art | Aref Miri Rekavandi et al. | [2309.04902v1](http://arxiv.org/abs/2309.04902v1) | [**link**](https://github.com/arekavandi/transformer-sod) |
 | **2023/08/18** | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning | Xiang Yuan et al. | [2308.09534v1](http://arxiv.org/abs/2308.09534v1) | [**link**](https://github.com/shaunyuan22/cfinet) |
-| **2023/07/21** | BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation | Yosuke Shinya | [2307.11748v1](http://arxiv.org/abs/2307.11748v1) | [**link**](https://github.com/shinya7y/UniverseNet) |
-| **2023/07/18** | MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results | Yuki Kondo et al. | [2307.09143v1](http://arxiv.org/abs/2307.09143v1) | [**link**](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/20** | Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models | Tong Zeng et al. | [2405.12206v1](http://arxiv.org/abs/2405.12206v1) | [**link**](https://github.com/sciosci/cite-worthiness) |
+| **2024/05/20** | Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution | Xihaier Luo et al. | [2405.12202v1](http://arxiv.org/abs/2405.12202v1) | **NULL** |
+| **2024/05/20** | Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? | Yang Dai et al. | [2405.12094v1](http://arxiv.org/abs/2405.12094v1) | **NULL** |
+| **2024/05/20** | CSTA: CNN-based Spatiotemporal Attention for Video Summarization | Jaewon Son et al. | [2405.11905v2](http://arxiv.org/abs/2405.11905v2) | [**link**](https://github.com/thswodnjs3/CSTA) |
+| **2024/05/20** | Quality assurance of organs-at-risk delineation in radiotherapy | Yihao Zhao et al. | [2405.11732v1](http://arxiv.org/abs/2405.11732v1) | **NULL** |
+| **2024/05/19** | Attention to Quantum Complexity | Hyejin Kim et al. | [2405.11632v1](http://arxiv.org/abs/2405.11632v1) | **NULL** |
+| **2024/05/19** | VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting | Yingnan Yang et al. | [2405.11470v1](http://arxiv.org/abs/2405.11470v1) | **NULL** |
+| **2024/05/19** | Emphasizing Crucial Features for Efficient Image Restoration | Hu Gao et al. | [2405.11468v1](http://arxiv.org/abs/2405.11468v1) | [**link**](https://github.com/tombs98/ecfnet) |
+| **2024/05/18** | Hierarchical Reinforcement Learning Empowered Task Offloading in V2I Networks | Xinyu You et al. | [2405.11352v1](http://arxiv.org/abs/2405.11352v1) | **NULL** |
+| **2024/05/18** | A Dual Power Grid Cascading Failure Model for the Vulnerability Analysis | Tianxin Zhou et al. | [2405.11311v1](http://arxiv.org/abs/2405.11311v1) | **NULL** |
+| **2024/05/18** | Predicting and Explaining Hearing Aid Usage Using Encoder-Decoder with Attention Mechanism and SHAP | Qiqi Su et al. | [2405.11275v1](http://arxiv.org/abs/2405.11275v1) | **NULL** |
+| **2024/05/17** | ARDDQN: Attention Recurrent Double Deep Q-Network for UAV Coverage Path Planning and Data Harvesting | Praveen Kumar et al. | [2405.11013v1](http://arxiv.org/abs/2405.11013v1) | **NULL** |
 | **2024/05/17** | CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion | Gang Wang et al. | [2405.10793v1](http://arxiv.org/abs/2405.10793v1) | **NULL** |
 | **2024/05/17** | Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix | Jixun Yao et al. | [2405.10786v1](http://arxiv.org/abs/2405.10786v1) | **NULL** |
-| **2024/05/17** | HARIS: Human-Like Attention for Reference Image Segmentation | Mengxi Zhang et al. | [2405.10707v1](http://arxiv.org/abs/2405.10707v1) | **NULL** |
+| **2024/05/17** | HARIS: Human-Like Attention for Reference Image Segmentation | Mengxi Zhang et al. | [2405.10707v2](http://arxiv.org/abs/2405.10707v2) | **NULL** |
 | **2024/05/17** | Know in AdVance: Linear-Complexity Forecasting of Ad Campaign Performance with Evolving User Interest | XiaoYu Wang et al. | [2405.10681v1](http://arxiv.org/abs/2405.10681v1) | [**link**](https://github.com/anonymousauthor113/cpf) |
 | **2024/05/17** | Layer-Condensed KV Cache for Efficient Inference of Large Language Models | Haoyi Wu et al. | [2405.10637v1](http://arxiv.org/abs/2405.10637v1) | [**link**](https://github.com/whyNLP/LCKV) |
 | **2024/05/17** | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Zikun Zhou et al. | [2405.10610v1](http://arxiv.org/abs/2405.10610v1) | **NULL** |
@@ -63,26 +75,14 @@ layout: default
 | **2024/05/17** | Defect Category Prediction Based on Multi-Source Domain Adaptation | Ying Xing et al. | [2405.10511v1](http://arxiv.org/abs/2405.10511v1) | **NULL** |
 | **2024/05/17** | Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers | Rya Sanovar et al. | [2405.10480v1](http://arxiv.org/abs/2405.10480v1) | **NULL** |
 | **2024/05/16** | Quantum Vision Transformers for Quark-Gluon Classification | Marçal Comajoan Cara et al. | [2405.10284v1](http://arxiv.org/abs/2405.10284v1) | [**link**](https://github.com/salcc/QuantumTransformers) |
+| **2024/05/16** | Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation | Guojun Liang et al. | [2405.10995v1](http://arxiv.org/abs/2405.10995v1) | [**link**](https://github.com/gorgen2020/hspgnn) |
 | **2024/05/16** | ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks | Zhehan Zhao et al. | [2405.10218v1](http://arxiv.org/abs/2405.10218v1) | **NULL** |
 | **2024/05/16** | AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion | Ziyu Gong et al. | [2405.10029v2](http://arxiv.org/abs/2405.10029v2) | **NULL** |
 | **2024/05/15** | Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling | Gil Serrano et al. | [2405.09428v1](http://arxiv.org/abs/2405.09428v1) | [**link**](https://github.com/GilSerrano/pinn-air) |
 | **2024/05/15** | Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images | Memoona Aziz et al. | [2405.09426v2](http://arxiv.org/abs/2405.09426v2) | **NULL** |
-| **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | **NULL** |
+| **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | [**link**](https://github.com/junfeng-chen/position_induced_transformer) |
 | **2024/05/15** | An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding | Renqi Chen et al. | [2405.09585v2](http://arxiv.org/abs/2405.09585v2) | [**link**](https://github.com/RenqiChen/Genomic-Selection) |
 | **2024/05/15** | HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition | Honghui Chen et al. | [2405.09125v1](http://arxiv.org/abs/2405.09125v1) | **NULL** |
-| **2024/05/15** | Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions | Hitoshi Yoshioka et al. | [2405.09081v1](http://arxiv.org/abs/2405.09081v1) | **NULL** |
-| **2024/05/14** | Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs | Edison Jair Bejarano Sepulveda et al. | [2405.08792v1](http://arxiv.org/abs/2405.08792v1) | **NULL** |
-| **2024/05/14** | Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory | Xueyan Niu et al. | [2405.08707v1](http://arxiv.org/abs/2405.08707v1) | **NULL** |
-| **2024/05/14** | Open-Vocabulary Object Detection via Neighboring Region Attention Alignment | Sunyuan Qiang et al. | [2405.08593v1](http://arxiv.org/abs/2405.08593v1) | **NULL** |
-| **2024/05/14** | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | Qinshuo Liu et al. | [2405.08440v1](http://arxiv.org/abs/2405.08440v1) | **NULL** |
-| **2024/05/14** | NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution | Yihong Chen et al. | [2405.08423v1](http://arxiv.org/abs/2405.08423v1) | **NULL** |
-| **2024/05/14** | WaterMamba: Visual State Space Model for Underwater Image Enhancement | Meisheng Guan et al. | [2405.08419v1](http://arxiv.org/abs/2405.08419v1) | **NULL** |
-| **2024/05/14** | Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach | Yaju Liu et al. | [2405.08328v1](http://arxiv.org/abs/2405.08328v1) | **NULL** |
-| **2024/05/13** | MambaOut: Do We Really Need Mamba for Vision? | Weihao Yu et al. | [2405.07992v2](http://arxiv.org/abs/2405.07992v2) | [**link**](https://github.com/yuweihao/mambaout) |
-| **2024/05/13** | Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network | Shulei Qu et al. | [2405.07845v1](http://arxiv.org/abs/2405.07845v1) | **NULL** |
-| **2024/05/13** | MADRL-Based Rate Adaptation for 360° Video Streaming with Multi-Viewpoint Prediction | Haopeng Wang et al. | [2405.07759v2](http://arxiv.org/abs/2405.07759v2) | **NULL** |
-| **2024/05/13** | DynLLM: When Large Language Models Meet Dynamic Graph Recommendation | Ziwei Zhao et al. | [2405.07580v1](http://arxiv.org/abs/2405.07580v1) | **NULL** |
-| **2024/05/13** | A frequency-domain enhanced multi-view network for metal fatigue life prediction | Shuonan Chen et al. | [2405.07507v2](http://arxiv.org/abs/2405.07507v2) | **NULL** |
 
 ## 背景差分
 
