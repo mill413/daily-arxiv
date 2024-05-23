@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/22 08:48:24
+> Updated on 2024/05/23 08:48:07
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/21** | OmniGlue: Generalizable Feature Matching with Foundation Model Guidance | Hanwen Jiang et al. | [2405.12979v1](http://arxiv.org/abs/2405.12979v1) | **NULL** |
+| **2024/05/21** | AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection | Zizhao Chen et al. | [2405.12944v1](http://arxiv.org/abs/2405.12944v1) | [**link**](https://github.com/bigD233/AMFD) |
+| **2024/05/21** | DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | Hong Chen et al. | [2405.12796v1](http://arxiv.org/abs/2405.12796v1) | **NULL** |
+| **2024/05/21** | Transformer in Touch: A Survey | Jing Gao et al. | [2405.12779v1](http://arxiv.org/abs/2405.12779v1) | **NULL** |
+| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v1](http://arxiv.org/abs/2405.12609v1) | **NULL** |
+| **2024/05/21** | GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems | Zhenwei Wang et al. | [2405.12475v1](http://arxiv.org/abs/2405.12475v1) | **NULL** |
+| **2024/05/21** | Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting | Zhicheng Zhang et al. | [2405.12462v1](http://arxiv.org/abs/2405.12462v1) | **NULL** |
+| **2024/05/21** | Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference | Yonghao Liu et al. | [2405.12434v1](http://arxiv.org/abs/2405.12434v1) | **NULL** |
+| **2024/05/20** | Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction | Feilong Jiang et al. | [2405.12377v1](http://arxiv.org/abs/2405.12377v1) | **NULL** |
+| **2024/05/20** | Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation | Wentao Wang et al. | [2405.12328v1](http://arxiv.org/abs/2405.12328v1) | **NULL** |
+| **2024/05/20** | Hierarchical SegNet with Channel and Context Attention for Accurate Lung Segmentation in Chest X-ray Images | Mohammad Ali Labbaf Khaniki et al. | [2405.12318v1](http://arxiv.org/abs/2405.12318v1) | **NULL** |
 | **2024/05/20** | Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models | Tong Zeng et al. | [2405.12206v1](http://arxiv.org/abs/2405.12206v1) | [**link**](https://github.com/sciosci/cite-worthiness) |
 | **2024/05/20** | Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution | Xihaier Luo et al. | [2405.12202v1](http://arxiv.org/abs/2405.12202v1) | **NULL** |
 | **2024/05/20** | Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? | Yang Dai et al. | [2405.12094v1](http://arxiv.org/abs/2405.12094v1) | **NULL** |
@@ -72,22 +83,12 @@ layout: default
 | **2024/05/17** | Layer-Condensed KV Cache for Efficient Inference of Large Language Models | Haoyi Wu et al. | [2405.10637v1](http://arxiv.org/abs/2405.10637v1) | [**link**](https://github.com/whyNLP/LCKV) |
 | **2024/05/17** | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Zikun Zhou et al. | [2405.10610v1](http://arxiv.org/abs/2405.10610v1) | **NULL** |
 | **2024/05/17** | ECATS: Explainable-by-design concept-based anomaly detection for time series | Irene Ferfoglia et al. | [2405.10608v1](http://arxiv.org/abs/2405.10608v1) | **NULL** |
-| **2024/05/17** | Defect Category Prediction Based on Multi-Source Domain Adaptation | Ying Xing et al. | [2405.10511v1](http://arxiv.org/abs/2405.10511v1) | **NULL** |
-| **2024/05/17** | Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers | Rya Sanovar et al. | [2405.10480v1](http://arxiv.org/abs/2405.10480v1) | **NULL** |
-| **2024/05/16** | Quantum Vision Transformers for Quark-Gluon Classification | Marçal Comajoan Cara et al. | [2405.10284v1](http://arxiv.org/abs/2405.10284v1) | [**link**](https://github.com/salcc/QuantumTransformers) |
-| **2024/05/16** | Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation | Guojun Liang et al. | [2405.10995v1](http://arxiv.org/abs/2405.10995v1) | [**link**](https://github.com/gorgen2020/hspgnn) |
-| **2024/05/16** | ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks | Zhehan Zhao et al. | [2405.10218v1](http://arxiv.org/abs/2405.10218v1) | **NULL** |
-| **2024/05/16** | AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion | Ziyu Gong et al. | [2405.10029v2](http://arxiv.org/abs/2405.10029v2) | **NULL** |
-| **2024/05/15** | Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling | Gil Serrano et al. | [2405.09428v1](http://arxiv.org/abs/2405.09428v1) | [**link**](https://github.com/GilSerrano/pinn-air) |
-| **2024/05/15** | Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images | Memoona Aziz et al. | [2405.09426v2](http://arxiv.org/abs/2405.09426v2) | **NULL** |
-| **2024/05/15** | Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning | Junfeng Chen et al. | [2405.09285v1](http://arxiv.org/abs/2405.09285v1) | [**link**](https://github.com/junfeng-chen/position_induced_transformer) |
-| **2024/05/15** | An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding | Renqi Chen et al. | [2405.09585v2](http://arxiv.org/abs/2405.09585v2) | [**link**](https://github.com/RenqiChen/Genomic-Selection) |
-| **2024/05/15** | HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition | Honghui Chen et al. | [2405.09125v1](http://arxiv.org/abs/2405.09125v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Zbigniew Was | [2405.12570v1](http://arxiv.org/abs/2405.12570v1) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/05/26** | Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS | Michael Radica et al. | [2305.17001v2](http://arxiv.org/abs/2305.17001v2) | **NULL** |
 | **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
 | **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
-| **2023/05/16** | Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT | NEXT Collaboration et al. | [2305.09435v4](http://arxiv.org/abs/2305.09435v4) | **NULL** |
