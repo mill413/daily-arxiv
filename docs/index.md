@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/23 08:48:07
+> Updated on 2024/05/24 08:48:30
 
 <summary>Table of Contents</summary>
 
@@ -57,9 +57,9 @@ layout: default
 | **2024/05/21** | AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection | Zizhao Chen et al. | [2405.12944v1](http://arxiv.org/abs/2405.12944v1) | [**link**](https://github.com/bigD233/AMFD) |
 | **2024/05/21** | DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | Hong Chen et al. | [2405.12796v1](http://arxiv.org/abs/2405.12796v1) | **NULL** |
 | **2024/05/21** | Transformer in Touch: A Survey | Jing Gao et al. | [2405.12779v1](http://arxiv.org/abs/2405.12779v1) | **NULL** |
-| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v1](http://arxiv.org/abs/2405.12609v1) | **NULL** |
+| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v2](http://arxiv.org/abs/2405.12609v2) | **NULL** |
 | **2024/05/21** | GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems | Zhenwei Wang et al. | [2405.12475v1](http://arxiv.org/abs/2405.12475v1) | **NULL** |
-| **2024/05/21** | Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting | Zhicheng Zhang et al. | [2405.12462v1](http://arxiv.org/abs/2405.12462v1) | **NULL** |
+| **2024/05/21** | Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting | Zhicheng Zhang et al. | [2405.12462v2](http://arxiv.org/abs/2405.12462v2) | **NULL** |
 | **2024/05/21** | Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference | Yonghao Liu et al. | [2405.12434v1](http://arxiv.org/abs/2405.12434v1) | **NULL** |
 | **2024/05/20** | Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction | Feilong Jiang et al. | [2405.12377v1](http://arxiv.org/abs/2405.12377v1) | **NULL** |
 | **2024/05/20** | Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation | Wentao Wang et al. | [2405.12328v1](http://arxiv.org/abs/2405.12328v1) | **NULL** |
