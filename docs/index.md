@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/26 08:53:07
+> Updated on 2024/05/27 08:50:07
 
 <summary>Table of Contents</summary>
 
@@ -76,7 +76,7 @@ layout: default
 | **2024/05/21** | AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection | Zizhao Chen et al. | [2405.12944v1](http://arxiv.org/abs/2405.12944v1) | [**link**](https://github.com/bigD233/AMFD) |
 | **2024/05/21** | DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | Hong Chen et al. | [2405.12796v1](http://arxiv.org/abs/2405.12796v1) | **NULL** |
 | **2024/05/21** | Transformer in Touch: A Survey | Jing Gao et al. | [2405.12779v1](http://arxiv.org/abs/2405.12779v1) | **NULL** |
-| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v2](http://arxiv.org/abs/2405.12609v2) | **NULL** |
+| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v3](http://arxiv.org/abs/2405.12609v3) | **NULL** |
 | **2024/05/21** | GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems | Zhenwei Wang et al. | [2405.12475v1](http://arxiv.org/abs/2405.12475v1) | **NULL** |
 | **2024/05/21** | Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting | Zhicheng Zhang et al. | [2405.12462v2](http://arxiv.org/abs/2405.12462v2) | [**link**](https://github.com/newbeezzc/MonarchAttn) |
 | **2024/05/21** | Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation | S. Zhang et al. | [2405.13075v1](http://arxiv.org/abs/2405.13075v1) | **NULL** |
