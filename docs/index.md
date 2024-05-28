@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/27 08:50:07
+> Updated on 2024/05/28 08:49:29
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/24** | Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration | Gao Tianci | [2405.15562v1](http://arxiv.org/abs/2405.15562v1) | **NULL** |
+| **2024/05/24** | SEP: Self-Enhanced Prompt Tuning for Visual-Language Model | Hantao Yao et al. | [2405.15549v1](http://arxiv.org/abs/2405.15549v1) | [**link**](https://github.com/htyao89/sep) |
+| **2024/05/24** | Towards Precision Healthcare: Robust Fusion of Time Series and Image Data | Ali Rasekh et al. | [2405.15442v1](http://arxiv.org/abs/2405.15442v1) | **NULL** |
+| **2024/05/24** | BiSup: Bidirectional Quantization Error Suppression for Large Language Models | Minghui Zou et al. | [2405.15346v1](http://arxiv.org/abs/2405.15346v1) | **NULL** |
+| **2024/05/24** | Enhancing Generalized Fetal Brain MRI Segmentation using A Cascade Network with Depth-wise Separable Convolution and Attention Mechanism | Zhigao Cai et al. | [2405.15205v1](http://arxiv.org/abs/2405.15205v1) | **NULL** |
+| **2024/05/23** | Linking In-context Learning in Transformers to Human Episodic Memory | Li Ji-An et al. | [2405.14992v1](http://arxiv.org/abs/2405.14992v1) | **NULL** |
 | **2024/05/23** | Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images | Jamie Burke et al. | [2405.14453v1](http://arxiv.org/abs/2405.14453v1) | **NULL** |
 | **2024/05/23** | LARS-VSA: A Vector Symbolic Architecture For Learning with Abstract Rules | Mohamed Mejri et al. | [2405.14436v1](http://arxiv.org/abs/2405.14436v1) | **NULL** |
 | **2024/05/23** | M2ANET: Mobile Malaria Attention Network for efficient classification of plasmodium parasites in blood cells | Salam Ahmed Ali et al. | [2405.14242v1](http://arxiv.org/abs/2405.14242v1) | **NULL** |
@@ -65,24 +71,18 @@ layout: default
 | **2024/05/22** | A Transformer variant for multi-step forecasting of water level and hydrometeorological sensitivity analysis based on explainable artificial intelligence technology | Mingyu Liu et al. | [2405.13646v1](http://arxiv.org/abs/2405.13646v1) | **NULL** |
 | **2024/05/22** | PDMLP: Patch-based Decomposed MLP for Long-Term Time Series Forecastin | Peiwang Tang et al. | [2405.13575v1](http://arxiv.org/abs/2405.13575v1) | **NULL** |
 | **2024/05/22** | Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers | Tobias Leemann et al. | [2405.13536v1](http://arxiv.org/abs/2405.13536v1) | **NULL** |
-| **2024/05/22** | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | Zhijian Xu et al. | [2405.13522v1](http://arxiv.org/abs/2405.13522v1) | **NULL** |
+| **2024/05/22** | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | Zhijian Xu et al. | [2405.13522v2](http://arxiv.org/abs/2405.13522v2) | [**link**](https://github.com/vewoxic/tgtsf) |
 | **2024/05/22** | Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification | Yixiong Chen et al. | [2405.13515v1](http://arxiv.org/abs/2405.13515v1) | **NULL** |
 | **2024/05/22** | Low-Resolution Chest X-ray Classification via Knowledge Distillation and Multi-task Learning | Yasmeena Akhter et al. | [2405.13370v1](http://arxiv.org/abs/2405.13370v1) | **NULL** |
 | **2024/05/22** | Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer | Qihang Fan et al. | [2405.13337v1](http://arxiv.org/abs/2405.13337v1) | **NULL** |
 | **2024/05/22** | Hybrid Multihead Attentive Unet-3D for Brain Tumor Segmentation | Muhammad Ansab Butt et al. | [2405.13304v1](http://arxiv.org/abs/2405.13304v1) | **NULL** |
 | **2024/05/21** | Equipping Transformer with Random-Access Reading for Long-Context Understanding | Chenghao Yang et al. | [2405.13216v1](http://arxiv.org/abs/2405.13216v1) | **NULL** |
-| **2024/05/21** | Enhancing Interaction Modeling with Agent Selection and Physical Methods for Trajectory Prediction | Shiji Huang et al. | [2405.13152v1](http://arxiv.org/abs/2405.13152v1) | **NULL** |
-| **2024/05/21** | OmniGlue: Generalizable Feature Matching with Foundation Model Guidance | Hanwen Jiang et al. | [2405.12979v1](http://arxiv.org/abs/2405.12979v1) | **NULL** |
+| **2024/05/21** | Enhancing Interaction Modeling with Agent Selection and Physical Methods for Trajectory Prediction | Shiji Huang et al. | [2405.13152v1](http://arxiv.org/abs/2405.13152v1) | [**link**](https://github.com/kkk00714/ASPILin) |
+| **2024/05/21** | OmniGlue: Generalizable Feature Matching with Foundation Model Guidance | Hanwen Jiang et al. | [2405.12979v1](http://arxiv.org/abs/2405.12979v1) | [**link**](https://github.com/google-research/omniglue) |
 | **2024/05/21** | AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection | Zizhao Chen et al. | [2405.12944v1](http://arxiv.org/abs/2405.12944v1) | [**link**](https://github.com/bigD233/AMFD) |
 | **2024/05/21** | DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | Hong Chen et al. | [2405.12796v1](http://arxiv.org/abs/2405.12796v1) | **NULL** |
 | **2024/05/21** | Transformer in Touch: A Survey | Jing Gao et al. | [2405.12779v1](http://arxiv.org/abs/2405.12779v1) | **NULL** |
 | **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v3](http://arxiv.org/abs/2405.12609v3) | **NULL** |
-| **2024/05/21** | GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems | Zhenwei Wang et al. | [2405.12475v1](http://arxiv.org/abs/2405.12475v1) | **NULL** |
-| **2024/05/21** | Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting | Zhicheng Zhang et al. | [2405.12462v2](http://arxiv.org/abs/2405.12462v2) | [**link**](https://github.com/newbeezzc/MonarchAttn) |
-| **2024/05/21** | Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation | S. Zhang et al. | [2405.13075v1](http://arxiv.org/abs/2405.13075v1) | **NULL** |
-| **2024/05/21** | Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference | Yonghao Liu et al. | [2405.12434v1](http://arxiv.org/abs/2405.12434v1) | **NULL** |
-| **2024/05/20** | Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction | Feilong Jiang et al. | [2405.12377v1](http://arxiv.org/abs/2405.12377v1) | **NULL** |
-| **2024/05/20** | Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation | Wentao Wang et al. | [2405.12328v1](http://arxiv.org/abs/2405.12328v1) | **NULL** |
 
 ## 背景差分
 
