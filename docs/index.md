@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/28 08:49:29
+> Updated on 2024/05/29 08:52:32
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/27** | GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction | Yuanhui Huang et al. | [2405.17429v1](http://arxiv.org/abs/2405.17429v1) | [**link**](https://github.com/huang-yh/gaussianformer) |
+| **2024/05/27** | Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control | Zhengfei Kuang et al. | [2405.17414v1](http://arxiv.org/abs/2405.17414v1) | **NULL** |
+| **2024/05/27** | Are Self-Attentions Effective for Time Series Forecasting? | Dongbin Kim et al. | [2405.16877v1](http://arxiv.org/abs/2405.16877v1) | **NULL** |
+| **2024/05/27** | Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation | Shuijing Liu et al. | [2405.16830v2](http://arxiv.org/abs/2405.16830v2) | **NULL** |
+| **2024/05/27** | CARL: A Framework for Equivariant Image Registration | Hastings Greer et al. | [2405.16738v1](http://arxiv.org/abs/2405.16738v1) | **NULL** |
+| **2024/05/26** | Disentangling and Integrating Relational and Sensory Information in Transformer Architectures | Awni Altabaa et al. | [2405.16727v1](http://arxiv.org/abs/2405.16727v1) | **NULL** |
+| **2024/05/26** | Compressing Lengthy Context With UltraGist | Peitian Zhang et al. | [2405.16635v1](http://arxiv.org/abs/2405.16635v1) | [**link**](https://github.com/namespace-pt/ultragist) |
+| **2024/05/26** | Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model | Yang Cao et al. | [2405.16542v1](http://arxiv.org/abs/2405.16542v1) | **NULL** |
+| **2024/05/26** | PPRSteg: Printing and Photography Robust QR Code Steganography via Attention Flow-Based Model | Huayuan Ye et al. | [2405.16414v1](http://arxiv.org/abs/2405.16414v1) | **NULL** |
+| **2024/05/25** | Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning | Linsen Li et al. | [2405.16380v1](http://arxiv.org/abs/2405.16380v1) | **NULL** |
+| **2024/05/25** | DAFFNet: A Dual Attention Feature Fusion Network for Classification of White Blood Cells | Yuzhuo Chen et al. | [2405.16220v1](http://arxiv.org/abs/2405.16220v1) | **NULL** |
+| **2024/05/25** | Transformer Meets Gated Residual Networks To Enhance Photoplethysmogram Artifact Detection Informed by Mutual Information Neural Estimation | Thanh-Dung Le | [2405.16177v1](http://arxiv.org/abs/2405.16177v1) | **NULL** |
+| **2024/05/25** | Design and Implementation of an Emotion Analysis System Based on EEG Signals | Zhang Yutian et al. | [2405.16121v1](http://arxiv.org/abs/2405.16121v1) | **NULL** |
+| **2024/05/25** | Multi-scale Quaternion CNN and BiGRU with Cross Self-attention Feature Fusion for Fault Diagnosis of Bearing | Huanbai Liu et al. | [2405.16114v1](http://arxiv.org/abs/2405.16114v1) | [**link**](https://github.com/mubai011/MQCCAF) |
+| **2024/05/25** | Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion | Zizhao Hu et al. | [2405.16098v1](http://arxiv.org/abs/2405.16098v1) | [**link**](https://github.com/zizhao-hu/l-mlp) |
+| **2024/05/25** | Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models | Zhenzhong Wang et al. | [2405.16041v1](http://arxiv.org/abs/2405.16041v1) | **NULL** |
+| **2024/05/24** | Activator: GLU Activations as The Core Functions of a Vision Transformer | Abdullah Nazhat Abdullah et al. | [2405.15953v1](http://arxiv.org/abs/2405.15953v1) | [**link**](https://github.com/Abdullah-88/Activator) |
+| **2024/05/24** | Steerable Transformers | Soumyabrata Kundu et al. | [2405.15932v1](http://arxiv.org/abs/2405.15932v1) | **NULL** |
+| **2024/05/24** | UnitNorm: Rethinking Normalization for Transformers in Time Series | Nan Huang et al. | [2405.15903v1](http://arxiv.org/abs/2405.15903v1) | **NULL** |
+| **2024/05/24** | Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation | Shentong Mo et al. | [2405.15881v1](http://arxiv.org/abs/2405.15881v1) | **NULL** |
+| **2024/05/24** | Extended Reality (XR) Codec Adaptation in 5G using Multi-Agent Reinforcement Learning with Attention Action Selection | Pedro Enrique Iturria-Rivera et al. | [2405.15872v1](http://arxiv.org/abs/2405.15872v1) | **NULL** |
 | **2024/05/24** | Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration | Gao Tianci | [2405.15562v1](http://arxiv.org/abs/2405.15562v1) | **NULL** |
 | **2024/05/24** | SEP: Self-Enhanced Prompt Tuning for Visual-Language Model | Hantao Yao et al. | [2405.15549v1](http://arxiv.org/abs/2405.15549v1) | [**link**](https://github.com/htyao89/sep) |
 | **2024/05/24** | Towards Precision Healthcare: Robust Fusion of Time Series and Image Data | Ali Rasekh et al. | [2405.15442v1](http://arxiv.org/abs/2405.15442v1) | **NULL** |
@@ -62,32 +83,12 @@ layout: default
 | **2024/05/23** | Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images | Jamie Burke et al. | [2405.14453v1](http://arxiv.org/abs/2405.14453v1) | **NULL** |
 | **2024/05/23** | LARS-VSA: A Vector Symbolic Architecture For Learning with Abstract Rules | Mohamed Mejri et al. | [2405.14436v1](http://arxiv.org/abs/2405.14436v1) | **NULL** |
 | **2024/05/23** | M2ANET: Mobile Malaria Attention Network for efficient classification of plasmodium parasites in blood cells | Salam Ahmed Ali et al. | [2405.14242v1](http://arxiv.org/abs/2405.14242v1) | **NULL** |
-| **2024/05/23** | Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation | Zhusi Zhong et al. | [2405.14113v1](http://arxiv.org/abs/2405.14113v1) | **NULL** |
-| **2024/05/23** | Enhancing Image Layout Control with Loss-Guided Diffusion Models | Zakaria Patel et al. | [2405.14101v1](http://arxiv.org/abs/2405.14101v1) | **NULL** |
-| **2024/05/23** | Attending to Topological Spaces: The Cellular Transformer | Rubén Ballester et al. | [2405.14094v1](http://arxiv.org/abs/2405.14094v1) | **NULL** |
-| **2024/05/22** | I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling | Omer F. Atli et al. | [2405.14022v1](http://arxiv.org/abs/2405.14022v1) | **NULL** |
-| **2024/05/22** | RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar | Fangqiang Ding et al. | [2405.14014v1](http://arxiv.org/abs/2405.14014v1) | **NULL** |
-| **2024/05/22** | DCT-Based Decorrelated Attention for Vision Transformers | Hongyi Pan et al. | [2405.13901v1](http://arxiv.org/abs/2405.13901v1) | **NULL** |
-| **2024/05/22** | A Transformer variant for multi-step forecasting of water level and hydrometeorological sensitivity analysis based on explainable artificial intelligence technology | Mingyu Liu et al. | [2405.13646v1](http://arxiv.org/abs/2405.13646v1) | **NULL** |
-| **2024/05/22** | PDMLP: Patch-based Decomposed MLP for Long-Term Time Series Forecastin | Peiwang Tang et al. | [2405.13575v1](http://arxiv.org/abs/2405.13575v1) | **NULL** |
-| **2024/05/22** | Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers | Tobias Leemann et al. | [2405.13536v1](http://arxiv.org/abs/2405.13536v1) | **NULL** |
-| **2024/05/22** | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | Zhijian Xu et al. | [2405.13522v2](http://arxiv.org/abs/2405.13522v2) | [**link**](https://github.com/vewoxic/tgtsf) |
-| **2024/05/22** | Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification | Yixiong Chen et al. | [2405.13515v1](http://arxiv.org/abs/2405.13515v1) | **NULL** |
-| **2024/05/22** | Low-Resolution Chest X-ray Classification via Knowledge Distillation and Multi-task Learning | Yasmeena Akhter et al. | [2405.13370v1](http://arxiv.org/abs/2405.13370v1) | **NULL** |
-| **2024/05/22** | Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer | Qihang Fan et al. | [2405.13337v1](http://arxiv.org/abs/2405.13337v1) | **NULL** |
-| **2024/05/22** | Hybrid Multihead Attentive Unet-3D for Brain Tumor Segmentation | Muhammad Ansab Butt et al. | [2405.13304v1](http://arxiv.org/abs/2405.13304v1) | **NULL** |
-| **2024/05/21** | Equipping Transformer with Random-Access Reading for Long-Context Understanding | Chenghao Yang et al. | [2405.13216v1](http://arxiv.org/abs/2405.13216v1) | **NULL** |
-| **2024/05/21** | Enhancing Interaction Modeling with Agent Selection and Physical Methods for Trajectory Prediction | Shiji Huang et al. | [2405.13152v1](http://arxiv.org/abs/2405.13152v1) | [**link**](https://github.com/kkk00714/ASPILin) |
-| **2024/05/21** | OmniGlue: Generalizable Feature Matching with Foundation Model Guidance | Hanwen Jiang et al. | [2405.12979v1](http://arxiv.org/abs/2405.12979v1) | [**link**](https://github.com/google-research/omniglue) |
-| **2024/05/21** | AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection | Zizhao Chen et al. | [2405.12944v1](http://arxiv.org/abs/2405.12944v1) | [**link**](https://github.com/bigD233/AMFD) |
-| **2024/05/21** | DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control | Hong Chen et al. | [2405.12796v1](http://arxiv.org/abs/2405.12796v1) | **NULL** |
-| **2024/05/21** | Transformer in Touch: A Survey | Jing Gao et al. | [2405.12779v1](http://arxiv.org/abs/2405.12779v1) | **NULL** |
-| **2024/05/21** | Mamba in Speech: Towards an Alternative to Self-Attention | Xiangyu Zhang et al. | [2405.12609v3](http://arxiv.org/abs/2405.12609v3) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Zbigniew Was | [2405.12570v1](http://arxiv.org/abs/2405.12570v1) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/05/29** | Human Body Shape Classification Based on a Single Image | Cameron Trotter et al. | [2305.18480v1](http://arxiv.org/abs/2305.18480v1) | **NULL** |
 | **2023/05/26** | Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS | Michael Radica et al. | [2305.17001v2](http://arxiv.org/abs/2305.17001v2) | **NULL** |
 | **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
-| **2023/05/19** | SIDAR: Synthetic Image Dataset for Alignment & Restoration | Monika Kwiatkowski et al. | [2305.12036v1](http://arxiv.org/abs/2305.12036v1) | [**link**](https://github.com/niika/SIDAR) |
