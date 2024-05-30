@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/29 08:52:32
+> Updated on 2024/05/30 08:49:16
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/28** | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | Ioanna Gogou et al. | [2405.18387v1](http://arxiv.org/abs/2405.18387v1) | [**link**](https://github.com/joangog/object-detection) |
+| **2024/05/28** | Delving into Differentially Private Transformer | Youlong Ding et al. | [2405.18194v2](http://arxiv.org/abs/2405.18194v2) | **NULL** |
+| **2024/05/28** | AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario | Yuhan Li et al. | [2405.18172v1](http://arxiv.org/abs/2405.18172v1) | **NULL** |
+| **2024/05/28** | Efficient Time Series Processing for Transformers and State-Space Models through Token Merging | Leon Götz et al. | [2405.17951v1](http://arxiv.org/abs/2405.17951v1) | **NULL** |
+| **2024/05/28** | Cycle-YOLO: A Efficient and Robust Framework for Pavement Damage Detection | Zhengji Li et al. | [2405.17905v1](http://arxiv.org/abs/2405.17905v1) | **NULL** |
+| **2024/05/28** | Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion | Hongze Sun et al. | [2405.17903v1](http://arxiv.org/abs/2405.17903v1) | **NULL** |
 | **2024/05/27** | GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction | Yuanhui Huang et al. | [2405.17429v1](http://arxiv.org/abs/2405.17429v1) | [**link**](https://github.com/huang-yh/gaussianformer) |
 | **2024/05/27** | Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control | Zhengfei Kuang et al. | [2405.17414v1](http://arxiv.org/abs/2405.17414v1) | **NULL** |
 | **2024/05/27** | Are Self-Attentions Effective for Time Series Forecasting? | Dongbin Kim et al. | [2405.16877v1](http://arxiv.org/abs/2405.16877v1) | **NULL** |
 | **2024/05/27** | Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation | Shuijing Liu et al. | [2405.16830v2](http://arxiv.org/abs/2405.16830v2) | **NULL** |
-| **2024/05/27** | CARL: A Framework for Equivariant Image Registration | Hastings Greer et al. | [2405.16738v1](http://arxiv.org/abs/2405.16738v1) | **NULL** |
+| **2024/05/27** | CARL: A Framework for Equivariant Image Registration | Hastings Greer et al. | [2405.16738v2](http://arxiv.org/abs/2405.16738v2) | **NULL** |
 | **2024/05/26** | Disentangling and Integrating Relational and Sensory Information in Transformer Architectures | Awni Altabaa et al. | [2405.16727v1](http://arxiv.org/abs/2405.16727v1) | **NULL** |
 | **2024/05/26** | Compressing Lengthy Context With UltraGist | Peitian Zhang et al. | [2405.16635v1](http://arxiv.org/abs/2405.16635v1) | [**link**](https://github.com/namespace-pt/ultragist) |
 | **2024/05/26** | Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model | Yang Cao et al. | [2405.16542v1](http://arxiv.org/abs/2405.16542v1) | **NULL** |
@@ -71,23 +77,18 @@ layout: default
 | **2024/05/25** | Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models | Zhenzhong Wang et al. | [2405.16041v1](http://arxiv.org/abs/2405.16041v1) | **NULL** |
 | **2024/05/24** | Activator: GLU Activations as The Core Functions of a Vision Transformer | Abdullah Nazhat Abdullah et al. | [2405.15953v1](http://arxiv.org/abs/2405.15953v1) | [**link**](https://github.com/Abdullah-88/Activator) |
 | **2024/05/24** | Steerable Transformers | Soumyabrata Kundu et al. | [2405.15932v1](http://arxiv.org/abs/2405.15932v1) | **NULL** |
+| **2024/05/24** | Pattern-Based Time-Series Risk Scoring for Anomaly Detection and Alert Filtering -- A Predictive Maintenance Case Study | Elad Liebman | [2405.17488v1](http://arxiv.org/abs/2405.17488v1) | **NULL** |
 | **2024/05/24** | UnitNorm: Rethinking Normalization for Transformers in Time Series | Nan Huang et al. | [2405.15903v1](http://arxiv.org/abs/2405.15903v1) | **NULL** |
 | **2024/05/24** | Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation | Shentong Mo et al. | [2405.15881v1](http://arxiv.org/abs/2405.15881v1) | **NULL** |
 | **2024/05/24** | Extended Reality (XR) Codec Adaptation in 5G using Multi-Agent Reinforcement Learning with Attention Action Selection | Pedro Enrique Iturria-Rivera et al. | [2405.15872v1](http://arxiv.org/abs/2405.15872v1) | **NULL** |
 | **2024/05/24** | Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration | Gao Tianci | [2405.15562v1](http://arxiv.org/abs/2405.15562v1) | **NULL** |
 | **2024/05/24** | SEP: Self-Enhanced Prompt Tuning for Visual-Language Model | Hantao Yao et al. | [2405.15549v1](http://arxiv.org/abs/2405.15549v1) | [**link**](https://github.com/htyao89/sep) |
-| **2024/05/24** | Towards Precision Healthcare: Robust Fusion of Time Series and Image Data | Ali Rasekh et al. | [2405.15442v1](http://arxiv.org/abs/2405.15442v1) | **NULL** |
-| **2024/05/24** | BiSup: Bidirectional Quantization Error Suppression for Large Language Models | Minghui Zou et al. | [2405.15346v1](http://arxiv.org/abs/2405.15346v1) | **NULL** |
-| **2024/05/24** | Enhancing Generalized Fetal Brain MRI Segmentation using A Cascade Network with Depth-wise Separable Convolution and Attention Mechanism | Zhigao Cai et al. | [2405.15205v1](http://arxiv.org/abs/2405.15205v1) | **NULL** |
-| **2024/05/23** | Linking In-context Learning in Transformers to Human Episodic Memory | Li Ji-An et al. | [2405.14992v1](http://arxiv.org/abs/2405.14992v1) | **NULL** |
-| **2024/05/23** | Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images | Jamie Burke et al. | [2405.14453v1](http://arxiv.org/abs/2405.14453v1) | **NULL** |
-| **2024/05/23** | LARS-VSA: A Vector Symbolic Architecture For Learning with Abstract Rules | Mohamed Mejri et al. | [2405.14436v1](http://arxiv.org/abs/2405.14436v1) | **NULL** |
-| **2024/05/23** | M2ANET: Mobile Malaria Attention Network for efficient classification of plasmodium parasites in blood cells | Salam Ahmed Ali et al. | [2405.14242v1](http://arxiv.org/abs/2405.14242v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Zbigniew Was | [2405.12570v1](http://arxiv.org/abs/2405.12570v1) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/06/02** | Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments | Alexander Men'shchikov | [2306.01563v2](http://arxiv.org/abs/2306.01563v2) | **NULL** |
 | **2023/05/29** | Human Body Shape Classification Based on a Single Image | Cameron Trotter et al. | [2305.18480v1](http://arxiv.org/abs/2305.18480v1) | **NULL** |
 | **2023/05/26** | Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS | Michael Radica et al. | [2305.17001v2](http://arxiv.org/abs/2305.17001v2) | **NULL** |
-| **2023/05/26** | Localization under consistent assumptions over dynamics | Matti Pekkanen et al. | [2305.16702v2](http://arxiv.org/abs/2305.16702v2) | **NULL** |
