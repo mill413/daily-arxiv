@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/30 08:49:16
+> Updated on 2024/05/31 08:50:25
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/29** | CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval | Xintong Jiang et al. | [2405.19149v2](http://arxiv.org/abs/2405.19149v2) | **NULL** |
+| **2024/05/29** | Multi-Channel Multi-Step Spectrum Prediction Using Transformer and Stacked Bi-LSTM | Guangliang Pan et al. | [2405.19138v1](http://arxiv.org/abs/2405.19138v1) | **NULL** |
+| **2024/05/29** | Are queries and keys always relevant? A case study on Transformer wave functions | Riccardo Rende et al. | [2405.18874v1](http://arxiv.org/abs/2405.18874v1) | **NULL** |
+| **2024/05/29** | Single image super-resolution based on trainable feature matching attention network | Qizhou Chen et al. | [2405.18872v1](http://arxiv.org/abs/2405.18872v1) | [**link**](https://github.com/qizhou000/tfman) |
+| **2024/05/29** | SFANet: Spatial-Frequency Attention Network for Weather Forecasting | Jiaze Wang et al. | [2405.18849v1](http://arxiv.org/abs/2405.18849v1) | **NULL** |
+| **2024/05/29** | PanoNormal: Monocular Indoor 360° Surface Normal Estimation | Kun Huang et al. | [2405.18745v1](http://arxiv.org/abs/2405.18745v1) | **NULL** |
+| **2024/05/29** | Contextual Position Encoding: Learning to Count What's Important | Olga Golovneva et al. | [2405.18719v1](http://arxiv.org/abs/2405.18719v1) | **NULL** |
+| **2024/05/29** | SketchDeco: Decorating B&W Sketches with Colour | Chaitat Utintu et al. | [2405.18716v1](http://arxiv.org/abs/2405.18716v1) | **NULL** |
+| **2024/05/29** | Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering | Ido Sobol et al. | [2405.18677v1](http://arxiv.org/abs/2405.18677v1) | **NULL** |
 | **2024/05/28** | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | Ioanna Gogou et al. | [2405.18387v1](http://arxiv.org/abs/2405.18387v1) | [**link**](https://github.com/joangog/object-detection) |
 | **2024/05/28** | Delving into Differentially Private Transformer | Youlong Ding et al. | [2405.18194v2](http://arxiv.org/abs/2405.18194v2) | **NULL** |
 | **2024/05/28** | AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario | Yuhan Li et al. | [2405.18172v1](http://arxiv.org/abs/2405.18172v1) | **NULL** |
 | **2024/05/28** | Efficient Time Series Processing for Transformers and State-Space Models through Token Merging | Leon Götz et al. | [2405.17951v1](http://arxiv.org/abs/2405.17951v1) | **NULL** |
 | **2024/05/28** | Cycle-YOLO: A Efficient and Robust Framework for Pavement Damage Detection | Zhengji Li et al. | [2405.17905v1](http://arxiv.org/abs/2405.17905v1) | **NULL** |
 | **2024/05/28** | Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion | Hongze Sun et al. | [2405.17903v1](http://arxiv.org/abs/2405.17903v1) | **NULL** |
+| **2024/05/28** | Multi-objective Representation for Numbers in Clinical Narratives Using CamemBERT-bio | Boammani Aser Lompo et al. | [2405.18448v1](http://arxiv.org/abs/2405.18448v1) | **NULL** |
 | **2024/05/27** | GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction | Yuanhui Huang et al. | [2405.17429v1](http://arxiv.org/abs/2405.17429v1) | [**link**](https://github.com/huang-yh/gaussianformer) |
 | **2024/05/27** | Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control | Zhengfei Kuang et al. | [2405.17414v1](http://arxiv.org/abs/2405.17414v1) | **NULL** |
 | **2024/05/27** | Are Self-Attentions Effective for Time Series Forecasting? | Dongbin Kim et al. | [2405.16877v1](http://arxiv.org/abs/2405.16877v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/05/25** | Transformer Meets Gated Residual Networks To Enhance Photoplethysmogram Artifact Detection Informed by Mutual Information Neural Estimation | Thanh-Dung Le | [2405.16177v1](http://arxiv.org/abs/2405.16177v1) | **NULL** |
 | **2024/05/25** | Design and Implementation of an Emotion Analysis System Based on EEG Signals | Zhang Yutian et al. | [2405.16121v1](http://arxiv.org/abs/2405.16121v1) | **NULL** |
 | **2024/05/25** | Multi-scale Quaternion CNN and BiGRU with Cross Self-attention Feature Fusion for Fault Diagnosis of Bearing | Huanbai Liu et al. | [2405.16114v1](http://arxiv.org/abs/2405.16114v1) | [**link**](https://github.com/mubai011/MQCCAF) |
-| **2024/05/25** | Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion | Zizhao Hu et al. | [2405.16098v1](http://arxiv.org/abs/2405.16098v1) | [**link**](https://github.com/zizhao-hu/l-mlp) |
-| **2024/05/25** | Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models | Zhenzhong Wang et al. | [2405.16041v1](http://arxiv.org/abs/2405.16041v1) | **NULL** |
-| **2024/05/24** | Activator: GLU Activations as The Core Functions of a Vision Transformer | Abdullah Nazhat Abdullah et al. | [2405.15953v1](http://arxiv.org/abs/2405.15953v1) | [**link**](https://github.com/Abdullah-88/Activator) |
-| **2024/05/24** | Steerable Transformers | Soumyabrata Kundu et al. | [2405.15932v1](http://arxiv.org/abs/2405.15932v1) | **NULL** |
-| **2024/05/24** | Pattern-Based Time-Series Risk Scoring for Anomaly Detection and Alert Filtering -- A Predictive Maintenance Case Study | Elad Liebman | [2405.17488v1](http://arxiv.org/abs/2405.17488v1) | **NULL** |
-| **2024/05/24** | UnitNorm: Rethinking Normalization for Transformers in Time Series | Nan Huang et al. | [2405.15903v1](http://arxiv.org/abs/2405.15903v1) | **NULL** |
-| **2024/05/24** | Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation | Shentong Mo et al. | [2405.15881v1](http://arxiv.org/abs/2405.15881v1) | **NULL** |
-| **2024/05/24** | Extended Reality (XR) Codec Adaptation in 5G using Multi-Agent Reinforcement Learning with Attention Action Selection | Pedro Enrique Iturria-Rivera et al. | [2405.15872v1](http://arxiv.org/abs/2405.15872v1) | **NULL** |
-| **2024/05/24** | Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration | Gao Tianci | [2405.15562v1](http://arxiv.org/abs/2405.15562v1) | **NULL** |
-| **2024/05/24** | SEP: Self-Enhanced Prompt Tuning for Visual-Language Model | Hantao Yao et al. | [2405.15549v1](http://arxiv.org/abs/2405.15549v1) | [**link**](https://github.com/htyao89/sep) |
 
 ## 背景差分
 
@@ -90,7 +90,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
-| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Zbigniew Was | [2405.12570v1](http://arxiv.org/abs/2405.12570v1) | **NULL** |
+| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v2](http://arxiv.org/abs/2405.12570v2) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
