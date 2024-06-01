@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/05/31 08:50:25
+> Updated on 2024/06/01 08:52:39
 
 <summary>Table of Contents</summary>
 
@@ -53,16 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/30** | SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos | Chinedu Innocent Nwoye et al. | [2405.20333v1](http://arxiv.org/abs/2405.20333v1) | **NULL** |
+| **2024/05/30** | A Structure-Aware Lane Graph Transformer Model for Vehicle Trajectory Prediction | Sun Zhanbo et al. | [2405.20121v1](http://arxiv.org/abs/2405.20121v1) | **NULL** |
+| **2024/05/30** | An Efficient Network with Novel Quantization Designed for Massive MIMO CSI Feedback | Xinran Sun et al. | [2405.20068v1](http://arxiv.org/abs/2405.20068v1) | **NULL** |
+| **2024/05/30** | Sharing Key Semantics in Transformer Makes Efficient Image Restoration | Bin Ren et al. | [2405.20008v1](http://arxiv.org/abs/2405.20008v1) | **NULL** |
+| **2024/05/30** | MGCP: A Multi-Grained Correlation based Prediction Network for Multivariate Time Series | Zhicheng Chen et al. | [2405.19661v1](http://arxiv.org/abs/2405.19661v1) | **NULL** |
+| **2024/05/30** | CSANet: Channel Spatial Attention Network for Robust 3D Face Alignment and Reconstruction | Yilin Liu et al. | [2405.19659v1](http://arxiv.org/abs/2405.19659v1) | **NULL** |
+| **2024/05/29** | A Deep Convolutional Neural Network-based Model for Aspect and Polarity Classification in Hausa Movie Reviews | Umar Ibrahim et al. | [2405.19575v1](http://arxiv.org/abs/2405.19575v1) | **NULL** |
+| **2024/05/29** | RAP: Efficient Text-Video Retrieval with Sparse-and-Correlated Adapter | Meng Cao et al. | [2405.19465v1](http://arxiv.org/abs/2405.19465v1) | **NULL** |
 | **2024/05/29** | CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval | Xintong Jiang et al. | [2405.19149v2](http://arxiv.org/abs/2405.19149v2) | **NULL** |
 | **2024/05/29** | Multi-Channel Multi-Step Spectrum Prediction Using Transformer and Stacked Bi-LSTM | Guangliang Pan et al. | [2405.19138v1](http://arxiv.org/abs/2405.19138v1) | **NULL** |
 | **2024/05/29** | Are queries and keys always relevant? A case study on Transformer wave functions | Riccardo Rende et al. | [2405.18874v1](http://arxiv.org/abs/2405.18874v1) | **NULL** |
 | **2024/05/29** | Single image super-resolution based on trainable feature matching attention network | Qizhou Chen et al. | [2405.18872v1](http://arxiv.org/abs/2405.18872v1) | [**link**](https://github.com/qizhou000/tfman) |
 | **2024/05/29** | SFANet: Spatial-Frequency Attention Network for Weather Forecasting | Jiaze Wang et al. | [2405.18849v1](http://arxiv.org/abs/2405.18849v1) | **NULL** |
 | **2024/05/29** | PanoNormal: Monocular Indoor 360° Surface Normal Estimation | Kun Huang et al. | [2405.18745v1](http://arxiv.org/abs/2405.18745v1) | **NULL** |
-| **2024/05/29** | Contextual Position Encoding: Learning to Count What's Important | Olga Golovneva et al. | [2405.18719v1](http://arxiv.org/abs/2405.18719v1) | **NULL** |
+| **2024/05/29** | Contextual Position Encoding: Learning to Count What's Important | Olga Golovneva et al. | [2405.18719v2](http://arxiv.org/abs/2405.18719v2) | **NULL** |
 | **2024/05/29** | SketchDeco: Decorating B&W Sketches with Colour | Chaitat Utintu et al. | [2405.18716v1](http://arxiv.org/abs/2405.18716v1) | **NULL** |
 | **2024/05/29** | Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering | Ido Sobol et al. | [2405.18677v1](http://arxiv.org/abs/2405.18677v1) | **NULL** |
+| **2024/05/28** | Improving global awareness of linkset predictions using Cross-Attentive Modulation tokens | Félix Marcoccia et al. | [2405.19375v1](http://arxiv.org/abs/2405.19375v1) | **NULL** |
 | **2024/05/28** | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | Ioanna Gogou et al. | [2405.18387v1](http://arxiv.org/abs/2405.18387v1) | [**link**](https://github.com/joangog/object-detection) |
+| **2024/05/28** | Multi-modal Mood Reader: Pre-trained Model Empowers Cross-Subject Emotion Recognition | Yihang Dong et al. | [2405.19373v1](http://arxiv.org/abs/2405.19373v1) | **NULL** |
 | **2024/05/28** | Delving into Differentially Private Transformer | Youlong Ding et al. | [2405.18194v2](http://arxiv.org/abs/2405.18194v2) | **NULL** |
 | **2024/05/28** | AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario | Yuhan Li et al. | [2405.18172v1](http://arxiv.org/abs/2405.18172v1) | **NULL** |
 | **2024/05/28** | Efficient Time Series Processing for Transformers and State-Space Models through Token Merging | Leon Götz et al. | [2405.17951v1](http://arxiv.org/abs/2405.17951v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/05/27** | Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control | Zhengfei Kuang et al. | [2405.17414v1](http://arxiv.org/abs/2405.17414v1) | **NULL** |
 | **2024/05/27** | Are Self-Attentions Effective for Time Series Forecasting? | Dongbin Kim et al. | [2405.16877v1](http://arxiv.org/abs/2405.16877v1) | **NULL** |
 | **2024/05/27** | Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation | Shuijing Liu et al. | [2405.16830v2](http://arxiv.org/abs/2405.16830v2) | **NULL** |
-| **2024/05/27** | CARL: A Framework for Equivariant Image Registration | Hastings Greer et al. | [2405.16738v2](http://arxiv.org/abs/2405.16738v2) | **NULL** |
-| **2024/05/26** | Disentangling and Integrating Relational and Sensory Information in Transformer Architectures | Awni Altabaa et al. | [2405.16727v1](http://arxiv.org/abs/2405.16727v1) | **NULL** |
-| **2024/05/26** | Compressing Lengthy Context With UltraGist | Peitian Zhang et al. | [2405.16635v1](http://arxiv.org/abs/2405.16635v1) | [**link**](https://github.com/namespace-pt/ultragist) |
-| **2024/05/26** | Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model | Yang Cao et al. | [2405.16542v1](http://arxiv.org/abs/2405.16542v1) | **NULL** |
-| **2024/05/26** | PPRSteg: Printing and Photography Robust QR Code Steganography via Attention Flow-Based Model | Huayuan Ye et al. | [2405.16414v1](http://arxiv.org/abs/2405.16414v1) | **NULL** |
-| **2024/05/25** | Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning | Linsen Li et al. | [2405.16380v1](http://arxiv.org/abs/2405.16380v1) | **NULL** |
-| **2024/05/25** | DAFFNet: A Dual Attention Feature Fusion Network for Classification of White Blood Cells | Yuzhuo Chen et al. | [2405.16220v1](http://arxiv.org/abs/2405.16220v1) | **NULL** |
-| **2024/05/25** | Transformer Meets Gated Residual Networks To Enhance Photoplethysmogram Artifact Detection Informed by Mutual Information Neural Estimation | Thanh-Dung Le | [2405.16177v1](http://arxiv.org/abs/2405.16177v1) | **NULL** |
-| **2024/05/25** | Design and Implementation of an Emotion Analysis System Based on EEG Signals | Zhang Yutian et al. | [2405.16121v1](http://arxiv.org/abs/2405.16121v1) | **NULL** |
-| **2024/05/25** | Multi-scale Quaternion CNN and BiGRU with Cross Self-attention Feature Fusion for Fault Diagnosis of Bearing | Huanbai Liu et al. | [2405.16114v1](http://arxiv.org/abs/2405.16114v1) | [**link**](https://github.com/mubai011/MQCCAF) |
 
 ## 背景差分
 
