@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/03 08:50:47
+> Updated on 2024/06/04 08:50:27
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/05/31** | Graph External Attention Enhanced Transformer | Jianqing Liang et al. | [2405.21061v1](http://arxiv.org/abs/2405.21061v1) | [**link**](https://github.com/icm1018/geaet) |
+| **2024/05/31** | You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet | Zhen Qin et al. | [2405.21022v1](http://arxiv.org/abs/2405.21022v1) | **NULL** |
+| **2024/05/31** | Automatic Channel Pruning for Multi-Head Attention | Eunho Lee et al. | [2405.20867v1](http://arxiv.org/abs/2405.20867v1) | **NULL** |
+| **2024/05/31** | Towards a General GNN Framework for Combinatorial Optimization | Frederik Wenkel et al. | [2405.20543v1](http://arxiv.org/abs/2405.20543v1) | **NULL** |
+| **2024/05/30** | P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation | Qi Zhang et al. | [2405.20443v1](http://arxiv.org/abs/2405.20443v1) | **NULL** |
 | **2024/05/30** | SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos | Chinedu Innocent Nwoye et al. | [2405.20333v1](http://arxiv.org/abs/2405.20333v1) | **NULL** |
 | **2024/05/30** | A Structure-Aware Lane Graph Transformer Model for Vehicle Trajectory Prediction | Sun Zhanbo et al. | [2405.20121v1](http://arxiv.org/abs/2405.20121v1) | **NULL** |
 | **2024/05/30** | An Efficient Network with Novel Quantization Designed for Massive MIMO CSI Feedback | Xinran Sun et al. | [2405.20068v1](http://arxiv.org/abs/2405.20068v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/05/28** | Efficient Time Series Processing for Transformers and State-Space Models through Token Merging | Leon Götz et al. | [2405.17951v1](http://arxiv.org/abs/2405.17951v1) | **NULL** |
 | **2024/05/28** | Cycle-YOLO: A Efficient and Robust Framework for Pavement Damage Detection | Zhengji Li et al. | [2405.17905v1](http://arxiv.org/abs/2405.17905v1) | **NULL** |
 | **2024/05/28** | Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion | Hongze Sun et al. | [2405.17903v1](http://arxiv.org/abs/2405.17903v1) | **NULL** |
-| **2024/05/28** | Multi-objective Representation for Numbers in Clinical Narratives Using CamemBERT-bio | Boammani Aser Lompo et al. | [2405.18448v1](http://arxiv.org/abs/2405.18448v1) | **NULL** |
-| **2024/05/27** | GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction | Yuanhui Huang et al. | [2405.17429v1](http://arxiv.org/abs/2405.17429v1) | [**link**](https://github.com/huang-yh/gaussianformer) |
-| **2024/05/27** | Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control | Zhengfei Kuang et al. | [2405.17414v1](http://arxiv.org/abs/2405.17414v1) | **NULL** |
-| **2024/05/27** | Are Self-Attentions Effective for Time Series Forecasting? | Dongbin Kim et al. | [2405.16877v1](http://arxiv.org/abs/2405.16877v1) | **NULL** |
-| **2024/05/27** | Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation | Shuijing Liu et al. | [2405.16830v2](http://arxiv.org/abs/2405.16830v2) | **NULL** |
 
 ## 背景差分
 
