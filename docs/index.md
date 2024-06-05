@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/04 08:50:27
+> Updated on 2024/06/05 08:49:39
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/05/31** | Graph External Attention Enhanced Transformer | Jianqing Liang et al. | [2405.21061v1](http://arxiv.org/abs/2405.21061v1) | [**link**](https://github.com/icm1018/geaet) |
+| **2024/05/31** | Graph External Attention Enhanced Transformer | Jianqing Liang et al. | [2405.21061v2](http://arxiv.org/abs/2405.21061v2) | [**link**](https://github.com/icm1018/geaet) |
 | **2024/05/31** | You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet | Zhen Qin et al. | [2405.21022v1](http://arxiv.org/abs/2405.21022v1) | **NULL** |
 | **2024/05/31** | Automatic Channel Pruning for Multi-Head Attention | Eunho Lee et al. | [2405.20867v1](http://arxiv.org/abs/2405.20867v1) | **NULL** |
 | **2024/05/31** | Towards a General GNN Framework for Combinatorial Optimization | Frederik Wenkel et al. | [2405.20543v1](http://arxiv.org/abs/2405.20543v1) | **NULL** |
