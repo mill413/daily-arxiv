@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/06 08:49:40
+> Updated on 2024/06/07 08:52:22
 
 <summary>Table of Contents</summary>
 
@@ -53,15 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/05** | Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review | Sonia Bbouzidi et al. | [2406.03478v1](http://arxiv.org/abs/2406.03478v1) | **NULL** |
+| **2024/06/05** | Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | Moein Heidari et al. | [2406.03430v1](http://arxiv.org/abs/2406.03430v1) | [**link**](https://github.com/xmindflow/awesome_mamba) |
+| **2024/06/05** | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution | Cristhian Forigua et al. | [2406.03359v1](http://arxiv.org/abs/2406.03359v1) | [**link**](https://github.com/bcv-uniandes/superformer) |
+| **2024/06/05** | DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection | Ruituo Wu et al. | [2406.02976v1](http://arxiv.org/abs/2406.02976v1) | **NULL** |
+| **2024/06/05** | Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI | Jonghun Kim et al. | [2406.02936v1](http://arxiv.org/abs/2406.02936v1) | **NULL** |
+| **2024/06/05** | S$^2$GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis | Bingfeng Chen et al. | [2406.02902v1](http://arxiv.org/abs/2406.02902v1) | **NULL** |
+| **2024/06/05** | Too Big to Fail: Larger Language Models are Disproportionately Resilient to Induction of Dementia-Related Linguistic Anomalies | Changye Li et al. | [2406.02830v1](http://arxiv.org/abs/2406.02830v1) | **NULL** |
+| **2024/06/04** | Multi-layer Learnable Attention Mask for Multimodal Tasks | Wayner Barrios et al. | [2406.02761v1](http://arxiv.org/abs/2406.02761v1) | **NULL** |
 | **2024/06/04** | Loki: Low-Rank Keys for Efficient Sparse Attention | Prajwal Singhania et al. | [2406.02542v1](http://arxiv.org/abs/2406.02542v1) | **NULL** |
-| **2024/06/04** | A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting | Remi Genet et al. | [2406.02486v1](http://arxiv.org/abs/2406.02486v1) | [**link**](https://github.com/remigenet/TKAT) |
+| **2024/06/04** | A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting | Remi Genet et al. | [2406.02486v2](http://arxiv.org/abs/2406.02486v2) | [**link**](https://github.com/remigenet/TKAT) |
 | **2024/06/04** | Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation | Jiajun Wang et al. | [2406.02485v1](http://arxiv.org/abs/2406.02485v1) | **NULL** |
 | **2024/06/04** | Progressive Confident Masking Attention Network for Audio-Visual Segmentation | Yuxuan Wang et al. | [2406.02345v1](http://arxiv.org/abs/2406.02345v1) | **NULL** |
 | **2024/06/04** | Iteration Head: A Mechanistic Study of Chain-of-Thought | Vivien Cabannes et al. | [2406.02128v1](http://arxiv.org/abs/2406.02128v1) | **NULL** |
+| **2024/06/04** | EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation | Yuda Wang et al. | [2406.02638v1](http://arxiv.org/abs/2406.02638v1) | **NULL** |
 | **2024/06/04** | Nutrition Estimation for Dietary Management: A Transformer Approach with Depth Sensing | Zhengyi Kwan et al. | [2406.01938v1](http://arxiv.org/abs/2406.01938v1) | **NULL** |
 | **2024/06/04** | Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking | Zefeng Zhang et al. | [2406.01934v2](http://arxiv.org/abs/2406.01934v2) | **NULL** |
 | **2024/06/03** | Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks | Hasan Zan et al. | [2406.01834v1](http://arxiv.org/abs/2406.01834v1) | **NULL** |
 | **2024/06/03** | CAFO: Feature-Centric Explanation on Time Series Classification | Jaeho Kim et al. | [2406.01833v1](http://arxiv.org/abs/2406.01833v1) | [**link**](https://github.com/eai-lab/cafo) |
+| **2024/06/03** | Progressive Inference: Explaining Decoder-Only Sequence Classification Models Using Intermediate Predictions | Sanjay Kariyappa et al. | [2406.02625v1](http://arxiv.org/abs/2406.02625v1) | **NULL** |
 | **2024/06/03** | Towards Flexible Interactive Reflection Removal with Human Guidance | Xiao Chen et al. | [2406.01555v1](http://arxiv.org/abs/2406.01555v1) | [**link**](https://github.com/shawnchenn/flexiblereflectionremoval) |
 | **2024/06/03** | DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention | Yang Liu et al. | [2406.01489v2](http://arxiv.org/abs/2406.01489v2) | **NULL** |
 | **2024/06/03** | Universal In-Context Approximation By Prompting Fully Recurrent Models | Aleksandar Petrov et al. | [2406.01424v1](http://arxiv.org/abs/2406.01424v1) | [**link**](https://github.com/aleksandarpetrov/lsrl) |
@@ -73,16 +83,6 @@ layout: default
 | **2024/06/03** | GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer | Ding Jia et al. | [2406.01210v2](http://arxiv.org/abs/2406.01210v2) | [**link**](https://github.com/jiadingcn/geminifusion) |
 | **2024/06/03** | 3D WholeBody Pose Estimation based on Semantic Graph Attention Network and Distance Information | Sihan Wen et al. | [2406.01196v1](http://arxiv.org/abs/2406.01196v1) | **NULL** |
 | **2024/06/03** | Attention-based Iterative Decomposition for Tensor Product Representation | Taewon Park et al. | [2406.01012v1](http://arxiv.org/abs/2406.01012v1) | [**link**](https://github.com/taewonpark/AID) |
-| **2024/06/03** | ADE-HGNN: Accelerating HGNNs through Attention Disparity Exploitation | Dengke Han et al. | [2406.00988v1](http://arxiv.org/abs/2406.00988v1) | **NULL** |
-| **2024/06/02** | Eating Smart: Advancing Health Informatics with the Grounding DINO based Dietary Assistant App | Abdelilah Nossair et al. | [2406.00848v1](http://arxiv.org/abs/2406.00848v1) | **NULL** |
-| **2024/06/02** | Stealing Image-to-Image Translation Models With a Single Query | Nurit Spingarn-Eliezer et al. | [2406.00828v1](http://arxiv.org/abs/2406.00828v1) | **NULL** |
-| **2024/06/02** | Making Recommender Systems More Knowledgeable: A Framework to Incorporate Side Information | Yukun Jiang et al. | [2406.00615v1](http://arxiv.org/abs/2406.00615v1) | [**link**](https://github.com/YukunJ/11785-Final-Project-Team15) |
-| **2024/06/01** | You Only Need Less Attention at Each Stage in Vision Transformers | Shuoxi Zhang et al. | [2406.00427v1](http://arxiv.org/abs/2406.00427v1) | **NULL** |
-| **2024/06/01** | InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation | Jacob Si et al. | [2406.00426v1](http://arxiv.org/abs/2406.00426v1) | [**link**](https://github.com/jacobyhsi/InterpreTabNet) |
-| **2024/06/01** | DS@BioMed at ImageCLEFmedical Caption 2024: Enhanced Attention Mechanisms in Medical Caption Generation through Concept Detection Integration | Nhi Ngoc-Yen Nguyen et al. | [2406.00391v1](http://arxiv.org/abs/2406.00391v1) | **NULL** |
-| **2024/05/31** | Graph External Attention Enhanced Transformer | Jianqing Liang et al. | [2405.21061v2](http://arxiv.org/abs/2405.21061v2) | [**link**](https://github.com/icm1018/geaet) |
-| **2024/05/31** | You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet | Zhen Qin et al. | [2405.21022v1](http://arxiv.org/abs/2405.21022v1) | **NULL** |
-| **2024/05/31** | Automatic Channel Pruning for Multi-Head Attention | Eunho Lee et al. | [2405.20867v1](http://arxiv.org/abs/2405.20867v1) | **NULL** |
 
 ## 背景差分
 
