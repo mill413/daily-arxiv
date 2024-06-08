@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/07 08:52:22
+> Updated on 2024/06/08 08:50:24
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/06** | Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry | Kaichen Zhou | [2406.04301v1](http://arxiv.org/abs/2406.04301v1) | **NULL** |
+| **2024/06/06** | VideoTetris: Towards Compositional Text-to-Video Generation | Ye Tian et al. | [2406.04277v1](http://arxiv.org/abs/2406.04277v1) | [**link**](https://github.com/yangling0818/videotetris) |
+| **2024/06/06** | Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors | Tam Thuc Do et al. | [2406.04090v1](http://arxiv.org/abs/2406.04090v1) | **NULL** |
+| **2024/06/06** | Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations | Jan Hagnberger et al. | [2406.03919v1](http://arxiv.org/abs/2406.03919v1) | **NULL** |
+| **2024/06/06** | Decoder-only Streaming Transformer for Simultaneous Translation | Shoutao Guo et al. | [2406.03878v1](http://arxiv.org/abs/2406.03878v1) | **NULL** |
+| **2024/06/06** | A Noise-robust Multi-head Attention Mechanism for Formation Resistivity Prediction: Frequency Aware LSTM | Yongan Zhang et al. | [2406.03849v1](http://arxiv.org/abs/2406.03849v1) | **NULL** |
 | **2024/06/05** | Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review | Sonia Bbouzidi et al. | [2406.03478v1](http://arxiv.org/abs/2406.03478v1) | **NULL** |
 | **2024/06/05** | Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | Moein Heidari et al. | [2406.03430v1](http://arxiv.org/abs/2406.03430v1) | [**link**](https://github.com/xmindflow/awesome_mamba) |
 | **2024/06/05** | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution | Cristhian Forigua et al. | [2406.03359v1](http://arxiv.org/abs/2406.03359v1) | [**link**](https://github.com/bcv-uniandes/superformer) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/06/03** | Universal In-Context Approximation By Prompting Fully Recurrent Models | Aleksandar Petrov et al. | [2406.01424v1](http://arxiv.org/abs/2406.01424v1) | [**link**](https://github.com/aleksandarpetrov/lsrl) |
 | **2024/06/03** | TE-NeXt: A LiDAR-Based 3D Sparse Convolutional Network for Traversability Estimation | Antonio Santo et al. | [2406.01395v1](http://arxiv.org/abs/2406.01395v1) | [**link**](https://github.com/ARVCUMH/te-next) |
 | **2024/06/03** | HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models | Mengcheng Li et al. | [2406.01334v1](http://arxiv.org/abs/2406.01334v1) | **NULL** |
-| **2024/06/03** | Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization | Firas Khader et al. | [2406.01314v1](http://arxiv.org/abs/2406.01314v1) | **NULL** |
-| **2024/06/03** | Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification | Jungmin Yun et al. | [2406.01283v1](http://arxiv.org/abs/2406.01283v1) | **NULL** |
-| **2024/06/03** | LSKSANet: A Novel Architecture for Remote Sensing Image Semantic Segmentation Leveraging Large Selective Kernel and Sparse Attention Mechanism | Miao Fu et al. | [2406.01228v1](http://arxiv.org/abs/2406.01228v1) | **NULL** |
-| **2024/06/03** | GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer | Ding Jia et al. | [2406.01210v2](http://arxiv.org/abs/2406.01210v2) | [**link**](https://github.com/jiadingcn/geminifusion) |
-| **2024/06/03** | 3D WholeBody Pose Estimation based on Semantic Graph Attention Network and Distance Information | Sihan Wen et al. | [2406.01196v1](http://arxiv.org/abs/2406.01196v1) | **NULL** |
-| **2024/06/03** | Attention-based Iterative Decomposition for Tensor Product Representation | Taewon Park et al. | [2406.01012v1](http://arxiv.org/abs/2406.01012v1) | [**link**](https://github.com/taewonpark/AID) |
 
 ## 背景差分
 
