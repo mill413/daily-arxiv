@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/10 08:52:11
+> Updated on 2024/06/11 08:51:03
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/07** | Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs | Shentong Mo | [2406.05038v1](http://arxiv.org/abs/2406.05038v1) | **NULL** |
+| **2024/06/07** | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | Juncheng Liu et al. | [2406.04975v1](http://arxiv.org/abs/2406.04975v1) | **NULL** |
+| **2024/06/07** | Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior | Tanvir Mahmud et al. | [2406.04873v1](http://arxiv.org/abs/2406.04873v1) | **NULL** |
+| **2024/06/07** | CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion | Haolong Ma et al. | [2406.04689v1](http://arxiv.org/abs/2406.04689v1) | **NULL** |
+| **2024/06/07** | Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks | Yong-Min Shin et al. | [2406.04612v1](http://arxiv.org/abs/2406.04612v1) | [**link**](https://github.com/jordan7186/gatt) |
+| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v1](http://arxiv.org/abs/2406.04467v1) | **NULL** |
 | **2024/06/06** | Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry | Kaichen Zhou | [2406.04301v1](http://arxiv.org/abs/2406.04301v1) | **NULL** |
 | **2024/06/06** | VideoTetris: Towards Compositional Text-to-Video Generation | Ye Tian et al. | [2406.04277v1](http://arxiv.org/abs/2406.04277v1) | [**link**](https://github.com/yangling0818/videotetris) |
 | **2024/06/06** | Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors | Tam Thuc Do et al. | [2406.04090v1](http://arxiv.org/abs/2406.04090v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/06/04** | Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking | Zefeng Zhang et al. | [2406.01934v2](http://arxiv.org/abs/2406.01934v2) | [**link**](https://github.com/zhangzef/ot-mel) |
 | **2024/06/03** | Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks | Hasan Zan et al. | [2406.01834v1](http://arxiv.org/abs/2406.01834v1) | **NULL** |
 | **2024/06/03** | CAFO: Feature-Centric Explanation on Time Series Classification | Jaeho Kim et al. | [2406.01833v1](http://arxiv.org/abs/2406.01833v1) | [**link**](https://github.com/eai-lab/cafo) |
-| **2024/06/03** | Progressive Inference: Explaining Decoder-Only Sequence Classification Models Using Intermediate Predictions | Sanjay Kariyappa et al. | [2406.02625v1](http://arxiv.org/abs/2406.02625v1) | **NULL** |
-| **2024/06/03** | Towards Flexible Interactive Reflection Removal with Human Guidance | Xiao Chen et al. | [2406.01555v1](http://arxiv.org/abs/2406.01555v1) | [**link**](https://github.com/shawnchenn/flexiblereflectionremoval) |
-| **2024/06/03** | DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention | Yang Liu et al. | [2406.01489v2](http://arxiv.org/abs/2406.01489v2) | **NULL** |
-| **2024/06/03** | Universal In-Context Approximation By Prompting Fully Recurrent Models | Aleksandar Petrov et al. | [2406.01424v1](http://arxiv.org/abs/2406.01424v1) | [**link**](https://github.com/aleksandarpetrov/lsrl) |
-| **2024/06/03** | TE-NeXt: A LiDAR-Based 3D Sparse Convolutional Network for Traversability Estimation | Antonio Santo et al. | [2406.01395v1](http://arxiv.org/abs/2406.01395v1) | [**link**](https://github.com/ARVCUMH/te-next) |
-| **2024/06/03** | HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models | Mengcheng Li et al. | [2406.01334v1](http://arxiv.org/abs/2406.01334v1) | **NULL** |
 
 ## 背景差分
 
