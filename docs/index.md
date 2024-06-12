@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/11 08:51:03
+> Updated on 2024/06/12 08:51:27
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v2](http://arxiv.org/abs/2406.05755v2) | [**link**](https://github.com/hoiliu-0801/dntr) |
+| **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
 | **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
@@ -46,43 +48,41 @@ layout: default
 | **2023/09/20** | Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection | Son The Nguyen et al. | [2309.11069v1](http://arxiv.org/abs/2309.11069v1) | **NULL** |
 | **2023/09/15** | OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction | Yupeng Jia et al. | [2309.08504v3](http://arxiv.org/abs/2309.08504v3) | **NULL** |
 | **2023/09/13** | Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances | Xiangrong Zhang et al. | [2309.06751v1](http://arxiv.org/abs/2309.06751v1) | **NULL** |
-| **2023/09/10** | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art | Aref Miri Rekavandi et al. | [2309.04902v1](http://arxiv.org/abs/2309.04902v1) | [**link**](https://github.com/arekavandi/transformer-sod) |
-| **2023/08/18** | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning | Xiang Yuan et al. | [2308.09534v1](http://arxiv.org/abs/2308.09534v1) | [**link**](https://github.com/shaunyuan22/cfinet) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/10** | Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer | Sigal Raab et al. | [2406.06508v1](http://arxiv.org/abs/2406.06508v1) | [**link**](https://github.com/monkeyseedocg/momo-code) |
+| **2024/06/10** | Continuum Attention for Neural Operators | Edoardo Calvello et al. | [2406.06486v1](http://arxiv.org/abs/2406.06486v1) | **NULL** |
+| **2024/06/10** | Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data | Nicole Hayes et al. | [2406.06479v1](http://arxiv.org/abs/2406.06479v1) | **NULL** |
+| **2024/06/10** | SYM3D: Learning Symmetric Triplanes for Better 3D-Awareness of GANs | Jing Yang et al. | [2406.06432v1](http://arxiv.org/abs/2406.06432v1) | **NULL** |
+| **2024/06/10** | Symmetric Dot-Product Attention for Efficient Training of BERT Language Models | Martin Courtois et al. | [2406.06366v1](http://arxiv.org/abs/2406.06366v1) | **NULL** |
+| **2024/06/10** | Tuning-Free Visual Customization via View Iterative Self-Attention Control | Xiaojie Li et al. | [2406.06258v2](http://arxiv.org/abs/2406.06258v2) | **NULL** |
+| **2024/06/10** | An Effective-Efficient Approach for Dense Multi-Label Action Detection | Faegheh Sardari et al. | [2406.06187v1](http://arxiv.org/abs/2406.06187v1) | **NULL** |
+| **2024/06/10** | Can I understand what I create? Self-Knowledge Evaluation of Large Language Models | Zhiquan Tan et al. | [2406.06140v1](http://arxiv.org/abs/2406.06140v1) | **NULL** |
+| **2024/06/10** | PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis | Jia-wei Chen et al. | [2406.06069v1](http://arxiv.org/abs/2406.06069v1) | **NULL** |
+| **2024/06/10** | Generalizable Human Gaussians from Single-View Image | Jinnan Chen et al. | [2406.06050v1](http://arxiv.org/abs/2406.06050v1) | [**link**](https://github.com/jinnan-chen/HGM) |
+| **2024/06/09** | Mamba YOLO: SSMs-Based YOLO For Object Detection | Zeyu Wang et al. | [2406.05835v1](http://arxiv.org/abs/2406.05835v1) | [**link**](https://github.com/hzai-zjnu/mamba-yolo) |
+| **2024/06/09** | What Can We Learn from State Space Models for Machine Learning on Graphs? | Yinan Huang et al. | [2406.05815v1](http://arxiv.org/abs/2406.05815v1) | [**link**](https://github.com/graph-com/gssc) |
+| **2024/06/09** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention | Muhammad Nawfal Meeran et al. | [2406.05802v1](http://arxiv.org/abs/2406.05802v1) | [**link**](https://github.com/spidernitt/sam-pm) |
+| **2024/06/09** | SinkLoRA: Enhanced Efficiency and Chat Capabilities for Long-Context Large Language Models | Hengyu Zhang | [2406.05678v1](http://arxiv.org/abs/2406.05678v1) | [**link**](https://github.com/dexter-gt-86/sinklora) |
+| **2024/06/09** | Visual Prompt Tuning in Null Space for Continual Learning | Yue Lu et al. | [2406.05658v2](http://arxiv.org/abs/2406.05658v2) | [**link**](https://github.com/zugexiaodui/vptinnsforcl) |
+| **2024/06/08** | Exploring Adversarial Robustness of Deep State Space Models | Biqing Qi et al. | [2406.05532v1](http://arxiv.org/abs/2406.05532v1) | **NULL** |
+| **2024/06/08** | Integrating Text and Image Pre-training for Multi-modal Algorithmic Reasoning | Zijian Zhang et al. | [2406.05318v1](http://arxiv.org/abs/2406.05318v1) | **NULL** |
+| **2024/06/08** | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | Chaolv Zeng et al. | [2406.05316v1](http://arxiv.org/abs/2406.05316v1) | [**link**](https://github.com/luodhhh/moderntcn) |
 | **2024/06/07** | Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs | Shentong Mo | [2406.05038v1](http://arxiv.org/abs/2406.05038v1) | **NULL** |
 | **2024/06/07** | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | Juncheng Liu et al. | [2406.04975v1](http://arxiv.org/abs/2406.04975v1) | **NULL** |
 | **2024/06/07** | Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior | Tanvir Mahmud et al. | [2406.04873v1](http://arxiv.org/abs/2406.04873v1) | **NULL** |
 | **2024/06/07** | CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion | Haolong Ma et al. | [2406.04689v1](http://arxiv.org/abs/2406.04689v1) | **NULL** |
 | **2024/06/07** | Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks | Yong-Min Shin et al. | [2406.04612v1](http://arxiv.org/abs/2406.04612v1) | [**link**](https://github.com/jordan7186/gatt) |
-| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v1](http://arxiv.org/abs/2406.04467v1) | **NULL** |
+| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v2](http://arxiv.org/abs/2406.04467v2) | **NULL** |
 | **2024/06/06** | Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry | Kaichen Zhou | [2406.04301v1](http://arxiv.org/abs/2406.04301v1) | **NULL** |
 | **2024/06/06** | VideoTetris: Towards Compositional Text-to-Video Generation | Ye Tian et al. | [2406.04277v1](http://arxiv.org/abs/2406.04277v1) | [**link**](https://github.com/yangling0818/videotetris) |
 | **2024/06/06** | Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors | Tam Thuc Do et al. | [2406.04090v1](http://arxiv.org/abs/2406.04090v1) | **NULL** |
 | **2024/06/06** | Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations | Jan Hagnberger et al. | [2406.03919v1](http://arxiv.org/abs/2406.03919v1) | [**link**](https://github.com/jhagnberger/vcnef) |
 | **2024/06/06** | Decoder-only Streaming Transformer for Simultaneous Translation | Shoutao Guo et al. | [2406.03878v1](http://arxiv.org/abs/2406.03878v1) | [**link**](https://github.com/ictnlp/DST) |
 | **2024/06/06** | A Noise-robust Multi-head Attention Mechanism for Formation Resistivity Prediction: Frequency Aware LSTM | Yongan Zhang et al. | [2406.03849v1](http://arxiv.org/abs/2406.03849v1) | **NULL** |
-| **2024/06/05** | Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review | Sonia Bbouzidi et al. | [2406.03478v1](http://arxiv.org/abs/2406.03478v1) | **NULL** |
-| **2024/06/05** | Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | Moein Heidari et al. | [2406.03430v1](http://arxiv.org/abs/2406.03430v1) | [**link**](https://github.com/xmindflow/awesome_mamba) |
-| **2024/06/05** | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution | Cristhian Forigua et al. | [2406.03359v1](http://arxiv.org/abs/2406.03359v1) | [**link**](https://github.com/bcv-uniandes/superformer) |
-| **2024/06/05** | DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection | Ruituo Wu et al. | [2406.02976v1](http://arxiv.org/abs/2406.02976v1) | **NULL** |
-| **2024/06/05** | Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI | Jonghun Kim et al. | [2406.02936v1](http://arxiv.org/abs/2406.02936v1) | **NULL** |
-| **2024/06/05** | S$^2$GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis | Bingfeng Chen et al. | [2406.02902v2](http://arxiv.org/abs/2406.02902v2) | [**link**](https://github.com/ouy7han/s2gsl) |
-| **2024/06/05** | Too Big to Fail: Larger Language Models are Disproportionately Resilient to Induction of Dementia-Related Linguistic Anomalies | Changye Li et al. | [2406.02830v1](http://arxiv.org/abs/2406.02830v1) | [**link**](https://github.com/linguisticanomalies/artificial-neural-reserve) |
-| **2024/06/04** | Multi-layer Learnable Attention Mask for Multimodal Tasks | Wayner Barrios et al. | [2406.02761v1](http://arxiv.org/abs/2406.02761v1) | **NULL** |
-| **2024/06/04** | Loki: Low-Rank Keys for Efficient Sparse Attention | Prajwal Singhania et al. | [2406.02542v1](http://arxiv.org/abs/2406.02542v1) | **NULL** |
-| **2024/06/04** | A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting | Remi Genet et al. | [2406.02486v2](http://arxiv.org/abs/2406.02486v2) | [**link**](https://github.com/remigenet/TKAT) |
-| **2024/06/04** | Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation | Jiajun Wang et al. | [2406.02485v1](http://arxiv.org/abs/2406.02485v1) | [**link**](https://github.com/ai-med/stablepose) |
-| **2024/06/04** | Progressive Confident Masking Attention Network for Audio-Visual Segmentation | Yuxuan Wang et al. | [2406.02345v1](http://arxiv.org/abs/2406.02345v1) | **NULL** |
-| **2024/06/04** | Iteration Head: A Mechanistic Study of Chain-of-Thought | Vivien Cabannes et al. | [2406.02128v1](http://arxiv.org/abs/2406.02128v1) | **NULL** |
-| **2024/06/04** | EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation | Yuda Wang et al. | [2406.02638v1](http://arxiv.org/abs/2406.02638v1) | **NULL** |
-| **2024/06/04** | Nutrition Estimation for Dietary Management: A Transformer Approach with Depth Sensing | Zhengyi Kwan et al. | [2406.01938v1](http://arxiv.org/abs/2406.01938v1) | **NULL** |
-| **2024/06/04** | Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking | Zefeng Zhang et al. | [2406.01934v2](http://arxiv.org/abs/2406.01934v2) | [**link**](https://github.com/zhangzef/ot-mel) |
-| **2024/06/03** | Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks | Hasan Zan et al. | [2406.01834v1](http://arxiv.org/abs/2406.01834v1) | **NULL** |
-| **2024/06/03** | CAFO: Feature-Centric Explanation on Time Series Classification | Jaeho Kim et al. | [2406.01833v1](http://arxiv.org/abs/2406.01833v1) | [**link**](https://github.com/eai-lab/cafo) |
 
 ## 背景差分
 
