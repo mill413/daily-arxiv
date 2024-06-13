@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/12 08:51:27
+> Updated on 2024/06/13 08:50:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/11** | Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling | Liliang Ren et al. | [2406.07522v1](http://arxiv.org/abs/2406.07522v1) | **NULL** |
+| **2024/06/11** | ReduceFormer: Attention with Tensor Reduction by Summation | John Yang et al. | [2406.07488v1](http://arxiv.org/abs/2406.07488v1) | **NULL** |
+| **2024/06/11** | Dynamical Mean-Field Theory of Self-Attention Neural Networks | Ángel Poc-López et al. | [2406.07247v1](http://arxiv.org/abs/2406.07247v1) | **NULL** |
+| **2024/06/11** | MeMSVD: Long-Range Temporal Structure Capturing Using Incremental SVD | Ioanna Ntinou et al. | [2406.07191v1](http://arxiv.org/abs/2406.07191v1) | **NULL** |
+| **2024/06/11** | Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology | Huahui Yi et al. | [2406.07078v1](http://arxiv.org/abs/2406.07078v1) | [**link**](https://github.com/huahuiyi/mmdp) |
 | **2024/06/10** | Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer | Sigal Raab et al. | [2406.06508v1](http://arxiv.org/abs/2406.06508v1) | [**link**](https://github.com/monkeyseedocg/momo-code) |
 | **2024/06/10** | Continuum Attention for Neural Operators | Edoardo Calvello et al. | [2406.06486v1](http://arxiv.org/abs/2406.06486v1) | **NULL** |
 | **2024/06/10** | Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data | Nicole Hayes et al. | [2406.06479v1](http://arxiv.org/abs/2406.06479v1) | **NULL** |
@@ -66,6 +71,7 @@ layout: default
 | **2024/06/09** | Mamba YOLO: SSMs-Based YOLO For Object Detection | Zeyu Wang et al. | [2406.05835v1](http://arxiv.org/abs/2406.05835v1) | [**link**](https://github.com/hzai-zjnu/mamba-yolo) |
 | **2024/06/09** | What Can We Learn from State Space Models for Machine Learning on Graphs? | Yinan Huang et al. | [2406.05815v1](http://arxiv.org/abs/2406.05815v1) | [**link**](https://github.com/graph-com/gssc) |
 | **2024/06/09** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention | Muhammad Nawfal Meeran et al. | [2406.05802v1](http://arxiv.org/abs/2406.05802v1) | [**link**](https://github.com/spidernitt/sam-pm) |
+| **2024/06/09** | Particle Multi-Axis Transformer for Jet Tagging | Muhammad Usman et al. | [2406.06638v1](http://arxiv.org/abs/2406.06638v1) | **NULL** |
 | **2024/06/09** | SinkLoRA: Enhanced Efficiency and Chat Capabilities for Long-Context Large Language Models | Hengyu Zhang | [2406.05678v1](http://arxiv.org/abs/2406.05678v1) | [**link**](https://github.com/dexter-gt-86/sinklora) |
 | **2024/06/09** | Visual Prompt Tuning in Null Space for Continual Learning | Yue Lu et al. | [2406.05658v2](http://arxiv.org/abs/2406.05658v2) | [**link**](https://github.com/zugexiaodui/vptinnsforcl) |
 | **2024/06/08** | Exploring Adversarial Robustness of Deep State Space Models | Biqing Qi et al. | [2406.05532v1](http://arxiv.org/abs/2406.05532v1) | **NULL** |
@@ -76,13 +82,7 @@ layout: default
 | **2024/06/07** | Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior | Tanvir Mahmud et al. | [2406.04873v1](http://arxiv.org/abs/2406.04873v1) | **NULL** |
 | **2024/06/07** | CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion | Haolong Ma et al. | [2406.04689v1](http://arxiv.org/abs/2406.04689v1) | **NULL** |
 | **2024/06/07** | Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks | Yong-Min Shin et al. | [2406.04612v1](http://arxiv.org/abs/2406.04612v1) | [**link**](https://github.com/jordan7186/gatt) |
-| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v2](http://arxiv.org/abs/2406.04467v2) | **NULL** |
-| **2024/06/06** | Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry | Kaichen Zhou | [2406.04301v1](http://arxiv.org/abs/2406.04301v1) | **NULL** |
-| **2024/06/06** | VideoTetris: Towards Compositional Text-to-Video Generation | Ye Tian et al. | [2406.04277v1](http://arxiv.org/abs/2406.04277v1) | [**link**](https://github.com/yangling0818/videotetris) |
-| **2024/06/06** | Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors | Tam Thuc Do et al. | [2406.04090v1](http://arxiv.org/abs/2406.04090v1) | **NULL** |
-| **2024/06/06** | Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations | Jan Hagnberger et al. | [2406.03919v1](http://arxiv.org/abs/2406.03919v1) | [**link**](https://github.com/jhagnberger/vcnef) |
-| **2024/06/06** | Decoder-only Streaming Transformer for Simultaneous Translation | Shoutao Guo et al. | [2406.03878v1](http://arxiv.org/abs/2406.03878v1) | [**link**](https://github.com/ictnlp/DST) |
-| **2024/06/06** | A Noise-robust Multi-head Attention Mechanism for Formation Resistivity Prediction: Frequency Aware LSTM | Yongan Zhang et al. | [2406.03849v1](http://arxiv.org/abs/2406.03849v1) | **NULL** |
+| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v2](http://arxiv.org/abs/2406.04467v2) | [**link**](https://github.com/theodorblackbird/lina-speech) |
 
 ## 背景差分
 
