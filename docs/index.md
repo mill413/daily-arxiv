@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/13 08:50:37
+> Updated on 2024/06/14 08:50:46
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
+| **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | **NULL** |
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v2](http://arxiv.org/abs/2406.05755v2) | [**link**](https://github.com/hoiliu-0801/dntr) |
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
 | **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
@@ -46,16 +48,17 @@ layout: default
 | **2023/09/27** | Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps | Vipin Gautam et al. | [2309.15782v1](http://arxiv.org/abs/2309.15782v1) | **NULL** |
 | **2023/09/23** | Randomize to Generalize: Domain Randomization for Runway FOD Detection | Javaria Farooq et al. | [2309.13264v1](http://arxiv.org/abs/2309.13264v1) | **NULL** |
 | **2023/09/20** | Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection | Son The Nguyen et al. | [2309.11069v1](http://arxiv.org/abs/2309.11069v1) | **NULL** |
-| **2023/09/15** | OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction | Yupeng Jia et al. | [2309.08504v3](http://arxiv.org/abs/2309.08504v3) | **NULL** |
-| **2023/09/13** | Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances | Xiangrong Zhang et al. | [2309.06751v1](http://arxiv.org/abs/2309.06751v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/12** | Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization | Fengxiao Tang et al. | [2406.08305v1](http://arxiv.org/abs/2406.08305v1) | **NULL** |
+| **2024/06/12** | Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences | Zicheng Liu et al. | [2406.08128v2](http://arxiv.org/abs/2406.08128v2) | **NULL** |
+| **2024/06/12** | Incremental Learning and Self-Attention Mechanisms Improve Neural System Identification | Isaac Lin et al. | [2406.07843v1](http://arxiv.org/abs/2406.07843v1) | **NULL** |
 | **2024/06/11** | Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling | Liliang Ren et al. | [2406.07522v1](http://arxiv.org/abs/2406.07522v1) | **NULL** |
 | **2024/06/11** | ReduceFormer: Attention with Tensor Reduction by Summation | John Yang et al. | [2406.07488v1](http://arxiv.org/abs/2406.07488v1) | **NULL** |
-| **2024/06/11** | Dynamical Mean-Field Theory of Self-Attention Neural Networks | Ángel Poc-López et al. | [2406.07247v1](http://arxiv.org/abs/2406.07247v1) | **NULL** |
+| **2024/06/11** | Dynamical Mean-Field Theory of Self-Attention Neural Networks | Ángel Poc-López et al. | [2406.07247v1](http://arxiv.org/abs/2406.07247v1) | [**link**](https://github.com/muxitox/Dynamical-MF-Self-Attention) |
 | **2024/06/11** | MeMSVD: Long-Range Temporal Structure Capturing Using Incremental SVD | Ioanna Ntinou et al. | [2406.07191v1](http://arxiv.org/abs/2406.07191v1) | **NULL** |
 | **2024/06/11** | Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology | Huahui Yi et al. | [2406.07078v1](http://arxiv.org/abs/2406.07078v1) | [**link**](https://github.com/huahuiyi/mmdp) |
 | **2024/06/10** | Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer | Sigal Raab et al. | [2406.06508v1](http://arxiv.org/abs/2406.06508v1) | [**link**](https://github.com/monkeyseedocg/momo-code) |
@@ -73,16 +76,13 @@ layout: default
 | **2024/06/09** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention | Muhammad Nawfal Meeran et al. | [2406.05802v1](http://arxiv.org/abs/2406.05802v1) | [**link**](https://github.com/spidernitt/sam-pm) |
 | **2024/06/09** | Particle Multi-Axis Transformer for Jet Tagging | Muhammad Usman et al. | [2406.06638v1](http://arxiv.org/abs/2406.06638v1) | **NULL** |
 | **2024/06/09** | SinkLoRA: Enhanced Efficiency and Chat Capabilities for Long-Context Large Language Models | Hengyu Zhang | [2406.05678v1](http://arxiv.org/abs/2406.05678v1) | [**link**](https://github.com/dexter-gt-86/sinklora) |
-| **2024/06/09** | Visual Prompt Tuning in Null Space for Continual Learning | Yue Lu et al. | [2406.05658v2](http://arxiv.org/abs/2406.05658v2) | [**link**](https://github.com/zugexiaodui/vptinnsforcl) |
+| **2024/06/09** | Visual Prompt Tuning in Null Space for Continual Learning | Yue Lu et al. | [2406.05658v2](http://arxiv.org/abs/2406.05658v2) | **NULL** |
 | **2024/06/08** | Exploring Adversarial Robustness of Deep State Space Models | Biqing Qi et al. | [2406.05532v1](http://arxiv.org/abs/2406.05532v1) | **NULL** |
 | **2024/06/08** | Integrating Text and Image Pre-training for Multi-modal Algorithmic Reasoning | Zijian Zhang et al. | [2406.05318v1](http://arxiv.org/abs/2406.05318v1) | **NULL** |
 | **2024/06/08** | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | Chaolv Zeng et al. | [2406.05316v1](http://arxiv.org/abs/2406.05316v1) | [**link**](https://github.com/luodhhh/moderntcn) |
 | **2024/06/07** | Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs | Shentong Mo | [2406.05038v1](http://arxiv.org/abs/2406.05038v1) | **NULL** |
 | **2024/06/07** | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | Juncheng Liu et al. | [2406.04975v1](http://arxiv.org/abs/2406.04975v1) | **NULL** |
 | **2024/06/07** | Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior | Tanvir Mahmud et al. | [2406.04873v1](http://arxiv.org/abs/2406.04873v1) | **NULL** |
-| **2024/06/07** | CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion | Haolong Ma et al. | [2406.04689v1](http://arxiv.org/abs/2406.04689v1) | **NULL** |
-| **2024/06/07** | Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks | Yong-Min Shin et al. | [2406.04612v1](http://arxiv.org/abs/2406.04612v1) | [**link**](https://github.com/jordan7186/gatt) |
-| **2024/06/06** | Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis | Théodor Lemerle et al. | [2406.04467v2](http://arxiv.org/abs/2406.04467v2) | [**link**](https://github.com/theodorblackbird/lina-speech) |
 
 ## 背景差分
 
