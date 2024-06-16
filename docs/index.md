@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/14 08:50:46
+> Updated on 2024/06/16 08:54:55
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/13** | Memory-Efficient Sparse Pyramid Attention Networks for Whole Slide Image Analysis | Weiyi Wu et al. | [2406.09333v1](http://arxiv.org/abs/2406.09333v1) | **NULL** |
+| **2024/06/13** | Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns | Kaavya Rekanar et al. | [2406.09203v1](http://arxiv.org/abs/2406.09203v1) | **NULL** |
+| **2024/06/13** | Adaptive Slot Attention: Object Discovery with Dynamic Slot Number | Ke Fan et al. | [2406.09196v1](http://arxiv.org/abs/2406.09196v1) | **NULL** |
+| **2024/06/13** | EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts | Yucheng Han et al. | [2406.09162v1](http://arxiv.org/abs/2406.09162v1) | **NULL** |
+| **2024/06/13** | Contextual Distillation Model for Diversified Recommendation | Fan Li et al. | [2406.09021v1](http://arxiv.org/abs/2406.09021v1) | **NULL** |
+| **2024/06/13** | AMSA-UNet: An Asymmetric Multiple Scales U-net Based on Self-attention for Deblurring | Yingying Wang | [2406.09015v1](http://arxiv.org/abs/2406.09015v1) | **NULL** |
+| **2024/06/13** | SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search | Yize Sun et al. | [2406.08882v1](http://arxiv.org/abs/2406.08882v1) | **NULL** |
+| **2024/06/13** | Research on Optimization of Natural Language Processing Model Based on Multimodal Deep Learning | Dan Sun et al. | [2406.08838v1](http://arxiv.org/abs/2406.08838v1) | **NULL** |
+| **2024/06/13** | AGFA-Net: Attention-Guided and Feature-Aggregated Network for Coronary Artery Segmentation using Computed Tomography Angiography | Xinyun Liu et al. | [2406.08724v1](http://arxiv.org/abs/2406.08724v1) | **NULL** |
 | **2024/06/12** | Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization | Fengxiao Tang et al. | [2406.08305v1](http://arxiv.org/abs/2406.08305v1) | **NULL** |
 | **2024/06/12** | Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences | Zicheng Liu et al. | [2406.08128v2](http://arxiv.org/abs/2406.08128v2) | **NULL** |
 | **2024/06/12** | Incremental Learning and Self-Attention Mechanisms Improve Neural System Identification | Isaac Lin et al. | [2406.07843v1](http://arxiv.org/abs/2406.07843v1) | **NULL** |
-| **2024/06/11** | Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling | Liliang Ren et al. | [2406.07522v1](http://arxiv.org/abs/2406.07522v1) | **NULL** |
+| **2024/06/11** | Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling | Liliang Ren et al. | [2406.07522v1](http://arxiv.org/abs/2406.07522v1) | [**link**](https://github.com/microsoft/Samba) |
 | **2024/06/11** | ReduceFormer: Attention with Tensor Reduction by Summation | John Yang et al. | [2406.07488v1](http://arxiv.org/abs/2406.07488v1) | **NULL** |
 | **2024/06/11** | Dynamical Mean-Field Theory of Self-Attention Neural Networks | Ángel Poc-López et al. | [2406.07247v1](http://arxiv.org/abs/2406.07247v1) | [**link**](https://github.com/muxitox/Dynamical-MF-Self-Attention) |
 | **2024/06/11** | MeMSVD: Long-Range Temporal Structure Capturing Using Incremental SVD | Ioanna Ntinou et al. | [2406.07191v1](http://arxiv.org/abs/2406.07191v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/06/09** | Mamba YOLO: SSMs-Based YOLO For Object Detection | Zeyu Wang et al. | [2406.05835v1](http://arxiv.org/abs/2406.05835v1) | [**link**](https://github.com/hzai-zjnu/mamba-yolo) |
 | **2024/06/09** | What Can We Learn from State Space Models for Machine Learning on Graphs? | Yinan Huang et al. | [2406.05815v1](http://arxiv.org/abs/2406.05815v1) | [**link**](https://github.com/graph-com/gssc) |
 | **2024/06/09** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention | Muhammad Nawfal Meeran et al. | [2406.05802v1](http://arxiv.org/abs/2406.05802v1) | [**link**](https://github.com/spidernitt/sam-pm) |
-| **2024/06/09** | Particle Multi-Axis Transformer for Jet Tagging | Muhammad Usman et al. | [2406.06638v1](http://arxiv.org/abs/2406.06638v1) | **NULL** |
-| **2024/06/09** | SinkLoRA: Enhanced Efficiency and Chat Capabilities for Long-Context Large Language Models | Hengyu Zhang | [2406.05678v1](http://arxiv.org/abs/2406.05678v1) | [**link**](https://github.com/dexter-gt-86/sinklora) |
-| **2024/06/09** | Visual Prompt Tuning in Null Space for Continual Learning | Yue Lu et al. | [2406.05658v2](http://arxiv.org/abs/2406.05658v2) | **NULL** |
-| **2024/06/08** | Exploring Adversarial Robustness of Deep State Space Models | Biqing Qi et al. | [2406.05532v1](http://arxiv.org/abs/2406.05532v1) | **NULL** |
-| **2024/06/08** | Integrating Text and Image Pre-training for Multi-modal Algorithmic Reasoning | Zijian Zhang et al. | [2406.05318v1](http://arxiv.org/abs/2406.05318v1) | **NULL** |
-| **2024/06/08** | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | Chaolv Zeng et al. | [2406.05316v1](http://arxiv.org/abs/2406.05316v1) | [**link**](https://github.com/luodhhh/moderntcn) |
-| **2024/06/07** | Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs | Shentong Mo | [2406.05038v1](http://arxiv.org/abs/2406.05038v1) | **NULL** |
-| **2024/06/07** | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | Juncheng Liu et al. | [2406.04975v1](http://arxiv.org/abs/2406.04975v1) | **NULL** |
-| **2024/06/07** | Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior | Tanvir Mahmud et al. | [2406.04873v1](http://arxiv.org/abs/2406.04873v1) | **NULL** |
 
 ## 背景差分
 
