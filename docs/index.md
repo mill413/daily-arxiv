@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/16 08:54:55
+> Updated on 2024/06/17 08:52:47
 
 <summary>Table of Contents</summary>
 
@@ -63,7 +63,7 @@ layout: default
 | **2024/06/13** | Research on Optimization of Natural Language Processing Model Based on Multimodal Deep Learning | Dan Sun et al. | [2406.08838v1](http://arxiv.org/abs/2406.08838v1) | **NULL** |
 | **2024/06/13** | AGFA-Net: Attention-Guided and Feature-Aggregated Network for Coronary Artery Segmentation using Computed Tomography Angiography | Xinyun Liu et al. | [2406.08724v1](http://arxiv.org/abs/2406.08724v1) | **NULL** |
 | **2024/06/12** | Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization | Fengxiao Tang et al. | [2406.08305v1](http://arxiv.org/abs/2406.08305v1) | **NULL** |
-| **2024/06/12** | Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences | Zicheng Liu et al. | [2406.08128v2](http://arxiv.org/abs/2406.08128v2) | **NULL** |
+| **2024/06/12** | Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences | Zicheng Liu et al. | [2406.08128v3](http://arxiv.org/abs/2406.08128v3) | **NULL** |
 | **2024/06/12** | Incremental Learning and Self-Attention Mechanisms Improve Neural System Identification | Isaac Lin et al. | [2406.07843v1](http://arxiv.org/abs/2406.07843v1) | **NULL** |
 | **2024/06/11** | Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling | Liliang Ren et al. | [2406.07522v1](http://arxiv.org/abs/2406.07522v1) | [**link**](https://github.com/microsoft/Samba) |
 | **2024/06/11** | ReduceFormer: Attention with Tensor Reduction by Summation | John Yang et al. | [2406.07488v1](http://arxiv.org/abs/2406.07488v1) | **NULL** |
