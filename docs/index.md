@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/17 08:52:47
+> Updated on 2024/06/18 08:51:21
 
 <summary>Table of Contents</summary>
 
@@ -20,7 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | **NULL** |
-| **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v2](http://arxiv.org/abs/2406.05755v2) | [**link**](https://github.com/hoiliu-0801/dntr) |
+| **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
 | **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
@@ -34,7 +34,7 @@ layout: default
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
-| **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | **NULL** |
+| **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
@@ -43,16 +43,23 @@ layout: default
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
 | **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
+| **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v2](http://arxiv.org/abs/2310.13876v2) | **NULL** |
 | **2023/10/09** | DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network | Md Sohag Mia et al. | [2310.05768v2](http://arxiv.org/abs/2310.05768v2) | **NULL** |
 | **2023/09/28** | HIC-YOLOv5: Improved YOLOv5 For Small Object Detection | Shiyi Tang et al. | [2309.16393v2](http://arxiv.org/abs/2309.16393v2) | [**link**](https://github.com/Jacoo-ai/HIC-Yolov5) |
 | **2023/09/27** | Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps | Vipin Gautam et al. | [2309.15782v1](http://arxiv.org/abs/2309.15782v1) | **NULL** |
 | **2023/09/23** | Randomize to Generalize: Domain Randomization for Runway FOD Detection | Javaria Farooq et al. | [2309.13264v1](http://arxiv.org/abs/2309.13264v1) | **NULL** |
-| **2023/09/20** | Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection | Son The Nguyen et al. | [2309.11069v1](http://arxiv.org/abs/2309.11069v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/14** | SSTFB: Leveraging self-supervised pretext learning and temporal self-attention with feature branching for real-time video polyp segmentation | Ziang Xu et al. | [2406.10200v1](http://arxiv.org/abs/2406.10200v1) | **NULL** |
+| **2024/06/14** | Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency | Weide Liu et al. | [2406.10175v1](http://arxiv.org/abs/2406.10175v1) | **NULL** |
+| **2024/06/14** | ECGMamba: Towards Efficient ECG Classification with BiSSM | Yupeng Qiang et al. | [2406.10098v1](http://arxiv.org/abs/2406.10098v1) | **NULL** |
+| **2024/06/14** | SCKansformer: Fine-Grained Classification of Bone Marrow Cells via Kansformer Backbone and Hierarchical Attention Mechanisms | Yifei Chen et al. | [2406.09931v1](http://arxiv.org/abs/2406.09931v1) | [**link**](https://github.com/justlfc03/sckansformer) |
+| **2024/06/14** | SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering | Zhe Yang et al. | [2406.09833v1](http://arxiv.org/abs/2406.09833v1) | **NULL** |
+| **2024/06/14** | HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning | Heejun Lee et al. | [2406.09827v1](http://arxiv.org/abs/2406.09827v1) | **NULL** |
+| **2024/06/14** | An I2I Inpainting Approach for Efficient Channel Knowledge Map Construction | Zhenzhou Jin et al. | [2406.09822v1](http://arxiv.org/abs/2406.09822v1) | **NULL** |
 | **2024/06/13** | Memory-Efficient Sparse Pyramid Attention Networks for Whole Slide Image Analysis | Weiyi Wu et al. | [2406.09333v1](http://arxiv.org/abs/2406.09333v1) | **NULL** |
 | **2024/06/13** | Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns | Kaavya Rekanar et al. | [2406.09203v1](http://arxiv.org/abs/2406.09203v1) | **NULL** |
 | **2024/06/13** | Adaptive Slot Attention: Object Discovery with Dynamic Slot Number | Ke Fan et al. | [2406.09196v1](http://arxiv.org/abs/2406.09196v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/06/10** | SYM3D: Learning Symmetric Triplanes for Better 3D-Awareness of GANs | Jing Yang et al. | [2406.06432v1](http://arxiv.org/abs/2406.06432v1) | **NULL** |
 | **2024/06/10** | Symmetric Dot-Product Attention for Efficient Training of BERT Language Models | Martin Courtois et al. | [2406.06366v1](http://arxiv.org/abs/2406.06366v1) | **NULL** |
 | **2024/06/10** | Tuning-Free Visual Customization via View Iterative Self-Attention Control | Xiaojie Li et al. | [2406.06258v2](http://arxiv.org/abs/2406.06258v2) | **NULL** |
-| **2024/06/10** | An Effective-Efficient Approach for Dense Multi-Label Action Detection | Faegheh Sardari et al. | [2406.06187v1](http://arxiv.org/abs/2406.06187v1) | **NULL** |
-| **2024/06/10** | Can I understand what I create? Self-Knowledge Evaluation of Large Language Models | Zhiquan Tan et al. | [2406.06140v1](http://arxiv.org/abs/2406.06140v1) | **NULL** |
-| **2024/06/10** | PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis | Jia-wei Chen et al. | [2406.06069v1](http://arxiv.org/abs/2406.06069v1) | **NULL** |
-| **2024/06/10** | Generalizable Human Gaussians from Single-View Image | Jinnan Chen et al. | [2406.06050v1](http://arxiv.org/abs/2406.06050v1) | [**link**](https://github.com/jinnan-chen/HGM) |
-| **2024/06/09** | Mamba YOLO: SSMs-Based YOLO For Object Detection | Zeyu Wang et al. | [2406.05835v1](http://arxiv.org/abs/2406.05835v1) | [**link**](https://github.com/hzai-zjnu/mamba-yolo) |
-| **2024/06/09** | What Can We Learn from State Space Models for Machine Learning on Graphs? | Yinan Huang et al. | [2406.05815v1](http://arxiv.org/abs/2406.05815v1) | [**link**](https://github.com/graph-com/gssc) |
-| **2024/06/09** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention | Muhammad Nawfal Meeran et al. | [2406.05802v1](http://arxiv.org/abs/2406.05802v1) | [**link**](https://github.com/spidernitt/sam-pm) |
 
 ## 背景差分
 
