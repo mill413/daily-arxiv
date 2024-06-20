@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/19 08:51:33
+> Updated on 2024/06/20 08:49:30
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/18** | On the Robustness of Language Models for Tabular Question Answering | Kushal Raj Bhandari et al. | [2406.12719v1](http://arxiv.org/abs/2406.12719v1) | **NULL** |
+| **2024/06/18** | Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images | Nagur Shareef Shaik et al. | [2406.12683v1](http://arxiv.org/abs/2406.12683v1) | **NULL** |
+| **2024/06/18** | Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters | Jiawei Mao et al. | [2406.12587v1](http://arxiv.org/abs/2406.12587v1) | **NULL** |
+| **2024/06/18** | RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes | Xiaoshan Yu et al. | [2406.12465v1](http://arxiv.org/abs/2406.12465v1) | **NULL** |
+| **2024/06/18** | Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking | Ryo Karakida et al. | [2406.12220v1](http://arxiv.org/abs/2406.12220v1) | **NULL** |
+| **2024/06/17** | A Scalable and Effective Alternative to Graph Transformers | Kaan Sancak et al. | [2406.12059v1](http://arxiv.org/abs/2406.12059v1) | **NULL** |
+| **2024/06/17** | WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions | Seyedali Mohammadi et al. | [2406.12058v1](http://arxiv.org/abs/2406.12058v1) | **NULL** |
 | **2024/06/17** | Composing Object Relations and Attributes for Image-Text Matching | Khoi Pham et al. | [2406.11820v1](http://arxiv.org/abs/2406.11820v1) | **NULL** |
+| **2024/06/17** | Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction | Junwei You et al. | [2406.11941v1](http://arxiv.org/abs/2406.11941v1) | **NULL** |
 | **2024/06/17** | Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures | Enrico Russo et al. | [2406.11452v1](http://arxiv.org/abs/2406.11452v1) | **NULL** |
 | **2024/06/17** | Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks | Peter Samoaa et al. | [2406.11437v1](http://arxiv.org/abs/2406.11437v1) | [**link**](https://github.com/petersamoaa/tree_based_nn_error_analysis) |
 | **2024/06/17** | DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer | Keon Lee et al. | [2406.11427v1](http://arxiv.org/abs/2406.11427v1) | **NULL** |
+| **2024/06/17** | Rethinking Spatio-Temporal Transformer for Traffic Prediction:Multi-level Multi-view Augmented Learning Framework | Jiaqi Lin et al. | [2406.11921v1](http://arxiv.org/abs/2406.11921v1) | **NULL** |
 | **2024/06/17** | Skip-Layer Attention: Bridging Abstract and Detailed Dependencies in Transformers | Qian Chen et al. | [2406.11274v1](http://arxiv.org/abs/2406.11274v1) | **NULL** |
 | **2024/06/17** | YOLO9tr: A Lightweight Model for Pavement Damage Detection Utilizing a Generalized Efficient Layer Aggregation Network and Attention Mechanism | Sompote Youwai et al. | [2406.11254v2](http://arxiv.org/abs/2406.11254v2) | [**link**](https://github.com/Sompote/YOLO9tr) |
 | **2024/06/16** | SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection | Lin Liu et al. | [2406.10907v1](http://arxiv.org/abs/2406.10907v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/06/14** | SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering | Zhe Yang et al. | [2406.09833v1](http://arxiv.org/abs/2406.09833v1) | **NULL** |
 | **2024/06/14** | HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning | Heejun Lee et al. | [2406.09827v1](http://arxiv.org/abs/2406.09827v1) | **NULL** |
 | **2024/06/14** | An I2I Inpainting Approach for Efficient Channel Knowledge Map Construction | Zhenzhou Jin et al. | [2406.09822v1](http://arxiv.org/abs/2406.09822v1) | **NULL** |
-| **2024/06/13** | Memory-Efficient Sparse Pyramid Attention Networks for Whole Slide Image Analysis | Weiyi Wu et al. | [2406.09333v1](http://arxiv.org/abs/2406.09333v1) | **NULL** |
-| **2024/06/13** | Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns | Kaavya Rekanar et al. | [2406.09203v1](http://arxiv.org/abs/2406.09203v1) | **NULL** |
-| **2024/06/13** | Adaptive Slot Attention: Object Discovery with Dynamic Slot Number | Ke Fan et al. | [2406.09196v1](http://arxiv.org/abs/2406.09196v1) | **NULL** |
-| **2024/06/13** | EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts | Yucheng Han et al. | [2406.09162v1](http://arxiv.org/abs/2406.09162v1) | **NULL** |
-| **2024/06/13** | Contextual Distillation Model for Diversified Recommendation | Fan Li et al. | [2406.09021v1](http://arxiv.org/abs/2406.09021v1) | **NULL** |
-| **2024/06/13** | AMSA-UNet: An Asymmetric Multiple Scales U-net Based on Self-attention for Deblurring | Yingying Wang | [2406.09015v1](http://arxiv.org/abs/2406.09015v1) | **NULL** |
-| **2024/06/13** | SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search | Yize Sun et al. | [2406.08882v1](http://arxiv.org/abs/2406.08882v1) | **NULL** |
-| **2024/06/13** | Research on Optimization of Natural Language Processing Model Based on Multimodal Deep Learning | Dan Sun et al. | [2406.08838v1](http://arxiv.org/abs/2406.08838v1) | **NULL** |
-| **2024/06/13** | AGFA-Net: Attention-Guided and Feature-Aggregated Network for Coronary Artery Segmentation using Computed Tomography Angiography | Xinyun Liu et al. | [2406.08724v1](http://arxiv.org/abs/2406.08724v1) | **NULL** |
 
 ## 背景差分
 
