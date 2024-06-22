@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/21 08:50:10
+> Updated on 2024/06/22 08:49:42
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/xinyiying24/rgbt-tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
@@ -43,23 +44,32 @@ layout: default
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
 | **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
-| **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | **NULL** |
+| **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | [**link**](https://github.com/Bissmella/Small-object-detection-transformers) |
 | **2023/10/09** | DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network | Md Sohag Mia et al. | [2310.05768v2](http://arxiv.org/abs/2310.05768v2) | **NULL** |
 | **2023/09/28** | HIC-YOLOv5: Improved YOLOv5 For Small Object Detection | Shiyi Tang et al. | [2309.16393v2](http://arxiv.org/abs/2309.16393v2) | [**link**](https://github.com/Jacoo-ai/HIC-Yolov5) |
 | **2023/09/27** | Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps | Vipin Gautam et al. | [2309.15782v1](http://arxiv.org/abs/2309.15782v1) | **NULL** |
-| **2023/09/23** | Randomize to Generalize: Domain Randomization for Runway FOD Detection | Javaria Farooq et al. | [2309.13264v1](http://arxiv.org/abs/2309.13264v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/20** | Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach | Mohamed Fadhlallah Guerri et al. | [2406.14120v1](http://arxiv.org/abs/2406.14120v1) | **NULL** |
+| **2024/06/20** | Self-Attention in Transformer Networks Explains Monkeys' Gaze Pattern in Pac-Man Game | Zhongqiao Lin et al. | [2406.14100v1](http://arxiv.org/abs/2406.14100v1) | **NULL** |
+| **2024/06/20** | Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields | Jintong Hu et al. | [2406.14052v1](http://arxiv.org/abs/2406.14052v1) | **NULL** |
+| **2024/06/20** | Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition | Yimin Zhao et al. | [2406.14014v1](http://arxiv.org/abs/2406.14014v1) | [**link**](https://github.com/ztony0712/MCA) |
+| **2024/06/19** | A Primal-Dual Framework for Transformers and Neural Networks | Tan M. Nguyen et al. | [2406.13781v1](http://arxiv.org/abs/2406.13781v1) | **NULL** |
+| **2024/06/19** | Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis | Rachel S. Y. Teo et al. | [2406.13762v1](http://arxiv.org/abs/2406.13762v1) | **NULL** |
+| **2024/06/19** | In-Context Former: Lightning-fast Compressing Context for Large Language Model | Xiangfeng Wang et al. | [2406.13618v1](http://arxiv.org/abs/2406.13618v1) | **NULL** |
+| **2024/06/19** | Strengthening Layer Interaction via Dynamic Layer Attention | Kaishen Wang et al. | [2406.13392v1](http://arxiv.org/abs/2406.13392v1) | [**link**](https://github.com/tunantu/dynamic-layer-attention) |
+| **2024/06/19** | ECAFormer: Low-light Image Enhancement using Cross Attention | Yudi Ruan et al. | [2406.13281v1](http://arxiv.org/abs/2406.13281v1) | **NULL** |
+| **2024/06/19** | Guided Context Gating: Learning to leverage salient lesions in retinal fundus images | Teja Krishna Cherukuri et al. | [2406.13126v1](http://arxiv.org/abs/2406.13126v1) | **NULL** |
 | **2024/06/18** | On the Robustness of Language Models for Tabular Question Answering | Kushal Raj Bhandari et al. | [2406.12719v1](http://arxiv.org/abs/2406.12719v1) | **NULL** |
 | **2024/06/18** | Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images | Nagur Shareef Shaik et al. | [2406.12683v1](http://arxiv.org/abs/2406.12683v1) | **NULL** |
 | **2024/06/18** | Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters | Jiawei Mao et al. | [2406.12587v1](http://arxiv.org/abs/2406.12587v1) | **NULL** |
 | **2024/06/18** | RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes | Xiaoshan Yu et al. | [2406.12465v1](http://arxiv.org/abs/2406.12465v1) | **NULL** |
-| **2024/06/18** | Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking | Ryo Karakida et al. | [2406.12220v1](http://arxiv.org/abs/2406.12220v1) | **NULL** |
+| **2024/06/18** | Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking | Ryo Karakida et al. | [2406.12220v1](http://arxiv.org/abs/2406.12220v1) | [**link**](https://github.com/Toshihiro-Ota/paramixer) |
 | **2024/06/17** | A Scalable and Effective Alternative to Graph Transformers | Kaan Sancak et al. | [2406.12059v1](http://arxiv.org/abs/2406.12059v1) | **NULL** |
-| **2024/06/17** | WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions | Seyedali Mohammadi et al. | [2406.12058v1](http://arxiv.org/abs/2406.12058v1) | **NULL** |
+| **2024/06/17** | WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions | Seyedali Mohammadi et al. | [2406.12058v2](http://arxiv.org/abs/2406.12058v2) | **NULL** |
 | **2024/06/17** | Composing Object Relations and Attributes for Image-Text Matching | Khoi Pham et al. | [2406.11820v1](http://arxiv.org/abs/2406.11820v1) | **NULL** |
 | **2024/06/17** | Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction | Junwei You et al. | [2406.11941v1](http://arxiv.org/abs/2406.11941v1) | **NULL** |
 | **2024/06/17** | Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures | Enrico Russo et al. | [2406.11452v1](http://arxiv.org/abs/2406.11452v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/06/16** | Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution | Cuixin Yang et al. | [2406.10869v1](http://arxiv.org/abs/2406.10869v1) | **NULL** |
 | **2024/06/16** | Iterated Schrödinger bridge approximation to Wasserstein Gradient Flows | Medha Agarwal et al. | [2406.10823v1](http://arxiv.org/abs/2406.10823v1) | **NULL** |
 | **2024/06/15** | How Should We Extract Discrete Audio Tokens from Self-Supervised Models? | Pooneh Mousavi et al. | [2406.10735v1](http://arxiv.org/abs/2406.10735v1) | **NULL** |
-| **2024/06/15** | Double Multi-Head Attention Multimodal System for Odyssey 2024 Speech Emotion Recognition Challenge | Federico Costa et al. | [2406.10598v1](http://arxiv.org/abs/2406.10598v1) | **NULL** |
-| **2024/06/15** | CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach | Hui Li et al. | [2406.10581v1](http://arxiv.org/abs/2406.10581v1) | [**link**](https://github.com/hli1221/crossfuse) |
-| **2024/06/15** | Large Language Models as Event Forecasters | Libo Zhang et al. | [2406.10492v1](http://arxiv.org/abs/2406.10492v1) | **NULL** |
-| **2024/06/14** | SSTFB: Leveraging self-supervised pretext learning and temporal self-attention with feature branching for real-time video polyp segmentation | Ziang Xu et al. | [2406.10200v1](http://arxiv.org/abs/2406.10200v1) | **NULL** |
-| **2024/06/14** | Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency | Weide Liu et al. | [2406.10175v1](http://arxiv.org/abs/2406.10175v1) | **NULL** |
-| **2024/06/14** | ECGMamba: Towards Efficient ECG Classification with BiSSM | Yupeng Qiang et al. | [2406.10098v1](http://arxiv.org/abs/2406.10098v1) | **NULL** |
-| **2024/06/14** | SCKansformer: Fine-Grained Classification of Bone Marrow Cells via Kansformer Backbone and Hierarchical Attention Mechanisms | Yifei Chen et al. | [2406.09931v1](http://arxiv.org/abs/2406.09931v1) | [**link**](https://github.com/justlfc03/sckansformer) |
-| **2024/06/14** | SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering | Zhe Yang et al. | [2406.09833v1](http://arxiv.org/abs/2406.09833v1) | **NULL** |
-| **2024/06/14** | HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning | Heejun Lee et al. | [2406.09827v1](http://arxiv.org/abs/2406.09827v1) | **NULL** |
-| **2024/06/14** | An I2I Inpainting Approach for Efficient Channel Knowledge Map Construction | Zhenzhou Jin et al. | [2406.09822v1](http://arxiv.org/abs/2406.09822v1) | **NULL** |
 
 ## 背景差分
 
