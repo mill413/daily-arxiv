@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/24 08:52:32
+> Updated on 2024/06/25 08:51:04
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
+| **2024/06/21** | Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild | Nadav Orzech et al. | [2406.15331v1](http://arxiv.org/abs/2406.15331v1) | **NULL** |
+| **2024/06/21** | Fine-grained Attention in Hierarchical Transformers for Tabular Time-series | Raphael Azorin et al. | [2406.15327v1](http://arxiv.org/abs/2406.15327v1) | [**link**](https://github.com/raphaaal/fieldy) |
+| **2024/06/21** | A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion | Ayush Roy et al. | [2406.15128v1](http://arxiv.org/abs/2406.15128v1) | [**link**](https://github.com/ayushroy2001/wagf-fusion) |
+| **2024/06/21** | FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays | Ayush Roy et al. | [2406.15117v1](http://arxiv.org/abs/2406.15117v1) | [**link**](https://github.com/ayushroy2001/fa-net) |
+| **2024/06/21** | SiT: Symmetry-Invariant Transformers for Generalisation in Reinforcement Learning | Matthias Weissenbacher et al. | [2406.15025v1](http://arxiv.org/abs/2406.15025v1) | **NULL** |
+| **2024/06/21** | Optimised Grouped-Query Attention Mechanism for Transformers | Yuang Chen et al. | [2406.14963v1](http://arxiv.org/abs/2406.14963v1) | **NULL** |
+| **2024/06/21** | Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering | Chongzhi Zhang et al. | [2406.14880v1](http://arxiv.org/abs/2406.14880v1) | **NULL** |
 | **2024/06/20** | Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach | Mohamed Fadhlallah Guerri et al. | [2406.14120v1](http://arxiv.org/abs/2406.14120v1) | **NULL** |
 | **2024/06/20** | Self-Attention in Transformer Networks Explains Monkeys' Gaze Pattern in Pac-Man Game | Zhongqiao Lin et al. | [2406.14100v1](http://arxiv.org/abs/2406.14100v1) | **NULL** |
 | **2024/06/20** | Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields | Jintong Hu et al. | [2406.14052v1](http://arxiv.org/abs/2406.14052v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/06/17** | Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures | Enrico Russo et al. | [2406.11452v1](http://arxiv.org/abs/2406.11452v1) | **NULL** |
 | **2024/06/17** | Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks | Peter Samoaa et al. | [2406.11437v1](http://arxiv.org/abs/2406.11437v1) | [**link**](https://github.com/petersamoaa/tree_based_nn_error_analysis) |
 | **2024/06/17** | DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer | Keon Lee et al. | [2406.11427v1](http://arxiv.org/abs/2406.11427v1) | **NULL** |
-| **2024/06/17** | Rethinking Spatio-Temporal Transformer for Traffic Prediction:Multi-level Multi-view Augmented Learning Framework | Jiaqi Lin et al. | [2406.11921v1](http://arxiv.org/abs/2406.11921v1) | **NULL** |
-| **2024/06/17** | Skip-Layer Attention: Bridging Abstract and Detailed Dependencies in Transformers | Qian Chen et al. | [2406.11274v1](http://arxiv.org/abs/2406.11274v1) | **NULL** |
-| **2024/06/17** | YOLO9tr: A Lightweight Model for Pavement Damage Detection Utilizing a Generalized Efficient Layer Aggregation Network and Attention Mechanism | Sompote Youwai et al. | [2406.11254v2](http://arxiv.org/abs/2406.11254v2) | [**link**](https://github.com/Sompote/YOLO9tr) |
-| **2024/06/16** | SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection | Lin Liu et al. | [2406.10907v1](http://arxiv.org/abs/2406.10907v1) | **NULL** |
-| **2024/06/16** | Breaking the Attention Bottleneck | Kalle Hilsenbek | [2406.10906v1](http://arxiv.org/abs/2406.10906v1) | [**link**](https://gitlab.com/bachstelze/causal_generation) |
-| **2024/06/16** | Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution | Cuixin Yang et al. | [2406.10869v1](http://arxiv.org/abs/2406.10869v1) | **NULL** |
-| **2024/06/16** | Iterated Schrödinger bridge approximation to Wasserstein Gradient Flows | Medha Agarwal et al. | [2406.10823v1](http://arxiv.org/abs/2406.10823v1) | **NULL** |
-| **2024/06/15** | How Should We Extract Discrete Audio Tokens from Self-Supervised Models? | Pooneh Mousavi et al. | [2406.10735v1](http://arxiv.org/abs/2406.10735v1) | **NULL** |
 
 ## 背景差分
 
