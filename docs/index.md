@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/25 08:51:04
+> Updated on 2024/06/26 08:51:11
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/24** | FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models | Haonan Qiu et al. | [2406.16863v1](http://arxiv.org/abs/2406.16863v1) | [**link**](https://github.com/arthur-qiu/freetraj) |
+| **2024/06/24** | Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers | Chao Lou et al. | [2406.16747v1](http://arxiv.org/abs/2406.16747v1) | **NULL** |
+| **2024/06/24** | Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation | Vincent Loos et al. | [2406.16701v1](http://arxiv.org/abs/2406.16701v1) | **NULL** |
+| **2024/06/24** | Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series | Theresa Follath et al. | [2406.16513v1](http://arxiv.org/abs/2406.16513v1) | **NULL** |
+| **2024/06/24** | OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser | Jingze Shi et al. | [2406.16495v2](http://arxiv.org/abs/2406.16495v2) | [**link**](https://github.com/LoserCheems/OTCE) |
+| **2024/06/24** | Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans | Kwang-Hyun Uhm et al. | [2406.16322v1](http://arxiv.org/abs/2406.16322v1) | **NULL** |
+| **2024/06/23** | CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis | Lujun Gui et al. | [2406.16074v1](http://arxiv.org/abs/2406.16074v1) | **NULL** |
+| **2024/06/23** | DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation | Yueru Luo et al. | [2406.16072v1](http://arxiv.org/abs/2406.16072v1) | [**link**](https://github.com/jmoonr/dv-3dlane) |
+| **2024/06/23** | RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization | Mingshu Zhao et al. | [2406.16004v1](http://arxiv.org/abs/2406.16004v1) | [**link**](https://github.com/suous/repnext) |
+| **2024/06/22** | LaneSegNet Design Study | William Stevens et al. | [2406.15946v1](http://arxiv.org/abs/2406.15946v1) | **NULL** |
+| **2024/06/22** | Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration | Zhongzhi Yu et al. | [2406.15765v1](http://arxiv.org/abs/2406.15765v1) | [**link**](https://github.com/gatech-eic/act) |
+| **2024/06/22** | TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers | Yakun Song et al. | [2406.15752v1](http://arxiv.org/abs/2406.15752v1) | **NULL** |
+| **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v1](http://arxiv.org/abs/2406.15647v1) | **NULL** |
+| **2024/06/21** | Open-Vocabulary Temporal Action Localization using Multimodal Guidance | Akshita Gupta et al. | [2406.15556v1](http://arxiv.org/abs/2406.15556v1) | **NULL** |
 | **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
 | **2024/06/21** | Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild | Nadav Orzech et al. | [2406.15331v1](http://arxiv.org/abs/2406.15331v1) | **NULL** |
 | **2024/06/21** | Fine-grained Attention in Hierarchical Transformers for Tabular Time-series | Raphael Azorin et al. | [2406.15327v1](http://arxiv.org/abs/2406.15327v1) | [**link**](https://github.com/raphaaal/fieldy) |
@@ -69,20 +83,6 @@ layout: default
 | **2024/06/19** | Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis | Rachel S. Y. Teo et al. | [2406.13762v1](http://arxiv.org/abs/2406.13762v1) | **NULL** |
 | **2024/06/19** | In-Context Former: Lightning-fast Compressing Context for Large Language Model | Xiangfeng Wang et al. | [2406.13618v1](http://arxiv.org/abs/2406.13618v1) | **NULL** |
 | **2024/06/19** | Strengthening Layer Interaction via Dynamic Layer Attention | Kaishen Wang et al. | [2406.13392v1](http://arxiv.org/abs/2406.13392v1) | [**link**](https://github.com/tunantu/dynamic-layer-attention) |
-| **2024/06/19** | ECAFormer: Low-light Image Enhancement using Cross Attention | Yudi Ruan et al. | [2406.13281v1](http://arxiv.org/abs/2406.13281v1) | **NULL** |
-| **2024/06/19** | Guided Context Gating: Learning to leverage salient lesions in retinal fundus images | Teja Krishna Cherukuri et al. | [2406.13126v1](http://arxiv.org/abs/2406.13126v1) | **NULL** |
-| **2024/06/18** | On the Robustness of Language Models for Tabular Question Answering | Kushal Raj Bhandari et al. | [2406.12719v1](http://arxiv.org/abs/2406.12719v1) | **NULL** |
-| **2024/06/18** | Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images | Nagur Shareef Shaik et al. | [2406.12683v1](http://arxiv.org/abs/2406.12683v1) | **NULL** |
-| **2024/06/18** | Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters | Jiawei Mao et al. | [2406.12587v1](http://arxiv.org/abs/2406.12587v1) | **NULL** |
-| **2024/06/18** | RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes | Xiaoshan Yu et al. | [2406.12465v1](http://arxiv.org/abs/2406.12465v1) | **NULL** |
-| **2024/06/18** | Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking | Ryo Karakida et al. | [2406.12220v1](http://arxiv.org/abs/2406.12220v1) | [**link**](https://github.com/Toshihiro-Ota/paramixer) |
-| **2024/06/17** | A Scalable and Effective Alternative to Graph Transformers | Kaan Sancak et al. | [2406.12059v1](http://arxiv.org/abs/2406.12059v1) | **NULL** |
-| **2024/06/17** | WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions | Seyedali Mohammadi et al. | [2406.12058v2](http://arxiv.org/abs/2406.12058v2) | **NULL** |
-| **2024/06/17** | Composing Object Relations and Attributes for Image-Text Matching | Khoi Pham et al. | [2406.11820v1](http://arxiv.org/abs/2406.11820v1) | **NULL** |
-| **2024/06/17** | Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction | Junwei You et al. | [2406.11941v1](http://arxiv.org/abs/2406.11941v1) | **NULL** |
-| **2024/06/17** | Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures | Enrico Russo et al. | [2406.11452v1](http://arxiv.org/abs/2406.11452v1) | **NULL** |
-| **2024/06/17** | Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks | Peter Samoaa et al. | [2406.11437v1](http://arxiv.org/abs/2406.11437v1) | [**link**](https://github.com/petersamoaa/tree_based_nn_error_analysis) |
-| **2024/06/17** | DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer | Keon Lee et al. | [2406.11427v1](http://arxiv.org/abs/2406.11427v1) | **NULL** |
 
 ## 背景差分
 
