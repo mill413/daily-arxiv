@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/26 08:51:11
+> Updated on 2024/06/27 08:51:11
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/25** | Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration | Mohammad Ali Labbaf Khaniki et al. | [2406.17670v1](http://arxiv.org/abs/2406.17670v1) | **NULL** |
+| **2024/06/25** | MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection | Michelle Adeline et al. | [2406.17654v1](http://arxiv.org/abs/2406.17654v1) | **NULL** |
+| **2024/06/25** | Point Tree Transformer for Point Cloud Registration | Meiling Wang et al. | [2406.17530v1](http://arxiv.org/abs/2406.17530v1) | **NULL** |
+| **2024/06/25** | Dual-Space Knowledge Distillation for Large Language Models | Songming Zhang et al. | [2406.17328v1](http://arxiv.org/abs/2406.17328v1) | [**link**](https://github.com/songmzhang/dskd) |
+| **2024/06/25** | Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images | Songhan Jiang et al. | [2406.17225v1](http://arxiv.org/abs/2406.17225v1) | [**link**](https://github.com/jsh0792/mcti) |
+| **2024/06/24** | BrainMAE: A Region-aware Self-supervised Learning Framework for Brain Signals | Yifan Yang et al. | [2406.17086v1](http://arxiv.org/abs/2406.17086v1) | **NULL** |
 | **2024/06/24** | FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models | Haonan Qiu et al. | [2406.16863v1](http://arxiv.org/abs/2406.16863v1) | [**link**](https://github.com/arthur-qiu/freetraj) |
 | **2024/06/24** | Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers | Chao Lou et al. | [2406.16747v1](http://arxiv.org/abs/2406.16747v1) | **NULL** |
 | **2024/06/24** | Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation | Vincent Loos et al. | [2406.16701v1](http://arxiv.org/abs/2406.16701v1) | **NULL** |
 | **2024/06/24** | Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series | Theresa Follath et al. | [2406.16513v1](http://arxiv.org/abs/2406.16513v1) | **NULL** |
 | **2024/06/24** | OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser | Jingze Shi et al. | [2406.16495v2](http://arxiv.org/abs/2406.16495v2) | [**link**](https://github.com/LoserCheems/OTCE) |
+| **2024/06/24** | Wavelet Attention GRU for Efficient Industrial Gas Recognition with Novel Metrics | Ding Wang | [2406.16997v1](http://arxiv.org/abs/2406.16997v1) | **NULL** |
 | **2024/06/24** | Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans | Kwang-Hyun Uhm et al. | [2406.16322v1](http://arxiv.org/abs/2406.16322v1) | **NULL** |
 | **2024/06/23** | CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis | Lujun Gui et al. | [2406.16074v1](http://arxiv.org/abs/2406.16074v1) | **NULL** |
 | **2024/06/23** | DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation | Yueru Luo et al. | [2406.16072v1](http://arxiv.org/abs/2406.16072v1) | [**link**](https://github.com/jmoonr/dv-3dlane) |
@@ -65,7 +72,7 @@ layout: default
 | **2024/06/22** | LaneSegNet Design Study | William Stevens et al. | [2406.15946v1](http://arxiv.org/abs/2406.15946v1) | **NULL** |
 | **2024/06/22** | Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration | Zhongzhi Yu et al. | [2406.15765v1](http://arxiv.org/abs/2406.15765v1) | [**link**](https://github.com/gatech-eic/act) |
 | **2024/06/22** | TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers | Yakun Song et al. | [2406.15752v1](http://arxiv.org/abs/2406.15752v1) | **NULL** |
-| **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v1](http://arxiv.org/abs/2406.15647v1) | **NULL** |
+| **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v2](http://arxiv.org/abs/2406.15647v2) | **NULL** |
 | **2024/06/21** | Open-Vocabulary Temporal Action Localization using Multimodal Guidance | Akshita Gupta et al. | [2406.15556v1](http://arxiv.org/abs/2406.15556v1) | **NULL** |
 | **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
 | **2024/06/21** | Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild | Nadav Orzech et al. | [2406.15331v1](http://arxiv.org/abs/2406.15331v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/06/21** | Optimised Grouped-Query Attention Mechanism for Transformers | Yuang Chen et al. | [2406.14963v1](http://arxiv.org/abs/2406.14963v1) | **NULL** |
 | **2024/06/21** | Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering | Chongzhi Zhang et al. | [2406.14880v1](http://arxiv.org/abs/2406.14880v1) | **NULL** |
 | **2024/06/20** | Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach | Mohamed Fadhlallah Guerri et al. | [2406.14120v1](http://arxiv.org/abs/2406.14120v1) | **NULL** |
-| **2024/06/20** | Self-Attention in Transformer Networks Explains Monkeys' Gaze Pattern in Pac-Man Game | Zhongqiao Lin et al. | [2406.14100v1](http://arxiv.org/abs/2406.14100v1) | **NULL** |
-| **2024/06/20** | Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields | Jintong Hu et al. | [2406.14052v1](http://arxiv.org/abs/2406.14052v1) | **NULL** |
-| **2024/06/20** | Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition | Yimin Zhao et al. | [2406.14014v1](http://arxiv.org/abs/2406.14014v1) | [**link**](https://github.com/ztony0712/MCA) |
-| **2024/06/19** | A Primal-Dual Framework for Transformers and Neural Networks | Tan M. Nguyen et al. | [2406.13781v1](http://arxiv.org/abs/2406.13781v1) | **NULL** |
-| **2024/06/19** | Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis | Rachel S. Y. Teo et al. | [2406.13762v1](http://arxiv.org/abs/2406.13762v1) | **NULL** |
-| **2024/06/19** | In-Context Former: Lightning-fast Compressing Context for Large Language Model | Xiangfeng Wang et al. | [2406.13618v1](http://arxiv.org/abs/2406.13618v1) | **NULL** |
-| **2024/06/19** | Strengthening Layer Interaction via Dynamic Layer Attention | Kaishen Wang et al. | [2406.13392v1](http://arxiv.org/abs/2406.13392v1) | [**link**](https://github.com/tunantu/dynamic-layer-attention) |
 
 ## 背景差分
 
