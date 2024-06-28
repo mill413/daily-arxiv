@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/27 08:51:11
+> Updated on 2024/06/28 08:51:23
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/xinyiying24/rgbt-tiny) |
+| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
@@ -53,8 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/26** | LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism | Diandian Gu et al. | [2406.18485v1](http://arxiv.org/abs/2406.18485v1) | **NULL** |
+| **2024/06/26** | Continuous Sign Language Recognition Using Intra-inter Gloss Attention | Hossein Ranjbar et al. | [2406.18333v1](http://arxiv.org/abs/2406.18333v1) | **NULL** |
+| **2024/06/26** | Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation | Yuxuan Qi et al. | [2406.18327v1](http://arxiv.org/abs/2406.18327v1) | **NULL** |
+| **2024/06/26** | A Pre-trained Deep Potential Model for Sulfide Solid Electrolytes with Broad Coverage and High Accuracy | Ruoyu Wang et al. | [2406.18263v1](http://arxiv.org/abs/2406.18263v1) | **NULL** |
+| **2024/06/26** | ViT-1.58b: Mobile Vision Transformers in the 1-bit Era | Zhengqing Yuan et al. | [2406.18051v1](http://arxiv.org/abs/2406.18051v1) | **NULL** |
+| **2024/06/26** | A Multi-Stage Goal-Driven Network for Pedestrian Trajectory Prediction | Xiuen Wu et al. | [2406.18050v1](http://arxiv.org/abs/2406.18050v1) | **NULL** |
 | **2024/06/25** | Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration | Mohammad Ali Labbaf Khaniki et al. | [2406.17670v1](http://arxiv.org/abs/2406.17670v1) | **NULL** |
-| **2024/06/25** | MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection | Michelle Adeline et al. | [2406.17654v1](http://arxiv.org/abs/2406.17654v1) | **NULL** |
+| **2024/06/25** | MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection | Michelle Adeline et al. | [2406.17654v1](http://arxiv.org/abs/2406.17654v1) | [**link**](https://github.com/naomiex/mdha) |
 | **2024/06/25** | Point Tree Transformer for Point Cloud Registration | Meiling Wang et al. | [2406.17530v1](http://arxiv.org/abs/2406.17530v1) | **NULL** |
 | **2024/06/25** | Dual-Space Knowledge Distillation for Large Language Models | Songming Zhang et al. | [2406.17328v1](http://arxiv.org/abs/2406.17328v1) | [**link**](https://github.com/songmzhang/dskd) |
 | **2024/06/25** | Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images | Songhan Jiang et al. | [2406.17225v1](http://arxiv.org/abs/2406.17225v1) | [**link**](https://github.com/jsh0792/mcti) |
@@ -66,28 +72,23 @@ layout: default
 | **2024/06/24** | OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser | Jingze Shi et al. | [2406.16495v2](http://arxiv.org/abs/2406.16495v2) | [**link**](https://github.com/LoserCheems/OTCE) |
 | **2024/06/24** | Wavelet Attention GRU for Efficient Industrial Gas Recognition with Novel Metrics | Ding Wang | [2406.16997v1](http://arxiv.org/abs/2406.16997v1) | **NULL** |
 | **2024/06/24** | Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans | Kwang-Hyun Uhm et al. | [2406.16322v1](http://arxiv.org/abs/2406.16322v1) | **NULL** |
-| **2024/06/23** | CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis | Lujun Gui et al. | [2406.16074v1](http://arxiv.org/abs/2406.16074v1) | **NULL** |
+| **2024/06/23** | CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis | Lujun Gui et al. | [2406.16074v1](http://arxiv.org/abs/2406.16074v1) | [**link**](https://github.com/Luc4Gui/CAVM) |
 | **2024/06/23** | DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation | Yueru Luo et al. | [2406.16072v1](http://arxiv.org/abs/2406.16072v1) | [**link**](https://github.com/jmoonr/dv-3dlane) |
 | **2024/06/23** | RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization | Mingshu Zhao et al. | [2406.16004v1](http://arxiv.org/abs/2406.16004v1) | [**link**](https://github.com/suous/repnext) |
 | **2024/06/22** | LaneSegNet Design Study | William Stevens et al. | [2406.15946v1](http://arxiv.org/abs/2406.15946v1) | **NULL** |
 | **2024/06/22** | Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration | Zhongzhi Yu et al. | [2406.15765v1](http://arxiv.org/abs/2406.15765v1) | [**link**](https://github.com/gatech-eic/act) |
-| **2024/06/22** | TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers | Yakun Song et al. | [2406.15752v1](http://arxiv.org/abs/2406.15752v1) | **NULL** |
+| **2024/06/22** | TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers | Yakun Song et al. | [2406.15752v1](http://arxiv.org/abs/2406.15752v1) | [**link**](https://github.com/Ereboas/TacoLM) |
 | **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v2](http://arxiv.org/abs/2406.15647v2) | **NULL** |
 | **2024/06/21** | Open-Vocabulary Temporal Action Localization using Multimodal Guidance | Akshita Gupta et al. | [2406.15556v1](http://arxiv.org/abs/2406.15556v1) | **NULL** |
 | **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
 | **2024/06/21** | Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild | Nadav Orzech et al. | [2406.15331v1](http://arxiv.org/abs/2406.15331v1) | **NULL** |
 | **2024/06/21** | Fine-grained Attention in Hierarchical Transformers for Tabular Time-series | Raphael Azorin et al. | [2406.15327v1](http://arxiv.org/abs/2406.15327v1) | [**link**](https://github.com/raphaaal/fieldy) |
-| **2024/06/21** | A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion | Ayush Roy et al. | [2406.15128v1](http://arxiv.org/abs/2406.15128v1) | [**link**](https://github.com/ayushroy2001/wagf-fusion) |
-| **2024/06/21** | FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays | Ayush Roy et al. | [2406.15117v1](http://arxiv.org/abs/2406.15117v1) | [**link**](https://github.com/ayushroy2001/fa-net) |
-| **2024/06/21** | SiT: Symmetry-Invariant Transformers for Generalisation in Reinforcement Learning | Matthias Weissenbacher et al. | [2406.15025v1](http://arxiv.org/abs/2406.15025v1) | **NULL** |
-| **2024/06/21** | Optimised Grouped-Query Attention Mechanism for Transformers | Yuang Chen et al. | [2406.14963v1](http://arxiv.org/abs/2406.14963v1) | **NULL** |
-| **2024/06/21** | Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering | Chongzhi Zhang et al. | [2406.14880v1](http://arxiv.org/abs/2406.14880v1) | **NULL** |
-| **2024/06/20** | Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach | Mohamed Fadhlallah Guerri et al. | [2406.14120v1](http://arxiv.org/abs/2406.14120v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v2](http://arxiv.org/abs/2405.12570v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/06/29** | Effect of Background Signal on Momentum Imaging | Sukanta Das et al. | [2306.16708v1](http://arxiv.org/abs/2306.16708v1) | **NULL** |
 | **2023/06/02** | Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments | Alexander Men'shchikov | [2306.01563v2](http://arxiv.org/abs/2306.01563v2) | **NULL** |
 | **2023/05/29** | Human Body Shape Classification Based on a Single Image | Cameron Trotter et al. | [2305.18480v1](http://arxiv.org/abs/2305.18480v1) | **NULL** |
-| **2023/05/26** | Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS | Michael Radica et al. | [2305.17001v2](http://arxiv.org/abs/2305.17001v2) | **NULL** |
