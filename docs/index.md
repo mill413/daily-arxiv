@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/06/28 08:51:23
+> Updated on 2024/06/29 08:50:35
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/27** | Looking 3D: Anomaly Detection with 2D-3D Alignment | Ankan Bhunia et al. | [2406.19393v1](http://arxiv.org/abs/2406.19393v1) | [**link**](https://github.com/vico-uoe/looking3d) |
+| **2024/06/27** | Ksurf: Attention Kalman Filter and Principal Component Analysis for Prediction under Highly Variable Cloud Workloads | Michael Dang'ana et al. | [2406.18801v1](http://arxiv.org/abs/2406.18801v1) | **NULL** |
 | **2024/06/26** | LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism | Diandian Gu et al. | [2406.18485v1](http://arxiv.org/abs/2406.18485v1) | **NULL** |
 | **2024/06/26** | Continuous Sign Language Recognition Using Intra-inter Gloss Attention | Hossein Ranjbar et al. | [2406.18333v1](http://arxiv.org/abs/2406.18333v1) | **NULL** |
 | **2024/06/26** | Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation | Yuxuan Qi et al. | [2406.18327v1](http://arxiv.org/abs/2406.18327v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v2](http://arxiv.org/abs/2406.15647v2) | **NULL** |
 | **2024/06/21** | Open-Vocabulary Temporal Action Localization using Multimodal Guidance | Akshita Gupta et al. | [2406.15556v1](http://arxiv.org/abs/2406.15556v1) | **NULL** |
 | **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
-| **2024/06/21** | Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild | Nadav Orzech et al. | [2406.15331v1](http://arxiv.org/abs/2406.15331v1) | **NULL** |
-| **2024/06/21** | Fine-grained Attention in Hierarchical Transformers for Tabular Time-series | Raphael Azorin et al. | [2406.15327v1](http://arxiv.org/abs/2406.15327v1) | [**link**](https://github.com/raphaaal/fieldy) |
 
 ## 背景差分
 
