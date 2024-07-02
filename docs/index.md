@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/01 08:56:59
+> Updated on 2024/07/02 08:51:20
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/06/28** | Attention Meets UAVs: A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs | Ashish Sharma et al. | [2406.19881v1](http://arxiv.org/abs/2406.19881v1) | **NULL** |
+| **2024/06/28** | FootBots: A Transformer-based Architecture for Motion Prediction in Soccer | Guillem Capellera et al. | [2406.19852v1](http://arxiv.org/abs/2406.19852v1) | **NULL** |
+| **2024/06/28** | MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection | Hongzhen Lv et al. | [2406.19776v1](http://arxiv.org/abs/2406.19776v1) | **NULL** |
+| **2024/06/28** | Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics | Chengrui Gao et al. | [2406.19672v1](http://arxiv.org/abs/2406.19672v1) | **NULL** |
 | **2024/06/27** | Looking 3D: Anomaly Detection with 2D-3D Alignment | Ankan Bhunia et al. | [2406.19393v1](http://arxiv.org/abs/2406.19393v1) | [**link**](https://github.com/vico-uoe/looking3d) |
 | **2024/06/27** | Ksurf: Attention Kalman Filter and Principal Component Analysis for Prediction under Highly Variable Cloud Workloads | Michael Dang'ana et al. | [2406.18801v1](http://arxiv.org/abs/2406.18801v1) | **NULL** |
 | **2024/06/26** | LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism | Diandian Gu et al. | [2406.18485v1](http://arxiv.org/abs/2406.18485v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/06/23** | RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization | Mingshu Zhao et al. | [2406.16004v1](http://arxiv.org/abs/2406.16004v1) | [**link**](https://github.com/suous/repnext) |
 | **2024/06/22** | LaneSegNet Design Study | William Stevens et al. | [2406.15946v1](http://arxiv.org/abs/2406.15946v1) | **NULL** |
 | **2024/06/22** | Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration | Zhongzhi Yu et al. | [2406.15765v1](http://arxiv.org/abs/2406.15765v1) | [**link**](https://github.com/gatech-eic/act) |
-| **2024/06/22** | TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers | Yakun Song et al. | [2406.15752v1](http://arxiv.org/abs/2406.15752v1) | [**link**](https://github.com/Ereboas/TacoLM) |
-| **2024/06/21** | Generating Music with Structure Using Self-Similarity as Attention | Sophia Hager et al. | [2406.15647v2](http://arxiv.org/abs/2406.15647v2) | **NULL** |
-| **2024/06/21** | Open-Vocabulary Temporal Action Localization using Multimodal Guidance | Akshita Gupta et al. | [2406.15556v1](http://arxiv.org/abs/2406.15556v1) | **NULL** |
-| **2024/06/21** | GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation | Chubin Zhang et al. | [2406.15333v1](http://arxiv.org/abs/2406.15333v1) | [**link**](https://github.com/alibaba-yuanjing-aigclab/geolrm) |
 
 ## 背景差分
 
