@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/03 08:51:25
+> Updated on 2024/07/04 08:51:28
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v2](http://arxiv.org/abs/2407.02394v2) | [**link**](https://github.com/cszzshi/SimD) |
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
@@ -47,42 +48,41 @@ layout: default
 | **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | [**link**](https://github.com/Bissmella/Small-object-detection-transformers) |
 | **2023/10/09** | DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network | Md Sohag Mia et al. | [2310.05768v2](http://arxiv.org/abs/2310.05768v2) | **NULL** |
 | **2023/09/28** | HIC-YOLOv5: Improved YOLOv5 For Small Object Detection | Shiyi Tang et al. | [2309.16393v2](http://arxiv.org/abs/2309.16393v2) | [**link**](https://github.com/Jacoo-ai/HIC-Yolov5) |
-| **2023/09/27** | Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps | Vipin Gautam et al. | [2309.15782v1](http://arxiv.org/abs/2309.15782v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/02** | On the Anatomy of Attention | Nikhil Khatri et al. | [2407.02423v1](http://arxiv.org/abs/2407.02423v1) | **NULL** |
+| **2024/07/02** | AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans | Gabriele Lozupone et al. | [2407.02418v1](http://arxiv.org/abs/2407.02418v1) | [**link**](https://github.com/GabrieleLozupone/AXIAL) |
+| **2024/07/02** | SOAF: Scene Occlusion-aware Neural Acoustic Field | Huiyu Gao et al. | [2407.02264v2](http://arxiv.org/abs/2407.02264v2) | **NULL** |
+| **2024/07/02** | GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models | Jian Ma et al. | [2407.02252v1](http://arxiv.org/abs/2407.02252v1) | [**link**](https://github.com/oppo-mente-lab/glyphdraw2) |
+| **2024/07/02** | White-Box 3D-OMP-Transformer for ISAC | Bowen Zhang et al. | [2407.02251v1](http://arxiv.org/abs/2407.02251v1) | **NULL** |
+| **2024/07/02** | CountFormer: Multi-View Crowd Counting Transformer | Hong Mo et al. | [2407.02047v1](http://arxiv.org/abs/2407.02047v1) | [**link**](https://github.com/MandyMo/ECCV_Countformer) |
+| **2024/07/02** | Fake News Detection and Manipulation Reasoning via Large Vision-Language Models | Ruihan Jin et al. | [2407.02042v1](http://arxiv.org/abs/2407.02042v1) | **NULL** |
+| **2024/07/02** | Unsupervised Face-Mask Speech Enhancement Using Generative Adversarial Networks with Human-in-the-Loop Assessment Metrics | Syu-Siang Wang et al. | [2407.01939v1](http://arxiv.org/abs/2407.01939v1) | **NULL** |
+| **2024/07/02** | Research on target detection method of distracted driving behavior based on improved YOLOv8 | Shiquan Shen et al. | [2407.01864v1](http://arxiv.org/abs/2407.01864v1) | **NULL** |
+| **2024/07/01** | Audio-Visual Approach For Multimodal Concurrent Speaker Detection | Amit Eliav et al. | [2407.01774v1](http://arxiv.org/abs/2407.01774v1) | **NULL** |
+| **2024/07/01** | A Global-Local Attention Mechanism for Relation Classification | Yiping Sun | [2407.01424v1](http://arxiv.org/abs/2407.01424v1) | **NULL** |
+| **2024/07/01** | TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation | André Sacilotti et al. | [2407.01375v1](http://arxiv.org/abs/2407.01375v1) | **NULL** |
+| **2024/07/01** | Domain Influence in MRI Medical Image Segmentation: spatial versus k-space inputs | Erik Gösche et al. | [2407.01367v1](http://arxiv.org/abs/2407.01367v1) | **NULL** |
+| **2024/07/01** | Learning Unsigned Distance Fields from Local Shape Functions for 3D Surface Reconstruction | Jiangbei Hu et al. | [2407.01330v1](http://arxiv.org/abs/2407.01330v1) | **NULL** |
+| **2024/07/01** | Hypformer: Exploring Efficient Hyperbolic Transformer Fully in Hyperbolic Space | Menglin Yang et al. | [2407.01290v1](http://arxiv.org/abs/2407.01290v1) | **NULL** |
+| **2024/07/01** | Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval | Hanwen Su et al. | [2407.00979v1](http://arxiv.org/abs/2407.00979v1) | **NULL** |
+| **2024/07/01** | Multi-Modal Fusion-Based Multi-Task Semantic Communication System | Zengle Zhu et al. | [2407.00964v1](http://arxiv.org/abs/2407.00964v1) | **NULL** |
+| **2024/06/30** | Prediction of Sentinel-2 multi-band imagery with attention BiLSTM for continuous earth surface monitoring | Weiying Zhao et al. | [2407.00834v1](http://arxiv.org/abs/2407.00834v1) | **NULL** |
+| **2024/06/30** | Generative prediction of flow field based on the diffusion model | Jiajun Hu et al. | [2407.00735v1](http://arxiv.org/abs/2407.00735v1) | **NULL** |
+| **2024/06/29** | A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation | Aicheng Gong et al. | [2407.00496v1](http://arxiv.org/abs/2407.00496v1) | [**link**](https://github.com/yk7333/taskallocation) |
+| **2024/06/28** | Mind the Gap: Analyzing Lacunae with Transformer-Based Transcription | Jaydeep Borkar et al. | [2407.00250v1](http://arxiv.org/abs/2407.00250v1) | **NULL** |
+| **2024/06/28** | Transformer-based Image and Video Inpainting: Current Challenges and Future Directions | Omar Elharrouss et al. | [2407.00226v1](http://arxiv.org/abs/2407.00226v1) | **NULL** |
+| **2024/06/28** | Top-philic Machine Learning | Rahool Kumar Barman et al. | [2407.00183v2](http://arxiv.org/abs/2407.00183v2) | **NULL** |
 | **2024/06/28** | Attention Meets UAVs: A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs | Ashish Sharma et al. | [2406.19881v1](http://arxiv.org/abs/2406.19881v1) | **NULL** |
 | **2024/06/28** | FootBots: A Transformer-based Architecture for Motion Prediction in Soccer | Guillem Capellera et al. | [2406.19852v1](http://arxiv.org/abs/2406.19852v1) | **NULL** |
+| **2024/06/28** | A Simple Attention-Based Mechanism for Bimodal Emotion Classification | Mazen Elabd et al. | [2407.00134v1](http://arxiv.org/abs/2407.00134v1) | **NULL** |
 | **2024/06/28** | MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection | Hongzhen Lv et al. | [2406.19776v1](http://arxiv.org/abs/2406.19776v1) | **NULL** |
 | **2024/06/28** | Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics | Chengrui Gao et al. | [2406.19672v1](http://arxiv.org/abs/2406.19672v1) | **NULL** |
 | **2024/06/27** | Looking 3D: Anomaly Detection with 2D-3D Alignment | Ankan Bhunia et al. | [2406.19393v1](http://arxiv.org/abs/2406.19393v1) | [**link**](https://github.com/vico-uoe/looking3d) |
 | **2024/06/27** | Ksurf: Attention Kalman Filter and Principal Component Analysis for Prediction under Highly Variable Cloud Workloads | Michael Dang'ana et al. | [2406.18801v1](http://arxiv.org/abs/2406.18801v1) | **NULL** |
-| **2024/06/26** | LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism | Diandian Gu et al. | [2406.18485v1](http://arxiv.org/abs/2406.18485v1) | **NULL** |
-| **2024/06/26** | Continuous Sign Language Recognition Using Intra-inter Gloss Attention | Hossein Ranjbar et al. | [2406.18333v1](http://arxiv.org/abs/2406.18333v1) | **NULL** |
-| **2024/06/26** | Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation | Yuxuan Qi et al. | [2406.18327v1](http://arxiv.org/abs/2406.18327v1) | **NULL** |
-| **2024/06/26** | A Pre-trained Deep Potential Model for Sulfide Solid Electrolytes with Broad Coverage and High Accuracy | Ruoyu Wang et al. | [2406.18263v1](http://arxiv.org/abs/2406.18263v1) | **NULL** |
-| **2024/06/26** | ViT-1.58b: Mobile Vision Transformers in the 1-bit Era | Zhengqing Yuan et al. | [2406.18051v1](http://arxiv.org/abs/2406.18051v1) | **NULL** |
-| **2024/06/26** | A Multi-Stage Goal-Driven Network for Pedestrian Trajectory Prediction | Xiuen Wu et al. | [2406.18050v1](http://arxiv.org/abs/2406.18050v1) | **NULL** |
-| **2024/06/25** | Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration | Mohammad Ali Labbaf Khaniki et al. | [2406.17670v1](http://arxiv.org/abs/2406.17670v1) | **NULL** |
-| **2024/06/25** | MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection | Michelle Adeline et al. | [2406.17654v1](http://arxiv.org/abs/2406.17654v1) | [**link**](https://github.com/naomiex/mdha) |
-| **2024/06/25** | Point Tree Transformer for Point Cloud Registration | Meiling Wang et al. | [2406.17530v1](http://arxiv.org/abs/2406.17530v1) | **NULL** |
-| **2024/06/25** | Dual-Space Knowledge Distillation for Large Language Models | Songming Zhang et al. | [2406.17328v1](http://arxiv.org/abs/2406.17328v1) | [**link**](https://github.com/songmzhang/dskd) |
-| **2024/06/25** | Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images | Songhan Jiang et al. | [2406.17225v1](http://arxiv.org/abs/2406.17225v1) | [**link**](https://github.com/jsh0792/mcti) |
-| **2024/06/24** | BrainMAE: A Region-aware Self-supervised Learning Framework for Brain Signals | Yifan Yang et al. | [2406.17086v1](http://arxiv.org/abs/2406.17086v1) | **NULL** |
-| **2024/06/24** | FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models | Haonan Qiu et al. | [2406.16863v1](http://arxiv.org/abs/2406.16863v1) | [**link**](https://github.com/arthur-qiu/freetraj) |
-| **2024/06/24** | Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers | Chao Lou et al. | [2406.16747v1](http://arxiv.org/abs/2406.16747v1) | **NULL** |
-| **2024/06/24** | Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation | Vincent Loos et al. | [2406.16701v1](http://arxiv.org/abs/2406.16701v1) | **NULL** |
-| **2024/06/24** | Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series | Theresa Follath et al. | [2406.16513v1](http://arxiv.org/abs/2406.16513v1) | **NULL** |
-| **2024/06/24** | OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser | Jingze Shi et al. | [2406.16495v2](http://arxiv.org/abs/2406.16495v2) | [**link**](https://github.com/LoserCheems/OTCE) |
-| **2024/06/24** | Wavelet Attention GRU for Efficient Industrial Gas Recognition with Novel Metrics | Ding Wang | [2406.16997v1](http://arxiv.org/abs/2406.16997v1) | **NULL** |
-| **2024/06/24** | Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans | Kwang-Hyun Uhm et al. | [2406.16322v1](http://arxiv.org/abs/2406.16322v1) | **NULL** |
-| **2024/06/23** | CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis | Lujun Gui et al. | [2406.16074v1](http://arxiv.org/abs/2406.16074v1) | [**link**](https://github.com/Luc4Gui/CAVM) |
-| **2024/06/23** | DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation | Yueru Luo et al. | [2406.16072v1](http://arxiv.org/abs/2406.16072v1) | [**link**](https://github.com/jmoonr/dv-3dlane) |
-| **2024/06/23** | RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization | Mingshu Zhao et al. | [2406.16004v1](http://arxiv.org/abs/2406.16004v1) | [**link**](https://github.com/suous/repnext) |
-| **2024/06/22** | LaneSegNet Design Study | William Stevens et al. | [2406.15946v1](http://arxiv.org/abs/2406.15946v1) | **NULL** |
-| **2024/06/22** | Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration | Zhongzhi Yu et al. | [2406.15765v1](http://arxiv.org/abs/2406.15765v1) | [**link**](https://github.com/gatech-eic/act) |
 
 ## 背景差分
 
