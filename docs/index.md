@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/04 08:51:28
+> Updated on 2024/07/05 08:51:12
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/03** | Visual Grounding with Attention-Driven Constraint Balancing | Weitai Kang et al. | [2407.03243v1](http://arxiv.org/abs/2407.03243v1) | **NULL** |
+| **2024/07/03** | SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding | Weitai Kang et al. | [2407.03200v1](http://arxiv.org/abs/2407.03200v1) | [**link**](https://github.com/weitaikang/segvg) |
+| **2024/07/03** | Motion meets Attention: Video Motion Prompts | Qixiang Chen et al. | [2407.03179v1](http://arxiv.org/abs/2407.03179v1) | **NULL** |
+| **2024/07/03** | Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging | Siying Xu et al. | [2407.03034v1](http://arxiv.org/abs/2407.03034v1) | **NULL** |
+| **2024/07/03** | ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation | Chang Li et al. | [2407.03033v1](http://arxiv.org/abs/2407.03033v1) | **NULL** |
+| **2024/07/03** | Multi-Attention Integrated Deep Learning Frameworks for Enhanced Breast Cancer Segmentation and Identification | Pandiyaraju V et al. | [2407.02844v1](http://arxiv.org/abs/2407.02844v1) | **NULL** |
+| **2024/07/03** | LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation | Hongke Zhao et al. | [2407.02833v1](http://arxiv.org/abs/2407.02833v1) | **NULL** |
+| **2024/07/03** | Differential Encoding for Improved Representation Learning over Graphs | Haimin Zhang et al. | [2407.02758v1](http://arxiv.org/abs/2407.02758v1) | **NULL** |
 | **2024/07/02** | On the Anatomy of Attention | Nikhil Khatri et al. | [2407.02423v1](http://arxiv.org/abs/2407.02423v1) | **NULL** |
 | **2024/07/02** | AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans | Gabriele Lozupone et al. | [2407.02418v1](http://arxiv.org/abs/2407.02418v1) | [**link**](https://github.com/GabrieleLozupone/AXIAL) |
+| **2024/07/02** | Diffusion Models for Tabular Data Imputation and Synthetic Data Generation | Mario Villaizán-Vallelado et al. | [2407.02549v1](http://arxiv.org/abs/2407.02549v1) | **NULL** |
 | **2024/07/02** | SOAF: Scene Occlusion-aware Neural Acoustic Field | Huiyu Gao et al. | [2407.02264v2](http://arxiv.org/abs/2407.02264v2) | **NULL** |
 | **2024/07/02** | GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models | Jian Ma et al. | [2407.02252v1](http://arxiv.org/abs/2407.02252v1) | [**link**](https://github.com/oppo-mente-lab/glyphdraw2) |
 | **2024/07/02** | White-Box 3D-OMP-Transformer for ISAC | Bowen Zhang et al. | [2407.02251v1](http://arxiv.org/abs/2407.02251v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/06/30** | Generative prediction of flow field based on the diffusion model | Jiajun Hu et al. | [2407.00735v1](http://arxiv.org/abs/2407.00735v1) | **NULL** |
 | **2024/06/29** | A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation | Aicheng Gong et al. | [2407.00496v1](http://arxiv.org/abs/2407.00496v1) | [**link**](https://github.com/yk7333/taskallocation) |
 | **2024/06/28** | Mind the Gap: Analyzing Lacunae with Transformer-Based Transcription | Jaydeep Borkar et al. | [2407.00250v1](http://arxiv.org/abs/2407.00250v1) | **NULL** |
-| **2024/06/28** | Transformer-based Image and Video Inpainting: Current Challenges and Future Directions | Omar Elharrouss et al. | [2407.00226v1](http://arxiv.org/abs/2407.00226v1) | **NULL** |
-| **2024/06/28** | Top-philic Machine Learning | Rahool Kumar Barman et al. | [2407.00183v2](http://arxiv.org/abs/2407.00183v2) | **NULL** |
-| **2024/06/28** | Attention Meets UAVs: A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs | Ashish Sharma et al. | [2406.19881v1](http://arxiv.org/abs/2406.19881v1) | **NULL** |
-| **2024/06/28** | FootBots: A Transformer-based Architecture for Motion Prediction in Soccer | Guillem Capellera et al. | [2406.19852v1](http://arxiv.org/abs/2406.19852v1) | **NULL** |
-| **2024/06/28** | A Simple Attention-Based Mechanism for Bimodal Emotion Classification | Mazen Elabd et al. | [2407.00134v1](http://arxiv.org/abs/2407.00134v1) | **NULL** |
-| **2024/06/28** | MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection | Hongzhen Lv et al. | [2406.19776v1](http://arxiv.org/abs/2406.19776v1) | **NULL** |
-| **2024/06/28** | Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics | Chengrui Gao et al. | [2406.19672v1](http://arxiv.org/abs/2406.19672v1) | **NULL** |
-| **2024/06/27** | Looking 3D: Anomaly Detection with 2D-3D Alignment | Ankan Bhunia et al. | [2406.19393v1](http://arxiv.org/abs/2406.19393v1) | [**link**](https://github.com/vico-uoe/looking3d) |
-| **2024/06/27** | Ksurf: Attention Kalman Filter and Principal Component Analysis for Prediction under Highly Variable Cloud Workloads | Michael Dang'ana et al. | [2406.18801v1](http://arxiv.org/abs/2406.18801v1) | **NULL** |
 
 ## 背景差分
 
