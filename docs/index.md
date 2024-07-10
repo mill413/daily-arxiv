@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/09 08:52:07
+> Updated on 2024/07/10 08:52:49
 
 <summary>Table of Contents</summary>
 
@@ -25,6 +25,7 @@ layout: default
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
 | **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
+| **2024/05/17** | Better Sampling, towards Better End-to-end Small Object Detection | Zile Huang et al. | [2407.06127v1](http://arxiv.org/abs/2407.06127v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | **NULL** |
@@ -47,15 +48,29 @@ layout: default
 | **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
 | **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | [**link**](https://github.com/Bissmella/Small-object-detection-transformers) |
 | **2023/10/09** | DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network | Md Sohag Mia et al. | [2310.05768v2](http://arxiv.org/abs/2310.05768v2) | **NULL** |
-| **2023/09/28** | HIC-YOLOv5: Improved YOLOv5 For Small Object Detection | Shiyi Tang et al. | [2309.16393v2](http://arxiv.org/abs/2309.16393v2) | [**link**](https://github.com/Jacoo-ai/HIC-Yolov5) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/08** | FGA: Fourier-Guided Attention Network for Crowd Count Estimation | Yashwardhan Chaudhuri et al. | [2407.06110v1](http://arxiv.org/abs/2407.06110v1) | **NULL** |
+| **2024/07/08** | Graph-Boosted Attentive Network for Semantic Body Parsing | Tinghuai Wang et al. | [2407.05924v1](http://arxiv.org/abs/2407.05924v1) | **NULL** |
+| **2024/07/08** | TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery | Kun Wu et al. | [2407.05736v1](http://arxiv.org/abs/2407.05736v1) | **NULL** |
+| **2024/07/08** | MSTF: Multiscale Transformer for Incomplete Trajectory Prediction | Zhanwen Liu et al. | [2407.05671v1](http://arxiv.org/abs/2407.05671v1) | **NULL** |
+| **2024/07/08** | Graph Attention with Random Rewiring | Tongzhou Liao et al. | [2407.05649v1](http://arxiv.org/abs/2407.05649v1) | **NULL** |
+| **2024/07/08** | Explainable Image Recognition via Enhanced Slot-attention Based Classifier | Bowen Wang et al. | [2407.05616v1](http://arxiv.org/abs/2407.05616v1) | **NULL** |
+| **2024/07/07** | Addressing single object tracking in satellite imagery through prompt-engineered solutions | Athena Psalta et al. | [2407.05518v1](http://arxiv.org/abs/2407.05518v1) | **NULL** |
+| **2024/07/07** | How Effective are State Space Models for Machine Translation? | Hugo Pitorro et al. | [2407.05489v1](http://arxiv.org/abs/2407.05489v1) | **NULL** |
+| **2024/07/07** | Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model | Danni Yang et al. | [2407.05352v1](http://arxiv.org/abs/2407.05352v1) | **NULL** |
+| **2024/07/07** | Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models | Chun-Mei Feng | [2407.05323v1](http://arxiv.org/abs/2407.05323v1) | **NULL** |
+| **2024/07/07** | Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities | Yizhou Chen | [2407.05318v1](http://arxiv.org/abs/2407.05318v1) | **NULL** |
+| **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | **NULL** |
+| **2024/07/06** | Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal | Xiao Siyao et al. | [2407.05087v1](http://arxiv.org/abs/2407.05087v1) | **NULL** |
+| **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | **NULL** |
+| **2024/07/06** | Completed Feature Disentanglement Learning for Multimodal MRIs Analysis | Tianling Liu et al. | [2407.04916v1](http://arxiv.org/abs/2407.04916v1) | **NULL** |
 | **2024/07/05** | LaRa: Efficient Large-Baseline Radiance Fields | Anpei Chen et al. | [2407.04699v1](http://arxiv.org/abs/2407.04699v1) | **NULL** |
-| **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v1](http://arxiv.org/abs/2407.04621v1) | [**link**](https://github.com/gy65896/onerestore) |
-| **2024/07/05** | Wavelet-based Temporal Attention Improves Traffic Forecasting | Yash Jakhmola et al. | [2407.04440v1](http://arxiv.org/abs/2407.04440v1) | **NULL** |
+| **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v3](http://arxiv.org/abs/2407.04621v3) | [**link**](https://github.com/gy65896/onerestore) |
+| **2024/07/05** | Wavelet-based Temporal Attention Improves Traffic Forecasting | Yash Jakhmola et al. | [2407.04440v1](http://arxiv.org/abs/2407.04440v1) | [**link**](https://github.com/yash-jakhmola/w-dstagnn) |
 | **2024/07/05** | BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks | Jieying Xue et al. | [2407.04279v1](http://arxiv.org/abs/2407.04279v1) | [**link**](https://github.com/yingjie7/BiosERC) |
 | **2024/07/04** | FIPGNet:Pyramid grafting network with feature interaction strategies | Ziyi Ding et al. | [2407.04085v1](http://arxiv.org/abs/2407.04085v1) | **NULL** |
 | **2024/07/04** | Heterogeneous Hypergraph Embedding for Recommendation Systems | Darnbi Sakong et al. | [2407.03665v1](http://arxiv.org/abs/2407.03665v1) | **NULL** |
@@ -68,26 +83,12 @@ layout: default
 | **2024/07/03** | Motion meets Attention: Video Motion Prompts | Qixiang Chen et al. | [2407.03179v1](http://arxiv.org/abs/2407.03179v1) | **NULL** |
 | **2024/07/03** | Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging | Siying Xu et al. | [2407.03034v1](http://arxiv.org/abs/2407.03034v1) | [**link**](https://github.com/midas-tum/a-liknet) |
 | **2024/07/03** | ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation | Chang Li et al. | [2407.03033v1](http://arxiv.org/abs/2407.03033v1) | **NULL** |
-| **2024/07/03** | Multi-Attention Integrated Deep Learning Frameworks for Enhanced Breast Cancer Segmentation and Identification | Pandiyaraju V et al. | [2407.02844v2](http://arxiv.org/abs/2407.02844v2) | **NULL** |
-| **2024/07/03** | LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation | Hongke Zhao et al. | [2407.02833v1](http://arxiv.org/abs/2407.02833v1) | **NULL** |
-| **2024/07/03** | NCPP: Nova CPU Performance Predictor on a Novel Dataset | Xiaoman Liu | [2407.03385v1](http://arxiv.org/abs/2407.03385v1) | **NULL** |
-| **2024/07/03** | Differential Encoding for Improved Representation Learning over Graphs | Haimin Zhang et al. | [2407.02758v1](http://arxiv.org/abs/2407.02758v1) | **NULL** |
-| **2024/07/02** | On the Anatomy of Attention | Nikhil Khatri et al. | [2407.02423v2](http://arxiv.org/abs/2407.02423v2) | **NULL** |
-| **2024/07/02** | AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans | Gabriele Lozupone et al. | [2407.02418v1](http://arxiv.org/abs/2407.02418v1) | [**link**](https://github.com/GabrieleLozupone/AXIAL) |
-| **2024/07/02** | Diffusion Models for Tabular Data Imputation and Synthetic Data Generation | Mario Villaizán-Vallelado et al. | [2407.02549v1](http://arxiv.org/abs/2407.02549v1) | **NULL** |
-| **2024/07/02** | SOAF: Scene Occlusion-aware Neural Acoustic Field | Huiyu Gao et al. | [2407.02264v2](http://arxiv.org/abs/2407.02264v2) | **NULL** |
-| **2024/07/02** | GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models | Jian Ma et al. | [2407.02252v1](http://arxiv.org/abs/2407.02252v1) | [**link**](https://github.com/oppo-mente-lab/glyphdraw2) |
-| **2024/07/02** | White-Box 3D-OMP-Transformer for ISAC | Bowen Zhang et al. | [2407.02251v1](http://arxiv.org/abs/2407.02251v1) | **NULL** |
-| **2024/07/02** | CountFormer: Multi-View Crowd Counting Transformer | Hong Mo et al. | [2407.02047v1](http://arxiv.org/abs/2407.02047v1) | [**link**](https://github.com/MandyMo/ECCV_Countformer) |
-| **2024/07/02** | Fake News Detection and Manipulation Reasoning via Large Vision-Language Models | Ruihan Jin et al. | [2407.02042v1](http://arxiv.org/abs/2407.02042v1) | **NULL** |
-| **2024/07/02** | Unsupervised Face-Mask Speech Enhancement Using Generative Adversarial Networks with Human-in-the-Loop Assessment Metrics | Syu-Siang Wang et al. | [2407.01939v1](http://arxiv.org/abs/2407.01939v1) | **NULL** |
-| **2024/07/02** | Research on target detection method of distracted driving behavior based on improved YOLOv8 | Shiquan Shen et al. | [2407.01864v2](http://arxiv.org/abs/2407.01864v2) | **NULL** |
-| **2024/07/01** | Audio-Visual Approach For Multimodal Concurrent Speaker Detection | Amit Eliav et al. | [2407.01774v1](http://arxiv.org/abs/2407.01774v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/08/02** | Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector | ATLAS Collaboration | [2308.01171v2](http://arxiv.org/abs/2308.01171v2) | **NULL** |
 | **2023/06/29** | Effect of Background Signal on Momentum Imaging | Sukanta Das et al. | [2306.16708v1](http://arxiv.org/abs/2306.16708v1) | **NULL** |
 | **2023/06/02** | Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments | Alexander Men'shchikov | [2306.01563v2](http://arxiv.org/abs/2306.01563v2) | **NULL** |
-| **2023/05/29** | Human Body Shape Classification Based on a Single Image | Cameron Trotter et al. | [2305.18480v1](http://arxiv.org/abs/2305.18480v1) | **NULL** |
