@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/10 08:52:49
+> Updated on 2024/07/11 08:52:38
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/09** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | Yu-Guan Hsieh et al. | [2407.06723v1](http://arxiv.org/abs/2407.06723v1) | **NULL** |
+| **2024/07/09** | CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion | Hosam S. EL-Assiouti et al. | [2407.06673v1](http://arxiv.org/abs/2407.06673v1) | **NULL** |
+| **2024/07/08** | DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations | Luke Yoffe et al. | [2407.06426v1](http://arxiv.org/abs/2407.06426v1) | [**link**](https://github.com/lukeyoffe/debunc) |
+| **2024/07/08** | Noise-Free Explanation for Driving Action Prediction | Hongbo Zhu et al. | [2407.06339v1](http://arxiv.org/abs/2407.06339v1) | [**link**](https://github.com/hongbo-z/snna) |
 | **2024/07/08** | FGA: Fourier-Guided Attention Network for Crowd Count Estimation | Yashwardhan Chaudhuri et al. | [2407.06110v1](http://arxiv.org/abs/2407.06110v1) | **NULL** |
 | **2024/07/08** | Graph-Boosted Attentive Network for Semantic Body Parsing | Tinghuai Wang et al. | [2407.05924v1](http://arxiv.org/abs/2407.05924v1) | **NULL** |
 | **2024/07/08** | TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery | Kun Wu et al. | [2407.05736v1](http://arxiv.org/abs/2407.05736v1) | **NULL** |
@@ -64,12 +68,12 @@ layout: default
 | **2024/07/07** | Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model | Danni Yang et al. | [2407.05352v1](http://arxiv.org/abs/2407.05352v1) | **NULL** |
 | **2024/07/07** | Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models | Chun-Mei Feng | [2407.05323v1](http://arxiv.org/abs/2407.05323v1) | **NULL** |
 | **2024/07/07** | Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities | Yizhou Chen | [2407.05318v1](http://arxiv.org/abs/2407.05318v1) | **NULL** |
-| **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | **NULL** |
+| **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | [**link**](https://github.com/HZAI-ZJNU/SCSA) |
 | **2024/07/06** | Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal | Xiao Siyao et al. | [2407.05087v1](http://arxiv.org/abs/2407.05087v1) | **NULL** |
 | **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | **NULL** |
 | **2024/07/06** | Completed Feature Disentanglement Learning for Multimodal MRIs Analysis | Tianling Liu et al. | [2407.04916v1](http://arxiv.org/abs/2407.04916v1) | **NULL** |
 | **2024/07/05** | LaRa: Efficient Large-Baseline Radiance Fields | Anpei Chen et al. | [2407.04699v1](http://arxiv.org/abs/2407.04699v1) | **NULL** |
-| **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v3](http://arxiv.org/abs/2407.04621v3) | [**link**](https://github.com/gy65896/onerestore) |
+| **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v4](http://arxiv.org/abs/2407.04621v4) | [**link**](https://github.com/gy65896/onerestore) |
 | **2024/07/05** | Wavelet-based Temporal Attention Improves Traffic Forecasting | Yash Jakhmola et al. | [2407.04440v1](http://arxiv.org/abs/2407.04440v1) | [**link**](https://github.com/yash-jakhmola/w-dstagnn) |
 | **2024/07/05** | BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks | Jieying Xue et al. | [2407.04279v1](http://arxiv.org/abs/2407.04279v1) | [**link**](https://github.com/yingjie7/BiosERC) |
 | **2024/07/04** | FIPGNet:Pyramid grafting network with feature interaction strategies | Ziyi Ding et al. | [2407.04085v1](http://arxiv.org/abs/2407.04085v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/07/04** | DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification | Wenhui Zhu et al. | [2407.03575v1](http://arxiv.org/abs/2407.03575v1) | [**link**](https://github.com/chongqingnosubway/dgr-mil) |
 | **2024/07/03** | Visual Grounding with Attention-Driven Constraint Balancing | Weitai Kang et al. | [2407.03243v2](http://arxiv.org/abs/2407.03243v2) | **NULL** |
 | **2024/07/03** | SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding | Weitai Kang et al. | [2407.03200v2](http://arxiv.org/abs/2407.03200v2) | [**link**](https://github.com/weitaikang/segvg) |
-| **2024/07/03** | M5: A Whole Genome Bacterial Encoder at Single Nucleotide Resolution | Agust Egilsson | [2407.03392v1](http://arxiv.org/abs/2407.03392v1) | **NULL** |
-| **2024/07/03** | Motion meets Attention: Video Motion Prompts | Qixiang Chen et al. | [2407.03179v1](http://arxiv.org/abs/2407.03179v1) | **NULL** |
-| **2024/07/03** | Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging | Siying Xu et al. | [2407.03034v1](http://arxiv.org/abs/2407.03034v1) | [**link**](https://github.com/midas-tum/a-liknet) |
-| **2024/07/03** | ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation | Chang Li et al. | [2407.03033v1](http://arxiv.org/abs/2407.03033v1) | **NULL** |
 
 ## 背景差分
 
