@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/11 08:52:38
+> Updated on 2024/07/12 08:51:51
 
 <summary>Table of Contents</summary>
 
@@ -24,7 +24,7 @@ layout: default
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
-| **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v1](http://arxiv.org/abs/2405.11276v1) | **NULL** |
+| **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v2](http://arxiv.org/abs/2405.11276v2) | **NULL** |
 | **2024/05/17** | Better Sampling, towards Better End-to-end Small Object Detection | Zile Huang et al. | [2407.06127v1](http://arxiv.org/abs/2407.06127v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/10** | Federated Foundation Model for Cardiac CT Imaging | Malte Tölle et al. | [2407.07557v1](http://arxiv.org/abs/2407.07557v1) | [**link**](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct) |
+| **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | **NULL** |
+| **2024/07/09** | Exploring Camera Encoder Designs for Autonomous Driving Perception | Barath Lakshmanan et al. | [2407.07276v1](http://arxiv.org/abs/2407.07276v1) | **NULL** |
 | **2024/07/09** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | Yu-Guan Hsieh et al. | [2407.06723v1](http://arxiv.org/abs/2407.06723v1) | **NULL** |
 | **2024/07/09** | CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion | Hosam S. EL-Assiouti et al. | [2407.06673v1](http://arxiv.org/abs/2407.06673v1) | **NULL** |
 | **2024/07/08** | DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations | Luke Yoffe et al. | [2407.06426v1](http://arxiv.org/abs/2407.06426v1) | [**link**](https://github.com/lukeyoffe/debunc) |
@@ -80,9 +83,6 @@ layout: default
 | **2024/07/04** | Heterogeneous Hypergraph Embedding for Recommendation Systems | Darnbi Sakong et al. | [2407.03665v1](http://arxiv.org/abs/2407.03665v1) | **NULL** |
 | **2024/07/04** | MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration | Yuhong Zhang et al. | [2407.03635v1](http://arxiv.org/abs/2407.03635v1) | **NULL** |
 | **2024/07/04** | SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection | Zongxiang Hu et al. | [2407.03634v1](http://arxiv.org/abs/2407.03634v1) | [**link**](https://github.com/huzongxiang/sowa) |
-| **2024/07/04** | DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification | Wenhui Zhu et al. | [2407.03575v1](http://arxiv.org/abs/2407.03575v1) | [**link**](https://github.com/chongqingnosubway/dgr-mil) |
-| **2024/07/03** | Visual Grounding with Attention-Driven Constraint Balancing | Weitai Kang et al. | [2407.03243v2](http://arxiv.org/abs/2407.03243v2) | **NULL** |
-| **2024/07/03** | SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding | Weitai Kang et al. | [2407.03200v2](http://arxiv.org/abs/2407.03200v2) | [**link**](https://github.com/weitaikang/segvg) |
 
 ## 背景差分
 
