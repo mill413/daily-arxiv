@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/12 08:51:51
+> Updated on 2024/07/13 08:52:46
 
 <summary>Table of Contents</summary>
 
@@ -54,7 +54,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2024/07/10** | Federated Foundation Model for Cardiac CT Imaging | Malte Tölle et al. | [2407.07557v1](http://arxiv.org/abs/2407.07557v1) | [**link**](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct) |
-| **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | **NULL** |
+| **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | [**link**](https://github.com/quiil/falformer) |
 | **2024/07/09** | Exploring Camera Encoder Designs for Autonomous Driving Perception | Barath Lakshmanan et al. | [2407.07276v1](http://arxiv.org/abs/2407.07276v1) | **NULL** |
 | **2024/07/09** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | Yu-Guan Hsieh et al. | [2407.06723v1](http://arxiv.org/abs/2407.06723v1) | **NULL** |
 | **2024/07/09** | CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion | Hosam S. EL-Assiouti et al. | [2407.06673v1](http://arxiv.org/abs/2407.06673v1) | **NULL** |
