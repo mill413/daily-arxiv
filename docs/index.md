@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/13 08:52:46
+> Updated on 2024/07/14 08:56:38
 
 <summary>Table of Contents</summary>
 
@@ -28,7 +28,7 @@ layout: default
 | **2024/05/17** | Better Sampling, towards Better End-to-end Small Object Detection | Zile Huang et al. | [2407.06127v1](http://arxiv.org/abs/2407.06127v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
-| **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | **NULL** |
+| **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
@@ -73,7 +73,7 @@ layout: default
 | **2024/07/07** | Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities | Yizhou Chen | [2407.05318v1](http://arxiv.org/abs/2407.05318v1) | **NULL** |
 | **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | [**link**](https://github.com/HZAI-ZJNU/SCSA) |
 | **2024/07/06** | Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal | Xiao Siyao et al. | [2407.05087v1](http://arxiv.org/abs/2407.05087v1) | **NULL** |
-| **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | **NULL** |
+| **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | [**link**](https://github.com/GZHU-DVL/CLIPVQA) |
 | **2024/07/06** | Completed Feature Disentanglement Learning for Multimodal MRIs Analysis | Tianling Liu et al. | [2407.04916v1](http://arxiv.org/abs/2407.04916v1) | **NULL** |
 | **2024/07/05** | LaRa: Efficient Large-Baseline Radiance Fields | Anpei Chen et al. | [2407.04699v1](http://arxiv.org/abs/2407.04699v1) | **NULL** |
 | **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v4](http://arxiv.org/abs/2407.04621v4) | [**link**](https://github.com/gy65896/onerestore) |
