@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/14 08:56:38
+> Updated on 2024/07/15 08:54:14
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/11** | Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models | Zhening Xing et al. | [2407.08701v1](http://arxiv.org/abs/2407.08701v1) | **NULL** |
+| **2024/07/11** | Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images | Lucrezia Tosato et al. | [2407.08669v1](http://arxiv.org/abs/2407.08669v1) | **NULL** |
+| **2024/07/11** | VideoMamba: Spatio-Temporal Selective State Space Model | Jinyoung Park et al. | [2407.08476v1](http://arxiv.org/abs/2407.08476v1) | [**link**](https://github.com/jinyjelly/videomamba) |
+| **2024/07/11** | HDT: Hierarchical Document Transformer | Haoyu He et al. | [2407.08330v1](http://arxiv.org/abs/2407.08330v1) | **NULL** |
+| **2024/07/11** | Multimodal contrastive learning for spatial gene expression prediction using histology images | Wenwen Min et al. | [2407.08216v1](http://arxiv.org/abs/2407.08216v1) | [**link**](https://github.com/shizhiceng/mclstexp) |
+| **2024/07/11** | Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks | Pu Feng et al. | [2407.08164v1](http://arxiv.org/abs/2407.08164v1) | **NULL** |
+| **2024/07/11** | Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism | Shahriar Rezaie et al. | [2407.08114v1](http://arxiv.org/abs/2407.08114v1) | **NULL** |
+| **2024/07/10** | Spatial-Temporal Attention Model for Traffic State Estimation with Sparse Internet of Vehicles | Jianzhe Xue et al. | [2407.08047v1](http://arxiv.org/abs/2407.08047v1) | **NULL** |
 | **2024/07/10** | Federated Foundation Model for Cardiac CT Imaging | Malte Tölle et al. | [2407.07557v1](http://arxiv.org/abs/2407.07557v1) | [**link**](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct) |
+| **2024/07/10** | Search, Examine and Early-Termination: Fake News Detection with Annotation-Free Evidences | Yuzhou Yang et al. | [2407.07931v1](http://arxiv.org/abs/2407.07931v1) | **NULL** |
 | **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | [**link**](https://github.com/quiil/falformer) |
 | **2024/07/09** | Exploring Camera Encoder Designs for Autonomous Driving Perception | Barath Lakshmanan et al. | [2407.07276v1](http://arxiv.org/abs/2407.07276v1) | **NULL** |
 | **2024/07/09** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | Yu-Guan Hsieh et al. | [2407.06723v1](http://arxiv.org/abs/2407.06723v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | [**link**](https://github.com/HZAI-ZJNU/SCSA) |
 | **2024/07/06** | Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal | Xiao Siyao et al. | [2407.05087v1](http://arxiv.org/abs/2407.05087v1) | **NULL** |
 | **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | [**link**](https://github.com/GZHU-DVL/CLIPVQA) |
-| **2024/07/06** | Completed Feature Disentanglement Learning for Multimodal MRIs Analysis | Tianling Liu et al. | [2407.04916v1](http://arxiv.org/abs/2407.04916v1) | **NULL** |
-| **2024/07/05** | LaRa: Efficient Large-Baseline Radiance Fields | Anpei Chen et al. | [2407.04699v1](http://arxiv.org/abs/2407.04699v1) | **NULL** |
-| **2024/07/05** | OneRestore: A Universal Restoration Framework for Composite Degradation | Yu Guo et al. | [2407.04621v4](http://arxiv.org/abs/2407.04621v4) | [**link**](https://github.com/gy65896/onerestore) |
-| **2024/07/05** | Wavelet-based Temporal Attention Improves Traffic Forecasting | Yash Jakhmola et al. | [2407.04440v1](http://arxiv.org/abs/2407.04440v1) | [**link**](https://github.com/yash-jakhmola/w-dstagnn) |
-| **2024/07/05** | BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks | Jieying Xue et al. | [2407.04279v1](http://arxiv.org/abs/2407.04279v1) | [**link**](https://github.com/yingjie7/BiosERC) |
-| **2024/07/04** | FIPGNet:Pyramid grafting network with feature interaction strategies | Ziyi Ding et al. | [2407.04085v1](http://arxiv.org/abs/2407.04085v1) | **NULL** |
-| **2024/07/04** | Heterogeneous Hypergraph Embedding for Recommendation Systems | Darnbi Sakong et al. | [2407.03665v1](http://arxiv.org/abs/2407.03665v1) | **NULL** |
-| **2024/07/04** | MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration | Yuhong Zhang et al. | [2407.03635v1](http://arxiv.org/abs/2407.03635v1) | **NULL** |
-| **2024/07/04** | SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection | Zongxiang Hu et al. | [2407.03634v1](http://arxiv.org/abs/2407.03634v1) | [**link**](https://github.com/huzongxiang/sowa) |
 
 ## 背景差分
 
