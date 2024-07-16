@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/15 08:54:14
+> Updated on 2024/07/16 08:53:04
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/12** | Region Attention Transformer for Medical Image Restoration | Zhiwen Yang et al. | [2407.09268v1](http://arxiv.org/abs/2407.09268v1) | [**link**](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration) |
+| **2024/07/12** | Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer | Yuanfei Huang et al. | [2407.09094v1](http://arxiv.org/abs/2407.09094v1) | [**link**](https://github.com/yuanfeihuang/condformer) |
+| **2024/07/12** | Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media | Chen Chen et al. | [2407.09019v1](http://arxiv.org/abs/2407.09019v1) | **NULL** |
+| **2024/07/12** | Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation | Zihao Li et al. | [2407.08994v1](http://arxiv.org/abs/2407.08994v1) | **NULL** |
+| **2024/07/12** | Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration | Hu Gao et al. | [2407.08950v1](http://arxiv.org/abs/2407.08950v1) | **NULL** |
+| **2024/07/11** | Multi-scale gridded Gabor attention for cirrus segmentation | Felix Richards et al. | [2407.08852v1](http://arxiv.org/abs/2407.08852v1) | **NULL** |
 | **2024/07/11** | Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models | Zhening Xing et al. | [2407.08701v1](http://arxiv.org/abs/2407.08701v1) | **NULL** |
 | **2024/07/11** | Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images | Lucrezia Tosato et al. | [2407.08669v1](http://arxiv.org/abs/2407.08669v1) | **NULL** |
 | **2024/07/11** | VideoMamba: Spatio-Temporal Selective State Space Model | Jinyoung Park et al. | [2407.08476v1](http://arxiv.org/abs/2407.08476v1) | [**link**](https://github.com/jinyjelly/videomamba) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/07/08** | Explainable Image Recognition via Enhanced Slot-attention Based Classifier | Bowen Wang et al. | [2407.05616v1](http://arxiv.org/abs/2407.05616v1) | **NULL** |
 | **2024/07/07** | Addressing single object tracking in satellite imagery through prompt-engineered solutions | Athena Psalta et al. | [2407.05518v1](http://arxiv.org/abs/2407.05518v1) | **NULL** |
 | **2024/07/07** | How Effective are State Space Models for Machine Translation? | Hugo Pitorro et al. | [2407.05489v1](http://arxiv.org/abs/2407.05489v1) | **NULL** |
-| **2024/07/07** | Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model | Danni Yang et al. | [2407.05352v1](http://arxiv.org/abs/2407.05352v1) | **NULL** |
-| **2024/07/07** | Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models | Chun-Mei Feng | [2407.05323v1](http://arxiv.org/abs/2407.05323v1) | **NULL** |
-| **2024/07/07** | Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities | Yizhou Chen | [2407.05318v1](http://arxiv.org/abs/2407.05318v1) | **NULL** |
-| **2024/07/06** | SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention | Yunzhong Si et al. | [2407.05128v1](http://arxiv.org/abs/2407.05128v1) | [**link**](https://github.com/HZAI-ZJNU/SCSA) |
-| **2024/07/06** | Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal | Xiao Siyao et al. | [2407.05087v1](http://arxiv.org/abs/2407.05087v1) | **NULL** |
-| **2024/07/06** | CLIPVQA:Video Quality Assessment via CLIP | Fengchuang Xing et al. | [2407.04928v1](http://arxiv.org/abs/2407.04928v1) | [**link**](https://github.com/GZHU-DVL/CLIPVQA) |
 
 ## 背景差分
 
