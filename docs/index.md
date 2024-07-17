@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/16 08:53:04
+> Updated on 2024/07/17 08:53:03
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/15** | A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection | Pandiyaraju V et al. | [2407.10921v1](http://arxiv.org/abs/2407.10921v1) | **NULL** |
+| **2024/07/15** | Weighted Grouped Query Attention in Transformers | Sai Sena Chinnakonduru et al. | [2407.10855v1](http://arxiv.org/abs/2407.10855v1) | **NULL** |
+| **2024/07/15** | Towards Enhanced Classification of Abnormal Lung sound in Multi-breath: A Light Weight Multi-label and Multi-head Attention Classification Method | Yi-Wei Chua et al. | [2407.10828v1](http://arxiv.org/abs/2407.10828v1) | **NULL** |
+| **2024/07/15** | Mammographic Breast Positioning Assessment via Deep Learning | Toygar Tanyel et al. | [2407.10796v1](http://arxiv.org/abs/2407.10796v1) | **NULL** |
+| **2024/07/15** | SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation | Kaiming Shen et al. | [2407.10714v1](http://arxiv.org/abs/2407.10714v1) | **NULL** |
+| **2024/07/15** | NGP-RT: Fusing Multi-Level Hash Features with Lightweight Attention for Real-Time Novel View Synthesis | Yubin Hu et al. | [2407.10482v1](http://arxiv.org/abs/2407.10482v1) | **NULL** |
+| **2024/07/15** | LiteFocus: Accelerated Diffusion Inference for Long Audio Synthesis | Zhenxiong Tan et al. | [2407.10468v1](http://arxiv.org/abs/2407.10468v1) | **NULL** |
+| **2024/07/15** | SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling | Huizheng Wang et al. | [2407.10416v1](http://arxiv.org/abs/2407.10416v1) | **NULL** |
+| **2024/07/14** | MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis | Adamu Lawan et al. | [2407.10347v1](http://arxiv.org/abs/2407.10347v1) | **NULL** |
+| **2024/07/14** | STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video | Yang Liu et al. | [2407.10099v1](http://arxiv.org/abs/2407.10099v1) | **NULL** |
+| **2024/07/13** | Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation | Wenda Li et al. | [2407.09904v1](http://arxiv.org/abs/2407.09904v1) | [**link**](https://github.com/l-wd/lgmformer) |
+| **2024/07/13** | Graph Transformers: A Survey | Ahsan Shehzad et al. | [2407.09777v1](http://arxiv.org/abs/2407.09777v1) | **NULL** |
 | **2024/07/12** | Region Attention Transformer for Medical Image Restoration | Zhiwen Yang et al. | [2407.09268v1](http://arxiv.org/abs/2407.09268v1) | [**link**](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration) |
 | **2024/07/12** | Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer | Yuanfei Huang et al. | [2407.09094v1](http://arxiv.org/abs/2407.09094v1) | [**link**](https://github.com/yuanfeihuang/condformer) |
 | **2024/07/12** | Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media | Chen Chen et al. | [2407.09019v1](http://arxiv.org/abs/2407.09019v1) | **NULL** |
 | **2024/07/12** | Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation | Zihao Li et al. | [2407.08994v1](http://arxiv.org/abs/2407.08994v1) | **NULL** |
-| **2024/07/12** | Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration | Hu Gao et al. | [2407.08950v1](http://arxiv.org/abs/2407.08950v1) | **NULL** |
+| **2024/07/12** | Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration | Hu Gao et al. | [2407.08950v1](http://arxiv.org/abs/2407.08950v1) | [**link**](https://github.com/Tombs98/MSFSNet_) |
 | **2024/07/11** | Multi-scale gridded Gabor attention for cirrus segmentation | Felix Richards et al. | [2407.08852v1](http://arxiv.org/abs/2407.08852v1) | **NULL** |
 | **2024/07/11** | Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models | Zhening Xing et al. | [2407.08701v1](http://arxiv.org/abs/2407.08701v1) | **NULL** |
 | **2024/07/11** | Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images | Lucrezia Tosato et al. | [2407.08669v1](http://arxiv.org/abs/2407.08669v1) | **NULL** |
@@ -66,23 +78,11 @@ layout: default
 | **2024/07/11** | Multimodal contrastive learning for spatial gene expression prediction using histology images | Wenwen Min et al. | [2407.08216v1](http://arxiv.org/abs/2407.08216v1) | [**link**](https://github.com/shizhiceng/mclstexp) |
 | **2024/07/11** | Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks | Pu Feng et al. | [2407.08164v1](http://arxiv.org/abs/2407.08164v1) | **NULL** |
 | **2024/07/11** | Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism | Shahriar Rezaie et al. | [2407.08114v1](http://arxiv.org/abs/2407.08114v1) | **NULL** |
-| **2024/07/10** | Spatial-Temporal Attention Model for Traffic State Estimation with Sparse Internet of Vehicles | Jianzhe Xue et al. | [2407.08047v1](http://arxiv.org/abs/2407.08047v1) | **NULL** |
+| **2024/07/10** | Spatial-Temporal Attention Model for Traffic State Estimation with Sparse Internet of Vehicles | Jianzhe Xue et al. | [2407.08047v2](http://arxiv.org/abs/2407.08047v2) | **NULL** |
 | **2024/07/10** | Federated Foundation Model for Cardiac CT Imaging | Malte Tölle et al. | [2407.07557v1](http://arxiv.org/abs/2407.07557v1) | [**link**](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct) |
 | **2024/07/10** | Search, Examine and Early-Termination: Fake News Detection with Annotation-Free Evidences | Yuzhou Yang et al. | [2407.07931v1](http://arxiv.org/abs/2407.07931v1) | **NULL** |
 | **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | [**link**](https://github.com/quiil/falformer) |
 | **2024/07/09** | Exploring Camera Encoder Designs for Autonomous Driving Perception | Barath Lakshmanan et al. | [2407.07276v1](http://arxiv.org/abs/2407.07276v1) | **NULL** |
-| **2024/07/09** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | Yu-Guan Hsieh et al. | [2407.06723v1](http://arxiv.org/abs/2407.06723v1) | **NULL** |
-| **2024/07/09** | CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion | Hosam S. EL-Assiouti et al. | [2407.06673v1](http://arxiv.org/abs/2407.06673v1) | **NULL** |
-| **2024/07/08** | DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations | Luke Yoffe et al. | [2407.06426v1](http://arxiv.org/abs/2407.06426v1) | [**link**](https://github.com/lukeyoffe/debunc) |
-| **2024/07/08** | Noise-Free Explanation for Driving Action Prediction | Hongbo Zhu et al. | [2407.06339v1](http://arxiv.org/abs/2407.06339v1) | [**link**](https://github.com/hongbo-z/snna) |
-| **2024/07/08** | FGA: Fourier-Guided Attention Network for Crowd Count Estimation | Yashwardhan Chaudhuri et al. | [2407.06110v1](http://arxiv.org/abs/2407.06110v1) | **NULL** |
-| **2024/07/08** | Graph-Boosted Attentive Network for Semantic Body Parsing | Tinghuai Wang et al. | [2407.05924v1](http://arxiv.org/abs/2407.05924v1) | **NULL** |
-| **2024/07/08** | TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery | Kun Wu et al. | [2407.05736v1](http://arxiv.org/abs/2407.05736v1) | **NULL** |
-| **2024/07/08** | MSTF: Multiscale Transformer for Incomplete Trajectory Prediction | Zhanwen Liu et al. | [2407.05671v1](http://arxiv.org/abs/2407.05671v1) | **NULL** |
-| **2024/07/08** | Graph Attention with Random Rewiring | Tongzhou Liao et al. | [2407.05649v1](http://arxiv.org/abs/2407.05649v1) | **NULL** |
-| **2024/07/08** | Explainable Image Recognition via Enhanced Slot-attention Based Classifier | Bowen Wang et al. | [2407.05616v1](http://arxiv.org/abs/2407.05616v1) | **NULL** |
-| **2024/07/07** | Addressing single object tracking in satellite imagery through prompt-engineered solutions | Athena Psalta et al. | [2407.05518v1](http://arxiv.org/abs/2407.05518v1) | **NULL** |
-| **2024/07/07** | How Effective are State Space Models for Machine Translation? | Hugo Pitorro et al. | [2407.05489v1](http://arxiv.org/abs/2407.05489v1) | **NULL** |
 
 ## 背景差分
 
