@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/17 08:53:03
+> Updated on 2024/07/18 08:52:13
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/16** | Learning Multi-view Anomaly Detection | Haoyang He et al. | [2407.11935v1](http://arxiv.org/abs/2407.11935v1) | **NULL** |
+| **2024/07/16** | Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data | Tim Elsner et al. | [2407.11913v1](http://arxiv.org/abs/2407.11913v1) | **NULL** |
+| **2024/07/16** | DFDRNN: A dual-feature based neural network for drug repositioning | Enqiang Zhu et al. | [2407.11812v1](http://arxiv.org/abs/2407.11812v1) | **NULL** |
+| **2024/07/16** | Relaxing Graph Transformers for Adversarial Attacks | Philipp Foth et al. | [2407.11764v1](http://arxiv.org/abs/2407.11764v1) | **NULL** |
+| **2024/07/16** | A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection | Pandiyaraju V et al. | [2407.11753v1](http://arxiv.org/abs/2407.11753v1) | **NULL** |
+| **2024/07/16** | Graph Dimension Attention Networks for Enterprise Credit Assessment | Shaopeng Wei et al. | [2407.11615v1](http://arxiv.org/abs/2407.11615v1) | **NULL** |
+| **2024/07/16** | Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization | Yuan Feng et al. | [2407.11550v1](http://arxiv.org/abs/2407.11550v1) | **NULL** |
+| **2024/07/16** | Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers | Freya Behrens et al. | [2407.11542v1](http://arxiv.org/abs/2407.11542v1) | **NULL** |
+| **2024/07/16** | Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets | Camillo Maria Caruso et al. | [2407.11540v1](http://arxiv.org/abs/2407.11540v1) | [**link**](https://github.com/cosbidev/naim) |
+| **2024/07/16** | Haze-Aware Attention Network for Single-Image Dehazing | Lihan Tong et al. | [2407.11505v1](http://arxiv.org/abs/2407.11505v1) | **NULL** |
+| **2024/07/16** | RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation | Ziang Zhang et al. | [2407.11459v2](http://arxiv.org/abs/2407.11459v2) | **NULL** |
+| **2024/07/16** | TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs | Chenfan Xu et al. | [2407.11419v1](http://arxiv.org/abs/2407.11419v1) | [**link**](https://github.com/shanghaitech-impact/teethdreamer) |
+| **2024/07/16** | PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer | Pierre-David Letourneau et al. | [2407.11306v1](http://arxiv.org/abs/2407.11306v1) | **NULL** |
 | **2024/07/15** | A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection | Pandiyaraju V et al. | [2407.10921v1](http://arxiv.org/abs/2407.10921v1) | **NULL** |
 | **2024/07/15** | Weighted Grouped Query Attention in Transformers | Sai Sena Chinnakonduru et al. | [2407.10855v1](http://arxiv.org/abs/2407.10855v1) | **NULL** |
 | **2024/07/15** | Towards Enhanced Classification of Abnormal Lung sound in Multi-breath: A Light Weight Multi-label and Multi-head Attention Classification Method | Yi-Wei Chua et al. | [2407.10828v1](http://arxiv.org/abs/2407.10828v1) | **NULL** |
@@ -62,6 +75,7 @@ layout: default
 | **2024/07/15** | LiteFocus: Accelerated Diffusion Inference for Long Audio Synthesis | Zhenxiong Tan et al. | [2407.10468v1](http://arxiv.org/abs/2407.10468v1) | **NULL** |
 | **2024/07/15** | SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling | Huizheng Wang et al. | [2407.10416v1](http://arxiv.org/abs/2407.10416v1) | **NULL** |
 | **2024/07/14** | MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis | Adamu Lawan et al. | [2407.10347v1](http://arxiv.org/abs/2407.10347v1) | **NULL** |
+| **2024/07/14** | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | Zhiwen Yang et al. | [2407.11087v1](http://arxiv.org/abs/2407.11087v1) | **NULL** |
 | **2024/07/14** | STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video | Yang Liu et al. | [2407.10099v1](http://arxiv.org/abs/2407.10099v1) | **NULL** |
 | **2024/07/13** | Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation | Wenda Li et al. | [2407.09904v1](http://arxiv.org/abs/2407.09904v1) | [**link**](https://github.com/l-wd/lgmformer) |
 | **2024/07/13** | Graph Transformers: A Survey | Ahsan Shehzad et al. | [2407.09777v1](http://arxiv.org/abs/2407.09777v1) | **NULL** |
@@ -69,20 +83,6 @@ layout: default
 | **2024/07/12** | Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer | Yuanfei Huang et al. | [2407.09094v1](http://arxiv.org/abs/2407.09094v1) | [**link**](https://github.com/yuanfeihuang/condformer) |
 | **2024/07/12** | Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media | Chen Chen et al. | [2407.09019v1](http://arxiv.org/abs/2407.09019v1) | **NULL** |
 | **2024/07/12** | Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation | Zihao Li et al. | [2407.08994v1](http://arxiv.org/abs/2407.08994v1) | **NULL** |
-| **2024/07/12** | Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration | Hu Gao et al. | [2407.08950v1](http://arxiv.org/abs/2407.08950v1) | [**link**](https://github.com/Tombs98/MSFSNet_) |
-| **2024/07/11** | Multi-scale gridded Gabor attention for cirrus segmentation | Felix Richards et al. | [2407.08852v1](http://arxiv.org/abs/2407.08852v1) | **NULL** |
-| **2024/07/11** | Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models | Zhening Xing et al. | [2407.08701v1](http://arxiv.org/abs/2407.08701v1) | **NULL** |
-| **2024/07/11** | Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images | Lucrezia Tosato et al. | [2407.08669v1](http://arxiv.org/abs/2407.08669v1) | **NULL** |
-| **2024/07/11** | VideoMamba: Spatio-Temporal Selective State Space Model | Jinyoung Park et al. | [2407.08476v1](http://arxiv.org/abs/2407.08476v1) | [**link**](https://github.com/jinyjelly/videomamba) |
-| **2024/07/11** | HDT: Hierarchical Document Transformer | Haoyu He et al. | [2407.08330v1](http://arxiv.org/abs/2407.08330v1) | **NULL** |
-| **2024/07/11** | Multimodal contrastive learning for spatial gene expression prediction using histology images | Wenwen Min et al. | [2407.08216v1](http://arxiv.org/abs/2407.08216v1) | [**link**](https://github.com/shizhiceng/mclstexp) |
-| **2024/07/11** | Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks | Pu Feng et al. | [2407.08164v1](http://arxiv.org/abs/2407.08164v1) | **NULL** |
-| **2024/07/11** | Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism | Shahriar Rezaie et al. | [2407.08114v1](http://arxiv.org/abs/2407.08114v1) | **NULL** |
-| **2024/07/10** | Spatial-Temporal Attention Model for Traffic State Estimation with Sparse Internet of Vehicles | Jianzhe Xue et al. | [2407.08047v2](http://arxiv.org/abs/2407.08047v2) | **NULL** |
-| **2024/07/10** | Federated Foundation Model for Cardiac CT Imaging | Malte Tölle et al. | [2407.07557v1](http://arxiv.org/abs/2407.07557v1) | [**link**](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct) |
-| **2024/07/10** | Search, Examine and Early-Termination: Fake News Detection with Annotation-Free Evidences | Yuzhou Yang et al. | [2407.07931v1](http://arxiv.org/abs/2407.07931v1) | **NULL** |
-| **2024/07/10** | FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification | Doanh C. Bui et al. | [2407.07340v2](http://arxiv.org/abs/2407.07340v2) | [**link**](https://github.com/quiil/falformer) |
-| **2024/07/09** | Exploring Camera Encoder Designs for Autonomous Driving Perception | Barath Lakshmanan et al. | [2407.07276v1](http://arxiv.org/abs/2407.07276v1) | **NULL** |
 
 ## 背景差分
 
