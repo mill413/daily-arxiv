@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/22 08:54:36
+> Updated on 2024/07/23 08:53:30
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/07/18** | Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning | Ans Munir et al. | [2407.13715v1](http://arxiv.org/abs/2407.13715v1) | **NULL** |
+| **2024/07/19** | AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection | Majedaldein Almahasneh et al. | [2407.14464v1](http://arxiv.org/abs/2407.14464v1) | **NULL** |
+| **2024/07/19** | PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer | Jiahong Ma et al. | [2407.14459v1](http://arxiv.org/abs/2407.14459v1) | [**link**](https://github.com/air029/polyformer) |
+| **2024/07/19** | Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference | Chao Min et al. | [2407.14214v1](http://arxiv.org/abs/2407.14214v1) | **NULL** |
+| **2024/07/19** | Double-Shot 3D Shape Measurement with a Dual-Branch Network | Mingyang Lei et al. | [2407.14198v1](http://arxiv.org/abs/2407.14198v1) | **NULL** |
+| **2024/07/19** | EVLM: An Efficient Vision-Language Model for Visual Understanding | Kaibing Chen et al. | [2407.14177v1](http://arxiv.org/abs/2407.14177v1) | **NULL** |
+| **2024/07/19** | RealViformer: Investigating Attention for Real-World Video Super-Resolution | Yuehan Zhang et al. | [2407.13987v1](http://arxiv.org/abs/2407.13987v1) | [**link**](https://github.com/yuehan717/realviformer) |
+| **2024/07/18** | DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention | Xiaoya Tang et al. | [2407.13920v1](http://arxiv.org/abs/2407.13920v1) | **NULL** |
+| **2024/07/18** | Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning | Ans Munir et al. | [2407.13715v1](http://arxiv.org/abs/2407.13715v1) | [**link**](https://github.com/ans92/ASP) |
 | **2024/07/18** | Dual-arm Motion Generation for Repositioning Care based on Deep Predictive Learning with Somatosensory Attention Mechanism | Tamon Miyake et al. | [2407.13376v1](http://arxiv.org/abs/2407.13376v1) | **NULL** |
-| **2024/07/18** | QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View | Trinh T. L. Vuong et al. | [2407.13216v1](http://arxiv.org/abs/2407.13216v1) | **NULL** |
+| **2024/07/18** | QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View | Trinh T. L. Vuong et al. | [2407.13216v1](http://arxiv.org/abs/2407.13216v1) | [**link**](https://github.com/quiil/quiil_thompson_solution) |
 | **2024/07/18** | Transformer-based Single-Cell Language Model: A Survey | Wei Lan et al. | [2407.13205v1](http://arxiv.org/abs/2407.13205v1) | **NULL** |
+| **2024/07/18** | Revisiting Attention for Multivariate Time Series Forecasting | Haixiang Wu | [2407.13806v1](http://arxiv.org/abs/2407.13806v1) | [**link**](https://github.com/joeland4/fsatten-soatten) |
 | **2024/07/18** | Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement | Eashan Adhikarla et al. | [2407.13170v1](http://arxiv.org/abs/2407.13170v1) | **NULL** |
-| **2024/07/18** | Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection | Jiangwei Xie et al. | [2407.13151v1](http://arxiv.org/abs/2407.13151v1) | **NULL** |
+| **2024/07/18** | Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection | Jiangwei Xie et al. | [2407.13151v1](http://arxiv.org/abs/2407.13151v1) | [**link**](https://github.com/summitgao/WBANet) |
 | **2024/07/18** | DFMSD: Dual Feature Masking Stage-wise Knowledge Distillation for Object Detection | Zhourui Zhang et al. | [2407.13147v1](http://arxiv.org/abs/2407.13147v1) | **NULL** |
 | **2024/07/17** | LookupViT: Compressing visual information to a limited number of tokens | Rajat Koner et al. | [2407.12753v1](http://arxiv.org/abs/2407.12753v1) | **NULL** |
 | **2024/07/17** | CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference | Mohammad Erfan Sadeghi et al. | [2407.12736v1](http://arxiv.org/abs/2407.12736v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/07/16** | Relaxing Graph Transformers for Adversarial Attacks | Philipp Foth et al. | [2407.11764v1](http://arxiv.org/abs/2407.11764v1) | **NULL** |
 | **2024/07/16** | A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection | Pandiyaraju V et al. | [2407.11753v1](http://arxiv.org/abs/2407.11753v1) | **NULL** |
 | **2024/07/16** | Graph Dimension Attention Networks for Enterprise Credit Assessment | Shaopeng Wei et al. | [2407.11615v1](http://arxiv.org/abs/2407.11615v1) | **NULL** |
-| **2024/07/16** | Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization | Yuan Feng et al. | [2407.11550v1](http://arxiv.org/abs/2407.11550v1) | **NULL** |
-| **2024/07/16** | Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers | Freya Behrens et al. | [2407.11542v1](http://arxiv.org/abs/2407.11542v1) | [**link**](https://github.com/SPOC-group/counting-attention) |
-| **2024/07/16** | Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets | Camillo Maria Caruso et al. | [2407.11540v1](http://arxiv.org/abs/2407.11540v1) | [**link**](https://github.com/cosbidev/naim) |
-| **2024/07/16** | Haze-Aware Attention Network for Single-Image Dehazing | Lihan Tong et al. | [2407.11505v1](http://arxiv.org/abs/2407.11505v1) | **NULL** |
-| **2024/07/16** | RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation | Ziang Zhang et al. | [2407.11459v2](http://arxiv.org/abs/2407.11459v2) | **NULL** |
-| **2024/07/16** | TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs | Chenfan Xu et al. | [2407.11419v1](http://arxiv.org/abs/2407.11419v1) | [**link**](https://github.com/shanghaitech-impact/teethdreamer) |
-| **2024/07/16** | PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer | Pierre-David Letourneau et al. | [2407.11306v1](http://arxiv.org/abs/2407.11306v1) | **NULL** |
-| **2024/07/15** | A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection | Pandiyaraju V et al. | [2407.10921v1](http://arxiv.org/abs/2407.10921v1) | **NULL** |
 
 ## 背景差分
 
