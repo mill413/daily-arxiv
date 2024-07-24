@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/23 08:53:30
+> Updated on 2024/07/24 08:53:40
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/22** | Mamba meets crack segmentation | Zhili He et al. | [2407.15714v1](http://arxiv.org/abs/2407.15714v1) | [**link**](https://github.com/hzlbbfrog/crackmamba) |
+| **2024/07/22** | vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving | Jiale Xu et al. | [2407.15309v1](http://arxiv.org/abs/2407.15309v1) | **NULL** |
+| **2024/07/22** | DiffX: Guide Your Layout to Cross-Modal Generative Modeling | Zeyu Wang et al. | [2407.15488v1](http://arxiv.org/abs/2407.15488v1) | [**link**](https://github.com/zeyuwang-zju/diffx) |
+| **2024/07/22** | Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing | Yaoqi Yang et al. | [2407.15483v1](http://arxiv.org/abs/2407.15483v1) | **NULL** |
+| **2024/07/22** | RoadPainter: Points Are Ideal Navigators for Topology transformER | Zhongxing Ma et al. | [2407.15349v1](http://arxiv.org/abs/2407.15349v1) | **NULL** |
+| **2024/07/21** | Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope | Xiaoran Liu et al. | [2407.15176v1](http://arxiv.org/abs/2407.15176v1) | **NULL** |
+| **2024/07/21** | Token-Picker: Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation | Junyoung Park et al. | [2407.15131v1](http://arxiv.org/abs/2407.15131v1) | **NULL** |
+| **2024/07/21** | Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions | Sarah Wiegreffe et al. | [2407.15018v1](http://arxiv.org/abs/2407.15018v1) | **NULL** |
+| **2024/07/20** | GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization | Austin Patel et al. | [2407.15002v1](http://arxiv.org/abs/2407.15002v1) | **NULL** |
+| **2024/07/20** | Dreamer: Dual-RIS-aided Imager in Complementary Modes | Fuhai Wang et al. | [2407.14820v1](http://arxiv.org/abs/2407.14820v1) | **NULL** |
 | **2024/07/19** | AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection | Majedaldein Almahasneh et al. | [2407.14464v1](http://arxiv.org/abs/2407.14464v1) | **NULL** |
 | **2024/07/19** | PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer | Jiahong Ma et al. | [2407.14459v1](http://arxiv.org/abs/2407.14459v1) | [**link**](https://github.com/air029/polyformer) |
 | **2024/07/19** | Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference | Chao Min et al. | [2407.14214v1](http://arxiv.org/abs/2407.14214v1) | **NULL** |
@@ -69,20 +79,10 @@ layout: default
 | **2024/07/18** | Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection | Jiangwei Xie et al. | [2407.13151v1](http://arxiv.org/abs/2407.13151v1) | [**link**](https://github.com/summitgao/WBANet) |
 | **2024/07/18** | DFMSD: Dual Feature Masking Stage-wise Knowledge Distillation for Object Detection | Zhourui Zhang et al. | [2407.13147v1](http://arxiv.org/abs/2407.13147v1) | **NULL** |
 | **2024/07/17** | LookupViT: Compressing visual information to a limited number of tokens | Rajat Koner et al. | [2407.12753v1](http://arxiv.org/abs/2407.12753v1) | **NULL** |
-| **2024/07/17** | CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference | Mohammad Erfan Sadeghi et al. | [2407.12736v1](http://arxiv.org/abs/2407.12736v1) | **NULL** |
+| **2024/07/17** | CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference | Mohammad Erfan Sadeghi et al. | [2407.12736v2](http://arxiv.org/abs/2407.12736v2) | **NULL** |
 | **2024/07/17** | ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks | Salma Afifi et al. | [2407.12638v1](http://arxiv.org/abs/2407.12638v1) | **NULL** |
 | **2024/07/17** | Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers | Edwin Arkel Rios et al. | [2407.12891v1](http://arxiv.org/abs/2407.12891v1) | [**link**](https://github.com/arkel23/GLSim) |
 | **2024/07/17** | Variable-Agnostic Causal Exploration for Reinforcement Learning | Minh Hoang Nguyen et al. | [2407.12437v1](http://arxiv.org/abs/2407.12437v1) | **NULL** |
-| **2024/07/17** | I2AM: Interpreting Image-to-Image Latent Diffusion Models via Attribution Maps | Junseo Park et al. | [2407.12331v1](http://arxiv.org/abs/2407.12331v1) | **NULL** |
-| **2024/07/17** | Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer | Wenhan Wu et al. | [2407.12322v1](http://arxiv.org/abs/2407.12322v1) | **NULL** |
-| **2024/07/17** | Dual-Hybrid Attention Network for Specular Highlight Removal | Xiaojiao Guo et al. | [2407.12255v1](http://arxiv.org/abs/2407.12255v1) | **NULL** |
-| **2024/07/16** | Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent | Karolis Jucys et al. | [2407.12161v1](http://arxiv.org/abs/2407.12161v1) | **NULL** |
-| **2024/07/16** | Learning Multi-view Anomaly Detection | Haoyang He et al. | [2407.11935v1](http://arxiv.org/abs/2407.11935v1) | **NULL** |
-| **2024/07/16** | Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data | Tim Elsner et al. | [2407.11913v1](http://arxiv.org/abs/2407.11913v1) | **NULL** |
-| **2024/07/16** | DFDRNN: A dual-feature based neural network for drug repositioning | Enqiang Zhu et al. | [2407.11812v1](http://arxiv.org/abs/2407.11812v1) | **NULL** |
-| **2024/07/16** | Relaxing Graph Transformers for Adversarial Attacks | Philipp Foth et al. | [2407.11764v1](http://arxiv.org/abs/2407.11764v1) | **NULL** |
-| **2024/07/16** | A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection | Pandiyaraju V et al. | [2407.11753v1](http://arxiv.org/abs/2407.11753v1) | **NULL** |
-| **2024/07/16** | Graph Dimension Attention Networks for Enterprise Credit Assessment | Shaopeng Wei et al. | [2407.11615v1](http://arxiv.org/abs/2407.11615v1) | **NULL** |
 
 ## 背景差分
 
