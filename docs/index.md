@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/24 08:53:40
+> Updated on 2024/07/25 08:53:06
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v2](http://arxiv.org/abs/2407.02394v2) | [**link**](https://github.com/cszzshi/SimD) |
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
@@ -47,12 +48,19 @@ layout: default
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
 | **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
 | **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | [**link**](https://github.com/Bissmella/Small-object-detection-transformers) |
-| **2023/10/09** | DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network | Md Sohag Mia et al. | [2310.05768v2](http://arxiv.org/abs/2310.05768v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/23** | Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization | Junyan Wu et al. | [2407.16554v1](http://arxiv.org/abs/2407.16554v1) | [**link**](https://github.com/itzjuny/cfprf) |
+| **2024/07/23** | SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging | Lingtong Kong et al. | [2407.16308v1](http://arxiv.org/abs/2407.16308v1) | [**link**](https://github.com/ltkong218/safnet) |
+| **2024/07/23** | When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models | Haicheng Liao et al. | [2407.16277v1](http://arxiv.org/abs/2407.16277v1) | **NULL** |
+| **2024/07/23** | Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval | Xiaowan Hu et al. | [2407.16248v2](http://arxiv.org/abs/2407.16248v2) | [**link**](https://github.com/huxiaowan/sgmn) |
+| **2024/07/23** | HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification | Shuyi Ouyang et al. | [2407.16244v1](http://arxiv.org/abs/2407.16244v1) | **NULL** |
+| **2024/07/23** | EIANet: A Novel Domain Adaptation Approach to Maximize Class Distinction with Neural Collapse Principles | Zicheng Pan et al. | [2407.16189v1](http://arxiv.org/abs/2407.16189v1) | **NULL** |
+| **2024/07/23** | On the Benefits of Rank in Attention Layers | Noah Amsel et al. | [2407.16153v1](http://arxiv.org/abs/2407.16153v1) | **NULL** |
+| **2024/07/22** | Emulation of $f(R)$ modified gravity from $Λ$CDM using conditional GANs | Yash Gondhalekar et al. | [2407.15934v1](http://arxiv.org/abs/2407.15934v1) | **NULL** |
 | **2024/07/22** | Mamba meets crack segmentation | Zhili He et al. | [2407.15714v1](http://arxiv.org/abs/2407.15714v1) | [**link**](https://github.com/hzlbbfrog/crackmamba) |
 | **2024/07/22** | vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving | Jiale Xu et al. | [2407.15309v1](http://arxiv.org/abs/2407.15309v1) | **NULL** |
 | **2024/07/22** | DiffX: Guide Your Layout to Cross-Modal Generative Modeling | Zeyu Wang et al. | [2407.15488v1](http://arxiv.org/abs/2407.15488v1) | [**link**](https://github.com/zeyuwang-zju/diffx) |
@@ -75,26 +83,19 @@ layout: default
 | **2024/07/18** | QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View | Trinh T. L. Vuong et al. | [2407.13216v1](http://arxiv.org/abs/2407.13216v1) | [**link**](https://github.com/quiil/quiil_thompson_solution) |
 | **2024/07/18** | Transformer-based Single-Cell Language Model: A Survey | Wei Lan et al. | [2407.13205v1](http://arxiv.org/abs/2407.13205v1) | **NULL** |
 | **2024/07/18** | Revisiting Attention for Multivariate Time Series Forecasting | Haixiang Wu | [2407.13806v1](http://arxiv.org/abs/2407.13806v1) | [**link**](https://github.com/joeland4/fsatten-soatten) |
-| **2024/07/18** | Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement | Eashan Adhikarla et al. | [2407.13170v1](http://arxiv.org/abs/2407.13170v1) | **NULL** |
-| **2024/07/18** | Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection | Jiangwei Xie et al. | [2407.13151v1](http://arxiv.org/abs/2407.13151v1) | [**link**](https://github.com/summitgao/WBANet) |
-| **2024/07/18** | DFMSD: Dual Feature Masking Stage-wise Knowledge Distillation for Object Detection | Zhourui Zhang et al. | [2407.13147v1](http://arxiv.org/abs/2407.13147v1) | **NULL** |
-| **2024/07/17** | LookupViT: Compressing visual information to a limited number of tokens | Rajat Koner et al. | [2407.12753v1](http://arxiv.org/abs/2407.12753v1) | **NULL** |
-| **2024/07/17** | CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference | Mohammad Erfan Sadeghi et al. | [2407.12736v2](http://arxiv.org/abs/2407.12736v2) | **NULL** |
-| **2024/07/17** | ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks | Salma Afifi et al. | [2407.12638v1](http://arxiv.org/abs/2407.12638v1) | **NULL** |
-| **2024/07/17** | Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers | Edwin Arkel Rios et al. | [2407.12891v1](http://arxiv.org/abs/2407.12891v1) | [**link**](https://github.com/arkel23/GLSim) |
-| **2024/07/17** | Variable-Agnostic Causal Exploration for Reinforcement Learning | Minh Hoang Nguyen et al. | [2407.12437v1](http://arxiv.org/abs/2407.12437v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v1](http://arxiv.org/abs/2407.16488v1) | **NULL** |
 | **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v2](http://arxiv.org/abs/2405.12570v2) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
-| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v2](http://arxiv.org/abs/2404.03003v2) | **NULL** |
+| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v3](http://arxiv.org/abs/2404.03003v3) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/08/23** | Computational models of object motion detectors accelerated using FPGA technology | Pedro Machado | [2310.06842v1](http://arxiv.org/abs/2310.06842v1) | **NULL** |
 | **2023/08/02** | Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector | ATLAS Collaboration | [2308.01171v2](http://arxiv.org/abs/2308.01171v2) | **NULL** |
 | **2023/06/29** | Effect of Background Signal on Momentum Imaging | Sukanta Das et al. | [2306.16708v1](http://arxiv.org/abs/2306.16708v1) | **NULL** |
-| **2023/06/02** | Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments | Alexander Men'shchikov | [2306.01563v2](http://arxiv.org/abs/2306.01563v2) | **NULL** |
