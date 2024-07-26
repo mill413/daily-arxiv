@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/25 08:53:06
+> Updated on 2024/07/26 08:52:13
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/24** | Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation | Yongqi Li et al. | [2407.17274v1](http://arxiv.org/abs/2407.17274v1) | **NULL** |
+| **2024/07/24** | Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion | Guanyuan Yu et al. | [2407.17190v1](http://arxiv.org/abs/2407.17190v1) | **NULL** |
+| **2024/07/24** | Speech Editing -- a Summary | Tobias Kässmann et al. | [2407.17172v1](http://arxiv.org/abs/2407.17172v1) | **NULL** |
+| **2024/07/24** | Towards Robust Knowledge Tracing Models via k-Sparse Attention | Shuyan Huang et al. | [2407.17097v1](http://arxiv.org/abs/2407.17097v1) | [**link**](https://github.com/pykt-team/pykt-toolkit) |
+| **2024/07/24** | 3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution | Congrui Fu et al. | [2407.16965v1](http://arxiv.org/abs/2407.16965v1) | **NULL** |
+| **2024/07/24** | Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model | Jaewoong Choi et al. | [2407.16939v1](http://arxiv.org/abs/2407.16939v1) | **NULL** |
 | **2024/07/23** | Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization | Junyan Wu et al. | [2407.16554v1](http://arxiv.org/abs/2407.16554v1) | [**link**](https://github.com/itzjuny/cfprf) |
 | **2024/07/23** | SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging | Lingtong Kong et al. | [2407.16308v1](http://arxiv.org/abs/2407.16308v1) | [**link**](https://github.com/ltkong218/safnet) |
 | **2024/07/23** | When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models | Haicheng Liao et al. | [2407.16277v1](http://arxiv.org/abs/2407.16277v1) | **NULL** |
@@ -60,6 +66,7 @@ layout: default
 | **2024/07/23** | HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification | Shuyi Ouyang et al. | [2407.16244v1](http://arxiv.org/abs/2407.16244v1) | **NULL** |
 | **2024/07/23** | EIANet: A Novel Domain Adaptation Approach to Maximize Class Distinction with Neural Collapse Principles | Zicheng Pan et al. | [2407.16189v1](http://arxiv.org/abs/2407.16189v1) | **NULL** |
 | **2024/07/23** | On the Benefits of Rank in Attention Layers | Noah Amsel et al. | [2407.16153v1](http://arxiv.org/abs/2407.16153v1) | **NULL** |
+| **2024/07/23** | Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation | Tao Meng et al. | [2407.16714v1](http://arxiv.org/abs/2407.16714v1) | **NULL** |
 | **2024/07/22** | Emulation of $f(R)$ modified gravity from $Λ$CDM using conditional GANs | Yash Gondhalekar et al. | [2407.15934v1](http://arxiv.org/abs/2407.15934v1) | **NULL** |
 | **2024/07/22** | Mamba meets crack segmentation | Zhili He et al. | [2407.15714v1](http://arxiv.org/abs/2407.15714v1) | [**link**](https://github.com/hzlbbfrog/crackmamba) |
 | **2024/07/22** | vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving | Jiale Xu et al. | [2407.15309v1](http://arxiv.org/abs/2407.15309v1) | **NULL** |
@@ -70,19 +77,12 @@ layout: default
 | **2024/07/21** | Token-Picker: Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation | Junyoung Park et al. | [2407.15131v1](http://arxiv.org/abs/2407.15131v1) | **NULL** |
 | **2024/07/21** | Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions | Sarah Wiegreffe et al. | [2407.15018v1](http://arxiv.org/abs/2407.15018v1) | **NULL** |
 | **2024/07/20** | GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization | Austin Patel et al. | [2407.15002v1](http://arxiv.org/abs/2407.15002v1) | **NULL** |
-| **2024/07/20** | Dreamer: Dual-RIS-aided Imager in Complementary Modes | Fuhai Wang et al. | [2407.14820v1](http://arxiv.org/abs/2407.14820v1) | **NULL** |
+| **2024/07/20** | Dreamer: Dual-RIS-aided Imager in Complementary Modes | Fuhai Wang et al. | [2407.14820v1](http://arxiv.org/abs/2407.14820v1) | [**link**](https://github.com/fuhaiwang/dreamer) |
 | **2024/07/19** | AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection | Majedaldein Almahasneh et al. | [2407.14464v1](http://arxiv.org/abs/2407.14464v1) | **NULL** |
 | **2024/07/19** | PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer | Jiahong Ma et al. | [2407.14459v1](http://arxiv.org/abs/2407.14459v1) | [**link**](https://github.com/air029/polyformer) |
 | **2024/07/19** | Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference | Chao Min et al. | [2407.14214v1](http://arxiv.org/abs/2407.14214v1) | **NULL** |
 | **2024/07/19** | Double-Shot 3D Shape Measurement with a Dual-Branch Network | Mingyang Lei et al. | [2407.14198v1](http://arxiv.org/abs/2407.14198v1) | **NULL** |
 | **2024/07/19** | EVLM: An Efficient Vision-Language Model for Visual Understanding | Kaibing Chen et al. | [2407.14177v1](http://arxiv.org/abs/2407.14177v1) | **NULL** |
-| **2024/07/19** | RealViformer: Investigating Attention for Real-World Video Super-Resolution | Yuehan Zhang et al. | [2407.13987v1](http://arxiv.org/abs/2407.13987v1) | [**link**](https://github.com/yuehan717/realviformer) |
-| **2024/07/18** | DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention | Xiaoya Tang et al. | [2407.13920v1](http://arxiv.org/abs/2407.13920v1) | **NULL** |
-| **2024/07/18** | Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning | Ans Munir et al. | [2407.13715v1](http://arxiv.org/abs/2407.13715v1) | [**link**](https://github.com/ans92/ASP) |
-| **2024/07/18** | Dual-arm Motion Generation for Repositioning Care based on Deep Predictive Learning with Somatosensory Attention Mechanism | Tamon Miyake et al. | [2407.13376v1](http://arxiv.org/abs/2407.13376v1) | **NULL** |
-| **2024/07/18** | QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View | Trinh T. L. Vuong et al. | [2407.13216v1](http://arxiv.org/abs/2407.13216v1) | [**link**](https://github.com/quiil/quiil_thompson_solution) |
-| **2024/07/18** | Transformer-based Single-Cell Language Model: A Survey | Wei Lan et al. | [2407.13205v1](http://arxiv.org/abs/2407.13205v1) | **NULL** |
-| **2024/07/18** | Revisiting Attention for Multivariate Time Series Forecasting | Haixiang Wu | [2407.13806v1](http://arxiv.org/abs/2407.13806v1) | [**link**](https://github.com/joeland4/fsatten-soatten) |
 
 ## 背景差分
 
