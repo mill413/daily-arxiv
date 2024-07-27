@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/26 08:52:13
+> Updated on 2024/07/27 08:51:58
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v2](http://arxiv.org/abs/2407.02394v2) | [**link**](https://github.com/cszzshi/SimD) |
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
@@ -47,18 +48,22 @@ layout: default
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
 | **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
-| **2023/10/21** | Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images | Bissmella Bahaduri et al. | [2310.13876v3](http://arxiv.org/abs/2310.13876v3) | [**link**](https://github.com/Bissmella/Small-object-detection-transformers) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/25** | CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation | Xiao Liu et al. | [2407.18070v1](http://arxiv.org/abs/2407.18070v1) | **NULL** |
+| **2024/07/25** | ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model | Linpeng Jin | [2407.18033v1](http://arxiv.org/abs/2407.18033v1) | **NULL** |
+| **2024/07/25** | EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling | Yiming Ma et al. | [2407.17869v1](http://arxiv.org/abs/2407.17869v1) | **NULL** |
+| **2024/07/24** | SMA-Hyper: Spatiotemporal Multi-View Fusion Hypergraph Learning for Traffic Accident Prediction | Xiaowei Gao et al. | [2407.17642v1](http://arxiv.org/abs/2407.17642v1) | **NULL** |
 | **2024/07/24** | Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation | Yongqi Li et al. | [2407.17274v1](http://arxiv.org/abs/2407.17274v1) | **NULL** |
 | **2024/07/24** | Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion | Guanyuan Yu et al. | [2407.17190v1](http://arxiv.org/abs/2407.17190v1) | **NULL** |
 | **2024/07/24** | Speech Editing -- a Summary | Tobias Kässmann et al. | [2407.17172v1](http://arxiv.org/abs/2407.17172v1) | **NULL** |
 | **2024/07/24** | Towards Robust Knowledge Tracing Models via k-Sparse Attention | Shuyan Huang et al. | [2407.17097v1](http://arxiv.org/abs/2407.17097v1) | [**link**](https://github.com/pykt-team/pykt-toolkit) |
 | **2024/07/24** | 3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution | Congrui Fu et al. | [2407.16965v1](http://arxiv.org/abs/2407.16965v1) | **NULL** |
 | **2024/07/24** | Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model | Jaewoong Choi et al. | [2407.16939v1](http://arxiv.org/abs/2407.16939v1) | **NULL** |
+| **2024/07/23** | S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks | Neha A S et al. | [2407.17587v1](http://arxiv.org/abs/2407.17587v1) | **NULL** |
 | **2024/07/23** | Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization | Junyan Wu et al. | [2407.16554v1](http://arxiv.org/abs/2407.16554v1) | [**link**](https://github.com/itzjuny/cfprf) |
 | **2024/07/23** | SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging | Lingtong Kong et al. | [2407.16308v1](http://arxiv.org/abs/2407.16308v1) | [**link**](https://github.com/ltkong218/safnet) |
 | **2024/07/23** | When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models | Haicheng Liao et al. | [2407.16277v1](http://arxiv.org/abs/2407.16277v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/07/21** | Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions | Sarah Wiegreffe et al. | [2407.15018v1](http://arxiv.org/abs/2407.15018v1) | **NULL** |
 | **2024/07/20** | GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization | Austin Patel et al. | [2407.15002v1](http://arxiv.org/abs/2407.15002v1) | **NULL** |
 | **2024/07/20** | Dreamer: Dual-RIS-aided Imager in Complementary Modes | Fuhai Wang et al. | [2407.14820v1](http://arxiv.org/abs/2407.14820v1) | [**link**](https://github.com/fuhaiwang/dreamer) |
-| **2024/07/19** | AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection | Majedaldein Almahasneh et al. | [2407.14464v1](http://arxiv.org/abs/2407.14464v1) | **NULL** |
-| **2024/07/19** | PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer | Jiahong Ma et al. | [2407.14459v1](http://arxiv.org/abs/2407.14459v1) | [**link**](https://github.com/air029/polyformer) |
-| **2024/07/19** | Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference | Chao Min et al. | [2407.14214v1](http://arxiv.org/abs/2407.14214v1) | **NULL** |
-| **2024/07/19** | Double-Shot 3D Shape Measurement with a Dual-Branch Network | Mingyang Lei et al. | [2407.14198v1](http://arxiv.org/abs/2407.14198v1) | **NULL** |
-| **2024/07/19** | EVLM: An Efficient Vision-Language Model for Visual Understanding | Kaibing Chen et al. | [2407.14177v1](http://arxiv.org/abs/2407.14177v1) | **NULL** |
 
 ## 背景差分
 
