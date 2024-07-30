@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/29 08:54:34
+> Updated on 2024/07/30 08:53:05
 
 <summary>Table of Contents</summary>
 
@@ -36,7 +36,7 @@ layout: default
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
-| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Peng Gao et al. | [2402.14309v1](http://arxiv.org/abs/2402.14309v1) | **NULL** |
+| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/26** | Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer | Carolin Flosdorf et al. | [2407.18554v1](http://arxiv.org/abs/2407.18554v1) | **NULL** |
+| **2024/07/26** | Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention | Joe Dhanith P R et al. | [2407.18552v1](http://arxiv.org/abs/2407.18552v1) | **NULL** |
+| **2024/07/26** | DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning | Xi Chen et al. | [2407.18523v1](http://arxiv.org/abs/2407.18523v1) | **NULL** |
+| **2024/07/25** | Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems | Morteza Mirzaee et al. | [2407.18309v1](http://arxiv.org/abs/2407.18309v1) | **NULL** |
 | **2024/07/25** | CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation | Xiao Liu et al. | [2407.18070v1](http://arxiv.org/abs/2407.18070v1) | **NULL** |
 | **2024/07/25** | ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model | Linpeng Jin | [2407.18033v1](http://arxiv.org/abs/2407.18033v1) | **NULL** |
 | **2024/07/25** | EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling | Yiming Ma et al. | [2407.17869v1](http://arxiv.org/abs/2407.17869v1) | **NULL** |
@@ -75,14 +79,10 @@ layout: default
 | **2024/07/22** | Emulation of $f(R)$ modified gravity from $Λ$CDM using conditional GANs | Yash Gondhalekar et al. | [2407.15934v1](http://arxiv.org/abs/2407.15934v1) | **NULL** |
 | **2024/07/22** | Mamba meets crack segmentation | Zhili He et al. | [2407.15714v1](http://arxiv.org/abs/2407.15714v1) | [**link**](https://github.com/hzlbbfrog/crackmamba) |
 | **2024/07/22** | vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving | Jiale Xu et al. | [2407.15309v1](http://arxiv.org/abs/2407.15309v1) | [**link**](https://github.com/intelligent-machine-learning/glake) |
-| **2024/07/22** | DiffX: Guide Your Layout to Cross-Modal Generative Modeling | Zeyu Wang et al. | [2407.15488v1](http://arxiv.org/abs/2407.15488v1) | [**link**](https://github.com/zeyuwang-zju/diffx) |
+| **2024/07/22** | DiffX: Guide Your Layout to Cross-Modal Generative Modeling | Zeyu Wang et al. | [2407.15488v2](http://arxiv.org/abs/2407.15488v2) | [**link**](https://github.com/zeyuwang-zju/diffx) |
 | **2024/07/22** | Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing | Yaoqi Yang et al. | [2407.15483v1](http://arxiv.org/abs/2407.15483v1) | **NULL** |
 | **2024/07/22** | RoadPainter: Points Are Ideal Navigators for Topology transformER | Zhongxing Ma et al. | [2407.15349v1](http://arxiv.org/abs/2407.15349v1) | **NULL** |
 | **2024/07/21** | Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope | Xiaoran Liu et al. | [2407.15176v1](http://arxiv.org/abs/2407.15176v1) | **NULL** |
-| **2024/07/21** | Token-Picker: Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation | Junyoung Park et al. | [2407.15131v1](http://arxiv.org/abs/2407.15131v1) | **NULL** |
-| **2024/07/21** | Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions | Sarah Wiegreffe et al. | [2407.15018v1](http://arxiv.org/abs/2407.15018v1) | **NULL** |
-| **2024/07/20** | GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization | Austin Patel et al. | [2407.15002v1](http://arxiv.org/abs/2407.15002v1) | **NULL** |
-| **2024/07/20** | Dreamer: Dual-RIS-aided Imager in Complementary Modes | Fuhai Wang et al. | [2407.14820v1](http://arxiv.org/abs/2407.14820v1) | [**link**](https://github.com/fuhaiwang/dreamer) |
 
 ## 背景差分
 
