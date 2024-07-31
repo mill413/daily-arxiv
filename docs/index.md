@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/30 08:53:05
+> Updated on 2024/07/31 08:42:44
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | **NULL** |
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v3](http://arxiv.org/abs/2407.02394v3) | [**link**](https://github.com/cszzshi/SimD) |
@@ -47,12 +48,29 @@ layout: default
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
 | **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
-| **2023/10/22** | The Importance of Anti-Aliasing in Tiny Object Detection | Jinlai Ning et al. | [2310.14221v1](http://arxiv.org/abs/2310.14221v1) | [**link**](https://github.com/freshn/anti-aliasing-tiny-object-detection) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/29** | FlexAttention for Efficient High-Resolution Vision-Language Models | Junyan Li et al. | [2407.20228v1](http://arxiv.org/abs/2407.20228v1) | **NULL** |
+| **2024/07/29** | Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration | Yixiao Ma et al. | [2407.20203v1](http://arxiv.org/abs/2407.20203v1) | **NULL** |
+| **2024/07/29** | SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking | Jian Wang et al. | [2407.20198v1](http://arxiv.org/abs/2407.20198v1) | **NULL** |
+| **2024/07/29** | MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion | Chencan Fu et al. | [2407.19976v1](http://arxiv.org/abs/2407.19976v1) | **NULL** |
+| **2024/07/29** | AOTree: Aspect Order Tree-based Model for Explainable Recommendation | Wenxin Zhao et al. | [2407.19937v1](http://arxiv.org/abs/2407.19937v1) | **NULL** |
+| **2024/07/29** | Language-driven Grasp Detection with Mask-guided Attention | Tuan Van Vo et al. | [2407.19877v1](http://arxiv.org/abs/2407.19877v1) | **NULL** |
+| **2024/07/29** | Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism | Tianhang Nan et al. | [2407.19821v1](http://arxiv.org/abs/2407.19821v1) | **NULL** |
+| **2024/07/29** | Synthesizing Scientific Summaries: An Extractive and Abstractive Approach | Grishma Sharma et al. | [2407.19779v1](http://arxiv.org/abs/2407.19779v1) | **NULL** |
+| **2024/07/29** | Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | Shiyu Wang et al. | [2407.19697v1](http://arxiv.org/abs/2407.19697v1) | **NULL** |
+| **2024/07/29** | Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer | Yang Wu et al. | [2407.19628v1](http://arxiv.org/abs/2407.19628v1) | **NULL** |
+| **2024/07/28** | Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction | Chuike Sun et al. | [2407.19414v1](http://arxiv.org/abs/2407.19414v1) | **NULL** |
+| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v1](http://arxiv.org/abs/2407.19394v1) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
+| **2024/07/27** | Polyp segmentation in colonoscopy images using DeepLabV3++ | Al Mohimanul Islam et al. | [2407.19327v1](http://arxiv.org/abs/2407.19327v1) | **NULL** |
+| **2024/07/27** | Rethinking Attention Module Design for Point Cloud Analysis | Chengzhi Wu et al. | [2407.19294v1](http://arxiv.org/abs/2407.19294v1) | **NULL** |
+| **2024/07/27** | Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network | Gang Pan et al. | [2407.19271v1](http://arxiv.org/abs/2407.19271v1) | **NULL** |
+| **2024/07/27** | EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection | Shigang Liu et al. | [2407.19216v1](http://arxiv.org/abs/2407.19216v1) | **NULL** |
+| **2024/07/27** | Faster Image2Video Generation: A Closer Look at CLIP Image Embedding's Impact on Spatio-Temporal Cross-Attentions | Ashkan Taghipour et al. | [2407.19205v1](http://arxiv.org/abs/2407.19205v1) | **NULL** |
+| **2024/07/27** | Channel Boosted CNN-Transformer-based Multi-Level and Multi-Scale Nuclei Segmentation | Zunaira Rauf et al. | [2407.19186v1](http://arxiv.org/abs/2407.19186v1) | **NULL** |
 | **2024/07/26** | Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer | Carolin Flosdorf et al. | [2407.18554v1](http://arxiv.org/abs/2407.18554v1) | **NULL** |
 | **2024/07/26** | Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention | Joe Dhanith P R et al. | [2407.18552v1](http://arxiv.org/abs/2407.18552v1) | **NULL** |
 | **2024/07/26** | DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning | Xi Chen et al. | [2407.18523v1](http://arxiv.org/abs/2407.18523v1) | **NULL** |
@@ -65,24 +83,6 @@ layout: default
 | **2024/07/24** | Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion | Guanyuan Yu et al. | [2407.17190v1](http://arxiv.org/abs/2407.17190v1) | **NULL** |
 | **2024/07/24** | Speech Editing -- a Summary | Tobias Kässmann et al. | [2407.17172v1](http://arxiv.org/abs/2407.17172v1) | **NULL** |
 | **2024/07/24** | Towards Robust Knowledge Tracing Models via k-Sparse Attention | Shuyan Huang et al. | [2407.17097v1](http://arxiv.org/abs/2407.17097v1) | [**link**](https://github.com/pykt-team/pykt-toolkit) |
-| **2024/07/24** | 3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution | Congrui Fu et al. | [2407.16965v1](http://arxiv.org/abs/2407.16965v1) | [**link**](https://github.com/fcongrui/3dattgan) |
-| **2024/07/24** | Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model | Jaewoong Choi et al. | [2407.16939v1](http://arxiv.org/abs/2407.16939v1) | **NULL** |
-| **2024/07/23** | S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks | Neha A S et al. | [2407.17587v1](http://arxiv.org/abs/2407.17587v1) | **NULL** |
-| **2024/07/23** | Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization | Junyan Wu et al. | [2407.16554v1](http://arxiv.org/abs/2407.16554v1) | [**link**](https://github.com/itzjuny/cfprf) |
-| **2024/07/23** | SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging | Lingtong Kong et al. | [2407.16308v1](http://arxiv.org/abs/2407.16308v1) | [**link**](https://github.com/ltkong218/safnet) |
-| **2024/07/23** | When, Where, and What? A Novel Benchmark for Accident Anticipation and Localization with Large Language Models | Haicheng Liao et al. | [2407.16277v2](http://arxiv.org/abs/2407.16277v2) | **NULL** |
-| **2024/07/23** | Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval | Xiaowan Hu et al. | [2407.16248v2](http://arxiv.org/abs/2407.16248v2) | [**link**](https://github.com/huxiaowan/sgmn) |
-| **2024/07/23** | HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification | Shuyi Ouyang et al. | [2407.16244v1](http://arxiv.org/abs/2407.16244v1) | **NULL** |
-| **2024/07/23** | EIANet: A Novel Domain Adaptation Approach to Maximize Class Distinction with Neural Collapse Principles | Zicheng Pan et al. | [2407.16189v1](http://arxiv.org/abs/2407.16189v1) | [**link**](https://github.com/zichengpan/eianet) |
-| **2024/07/23** | On the Benefits of Rank in Attention Layers | Noah Amsel et al. | [2407.16153v1](http://arxiv.org/abs/2407.16153v1) | **NULL** |
-| **2024/07/23** | Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation | Tao Meng et al. | [2407.16714v1](http://arxiv.org/abs/2407.16714v1) | **NULL** |
-| **2024/07/22** | Emulation of $f(R)$ modified gravity from $Λ$CDM using conditional GANs | Yash Gondhalekar et al. | [2407.15934v1](http://arxiv.org/abs/2407.15934v1) | **NULL** |
-| **2024/07/22** | Mamba meets crack segmentation | Zhili He et al. | [2407.15714v1](http://arxiv.org/abs/2407.15714v1) | [**link**](https://github.com/hzlbbfrog/crackmamba) |
-| **2024/07/22** | vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving | Jiale Xu et al. | [2407.15309v1](http://arxiv.org/abs/2407.15309v1) | [**link**](https://github.com/intelligent-machine-learning/glake) |
-| **2024/07/22** | DiffX: Guide Your Layout to Cross-Modal Generative Modeling | Zeyu Wang et al. | [2407.15488v2](http://arxiv.org/abs/2407.15488v2) | [**link**](https://github.com/zeyuwang-zju/diffx) |
-| **2024/07/22** | Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing | Yaoqi Yang et al. | [2407.15483v1](http://arxiv.org/abs/2407.15483v1) | **NULL** |
-| **2024/07/22** | RoadPainter: Points Are Ideal Navigators for Topology transformER | Zhongxing Ma et al. | [2407.15349v1](http://arxiv.org/abs/2407.15349v1) | **NULL** |
-| **2024/07/21** | Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope | Xiaoran Liu et al. | [2407.15176v1](http://arxiv.org/abs/2407.15176v1) | **NULL** |
 
 ## 背景差分
 
