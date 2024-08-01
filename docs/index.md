@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/07/31 08:42:44
+> Updated on 2024/08/01 08:57:45
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/30** | ThinK: Thinner Key Cache by Query-Driven Pruning | Yuhui Xu et al. | [2407.21018v1](http://arxiv.org/abs/2407.21018v1) | **NULL** |
+| **2024/07/30** | HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation | Wencan Cheng et al. | [2407.20542v1](http://arxiv.org/abs/2407.20542v1) | [**link**](https://github.com/cwc1260/handdagt) |
 | **2024/07/29** | FlexAttention for Efficient High-Resolution Vision-Language Models | Junyan Li et al. | [2407.20228v1](http://arxiv.org/abs/2407.20228v1) | **NULL** |
 | **2024/07/29** | Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration | Yixiao Ma et al. | [2407.20203v1](http://arxiv.org/abs/2407.20203v1) | **NULL** |
-| **2024/07/29** | SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking | Jian Wang et al. | [2407.20198v1](http://arxiv.org/abs/2407.20198v1) | **NULL** |
+| **2024/07/29** | SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking | Jian Wang et al. | [2407.20198v3](http://arxiv.org/abs/2407.20198v3) | [**link**](https://github.com/bchimagine/SpaER) |
 | **2024/07/29** | MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion | Chencan Fu et al. | [2407.19976v1](http://arxiv.org/abs/2407.19976v1) | **NULL** |
 | **2024/07/29** | AOTree: Aspect Order Tree-based Model for Explainable Recommendation | Wenxin Zhao et al. | [2407.19937v1](http://arxiv.org/abs/2407.19937v1) | **NULL** |
 | **2024/07/29** | Language-driven Grasp Detection with Mask-guided Attention | Tuan Van Vo et al. | [2407.19877v1](http://arxiv.org/abs/2407.19877v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/07/24** | SMA-Hyper: Spatiotemporal Multi-View Fusion Hypergraph Learning for Traffic Accident Prediction | Xiaowei Gao et al. | [2407.17642v1](http://arxiv.org/abs/2407.17642v1) | **NULL** |
 | **2024/07/24** | Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation | Yongqi Li et al. | [2407.17274v1](http://arxiv.org/abs/2407.17274v1) | **NULL** |
 | **2024/07/24** | Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion | Guanyuan Yu et al. | [2407.17190v1](http://arxiv.org/abs/2407.17190v1) | **NULL** |
-| **2024/07/24** | Speech Editing -- a Summary | Tobias Kässmann et al. | [2407.17172v1](http://arxiv.org/abs/2407.17172v1) | **NULL** |
-| **2024/07/24** | Towards Robust Knowledge Tracing Models via k-Sparse Attention | Shuyan Huang et al. | [2407.17097v1](http://arxiv.org/abs/2407.17097v1) | [**link**](https://github.com/pykt-team/pykt-toolkit) |
 
 ## 背景差分
 
