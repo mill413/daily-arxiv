@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/01 08:57:45
+> Updated on 2024/08/02 08:53:01
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/07/31** | MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v1](http://arxiv.org/abs/2407.21640v1) | **NULL** |
+| **2024/07/31** | RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion | Jianxin Huang et al. | [2407.21631v1](http://arxiv.org/abs/2407.21631v1) | **NULL** |
+| **2024/07/31** | Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism | Jiafeng Zhong et al. | [2407.21611v1](http://arxiv.org/abs/2407.21611v1) | **NULL** |
+| **2024/07/31** | Interpretable correlator Transformer for image-like quantum matter data | Abhinav Suresh et al. | [2407.21502v1](http://arxiv.org/abs/2407.21502v1) | **NULL** |
+| **2024/07/31** | Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation | Junxuan Yu et al. | [2407.21490v1](http://arxiv.org/abs/2407.21490v1) | **NULL** |
+| **2024/07/31** | Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images | Yimeng Geng et al. | [2407.21394v1](http://arxiv.org/abs/2407.21394v1) | **NULL** |
+| **2024/07/31** | On-the-fly Point Feature Representation for Point Clouds Analysis | Jiangyi Wang et al. | [2407.21335v1](http://arxiv.org/abs/2407.21335v1) | **NULL** |
+| **2024/07/31** | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | Rujia Shen et al. | [2407.21275v1](http://arxiv.org/abs/2407.21275v1) | **NULL** |
 | **2024/07/30** | ThinK: Thinner Key Cache by Query-Driven Pruning | Yuhui Xu et al. | [2407.21018v1](http://arxiv.org/abs/2407.21018v1) | **NULL** |
 | **2024/07/30** | HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation | Wencan Cheng et al. | [2407.20542v1](http://arxiv.org/abs/2407.20542v1) | [**link**](https://github.com/cwc1260/handdagt) |
 | **2024/07/29** | FlexAttention for Efficient High-Resolution Vision-Language Models | Junyan Li et al. | [2407.20228v1](http://arxiv.org/abs/2407.20228v1) | **NULL** |
@@ -66,7 +74,7 @@ layout: default
 | **2024/07/29** | Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | Shiyu Wang et al. | [2407.19697v1](http://arxiv.org/abs/2407.19697v1) | **NULL** |
 | **2024/07/29** | Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer | Yang Wu et al. | [2407.19628v1](http://arxiv.org/abs/2407.19628v1) | **NULL** |
 | **2024/07/28** | Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction | Chuike Sun et al. | [2407.19414v1](http://arxiv.org/abs/2407.19414v1) | **NULL** |
-| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v1](http://arxiv.org/abs/2407.19394v1) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
+| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v2](http://arxiv.org/abs/2407.19394v2) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
 | **2024/07/27** | Polyp segmentation in colonoscopy images using DeepLabV3++ | Al Mohimanul Islam et al. | [2407.19327v1](http://arxiv.org/abs/2407.19327v1) | **NULL** |
 | **2024/07/27** | Rethinking Attention Module Design for Point Cloud Analysis | Chengzhi Wu et al. | [2407.19294v1](http://arxiv.org/abs/2407.19294v1) | **NULL** |
 | **2024/07/27** | Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network | Gang Pan et al. | [2407.19271v1](http://arxiv.org/abs/2407.19271v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/07/27** | Channel Boosted CNN-Transformer-based Multi-Level and Multi-Scale Nuclei Segmentation | Zunaira Rauf et al. | [2407.19186v1](http://arxiv.org/abs/2407.19186v1) | **NULL** |
 | **2024/07/26** | Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer | Carolin Flosdorf et al. | [2407.18554v1](http://arxiv.org/abs/2407.18554v1) | **NULL** |
 | **2024/07/26** | Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention | Joe Dhanith P R et al. | [2407.18552v1](http://arxiv.org/abs/2407.18552v1) | **NULL** |
-| **2024/07/26** | DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning | Xi Chen et al. | [2407.18523v1](http://arxiv.org/abs/2407.18523v1) | **NULL** |
-| **2024/07/25** | Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems | Morteza Mirzaee et al. | [2407.18309v1](http://arxiv.org/abs/2407.18309v1) | **NULL** |
-| **2024/07/25** | CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation | Xiao Liu et al. | [2407.18070v1](http://arxiv.org/abs/2407.18070v1) | **NULL** |
-| **2024/07/25** | ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model | Linpeng Jin | [2407.18033v1](http://arxiv.org/abs/2407.18033v1) | **NULL** |
-| **2024/07/25** | EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling | Yiming Ma et al. | [2407.17869v1](http://arxiv.org/abs/2407.17869v1) | **NULL** |
-| **2024/07/24** | SMA-Hyper: Spatiotemporal Multi-View Fusion Hypergraph Learning for Traffic Accident Prediction | Xiaowei Gao et al. | [2407.17642v1](http://arxiv.org/abs/2407.17642v1) | **NULL** |
-| **2024/07/24** | Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation | Yongqi Li et al. | [2407.17274v1](http://arxiv.org/abs/2407.17274v1) | **NULL** |
-| **2024/07/24** | Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion | Guanyuan Yu et al. | [2407.17190v1](http://arxiv.org/abs/2407.17190v1) | **NULL** |
 
 ## 背景差分
 
