@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/04 08:57:41
+> Updated on 2024/08/05 08:55:02
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/01** | Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention | Susung Hong | [2408.00760v1](http://arxiv.org/abs/2408.00760v1) | **NULL** |
+| **2024/08/01** | MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection | Xiangyuan Peng et al. | [2408.00565v1](http://arxiv.org/abs/2408.00565v1) | **NULL** |
+| **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
+| **2024/08/01** | CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images | Thiziri Nait Saada et al. | [2408.00427v1](http://arxiv.org/abs/2408.00427v1) | **NULL** |
 | **2024/07/31** | MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v1](http://arxiv.org/abs/2407.21640v1) | **NULL** |
 | **2024/07/31** | RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion | Jianxin Huang et al. | [2407.21631v1](http://arxiv.org/abs/2407.21631v1) | **NULL** |
 | **2024/07/31** | Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism | Jiafeng Zhong et al. | [2407.21611v1](http://arxiv.org/abs/2407.21611v1) | **NULL** |
+| **2024/07/31** | Enhanced Fault Detection and Cause Identification Using Integrated Attention Mechanism | Mohammad Ali Labbaf Khaniki et al. | [2408.00033v1](http://arxiv.org/abs/2408.00033v1) | **NULL** |
 | **2024/07/31** | Interpretable correlator Transformer for image-like quantum matter data | Abhinav Suresh et al. | [2407.21502v1](http://arxiv.org/abs/2407.21502v1) | **NULL** |
 | **2024/07/31** | Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation | Junxuan Yu et al. | [2407.21490v1](http://arxiv.org/abs/2407.21490v1) | **NULL** |
 | **2024/07/31** | Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images | Yimeng Geng et al. | [2407.21394v1](http://arxiv.org/abs/2407.21394v1) | **NULL** |
@@ -74,15 +79,10 @@ layout: default
 | **2024/07/29** | Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | Shiyu Wang et al. | [2407.19697v1](http://arxiv.org/abs/2407.19697v1) | **NULL** |
 | **2024/07/29** | Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer | Yang Wu et al. | [2407.19628v1](http://arxiv.org/abs/2407.19628v1) | **NULL** |
 | **2024/07/28** | Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction | Chuike Sun et al. | [2407.19414v1](http://arxiv.org/abs/2407.19414v1) | **NULL** |
-| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v2](http://arxiv.org/abs/2407.19394v2) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
+| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v3](http://arxiv.org/abs/2407.19394v3) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
 | **2024/07/27** | Polyp segmentation in colonoscopy images using DeepLabV3++ | Al Mohimanul Islam et al. | [2407.19327v1](http://arxiv.org/abs/2407.19327v1) | **NULL** |
 | **2024/07/27** | Rethinking Attention Module Design for Point Cloud Analysis | Chengzhi Wu et al. | [2407.19294v1](http://arxiv.org/abs/2407.19294v1) | **NULL** |
 | **2024/07/27** | Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network | Gang Pan et al. | [2407.19271v1](http://arxiv.org/abs/2407.19271v1) | **NULL** |
-| **2024/07/27** | EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection | Shigang Liu et al. | [2407.19216v1](http://arxiv.org/abs/2407.19216v1) | **NULL** |
-| **2024/07/27** | Faster Image2Video Generation: A Closer Look at CLIP Image Embedding's Impact on Spatio-Temporal Cross-Attentions | Ashkan Taghipour et al. | [2407.19205v1](http://arxiv.org/abs/2407.19205v1) | **NULL** |
-| **2024/07/27** | Channel Boosted CNN-Transformer-based Multi-Level and Multi-Scale Nuclei Segmentation | Zunaira Rauf et al. | [2407.19186v1](http://arxiv.org/abs/2407.19186v1) | **NULL** |
-| **2024/07/26** | Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer | Carolin Flosdorf et al. | [2407.18554v1](http://arxiv.org/abs/2407.18554v1) | **NULL** |
-| **2024/07/26** | Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention | Joe Dhanith P R et al. | [2407.18552v1](http://arxiv.org/abs/2407.18552v1) | **NULL** |
 
 ## 背景差分
 
