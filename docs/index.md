@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/05 08:55:02
+> Updated on 2024/08/06 08:53:29
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
+| **2024/08/02** | An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding | Wei Chen et al. | [2408.01120v1](http://arxiv.org/abs/2408.01120v1) | **NULL** |
+| **2024/08/02** | EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts | Die Chen et al. | [2408.01014v1](http://arxiv.org/abs/2408.01014v1) | **NULL** |
+| **2024/08/02** | Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making | Yang Luo et al. | [2408.01000v1](http://arxiv.org/abs/2408.01000v1) | **NULL** |
+| **2024/08/01** | A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage | Caiwen Jiang et al. | [2408.00940v1](http://arxiv.org/abs/2408.00940v1) | **NULL** |
 | **2024/08/01** | Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention | Susung Hong | [2408.00760v1](http://arxiv.org/abs/2408.00760v1) | **NULL** |
 | **2024/08/01** | MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection | Xiangyuan Peng et al. | [2408.00565v1](http://arxiv.org/abs/2408.00565v1) | **NULL** |
 | **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
 | **2024/08/01** | CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images | Thiziri Nait Saada et al. | [2408.00427v1](http://arxiv.org/abs/2408.00427v1) | **NULL** |
-| **2024/07/31** | MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v1](http://arxiv.org/abs/2407.21640v1) | **NULL** |
+| **2024/07/31** | MSA$^2$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v2](http://arxiv.org/abs/2407.21640v2) | **NULL** |
 | **2024/07/31** | RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion | Jianxin Huang et al. | [2407.21631v1](http://arxiv.org/abs/2407.21631v1) | **NULL** |
 | **2024/07/31** | Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism | Jiafeng Zhong et al. | [2407.21611v1](http://arxiv.org/abs/2407.21611v1) | **NULL** |
 | **2024/07/31** | Enhanced Fault Detection and Cause Identification Using Integrated Attention Mechanism | Mohammad Ali Labbaf Khaniki et al. | [2408.00033v1](http://arxiv.org/abs/2408.00033v1) | **NULL** |
@@ -72,17 +77,12 @@ layout: default
 | **2024/07/29** | Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration | Yixiao Ma et al. | [2407.20203v1](http://arxiv.org/abs/2407.20203v1) | **NULL** |
 | **2024/07/29** | SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking | Jian Wang et al. | [2407.20198v3](http://arxiv.org/abs/2407.20198v3) | [**link**](https://github.com/bchimagine/SpaER) |
 | **2024/07/29** | MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion | Chencan Fu et al. | [2407.19976v1](http://arxiv.org/abs/2407.19976v1) | **NULL** |
-| **2024/07/29** | AOTree: Aspect Order Tree-based Model for Explainable Recommendation | Wenxin Zhao et al. | [2407.19937v1](http://arxiv.org/abs/2407.19937v1) | **NULL** |
+| **2024/07/29** | AOTree: Aspect Order Tree-based Model for Explainable Recommendation | Wenxin Zhao et al. | [2407.19937v2](http://arxiv.org/abs/2407.19937v2) | **NULL** |
 | **2024/07/29** | Language-driven Grasp Detection with Mask-guided Attention | Tuan Van Vo et al. | [2407.19877v1](http://arxiv.org/abs/2407.19877v1) | **NULL** |
 | **2024/07/29** | Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism | Tianhang Nan et al. | [2407.19821v1](http://arxiv.org/abs/2407.19821v1) | **NULL** |
 | **2024/07/29** | Synthesizing Scientific Summaries: An Extractive and Abstractive Approach | Grishma Sharma et al. | [2407.19779v1](http://arxiv.org/abs/2407.19779v1) | **NULL** |
 | **2024/07/29** | Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | Shiyu Wang et al. | [2407.19697v1](http://arxiv.org/abs/2407.19697v1) | **NULL** |
 | **2024/07/29** | Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer | Yang Wu et al. | [2407.19628v1](http://arxiv.org/abs/2407.19628v1) | **NULL** |
-| **2024/07/28** | Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction | Chuike Sun et al. | [2407.19414v1](http://arxiv.org/abs/2407.19414v1) | **NULL** |
-| **2024/07/28** | Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets | Tianxiao Zhang et al. | [2407.19394v3](http://arxiv.org/abs/2407.19394v3) | [**link**](https://github.com/ztx-100/efficient_vit_with_dw) |
-| **2024/07/27** | Polyp segmentation in colonoscopy images using DeepLabV3++ | Al Mohimanul Islam et al. | [2407.19327v1](http://arxiv.org/abs/2407.19327v1) | **NULL** |
-| **2024/07/27** | Rethinking Attention Module Design for Point Cloud Analysis | Chengzhi Wu et al. | [2407.19294v1](http://arxiv.org/abs/2407.19294v1) | **NULL** |
-| **2024/07/27** | Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network | Gang Pan et al. | [2407.19271v1](http://arxiv.org/abs/2407.19271v1) | **NULL** |
 
 ## 背景差分
 
