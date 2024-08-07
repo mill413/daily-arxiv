@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/06 08:53:29
+> Updated on 2024/08/07 08:54:05
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/05** | LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba | Yunxiang Fu et al. | [2408.02615v1](http://arxiv.org/abs/2408.02615v1) | **NULL** |
+| **2024/08/05** | Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network | Wen Feng et al. | [2408.02524v1](http://arxiv.org/abs/2408.02524v1) | **NULL** |
+| **2024/08/04** | Faster Diffusion Action Segmentation | Shuaibing Wang et al. | [2408.02024v1](http://arxiv.org/abs/2408.02024v1) | **NULL** |
+| **2024/08/04** | CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization | Xiang He et al. | [2408.01952v1](http://arxiv.org/abs/2408.01952v1) | **NULL** |
+| **2024/08/04** | Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach | Linhao Qu et al. | [2408.01929v1](http://arxiv.org/abs/2408.01929v1) | **NULL** |
+| **2024/08/04** | Cross-layer Attention Sharing for Large Language Models | Yongyu Mu et al. | [2408.01890v1](http://arxiv.org/abs/2408.01890v1) | **NULL** |
+| **2024/08/03** | LAM3D: Leveraging Attention for Monocular 3D Object Detection | Diana-Alexandra Sas et al. | [2408.01739v1](http://arxiv.org/abs/2408.01739v1) | **NULL** |
+| **2024/08/02** | Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans | Lukas Kratochvila et al. | [2408.01526v1](http://arxiv.org/abs/2408.01526v1) | **NULL** |
 | **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
 | **2024/08/02** | An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding | Wei Chen et al. | [2408.01120v1](http://arxiv.org/abs/2408.01120v1) | **NULL** |
 | **2024/08/02** | EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts | Die Chen et al. | [2408.01014v1](http://arxiv.org/abs/2408.01014v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/07/30** | HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation | Wencan Cheng et al. | [2407.20542v1](http://arxiv.org/abs/2407.20542v1) | [**link**](https://github.com/cwc1260/handdagt) |
 | **2024/07/29** | FlexAttention for Efficient High-Resolution Vision-Language Models | Junyan Li et al. | [2407.20228v1](http://arxiv.org/abs/2407.20228v1) | **NULL** |
 | **2024/07/29** | Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration | Yixiao Ma et al. | [2407.20203v1](http://arxiv.org/abs/2407.20203v1) | **NULL** |
-| **2024/07/29** | SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking | Jian Wang et al. | [2407.20198v3](http://arxiv.org/abs/2407.20198v3) | [**link**](https://github.com/bchimagine/SpaER) |
-| **2024/07/29** | MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion | Chencan Fu et al. | [2407.19976v1](http://arxiv.org/abs/2407.19976v1) | **NULL** |
-| **2024/07/29** | AOTree: Aspect Order Tree-based Model for Explainable Recommendation | Wenxin Zhao et al. | [2407.19937v2](http://arxiv.org/abs/2407.19937v2) | **NULL** |
-| **2024/07/29** | Language-driven Grasp Detection with Mask-guided Attention | Tuan Van Vo et al. | [2407.19877v1](http://arxiv.org/abs/2407.19877v1) | **NULL** |
-| **2024/07/29** | Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism | Tianhang Nan et al. | [2407.19821v1](http://arxiv.org/abs/2407.19821v1) | **NULL** |
-| **2024/07/29** | Synthesizing Scientific Summaries: An Extractive and Abstractive Approach | Grishma Sharma et al. | [2407.19779v1](http://arxiv.org/abs/2407.19779v1) | **NULL** |
-| **2024/07/29** | Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | Shiyu Wang et al. | [2407.19697v1](http://arxiv.org/abs/2407.19697v1) | **NULL** |
-| **2024/07/29** | Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer | Yang Wu et al. | [2407.19628v1](http://arxiv.org/abs/2407.19628v1) | **NULL** |
 
 ## 背景差分
 
