@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/07 08:54:05
+> Updated on 2024/08/08 08:53:40
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/06** | Enhancing Twitter Bot Detection via Multimodal Invariant Representations | Jibing Gong et al. | [2408.03096v1](http://arxiv.org/abs/2408.03096v1) | **NULL** |
+| **2024/08/06** | Nighttime Pedestrian Detection Based on Fore-Background Contrast Learning | He Yao et al. | [2408.03030v1](http://arxiv.org/abs/2408.03030v1) | **NULL** |
+| **2024/08/05** | From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation | Xin Liu et al. | [2408.02769v1](http://arxiv.org/abs/2408.02769v1) | **NULL** |
 | **2024/08/05** | LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba | Yunxiang Fu et al. | [2408.02615v1](http://arxiv.org/abs/2408.02615v1) | **NULL** |
 | **2024/08/05** | Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network | Wen Feng et al. | [2408.02524v1](http://arxiv.org/abs/2408.02524v1) | **NULL** |
 | **2024/08/04** | Faster Diffusion Action Segmentation | Shuaibing Wang et al. | [2408.02024v1](http://arxiv.org/abs/2408.02024v1) | **NULL** |
 | **2024/08/04** | CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization | Xiang He et al. | [2408.01952v1](http://arxiv.org/abs/2408.01952v1) | **NULL** |
 | **2024/08/04** | Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach | Linhao Qu et al. | [2408.01929v1](http://arxiv.org/abs/2408.01929v1) | **NULL** |
 | **2024/08/04** | Cross-layer Attention Sharing for Large Language Models | Yongyu Mu et al. | [2408.01890v1](http://arxiv.org/abs/2408.01890v1) | **NULL** |
+| **2024/08/03** | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco | Akram Elghouat et al. | [2408.02692v1](http://arxiv.org/abs/2408.02692v1) | **NULL** |
 | **2024/08/03** | LAM3D: Leveraging Attention for Monocular 3D Object Detection | Diana-Alexandra Sas et al. | [2408.01739v1](http://arxiv.org/abs/2408.01739v1) | **NULL** |
 | **2024/08/02** | Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans | Lukas Kratochvila et al. | [2408.01526v1](http://arxiv.org/abs/2408.01526v1) | **NULL** |
 | **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
@@ -79,15 +83,12 @@ layout: default
 | **2024/07/31** | Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images | Yimeng Geng et al. | [2407.21394v1](http://arxiv.org/abs/2407.21394v1) | **NULL** |
 | **2024/07/31** | On-the-fly Point Feature Representation for Point Clouds Analysis | Jiangyi Wang et al. | [2407.21335v1](http://arxiv.org/abs/2407.21335v1) | **NULL** |
 | **2024/07/31** | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | Rujia Shen et al. | [2407.21275v1](http://arxiv.org/abs/2407.21275v1) | **NULL** |
-| **2024/07/30** | ThinK: Thinner Key Cache by Query-Driven Pruning | Yuhui Xu et al. | [2407.21018v1](http://arxiv.org/abs/2407.21018v1) | **NULL** |
-| **2024/07/30** | HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation | Wencan Cheng et al. | [2407.20542v1](http://arxiv.org/abs/2407.20542v1) | [**link**](https://github.com/cwc1260/handdagt) |
-| **2024/07/29** | FlexAttention for Efficient High-Resolution Vision-Language Models | Junyan Li et al. | [2407.20228v1](http://arxiv.org/abs/2407.20228v1) | **NULL** |
-| **2024/07/29** | Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration | Yixiao Ma et al. | [2407.20203v1](http://arxiv.org/abs/2407.20203v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v1](http://arxiv.org/abs/2407.16488v1) | **NULL** |
 | **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/09/12** | Reference Frames and Black Hole Thermodynamics | Franco Fiorini et al. | [2309.06293v2](http://arxiv.org/abs/2309.06293v2) | **NULL** |
 | **2023/08/23** | Computational models of object motion detectors accelerated using FPGA technology | Pedro Machado | [2310.06842v1](http://arxiv.org/abs/2310.06842v1) | **NULL** |
 | **2023/08/02** | Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector | ATLAS Collaboration | [2308.01171v2](http://arxiv.org/abs/2308.01171v2) | **NULL** |
-| **2023/06/29** | Effect of Background Signal on Momentum Imaging | Sukanta Das et al. | [2306.16708v1](http://arxiv.org/abs/2306.16708v1) | **NULL** |
