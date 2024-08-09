@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/08 08:53:40
+> Updated on 2024/08/09 08:54:21
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/07** | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | Yunlong Huang et al. | [2408.03540v1](http://arxiv.org/abs/2408.03540v1) | **NULL** |
+| **2024/08/06** | ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning | Hieu Man et al. | [2408.03402v1](http://arxiv.org/abs/2408.03402v1) | [**link**](https://github.com/nlp-uoregon/ullme) |
 | **2024/08/06** | Enhancing Twitter Bot Detection via Multimodal Invariant Representations | Jibing Gong et al. | [2408.03096v1](http://arxiv.org/abs/2408.03096v1) | **NULL** |
-| **2024/08/06** | Nighttime Pedestrian Detection Based on Fore-Background Contrast Learning | He Yao et al. | [2408.03030v1](http://arxiv.org/abs/2408.03030v1) | **NULL** |
+| **2024/08/06** | Nighttime Pedestrian Detection Based on Fore-Background Contrast Learning | He Yao et al. | [2408.03030v2](http://arxiv.org/abs/2408.03030v2) | **NULL** |
 | **2024/08/05** | From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation | Xin Liu et al. | [2408.02769v1](http://arxiv.org/abs/2408.02769v1) | **NULL** |
 | **2024/08/05** | LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba | Yunxiang Fu et al. | [2408.02615v1](http://arxiv.org/abs/2408.02615v1) | **NULL** |
 | **2024/08/05** | Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network | Wen Feng et al. | [2408.02524v1](http://arxiv.org/abs/2408.02524v1) | **NULL** |
 | **2024/08/04** | Faster Diffusion Action Segmentation | Shuaibing Wang et al. | [2408.02024v1](http://arxiv.org/abs/2408.02024v1) | **NULL** |
-| **2024/08/04** | CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization | Xiang He et al. | [2408.01952v1](http://arxiv.org/abs/2408.01952v1) | **NULL** |
+| **2024/08/04** | CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization | Xiang He et al. | [2408.01952v1](http://arxiv.org/abs/2408.01952v1) | [**link**](https://github.com/brain-cog-lab/cace-net) |
 | **2024/08/04** | Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach | Linhao Qu et al. | [2408.01929v1](http://arxiv.org/abs/2408.01929v1) | **NULL** |
 | **2024/08/04** | Cross-layer Attention Sharing for Large Language Models | Yongyu Mu et al. | [2408.01890v1](http://arxiv.org/abs/2408.01890v1) | **NULL** |
 | **2024/08/03** | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco | Akram Elghouat et al. | [2408.02692v1](http://arxiv.org/abs/2408.02692v1) | **NULL** |
 | **2024/08/03** | LAM3D: Leveraging Attention for Monocular 3D Object Detection | Diana-Alexandra Sas et al. | [2408.01739v1](http://arxiv.org/abs/2408.01739v1) | **NULL** |
 | **2024/08/02** | Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans | Lukas Kratochvila et al. | [2408.01526v1](http://arxiv.org/abs/2408.01526v1) | **NULL** |
 | **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
-| **2024/08/02** | An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding | Wei Chen et al. | [2408.01120v1](http://arxiv.org/abs/2408.01120v1) | **NULL** |
+| **2024/08/02** | An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding | Wei Chen et al. | [2408.01120v1](http://arxiv.org/abs/2408.01120v1) | [**link**](https://github.com/chenwei746/eevg) |
 | **2024/08/02** | EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts | Die Chen et al. | [2408.01014v1](http://arxiv.org/abs/2408.01014v1) | **NULL** |
-| **2024/08/02** | Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making | Yang Luo et al. | [2408.01000v1](http://arxiv.org/abs/2408.01000v1) | **NULL** |
+| **2024/08/02** | Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making | Yang Luo et al. | [2408.01000v1](http://arxiv.org/abs/2408.01000v1) | [**link**](https://github.com/floating-ly/harmony1) |
 | **2024/08/01** | A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage | Caiwen Jiang et al. | [2408.00940v1](http://arxiv.org/abs/2408.00940v1) | **NULL** |
 | **2024/08/01** | Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention | Susung Hong | [2408.00760v1](http://arxiv.org/abs/2408.00760v1) | **NULL** |
 | **2024/08/01** | MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection | Xiangyuan Peng et al. | [2408.00565v1](http://arxiv.org/abs/2408.00565v1) | **NULL** |
 | **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
 | **2024/08/01** | CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images | Thiziri Nait Saada et al. | [2408.00427v1](http://arxiv.org/abs/2408.00427v1) | **NULL** |
-| **2024/07/31** | MSA$^2$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v2](http://arxiv.org/abs/2407.21640v2) | **NULL** |
+| **2024/07/31** | MSA$^2$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v2](http://arxiv.org/abs/2407.21640v2) | [**link**](https://github.com/xmindflow/msa-2net) |
 | **2024/07/31** | RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion | Jianxin Huang et al. | [2407.21631v1](http://arxiv.org/abs/2407.21631v1) | **NULL** |
 | **2024/07/31** | Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism | Jiafeng Zhong et al. | [2407.21611v1](http://arxiv.org/abs/2407.21611v1) | **NULL** |
 | **2024/07/31** | Enhanced Fault Detection and Cause Identification Using Integrated Attention Mechanism | Mohammad Ali Labbaf Khaniki et al. | [2408.00033v1](http://arxiv.org/abs/2408.00033v1) | **NULL** |
 | **2024/07/31** | Interpretable correlator Transformer for image-like quantum matter data | Abhinav Suresh et al. | [2407.21502v1](http://arxiv.org/abs/2407.21502v1) | **NULL** |
 | **2024/07/31** | Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation | Junxuan Yu et al. | [2407.21490v1](http://arxiv.org/abs/2407.21490v1) | **NULL** |
 | **2024/07/31** | Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images | Yimeng Geng et al. | [2407.21394v1](http://arxiv.org/abs/2407.21394v1) | **NULL** |
-| **2024/07/31** | On-the-fly Point Feature Representation for Point Clouds Analysis | Jiangyi Wang et al. | [2407.21335v1](http://arxiv.org/abs/2407.21335v1) | **NULL** |
-| **2024/07/31** | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | Rujia Shen et al. | [2407.21275v1](http://arxiv.org/abs/2407.21275v1) | **NULL** |
 
 ## 背景差分
 
