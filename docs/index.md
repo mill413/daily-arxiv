@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/09 08:54:21
+> Updated on 2024/08/10 08:53:49
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/08** | Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics | Ruining Li et al. | [2408.04631v1](http://arxiv.org/abs/2408.04631v1) | **NULL** |
+| **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | **NULL** |
+| **2024/08/08** | Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach | Alireza Saber et al. | [2408.04290v1](http://arxiv.org/abs/2408.04290v1) | [**link**](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia) |
+| **2024/08/08** | Cluster-Wide Task Slowdown Detection in Cloud System | Feiyi Chen et al. | [2408.04236v1](http://arxiv.org/abs/2408.04236v1) | **NULL** |
+| **2024/08/08** | Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks | Wei Zhang et al. | [2408.04232v1](http://arxiv.org/abs/2408.04232v1) | **NULL** |
+| **2024/08/08** | Attention Mechanism and Context Modeling System for Text Mining Machine Translation | Shi Bo et al. | [2408.04216v1](http://arxiv.org/abs/2408.04216v1) | **NULL** |
 | **2024/08/07** | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | Yunlong Huang et al. | [2408.03540v1](http://arxiv.org/abs/2408.03540v1) | **NULL** |
 | **2024/08/06** | ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning | Hieu Man et al. | [2408.03402v1](http://arxiv.org/abs/2408.03402v1) | [**link**](https://github.com/nlp-uoregon/ullme) |
 | **2024/08/06** | Enhancing Twitter Bot Detection via Multimodal Invariant Representations | Jibing Gong et al. | [2408.03096v1](http://arxiv.org/abs/2408.03096v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
 | **2024/08/01** | CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images | Thiziri Nait Saada et al. | [2408.00427v1](http://arxiv.org/abs/2408.00427v1) | **NULL** |
 | **2024/07/31** | MSA$^2$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v2](http://arxiv.org/abs/2407.21640v2) | [**link**](https://github.com/xmindflow/msa-2net) |
-| **2024/07/31** | RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion | Jianxin Huang et al. | [2407.21631v1](http://arxiv.org/abs/2407.21631v1) | **NULL** |
-| **2024/07/31** | Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism | Jiafeng Zhong et al. | [2407.21611v1](http://arxiv.org/abs/2407.21611v1) | **NULL** |
-| **2024/07/31** | Enhanced Fault Detection and Cause Identification Using Integrated Attention Mechanism | Mohammad Ali Labbaf Khaniki et al. | [2408.00033v1](http://arxiv.org/abs/2408.00033v1) | **NULL** |
-| **2024/07/31** | Interpretable correlator Transformer for image-like quantum matter data | Abhinav Suresh et al. | [2407.21502v1](http://arxiv.org/abs/2407.21502v1) | **NULL** |
-| **2024/07/31** | Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation | Junxuan Yu et al. | [2407.21490v1](http://arxiv.org/abs/2407.21490v1) | **NULL** |
-| **2024/07/31** | Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images | Yimeng Geng et al. | [2407.21394v1](http://arxiv.org/abs/2407.21394v1) | **NULL** |
 
 ## 背景差分
 
