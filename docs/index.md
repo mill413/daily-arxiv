@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/12 08:55:37
+> Updated on 2024/08/13 08:55:03
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
 | **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | **NULL** |
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
@@ -47,12 +48,13 @@ layout: default
 | **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 | **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
 | **2023/11/13** | Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications | Liam Boyle et al. | [2311.07163v1](http://arxiv.org/abs/2311.07163v1) | **NULL** |
-| **2023/11/08** | S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments | Robert Johanson et al. | [2311.05029v1](http://arxiv.org/abs/2311.05029v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/09** | SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation | Da Mu et al. | [2408.05057v1](http://arxiv.org/abs/2408.05057v1) | **NULL** |
+| **2024/08/08** | Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement | Muhammad Salman Khan et al. | [2408.04773v1](http://arxiv.org/abs/2408.04773v1) | [**link**](https://github.com/salman18376/SE-SSL) |
 | **2024/08/08** | Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics | Ruining Li et al. | [2408.04631v1](http://arxiv.org/abs/2408.04631v1) | **NULL** |
 | **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | **NULL** |
 | **2024/08/08** | Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach | Alireza Saber et al. | [2408.04290v1](http://arxiv.org/abs/2408.04290v1) | [**link**](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia) |
@@ -81,8 +83,6 @@ layout: default
 | **2024/08/01** | Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention | Susung Hong | [2408.00760v1](http://arxiv.org/abs/2408.00760v1) | **NULL** |
 | **2024/08/01** | MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection | Xiangyuan Peng et al. | [2408.00565v1](http://arxiv.org/abs/2408.00565v1) | **NULL** |
 | **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
-| **2024/08/01** | CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images | Thiziri Nait Saada et al. | [2408.00427v1](http://arxiv.org/abs/2408.00427v1) | **NULL** |
-| **2024/07/31** | MSA$^2$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation | Sina Ghorbani Kolahi et al. | [2407.21640v2](http://arxiv.org/abs/2407.21640v2) | [**link**](https://github.com/xmindflow/msa-2net) |
 
 ## 背景差分
 
