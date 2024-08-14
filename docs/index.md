@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/13 08:55:03
+> Updated on 2024/08/14 08:54:08
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/12** | Optimizing Vision Transformers with Data-Free Knowledge Transfer | Gousia Habib et al. | [2408.05952v1](http://arxiv.org/abs/2408.05952v1) | **NULL** |
+| **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v1](http://arxiv.org/abs/2408.05822v1) | **NULL** |
+| **2024/08/11** | GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering | Jiafeng Xia et al. | [2408.05792v1](http://arxiv.org/abs/2408.05792v1) | **NULL** |
+| **2024/08/11** | Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators | Yifan Pu et al. | [2408.05710v1](http://arxiv.org/abs/2408.05710v1) | **NULL** |
+| **2024/08/11** | TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling | Ruiquan Ge et al. | [2408.05705v1](http://arxiv.org/abs/2408.05705v1) | [**link**](https://github.com/lcbkmm/tc-kanrecon) |
+| **2024/08/10** | PointMT: Efficient Point Cloud Analysis with Hybrid MLP-Transformer Architecture | Qiang Zheng et al. | [2408.05508v1](http://arxiv.org/abs/2408.05508v1) | **NULL** |
+| **2024/08/10** | SAMSA: Efficient Transformer for Many Data Modalities | Minh Lenhat et al. | [2408.05391v1](http://arxiv.org/abs/2408.05391v1) | [**link**](https://github.com/hysonlab/samsa) |
 | **2024/08/09** | SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation | Da Mu et al. | [2408.05057v1](http://arxiv.org/abs/2408.05057v1) | **NULL** |
-| **2024/08/08** | Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement | Muhammad Salman Khan et al. | [2408.04773v1](http://arxiv.org/abs/2408.04773v1) | [**link**](https://github.com/salman18376/SE-SSL) |
+| **2024/08/08** | Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement | Muhammad Salman Khan et al. | [2408.04773v1](http://arxiv.org/abs/2408.04773v1) | **NULL** |
 | **2024/08/08** | Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics | Ruining Li et al. | [2408.04631v1](http://arxiv.org/abs/2408.04631v1) | **NULL** |
-| **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | **NULL** |
+| **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | [**link**](https://github.com/uoe-agents/pressureplate) |
 | **2024/08/08** | Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach | Alireza Saber et al. | [2408.04290v1](http://arxiv.org/abs/2408.04290v1) | [**link**](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia) |
-| **2024/08/08** | Cluster-Wide Task Slowdown Detection in Cloud System | Feiyi Chen et al. | [2408.04236v1](http://arxiv.org/abs/2408.04236v1) | **NULL** |
+| **2024/08/08** | Cluster-Wide Task Slowdown Detection in Cloud System | Feiyi Chen et al. | [2408.04236v1](http://arxiv.org/abs/2408.04236v1) | [**link**](https://github.com/gyhswtxnc/sorn) |
 | **2024/08/08** | Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks | Wei Zhang et al. | [2408.04232v1](http://arxiv.org/abs/2408.04232v1) | **NULL** |
 | **2024/08/08** | Attention Mechanism and Context Modeling System for Text Mining Machine Translation | Shi Bo et al. | [2408.04216v1](http://arxiv.org/abs/2408.04216v1) | **NULL** |
 | **2024/08/07** | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | Yunlong Huang et al. | [2408.03540v1](http://arxiv.org/abs/2408.03540v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/08/03** | LAM3D: Leveraging Attention for Monocular 3D Object Detection | Diana-Alexandra Sas et al. | [2408.01739v1](http://arxiv.org/abs/2408.01739v1) | **NULL** |
 | **2024/08/02** | Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans | Lukas Kratochvila et al. | [2408.01526v1](http://arxiv.org/abs/2408.01526v1) | **NULL** |
 | **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
-| **2024/08/02** | An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding | Wei Chen et al. | [2408.01120v1](http://arxiv.org/abs/2408.01120v1) | [**link**](https://github.com/chenwei746/eevg) |
-| **2024/08/02** | EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts | Die Chen et al. | [2408.01014v1](http://arxiv.org/abs/2408.01014v1) | **NULL** |
-| **2024/08/02** | Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making | Yang Luo et al. | [2408.01000v1](http://arxiv.org/abs/2408.01000v1) | [**link**](https://github.com/floating-ly/harmony1) |
-| **2024/08/01** | A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage | Caiwen Jiang et al. | [2408.00940v1](http://arxiv.org/abs/2408.00940v1) | **NULL** |
-| **2024/08/01** | Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention | Susung Hong | [2408.00760v1](http://arxiv.org/abs/2408.00760v1) | **NULL** |
-| **2024/08/01** | MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection | Xiangyuan Peng et al. | [2408.00565v1](http://arxiv.org/abs/2408.00565v1) | **NULL** |
-| **2024/08/01** | Intermittent Semi-working Mask: A New Masking Paradigm for LLMs | Mingcong Lu et al. | [2408.00539v1](http://arxiv.org/abs/2408.00539v1) | **NULL** |
 
 ## 背景差分
 
