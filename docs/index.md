@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/14 08:54:08
+> Updated on 2024/08/15 08:51:43
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/13** | DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising | Wang Mingwei et al. | [2408.06963v1](http://arxiv.org/abs/2408.06963v1) | **NULL** |
+| **2024/08/13** | Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement | Tao Zheng et al. | [2408.06911v1](http://arxiv.org/abs/2408.06911v1) | **NULL** |
+| **2024/08/12** | MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model | Haoyu Qin et al. | [2408.06400v2](http://arxiv.org/abs/2408.06400v2) | **NULL** |
 | **2024/08/12** | Optimizing Vision Transformers with Data-Free Knowledge Transfer | Gousia Habib et al. | [2408.05952v1](http://arxiv.org/abs/2408.05952v1) | **NULL** |
 | **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v1](http://arxiv.org/abs/2408.05822v1) | **NULL** |
 | **2024/08/11** | GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering | Jiafeng Xia et al. | [2408.05792v1](http://arxiv.org/abs/2408.05792v1) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2024/08/04** | Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach | Linhao Qu et al. | [2408.01929v1](http://arxiv.org/abs/2408.01929v1) | **NULL** |
 | **2024/08/04** | Cross-layer Attention Sharing for Large Language Models | Yongyu Mu et al. | [2408.01890v1](http://arxiv.org/abs/2408.01890v1) | **NULL** |
 | **2024/08/03** | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco | Akram Elghouat et al. | [2408.02692v1](http://arxiv.org/abs/2408.02692v1) | **NULL** |
-| **2024/08/03** | LAM3D: Leveraging Attention for Monocular 3D Object Detection | Diana-Alexandra Sas et al. | [2408.01739v1](http://arxiv.org/abs/2408.01739v1) | **NULL** |
-| **2024/08/02** | Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans | Lukas Kratochvila et al. | [2408.01526v1](http://arxiv.org/abs/2408.01526v1) | **NULL** |
-| **2024/08/02** | Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2408.01372v1](http://arxiv.org/abs/2408.01372v1) | **NULL** |
 
 ## 背景差分
 
