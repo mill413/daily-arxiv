@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/16 08:53:28
+> Updated on 2024/08/17 08:52:15
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/15** | Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement | Wenxuan Li et al. | [2408.07999v1](http://arxiv.org/abs/2408.07999v1) | **NULL** |
+| **2024/08/15** | Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis | Bingyu Li et al. | [2408.07891v1](http://arxiv.org/abs/2408.07891v1) | [**link**](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis) |
+| **2024/08/15** | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | Simiao Lai et al. | [2408.07889v1](http://arxiv.org/abs/2408.07889v1) | **NULL** |
+| **2024/08/14** | NeuroPapyri: A Deep Attention Embedding Network for Handwritten Papyri Retrieval | Giuseppe De Gregorio et al. | [2408.07785v1](http://arxiv.org/abs/2408.07785v1) | **NULL** |
 | **2024/08/14** | Multi-periodicity dependency Transformer based on spectrum offset for radio frequency fingerprint identification | Jing Xiao et al. | [2408.07592v1](http://arxiv.org/abs/2408.07592v1) | **NULL** |
 | **2024/08/14** | A Nested Graph Reinforcement Learning-based Decision-making Strategy for Eco-platooning | Xin Gao et al. | [2408.07578v1](http://arxiv.org/abs/2408.07578v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
@@ -65,7 +69,7 @@ layout: default
 | **2024/08/12** | Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction | Wenchao Weng et al. | [2408.07100v1](http://arxiv.org/abs/2408.07100v1) | [**link**](https://github.com/wengwenchao123/PM-DMNet) |
 | **2024/08/12** | QTypeMix: Enhancing Multi-Agent Cooperative Strategies through Heterogeneous and Homogeneous Value Decomposition | Songchen Fu et al. | [2408.07098v1](http://arxiv.org/abs/2408.07098v1) | **NULL** |
 | **2024/08/12** | MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model | Haoyu Qin et al. | [2408.06400v2](http://arxiv.org/abs/2408.06400v2) | **NULL** |
-| **2024/08/12** | Attention Please: What Transformer Models Really Learn for Process Prediction | Martin Käppel et al. | [2408.07097v1](http://arxiv.org/abs/2408.07097v1) | **NULL** |
+| **2024/08/12** | Attention Please: What Transformer Models Really Learn for Process Prediction | Martin Käppel et al. | [2408.07097v1](http://arxiv.org/abs/2408.07097v1) | [**link**](https://github.com/mkaep/transformer-explainability) |
 | **2024/08/12** | Optimizing Vision Transformers with Data-Free Knowledge Transfer | Gousia Habib et al. | [2408.05952v1](http://arxiv.org/abs/2408.05952v1) | **NULL** |
 | **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v1](http://arxiv.org/abs/2408.05822v1) | **NULL** |
 | **2024/08/11** | GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering | Jiafeng Xia et al. | [2408.05792v1](http://arxiv.org/abs/2408.05792v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | [**link**](https://github.com/uoe-agents/pressureplate) |
 | **2024/08/08** | Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach | Alireza Saber et al. | [2408.04290v1](http://arxiv.org/abs/2408.04290v1) | [**link**](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia) |
 | **2024/08/08** | Cluster-Wide Task Slowdown Detection in Cloud System | Feiyi Chen et al. | [2408.04236v1](http://arxiv.org/abs/2408.04236v1) | [**link**](https://github.com/gyhswtxnc/sorn) |
-| **2024/08/08** | Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks | Wei Zhang et al. | [2408.04232v1](http://arxiv.org/abs/2408.04232v1) | **NULL** |
-| **2024/08/08** | Attention Mechanism and Context Modeling System for Text Mining Machine Translation | Shi Bo et al. | [2408.04216v1](http://arxiv.org/abs/2408.04216v1) | **NULL** |
-| **2024/08/07** | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | Yunlong Huang et al. | [2408.03540v1](http://arxiv.org/abs/2408.03540v1) | **NULL** |
-| **2024/08/06** | ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning | Hieu Man et al. | [2408.03402v1](http://arxiv.org/abs/2408.03402v1) | [**link**](https://github.com/nlp-uoregon/ullme) |
 
 ## 背景差分
 
