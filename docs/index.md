@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/19 08:54:46
+> Updated on 2024/08/20 08:53:22
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/16** | GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms | Yuhao Jia et al. | [2408.08852v1](http://arxiv.org/abs/2408.08852v1) | **NULL** |
+| **2024/08/16** | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models | Lin Zhao et al. | [2408.08813v1](http://arxiv.org/abs/2408.08813v1) | **NULL** |
+| **2024/08/16** | Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers | Zihang Song et al. | [2408.08794v1](http://arxiv.org/abs/2408.08794v1) | **NULL** |
+| **2024/08/16** | Multimodal Relational Triple Extraction with Query-based Entity Object Transformer | Lei Hei et al. | [2408.08709v1](http://arxiv.org/abs/2408.08709v1) | **NULL** |
+| **2024/08/16** | Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase | Yicong Li et al. | [2408.08684v1](http://arxiv.org/abs/2408.08684v1) | **NULL** |
+| **2024/08/16** | Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making in Heterogeneous Mixed Autonomy | Xin Gao et al. | [2408.08516v1](http://arxiv.org/abs/2408.08516v1) | **NULL** |
+| **2024/08/15** | Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention | Zohaib Khan et al. | [2408.08454v1](http://arxiv.org/abs/2408.08454v1) | **NULL** |
 | **2024/08/15** | Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement | Wenxuan Li et al. | [2408.07999v1](http://arxiv.org/abs/2408.07999v1) | **NULL** |
 | **2024/08/15** | Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis | Bingyu Li et al. | [2408.07891v1](http://arxiv.org/abs/2408.07891v1) | [**link**](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis) |
 | **2024/08/15** | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | Simiao Lai et al. | [2408.07889v1](http://arxiv.org/abs/2408.07889v1) | **NULL** |
@@ -71,18 +78,11 @@ layout: default
 | **2024/08/12** | MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model | Haoyu Qin et al. | [2408.06400v2](http://arxiv.org/abs/2408.06400v2) | **NULL** |
 | **2024/08/12** | Attention Please: What Transformer Models Really Learn for Process Prediction | Martin Käppel et al. | [2408.07097v1](http://arxiv.org/abs/2408.07097v1) | [**link**](https://github.com/mkaep/transformer-explainability) |
 | **2024/08/12** | Optimizing Vision Transformers with Data-Free Knowledge Transfer | Gousia Habib et al. | [2408.05952v1](http://arxiv.org/abs/2408.05952v1) | **NULL** |
-| **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v1](http://arxiv.org/abs/2408.05822v1) | **NULL** |
+| **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v2](http://arxiv.org/abs/2408.05822v2) | **NULL** |
 | **2024/08/11** | GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering | Jiafeng Xia et al. | [2408.05792v1](http://arxiv.org/abs/2408.05792v1) | **NULL** |
 | **2024/08/11** | Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators | Yifan Pu et al. | [2408.05710v1](http://arxiv.org/abs/2408.05710v1) | **NULL** |
 | **2024/08/11** | TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling | Ruiquan Ge et al. | [2408.05705v1](http://arxiv.org/abs/2408.05705v1) | [**link**](https://github.com/lcbkmm/tc-kanrecon) |
 | **2024/08/10** | PointMT: Efficient Point Cloud Analysis with Hybrid MLP-Transformer Architecture | Qiang Zheng et al. | [2408.05508v1](http://arxiv.org/abs/2408.05508v1) | **NULL** |
-| **2024/08/10** | SAMSA: Efficient Transformer for Many Data Modalities | Minh Lenhat et al. | [2408.05391v1](http://arxiv.org/abs/2408.05391v1) | [**link**](https://github.com/hysonlab/samsa) |
-| **2024/08/09** | SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation | Da Mu et al. | [2408.05057v1](http://arxiv.org/abs/2408.05057v1) | **NULL** |
-| **2024/08/08** | Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement | Muhammad Salman Khan et al. | [2408.04773v1](http://arxiv.org/abs/2408.04773v1) | **NULL** |
-| **2024/08/08** | Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics | Ruining Li et al. | [2408.04631v1](http://arxiv.org/abs/2408.04631v1) | **NULL** |
-| **2024/08/08** | Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization | Aditya Kapoor et al. | [2408.04295v1](http://arxiv.org/abs/2408.04295v1) | [**link**](https://github.com/uoe-agents/pressureplate) |
-| **2024/08/08** | Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach | Alireza Saber et al. | [2408.04290v1](http://arxiv.org/abs/2408.04290v1) | [**link**](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia) |
-| **2024/08/08** | Cluster-Wide Task Slowdown Detection in Cloud System | Feiyi Chen et al. | [2408.04236v1](http://arxiv.org/abs/2408.04236v1) | [**link**](https://github.com/gyhswtxnc/sorn) |
 
 ## 背景差分
 
