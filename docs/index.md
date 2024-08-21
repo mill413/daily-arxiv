@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/20 08:53:22
+> Updated on 2024/08/21 08:53:59
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
 | **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | **NULL** |
@@ -47,12 +48,18 @@ layout: default
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
 | **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
-| **2023/11/14** | Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons | Chenjie Zhao et al. | [2311.07955v2](http://arxiv.org/abs/2311.07955v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/19** | PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities | Yuanjian Xu et al. | [2408.10111v2](http://arxiv.org/abs/2408.10111v2) | **NULL** |
+| **2024/08/19** | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | Jiaheng Yin et al. | [2408.09723v1](http://arxiv.org/abs/2408.09723v1) | **NULL** |
+| **2024/08/19** | LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting | Yisong Fu et al. | [2408.09695v1](http://arxiv.org/abs/2408.09695v1) | **NULL** |
+| **2024/08/18** | Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions | Jun Wang et al. | [2408.09476v1](http://arxiv.org/abs/2408.09476v1) | **NULL** |
+| **2024/08/18** | ELASTIC: Efficient Linear Attention for Sequential Interest Compression | Jiaxin Deng et al. | [2408.09380v2](http://arxiv.org/abs/2408.09380v2) | **NULL** |
+| **2024/08/17** | Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification | Zhipeng Zheng et al. | [2408.09230v1](http://arxiv.org/abs/2408.09230v1) | **NULL** |
+| **2024/08/17** | EagleEye: Attention to Unveil Malicious Event Sequences from Provenance Graphs | Philipp Gysel et al. | [2408.09217v1](http://arxiv.org/abs/2408.09217v1) | **NULL** |
 | **2024/08/16** | GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms | Yuhao Jia et al. | [2408.08852v1](http://arxiv.org/abs/2408.08852v1) | **NULL** |
 | **2024/08/16** | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models | Lin Zhao et al. | [2408.08813v1](http://arxiv.org/abs/2408.08813v1) | **NULL** |
 | **2024/08/16** | Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers | Zihang Song et al. | [2408.08794v1](http://arxiv.org/abs/2408.08794v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/08/12** | Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction | Wenchao Weng et al. | [2408.07100v1](http://arxiv.org/abs/2408.07100v1) | **NULL** |
 | **2024/08/12** | QTypeMix: Enhancing Multi-Agent Cooperative Strategies through Heterogeneous and Homogeneous Value Decomposition | Songchen Fu et al. | [2408.07098v1](http://arxiv.org/abs/2408.07098v1) | **NULL** |
 | **2024/08/12** | MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model | Haoyu Qin et al. | [2408.06400v2](http://arxiv.org/abs/2408.06400v2) | **NULL** |
-| **2024/08/12** | Attention Please: What Transformer Models Really Learn for Process Prediction | Martin Käppel et al. | [2408.07097v1](http://arxiv.org/abs/2408.07097v1) | [**link**](https://github.com/mkaep/transformer-explainability) |
-| **2024/08/12** | Optimizing Vision Transformers with Data-Free Knowledge Transfer | Gousia Habib et al. | [2408.05952v1](http://arxiv.org/abs/2408.05952v1) | **NULL** |
-| **2024/08/11** | Sampling Foundational Transformer: A Theoretical Perspective | Viet Anh Nguyen et al. | [2408.05822v2](http://arxiv.org/abs/2408.05822v2) | **NULL** |
-| **2024/08/11** | GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering | Jiafeng Xia et al. | [2408.05792v1](http://arxiv.org/abs/2408.05792v1) | **NULL** |
-| **2024/08/11** | Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators | Yifan Pu et al. | [2408.05710v1](http://arxiv.org/abs/2408.05710v1) | **NULL** |
-| **2024/08/11** | TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling | Ruiquan Ge et al. | [2408.05705v1](http://arxiv.org/abs/2408.05705v1) | [**link**](https://github.com/lcbkmm/tc-kanrecon) |
-| **2024/08/10** | PointMT: Efficient Point Cloud Analysis with Hybrid MLP-Transformer Architecture | Qiang Zheng et al. | [2408.05508v1](http://arxiv.org/abs/2408.05508v1) | **NULL** |
 
 ## 背景差分
 
