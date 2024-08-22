@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/21 08:53:59
+> Updated on 2024/08/22 08:54:53
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/20** | SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement | Linlin Hu et al. | [2408.10934v1](http://arxiv.org/abs/2408.10934v1) | **NULL** |
+| **2024/08/20** | CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network | Zijian Zhao et al. | [2408.10919v2](http://arxiv.org/abs/2408.10919v2) | **NULL** |
+| **2024/08/20** | Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended? | Chen Liang et al. | [2408.10627v1](http://arxiv.org/abs/2408.10627v1) | **NULL** |
+| **2024/08/20** | Prompt Your Brain: Scaffold Prompt Tuning for Efficient Adaptation of fMRI Pre-trained Model | Zijian Dong et al. | [2408.10567v1](http://arxiv.org/abs/2408.10567v1) | **NULL** |
+| **2024/08/20** | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | Yongbo Yu et al. | [2408.10483v1](http://arxiv.org/abs/2408.10483v1) | [**link**](https://github.com/usualheart/prformer) |
+| **2024/08/20** | LeCov: Multi-level Testing Criteria for Large Language Models | Xuan Xie et al. | [2408.10474v1](http://arxiv.org/abs/2408.10474v1) | **NULL** |
 | **2024/08/19** | PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities | Yuanjian Xu et al. | [2408.10111v2](http://arxiv.org/abs/2408.10111v2) | **NULL** |
 | **2024/08/19** | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | Jiaheng Yin et al. | [2408.09723v1](http://arxiv.org/abs/2408.09723v1) | **NULL** |
 | **2024/08/19** | LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting | Yisong Fu et al. | [2408.09695v1](http://arxiv.org/abs/2408.09695v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/08/14** | Towards Few-shot Self-explaining Graph Neural Networks | Jingyu Peng et al. | [2408.07340v1](http://arxiv.org/abs/2408.07340v1) | [**link**](https://github.com/jypeng28/mse-gnn) |
 | **2024/08/14** | Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery | Yue Yu et al. | [2408.07307v1](http://arxiv.org/abs/2408.07307v1) | **NULL** |
 | **2024/08/14** | Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion | Peiyuan Chen et al. | [2408.07303v1](http://arxiv.org/abs/2408.07303v1) | **NULL** |
-| **2024/08/14** | Lesion-aware network for diabetic retinopathy diagnosis | Xue Xia et al. | [2408.07264v1](http://arxiv.org/abs/2408.07264v1) | [**link**](https://github.com/xia-xx-cv/lanet-dr) |
-| **2024/08/13** | DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising | Wang Mingwei et al. | [2408.06963v1](http://arxiv.org/abs/2408.06963v1) | **NULL** |
-| **2024/08/13** | Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement | Tao Zheng et al. | [2408.06911v1](http://arxiv.org/abs/2408.06911v1) | **NULL** |
-| **2024/08/12** | Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction | Wenchao Weng et al. | [2408.07100v1](http://arxiv.org/abs/2408.07100v1) | **NULL** |
-| **2024/08/12** | QTypeMix: Enhancing Multi-Agent Cooperative Strategies through Heterogeneous and Homogeneous Value Decomposition | Songchen Fu et al. | [2408.07098v1](http://arxiv.org/abs/2408.07098v1) | **NULL** |
-| **2024/08/12** | MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model | Haoyu Qin et al. | [2408.06400v2](http://arxiv.org/abs/2408.06400v2) | **NULL** |
 
 ## 背景差分
 
