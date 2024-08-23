@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/22 08:54:53
+> Updated on 2024/08/23 08:53:56
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/21** | Practical token pruning for foundation models in few-shot conversational virtual assistant systems | Haode Qi et al. | [2408.11799v1](http://arxiv.org/abs/2408.11799v1) | **NULL** |
+| **2024/08/21** | EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model | Feipeng Ma et al. | [2408.11795v1](http://arxiv.org/abs/2408.11795v1) | **NULL** |
+| **2024/08/21** | Macformer: Transformer with Random Maclaurin Feature Attention | Yuhan Guo et al. | [2408.11656v1](http://arxiv.org/abs/2408.11656v1) | **NULL** |
+| **2024/08/21** | Explainable Deep Learning Framework for Human Activity Recognition | Yiran Huang et al. | [2408.11552v1](http://arxiv.org/abs/2408.11552v1) | **NULL** |
+| **2024/08/21** | EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention | Yihong Lin et al. | [2408.11518v1](http://arxiv.org/abs/2408.11518v1) | **NULL** |
+| **2024/08/21** | An Improved CovidConvLSTM model for pneumonia-COVID-19 detection and classification | Imane Beghoura et al. | [2408.11507v1](http://arxiv.org/abs/2408.11507v1) | **NULL** |
+| **2024/08/21** | Estimating Peer Direct and Indirect Effects in Observational Network Data | Xiaojing Du et al. | [2408.11492v1](http://arxiv.org/abs/2408.11492v1) | **NULL** |
+| **2024/08/21** | HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation | Mingya Zhang et al. | [2408.11289v1](http://arxiv.org/abs/2408.11289v1) | **NULL** |
 | **2024/08/20** | SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement | Linlin Hu et al. | [2408.10934v1](http://arxiv.org/abs/2408.10934v1) | **NULL** |
 | **2024/08/20** | CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network | Zijian Zhao et al. | [2408.10919v2](http://arxiv.org/abs/2408.10919v2) | **NULL** |
 | **2024/08/20** | Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended? | Chen Liang et al. | [2408.10627v1](http://arxiv.org/abs/2408.10627v1) | **NULL** |
@@ -66,6 +74,7 @@ layout: default
 | **2024/08/18** | ELASTIC: Efficient Linear Attention for Sequential Interest Compression | Jiaxin Deng et al. | [2408.09380v2](http://arxiv.org/abs/2408.09380v2) | **NULL** |
 | **2024/08/17** | Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification | Zhipeng Zheng et al. | [2408.09230v1](http://arxiv.org/abs/2408.09230v1) | **NULL** |
 | **2024/08/17** | EagleEye: Attention to Unveil Malicious Event Sequences from Provenance Graphs | Philipp Gysel et al. | [2408.09217v1](http://arxiv.org/abs/2408.09217v1) | **NULL** |
+| **2024/08/17** | Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks | Yongqi Ding et al. | [2408.11067v1](http://arxiv.org/abs/2408.11067v1) | **NULL** |
 | **2024/08/16** | GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms | Yuhao Jia et al. | [2408.08852v1](http://arxiv.org/abs/2408.08852v1) | **NULL** |
 | **2024/08/16** | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models | Lin Zhao et al. | [2408.08813v1](http://arxiv.org/abs/2408.08813v1) | **NULL** |
 | **2024/08/16** | Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers | Zihang Song et al. | [2408.08794v1](http://arxiv.org/abs/2408.08794v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/08/16** | Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making in Heterogeneous Mixed Autonomy | Xin Gao et al. | [2408.08516v1](http://arxiv.org/abs/2408.08516v1) | **NULL** |
 | **2024/08/15** | Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention | Zohaib Khan et al. | [2408.08454v1](http://arxiv.org/abs/2408.08454v1) | **NULL** |
 | **2024/08/15** | Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement | Wenxuan Li et al. | [2408.07999v1](http://arxiv.org/abs/2408.07999v1) | **NULL** |
-| **2024/08/15** | Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis | Bingyu Li et al. | [2408.07891v1](http://arxiv.org/abs/2408.07891v1) | [**link**](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis) |
-| **2024/08/15** | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | Simiao Lai et al. | [2408.07889v1](http://arxiv.org/abs/2408.07889v1) | **NULL** |
-| **2024/08/14** | NeuroPapyri: A Deep Attention Embedding Network for Handwritten Papyri Retrieval | Giuseppe De Gregorio et al. | [2408.07785v1](http://arxiv.org/abs/2408.07785v1) | **NULL** |
-| **2024/08/14** | Multi-periodicity dependency Transformer based on spectrum offset for radio frequency fingerprint identification | Jing Xiao et al. | [2408.07592v1](http://arxiv.org/abs/2408.07592v1) | **NULL** |
-| **2024/08/14** | A Nested Graph Reinforcement Learning-based Decision-making Strategy for Eco-platooning | Xin Gao et al. | [2408.07578v1](http://arxiv.org/abs/2408.07578v1) | **NULL** |
-| **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
-| **2024/08/14** | Towards Few-shot Self-explaining Graph Neural Networks | Jingyu Peng et al. | [2408.07340v1](http://arxiv.org/abs/2408.07340v1) | [**link**](https://github.com/jypeng28/mse-gnn) |
-| **2024/08/14** | Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery | Yue Yu et al. | [2408.07307v1](http://arxiv.org/abs/2408.07307v1) | **NULL** |
-| **2024/08/14** | Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion | Peiyuan Chen et al. | [2408.07303v1](http://arxiv.org/abs/2408.07303v1) | **NULL** |
 
 ## 背景差分
 
