@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/23 08:53:56
+> Updated on 2024/08/24 08:52:42
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/22** | EUIS-Net: A Convolutional Neural Network for Efficient Ultrasound Image Segmentation | Shahzaib Iqbal et al. | [2408.12323v1](http://arxiv.org/abs/2408.12323v1) | **NULL** |
+| **2024/08/22** | Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning | Haotian Zhang et al. | [2408.12252v1](http://arxiv.org/abs/2408.12252v1) | **NULL** |
+| **2024/08/22** | Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach | Zecheng Zhang | [2408.12129v1](http://arxiv.org/abs/2408.12129v1) | **NULL** |
+| **2024/08/22** | Recording Brain Activity While Listening to Music Using Wearable EEG Devices Combined with Bidirectional Long Short-Term Memory Networks | Jingyi Wang et al. | [2408.12124v1](http://arxiv.org/abs/2408.12124v1) | **NULL** |
+| **2024/08/22** | Risk Analysis in Customer Relationship Management via Quantile Region Convolutional Neural Network-Long Short-Term Memory and Cross-Attention Mechanism | Yaowen Huang et al. | [2408.12113v1](http://arxiv.org/abs/2408.12113v1) | **NULL** |
 | **2024/08/21** | Practical token pruning for foundation models in few-shot conversational virtual assistant systems | Haode Qi et al. | [2408.11799v1](http://arxiv.org/abs/2408.11799v1) | **NULL** |
 | **2024/08/21** | EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model | Feipeng Ma et al. | [2408.11795v1](http://arxiv.org/abs/2408.11795v1) | **NULL** |
 | **2024/08/21** | Macformer: Transformer with Random Maclaurin Feature Attention | Yuhan Guo et al. | [2408.11656v1](http://arxiv.org/abs/2408.11656v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/08/16** | GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms | Yuhao Jia et al. | [2408.08852v1](http://arxiv.org/abs/2408.08852v1) | **NULL** |
 | **2024/08/16** | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models | Lin Zhao et al. | [2408.08813v1](http://arxiv.org/abs/2408.08813v1) | **NULL** |
 | **2024/08/16** | Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers | Zihang Song et al. | [2408.08794v1](http://arxiv.org/abs/2408.08794v1) | **NULL** |
-| **2024/08/16** | Multimodal Relational Triple Extraction with Query-based Entity Object Transformer | Lei Hei et al. | [2408.08709v1](http://arxiv.org/abs/2408.08709v1) | **NULL** |
-| **2024/08/16** | Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase | Yicong Li et al. | [2408.08684v1](http://arxiv.org/abs/2408.08684v1) | **NULL** |
-| **2024/08/16** | Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making in Heterogeneous Mixed Autonomy | Xin Gao et al. | [2408.08516v1](http://arxiv.org/abs/2408.08516v1) | **NULL** |
-| **2024/08/15** | Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention | Zohaib Khan et al. | [2408.08454v1](http://arxiv.org/abs/2408.08454v1) | **NULL** |
-| **2024/08/15** | Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement | Wenxuan Li et al. | [2408.07999v1](http://arxiv.org/abs/2408.07999v1) | **NULL** |
 
 ## 背景差分
 
