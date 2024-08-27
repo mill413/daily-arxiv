@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/26 08:54:44
+> Updated on 2024/08/27 08:55:07
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/23** | Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time | Yingyu Liang et al. | [2408.13233v1](http://arxiv.org/abs/2408.13233v1) | **NULL** |
+| **2024/08/23** | KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection | Haruna Yunusa et al. | [2408.13160v1](http://arxiv.org/abs/2408.13160v1) | **NULL** |
+| **2024/08/23** | Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation | Bonan Li et al. | [2408.13149v1](http://arxiv.org/abs/2408.13149v1) | **NULL** |
+| **2024/08/23** | SIMPNet: Spatial-Informed Motion Planning Network | Davood Soleymanzadeh et al. | [2408.12831v1](http://arxiv.org/abs/2408.12831v1) | **NULL** |
+| **2024/08/23** | A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model | Shuo Yang et al. | [2408.12805v1](http://arxiv.org/abs/2408.12805v1) | **NULL** |
+| **2024/08/22** | Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm | Qiming Yang et al. | [2408.12672v1](http://arxiv.org/abs/2408.12672v1) | **NULL** |
+| **2024/08/22** | Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles | Charles Gadd et al. | [2408.12636v1](http://arxiv.org/abs/2408.12636v1) | **NULL** |
 | **2024/08/22** | EUIS-Net: A Convolutional Neural Network for Efficient Ultrasound Image Segmentation | Shahzaib Iqbal et al. | [2408.12323v1](http://arxiv.org/abs/2408.12323v1) | **NULL** |
 | **2024/08/22** | Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning | Haotian Zhang et al. | [2408.12252v1](http://arxiv.org/abs/2408.12252v1) | **NULL** |
 | **2024/08/22** | Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach | Zecheng Zhang | [2408.12129v1](http://arxiv.org/abs/2408.12129v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/08/19** | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | Jiaheng Yin et al. | [2408.09723v1](http://arxiv.org/abs/2408.09723v1) | **NULL** |
 | **2024/08/19** | LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting | Yisong Fu et al. | [2408.09695v1](http://arxiv.org/abs/2408.09695v1) | **NULL** |
 | **2024/08/18** | Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions | Jun Wang et al. | [2408.09476v1](http://arxiv.org/abs/2408.09476v1) | **NULL** |
-| **2024/08/18** | ELASTIC: Efficient Linear Attention for Sequential Interest Compression | Jiaxin Deng et al. | [2408.09380v2](http://arxiv.org/abs/2408.09380v2) | **NULL** |
-| **2024/08/17** | Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification | Zhipeng Zheng et al. | [2408.09230v1](http://arxiv.org/abs/2408.09230v1) | **NULL** |
-| **2024/08/17** | EagleEye: Attention to Unveil Malicious Event Sequences from Provenance Graphs | Philipp Gysel et al. | [2408.09217v1](http://arxiv.org/abs/2408.09217v1) | **NULL** |
-| **2024/08/17** | Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks | Yongqi Ding et al. | [2408.11067v1](http://arxiv.org/abs/2408.11067v1) | **NULL** |
-| **2024/08/16** | GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms | Yuhao Jia et al. | [2408.08852v1](http://arxiv.org/abs/2408.08852v1) | **NULL** |
-| **2024/08/16** | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models | Lin Zhao et al. | [2408.08813v1](http://arxiv.org/abs/2408.08813v1) | **NULL** |
-| **2024/08/16** | Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers | Zihang Song et al. | [2408.08794v1](http://arxiv.org/abs/2408.08794v1) | **NULL** |
 
 ## 背景差分
 
