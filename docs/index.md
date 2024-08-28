@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/27 08:55:07
+> Updated on 2024/08/28 08:55:31
 
 <summary>Table of Contents</summary>
 
@@ -37,7 +37,7 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v2](http://arxiv.org/abs/2404.03507v2) | **NULL** |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v3](http://arxiv.org/abs/2404.03507v3) | [**link**](https://github.com/katie0723/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
@@ -53,9 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/26** | Reconstructing physiological signals from fMRI across the adult lifespan | Shiyu Wang et al. | [2408.14453v1](http://arxiv.org/abs/2408.14453v1) | **NULL** |
+| **2024/08/26** | Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning | Sakhinana Sagar Srinivas et al. | [2408.14387v1](http://arxiv.org/abs/2408.14387v1) | **NULL** |
+| **2024/08/26** | Image Provenance Analysis via Graph Encoding with Vision Transformer | Keyang Zhang et al. | [2408.14170v1](http://arxiv.org/abs/2408.14170v1) | **NULL** |
+| **2024/08/26** | Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos | Jiajun Fei et al. | [2408.14023v1](http://arxiv.org/abs/2408.14023v1) | [**link**](https://github.com/qq-mm/video-ccam) |
+| **2024/08/25** | Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection | Gourav Siddhad et al. | [2408.13929v1](http://arxiv.org/abs/2408.13929v1) | **NULL** |
+| **2024/08/25** | LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task | Ali Asgarov et al. | [2408.13909v1](http://arxiv.org/abs/2408.13909v1) | [**link**](https://github.com/aliasgerovs/azclip) |
+| **2024/08/25** | 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification | Haizhao Jing et al. | [2408.13728v1](http://arxiv.org/abs/2408.13728v1) | **NULL** |
+| **2024/08/25** | Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval | Wenrui Li et al. | [2408.13712v1](http://arxiv.org/abs/2408.13712v1) | [**link**](https://github.com/liwrui/rmarn) |
+| **2024/08/25** | CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation | Lanhu Wu et al. | [2408.13698v2](http://arxiv.org/abs/2408.13698v2) | **NULL** |
+| **2024/08/24** | Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models | Sakhinana Sagar Srinivas et al. | [2408.13661v1](http://arxiv.org/abs/2408.13661v1) | **NULL** |
+| **2024/08/24** | Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers | Srinadh Reddy Bhavanam et al. | [2408.13634v1](http://arxiv.org/abs/2408.13634v1) | **NULL** |
+| **2024/08/24** | Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation | Jianing Song et al. | [2408.13587v1](http://arxiv.org/abs/2408.13587v1) | **NULL** |
+| **2024/08/24** | Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach | Jiwei Guan et al. | [2408.13461v1](http://arxiv.org/abs/2408.13461v1) | **NULL** |
 | **2024/08/23** | Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time | Yingyu Liang et al. | [2408.13233v1](http://arxiv.org/abs/2408.13233v1) | **NULL** |
 | **2024/08/23** | KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection | Haruna Yunusa et al. | [2408.13160v1](http://arxiv.org/abs/2408.13160v1) | **NULL** |
-| **2024/08/23** | Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation | Bonan Li et al. | [2408.13149v1](http://arxiv.org/abs/2408.13149v1) | **NULL** |
+| **2024/08/23** | Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation | Bonan Li et al. | [2408.13149v2](http://arxiv.org/abs/2408.13149v2) | **NULL** |
 | **2024/08/23** | SIMPNet: Spatial-Informed Motion Planning Network | Davood Soleymanzadeh et al. | [2408.12831v1](http://arxiv.org/abs/2408.12831v1) | **NULL** |
 | **2024/08/23** | A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model | Shuo Yang et al. | [2408.12805v1](http://arxiv.org/abs/2408.12805v1) | **NULL** |
 | **2024/08/22** | Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm | Qiming Yang et al. | [2408.12672v1](http://arxiv.org/abs/2408.12672v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2024/08/21** | Macformer: Transformer with Random Maclaurin Feature Attention | Yuhan Guo et al. | [2408.11656v1](http://arxiv.org/abs/2408.11656v1) | **NULL** |
 | **2024/08/21** | Explainable Deep Learning Framework for Human Activity Recognition | Yiran Huang et al. | [2408.11552v1](http://arxiv.org/abs/2408.11552v1) | **NULL** |
 | **2024/08/21** | EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention | Yihong Lin et al. | [2408.11518v1](http://arxiv.org/abs/2408.11518v1) | **NULL** |
-| **2024/08/21** | An Improved CovidConvLSTM model for pneumonia-COVID-19 detection and classification | Imane Beghoura et al. | [2408.11507v1](http://arxiv.org/abs/2408.11507v1) | **NULL** |
-| **2024/08/21** | Estimating Peer Direct and Indirect Effects in Observational Network Data | Xiaojing Du et al. | [2408.11492v1](http://arxiv.org/abs/2408.11492v1) | **NULL** |
-| **2024/08/21** | HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation | Mingya Zhang et al. | [2408.11289v1](http://arxiv.org/abs/2408.11289v1) | **NULL** |
-| **2024/08/20** | SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement | Linlin Hu et al. | [2408.10934v1](http://arxiv.org/abs/2408.10934v1) | **NULL** |
-| **2024/08/20** | CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network | Zijian Zhao et al. | [2408.10919v2](http://arxiv.org/abs/2408.10919v2) | **NULL** |
-| **2024/08/20** | Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended? | Chen Liang et al. | [2408.10627v1](http://arxiv.org/abs/2408.10627v1) | **NULL** |
-| **2024/08/20** | Prompt Your Brain: Scaffold Prompt Tuning for Efficient Adaptation of fMRI Pre-trained Model | Zijian Dong et al. | [2408.10567v1](http://arxiv.org/abs/2408.10567v1) | **NULL** |
-| **2024/08/20** | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | Yongbo Yu et al. | [2408.10483v1](http://arxiv.org/abs/2408.10483v1) | [**link**](https://github.com/usualheart/prformer) |
-| **2024/08/20** | LeCov: Multi-level Testing Criteria for Large Language Models | Xuan Xie et al. | [2408.10474v1](http://arxiv.org/abs/2408.10474v1) | **NULL** |
-| **2024/08/19** | PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities | Yuanjian Xu et al. | [2408.10111v2](http://arxiv.org/abs/2408.10111v2) | **NULL** |
-| **2024/08/19** | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | Jiaheng Yin et al. | [2408.09723v1](http://arxiv.org/abs/2408.09723v1) | **NULL** |
-| **2024/08/19** | LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting | Yisong Fu et al. | [2408.09695v1](http://arxiv.org/abs/2408.09695v1) | **NULL** |
-| **2024/08/18** | Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions | Jun Wang et al. | [2408.09476v1](http://arxiv.org/abs/2408.09476v1) | **NULL** |
 
 ## 背景差分
 
