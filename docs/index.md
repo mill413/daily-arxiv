@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/28 08:55:31
+> Updated on 2024/08/29 08:55:47
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/27** | Sec2Sec Co-attention for Video-Based Apparent Affective Prediction | Mingwei Sun et al. | [2408.15209v1](http://arxiv.org/abs/2408.15209v1) | [**link**](https://github.com/nestor-sun/sec2sec) |
+| **2024/08/27** | Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling | Ahmed Mustafa et al. | [2408.15119v2](http://arxiv.org/abs/2408.15119v2) | **NULL** |
+| **2024/08/27** | Speech Recognition Transformers: Topological-lingualism Perspective | Shruti Singh et al. | [2408.14991v1](http://arxiv.org/abs/2408.14991v1) | **NULL** |
+| **2024/08/27** | NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework | Shuangchen Zhao et al. | [2408.14950v1](http://arxiv.org/abs/2408.14950v1) | **NULL** |
+| **2024/08/26** | PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection | Yidi Li et al. | [2408.14600v1](http://arxiv.org/abs/2408.14600v1) | **NULL** |
 | **2024/08/26** | Reconstructing physiological signals from fMRI across the adult lifespan | Shiyu Wang et al. | [2408.14453v1](http://arxiv.org/abs/2408.14453v1) | **NULL** |
 | **2024/08/26** | Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning | Sakhinana Sagar Srinivas et al. | [2408.14387v1](http://arxiv.org/abs/2408.14387v1) | **NULL** |
 | **2024/08/26** | Image Provenance Analysis via Graph Encoding with Vision Transformer | Keyang Zhang et al. | [2408.14170v1](http://arxiv.org/abs/2408.14170v1) | **NULL** |
+| **2024/08/26** | A Multilateral Attention-enhanced Deep Neural Network for Disease Outbreak Forecasting: A Case Study on COVID-19 | Ashutosh Anshul et al. | [2408.14519v1](http://arxiv.org/abs/2408.14519v1) | **NULL** |
 | **2024/08/26** | Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos | Jiajun Fei et al. | [2408.14023v1](http://arxiv.org/abs/2408.14023v1) | [**link**](https://github.com/qq-mm/video-ccam) |
 | **2024/08/25** | Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection | Gourav Siddhad et al. | [2408.13929v1](http://arxiv.org/abs/2408.13929v1) | **NULL** |
 | **2024/08/25** | LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task | Ali Asgarov et al. | [2408.13909v1](http://arxiv.org/abs/2408.13909v1) | [**link**](https://github.com/aliasgerovs/azclip) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/08/22** | Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning | Haotian Zhang et al. | [2408.12252v1](http://arxiv.org/abs/2408.12252v1) | **NULL** |
 | **2024/08/22** | Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach | Zecheng Zhang | [2408.12129v1](http://arxiv.org/abs/2408.12129v1) | **NULL** |
 | **2024/08/22** | Recording Brain Activity While Listening to Music Using Wearable EEG Devices Combined with Bidirectional Long Short-Term Memory Networks | Jingyi Wang et al. | [2408.12124v1](http://arxiv.org/abs/2408.12124v1) | **NULL** |
-| **2024/08/22** | Risk Analysis in Customer Relationship Management via Quantile Region Convolutional Neural Network-Long Short-Term Memory and Cross-Attention Mechanism | Yaowen Huang et al. | [2408.12113v1](http://arxiv.org/abs/2408.12113v1) | **NULL** |
-| **2024/08/21** | Practical token pruning for foundation models in few-shot conversational virtual assistant systems | Haode Qi et al. | [2408.11799v1](http://arxiv.org/abs/2408.11799v1) | **NULL** |
-| **2024/08/21** | EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model | Feipeng Ma et al. | [2408.11795v1](http://arxiv.org/abs/2408.11795v1) | **NULL** |
-| **2024/08/21** | Macformer: Transformer with Random Maclaurin Feature Attention | Yuhan Guo et al. | [2408.11656v1](http://arxiv.org/abs/2408.11656v1) | **NULL** |
-| **2024/08/21** | Explainable Deep Learning Framework for Human Activity Recognition | Yiran Huang et al. | [2408.11552v1](http://arxiv.org/abs/2408.11552v1) | **NULL** |
-| **2024/08/21** | EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention | Yihong Lin et al. | [2408.11518v1](http://arxiv.org/abs/2408.11518v1) | **NULL** |
 
 ## 背景差分
 
