@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/29 08:55:47
+> Updated on 2024/08/30 08:56:15
 
 <summary>Table of Contents</summary>
 
@@ -21,7 +21,7 @@ layout: default
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
-| **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | **NULL** |
+| **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | [**link**](https://github.com/duzw9311/cfpt) |
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v3](http://arxiv.org/abs/2407.02394v3) | [**link**](https://github.com/cszzshi/SimD) |
@@ -53,7 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/27** | Graph Attention Inference of Network Topology in Multi-Agent Systems | Akshay Kolli et al. | [2408.15449v1](http://arxiv.org/abs/2408.15449v1) | **NULL** |
+| **2024/08/27** | HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles | Deyuan Qu et al. | [2408.15428v1](http://arxiv.org/abs/2408.15428v1) | **NULL** |
+| **2024/08/27** | DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis | Adamu Lawan et al. | [2408.15379v1](http://arxiv.org/abs/2408.15379v1) | **NULL** |
 | **2024/08/27** | Sec2Sec Co-attention for Video-Based Apparent Affective Prediction | Mingwei Sun et al. | [2408.15209v1](http://arxiv.org/abs/2408.15209v1) | [**link**](https://github.com/nestor-sun/sec2sec) |
+| **2024/08/27** | TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting | Abid Hasan Zim et al. | [2408.15737v1](http://arxiv.org/abs/2408.15737v1) | **NULL** |
 | **2024/08/27** | Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling | Ahmed Mustafa et al. | [2408.15119v2](http://arxiv.org/abs/2408.15119v2) | **NULL** |
 | **2024/08/27** | Speech Recognition Transformers: Topological-lingualism Perspective | Shruti Singh et al. | [2408.14991v1](http://arxiv.org/abs/2408.14991v1) | **NULL** |
 | **2024/08/27** | NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework | Shuangchen Zhao et al. | [2408.14950v1](http://arxiv.org/abs/2408.14950v1) | **NULL** |
@@ -65,7 +69,7 @@ layout: default
 | **2024/08/26** | Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos | Jiajun Fei et al. | [2408.14023v1](http://arxiv.org/abs/2408.14023v1) | [**link**](https://github.com/qq-mm/video-ccam) |
 | **2024/08/25** | Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection | Gourav Siddhad et al. | [2408.13929v1](http://arxiv.org/abs/2408.13929v1) | **NULL** |
 | **2024/08/25** | LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task | Ali Asgarov et al. | [2408.13909v1](http://arxiv.org/abs/2408.13909v1) | [**link**](https://github.com/aliasgerovs/azclip) |
-| **2024/08/25** | 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification | Haizhao Jing et al. | [2408.13728v1](http://arxiv.org/abs/2408.13728v1) | **NULL** |
+| **2024/08/25** | 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification | Haizhao Jing et al. | [2408.13728v1](http://arxiv.org/abs/2408.13728v1) | [**link**](https://github.com/wanggynpuer/3d-rcnet) |
 | **2024/08/25** | Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval | Wenrui Li et al. | [2408.13712v1](http://arxiv.org/abs/2408.13712v1) | [**link**](https://github.com/liwrui/rmarn) |
 | **2024/08/25** | CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation | Lanhu Wu et al. | [2408.13698v2](http://arxiv.org/abs/2408.13698v2) | **NULL** |
 | **2024/08/24** | Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models | Sakhinana Sagar Srinivas et al. | [2408.13661v1](http://arxiv.org/abs/2408.13661v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/08/23** | A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model | Shuo Yang et al. | [2408.12805v1](http://arxiv.org/abs/2408.12805v1) | **NULL** |
 | **2024/08/22** | Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm | Qiming Yang et al. | [2408.12672v1](http://arxiv.org/abs/2408.12672v1) | **NULL** |
 | **2024/08/22** | Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles | Charles Gadd et al. | [2408.12636v1](http://arxiv.org/abs/2408.12636v1) | **NULL** |
-| **2024/08/22** | EUIS-Net: A Convolutional Neural Network for Efficient Ultrasound Image Segmentation | Shahzaib Iqbal et al. | [2408.12323v1](http://arxiv.org/abs/2408.12323v1) | **NULL** |
-| **2024/08/22** | Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning | Haotian Zhang et al. | [2408.12252v1](http://arxiv.org/abs/2408.12252v1) | **NULL** |
-| **2024/08/22** | Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach | Zecheng Zhang | [2408.12129v1](http://arxiv.org/abs/2408.12129v1) | **NULL** |
-| **2024/08/22** | Recording Brain Activity While Listening to Music Using Wearable EEG Devices Combined with Bidirectional Long Short-Term Memory Networks | Jingyi Wang et al. | [2408.12124v1](http://arxiv.org/abs/2408.12124v1) | **NULL** |
 
 ## 背景差分
 
