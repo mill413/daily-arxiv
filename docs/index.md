@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/08/30 08:56:15
+> Updated on 2024/08/31 08:55:42
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/29** | UV-free Texture Generation with Denoising and Geodesic Heat Diffusions | Simone Foti et al. | [2408.16762v1](http://arxiv.org/abs/2408.16762v1) | [**link**](https://github.com/simofoti/uv3-ted) |
+| **2024/08/29** | One-Shot Learning Meets Depth Diffusion in Multi-Object Videos | Anisha Jain | [2408.16704v1](http://arxiv.org/abs/2408.16704v1) | **NULL** |
+| **2024/08/29** | Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation | Viet-Anh Tran et al. | [2408.16578v1](http://arxiv.org/abs/2408.16578v1) | **NULL** |
+| **2024/08/29** | Locally Grouped and Scale-Guided Attention for Dense Pest Counting | Chang-Hwan Son | [2408.16503v1](http://arxiv.org/abs/2408.16503v1) | **NULL** |
+| **2024/08/29** | Enhancing Conditional Image Generation with Explainable Latent Space Manipulation | Kshitij Pathania | [2408.16232v1](http://arxiv.org/abs/2408.16232v1) | **NULL** |
 | **2024/08/27** | Graph Attention Inference of Network Topology in Multi-Agent Systems | Akshay Kolli et al. | [2408.15449v1](http://arxiv.org/abs/2408.15449v1) | **NULL** |
 | **2024/08/27** | HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles | Deyuan Qu et al. | [2408.15428v1](http://arxiv.org/abs/2408.15428v1) | **NULL** |
 | **2024/08/27** | DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis | Adamu Lawan et al. | [2408.15379v1](http://arxiv.org/abs/2408.15379v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/08/24** | Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach | Jiwei Guan et al. | [2408.13461v1](http://arxiv.org/abs/2408.13461v1) | **NULL** |
 | **2024/08/23** | Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time | Yingyu Liang et al. | [2408.13233v1](http://arxiv.org/abs/2408.13233v1) | **NULL** |
 | **2024/08/23** | KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection | Haruna Yunusa et al. | [2408.13160v1](http://arxiv.org/abs/2408.13160v1) | **NULL** |
-| **2024/08/23** | Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation | Bonan Li et al. | [2408.13149v2](http://arxiv.org/abs/2408.13149v2) | **NULL** |
-| **2024/08/23** | SIMPNet: Spatial-Informed Motion Planning Network | Davood Soleymanzadeh et al. | [2408.12831v1](http://arxiv.org/abs/2408.12831v1) | **NULL** |
-| **2024/08/23** | A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model | Shuo Yang et al. | [2408.12805v1](http://arxiv.org/abs/2408.12805v1) | **NULL** |
-| **2024/08/22** | Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm | Qiming Yang et al. | [2408.12672v1](http://arxiv.org/abs/2408.12672v1) | **NULL** |
-| **2024/08/22** | Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles | Charles Gadd et al. | [2408.12636v1](http://arxiv.org/abs/2408.12636v1) | **NULL** |
 
 ## 背景差分
 
