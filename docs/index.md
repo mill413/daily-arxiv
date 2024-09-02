@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/01 09:05:06
+> Updated on 2024/09/02 08:57:14
 
 <summary>Table of Contents</summary>
 
@@ -60,10 +60,10 @@ layout: default
 | **2024/08/29** | Enhancing Conditional Image Generation with Explainable Latent Space Manipulation | Kshitij Pathania | [2408.16232v1](http://arxiv.org/abs/2408.16232v1) | [**link**](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model) |
 | **2024/08/27** | Graph Attention Inference of Network Topology in Multi-Agent Systems | Akshay Kolli et al. | [2408.15449v1](http://arxiv.org/abs/2408.15449v1) | **NULL** |
 | **2024/08/27** | HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles | Deyuan Qu et al. | [2408.15428v1](http://arxiv.org/abs/2408.15428v1) | **NULL** |
-| **2024/08/27** | DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis | Adamu Lawan et al. | [2408.15379v1](http://arxiv.org/abs/2408.15379v1) | **NULL** |
+| **2024/08/27** | DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis | Adamu Lawan et al. | [2408.15379v2](http://arxiv.org/abs/2408.15379v2) | **NULL** |
 | **2024/08/27** | Sec2Sec Co-attention for Video-Based Apparent Affective Prediction | Mingwei Sun et al. | [2408.15209v1](http://arxiv.org/abs/2408.15209v1) | [**link**](https://github.com/nestor-sun/sec2sec) |
 | **2024/08/27** | TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting | Abid Hasan Zim et al. | [2408.15737v1](http://arxiv.org/abs/2408.15737v1) | **NULL** |
-| **2024/08/27** | Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling | Ahmed Mustafa et al. | [2408.15119v2](http://arxiv.org/abs/2408.15119v2) | **NULL** |
+| **2024/08/27** | A Permuted Autoregressive Approach to Word-Level Recognition for Urdu Digital Text | Ahmed Mustafa et al. | [2408.15119v3](http://arxiv.org/abs/2408.15119v3) | **NULL** |
 | **2024/08/27** | Speech Recognition Transformers: Topological-lingualism Perspective | Shruti Singh et al. | [2408.14991v1](http://arxiv.org/abs/2408.14991v1) | **NULL** |
 | **2024/08/27** | NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework | Shuangchen Zhao et al. | [2408.14950v1](http://arxiv.org/abs/2408.14950v1) | **NULL** |
 | **2024/08/26** | PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection | Yidi Li et al. | [2408.14600v1](http://arxiv.org/abs/2408.14600v1) | **NULL** |
