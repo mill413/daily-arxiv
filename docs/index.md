@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/02 08:57:14
+> Updated on 2024/09/03 08:55:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/08/30** | Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering | Nicholas Pochinkov et al. | [2408.17322v1](http://arxiv.org/abs/2408.17322v1) | [**link**](https://github.com/nickypro/investigating-ablation) |
+| **2024/08/30** | Temporal and Interactive Modeling for Efficient Human-Human Motion Generation | Yabiao Wang et al. | [2408.17135v1](http://arxiv.org/abs/2408.17135v1) | **NULL** |
+| **2024/08/30** | Cross Fusion RGB-T Tracking with Bi-directional Adapter | Zhirong Zeng et al. | [2408.16979v1](http://arxiv.org/abs/2408.16979v1) | **NULL** |
+| **2024/08/30** | MemLong: Memory-Augmented Retrieval for Long Text Modeling | Weijie Liu et al. | [2408.16967v1](http://arxiv.org/abs/2408.16967v1) | [**link**](https://github.com/bui1dmysea/memlong) |
+| **2024/08/30** | HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution | Masoomeh Aslahishahri et al. | [2408.16959v1](http://arxiv.org/abs/2408.16959v1) | [**link**](https://github.com/bia006/hitsr) |
 | **2024/08/29** | UV-free Texture Generation with Denoising and Geodesic Heat Diffusions | Simone Foti et al. | [2408.16762v1](http://arxiv.org/abs/2408.16762v1) | [**link**](https://github.com/simofoti/uv3-ted) |
 | **2024/08/29** | One-Shot Learning Meets Depth Diffusion in Multi-Object Videos | Anisha Jain | [2408.16704v1](http://arxiv.org/abs/2408.16704v1) | **NULL** |
 | **2024/08/29** | Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation | Viet-Anh Tran et al. | [2408.16578v1](http://arxiv.org/abs/2408.16578v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/08/25** | Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval | Wenrui Li et al. | [2408.13712v1](http://arxiv.org/abs/2408.13712v1) | [**link**](https://github.com/liwrui/rmarn) |
 | **2024/08/25** | CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation | Lanhu Wu et al. | [2408.13698v2](http://arxiv.org/abs/2408.13698v2) | **NULL** |
 | **2024/08/24** | Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models | Sakhinana Sagar Srinivas et al. | [2408.13661v1](http://arxiv.org/abs/2408.13661v1) | **NULL** |
-| **2024/08/24** | Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers | Srinadh Reddy Bhavanam et al. | [2408.13634v1](http://arxiv.org/abs/2408.13634v1) | **NULL** |
-| **2024/08/24** | Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation | Jianing Song et al. | [2408.13587v1](http://arxiv.org/abs/2408.13587v1) | **NULL** |
-| **2024/08/24** | Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach | Jiwei Guan et al. | [2408.13461v1](http://arxiv.org/abs/2408.13461v1) | **NULL** |
-| **2024/08/23** | Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time | Yingyu Liang et al. | [2408.13233v1](http://arxiv.org/abs/2408.13233v1) | **NULL** |
-| **2024/08/23** | KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection | Haruna Yunusa et al. | [2408.13160v1](http://arxiv.org/abs/2408.13160v1) | **NULL** |
 
 ## 背景差分
 
