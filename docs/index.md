@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/05 08:56:35
+> Updated on 2024/09/06 08:56:26
 
 <summary>Table of Contents</summary>
 
@@ -53,41 +53,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/08/30** | Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering | Nicholas Pochinkov et al. | [2408.17322v1](http://arxiv.org/abs/2408.17322v1) | [**link**](https://github.com/nickypro/investigating-ablation) |
-| **2024/08/30** | Temporal and Interactive Modeling for Efficient Human-Human Motion Generation | Yabiao Wang et al. | [2408.17135v1](http://arxiv.org/abs/2408.17135v1) | **NULL** |
-| **2024/08/30** | Cross Fusion RGB-T Tracking with Bi-directional Adapter | Zhirong Zeng et al. | [2408.16979v1](http://arxiv.org/abs/2408.16979v1) | **NULL** |
-| **2024/08/30** | MemLong: Memory-Augmented Retrieval for Long Text Modeling | Weijie Liu et al. | [2408.16967v1](http://arxiv.org/abs/2408.16967v1) | [**link**](https://github.com/bui1dmysea/memlong) |
-| **2024/08/30** | HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution | Masoomeh Aslahishahri et al. | [2408.16959v1](http://arxiv.org/abs/2408.16959v1) | [**link**](https://github.com/bia006/hitsr) |
-| **2024/08/29** | UV-free Texture Generation with Denoising and Geodesic Heat Diffusions | Simone Foti et al. | [2408.16762v1](http://arxiv.org/abs/2408.16762v1) | [**link**](https://github.com/simofoti/uv3-ted) |
-| **2024/08/29** | One-Shot Learning Meets Depth Diffusion in Multi-Object Videos | Anisha Jain | [2408.16704v1](http://arxiv.org/abs/2408.16704v1) | **NULL** |
-| **2024/08/29** | Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation | Viet-Anh Tran et al. | [2408.16578v1](http://arxiv.org/abs/2408.16578v1) | **NULL** |
-| **2024/08/29** | Locally Grouped and Scale-Guided Attention for Dense Pest Counting | Chang-Hwan Son | [2408.16503v1](http://arxiv.org/abs/2408.16503v1) | **NULL** |
-| **2024/08/29** | Enhancing Conditional Image Generation with Explainable Latent Space Manipulation | Kshitij Pathania | [2408.16232v1](http://arxiv.org/abs/2408.16232v1) | [**link**](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model) |
-| **2024/08/27** | Graph Attention Inference of Network Topology in Multi-Agent Systems | Akshay Kolli et al. | [2408.15449v1](http://arxiv.org/abs/2408.15449v1) | **NULL** |
-| **2024/08/27** | HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles | Deyuan Qu et al. | [2408.15428v1](http://arxiv.org/abs/2408.15428v1) | **NULL** |
-| **2024/08/27** | DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis | Adamu Lawan et al. | [2408.15379v2](http://arxiv.org/abs/2408.15379v2) | **NULL** |
-| **2024/08/27** | Sec2Sec Co-attention for Video-Based Apparent Affective Prediction | Mingwei Sun et al. | [2408.15209v1](http://arxiv.org/abs/2408.15209v1) | [**link**](https://github.com/nestor-sun/sec2sec) |
-| **2024/08/27** | TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting | Abid Hasan Zim et al. | [2408.15737v1](http://arxiv.org/abs/2408.15737v1) | **NULL** |
-| **2024/08/27** | A Permuted Autoregressive Approach to Word-Level Recognition for Urdu Digital Text | Ahmed Mustafa et al. | [2408.15119v3](http://arxiv.org/abs/2408.15119v3) | **NULL** |
-| **2024/08/27** | Speech Recognition Transformers: Topological-lingualism Perspective | Shruti Singh et al. | [2408.14991v1](http://arxiv.org/abs/2408.14991v1) | **NULL** |
-| **2024/08/27** | NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework | Shuangchen Zhao et al. | [2408.14950v1](http://arxiv.org/abs/2408.14950v1) | **NULL** |
-| **2024/08/26** | PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection | Yidi Li et al. | [2408.14600v1](http://arxiv.org/abs/2408.14600v1) | **NULL** |
-| **2024/08/26** | Reconstructing physiological signals from fMRI across the adult lifespan | Shiyu Wang et al. | [2408.14453v1](http://arxiv.org/abs/2408.14453v1) | **NULL** |
-| **2024/08/26** | Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning | Sakhinana Sagar Srinivas et al. | [2408.14387v1](http://arxiv.org/abs/2408.14387v1) | **NULL** |
-| **2024/08/26** | Image Provenance Analysis via Graph Encoding with Vision Transformer | Keyang Zhang et al. | [2408.14170v1](http://arxiv.org/abs/2408.14170v1) | **NULL** |
-| **2024/08/26** | A Multilateral Attention-enhanced Deep Neural Network for Disease Outbreak Forecasting: A Case Study on COVID-19 | Ashutosh Anshul et al. | [2408.14519v1](http://arxiv.org/abs/2408.14519v1) | **NULL** |
-| **2024/08/26** | Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos | Jiajun Fei et al. | [2408.14023v1](http://arxiv.org/abs/2408.14023v1) | [**link**](https://github.com/qq-mm/video-ccam) |
-| **2024/08/25** | Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection | Gourav Siddhad et al. | [2408.13929v1](http://arxiv.org/abs/2408.13929v1) | **NULL** |
-| **2024/08/25** | LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task | Ali Asgarov et al. | [2408.13909v1](http://arxiv.org/abs/2408.13909v1) | [**link**](https://github.com/aliasgerovs/azclip) |
-| **2024/08/25** | 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification | Haizhao Jing et al. | [2408.13728v1](http://arxiv.org/abs/2408.13728v1) | [**link**](https://github.com/wanggynpuer/3d-rcnet) |
-| **2024/08/25** | Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval | Wenrui Li et al. | [2408.13712v1](http://arxiv.org/abs/2408.13712v1) | [**link**](https://github.com/liwrui/rmarn) |
-| **2024/08/25** | CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation | Lanhu Wu et al. | [2408.13698v2](http://arxiv.org/abs/2408.13698v2) | **NULL** |
-| **2024/08/24** | Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models | Sakhinana Sagar Srinivas et al. | [2408.13661v1](http://arxiv.org/abs/2408.13661v1) | **NULL** |
+| **2024/09/04** | USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction | Bang Zeng et al. | [2409.02615v1](http://arxiv.org/abs/2409.02615v1) | **NULL** |
+| **2024/09/04** | How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations | Florian Blume et al. | [2409.02566v1](http://arxiv.org/abs/2409.02566v1) | **NULL** |
+| **2024/09/03** | LinFusion: 1 GPU, 1 Minute, 16K Image | Songhua Liu et al. | [2409.02097v2](http://arxiv.org/abs/2409.02097v2) | [**link**](https://github.com/huage001/linfusion) |
+| **2024/09/03** | AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions | Chenghao Qian et al. | [2409.02045v1](http://arxiv.org/abs/2409.02045v1) | **NULL** |
+| **2024/09/03** | TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation | Bobby Azad et al. | [2409.02018v1](http://arxiv.org/abs/2409.02018v1) | **NULL** |
+| **2024/09/03** | Learning Resilient Formation Control of Drones with Graph Attention Network | Jiaping Xiao et al. | [2409.01953v1](http://arxiv.org/abs/2409.01953v1) | **NULL** |
+| **2024/09/03** | CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention | Gaojie Lin et al. | [2409.01876v2](http://arxiv.org/abs/2409.01876v2) | **NULL** |
+| **2024/09/03** | Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach | Salah Eddine Laidoudi et al. | [2409.01871v1](http://arxiv.org/abs/2409.01871v1) | **NULL** |
+| **2024/09/03** | AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling | Siddhant Dutta et al. | [2409.01626v1](http://arxiv.org/abs/2409.01626v1) | **NULL** |
+| **2024/09/03** | DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection | Weichao Pan et al. | [2409.01604v1](http://arxiv.org/abs/2409.01604v1) | **NULL** |
+| **2024/09/03** | DiVE: DiT-based Video Generation with Enhanced Control | Junpeng Jiang et al. | [2409.01595v1](http://arxiv.org/abs/2409.01595v1) | **NULL** |
+| **2024/09/03** | Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers | Sohan Anisetty et al. | [2409.01591v1](http://arxiv.org/abs/2409.01591v1) | **NULL** |
+| **2024/09/03** | ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition | Shiting Xiao et al. | [2409.01564v1](http://arxiv.org/abs/2409.01564v1) | **NULL** |
+| **2024/09/02** | Masked Mixers for Language Generation and Retrieval | Benjamin L. Badger | [2409.01482v1](http://arxiv.org/abs/2409.01482v1) | [**link**](https://github.com/blbadger/maskedmixers) |
+| **2024/09/02** | DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios | Yang Li et al. | [2409.01093v1](http://arxiv.org/abs/2409.01093v1) | **NULL** |
+| **2024/09/02** | Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction | Zhanwen Liu et al. | [2409.00904v1](http://arxiv.org/abs/2409.00904v1) | **NULL** |
+| **2024/09/01** | A Novel Self-Attention-Enabled Weighted Ensemble-Based Convolutional Neural Network Framework for Distributed Denial of Service Attack Classification | Kanthimathi S et al. | [2409.00810v1](http://arxiv.org/abs/2409.00810v1) | **NULL** |
+| **2024/09/01** | Zero-Shot Paragraph-level Handwriting Imitation with Latent Diffusion Models | Martin Mayr et al. | [2409.00786v1](http://arxiv.org/abs/2409.00786v1) | **NULL** |
+| **2024/09/01** | Multiscale Color Guided Attention Ensemble Classifier for Age-Related Macular Degeneration using Concurrent Fundus and Optical Coherence Tomography Images | Pragya Gupta et al. | [2409.00718v1](http://arxiv.org/abs/2409.00718v1) | **NULL** |
+| **2024/09/01** | IAFI-FCOS: Intra- and across-layer feature interaction FCOS model for lesion detection of CT images | Qiu Guan et al. | [2409.00694v1](http://arxiv.org/abs/2409.00694v1) | **NULL** |
+| **2024/09/01** | Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression | Dingyuan Zhang et al. | [2409.00633v1](http://arxiv.org/abs/2409.00633v1) | [**link**](https://github.com/dyzhang09/toc3d) |
+| **2024/09/01** | PuYun: Medium-Range Global Weather Forecasting Using Large Kernel Attention Convolutional Networks | Shengchen Zhu et al. | [2409.02123v1](http://arxiv.org/abs/2409.02123v1) | **NULL** |
+| **2024/09/01** | Entity-Aware Biaffine Attention Model for Improved Constituent Parsing with Reduced Entity Violations | Xinyi Bai | [2409.00625v1](http://arxiv.org/abs/2409.00625v1) | **NULL** |
+| **2024/09/01** | ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals | Shania Mitra et al. | [2409.00610v1](http://arxiv.org/abs/2409.00610v1) | **NULL** |
+| **2024/08/31** | Studying the Effects of Self-Attention on SAR Automatic Target Recognition | Jacob Fein-Ashley et al. | [2409.00473v1](http://arxiv.org/abs/2409.00473v1) | **NULL** |
+| **2024/08/31** | Breaking Down Financial News Impact: A Novel AI Approach with Geometric Hypergraphs | Anoushka Harit et al. | [2409.00438v1](http://arxiv.org/abs/2409.00438v1) | **NULL** |
+| **2024/08/31** | A Hybrid Transformer-Mamba Network for Single Image Deraining | Shangquan Sun et al. | [2409.00410v1](http://arxiv.org/abs/2409.00410v1) | **NULL** |
+| **2024/08/31** | Multi-label Zero-Shot Audio Classification with Temporal Attention | Duygu Dogan et al. | [2409.00408v1](http://arxiv.org/abs/2409.00408v1) | **NULL** |
+| **2024/08/31** | Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders | Georgios Ioannides et al. | [2409.00391v1](http://arxiv.org/abs/2409.00391v1) | **NULL** |
+| **2024/08/31** | SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation | Fuchen Zheng et al. | [2409.00346v1](http://arxiv.org/abs/2409.00346v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v1](http://arxiv.org/abs/2407.16488v1) | **NULL** |
 | **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/09/15** | A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads | Zixuan Li et al. | [2309.08164v1](http://arxiv.org/abs/2309.08164v1) | **NULL** |
 | **2023/09/12** | Reference Frames and Black Hole Thermodynamics | Franco Fiorini et al. | [2309.06293v2](http://arxiv.org/abs/2309.06293v2) | **NULL** |
 | **2023/08/23** | Computational models of object motion detectors accelerated using FPGA technology | Pedro Machado | [2310.06842v1](http://arxiv.org/abs/2310.06842v1) | **NULL** |
-| **2023/08/02** | Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector | ATLAS Collaboration | [2308.01171v2](http://arxiv.org/abs/2308.01171v2) | **NULL** |
