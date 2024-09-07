@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/06 08:56:26
+> Updated on 2024/09/07 08:55:44
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/05** | Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers | Amit Ben Artzy et al. | [2409.03621v1](http://arxiv.org/abs/2409.03621v1) | **NULL** |
+| **2024/09/05** | Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks | Lorenzo Bini et al. | [2409.03463v1](http://arxiv.org/abs/2409.03463v1) | [**link**](https://github.com/msorbi/gnn-ma) |
+| **2024/09/05** | Multiple weather images restoration using the task transformer and adaptive mixup strategy | Yang Wen et al. | [2409.03249v1](http://arxiv.org/abs/2409.03249v1) | **NULL** |
+| **2024/09/04** | Probing self-attention in self-supervised speech models for cross-linguistic differences | Sai Gopinath et al. | [2409.03115v1](http://arxiv.org/abs/2409.03115v1) | **NULL** |
 | **2024/09/04** | USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction | Bang Zeng et al. | [2409.02615v1](http://arxiv.org/abs/2409.02615v1) | **NULL** |
 | **2024/09/04** | How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations | Florian Blume et al. | [2409.02566v1](http://arxiv.org/abs/2409.02566v1) | **NULL** |
 | **2024/09/03** | LinFusion: 1 GPU, 1 Minute, 16K Image | Songhua Liu et al. | [2409.02097v2](http://arxiv.org/abs/2409.02097v2) | [**link**](https://github.com/huage001/linfusion) |
@@ -79,10 +83,6 @@ layout: default
 | **2024/09/01** | ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals | Shania Mitra et al. | [2409.00610v1](http://arxiv.org/abs/2409.00610v1) | **NULL** |
 | **2024/08/31** | Studying the Effects of Self-Attention on SAR Automatic Target Recognition | Jacob Fein-Ashley et al. | [2409.00473v1](http://arxiv.org/abs/2409.00473v1) | **NULL** |
 | **2024/08/31** | Breaking Down Financial News Impact: A Novel AI Approach with Geometric Hypergraphs | Anoushka Harit et al. | [2409.00438v1](http://arxiv.org/abs/2409.00438v1) | **NULL** |
-| **2024/08/31** | A Hybrid Transformer-Mamba Network for Single Image Deraining | Shangquan Sun et al. | [2409.00410v1](http://arxiv.org/abs/2409.00410v1) | **NULL** |
-| **2024/08/31** | Multi-label Zero-Shot Audio Classification with Temporal Attention | Duygu Dogan et al. | [2409.00408v1](http://arxiv.org/abs/2409.00408v1) | **NULL** |
-| **2024/08/31** | Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders | Georgios Ioannides et al. | [2409.00391v1](http://arxiv.org/abs/2409.00391v1) | **NULL** |
-| **2024/08/31** | SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation | Fuchen Zheng et al. | [2409.00346v1](http://arxiv.org/abs/2409.00346v1) | **NULL** |
 
 ## 背景差分
 
