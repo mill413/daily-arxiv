@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/09 08:58:29
+> Updated on 2024/09/10 08:56:59
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
@@ -37,7 +38,7 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v3](http://arxiv.org/abs/2404.03507v3) | [**link**](https://github.com/katie0723/dq-detr) |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v4](http://arxiv.org/abs/2404.03507v4) | [**link**](https://github.com/katie0723/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
@@ -47,16 +48,21 @@ layout: default
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 | **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
-| **2023/12/05** | Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline | Xiaoqi Zhao et al. | [2312.02528v2](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/06** | Introducing Gating and Context into Temporal Action Detection | Aglind Reka et al. | [2409.04205v1](http://arxiv.org/abs/2409.04205v1) | **NULL** |
+| **2024/09/06** | Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks | Hangcheng Cao et al. | [2409.04133v1](http://arxiv.org/abs/2409.04133v1) | **NULL** |
+| **2024/09/06** | Convolutional Transformer-Based Image Compression | Bouzid Arezki et al. | [2409.04118v1](http://arxiv.org/abs/2409.04118v1) | **NULL** |
+| **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
+| **2024/09/06** | Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task | Jing Wang et al. | [2409.04005v1](http://arxiv.org/abs/2409.04005v1) | [**link**](https://github.com/360cvgroup/qihoo-t2x) |
 | **2024/09/05** | Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers | Amit Ben Artzy et al. | [2409.03621v1](http://arxiv.org/abs/2409.03621v1) | **NULL** |
 | **2024/09/05** | Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks | Lorenzo Bini et al. | [2409.03463v1](http://arxiv.org/abs/2409.03463v1) | [**link**](https://github.com/msorbi/gnn-ma) |
 | **2024/09/05** | Multiple weather images restoration using the task transformer and adaptive mixup strategy | Yang Wen et al. | [2409.03249v1](http://arxiv.org/abs/2409.03249v1) | **NULL** |
 | **2024/09/04** | Probing self-attention in self-supervised speech models for cross-linguistic differences | Sai Gopinath et al. | [2409.03115v1](http://arxiv.org/abs/2409.03115v1) | **NULL** |
+| **2024/09/04** | Interpretable Cyber Threat Detection for Enterprise Industrial Networks: A Computational Design Science Approach | Prabhat Kumar et al. | [2409.03798v1](http://arxiv.org/abs/2409.03798v1) | **NULL** |
 | **2024/09/04** | USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction | Bang Zeng et al. | [2409.02615v1](http://arxiv.org/abs/2409.02615v1) | **NULL** |
 | **2024/09/04** | How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations | Florian Blume et al. | [2409.02566v1](http://arxiv.org/abs/2409.02566v1) | **NULL** |
 | **2024/09/03** | LinFusion: 1 GPU, 1 Minute, 16K Image | Songhua Liu et al. | [2409.02097v2](http://arxiv.org/abs/2409.02097v2) | [**link**](https://github.com/huage001/linfusion) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/09/01** | Zero-Shot Paragraph-level Handwriting Imitation with Latent Diffusion Models | Martin Mayr et al. | [2409.00786v1](http://arxiv.org/abs/2409.00786v1) | **NULL** |
 | **2024/09/01** | Multiscale Color Guided Attention Ensemble Classifier for Age-Related Macular Degeneration using Concurrent Fundus and Optical Coherence Tomography Images | Pragya Gupta et al. | [2409.00718v1](http://arxiv.org/abs/2409.00718v1) | **NULL** |
 | **2024/09/01** | IAFI-FCOS: Intra- and across-layer feature interaction FCOS model for lesion detection of CT images | Qiu Guan et al. | [2409.00694v1](http://arxiv.org/abs/2409.00694v1) | **NULL** |
-| **2024/09/01** | Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression | Dingyuan Zhang et al. | [2409.00633v1](http://arxiv.org/abs/2409.00633v1) | [**link**](https://github.com/dyzhang09/toc3d) |
-| **2024/09/01** | PuYun: Medium-Range Global Weather Forecasting Using Large Kernel Attention Convolutional Networks | Shengchen Zhu et al. | [2409.02123v1](http://arxiv.org/abs/2409.02123v1) | **NULL** |
-| **2024/09/01** | Entity-Aware Biaffine Attention Model for Improved Constituent Parsing with Reduced Entity Violations | Xinyi Bai | [2409.00625v1](http://arxiv.org/abs/2409.00625v1) | **NULL** |
-| **2024/09/01** | ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals | Shania Mitra et al. | [2409.00610v1](http://arxiv.org/abs/2409.00610v1) | **NULL** |
-| **2024/08/31** | Studying the Effects of Self-Attention on SAR Automatic Target Recognition | Jacob Fein-Ashley et al. | [2409.00473v1](http://arxiv.org/abs/2409.00473v1) | **NULL** |
-| **2024/08/31** | Breaking Down Financial News Impact: A Novel AI Approach with Geometric Hypergraphs | Anoushka Harit et al. | [2409.00438v1](http://arxiv.org/abs/2409.00438v1) | **NULL** |
 
 ## 背景差分
 
