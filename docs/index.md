@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/10 08:56:59
+> Updated on 2024/09/11 08:56:43
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | **NULL** |
 | **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
@@ -47,12 +48,27 @@ layout: default
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 | **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
-| **2023/12/15** | Small Bird Detection using YOLOv7 with Test-Time Augmentation | Kosuke Shigematsu | [2401.01018v1](http://arxiv.org/abs/2401.01018v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/09** | Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors | Jiaqi Liu et al. | [2409.05712v1](http://arxiv.org/abs/2409.05712v1) | **NULL** |
+| **2024/09/09** | Boosting CNN-based Handwriting Recognition Systems with Learnable Relaxation Labeling | Sara Ferro et al. | [2409.05699v1](http://arxiv.org/abs/2409.05699v1) | **NULL** |
+| **2024/09/09** | MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction | Mengyu Wang et al. | [2409.05698v1](http://arxiv.org/abs/2409.05698v1) | **NULL** |
+| **2024/09/09** | SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching | Yi Li et al. | [2409.05681v1](http://arxiv.org/abs/2409.05681v1) | **NULL** |
+| **2024/09/09** | CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction | Longhao Wang et al. | [2409.05369v1](http://arxiv.org/abs/2409.05369v1) | **NULL** |
+| **2024/09/09** | RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation | Quoc-Bao Nguyen-Le et al. | [2409.05280v1](http://arxiv.org/abs/2409.05280v1) | [**link**](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus) |
+| **2024/09/09** | Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement | Shyang-En Weng et al. | [2409.05274v1](http://arxiv.org/abs/2409.05274v1) | [**link**](https://github.com/Shyandram/CPGA-Net_Plus) |
+| **2024/09/08** | SS-BRPE: Self-Supervised Blind Room Parameter Estimation Using Attention Mechanisms | Chunxi Wang et al. | [2409.05212v1](http://arxiv.org/abs/2409.05212v1) | **NULL** |
+| **2024/09/08** | Better Spanish Emotion Recognition In-the-wild: Bringing Attention to Deep Spectrum Voice Analysis | Elena Ortega-Beltrán et al. | [2409.05148v1](http://arxiv.org/abs/2409.05148v1) | **NULL** |
+| **2024/09/08** | MHS-STMA: Multimodal Hate Speech Detection via Scalable Transformer-Based Multilevel Attention Framework | Anusha Chhabra et al. | [2409.05136v1](http://arxiv.org/abs/2409.05136v1) | **NULL** |
+| **2024/09/08** | Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings | Linsey Pang et al. | [2409.05022v1](http://arxiv.org/abs/2409.05022v1) | **NULL** |
+| **2024/09/08** | Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment | Zhixian Zhao et al. | [2409.05015v2](http://arxiv.org/abs/2409.05015v2) | **NULL** |
+| **2024/09/08** | RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network | Zhiwei Lin et al. | [2409.04979v1](http://arxiv.org/abs/2409.04979v1) | **NULL** |
+| **2024/09/08** | An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing | Ashkan Moradifirouzabadi et al. | [2409.04940v1](http://arxiv.org/abs/2409.04940v1) | **NULL** |
+| **2024/09/07** | Cross-attention Inspired Selective State Space Models for Target Sound Extraction | Donghang Wu et al. | [2409.04803v2](http://arxiv.org/abs/2409.04803v2) | **NULL** |
+| **2024/09/07** | Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models | Junfeng Tian et al. | [2409.04774v1](http://arxiv.org/abs/2409.04774v1) | **NULL** |
 | **2024/09/06** | Introducing Gating and Context into Temporal Action Detection | Aglind Reka et al. | [2409.04205v1](http://arxiv.org/abs/2409.04205v1) | **NULL** |
 | **2024/09/06** | Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks | Hangcheng Cao et al. | [2409.04133v1](http://arxiv.org/abs/2409.04133v1) | **NULL** |
 | **2024/09/06** | Convolutional Transformer-Based Image Compression | Bouzid Arezki et al. | [2409.04118v1](http://arxiv.org/abs/2409.04118v1) | **NULL** |
@@ -67,22 +83,6 @@ layout: default
 | **2024/09/04** | How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations | Florian Blume et al. | [2409.02566v1](http://arxiv.org/abs/2409.02566v1) | **NULL** |
 | **2024/09/03** | LinFusion: 1 GPU, 1 Minute, 16K Image | Songhua Liu et al. | [2409.02097v2](http://arxiv.org/abs/2409.02097v2) | [**link**](https://github.com/huage001/linfusion) |
 | **2024/09/03** | AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions | Chenghao Qian et al. | [2409.02045v1](http://arxiv.org/abs/2409.02045v1) | **NULL** |
-| **2024/09/03** | TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation | Bobby Azad et al. | [2409.02018v1](http://arxiv.org/abs/2409.02018v1) | **NULL** |
-| **2024/09/03** | Learning Resilient Formation Control of Drones with Graph Attention Network | Jiaping Xiao et al. | [2409.01953v1](http://arxiv.org/abs/2409.01953v1) | **NULL** |
-| **2024/09/03** | CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention | Gaojie Lin et al. | [2409.01876v2](http://arxiv.org/abs/2409.01876v2) | **NULL** |
-| **2024/09/03** | Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach | Salah Eddine Laidoudi et al. | [2409.01871v1](http://arxiv.org/abs/2409.01871v1) | **NULL** |
-| **2024/09/03** | AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling | Siddhant Dutta et al. | [2409.01626v1](http://arxiv.org/abs/2409.01626v1) | **NULL** |
-| **2024/09/03** | DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection | Weichao Pan et al. | [2409.01604v1](http://arxiv.org/abs/2409.01604v1) | **NULL** |
-| **2024/09/03** | DiVE: DiT-based Video Generation with Enhanced Control | Junpeng Jiang et al. | [2409.01595v1](http://arxiv.org/abs/2409.01595v1) | **NULL** |
-| **2024/09/03** | Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers | Sohan Anisetty et al. | [2409.01591v1](http://arxiv.org/abs/2409.01591v1) | **NULL** |
-| **2024/09/03** | ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition | Shiting Xiao et al. | [2409.01564v1](http://arxiv.org/abs/2409.01564v1) | **NULL** |
-| **2024/09/02** | Masked Mixers for Language Generation and Retrieval | Benjamin L. Badger | [2409.01482v1](http://arxiv.org/abs/2409.01482v1) | [**link**](https://github.com/blbadger/maskedmixers) |
-| **2024/09/02** | DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios | Yang Li et al. | [2409.01093v1](http://arxiv.org/abs/2409.01093v1) | **NULL** |
-| **2024/09/02** | Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction | Zhanwen Liu et al. | [2409.00904v1](http://arxiv.org/abs/2409.00904v1) | **NULL** |
-| **2024/09/01** | A Novel Self-Attention-Enabled Weighted Ensemble-Based Convolutional Neural Network Framework for Distributed Denial of Service Attack Classification | Kanthimathi S et al. | [2409.00810v1](http://arxiv.org/abs/2409.00810v1) | **NULL** |
-| **2024/09/01** | Zero-Shot Paragraph-level Handwriting Imitation with Latent Diffusion Models | Martin Mayr et al. | [2409.00786v1](http://arxiv.org/abs/2409.00786v1) | **NULL** |
-| **2024/09/01** | Multiscale Color Guided Attention Ensemble Classifier for Age-Related Macular Degeneration using Concurrent Fundus and Optical Coherence Tomography Images | Pragya Gupta et al. | [2409.00718v1](http://arxiv.org/abs/2409.00718v1) | **NULL** |
-| **2024/09/01** | IAFI-FCOS: Intra- and across-layer feature interaction FCOS model for lesion detection of CT images | Qiu Guan et al. | [2409.00694v1](http://arxiv.org/abs/2409.00694v1) | **NULL** |
 
 ## 背景差分
 
