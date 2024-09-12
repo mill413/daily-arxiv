@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/11 08:56:43
+> Updated on 2024/09/12 08:56:48
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/10** | DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models | Maryam Akhavan Aghdam et al. | [2409.06669v1](http://arxiv.org/abs/2409.06669v1) | **NULL** |
+| **2024/09/10** | Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer | Li Ke et al. | [2409.06590v1](http://arxiv.org/abs/2409.06590v1) | **NULL** |
+| **2024/09/10** | Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding | Xiaoyu Liang et al. | [2409.06485v1](http://arxiv.org/abs/2409.06485v1) | **NULL** |
+| **2024/09/10** | Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks | Prakash Thakolkaran et al. | [2409.06457v1](http://arxiv.org/abs/2409.06457v1) | **NULL** |
+| **2024/09/10** | An End-to-End Approach for Chord-Conditioned Song Generation | Shuochen Gao et al. | [2409.06307v1](http://arxiv.org/abs/2409.06307v1) | **NULL** |
+| **2024/09/10** | AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration | Hongyi Cai et al. | [2409.06206v1](http://arxiv.org/abs/2409.06206v1) | **NULL** |
 | **2024/09/09** | Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors | Jiaqi Liu et al. | [2409.05712v1](http://arxiv.org/abs/2409.05712v1) | **NULL** |
 | **2024/09/09** | Boosting CNN-based Handwriting Recognition Systems with Learnable Relaxation Labeling | Sara Ferro et al. | [2409.05699v1](http://arxiv.org/abs/2409.05699v1) | **NULL** |
 | **2024/09/09** | MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction | Mengyu Wang et al. | [2409.05698v1](http://arxiv.org/abs/2409.05698v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/09/05** | Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers | Amit Ben Artzy et al. | [2409.03621v1](http://arxiv.org/abs/2409.03621v1) | **NULL** |
 | **2024/09/05** | Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks | Lorenzo Bini et al. | [2409.03463v1](http://arxiv.org/abs/2409.03463v1) | [**link**](https://github.com/msorbi/gnn-ma) |
 | **2024/09/05** | Multiple weather images restoration using the task transformer and adaptive mixup strategy | Yang Wen et al. | [2409.03249v1](http://arxiv.org/abs/2409.03249v1) | **NULL** |
-| **2024/09/04** | Probing self-attention in self-supervised speech models for cross-linguistic differences | Sai Gopinath et al. | [2409.03115v1](http://arxiv.org/abs/2409.03115v1) | **NULL** |
-| **2024/09/04** | Interpretable Cyber Threat Detection for Enterprise Industrial Networks: A Computational Design Science Approach | Prabhat Kumar et al. | [2409.03798v1](http://arxiv.org/abs/2409.03798v1) | **NULL** |
-| **2024/09/04** | USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction | Bang Zeng et al. | [2409.02615v1](http://arxiv.org/abs/2409.02615v1) | **NULL** |
-| **2024/09/04** | How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations | Florian Blume et al. | [2409.02566v1](http://arxiv.org/abs/2409.02566v1) | **NULL** |
-| **2024/09/03** | LinFusion: 1 GPU, 1 Minute, 16K Image | Songhua Liu et al. | [2409.02097v2](http://arxiv.org/abs/2409.02097v2) | [**link**](https://github.com/huage001/linfusion) |
-| **2024/09/03** | AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions | Chenghao Qian et al. | [2409.02045v1](http://arxiv.org/abs/2409.02045v1) | **NULL** |
 
 ## 背景差分
 
