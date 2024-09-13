@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/12 08:56:48
+> Updated on 2024/09/13 08:56:57
 
 <summary>Table of Contents</summary>
 
@@ -41,7 +41,7 @@ layout: default
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v4](http://arxiv.org/abs/2404.03507v4) | [**link**](https://github.com/katie0723/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
-| **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | **NULL** |
+| **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | [**link**](https://github.com/AIS-Clemson/FLAME_SD) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/11** | Data Augmentation via Latent Diffusion for Saliency Prediction | Bahar Aydemir et al. | [2409.07307v1](http://arxiv.org/abs/2409.07307v1) | [**link**](https://github.com/ivrl/augsal) |
+| **2024/09/11** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | Jiahang Cao et al. | [2409.07163v1](http://arxiv.org/abs/2409.07163v1) | **NULL** |
+| **2024/09/11** | DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training | Dongkun Huo et al. | [2409.07127v1](http://arxiv.org/abs/2409.07127v1) | **NULL** |
+| **2024/09/11** | Brain-Inspired Stepwise Patch Merging for Vision Transformers | Yonghao Yu et al. | [2409.06963v1](http://arxiv.org/abs/2409.06963v1) | **NULL** |
 | **2024/09/10** | DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models | Maryam Akhavan Aghdam et al. | [2409.06669v1](http://arxiv.org/abs/2409.06669v1) | **NULL** |
 | **2024/09/10** | Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer | Li Ke et al. | [2409.06590v1](http://arxiv.org/abs/2409.06590v1) | **NULL** |
 | **2024/09/10** | Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding | Xiaoyu Liang et al. | [2409.06485v1](http://arxiv.org/abs/2409.06485v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2024/09/06** | Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks | Hangcheng Cao et al. | [2409.04133v1](http://arxiv.org/abs/2409.04133v1) | **NULL** |
 | **2024/09/06** | Convolutional Transformer-Based Image Compression | Bouzid Arezki et al. | [2409.04118v1](http://arxiv.org/abs/2409.04118v1) | **NULL** |
 | **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
-| **2024/09/06** | Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task | Jing Wang et al. | [2409.04005v1](http://arxiv.org/abs/2409.04005v1) | [**link**](https://github.com/360cvgroup/qihoo-t2x) |
-| **2024/09/05** | Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers | Amit Ben Artzy et al. | [2409.03621v1](http://arxiv.org/abs/2409.03621v1) | **NULL** |
-| **2024/09/05** | Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks | Lorenzo Bini et al. | [2409.03463v1](http://arxiv.org/abs/2409.03463v1) | [**link**](https://github.com/msorbi/gnn-ma) |
-| **2024/09/05** | Multiple weather images restoration using the task transformer and adaptive mixup strategy | Yang Wen et al. | [2409.03249v1](http://arxiv.org/abs/2409.03249v1) | **NULL** |
 
 ## 背景差分
 
