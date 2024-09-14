@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/13 08:56:57
+> Updated on 2024/09/14 08:56:13
 
 <summary>Table of Contents</summary>
 
@@ -20,6 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | **NULL** |
 | **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
+| **2024/08/28** | Small Object Detection for Indoor Assistance to the Blind using YOLO NAS Small and Super Gradients | Rashmi BN et al. | [2409.07469v1](http://arxiv.org/abs/2409.07469v1) | **NULL** |
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
@@ -47,12 +48,17 @@ layout: default
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
 | **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
-| **2024/01/08** | Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning | Chen Zhao et al. | [2401.04105v2](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/12** | Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms | Fatemeh Askari et al. | [2409.07989v1](http://arxiv.org/abs/2409.07989v1) | [**link**](https://github.com/FatemehAskari/MSENet) |
+| **2024/09/12** | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | Andrew Lee et al. | [2409.07914v1](http://arxiv.org/abs/2409.07914v1) | **NULL** |
+| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v1](http://arxiv.org/abs/2409.07841v1) | [**link**](https://github.com/Beilong-Tang/TSELM) |
+| **2024/09/12** | A deep learning approach to search for superconductors from electronic bands | Jun Li et al. | [2409.07721v1](http://arxiv.org/abs/2409.07721v1) | **NULL** |
+| **2024/09/12** | Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG | Gabriel de Souza P. Moreira et al. | [2409.07691v1](http://arxiv.org/abs/2409.07691v1) | **NULL** |
+| **2024/09/11** | DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis | Ke Chen et al. | [2409.07584v1](http://arxiv.org/abs/2409.07584v1) | **NULL** |
 | **2024/09/11** | Data Augmentation via Latent Diffusion for Saliency Prediction | Bahar Aydemir et al. | [2409.07307v1](http://arxiv.org/abs/2409.07307v1) | [**link**](https://github.com/ivrl/augsal) |
 | **2024/09/11** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | Jiahang Cao et al. | [2409.07163v1](http://arxiv.org/abs/2409.07163v1) | **NULL** |
 | **2024/09/11** | DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training | Dongkun Huo et al. | [2409.07127v1](http://arxiv.org/abs/2409.07127v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/09/08** | Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment | Zhixian Zhao et al. | [2409.05015v2](http://arxiv.org/abs/2409.05015v2) | **NULL** |
 | **2024/09/08** | RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network | Zhiwei Lin et al. | [2409.04979v1](http://arxiv.org/abs/2409.04979v1) | **NULL** |
 | **2024/09/08** | An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing | Ashkan Moradifirouzabadi et al. | [2409.04940v1](http://arxiv.org/abs/2409.04940v1) | **NULL** |
-| **2024/09/07** | Cross-attention Inspired Selective State Space Models for Target Sound Extraction | Donghang Wu et al. | [2409.04803v2](http://arxiv.org/abs/2409.04803v2) | **NULL** |
-| **2024/09/07** | Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models | Junfeng Tian et al. | [2409.04774v1](http://arxiv.org/abs/2409.04774v1) | **NULL** |
-| **2024/09/06** | Introducing Gating and Context into Temporal Action Detection | Aglind Reka et al. | [2409.04205v1](http://arxiv.org/abs/2409.04205v1) | **NULL** |
-| **2024/09/06** | Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks | Hangcheng Cao et al. | [2409.04133v1](http://arxiv.org/abs/2409.04133v1) | **NULL** |
-| **2024/09/06** | Convolutional Transformer-Based Image Compression | Bouzid Arezki et al. | [2409.04118v1](http://arxiv.org/abs/2409.04118v1) | **NULL** |
-| **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
 
 ## 背景差分
 
