@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/16 09:00:27
+> Updated on 2024/09/17 08:46:53
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/13** | A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data | Tianqi Yang et al. | [2409.08790v1](http://arxiv.org/abs/2409.08790v1) | **NULL** |
+| **2024/09/13** | Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry | Yunus Bilge Kurt et al. | [2409.08769v1](http://arxiv.org/abs/2409.08769v1) | [**link**](https://github.com/ybkurt/vift) |
+| **2024/09/13** | Dynamic Link and Flow Prediction in Bank Transfer Networks | Shu Takahashi et al. | [2409.08718v1](http://arxiv.org/abs/2409.08718v1) | **NULL** |
+| **2024/09/13** | SkinFormer: Learning Statistical Texture Representation with Transformer for Skin Lesion Segmentation | Rongtao Xu et al. | [2409.08652v1](http://arxiv.org/abs/2409.08652v1) | [**link**](https://github.com/rongtao-xu/skinformer) |
+| **2024/09/13** | Improved Unet model for brain tumor image segmentation based on ASPP-coordinate attention mechanism | Zixuan Wang et al. | [2409.08588v1](http://arxiv.org/abs/2409.08588v1) | **NULL** |
+| **2024/09/13** | Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal Inference in Networks | Xiaojing Du et al. | [2409.08544v1](http://arxiv.org/abs/2409.08544v1) | **NULL** |
 | **2024/09/12** | Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms | Fatemeh Askari et al. | [2409.07989v1](http://arxiv.org/abs/2409.07989v1) | [**link**](https://github.com/FatemehAskari/MSENet) |
 | **2024/09/12** | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | Andrew Lee et al. | [2409.07914v1](http://arxiv.org/abs/2409.07914v1) | **NULL** |
-| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v1](http://arxiv.org/abs/2409.07841v1) | [**link**](https://github.com/Beilong-Tang/TSELM) |
+| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v2](http://arxiv.org/abs/2409.07841v2) | [**link**](https://github.com/Beilong-Tang/TSELM) |
 | **2024/09/12** | A deep learning approach to search for superconductors from electronic bands | Jun Li et al. | [2409.07721v1](http://arxiv.org/abs/2409.07721v1) | **NULL** |
 | **2024/09/12** | Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG | Gabriel de Souza P. Moreira et al. | [2409.07691v1](http://arxiv.org/abs/2409.07691v1) | **NULL** |
 | **2024/09/11** | DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis | Ke Chen et al. | [2409.07584v1](http://arxiv.org/abs/2409.07584v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/09/09** | RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation | Quoc-Bao Nguyen-Le et al. | [2409.05280v1](http://arxiv.org/abs/2409.05280v1) | [**link**](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus) |
 | **2024/09/09** | Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement | Shyang-En Weng et al. | [2409.05274v1](http://arxiv.org/abs/2409.05274v1) | [**link**](https://github.com/Shyandram/CPGA-Net_Plus) |
 | **2024/09/08** | SS-BRPE: Self-Supervised Blind Room Parameter Estimation Using Attention Mechanisms | Chunxi Wang et al. | [2409.05212v1](http://arxiv.org/abs/2409.05212v1) | **NULL** |
-| **2024/09/08** | Better Spanish Emotion Recognition In-the-wild: Bringing Attention to Deep Spectrum Voice Analysis | Elena Ortega-Beltrán et al. | [2409.05148v1](http://arxiv.org/abs/2409.05148v1) | **NULL** |
-| **2024/09/08** | MHS-STMA: Multimodal Hate Speech Detection via Scalable Transformer-Based Multilevel Attention Framework | Anusha Chhabra et al. | [2409.05136v1](http://arxiv.org/abs/2409.05136v1) | **NULL** |
-| **2024/09/08** | Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings | Linsey Pang et al. | [2409.05022v1](http://arxiv.org/abs/2409.05022v1) | **NULL** |
-| **2024/09/08** | Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment | Zhixian Zhao et al. | [2409.05015v2](http://arxiv.org/abs/2409.05015v2) | **NULL** |
-| **2024/09/08** | RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network | Zhiwei Lin et al. | [2409.04979v1](http://arxiv.org/abs/2409.04979v1) | **NULL** |
-| **2024/09/08** | An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing | Ashkan Moradifirouzabadi et al. | [2409.04940v1](http://arxiv.org/abs/2409.04940v1) | **NULL** |
 
 ## 背景差分
 
