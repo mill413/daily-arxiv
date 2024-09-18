@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/17 08:46:53
+> Updated on 2024/09/18 08:56:53
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/16** | TCDformer-based Momentum Transfer Model for Long-term Sports Prediction | Hui Liu et al. | [2409.10176v1](http://arxiv.org/abs/2409.10176v1) | **NULL** |
+| **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v1](http://arxiv.org/abs/2409.09978v1) | **NULL** |
+| **2024/09/15** | Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning | He Wang et al. | [2409.09670v1](http://arxiv.org/abs/2409.09670v1) | **NULL** |
+| **2024/09/14** | TransformerMPC: Accelerating Model Predictive Control via Transformers | Vrushabh Zinage et al. | [2409.09266v1](http://arxiv.org/abs/2409.09266v1) | **NULL** |
+| **2024/09/14** | VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding | Hongyu Sun et al. | [2409.09254v1](http://arxiv.org/abs/2409.09254v1) | [**link**](https://github.com/auniquesun/vsformer) |
+| **2024/09/13** | FiAt-Net: Detecting Fibroatheroma Plaque Cap in 3D Intravascular OCT Images | Yaopeng Peng et al. | [2409.09188v1](http://arxiv.org/abs/2409.09188v1) | **NULL** |
+| **2024/09/13** | Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator | Jinwoo Go et al. | [2409.09141v1](http://arxiv.org/abs/2409.09141v1) | **NULL** |
 | **2024/09/13** | A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data | Tianqi Yang et al. | [2409.08790v1](http://arxiv.org/abs/2409.08790v1) | **NULL** |
 | **2024/09/13** | Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry | Yunus Bilge Kurt et al. | [2409.08769v1](http://arxiv.org/abs/2409.08769v1) | [**link**](https://github.com/ybkurt/vift) |
 | **2024/09/13** | Dynamic Link and Flow Prediction in Bank Transfer Networks | Shu Takahashi et al. | [2409.08718v1](http://arxiv.org/abs/2409.08718v1) | **NULL** |
@@ -60,8 +67,8 @@ layout: default
 | **2024/09/13** | Improved Unet model for brain tumor image segmentation based on ASPP-coordinate attention mechanism | Zixuan Wang et al. | [2409.08588v1](http://arxiv.org/abs/2409.08588v1) | **NULL** |
 | **2024/09/13** | Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal Inference in Networks | Xiaojing Du et al. | [2409.08544v1](http://arxiv.org/abs/2409.08544v1) | **NULL** |
 | **2024/09/12** | Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms | Fatemeh Askari et al. | [2409.07989v1](http://arxiv.org/abs/2409.07989v1) | [**link**](https://github.com/FatemehAskari/MSENet) |
-| **2024/09/12** | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | Andrew Lee et al. | [2409.07914v1](http://arxiv.org/abs/2409.07914v1) | **NULL** |
-| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v2](http://arxiv.org/abs/2409.07841v2) | [**link**](https://github.com/Beilong-Tang/TSELM) |
+| **2024/09/12** | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | Andrew Lee et al. | [2409.07914v2](http://arxiv.org/abs/2409.07914v2) | **NULL** |
+| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v3](http://arxiv.org/abs/2409.07841v3) | [**link**](https://github.com/Beilong-Tang/TSELM) |
 | **2024/09/12** | A deep learning approach to search for superconductors from electronic bands | Jun Li et al. | [2409.07721v1](http://arxiv.org/abs/2409.07721v1) | **NULL** |
 | **2024/09/12** | Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG | Gabriel de Souza P. Moreira et al. | [2409.07691v1](http://arxiv.org/abs/2409.07691v1) | **NULL** |
 | **2024/09/11** | DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis | Ke Chen et al. | [2409.07584v1](http://arxiv.org/abs/2409.07584v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/09/10** | An End-to-End Approach for Chord-Conditioned Song Generation | Shuochen Gao et al. | [2409.06307v1](http://arxiv.org/abs/2409.06307v1) | **NULL** |
 | **2024/09/10** | AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration | Hongyi Cai et al. | [2409.06206v1](http://arxiv.org/abs/2409.06206v1) | **NULL** |
 | **2024/09/09** | Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors | Jiaqi Liu et al. | [2409.05712v1](http://arxiv.org/abs/2409.05712v1) | **NULL** |
-| **2024/09/09** | Boosting CNN-based Handwriting Recognition Systems with Learnable Relaxation Labeling | Sara Ferro et al. | [2409.05699v1](http://arxiv.org/abs/2409.05699v1) | **NULL** |
-| **2024/09/09** | MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction | Mengyu Wang et al. | [2409.05698v1](http://arxiv.org/abs/2409.05698v1) | **NULL** |
-| **2024/09/09** | SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching | Yi Li et al. | [2409.05681v1](http://arxiv.org/abs/2409.05681v1) | **NULL** |
-| **2024/09/09** | CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction | Longhao Wang et al. | [2409.05369v1](http://arxiv.org/abs/2409.05369v1) | **NULL** |
-| **2024/09/09** | RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation | Quoc-Bao Nguyen-Le et al. | [2409.05280v1](http://arxiv.org/abs/2409.05280v1) | [**link**](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus) |
-| **2024/09/09** | Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement | Shyang-En Weng et al. | [2409.05274v1](http://arxiv.org/abs/2409.05274v1) | [**link**](https://github.com/Shyandram/CPGA-Net_Plus) |
-| **2024/09/08** | SS-BRPE: Self-Supervised Blind Room Parameter Estimation Using Attention Mechanisms | Chunxi Wang et al. | [2409.05212v1](http://arxiv.org/abs/2409.05212v1) | **NULL** |
 
 ## 背景差分
 
