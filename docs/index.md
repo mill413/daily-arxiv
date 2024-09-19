@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/18 08:56:53
+> Updated on 2024/09/19 08:57:47
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/17** | High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics | Aditya Humnabadkar et al. | [2409.11206v2](http://arxiv.org/abs/2409.11206v2) | **NULL** |
+| **2024/09/17** | D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding | Xiaobao Song et al. | [2409.11024v1](http://arxiv.org/abs/2409.11024v1) | **NULL** |
+| **2024/09/17** | GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models | Hanjun Luo et al. | [2409.11022v2](http://arxiv.org/abs/2409.11022v2) | **NULL** |
+| **2024/09/17** | Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification | Jiaxing Xu et al. | [2409.10944v1](http://arxiv.org/abs/2409.10944v1) | [**link**](https://github.com/angusmonroe/contrasformer) |
+| **2024/09/17** | Adaptive Large Language Models By Layerwise Attention Shortcuts | Prateek Verma et al. | [2409.10870v1](http://arxiv.org/abs/2409.10870v1) | **NULL** |
+| **2024/09/16** | Recurrent Graph Transformer Network for Multiple Fault Localization in Naval Shipboard Systems | Quang-Ha Ngo et al. | [2409.10792v1](http://arxiv.org/abs/2409.10792v1) | **NULL** |
+| **2024/09/16** | Predicting Punctuation in Ancient Chinese Texts: A Multi-Layered LSTM and Attention-Based Approach | Tracy Cai et al. | [2409.10783v1](http://arxiv.org/abs/2409.10783v1) | **NULL** |
+| **2024/09/16** | Self-Attention Limits Working Memory Capacity of Transformer-Based Models | Dongyu Gong et al. | [2409.10715v1](http://arxiv.org/abs/2409.10715v1) | **NULL** |
+| **2024/09/16** | CoMamba: Real-time Cooperative Perception Unlocked with State Space Models | Jinlong Li et al. | [2409.10699v1](http://arxiv.org/abs/2409.10699v1) | **NULL** |
 | **2024/09/16** | TCDformer-based Momentum Transfer Model for Long-term Sports Prediction | Hui Liu et al. | [2409.10176v1](http://arxiv.org/abs/2409.10176v1) | **NULL** |
 | **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v1](http://arxiv.org/abs/2409.09978v1) | **NULL** |
 | **2024/09/15** | Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning | He Wang et al. | [2409.09670v1](http://arxiv.org/abs/2409.09670v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/09/11** | DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis | Ke Chen et al. | [2409.07584v1](http://arxiv.org/abs/2409.07584v1) | **NULL** |
 | **2024/09/11** | Data Augmentation via Latent Diffusion for Saliency Prediction | Bahar Aydemir et al. | [2409.07307v1](http://arxiv.org/abs/2409.07307v1) | [**link**](https://github.com/ivrl/augsal) |
 | **2024/09/11** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | Jiahang Cao et al. | [2409.07163v1](http://arxiv.org/abs/2409.07163v1) | **NULL** |
-| **2024/09/11** | DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training | Dongkun Huo et al. | [2409.07127v1](http://arxiv.org/abs/2409.07127v1) | **NULL** |
-| **2024/09/11** | Brain-Inspired Stepwise Patch Merging for Vision Transformers | Yonghao Yu et al. | [2409.06963v1](http://arxiv.org/abs/2409.06963v1) | **NULL** |
-| **2024/09/10** | DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models | Maryam Akhavan Aghdam et al. | [2409.06669v1](http://arxiv.org/abs/2409.06669v1) | **NULL** |
-| **2024/09/10** | Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer | Li Ke et al. | [2409.06590v1](http://arxiv.org/abs/2409.06590v1) | **NULL** |
-| **2024/09/10** | Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding | Xiaoyu Liang et al. | [2409.06485v1](http://arxiv.org/abs/2409.06485v1) | **NULL** |
-| **2024/09/10** | Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks | Prakash Thakolkaran et al. | [2409.06457v1](http://arxiv.org/abs/2409.06457v1) | **NULL** |
-| **2024/09/10** | An End-to-End Approach for Chord-Conditioned Song Generation | Shuochen Gao et al. | [2409.06307v1](http://arxiv.org/abs/2409.06307v1) | **NULL** |
-| **2024/09/10** | AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration | Hongyi Cai et al. | [2409.06206v1](http://arxiv.org/abs/2409.06206v1) | **NULL** |
-| **2024/09/09** | Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors | Jiaqi Liu et al. | [2409.05712v1](http://arxiv.org/abs/2409.05712v1) | **NULL** |
 
 ## 背景差分
 
