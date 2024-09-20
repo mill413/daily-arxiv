@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/19 08:57:47
+> Updated on 2024/09/20 08:57:46
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/18** | On Vision Transformers for Classification Tasks in Side-Scan Sonar Imagery | BW Sheffield et al. | [2409.12026v1](http://arxiv.org/abs/2409.12026v1) | **NULL** |
+| **2024/09/18** | DocMamba: Efficient Document Pre-training with State Space Model | Pengfei Hu et al. | [2409.11887v1](http://arxiv.org/abs/2409.11887v1) | **NULL** |
+| **2024/09/18** | ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation | Yanlin Jin et al. | [2409.11692v1](http://arxiv.org/abs/2409.11692v1) | **NULL** |
+| **2024/09/18** | Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis | Xitong Ling et al. | [2409.11664v1](http://arxiv.org/abs/2409.11664v1) | **NULL** |
+| **2024/09/17** | Retinal Vessel Segmentation with Deep Graph and Capsule Reasoning | Xinxu Wei et al. | [2409.11508v1](http://arxiv.org/abs/2409.11508v1) | **NULL** |
 | **2024/09/17** | High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics | Aditya Humnabadkar et al. | [2409.11206v2](http://arxiv.org/abs/2409.11206v2) | **NULL** |
 | **2024/09/17** | D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding | Xiaobao Song et al. | [2409.11024v1](http://arxiv.org/abs/2409.11024v1) | **NULL** |
 | **2024/09/17** | GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models | Hanjun Luo et al. | [2409.11022v2](http://arxiv.org/abs/2409.11022v2) | **NULL** |
@@ -62,9 +67,10 @@ layout: default
 | **2024/09/16** | Predicting Punctuation in Ancient Chinese Texts: A Multi-Layered LSTM and Attention-Based Approach | Tracy Cai et al. | [2409.10783v1](http://arxiv.org/abs/2409.10783v1) | **NULL** |
 | **2024/09/16** | Self-Attention Limits Working Memory Capacity of Transformer-Based Models | Dongyu Gong et al. | [2409.10715v1](http://arxiv.org/abs/2409.10715v1) | **NULL** |
 | **2024/09/16** | CoMamba: Real-time Cooperative Perception Unlocked with State Space Models | Jinlong Li et al. | [2409.10699v1](http://arxiv.org/abs/2409.10699v1) | **NULL** |
+| **2024/09/16** | RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval | Di Liu et al. | [2409.10516v2](http://arxiv.org/abs/2409.10516v2) | [**link**](https://github.com/jzbjyb/reatt) |
 | **2024/09/16** | TCDformer-based Momentum Transfer Model for Long-term Sports Prediction | Hui Liu et al. | [2409.10176v1](http://arxiv.org/abs/2409.10176v1) | **NULL** |
 | **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v1](http://arxiv.org/abs/2409.09978v1) | **NULL** |
-| **2024/09/15** | Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning | He Wang et al. | [2409.09670v1](http://arxiv.org/abs/2409.09670v1) | **NULL** |
+| **2024/09/15** | Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning | He Wang et al. | [2409.09670v2](http://arxiv.org/abs/2409.09670v2) | **NULL** |
 | **2024/09/14** | TransformerMPC: Accelerating Model Predictive Control via Transformers | Vrushabh Zinage et al. | [2409.09266v1](http://arxiv.org/abs/2409.09266v1) | **NULL** |
 | **2024/09/14** | VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding | Hongyu Sun et al. | [2409.09254v1](http://arxiv.org/abs/2409.09254v1) | [**link**](https://github.com/auniquesun/vsformer) |
 | **2024/09/13** | FiAt-Net: Detecting Fibroatheroma Plaque Cap in 3D Intravascular OCT Images | Yaopeng Peng et al. | [2409.09188v1](http://arxiv.org/abs/2409.09188v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/09/13** | Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal Inference in Networks | Xiaojing Du et al. | [2409.08544v1](http://arxiv.org/abs/2409.08544v1) | **NULL** |
 | **2024/09/12** | Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms | Fatemeh Askari et al. | [2409.07989v1](http://arxiv.org/abs/2409.07989v1) | [**link**](https://github.com/FatemehAskari/MSENet) |
 | **2024/09/12** | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | Andrew Lee et al. | [2409.07914v2](http://arxiv.org/abs/2409.07914v2) | **NULL** |
-| **2024/09/12** | TSELM: Target Speaker Extraction using Discrete Tokens and Language Models | Beilong Tang et al. | [2409.07841v3](http://arxiv.org/abs/2409.07841v3) | [**link**](https://github.com/Beilong-Tang/TSELM) |
-| **2024/09/12** | A deep learning approach to search for superconductors from electronic bands | Jun Li et al. | [2409.07721v1](http://arxiv.org/abs/2409.07721v1) | **NULL** |
-| **2024/09/12** | Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG | Gabriel de Souza P. Moreira et al. | [2409.07691v1](http://arxiv.org/abs/2409.07691v1) | **NULL** |
-| **2024/09/11** | DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis | Ke Chen et al. | [2409.07584v1](http://arxiv.org/abs/2409.07584v1) | **NULL** |
-| **2024/09/11** | Data Augmentation via Latent Diffusion for Saliency Prediction | Bahar Aydemir et al. | [2409.07307v1](http://arxiv.org/abs/2409.07307v1) | [**link**](https://github.com/ivrl/augsal) |
-| **2024/09/11** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | Jiahang Cao et al. | [2409.07163v1](http://arxiv.org/abs/2409.07163v1) | **NULL** |
 
 ## 背景差分
 
