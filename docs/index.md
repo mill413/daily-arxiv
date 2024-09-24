@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/23 08:59:38
+> Updated on 2024/09/24 08:59:28
 
 <summary>Table of Contents</summary>
 
@@ -66,7 +66,7 @@ layout: default
 | **2024/09/16** | Recurrent Graph Transformer Network for Multiple Fault Localization in Naval Shipboard Systems | Quang-Ha Ngo et al. | [2409.10792v1](http://arxiv.org/abs/2409.10792v1) | **NULL** |
 | **2024/09/16** | Predicting Punctuation in Ancient Chinese Texts: A Multi-Layered LSTM and Attention-Based Approach | Tracy Cai et al. | [2409.10783v1](http://arxiv.org/abs/2409.10783v1) | **NULL** |
 | **2024/09/16** | Self-Attention Limits Working Memory Capacity of Transformer-Based Models | Dongyu Gong et al. | [2409.10715v1](http://arxiv.org/abs/2409.10715v1) | **NULL** |
-| **2024/09/16** | CoMamba: Real-time Cooperative Perception Unlocked with State Space Models | Jinlong Li et al. | [2409.10699v1](http://arxiv.org/abs/2409.10699v1) | **NULL** |
+| **2024/09/16** | CoMamba: Real-time Cooperative Perception Unlocked with State Space Models | Jinlong Li et al. | [2409.10699v2](http://arxiv.org/abs/2409.10699v2) | **NULL** |
 | **2024/09/16** | RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval | Di Liu et al. | [2409.10516v2](http://arxiv.org/abs/2409.10516v2) | [**link**](https://github.com/jzbjyb/reatt) |
 | **2024/09/16** | TCDformer-based Momentum Transfer Model for Long-term Sports Prediction | Hui Liu et al. | [2409.10176v1](http://arxiv.org/abs/2409.10176v1) | **NULL** |
 | **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v1](http://arxiv.org/abs/2409.09978v1) | **NULL** |
