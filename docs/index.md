@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/24 08:59:28
+> Updated on 2024/09/25 09:00:06
 
 <summary>Table of Contents</summary>
 
@@ -40,7 +40,7 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v4](http://arxiv.org/abs/2404.03507v4) | [**link**](https://github.com/katie0723/dq-detr) |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Hou-I Liu et al. | [2404.03507v5](http://arxiv.org/abs/2404.03507v5) | [**link**](https://github.com/katie0723/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/03/06** | FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v1](http://arxiv.org/abs/2403.03463v1) | [**link**](https://github.com/AIS-Clemson/FLAME_SD) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
@@ -69,7 +69,7 @@ layout: default
 | **2024/09/16** | CoMamba: Real-time Cooperative Perception Unlocked with State Space Models | Jinlong Li et al. | [2409.10699v2](http://arxiv.org/abs/2409.10699v2) | **NULL** |
 | **2024/09/16** | RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval | Di Liu et al. | [2409.10516v2](http://arxiv.org/abs/2409.10516v2) | [**link**](https://github.com/jzbjyb/reatt) |
 | **2024/09/16** | TCDformer-based Momentum Transfer Model for Long-term Sports Prediction | Hui Liu et al. | [2409.10176v1](http://arxiv.org/abs/2409.10176v1) | **NULL** |
-| **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v1](http://arxiv.org/abs/2409.09978v1) | **NULL** |
+| **2024/09/16** | Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction | Lei Chu et al. | [2409.09978v2](http://arxiv.org/abs/2409.09978v2) | **NULL** |
 | **2024/09/15** | Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning | He Wang et al. | [2409.09670v2](http://arxiv.org/abs/2409.09670v2) | [**link**](https://github.com/shawn-h-wang/dtdnml) |
 | **2024/09/14** | TransformerMPC: Accelerating Model Predictive Control via Transformers | Vrushabh Zinage et al. | [2409.09266v1](http://arxiv.org/abs/2409.09266v1) | **NULL** |
 | **2024/09/14** | VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding | Hongyu Sun et al. | [2409.09254v1](http://arxiv.org/abs/2409.09254v1) | [**link**](https://github.com/auniquesun/vsformer) |
