@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/27 08:59:16
+> Updated on 2024/09/28 08:58:45
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/26** | Supra-Laplacian Encoding for Transformer on Dynamic Graphs | Yannis Karmim et al. | [2409.17986v1](http://arxiv.org/abs/2409.17986v1) | **NULL** |
+| **2024/09/26** | Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation | Qihan Huang et al. | [2409.17920v1](http://arxiv.org/abs/2409.17920v1) | **NULL** |
+| **2024/09/26** | LKA-ReID:Vehicle Re-Identification with Large Kernel Attention | Xuezhi Xiang et al. | [2409.17908v1](http://arxiv.org/abs/2409.17908v1) | **NULL** |
+| **2024/09/26** | A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru | Chao Min et al. | [2409.17889v1](http://arxiv.org/abs/2409.17889v1) | **NULL** |
+| **2024/09/26** | Optimal Memorization Capacity of Transformers | Tokio Kajitsuka et al. | [2409.17677v1](http://arxiv.org/abs/2409.17677v1) | **NULL** |
+| **2024/09/26** | Hand-object reconstruction via interaction-aware graph attention mechanism | Taeyun Woo et al. | [2409.17629v1](http://arxiv.org/abs/2409.17629v1) | **NULL** |
+| **2024/09/26** | Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism | Keitaro Sakamoto et al. | [2409.17625v1](http://arxiv.org/abs/2409.17625v1) | **NULL** |
+| **2024/09/26** | Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking | Pengcheng Shao et al. | [2409.17560v1](http://arxiv.org/abs/2409.17560v1) | **NULL** |
+| **2024/09/26** | A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation | Masato Ishii et al. | [2409.17550v1](http://arxiv.org/abs/2409.17550v1) | **NULL** |
+| **2024/09/26** | MASSFormer: Mobility-Aware Spectrum Sensing using Transformer-Driven Tiered Structure | Dimpal Janu et al. | [2409.17546v1](http://arxiv.org/abs/2409.17546v1) | **NULL** |
+| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v1](http://arxiv.org/abs/2409.17510v1) | **NULL** |
+| **2024/09/25** | An Integrated Deep Learning Framework for Effective Brain Tumor Localization, Segmentation, and Classification from Magnetic Resonance Images | Pandiyaraju V et al. | [2409.17273v1](http://arxiv.org/abs/2409.17273v1) | **NULL** |
+| **2024/09/25** | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | Gershom Seneviratne et al. | [2409.17262v1](http://arxiv.org/abs/2409.17262v1) | **NULL** |
 | **2024/09/25** | HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space | Jacob Fein-Ashley et al. | [2409.16897v2](http://arxiv.org/abs/2409.16897v2) | [**link**](https://github.com/hyperbolicvit/hyperbolicvit) |
 | **2024/09/25** | Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms | Chun-Jung Lin et al. | [2409.16850v1](http://arxiv.org/abs/2409.16850v1) | **NULL** |
 | **2024/09/25** | Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation | Youngwan Jin et al. | [2409.16706v1](http://arxiv.org/abs/2409.16706v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2024/09/23** | Deep Cost Ray Fusion for Sparse Depth Video Completion | Jungeon Kim et al. | [2409.14935v1](http://arxiv.org/abs/2409.14935v1) | **NULL** |
 | **2024/09/23** | Kriformer: A Novel Spatiotemporal Kriging Approach Based on Graph Transformers | Renbin Pan et al. | [2409.14906v1](http://arxiv.org/abs/2409.14906v1) | **NULL** |
 | **2024/09/23** | RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience | Weitong Chen et al. | [2409.14829v1](http://arxiv.org/abs/2409.14829v1) | **NULL** |
-| **2024/09/23** | EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Utkarsh Priyam et al. | [2409.14689v1](http://arxiv.org/abs/2409.14689v1) | **NULL** |
-| **2024/09/23** | TransUKAN:Computing-Efficient Hybrid KAN-Transformer for Enhanced Medical Image Segmentation | Yanlin Wu et al. | [2409.14676v2](http://arxiv.org/abs/2409.14676v2) | **NULL** |
-| **2024/09/22** | Self-Attention Assistant Classification of non-Hermitian Topological Phases | Hengxuan Jiang et al. | [2409.14453v1](http://arxiv.org/abs/2409.14453v1) | **NULL** |
-| **2024/09/22** | Prior Knowledge Distillation Network for Face Super-Resolution | Qiu Yang et al. | [2409.14385v1](http://arxiv.org/abs/2409.14385v1) | **NULL** |
-| **2024/09/22** | Sparse Low-Ranked Self-Attention Transformer for Remaining Useful Lifetime Prediction of Optical Fiber Amplifiers | Dominic Schneider et al. | [2409.14378v1](http://arxiv.org/abs/2409.14378v1) | **NULL** |
-| **2024/09/21** | Window-based Channel Attention for Wavelet-enhanced Learned Image Compression | Heng Xu et al. | [2409.14090v1](http://arxiv.org/abs/2409.14090v1) | **NULL** |
-| **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v1](http://arxiv.org/abs/2409.14028v1) | [**link**](https://github.com/caiguohui123/msdet) |
-| **2024/09/21** | FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs | Ehsan Kabir et al. | [2409.14023v1](http://arxiv.org/abs/2409.14023v1) | **NULL** |
-| **2024/09/21** | Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature | Linxiao Wu et al. | [2409.14000v1](http://arxiv.org/abs/2409.14000v1) | **NULL** |
-| **2024/09/21** | Enhanced Semantic Segmentation for Large-Scale and Imbalanced Point Clouds | Haoran Gong et al. | [2409.13983v1](http://arxiv.org/abs/2409.13983v1) | **NULL** |
-| **2024/09/20** | OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping | Jiale Wei et al. | [2409.13912v1](http://arxiv.org/abs/2409.13912v1) | [**link**](https://github.com/jialewei/onebev) |
-| **2024/09/20** | High-dimensional learning of narrow neural networks | Hugo Cui | [2409.13904v1](http://arxiv.org/abs/2409.13904v1) | **NULL** |
-| **2024/09/20** | Analysis of Gene Regulatory Networks from Gene Expression Using Graph Neural Networks | Hakan T. Otal et al. | [2409.13664v1](http://arxiv.org/abs/2409.13664v1) | **NULL** |
 
 ## 背景差分
 
