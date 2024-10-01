@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/09/30 09:02:05
+> Updated on 2024/10/01 09:05:30
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/09/27** | Cottention: Linear Transformers With Cosine Attention | Gabriel Mongaras et al. | [2409.18747v1](http://arxiv.org/abs/2409.18747v1) | [**link**](https://github.com/gmongaras/Cottention_Transformer) |
+| **2024/09/27** | Token Caching for Diffusion Transformer Acceleration | Jinming Lou et al. | [2409.18523v1](http://arxiv.org/abs/2409.18523v1) | **NULL** |
+| **2024/09/26** | Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework | Bangyu Lan et al. | [2409.18266v1](http://arxiv.org/abs/2409.18266v1) | **NULL** |
 | **2024/09/26** | Supra-Laplacian Encoding for Transformer on Dynamic Graphs | Yannis Karmim et al. | [2409.17986v1](http://arxiv.org/abs/2409.17986v1) | **NULL** |
 | **2024/09/26** | Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation | Qihan Huang et al. | [2409.17920v1](http://arxiv.org/abs/2409.17920v1) | **NULL** |
 | **2024/09/26** | LKA-ReID:Vehicle Re-Identification with Large Kernel Attention | Xuezhi Xiang et al. | [2409.17908v1](http://arxiv.org/abs/2409.17908v1) | **NULL** |
@@ -63,7 +66,7 @@ layout: default
 | **2024/09/26** | Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking | Pengcheng Shao et al. | [2409.17560v1](http://arxiv.org/abs/2409.17560v1) | **NULL** |
 | **2024/09/26** | A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation | Masato Ishii et al. | [2409.17550v1](http://arxiv.org/abs/2409.17550v1) | **NULL** |
 | **2024/09/26** | MASSFormer: Mobility-Aware Spectrum Sensing using Transformer-Driven Tiered Structure | Dimpal Janu et al. | [2409.17546v1](http://arxiv.org/abs/2409.17546v1) | **NULL** |
-| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v1](http://arxiv.org/abs/2409.17510v1) | **NULL** |
+| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v1](http://arxiv.org/abs/2409.17510v1) | [**link**](https://github.com/Chrisa142857/neuro_detour) |
 | **2024/09/25** | An Integrated Deep Learning Framework for Effective Brain Tumor Localization, Segmentation, and Classification from Magnetic Resonance Images | Pandiyaraju V et al. | [2409.17273v1](http://arxiv.org/abs/2409.17273v1) | **NULL** |
 | **2024/09/25** | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | Gershom Seneviratne et al. | [2409.17262v1](http://arxiv.org/abs/2409.17262v1) | **NULL** |
 | **2024/09/25** | HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space | Jacob Fein-Ashley et al. | [2409.16897v2](http://arxiv.org/abs/2409.16897v2) | [**link**](https://github.com/hyperbolicvit/hyperbolicvit) |
@@ -80,9 +83,6 @@ layout: default
 | **2024/09/23** | Patch-Based End-to-End Quantum Learning Network for Reduction and Classification of Classical Data | Jishnu Mahmud et al. | [2409.15214v1](http://arxiv.org/abs/2409.15214v1) | **NULL** |
 | **2024/09/23** | Goal-based Neural Physics Vehicle Trajectory Prediction Model | Rui Gan et al. | [2409.15182v2](http://arxiv.org/abs/2409.15182v2) | **NULL** |
 | **2024/09/23** | Deep Reinforcement Learning-based Obstacle Avoidance for Robot Movement in Warehouse Environments | Keqin Li et al. | [2409.14972v1](http://arxiv.org/abs/2409.14972v1) | **NULL** |
-| **2024/09/23** | Deep Cost Ray Fusion for Sparse Depth Video Completion | Jungeon Kim et al. | [2409.14935v1](http://arxiv.org/abs/2409.14935v1) | **NULL** |
-| **2024/09/23** | Kriformer: A Novel Spatiotemporal Kriging Approach Based on Graph Transformers | Renbin Pan et al. | [2409.14906v1](http://arxiv.org/abs/2409.14906v1) | **NULL** |
-| **2024/09/23** | RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience | Weitong Chen et al. | [2409.14829v1](http://arxiv.org/abs/2409.14829v1) | **NULL** |
 
 ## 背景差分
 
