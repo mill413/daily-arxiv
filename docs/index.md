@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/02 08:59:26
+> Updated on 2024/10/03 09:00:00
 
 <summary>Table of Contents</summary>
 
@@ -34,7 +34,7 @@ layout: default
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
 | **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
-| **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v3](http://arxiv.org/abs/2405.11276v3) | **NULL** |
+| **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v3](http://arxiv.org/abs/2405.11276v3) | [**link**](https://github.com/Hiyuur/SR-TOD) |
 | **2024/05/17** | Better Sampling, towards Better End-to-end Small Object Detection | Zile Huang et al. | [2407.06127v1](http://arxiv.org/abs/2407.06127v1) | **NULL** |
 | **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
 | **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
@@ -43,17 +43,17 @@ layout: default
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Hou-I Liu et al. | [2404.03507v5](http://arxiv.org/abs/2404.03507v5) | [**link**](https://github.com/katie0723/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
-| **2024/03/06** | FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion | Hao Wang et al. | [2403.03463v2](http://arxiv.org/abs/2403.03463v2) | [**link**](https://github.com/AIS-Clemson/FLAME_SD) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
+| **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/09/30** | Maia-2: A Unified Model for Human-AI Alignment in Chess | Zhenwei Tang et al. | [2409.20553v1](http://arxiv.org/abs/2409.20553v1) | **NULL** |
+| **2024/09/30** | Maia-2: A Unified Model for Human-AI Alignment in Chess | Zhenwei Tang et al. | [2409.20553v1](http://arxiv.org/abs/2409.20553v1) | [**link**](https://github.com/lilv98/maia2-submission) |
 | **2024/09/30** | A Self-attention Residual Convolutional Neural Network for Health Condition Classification of Cow Teat Images | Minghao Wang | [2409.19963v1](http://arxiv.org/abs/2409.19963v1) | **NULL** |
 | **2024/09/30** | TokenBinder: Text-Video Retrieval with One-to-Many Alignment Paradigm | Bingqing Zhang et al. | [2409.19865v1](http://arxiv.org/abs/2409.19865v1) | **NULL** |
 | **2024/09/30** | SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers | Nick Nikzad et al. | [2409.19850v1](http://arxiv.org/abs/2409.19850v1) | **NULL** |
@@ -68,7 +68,7 @@ layout: default
 | **2024/09/27** | Token Caching for Diffusion Transformer Acceleration | Jinming Lou et al. | [2409.18523v1](http://arxiv.org/abs/2409.18523v1) | **NULL** |
 | **2024/09/26** | Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework | Bangyu Lan et al. | [2409.18266v1](http://arxiv.org/abs/2409.18266v1) | **NULL** |
 | **2024/09/26** | Supra-Laplacian Encoding for Transformer on Dynamic Graphs | Yannis Karmim et al. | [2409.17986v1](http://arxiv.org/abs/2409.17986v1) | **NULL** |
-| **2024/09/26** | Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation | Qihan Huang et al. | [2409.17920v1](http://arxiv.org/abs/2409.17920v1) | **NULL** |
+| **2024/09/26** | Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation | Qihan Huang et al. | [2409.17920v1](http://arxiv.org/abs/2409.17920v1) | [**link**](https://github.com/hqhqaq/mip-adapter) |
 | **2024/09/26** | LKA-ReID:Vehicle Re-Identification with Large Kernel Attention | Xuezhi Xiang et al. | [2409.17908v1](http://arxiv.org/abs/2409.17908v1) | **NULL** |
 | **2024/09/26** | A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru | Chao Min et al. | [2409.17889v1](http://arxiv.org/abs/2409.17889v1) | **NULL** |
 | **2024/09/26** | Optimal Memorization Capacity of Transformers | Tokio Kajitsuka et al. | [2409.17677v1](http://arxiv.org/abs/2409.17677v1) | **NULL** |
@@ -77,7 +77,7 @@ layout: default
 | **2024/09/26** | Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking | Pengcheng Shao et al. | [2409.17560v1](http://arxiv.org/abs/2409.17560v1) | **NULL** |
 | **2024/09/26** | A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation | Masato Ishii et al. | [2409.17550v1](http://arxiv.org/abs/2409.17550v1) | **NULL** |
 | **2024/09/26** | MASSFormer: Mobility-Aware Spectrum Sensing using Transformer-Driven Tiered Structure | Dimpal Janu et al. | [2409.17546v1](http://arxiv.org/abs/2409.17546v1) | **NULL** |
-| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v1](http://arxiv.org/abs/2409.17510v1) | [**link**](https://github.com/Chrisa142857/neuro_detour) |
+| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v2](http://arxiv.org/abs/2409.17510v2) | [**link**](https://github.com/Chrisa142857/neuro_detour) |
 | **2024/09/25** | An Integrated Deep Learning Framework for Effective Brain Tumor Localization, Segmentation, and Classification from Magnetic Resonance Images | Pandiyaraju V et al. | [2409.17273v1](http://arxiv.org/abs/2409.17273v1) | **NULL** |
 | **2024/09/25** | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | Gershom Seneviratne et al. | [2409.17262v2](http://arxiv.org/abs/2409.17262v2) | **NULL** |
 | **2024/09/25** | HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space | Jacob Fein-Ashley et al. | [2409.16897v2](http://arxiv.org/abs/2409.16897v2) | [**link**](https://github.com/hyperbolicvit/hyperbolicvit) |
