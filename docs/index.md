@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/03 09:00:00
+> Updated on 2024/10/04 08:59:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/02** | OmniSR: Shadow Removal under Direct and Indirect Lighting | Jiamin Xu et al. | [2410.01719v1](http://arxiv.org/abs/2410.01719v1) | **NULL** |
+| **2024/10/02** | Saliency-Guided DETR for Moment Retrieval and Highlight Detection | Aleksandr Gordeev et al. | [2410.01615v1](http://arxiv.org/abs/2410.01615v1) | [**link**](https://github.com/ai-forever/sg-detr) |
+| **2024/10/02** | Attention layers provably solve single-location regression | Pierre Marion et al. | [2410.01537v1](http://arxiv.org/abs/2410.01537v1) | [**link**](https://github.com/pierremarion23/single-location-regression) |
+| **2024/10/02** | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | Junwoo Ha et al. | [2410.01531v1](http://arxiv.org/abs/2410.01531v1) | **NULL** |
+| **2024/10/02** | SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data | Aidana Massalimova et al. | [2410.01443v2](http://arxiv.org/abs/2410.01443v2) | **NULL** |
+| **2024/10/02** | Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpoints and Regions | Yutaro Ishida et al. | [2410.01292v1](http://arxiv.org/abs/2410.01292v1) | **NULL** |
+| **2024/10/01** | Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation | Muhammad Hamza Sharif et al. | [2410.01003v1](http://arxiv.org/abs/2410.01003v1) | **NULL** |
+| **2024/10/01** | TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting | Muhammad Hamza Sharif et al. | [2410.00986v1](http://arxiv.org/abs/2410.00986v1) | [**link**](https://github.com/sharifmhamza/transresnet) |
+| **2024/10/01** | Addition is All You Need for Energy-efficient Language Models | Hongyin Luo et al. | [2410.00907v2](http://arxiv.org/abs/2410.00907v2) | **NULL** |
+| **2024/10/01** | WiGNet: Windowed Vision Graph Neural Network | Gabriele Spadaro et al. | [2410.00807v1](http://arxiv.org/abs/2410.00807v1) | [**link**](https://github.com/eidoslab/wignet) |
+| **2024/10/01** | Local-to-Global Self-Supervised Representation Learning for Diabetic Retinopathy Grading | Mostafa Hajighasemloua et al. | [2410.00779v1](http://arxiv.org/abs/2410.00779v1) | **NULL** |
+| **2024/10/01** | Zero-Shot Text-to-Speech from Continuous Text Streams | Trung Dang et al. | [2410.00767v1](http://arxiv.org/abs/2410.00767v1) | **NULL** |
+| **2024/10/01** | The Conformer Encoder May Reverse the Time Dimension | Robin Schmitt et al. | [2410.00680v1](http://arxiv.org/abs/2410.00680v1) | [**link**](https://github.com/rwth-i6/returnn-experiments) |
+| **2024/10/01** | TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neural Dynamics and Behavior | Moein Khajehnejad et al. | [2410.00665v1](http://arxiv.org/abs/2410.00665v1) | **NULL** |
+| **2024/10/01** | Learning Adaptive Hydrodynamic Models Using Neural ODEs in Complex Conditions | Cong Wang et al. | [2410.00490v1](http://arxiv.org/abs/2410.00490v1) | **NULL** |
+| **2024/09/30** | ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning | Jian Shi et al. | [2410.00262v1](http://arxiv.org/abs/2410.00262v1) | **NULL** |
 | **2024/09/30** | Maia-2: A Unified Model for Human-AI Alignment in Chess | Zhenwei Tang et al. | [2409.20553v1](http://arxiv.org/abs/2409.20553v1) | [**link**](https://github.com/lilv98/maia2-submission) |
 | **2024/09/30** | A Self-attention Residual Convolutional Neural Network for Health Condition Classification of Cow Teat Images | Minghao Wang | [2409.19963v1](http://arxiv.org/abs/2409.19963v1) | **NULL** |
 | **2024/09/30** | TokenBinder: Text-Video Retrieval with One-to-Many Alignment Paradigm | Bingqing Zhang et al. | [2409.19865v1](http://arxiv.org/abs/2409.19865v1) | **NULL** |
@@ -67,22 +83,6 @@ layout: default
 | **2024/09/27** | Cottention: Linear Transformers With Cosine Attention | Gabriel Mongaras et al. | [2409.18747v1](http://arxiv.org/abs/2409.18747v1) | [**link**](https://github.com/gmongaras/Cottention_Transformer) |
 | **2024/09/27** | Token Caching for Diffusion Transformer Acceleration | Jinming Lou et al. | [2409.18523v1](http://arxiv.org/abs/2409.18523v1) | **NULL** |
 | **2024/09/26** | Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework | Bangyu Lan et al. | [2409.18266v1](http://arxiv.org/abs/2409.18266v1) | **NULL** |
-| **2024/09/26** | Supra-Laplacian Encoding for Transformer on Dynamic Graphs | Yannis Karmim et al. | [2409.17986v1](http://arxiv.org/abs/2409.17986v1) | **NULL** |
-| **2024/09/26** | Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation | Qihan Huang et al. | [2409.17920v1](http://arxiv.org/abs/2409.17920v1) | [**link**](https://github.com/hqhqaq/mip-adapter) |
-| **2024/09/26** | LKA-ReID:Vehicle Re-Identification with Large Kernel Attention | Xuezhi Xiang et al. | [2409.17908v1](http://arxiv.org/abs/2409.17908v1) | **NULL** |
-| **2024/09/26** | A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru | Chao Min et al. | [2409.17889v1](http://arxiv.org/abs/2409.17889v1) | **NULL** |
-| **2024/09/26** | Optimal Memorization Capacity of Transformers | Tokio Kajitsuka et al. | [2409.17677v1](http://arxiv.org/abs/2409.17677v1) | **NULL** |
-| **2024/09/26** | Hand-object reconstruction via interaction-aware graph attention mechanism | Taeyun Woo et al. | [2409.17629v1](http://arxiv.org/abs/2409.17629v1) | **NULL** |
-| **2024/09/26** | Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism | Keitaro Sakamoto et al. | [2409.17625v1](http://arxiv.org/abs/2409.17625v1) | **NULL** |
-| **2024/09/26** | Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking | Pengcheng Shao et al. | [2409.17560v1](http://arxiv.org/abs/2409.17560v1) | **NULL** |
-| **2024/09/26** | A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation | Masato Ishii et al. | [2409.17550v1](http://arxiv.org/abs/2409.17550v1) | **NULL** |
-| **2024/09/26** | MASSFormer: Mobility-Aware Spectrum Sensing using Transformer-Driven Tiered Structure | Dimpal Janu et al. | [2409.17546v1](http://arxiv.org/abs/2409.17546v1) | **NULL** |
-| **2024/09/26** | NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes | Ziquan Wei et al. | [2409.17510v2](http://arxiv.org/abs/2409.17510v2) | [**link**](https://github.com/Chrisa142857/neuro_detour) |
-| **2024/09/25** | An Integrated Deep Learning Framework for Effective Brain Tumor Localization, Segmentation, and Classification from Magnetic Resonance Images | Pandiyaraju V et al. | [2409.17273v1](http://arxiv.org/abs/2409.17273v1) | **NULL** |
-| **2024/09/25** | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | Gershom Seneviratne et al. | [2409.17262v2](http://arxiv.org/abs/2409.17262v2) | **NULL** |
-| **2024/09/25** | HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space | Jacob Fein-Ashley et al. | [2409.16897v2](http://arxiv.org/abs/2409.16897v2) | [**link**](https://github.com/hyperbolicvit/hyperbolicvit) |
-| **2024/09/25** | Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms | Chun-Jung Lin et al. | [2409.16850v1](http://arxiv.org/abs/2409.16850v1) | **NULL** |
-| **2024/09/25** | Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation | Youngwan Jin et al. | [2409.16706v1](http://arxiv.org/abs/2409.16706v1) | **NULL** |
 
 ## 背景差分
 
