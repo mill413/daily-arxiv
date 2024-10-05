@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/04 08:59:37
+> Updated on 2024/10/05 08:59:19
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/03** | Selective Attention Improves Transformer | Yaniv Leviathan et al. | [2410.02703v1](http://arxiv.org/abs/2410.02703v1) | **NULL** |
+| **2024/10/03** | Deconstructing Recurrence, Attention, and Gating: Investigating the transferability of Transformers and Gated Recurrent Neural Networks in forecasting of dynamical systems | Hunter S. Heidenreich et al. | [2410.02654v1](http://arxiv.org/abs/2410.02654v1) | **NULL** |
+| **2024/10/03** | Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection | Song Li et al. | [2410.02647v1](http://arxiv.org/abs/2410.02647v1) | **NULL** |
+| **2024/10/03** | Long-Sequence Recommendation Models Need Decoupled Embeddings | Ningya Feng et al. | [2410.02604v1](http://arxiv.org/abs/2410.02604v1) | **NULL** |
+| **2024/10/03** | NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms | Gurucharan Marthi Krishna Kumar et al. | [2410.02550v1](http://arxiv.org/abs/2410.02550v1) | **NULL** |
+| **2024/10/03** | MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation | Gurucharan Marthi Krishna Kumar et al. | [2410.02458v1](http://arxiv.org/abs/2410.02458v1) | **NULL** |
+| **2024/10/03** | LoGDesc: Local geometric features aggregation for robust point cloud registration | Karim Slimani et al. | [2410.02420v1](http://arxiv.org/abs/2410.02420v1) | **NULL** |
+| **2024/10/03** | A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | Shubhi Bansal et al. | [2410.02362v1](http://arxiv.org/abs/2410.02362v1) | [**link**](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain) |
+| **2024/10/03** | Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense Wireless Networks | Rongsheng Zhang et al. | [2410.02289v1](http://arxiv.org/abs/2410.02289v1) | **NULL** |
+| **2024/10/03** | CoLLAP: Contrastive Long-form Language-Audio Pretraining with Musical Temporal Structure Augmentation | Junda Wu et al. | [2410.02271v1](http://arxiv.org/abs/2410.02271v1) | **NULL** |
+| **2024/10/03** | Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization | Xinhao Yao et al. | [2410.02247v1](http://arxiv.org/abs/2410.02247v1) | [**link**](https://github.com/chen123CtrlS/LightweightAtt) |
+| **2024/10/03** | HATFormer: Historic Handwritten Arabic Text Recognition with Transformers | Adrian Chan et al. | [2410.02179v1](http://arxiv.org/abs/2410.02179v1) | **NULL** |
+| **2024/10/03** | L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding? | Zecheng Tang et al. | [2410.02115v1](http://arxiv.org/abs/2410.02115v1) | [**link**](https://github.com/ZetangForward/L-CITEEVAL) |
+| **2024/10/02** | Tracking objects that change in appearance with phase synchrony | Sabine Muzellec et al. | [2410.02094v1](http://arxiv.org/abs/2410.02094v1) | **NULL** |
+| **2024/10/02** | Price-guided user attention in large-scale E-commerce group recommendation | Yang Shi et al. | [2410.02074v1](http://arxiv.org/abs/2410.02074v1) | **NULL** |
 | **2024/10/02** | OmniSR: Shadow Removal under Direct and Indirect Lighting | Jiamin Xu et al. | [2410.01719v1](http://arxiv.org/abs/2410.01719v1) | **NULL** |
 | **2024/10/02** | Saliency-Guided DETR for Moment Retrieval and Highlight Detection | Aleksandr Gordeev et al. | [2410.01615v1](http://arxiv.org/abs/2410.01615v1) | [**link**](https://github.com/ai-forever/sg-detr) |
 | **2024/10/02** | Attention layers provably solve single-location regression | Pierre Marion et al. | [2410.01537v1](http://arxiv.org/abs/2410.01537v1) | [**link**](https://github.com/pierremarion23/single-location-regression) |
 | **2024/10/02** | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | Junwoo Ha et al. | [2410.01531v1](http://arxiv.org/abs/2410.01531v1) | **NULL** |
 | **2024/10/02** | SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data | Aidana Massalimova et al. | [2410.01443v2](http://arxiv.org/abs/2410.01443v2) | **NULL** |
 | **2024/10/02** | Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpoints and Regions | Yutaro Ishida et al. | [2410.01292v1](http://arxiv.org/abs/2410.01292v1) | **NULL** |
+| **2024/10/01** | Recovering Time-Varying Networks From Single-Cell Data | Euxhen Hasanaj et al. | [2410.01853v1](http://arxiv.org/abs/2410.01853v1) | **NULL** |
 | **2024/10/01** | Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation | Muhammad Hamza Sharif et al. | [2410.01003v1](http://arxiv.org/abs/2410.01003v1) | **NULL** |
 | **2024/10/01** | TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting | Muhammad Hamza Sharif et al. | [2410.00986v1](http://arxiv.org/abs/2410.00986v1) | [**link**](https://github.com/sharifmhamza/transresnet) |
 | **2024/10/01** | Addition is All You Need for Energy-efficient Language Models | Hongyin Luo et al. | [2410.00907v2](http://arxiv.org/abs/2410.00907v2) | **NULL** |
@@ -67,22 +83,6 @@ layout: default
 | **2024/10/01** | Zero-Shot Text-to-Speech from Continuous Text Streams | Trung Dang et al. | [2410.00767v1](http://arxiv.org/abs/2410.00767v1) | **NULL** |
 | **2024/10/01** | The Conformer Encoder May Reverse the Time Dimension | Robin Schmitt et al. | [2410.00680v1](http://arxiv.org/abs/2410.00680v1) | [**link**](https://github.com/rwth-i6/returnn-experiments) |
 | **2024/10/01** | TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neural Dynamics and Behavior | Moein Khajehnejad et al. | [2410.00665v1](http://arxiv.org/abs/2410.00665v1) | **NULL** |
-| **2024/10/01** | Learning Adaptive Hydrodynamic Models Using Neural ODEs in Complex Conditions | Cong Wang et al. | [2410.00490v1](http://arxiv.org/abs/2410.00490v1) | **NULL** |
-| **2024/09/30** | ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning | Jian Shi et al. | [2410.00262v1](http://arxiv.org/abs/2410.00262v1) | **NULL** |
-| **2024/09/30** | Maia-2: A Unified Model for Human-AI Alignment in Chess | Zhenwei Tang et al. | [2409.20553v1](http://arxiv.org/abs/2409.20553v1) | [**link**](https://github.com/lilv98/maia2-submission) |
-| **2024/09/30** | A Self-attention Residual Convolutional Neural Network for Health Condition Classification of Cow Teat Images | Minghao Wang | [2409.19963v1](http://arxiv.org/abs/2409.19963v1) | **NULL** |
-| **2024/09/30** | TokenBinder: Text-Video Retrieval with One-to-Many Alignment Paradigm | Bingqing Zhang et al. | [2409.19865v1](http://arxiv.org/abs/2409.19865v1) | **NULL** |
-| **2024/09/30** | SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers | Nick Nikzad et al. | [2409.19850v1](http://arxiv.org/abs/2409.19850v1) | **NULL** |
-| **2024/09/29** | Spiking Transformer with Spatial-Temporal Attention | Donghyun Lee et al. | [2409.19764v1](http://arxiv.org/abs/2409.19764v1) | **NULL** |
-| **2024/09/29** | A multimodal LLM for the non-invasive decoding of spoken text from brain recordings | Youssef Hmamouche et al. | [2409.19710v1](http://arxiv.org/abs/2409.19710v1) | **NULL** |
-| **2024/09/29** | Learning Attentional Mixture of LoRAs for Language Model Continual Learning | Jialin Liu et al. | [2409.19611v1](http://arxiv.org/abs/2409.19611v1) | **NULL** |
-| **2024/09/29** | Fully Aligned Network for Referring Image Segmentation | Yong Liu et al. | [2409.19569v1](http://arxiv.org/abs/2409.19569v1) | **NULL** |
-| **2024/09/28** | Intelligent Fish Detection System with Similarity-Aware Transformer | Shengchen Li et al. | [2409.19323v1](http://arxiv.org/abs/2409.19323v1) | **NULL** |
-| **2024/09/28** | Analog In-Memory Computing Attention Mechanism for Fast and Energy-Efficient Large Language Models | Nathan Leroux et al. | [2409.19315v1](http://arxiv.org/abs/2409.19315v1) | **NULL** |
-| **2024/09/28** | Decoding Android Malware with a Fraction of Features: An Attention-Enhanced MLP-SVM Approach | Safayat Bin Hakim et al. | [2409.19234v1](http://arxiv.org/abs/2409.19234v1) | **NULL** |
-| **2024/09/27** | Cottention: Linear Transformers With Cosine Attention | Gabriel Mongaras et al. | [2409.18747v1](http://arxiv.org/abs/2409.18747v1) | [**link**](https://github.com/gmongaras/Cottention_Transformer) |
-| **2024/09/27** | Token Caching for Diffusion Transformer Acceleration | Jinming Lou et al. | [2409.18523v1](http://arxiv.org/abs/2409.18523v1) | **NULL** |
-| **2024/09/26** | Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework | Bangyu Lan et al. | [2409.18266v1](http://arxiv.org/abs/2409.18266v1) | **NULL** |
 
 ## 背景差分
 
