@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/06 09:04:25
+> Updated on 2024/10/07 09:01:39
 
 <summary>Table of Contents</summary>
 
@@ -65,7 +65,7 @@ layout: default
 | **2024/10/03** | CoLLAP: Contrastive Long-form Language-Audio Pretraining with Musical Temporal Structure Augmentation | Junda Wu et al. | [2410.02271v1](http://arxiv.org/abs/2410.02271v1) | **NULL** |
 | **2024/10/03** | Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization | Xinhao Yao et al. | [2410.02247v1](http://arxiv.org/abs/2410.02247v1) | [**link**](https://github.com/chen123CtrlS/LightweightAtt) |
 | **2024/10/03** | HATFormer: Historic Handwritten Arabic Text Recognition with Transformers | Adrian Chan et al. | [2410.02179v1](http://arxiv.org/abs/2410.02179v1) | **NULL** |
-| **2024/10/03** | L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding? | Zecheng Tang et al. | [2410.02115v1](http://arxiv.org/abs/2410.02115v1) | [**link**](https://github.com/ZetangForward/L-CITEEVAL) |
+| **2024/10/03** | L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding? | Zecheng Tang et al. | [2410.02115v2](http://arxiv.org/abs/2410.02115v2) | [**link**](https://github.com/ZetangForward/L-CITEEVAL) |
 | **2024/10/02** | Tracking objects that change in appearance with phase synchrony | Sabine Muzellec et al. | [2410.02094v1](http://arxiv.org/abs/2410.02094v1) | **NULL** |
 | **2024/10/02** | Price-guided user attention in large-scale E-commerce group recommendation | Yang Shi et al. | [2410.02074v1](http://arxiv.org/abs/2410.02074v1) | **NULL** |
 | **2024/10/02** | OmniSR: Shadow Removal under Direct and Indirect Lighting | Jiamin Xu et al. | [2410.01719v1](http://arxiv.org/abs/2410.01719v1) | **NULL** |
