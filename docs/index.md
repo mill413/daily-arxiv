@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/07 09:01:39
+> Updated on 2024/10/08 08:59:29
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/04** | Adaptive Masking Enhances Visual Grounding | Sen Jia et al. | [2410.03161v1](http://arxiv.org/abs/2410.03161v1) | **NULL** |
+| **2024/10/04** | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | Jiecheng Lu et al. | [2410.03159v1](http://arxiv.org/abs/2410.03159v1) | **NULL** |
+| **2024/10/04** | Mamba in Vision: A Comprehensive Survey of Techniques and Applications | Md Maklachur Rahman et al. | [2410.03105v1](http://arxiv.org/abs/2410.03105v1) | [**link**](https://github.com/maklachur/mamba-in-computer-vision) |
+| **2024/10/03** | Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models | Mingxue Xu et al. | [2410.03040v1](http://arxiv.org/abs/2410.03040v1) | **NULL** |
+| **2024/10/03** | GABIC: Graph-based Attention Block for Image Compression | Gabriele Spadaro et al. | [2410.02981v1](http://arxiv.org/abs/2410.02981v1) | **NULL** |
 | **2024/10/03** | Selective Attention Improves Transformer | Yaniv Leviathan et al. | [2410.02703v1](http://arxiv.org/abs/2410.02703v1) | **NULL** |
 | **2024/10/03** | Deconstructing Recurrence, Attention, and Gating: Investigating the transferability of Transformers and Gated Recurrent Neural Networks in forecasting of dynamical systems | Hunter S. Heidenreich et al. | [2410.02654v1](http://arxiv.org/abs/2410.02654v1) | **NULL** |
 | **2024/10/03** | Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection | Song Li et al. | [2410.02647v1](http://arxiv.org/abs/2410.02647v1) | **NULL** |
 | **2024/10/03** | Long-Sequence Recommendation Models Need Decoupled Embeddings | Ningya Feng et al. | [2410.02604v1](http://arxiv.org/abs/2410.02604v1) | **NULL** |
 | **2024/10/03** | NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms | Gurucharan Marthi Krishna Kumar et al. | [2410.02550v1](http://arxiv.org/abs/2410.02550v1) | **NULL** |
-| **2024/10/03** | MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation | Gurucharan Marthi Krishna Kumar et al. | [2410.02458v1](http://arxiv.org/abs/2410.02458v1) | **NULL** |
+| **2024/10/03** | MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation | Gurucharan Marthi Krishna Kumar et al. | [2410.02458v2](http://arxiv.org/abs/2410.02458v2) | **NULL** |
 | **2024/10/03** | LoGDesc: Local geometric features aggregation for robust point cloud registration | Karim Slimani et al. | [2410.02420v1](http://arxiv.org/abs/2410.02420v1) | **NULL** |
 | **2024/10/03** | A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | Shubhi Bansal et al. | [2410.02362v1](http://arxiv.org/abs/2410.02362v1) | [**link**](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain) |
 | **2024/10/03** | Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense Wireless Networks | Rongsheng Zhang et al. | [2410.02289v1](http://arxiv.org/abs/2410.02289v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/10/01** | Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation | Muhammad Hamza Sharif et al. | [2410.01003v1](http://arxiv.org/abs/2410.01003v1) | **NULL** |
 | **2024/10/01** | TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting | Muhammad Hamza Sharif et al. | [2410.00986v1](http://arxiv.org/abs/2410.00986v1) | [**link**](https://github.com/sharifmhamza/transresnet) |
 | **2024/10/01** | Addition is All You Need for Energy-efficient Language Models | Hongyin Luo et al. | [2410.00907v2](http://arxiv.org/abs/2410.00907v2) | **NULL** |
-| **2024/10/01** | WiGNet: Windowed Vision Graph Neural Network | Gabriele Spadaro et al. | [2410.00807v1](http://arxiv.org/abs/2410.00807v1) | [**link**](https://github.com/eidoslab/wignet) |
-| **2024/10/01** | Local-to-Global Self-Supervised Representation Learning for Diabetic Retinopathy Grading | Mostafa Hajighasemloua et al. | [2410.00779v1](http://arxiv.org/abs/2410.00779v1) | **NULL** |
-| **2024/10/01** | Zero-Shot Text-to-Speech from Continuous Text Streams | Trung Dang et al. | [2410.00767v1](http://arxiv.org/abs/2410.00767v1) | **NULL** |
-| **2024/10/01** | The Conformer Encoder May Reverse the Time Dimension | Robin Schmitt et al. | [2410.00680v1](http://arxiv.org/abs/2410.00680v1) | [**link**](https://github.com/rwth-i6/returnn-experiments) |
-| **2024/10/01** | TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neural Dynamics and Behavior | Moein Khajehnejad et al. | [2410.00665v1](http://arxiv.org/abs/2410.00665v1) | **NULL** |
 
 ## 背景差分
 
