@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/10 08:58:59
+> Updated on 2024/10/11 08:59:06
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/09** | InAttention: Linear Context Scaling for Transformers | Joseph Eisner | [2410.07063v1](http://arxiv.org/abs/2410.07063v1) | **NULL** |
+| **2024/10/09** | ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling | Deok-Kyeong Jang et al. | [2410.06963v1](http://arxiv.org/abs/2410.06963v1) | **NULL** |
+| **2024/10/09** | Faithful Interpretation for Graph Neural Networks | Lijie Hu et al. | [2410.06950v1](http://arxiv.org/abs/2410.06950v1) | **NULL** |
+| **2024/10/09** | Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data | Matthew Ashman et al. | [2410.06731v2](http://arxiv.org/abs/2410.06731v2) | **NULL** |
+| **2024/10/09** | MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data | Mingu Kang et al. | [2410.06442v1](http://arxiv.org/abs/2410.06442v1) | **NULL** |
+| **2024/10/08** | Round and Round We Go! What makes Rotary Positional Encodings useful? | Federico Barbero et al. | [2410.06205v1](http://arxiv.org/abs/2410.06205v1) | **NULL** |
+| **2024/10/08** | AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation | Boyuan Cao et al. | [2410.06055v1](http://arxiv.org/abs/2410.06055v1) | **NULL** |
+| **2024/10/08** | Extracting Finite State Machines from Transformers | Rik Adriaensen et al. | [2410.06045v1](http://arxiv.org/abs/2410.06045v1) | **NULL** |
+| **2024/10/08** | TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models | Javier Solís-García et al. | [2410.05916v1](http://arxiv.org/abs/2410.05916v1) | **NULL** |
+| **2024/10/08** | Accelerating Error Correction Code Transformers | Matan Levy et al. | [2410.05911v1](http://arxiv.org/abs/2410.05911v1) | [**link**](https://github.com/mlaetvayn/aecct) |
+| **2024/10/07** | Chain and Causal Attention for Efficient Entity Tracking | Erwan Fagnou et al. | [2410.05565v1](http://arxiv.org/abs/2410.05565v1) | **NULL** |
+| **2024/10/07** | LevAttention: Time, Space, and Streaming Efficient Algorithm for Heavy Attentions | Ravindran Kannan et al. | [2410.05462v1](http://arxiv.org/abs/2410.05462v1) | **NULL** |
 | **2024/10/07** | Differential Transformer | Tianzhu Ye et al. | [2410.05258v1](http://arxiv.org/abs/2410.05258v1) | **NULL** |
 | **2024/10/07** | MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain | Timothy Chase Jr et al. | [2410.05182v1](http://arxiv.org/abs/2410.05182v1) | **NULL** |
 | **2024/10/07** | HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments | Junming Wang et al. | [2410.05079v1](http://arxiv.org/abs/2410.05079v1) | **NULL** |
@@ -60,7 +72,7 @@ layout: default
 | **2024/10/07** | Real-time Ship Recognition and Georeferencing for the Improvement of Maritime Situational Awareness | Borja Carrillo Perez | [2410.04946v1](http://arxiv.org/abs/2410.04946v1) | **NULL** |
 | **2024/10/07** | Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models | Dehong Kong et al. | [2410.04884v1](http://arxiv.org/abs/2410.04884v1) | **NULL** |
 | **2024/10/07** | Causal Context Adjustment Loss for Learned Image Compression | Minghao Han et al. | [2410.04847v1](http://arxiv.org/abs/2410.04847v1) | [**link**](https://github.com/LabShuHangGU/CCA) |
-| **2024/10/07** | DAPE V2: Process Attention Score as Feature Map for Length Extrapolation | Chuanyang Zheng et al. | [2410.04798v1](http://arxiv.org/abs/2410.04798v1) | [**link**](https://github.com/chuanyang-zheng/dape) |
+| **2024/10/07** | DAPE V2: Process Attention Score as Feature Map for Length Extrapolation | Chuanyang Zheng et al. | [2410.04798v3](http://arxiv.org/abs/2410.04798v3) | [**link**](https://github.com/chuanyang-zheng/dape) |
 | **2024/10/07** | GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA | Xinyu Wang et al. | [2410.04790v1](http://arxiv.org/abs/2410.04790v1) | **NULL** |
 | **2024/10/07** | Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality | Guanyu Zhou et al. | [2410.04780v1](http://arxiv.org/abs/2410.04780v1) | [**link**](https://github.com/the-martyr/causalmm) |
 | **2024/10/07** | PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners | Yujin Tang et al. | [2410.04733v1](http://arxiv.org/abs/2410.04733v1) | [**link**](https://github.com/yyyujintang/predformer) |
@@ -71,18 +83,6 @@ layout: default
 | **2024/10/05** | Fundamental Limitations on Subquadratic Alternatives to Transformers | Josh Alman et al. | [2410.04271v1](http://arxiv.org/abs/2410.04271v1) | **NULL** |
 | **2024/10/05** | Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension | Ning Wang et al. | [2410.04211v1](http://arxiv.org/abs/2410.04211v1) | **NULL** |
 | **2024/10/05** | Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer | Tomoki Honda et al. | [2410.04159v1](http://arxiv.org/abs/2410.04159v1) | [**link**](https://github.com/mirrormouse/hybrid-h3-conformer) |
-| **2024/10/05** | Trajectory Design and Resource Allocation for Multi-UAV-Assisted Sensing, Communication, and Edge Computing Integration | Sicong Peng et al. | [2410.04151v1](http://arxiv.org/abs/2410.04151v1) | **NULL** |
-| **2024/10/05** | Optimizing Medical Image Segmentation with Advanced Decoder Design | Weibin Yang et al. | [2410.04128v1](http://arxiv.org/abs/2410.04128v1) | **NULL** |
-| **2024/10/05** | PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation | Libo Zhao et al. | [2410.04075v1](http://arxiv.org/abs/2410.04075v1) | **NULL** |
-| **2024/10/05** | Efficient Large-Scale Urban Parking Prediction: Graph Coarsening Based on Real-Time Parking Service Capability | Yixuan Wang et al. | [2410.04022v1](http://arxiv.org/abs/2410.04022v1) | **NULL** |
-| **2024/10/04** | SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation | Amir Eskandari et al. | [2410.03954v1](http://arxiv.org/abs/2410.03954v1) | **NULL** |
-| **2024/10/04** | Local Attention Mechanism: Boosting the Transformer Architecture for Long-Sequence Time Series Forecasting | Ignacio Aguilera-Martos et al. | [2410.03805v1](http://arxiv.org/abs/2410.03805v1) | **NULL** |
-| **2024/10/04** | Adaptive Masking Enhances Visual Grounding | Sen Jia et al. | [2410.03161v1](http://arxiv.org/abs/2410.03161v1) | **NULL** |
-| **2024/10/04** | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | Jiecheng Lu et al. | [2410.03159v1](http://arxiv.org/abs/2410.03159v1) | [**link**](https://github.com/ljc-fvnr/arma-attention) |
-| **2024/10/04** | Mamba in Vision: A Comprehensive Survey of Techniques and Applications | Md Maklachur Rahman et al. | [2410.03105v1](http://arxiv.org/abs/2410.03105v1) | [**link**](https://github.com/maklachur/mamba-in-computer-vision) |
-| **2024/10/03** | Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models | Mingxue Xu et al. | [2410.03040v1](http://arxiv.org/abs/2410.03040v1) | **NULL** |
-| **2024/10/03** | GABIC: Graph-based Attention Block for Image Compression | Gabriele Spadaro et al. | [2410.02981v1](http://arxiv.org/abs/2410.02981v1) | [**link**](https://github.com/EIDOSLAB/GABIC) |
-| **2024/10/03** | Selective Attention Improves Transformer | Yaniv Leviathan et al. | [2410.02703v1](http://arxiv.org/abs/2410.02703v1) | **NULL** |
 
 ## 背景差分
 
