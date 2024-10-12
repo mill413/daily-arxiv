@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/11 08:59:06
+> Updated on 2024/10/12 08:58:04
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v1](http://arxiv.org/abs/2410.07442v1) | **NULL** |
+| **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 | **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v1](http://arxiv.org/abs/2409.14028v1) | [**link**](https://github.com/caiguohui123/msdet) |
 | **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | **NULL** |
 | **2024/09/06** | BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection | Yangguang Chen et al. | [2409.04025v1](http://arxiv.org/abs/2409.04025v1) | **NULL** |
@@ -46,13 +48,16 @@ layout: default
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 | **2024/02/01** | Vehicle Perception from Satellite | Bin Zhao et al. | [2402.00703v1](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
-| **2024/01/16** | Robust Tiny Object Detection in Aerial Images amidst Label Noise | Haoran Zhu et al. | [2401.08056v1](http://arxiv.org/abs/2401.08056v1) | [**link**](https://github.com/ZhuHaoranEIS/DN-TOD) |
-| **2024/01/16** | Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion | Ji Huang et al. | [2401.08017v1](http://arxiv.org/abs/2401.08017v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/10** | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration | Hsing-Hua Wang et al. | [2410.08177v1](http://arxiv.org/abs/2410.08177v1) | **NULL** |
+| **2024/10/10** | Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection | Moirangthem Tiken Singh et al. | [2410.08121v1](http://arxiv.org/abs/2410.08121v1) | **NULL** |
+| **2024/10/10** | BA-Net: Bridge Attention in Deep Neural Networks | Ronghui Zhang et al. | [2410.07860v1](http://arxiv.org/abs/2410.07860v1) | **NULL** |
+| **2024/10/10** | Comprehensive Online Training and Deployment for Spiking Neural Networks | Zecheng Hao et al. | [2410.07547v1](http://arxiv.org/abs/2410.07547v1) | **NULL** |
+| **2024/10/10** | Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare | Nan Fang et al. | [2410.07525v1](http://arxiv.org/abs/2410.07525v1) | **NULL** |
 | **2024/10/09** | InAttention: Linear Context Scaling for Transformers | Joseph Eisner | [2410.07063v1](http://arxiv.org/abs/2410.07063v1) | **NULL** |
 | **2024/10/09** | ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling | Deok-Kyeong Jang et al. | [2410.06963v1](http://arxiv.org/abs/2410.06963v1) | **NULL** |
 | **2024/10/09** | Faithful Interpretation for Graph Neural Networks | Lijie Hu et al. | [2410.06950v1](http://arxiv.org/abs/2410.06950v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/10/07** | PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners | Yujin Tang et al. | [2410.04733v1](http://arxiv.org/abs/2410.04733v1) | [**link**](https://github.com/yyyujintang/predformer) |
 | **2024/10/06** | DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination | Xuan Gong et al. | [2410.04514v1](http://arxiv.org/abs/2410.04514v1) | **NULL** |
 | **2024/10/06** | An Attention-Based Algorithm for Gravity Adaptation Zone Calibration | Chen Yu | [2410.04457v1](http://arxiv.org/abs/2410.04457v1) | **NULL** |
-| **2024/10/06** | Video Summarization Techniques: A Comprehensive Review | Toqa Alaa et al. | [2410.04449v1](http://arxiv.org/abs/2410.04449v1) | **NULL** |
-| **2024/10/05** | Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis | Mengfang Sun et al. | [2410.04283v1](http://arxiv.org/abs/2410.04283v1) | **NULL** |
-| **2024/10/05** | Fundamental Limitations on Subquadratic Alternatives to Transformers | Josh Alman et al. | [2410.04271v1](http://arxiv.org/abs/2410.04271v1) | **NULL** |
-| **2024/10/05** | Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension | Ning Wang et al. | [2410.04211v1](http://arxiv.org/abs/2410.04211v1) | **NULL** |
-| **2024/10/05** | Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer | Tomoki Honda et al. | [2410.04159v1](http://arxiv.org/abs/2410.04159v1) | [**link**](https://github.com/mirrormouse/hybrid-h3-conformer) |
 
 ## 背景差分
 
