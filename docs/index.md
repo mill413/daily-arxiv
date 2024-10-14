@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/13 09:03:56
+> Updated on 2024/10/14 09:01:24
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v1](http://arxiv.org/abs/2410.07442v1) | **NULL** |
+| **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
 | **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 | **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v1](http://arxiv.org/abs/2409.14028v1) | [**link**](https://github.com/caiguohui123/msdet) |
 | **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | **NULL** |
@@ -55,16 +55,16 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/10/10** | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration | Hsing-Hua Wang et al. | [2410.08177v1](http://arxiv.org/abs/2410.08177v1) | **NULL** |
 | **2024/10/10** | Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection | Moirangthem Tiken Singh et al. | [2410.08121v1](http://arxiv.org/abs/2410.08121v1) | **NULL** |
-| **2024/10/10** | BA-Net: Bridge Attention in Deep Neural Networks | Ronghui Zhang et al. | [2410.07860v1](http://arxiv.org/abs/2410.07860v1) | **NULL** |
+| **2024/10/10** | BA-Net: Bridge Attention in Deep Neural Networks | Ronghui Zhang et al. | [2410.07860v2](http://arxiv.org/abs/2410.07860v2) | **NULL** |
 | **2024/10/10** | Comprehensive Online Training and Deployment for Spiking Neural Networks | Zecheng Hao et al. | [2410.07547v1](http://arxiv.org/abs/2410.07547v1) | **NULL** |
 | **2024/10/10** | Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare | Nan Fang et al. | [2410.07525v1](http://arxiv.org/abs/2410.07525v1) | **NULL** |
 | **2024/10/09** | InAttention: Linear Context Scaling for Transformers | Joseph Eisner | [2410.07063v1](http://arxiv.org/abs/2410.07063v1) | **NULL** |
-| **2024/10/09** | ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling | Deok-Kyeong Jang et al. | [2410.06963v1](http://arxiv.org/abs/2410.06963v1) | **NULL** |
+| **2024/10/09** | ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling | Deok-Kyeong Jang et al. | [2410.06963v2](http://arxiv.org/abs/2410.06963v2) | **NULL** |
 | **2024/10/09** | Faithful Interpretation for Graph Neural Networks | Lijie Hu et al. | [2410.06950v1](http://arxiv.org/abs/2410.06950v1) | **NULL** |
 | **2024/10/09** | Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data | Matthew Ashman et al. | [2410.06731v2](http://arxiv.org/abs/2410.06731v2) | **NULL** |
 | **2024/10/09** | MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data | Mingu Kang et al. | [2410.06442v1](http://arxiv.org/abs/2410.06442v1) | **NULL** |
 | **2024/10/08** | Round and Round We Go! What makes Rotary Positional Encodings useful? | Federico Barbero et al. | [2410.06205v1](http://arxiv.org/abs/2410.06205v1) | **NULL** |
-| **2024/10/08** | AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation | Boyuan Cao et al. | [2410.06055v1](http://arxiv.org/abs/2410.06055v1) | **NULL** |
+| **2024/10/08** | AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation | Boyuan Cao et al. | [2410.06055v1](http://arxiv.org/abs/2410.06055v1) | [**link**](https://github.com/kmittle/ap-ldm) |
 | **2024/10/08** | Extracting Finite State Machines from Transformers | Rik Adriaensen et al. | [2410.06045v1](http://arxiv.org/abs/2410.06045v1) | **NULL** |
 | **2024/10/08** | TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models | Javier Solís-García et al. | [2410.05916v1](http://arxiv.org/abs/2410.05916v1) | **NULL** |
 | **2024/10/08** | Accelerating Error Correction Code Transformers | Matan Levy et al. | [2410.05911v1](http://arxiv.org/abs/2410.05911v1) | [**link**](https://github.com/mlaetvayn/aecct) |
