@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/14 09:01:24
+> Updated on 2024/10/15 09:00:26
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/11** | Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient | Wenlong Wang et al. | [2410.08893v1](http://arxiv.org/abs/2410.08893v1) | [**link**](https://github.com/realwenlongwang/drama) |
+| **2024/10/11** | Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion | Shiao Wang et al. | [2410.08879v1](http://arxiv.org/abs/2410.08879v1) | **NULL** |
+| **2024/10/11** | On-Chip Learning via Transformer In-Context Learning | Jan Finkbeiner et al. | [2410.08711v1](http://arxiv.org/abs/2410.08711v1) | **NULL** |
+| **2024/10/11** | Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation | Yishan Lv et al. | [2410.08626v1](http://arxiv.org/abs/2410.08626v1) | **NULL** |
+| **2024/10/11** | ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression | Yefei He et al. | [2410.08584v1](http://arxiv.org/abs/2410.08584v1) | **NULL** |
+| **2024/10/11** | VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking | Zekun Qian et al. | [2410.08529v1](http://arxiv.org/abs/2410.08529v1) | **NULL** |
 | **2024/10/10** | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration | Hsing-Hua Wang et al. | [2410.08177v1](http://arxiv.org/abs/2410.08177v1) | **NULL** |
 | **2024/10/10** | Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection | Moirangthem Tiken Singh et al. | [2410.08121v1](http://arxiv.org/abs/2410.08121v1) | **NULL** |
 | **2024/10/10** | BA-Net: Bridge Attention in Deep Neural Networks | Ronghui Zhang et al. | [2410.07860v2](http://arxiv.org/abs/2410.07860v2) | **NULL** |
+| **2024/10/10** | Self-Attention Mechanism in Multimodal Context for Banking Transaction Flow | Cyrile Delestre et al. | [2410.08243v1](http://arxiv.org/abs/2410.08243v1) | **NULL** |
 | **2024/10/10** | Comprehensive Online Training and Deployment for Spiking Neural Networks | Zecheng Hao et al. | [2410.07547v1](http://arxiv.org/abs/2410.07547v1) | **NULL** |
 | **2024/10/10** | Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare | Nan Fang et al. | [2410.07525v1](http://arxiv.org/abs/2410.07525v1) | **NULL** |
 | **2024/10/09** | InAttention: Linear Context Scaling for Transformers | Joseph Eisner | [2410.07063v1](http://arxiv.org/abs/2410.07063v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/10/07** | TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention | Lijie Yang et al. | [2410.05076v1](http://arxiv.org/abs/2410.05076v1) | [**link**](https://github.com/DerrickYLJ/TidalDecode) |
 | **2024/10/07** | Real-time Ship Recognition and Georeferencing for the Improvement of Maritime Situational Awareness | Borja Carrillo Perez | [2410.04946v1](http://arxiv.org/abs/2410.04946v1) | **NULL** |
 | **2024/10/07** | Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models | Dehong Kong et al. | [2410.04884v1](http://arxiv.org/abs/2410.04884v1) | **NULL** |
-| **2024/10/07** | Causal Context Adjustment Loss for Learned Image Compression | Minghao Han et al. | [2410.04847v1](http://arxiv.org/abs/2410.04847v1) | [**link**](https://github.com/LabShuHangGU/CCA) |
-| **2024/10/07** | DAPE V2: Process Attention Score as Feature Map for Length Extrapolation | Chuanyang Zheng et al. | [2410.04798v3](http://arxiv.org/abs/2410.04798v3) | [**link**](https://github.com/chuanyang-zheng/dape) |
-| **2024/10/07** | GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA | Xinyu Wang et al. | [2410.04790v1](http://arxiv.org/abs/2410.04790v1) | **NULL** |
-| **2024/10/07** | Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality | Guanyu Zhou et al. | [2410.04780v1](http://arxiv.org/abs/2410.04780v1) | [**link**](https://github.com/the-martyr/causalmm) |
-| **2024/10/07** | PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners | Yujin Tang et al. | [2410.04733v1](http://arxiv.org/abs/2410.04733v1) | [**link**](https://github.com/yyyujintang/predformer) |
-| **2024/10/06** | DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination | Xuan Gong et al. | [2410.04514v1](http://arxiv.org/abs/2410.04514v1) | **NULL** |
-| **2024/10/06** | An Attention-Based Algorithm for Gravity Adaptation Zone Calibration | Chen Yu | [2410.04457v1](http://arxiv.org/abs/2410.04457v1) | **NULL** |
 
 ## 背景差分
 
