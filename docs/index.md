@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/15 09:00:26
+> Updated on 2024/10/16 09:00:18
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/14** | SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization | Akrit Mudvari et al. | [2410.10759v1](http://arxiv.org/abs/2410.10759v1) | **NULL** |
+| **2024/10/14** | 4-LEGS: 4D Language Embedded Gaussian Splatting | Gal Fiebelman et al. | [2410.10719v2](http://arxiv.org/abs/2410.10719v2) | **NULL** |
+| **2024/10/14** | KBLaM: Knowledge Base augmented Language Model | Xi Wang et al. | [2410.10450v1](http://arxiv.org/abs/2410.10450v1) | **NULL** |
+| **2024/10/14** | Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution | Pengzhou Cai et al. | [2410.10352v2](http://arxiv.org/abs/2410.10352v2) | **NULL** |
+| **2024/10/14** | HSR-Enhanced Sparse Attention Acceleration | Bo Chen et al. | [2410.10165v1](http://arxiv.org/abs/2410.10165v1) | **NULL** |
+| **2024/10/14** | TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control | Weichao Zeng et al. | [2410.10133v1](http://arxiv.org/abs/2410.10133v1) | [**link**](https://github.com/weichaozeng/textctrl) |
+| **2024/10/13** | ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing | Yuduo Wang et al. | [2410.10047v2](http://arxiv.org/abs/2410.10047v2) | **NULL** |
+| **2024/10/13** | DAG-aware Transformer for Causal Effect Estimation | Manqing Liu et al. | [2410.10044v1](http://arxiv.org/abs/2410.10044v1) | **NULL** |
+| **2024/10/13** | Online Multi-modal Root Cause Analysis | Lecheng Zheng et al. | [2410.10021v1](http://arxiv.org/abs/2410.10021v1) | **NULL** |
+| **2024/10/13** | TextMaster: Universal Controllable Text Edit | Aoqiang Wang et al. | [2410.09879v1](http://arxiv.org/abs/2410.09879v1) | **NULL** |
+| **2024/10/13** | EEG-based AI-BCI Wheelchair Advancement: A Brain-Computer Interfacing Wheelchair System Using Machine Learning Mechanism with Right and Left Voluntary Hand Movement | Biplov Paneru et al. | [2410.09763v1](http://arxiv.org/abs/2410.09763v1) | **NULL** |
+| **2024/10/13** | Gain Cell-Based Analog Content Addressable Memory for Dynamic Associative tasks in AI | Paul-Philipp Manea et al. | [2410.09755v1](http://arxiv.org/abs/2410.09755v1) | **NULL** |
+| **2024/10/12** | Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images | Yi Xiao et al. | [2410.09539v1](http://arxiv.org/abs/2410.09539v1) | **NULL** |
+| **2024/10/12** | Fine-grained Attention I/O Complexity: Comprehensive Analysis for Backward Passes | Xiaoyu Li et al. | [2410.09397v1](http://arxiv.org/abs/2410.09397v1) | **NULL** |
+| **2024/10/12** | Looped ReLU MLPs May Be All You Need as Practical Programmable Computers | Yingyu Liang et al. | [2410.09375v1](http://arxiv.org/abs/2410.09375v1) | **NULL** |
+| **2024/10/12** | Fusion Matrix Prompt Enhanced Self-Attention Spatial-Temporal Interactive Traffic Forecasting Framework | Mu Liu et al. | [2410.09356v1](http://arxiv.org/abs/2410.09356v1) | **NULL** |
 | **2024/10/11** | Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient | Wenlong Wang et al. | [2410.08893v1](http://arxiv.org/abs/2410.08893v1) | [**link**](https://github.com/realwenlongwang/drama) |
 | **2024/10/11** | Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion | Shiao Wang et al. | [2410.08879v1](http://arxiv.org/abs/2410.08879v1) | **NULL** |
 | **2024/10/11** | On-Chip Learning via Transformer In-Context Learning | Jan Finkbeiner et al. | [2410.08711v1](http://arxiv.org/abs/2410.08711v1) | **NULL** |
-| **2024/10/11** | Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation | Yishan Lv et al. | [2410.08626v1](http://arxiv.org/abs/2410.08626v1) | **NULL** |
+| **2024/10/11** | Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation | Yishan Lv et al. | [2410.08626v2](http://arxiv.org/abs/2410.08626v2) | **NULL** |
 | **2024/10/11** | ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression | Yefei He et al. | [2410.08584v1](http://arxiv.org/abs/2410.08584v1) | **NULL** |
 | **2024/10/11** | VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking | Zekun Qian et al. | [2410.08529v1](http://arxiv.org/abs/2410.08529v1) | **NULL** |
 | **2024/10/10** | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration | Hsing-Hua Wang et al. | [2410.08177v1](http://arxiv.org/abs/2410.08177v1) | **NULL** |
@@ -64,25 +80,9 @@ layout: default
 | **2024/10/10** | BA-Net: Bridge Attention in Deep Neural Networks | Ronghui Zhang et al. | [2410.07860v2](http://arxiv.org/abs/2410.07860v2) | **NULL** |
 | **2024/10/10** | Self-Attention Mechanism in Multimodal Context for Banking Transaction Flow | Cyrile Delestre et al. | [2410.08243v1](http://arxiv.org/abs/2410.08243v1) | **NULL** |
 | **2024/10/10** | Comprehensive Online Training and Deployment for Spiking Neural Networks | Zecheng Hao et al. | [2410.07547v1](http://arxiv.org/abs/2410.07547v1) | **NULL** |
-| **2024/10/10** | Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare | Nan Fang et al. | [2410.07525v1](http://arxiv.org/abs/2410.07525v1) | **NULL** |
+| **2024/10/10** | Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare | Nan Fang et al. | [2410.07525v2](http://arxiv.org/abs/2410.07525v2) | **NULL** |
 | **2024/10/09** | InAttention: Linear Context Scaling for Transformers | Joseph Eisner | [2410.07063v1](http://arxiv.org/abs/2410.07063v1) | **NULL** |
 | **2024/10/09** | ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling | Deok-Kyeong Jang et al. | [2410.06963v2](http://arxiv.org/abs/2410.06963v2) | **NULL** |
-| **2024/10/09** | Faithful Interpretation for Graph Neural Networks | Lijie Hu et al. | [2410.06950v1](http://arxiv.org/abs/2410.06950v1) | **NULL** |
-| **2024/10/09** | Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data | Matthew Ashman et al. | [2410.06731v2](http://arxiv.org/abs/2410.06731v2) | **NULL** |
-| **2024/10/09** | MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data | Mingu Kang et al. | [2410.06442v1](http://arxiv.org/abs/2410.06442v1) | **NULL** |
-| **2024/10/08** | Round and Round We Go! What makes Rotary Positional Encodings useful? | Federico Barbero et al. | [2410.06205v1](http://arxiv.org/abs/2410.06205v1) | **NULL** |
-| **2024/10/08** | AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation | Boyuan Cao et al. | [2410.06055v1](http://arxiv.org/abs/2410.06055v1) | [**link**](https://github.com/kmittle/ap-ldm) |
-| **2024/10/08** | Extracting Finite State Machines from Transformers | Rik Adriaensen et al. | [2410.06045v1](http://arxiv.org/abs/2410.06045v1) | **NULL** |
-| **2024/10/08** | TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models | Javier Solís-García et al. | [2410.05916v1](http://arxiv.org/abs/2410.05916v1) | **NULL** |
-| **2024/10/08** | Accelerating Error Correction Code Transformers | Matan Levy et al. | [2410.05911v1](http://arxiv.org/abs/2410.05911v1) | [**link**](https://github.com/mlaetvayn/aecct) |
-| **2024/10/07** | Chain and Causal Attention for Efficient Entity Tracking | Erwan Fagnou et al. | [2410.05565v1](http://arxiv.org/abs/2410.05565v1) | **NULL** |
-| **2024/10/07** | LevAttention: Time, Space, and Streaming Efficient Algorithm for Heavy Attentions | Ravindran Kannan et al. | [2410.05462v1](http://arxiv.org/abs/2410.05462v1) | **NULL** |
-| **2024/10/07** | Differential Transformer | Tianzhu Ye et al. | [2410.05258v1](http://arxiv.org/abs/2410.05258v1) | **NULL** |
-| **2024/10/07** | MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain | Timothy Chase Jr et al. | [2410.05182v1](http://arxiv.org/abs/2410.05182v1) | **NULL** |
-| **2024/10/07** | HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments | Junming Wang et al. | [2410.05079v1](http://arxiv.org/abs/2410.05079v1) | **NULL** |
-| **2024/10/07** | TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention | Lijie Yang et al. | [2410.05076v1](http://arxiv.org/abs/2410.05076v1) | [**link**](https://github.com/DerrickYLJ/TidalDecode) |
-| **2024/10/07** | Real-time Ship Recognition and Georeferencing for the Improvement of Maritime Situational Awareness | Borja Carrillo Perez | [2410.04946v1](http://arxiv.org/abs/2410.04946v1) | **NULL** |
-| **2024/10/07** | Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models | Dehong Kong et al. | [2410.04884v1](http://arxiv.org/abs/2410.04884v1) | **NULL** |
 
 ## 背景差分
 
