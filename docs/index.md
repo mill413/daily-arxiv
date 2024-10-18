@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/17 08:59:27
+> Updated on 2024/10/18 08:59:31
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/16** | SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation | Jaehong Yoon et al. | [2410.12761v1](http://arxiv.org/abs/2410.12761v1) | **NULL** |
+| **2024/10/16** | Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing | Mingce Guo et al. | [2410.12526v1](http://arxiv.org/abs/2410.12526v1) | **NULL** |
+| **2024/10/16** | iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System | Xiaowei Jiang et al. | [2410.12267v1](http://arxiv.org/abs/2410.12267v1) | **NULL** |
+| **2024/10/16** | CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching | Xingjian Wu et al. | [2410.12261v1](http://arxiv.org/abs/2410.12261v1) | **NULL** |
+| **2024/10/16** | EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View | Zhaorong Wang et al. | [2410.12242v1](http://arxiv.org/abs/2410.12242v1) | **NULL** |
+| **2024/10/16** | Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations | Luyi Ma et al. | [2410.12228v1](http://arxiv.org/abs/2410.12228v1) | **NULL** |
+| **2024/10/16** | ExoTST: Exogenous-Aware Temporal Sequence Transformer for Time Series Prediction | Kshitij Tayal et al. | [2410.12184v1](http://arxiv.org/abs/2410.12184v1) | **NULL** |
+| **2024/10/15** | A Survey on Deep Tabular Learning | Shriyank Somvanshi et al. | [2410.12034v1](http://arxiv.org/abs/2410.12034v1) | **NULL** |
 | **2024/10/15** | MoH: Multi-Head Attention as Mixture-of-Head Attention | Peng Jin et al. | [2410.11842v1](http://arxiv.org/abs/2410.11842v1) | [**link**](https://github.com/skyworkai/moh) |
-| **2024/10/15** | Light-Weight Fault Tolerant Attention for Large Language Model Training | Yuhang Liang et al. | [2410.11720v1](http://arxiv.org/abs/2410.11720v1) | **NULL** |
+| **2024/10/15** | Light-Weight Fault Tolerant Attention for Large Language Model Training | Yuhang Liang et al. | [2410.11720v2](http://arxiv.org/abs/2410.11720v2) | **NULL** |
 | **2024/10/15** | Point-Calibrated Spectral Neural Operators | Xihang Yue et al. | [2410.11382v1](http://arxiv.org/abs/2410.11382v1) | **NULL** |
 | **2024/10/15** | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | Seongho Kim et al. | [2410.11381v1](http://arxiv.org/abs/2410.11381v1) | **NULL** |
 | **2024/10/15** | SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection | Shuhan Dong et al. | [2410.11358v1](http://arxiv.org/abs/2410.11358v1) | **NULL** |
@@ -64,7 +72,7 @@ layout: default
 | **2024/10/15** | Quadratic Gating Functions in Mixture of Experts: A Statistical Insight | Pedram Akbarian et al. | [2410.11222v2](http://arxiv.org/abs/2410.11222v2) | **NULL** |
 | **2024/10/15** | Improving Bias in Facial Attribute Classification: A Combined Impact of KL Divergence induced Loss Function and Dual Attention | Shweta Patel et al. | [2410.11176v1](http://arxiv.org/abs/2410.11176v1) | **NULL** |
 | **2024/10/14** | ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera | Jing Liang et al. | [2410.11019v1](http://arxiv.org/abs/2410.11019v1) | **NULL** |
-| **2024/10/14** | SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization | Akrit Mudvari et al. | [2410.10759v1](http://arxiv.org/abs/2410.10759v1) | **NULL** |
+| **2024/10/14** | SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization | Akrit Mudvari et al. | [2410.10759v2](http://arxiv.org/abs/2410.10759v2) | **NULL** |
 | **2024/10/14** | KBLaM: Knowledge Base augmented Language Model | Xi Wang et al. | [2410.10450v1](http://arxiv.org/abs/2410.10450v1) | **NULL** |
 | **2024/10/14** | Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution | Pengzhou Cai et al. | [2410.10352v2](http://arxiv.org/abs/2410.10352v2) | **NULL** |
 | **2024/10/14** | HSR-Enhanced Sparse Attention Acceleration | Bo Chen et al. | [2410.10165v1](http://arxiv.org/abs/2410.10165v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/10/13** | TextMaster: Universal Controllable Text Edit | Aoqiang Wang et al. | [2410.09879v1](http://arxiv.org/abs/2410.09879v1) | **NULL** |
 | **2024/10/13** | EEG-based AI-BCI Wheelchair Advancement: A Brain-Computer Interfacing Wheelchair System Using Machine Learning Mechanism with Right and Left Voluntary Hand Movement | Biplov Paneru et al. | [2410.09763v1](http://arxiv.org/abs/2410.09763v1) | **NULL** |
 | **2024/10/13** | Gain Cell-Based Analog Content Addressable Memory for Dynamic Associative tasks in AI | Paul-Philipp Manea et al. | [2410.09755v1](http://arxiv.org/abs/2410.09755v1) | **NULL** |
-| **2024/10/13** | STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation | Vamsi Krishna Vasa et al. | [2410.11578v1](http://arxiv.org/abs/2410.11578v1) | **NULL** |
-| **2024/10/12** | Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images | Yi Xiao et al. | [2410.09539v1](http://arxiv.org/abs/2410.09539v1) | **NULL** |
-| **2024/10/12** | Fine-grained Attention I/O Complexity: Comprehensive Analysis for Backward Passes | Xiaoyu Li et al. | [2410.09397v1](http://arxiv.org/abs/2410.09397v1) | **NULL** |
-| **2024/10/12** | Looped ReLU MLPs May Be All You Need as Practical Programmable Computers | Yingyu Liang et al. | [2410.09375v1](http://arxiv.org/abs/2410.09375v1) | **NULL** |
-| **2024/10/12** | Fusion Matrix Prompt Enhanced Self-Attention Spatial-Temporal Interactive Traffic Forecasting Framework | Mu Liu et al. | [2410.09356v1](http://arxiv.org/abs/2410.09356v1) | **NULL** |
-| **2024/10/11** | Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient | Wenlong Wang et al. | [2410.08893v1](http://arxiv.org/abs/2410.08893v1) | [**link**](https://github.com/realwenlongwang/drama) |
-| **2024/10/11** | Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion | Shiao Wang et al. | [2410.08879v1](http://arxiv.org/abs/2410.08879v1) | **NULL** |
-| **2024/10/11** | On-Chip Learning via Transformer In-Context Learning | Jan Finkbeiner et al. | [2410.08711v1](http://arxiv.org/abs/2410.08711v1) | **NULL** |
 
 ## 背景差分
 
