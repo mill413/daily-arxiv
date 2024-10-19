@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/18 08:59:31
+> Updated on 2024/10/19 08:59:06
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/17** | Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | Lijie Fan et al. | [2410.13863v1](http://arxiv.org/abs/2410.13863v1) | **NULL** |
+| **2024/10/17** | Artificial Kuramoto Oscillatory Neurons | Takeru Miyato et al. | [2410.13821v1](http://arxiv.org/abs/2410.13821v1) | [**link**](https://github.com/autonomousvision/akorn) |
+| **2024/10/17** | Reducing the Transformer Architecture to a Minimum | Bernhard Bermeitinger et al. | [2410.13732v1](http://arxiv.org/abs/2410.13732v1) | **NULL** |
+| **2024/10/17** | On the Role of Attention Heads in Large Language Model Safety | Zhenhong Zhou et al. | [2410.13708v1](http://arxiv.org/abs/2410.13708v1) | **NULL** |
+| **2024/10/17** | DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition | Demetris Shianios et al. | [2410.13663v1](http://arxiv.org/abs/2410.13663v1) | **NULL** |
+| **2024/10/17** | Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring | Kristina Telegraph et al. | [2410.13616v1](http://arxiv.org/abs/2410.13616v1) | **NULL** |
+| **2024/10/17** | Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques | Rahimanuddin Shaik et al. | [2410.13498v1](http://arxiv.org/abs/2410.13498v1) | **NULL** |
+| **2024/10/17** | Precipitation Nowcasting Using Diffusion Transformer with Causal Attention | ChaoRong Li et al. | [2410.13314v1](http://arxiv.org/abs/2410.13314v1) | **NULL** |
+| **2024/10/17** | SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs | Yizhao Gao et al. | [2410.13276v1](http://arxiv.org/abs/2410.13276v1) | **NULL** |
+| **2024/10/17** | TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering | Al Zadid Sultan Bin Habib et al. | [2410.13203v1](http://arxiv.org/abs/2410.13203v1) | **NULL** |
 | **2024/10/16** | SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation | Jaehong Yoon et al. | [2410.12761v1](http://arxiv.org/abs/2410.12761v1) | **NULL** |
 | **2024/10/16** | Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing | Mingce Guo et al. | [2410.12526v1](http://arxiv.org/abs/2410.12526v1) | **NULL** |
 | **2024/10/16** | iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System | Xiaowei Jiang et al. | [2410.12267v1](http://arxiv.org/abs/2410.12267v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/10/15** | Improving Bias in Facial Attribute Classification: A Combined Impact of KL Divergence induced Loss Function and Dual Attention | Shweta Patel et al. | [2410.11176v1](http://arxiv.org/abs/2410.11176v1) | **NULL** |
 | **2024/10/14** | ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera | Jing Liang et al. | [2410.11019v1](http://arxiv.org/abs/2410.11019v1) | **NULL** |
 | **2024/10/14** | SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization | Akrit Mudvari et al. | [2410.10759v2](http://arxiv.org/abs/2410.10759v2) | **NULL** |
-| **2024/10/14** | KBLaM: Knowledge Base augmented Language Model | Xi Wang et al. | [2410.10450v1](http://arxiv.org/abs/2410.10450v1) | **NULL** |
-| **2024/10/14** | Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution | Pengzhou Cai et al. | [2410.10352v2](http://arxiv.org/abs/2410.10352v2) | **NULL** |
-| **2024/10/14** | HSR-Enhanced Sparse Attention Acceleration | Bo Chen et al. | [2410.10165v1](http://arxiv.org/abs/2410.10165v1) | **NULL** |
-| **2024/10/14** | TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control | Weichao Zeng et al. | [2410.10133v1](http://arxiv.org/abs/2410.10133v1) | [**link**](https://github.com/weichaozeng/textctrl) |
-| **2024/10/13** | ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing | Yuduo Wang et al. | [2410.10047v2](http://arxiv.org/abs/2410.10047v2) | **NULL** |
-| **2024/10/13** | DAG-aware Transformer for Causal Effect Estimation | Manqing Liu et al. | [2410.10044v1](http://arxiv.org/abs/2410.10044v1) | **NULL** |
-| **2024/10/13** | Online Multi-modal Root Cause Analysis | Lecheng Zheng et al. | [2410.10021v1](http://arxiv.org/abs/2410.10021v1) | **NULL** |
-| **2024/10/13** | TextMaster: Universal Controllable Text Edit | Aoqiang Wang et al. | [2410.09879v1](http://arxiv.org/abs/2410.09879v1) | **NULL** |
-| **2024/10/13** | EEG-based AI-BCI Wheelchair Advancement: A Brain-Computer Interfacing Wheelchair System Using Machine Learning Mechanism with Right and Left Voluntary Hand Movement | Biplov Paneru et al. | [2410.09763v1](http://arxiv.org/abs/2410.09763v1) | **NULL** |
-| **2024/10/13** | Gain Cell-Based Analog Content Addressable Memory for Dynamic Associative tasks in AI | Paul-Philipp Manea et al. | [2410.09755v1](http://arxiv.org/abs/2410.09755v1) | **NULL** |
 
 ## 背景差分
 
