@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/19 08:59:06
+> Updated on 2024/10/20 09:05:03
 
 <summary>Table of Contents</summary>
 
@@ -73,7 +73,7 @@ layout: default
 | **2024/10/15** | A Survey on Deep Tabular Learning | Shriyank Somvanshi et al. | [2410.12034v1](http://arxiv.org/abs/2410.12034v1) | **NULL** |
 | **2024/10/15** | MoH: Multi-Head Attention as Mixture-of-Head Attention | Peng Jin et al. | [2410.11842v1](http://arxiv.org/abs/2410.11842v1) | [**link**](https://github.com/skyworkai/moh) |
 | **2024/10/15** | Light-Weight Fault Tolerant Attention for Large Language Model Training | Yuhang Liang et al. | [2410.11720v2](http://arxiv.org/abs/2410.11720v2) | **NULL** |
-| **2024/10/15** | Point-Calibrated Spectral Neural Operators | Xihang Yue et al. | [2410.11382v1](http://arxiv.org/abs/2410.11382v1) | **NULL** |
+| **2024/10/15** | Point-Calibrated Spectral Neural Operators | Xihang Yue et al. | [2410.11382v1](http://arxiv.org/abs/2410.11382v1) | [**link**](https://github.com/yuexihang/pcsm) |
 | **2024/10/15** | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | Seongho Kim et al. | [2410.11381v1](http://arxiv.org/abs/2410.11381v1) | **NULL** |
 | **2024/10/15** | SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection | Shuhan Dong et al. | [2410.11358v1](http://arxiv.org/abs/2410.11358v1) | **NULL** |
 | **2024/10/15** | CONSULT: Contrastive Self-Supervised Learning for Few-shot Tumor Detection | Sin Chee Chin et al. | [2410.11307v1](http://arxiv.org/abs/2410.11307v1) | **NULL** |
