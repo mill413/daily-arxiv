@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/20 09:05:03
+> Updated on 2024/10/21 09:01:38
 
 <summary>Table of Contents</summary>
 
@@ -61,7 +61,7 @@ layout: default
 | **2024/10/17** | Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring | Kristina Telegraph et al. | [2410.13616v1](http://arxiv.org/abs/2410.13616v1) | **NULL** |
 | **2024/10/17** | Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques | Rahimanuddin Shaik et al. | [2410.13498v1](http://arxiv.org/abs/2410.13498v1) | **NULL** |
 | **2024/10/17** | Precipitation Nowcasting Using Diffusion Transformer with Causal Attention | ChaoRong Li et al. | [2410.13314v1](http://arxiv.org/abs/2410.13314v1) | **NULL** |
-| **2024/10/17** | SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs | Yizhao Gao et al. | [2410.13276v1](http://arxiv.org/abs/2410.13276v1) | **NULL** |
+| **2024/10/17** | SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs | Yizhao Gao et al. | [2410.13276v2](http://arxiv.org/abs/2410.13276v2) | **NULL** |
 | **2024/10/17** | TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering | Al Zadid Sultan Bin Habib et al. | [2410.13203v1](http://arxiv.org/abs/2410.13203v1) | **NULL** |
 | **2024/10/16** | SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation | Jaehong Yoon et al. | [2410.12761v1](http://arxiv.org/abs/2410.12761v1) | **NULL** |
 | **2024/10/16** | Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing | Mingce Guo et al. | [2410.12526v1](http://arxiv.org/abs/2410.12526v1) | **NULL** |
