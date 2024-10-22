@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/21 09:01:38
+> Updated on 2024/10/22 09:00:48
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/18** | Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection | Aaron Alvarado Kristanto Julistiono et al. | [2410.14581v1](http://arxiv.org/abs/2410.14581v1) | **NULL** |
+| **2024/10/18** | SignAttention: On the Interpretability of Transformer Models for Sign Language Translation | Pedro Alejandro Dal Bianco et al. | [2410.14506v1](http://arxiv.org/abs/2410.14506v1) | **NULL** |
+| **2024/10/18** | Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems | Shuang shuang Li et al. | [2410.14439v1](http://arxiv.org/abs/2410.14439v1) | **NULL** |
+| **2024/10/18** | Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension | Yin Xie et al. | [2410.14332v1](http://arxiv.org/abs/2410.14332v1) | [**link**](https://github.com/deepglint/croc) |
+| **2024/10/18** | Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis | Honglin Li et al. | [2410.14195v1](http://arxiv.org/abs/2410.14195v1) | **NULL** |
+| **2024/10/17** | Your Interest, Your Summaries: Query-Focused Long Video Summarization | Nirav Patel et al. | [2410.14087v1](http://arxiv.org/abs/2410.14087v1) | **NULL** |
+| **2024/10/17** | MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment | Ehsan Kazemi et al. | [2410.13973v1](http://arxiv.org/abs/2410.13973v1) | **NULL** |
 | **2024/10/17** | Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | Lijie Fan et al. | [2410.13863v1](http://arxiv.org/abs/2410.13863v1) | **NULL** |
 | **2024/10/17** | Artificial Kuramoto Oscillatory Neurons | Takeru Miyato et al. | [2410.13821v1](http://arxiv.org/abs/2410.13821v1) | [**link**](https://github.com/autonomousvision/akorn) |
 | **2024/10/17** | Reducing the Transformer Architecture to a Minimum | Bernhard Bermeitinger et al. | [2410.13732v1](http://arxiv.org/abs/2410.13732v1) | **NULL** |
-| **2024/10/17** | On the Role of Attention Heads in Large Language Model Safety | Zhenhong Zhou et al. | [2410.13708v1](http://arxiv.org/abs/2410.13708v1) | **NULL** |
+| **2024/10/17** | On the Role of Attention Heads in Large Language Model Safety | Zhenhong Zhou et al. | [2410.13708v1](http://arxiv.org/abs/2410.13708v1) | [**link**](https://github.com/ydyjya/safetyheadattribution) |
 | **2024/10/17** | DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition | Demetris Shianios et al. | [2410.13663v1](http://arxiv.org/abs/2410.13663v1) | **NULL** |
 | **2024/10/17** | Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring | Kristina Telegraph et al. | [2410.13616v1](http://arxiv.org/abs/2410.13616v1) | **NULL** |
 | **2024/10/17** | Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques | Rahimanuddin Shaik et al. | [2410.13498v1](http://arxiv.org/abs/2410.13498v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/10/15** | Point-Calibrated Spectral Neural Operators | Xihang Yue et al. | [2410.11382v1](http://arxiv.org/abs/2410.11382v1) | [**link**](https://github.com/yuexihang/pcsm) |
 | **2024/10/15** | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | Seongho Kim et al. | [2410.11381v1](http://arxiv.org/abs/2410.11381v1) | **NULL** |
 | **2024/10/15** | SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection | Shuhan Dong et al. | [2410.11358v1](http://arxiv.org/abs/2410.11358v1) | **NULL** |
-| **2024/10/15** | CONSULT: Contrastive Self-Supervised Learning for Few-shot Tumor Detection | Sin Chee Chin et al. | [2410.11307v1](http://arxiv.org/abs/2410.11307v1) | **NULL** |
-| **2024/10/15** | UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba | Li Wu et al. | [2410.11278v1](http://arxiv.org/abs/2410.11278v1) | **NULL** |
-| **2024/10/15** | Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix | Yingyu Liang et al. | [2410.11261v1](http://arxiv.org/abs/2410.11261v1) | **NULL** |
-| **2024/10/15** | Quadratic Gating Functions in Mixture of Experts: A Statistical Insight | Pedram Akbarian et al. | [2410.11222v2](http://arxiv.org/abs/2410.11222v2) | **NULL** |
-| **2024/10/15** | Improving Bias in Facial Attribute Classification: A Combined Impact of KL Divergence induced Loss Function and Dual Attention | Shweta Patel et al. | [2410.11176v1](http://arxiv.org/abs/2410.11176v1) | **NULL** |
-| **2024/10/14** | ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera | Jing Liang et al. | [2410.11019v1](http://arxiv.org/abs/2410.11019v1) | **NULL** |
-| **2024/10/14** | SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization | Akrit Mudvari et al. | [2410.10759v2](http://arxiv.org/abs/2410.10759v2) | **NULL** |
 
 ## 背景差分
 
