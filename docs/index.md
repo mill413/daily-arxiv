@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/22 09:00:48
+> Updated on 2024/10/23 08:59:28
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | **NULL** |
+| **2024/10/21** | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | Guangcong Zheng et al. | [2410.15957v2](http://arxiv.org/abs/2410.15957v2) | [**link**](https://github.com/ZGCTroy/CamI2V) |
+| **2024/10/21** | Revealing and Mitigating the Local Pattern Shortcuts of Mamba | Wangjie You et al. | [2410.15678v1](http://arxiv.org/abs/2410.15678v1) | [**link**](https://github.com/zetangforward/global_mamba) |
+| **2024/10/21** | Generalized Probabilistic Attention Mechanism in Transformers | DongNyeong Heo et al. | [2410.15578v1](http://arxiv.org/abs/2410.15578v1) | **NULL** |
+| **2024/10/20** | Attention Is All You Need for LLM-based Code Vulnerability Localization | Yue Li et al. | [2410.15288v1](http://arxiv.org/abs/2410.15288v1) | **NULL** |
+| **2024/10/20** | GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning | Haiwen Diao et al. | [2410.15266v1](http://arxiv.org/abs/2410.15266v1) | [**link**](https://github.com/paranioar/gssf) |
+| **2024/10/19** | Incorporating Group Prior into Variational Inference for Tail-User Behavior Modeling in CTR Prediction | Han Xu et al. | [2410.15098v1](http://arxiv.org/abs/2410.15098v1) | **NULL** |
+| **2024/10/19** | Independent Feature Enhanced Crossmodal Fusion for Match-Mismatch Classification of Speech Stimulus and EEG Response | Shitong Fan et al. | [2410.15078v1](http://arxiv.org/abs/2410.15078v1) | **NULL** |
+| **2024/10/19** | EViT-Unet: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices | Xin Li et al. | [2410.15036v1](http://arxiv.org/abs/2410.15036v1) | **NULL** |
+| **2024/10/19** | CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation | Shangning Xia et al. | [2410.14974v1](http://arxiv.org/abs/2410.14974v1) | **NULL** |
+| **2024/10/18** | Improving Vision Transformers by Overlapping Heads in Multi-Head Self-Attention | Tianxiao Zhang et al. | [2410.14874v1](http://arxiv.org/abs/2410.14874v1) | **NULL** |
+| **2024/10/18** | A novel approach towards the classification of Bone Fracture from Musculoskeletal Radiography images using Attention Based Transfer Learning | Sayeda Sanzida Ferdous Ruhi et al. | [2410.14833v1](http://arxiv.org/abs/2410.14833v1) | **NULL** |
+| **2024/10/18** | GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration | Ruoyu Zhang et al. | [2410.14805v1](http://arxiv.org/abs/2410.14805v1) | **NULL** |
 | **2024/10/18** | Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection | Aaron Alvarado Kristanto Julistiono et al. | [2410.14581v1](http://arxiv.org/abs/2410.14581v1) | **NULL** |
 | **2024/10/18** | SignAttention: On the Interpretability of Transformer Models for Sign Language Translation | Pedro Alejandro Dal Bianco et al. | [2410.14506v1](http://arxiv.org/abs/2410.14506v1) | **NULL** |
 | **2024/10/18** | Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems | Shuang shuang Li et al. | [2410.14439v1](http://arxiv.org/abs/2410.14439v1) | **NULL** |
@@ -69,20 +82,7 @@ layout: default
 | **2024/10/17** | Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques | Rahimanuddin Shaik et al. | [2410.13498v1](http://arxiv.org/abs/2410.13498v1) | **NULL** |
 | **2024/10/17** | Precipitation Nowcasting Using Diffusion Transformer with Causal Attention | ChaoRong Li et al. | [2410.13314v1](http://arxiv.org/abs/2410.13314v1) | **NULL** |
 | **2024/10/17** | SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs | Yizhao Gao et al. | [2410.13276v2](http://arxiv.org/abs/2410.13276v2) | **NULL** |
-| **2024/10/17** | TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering | Al Zadid Sultan Bin Habib et al. | [2410.13203v1](http://arxiv.org/abs/2410.13203v1) | **NULL** |
-| **2024/10/16** | SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation | Jaehong Yoon et al. | [2410.12761v1](http://arxiv.org/abs/2410.12761v1) | **NULL** |
-| **2024/10/16** | Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing | Mingce Guo et al. | [2410.12526v1](http://arxiv.org/abs/2410.12526v1) | **NULL** |
-| **2024/10/16** | iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System | Xiaowei Jiang et al. | [2410.12267v1](http://arxiv.org/abs/2410.12267v1) | **NULL** |
-| **2024/10/16** | CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching | Xingjian Wu et al. | [2410.12261v1](http://arxiv.org/abs/2410.12261v1) | **NULL** |
-| **2024/10/16** | EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View | Zhaorong Wang et al. | [2410.12242v1](http://arxiv.org/abs/2410.12242v1) | **NULL** |
-| **2024/10/16** | Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations | Luyi Ma et al. | [2410.12228v1](http://arxiv.org/abs/2410.12228v1) | **NULL** |
-| **2024/10/16** | ExoTST: Exogenous-Aware Temporal Sequence Transformer for Time Series Prediction | Kshitij Tayal et al. | [2410.12184v1](http://arxiv.org/abs/2410.12184v1) | **NULL** |
-| **2024/10/15** | A Survey on Deep Tabular Learning | Shriyank Somvanshi et al. | [2410.12034v1](http://arxiv.org/abs/2410.12034v1) | **NULL** |
-| **2024/10/15** | MoH: Multi-Head Attention as Mixture-of-Head Attention | Peng Jin et al. | [2410.11842v1](http://arxiv.org/abs/2410.11842v1) | [**link**](https://github.com/skyworkai/moh) |
-| **2024/10/15** | Light-Weight Fault Tolerant Attention for Large Language Model Training | Yuhang Liang et al. | [2410.11720v2](http://arxiv.org/abs/2410.11720v2) | **NULL** |
-| **2024/10/15** | Point-Calibrated Spectral Neural Operators | Xihang Yue et al. | [2410.11382v1](http://arxiv.org/abs/2410.11382v1) | [**link**](https://github.com/yuexihang/pcsm) |
-| **2024/10/15** | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | Seongho Kim et al. | [2410.11381v1](http://arxiv.org/abs/2410.11381v1) | **NULL** |
-| **2024/10/15** | SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection | Shuhan Dong et al. | [2410.11358v1](http://arxiv.org/abs/2410.11358v1) | **NULL** |
+| **2024/10/17** | TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering | Al Zadid Sultan Bin Habib et al. | [2410.13203v2](http://arxiv.org/abs/2410.13203v2) | **NULL** |
 
 ## 背景差分
 
@@ -90,7 +90,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
-| **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v1](http://arxiv.org/abs/2407.16488v1) | **NULL** |
+| **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
 | **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
