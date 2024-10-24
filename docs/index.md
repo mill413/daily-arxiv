@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/23 08:59:28
+> Updated on 2024/10/24 08:59:36
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | **NULL** |
+| **2024/10/22** | AlphaChimp: Tracking and Behavior Recognition of Chimpanzees | Xiaoxuan Ma et al. | [2410.17136v1](http://arxiv.org/abs/2410.17136v1) | [**link**](https://github.com/shirleymaxx/chimpact) |
+| **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | **NULL** |
+| **2024/10/22** | Progressive Compositionality In Text-to-Image Generative Models | Xu Han et al. | [2410.16719v1](http://arxiv.org/abs/2410.16719v1) | **NULL** |
+| **2024/10/22** | PLDR-LLM: Large Language Model from Power Law Decoder Representations | Burc Gokden | [2410.16703v1](http://arxiv.org/abs/2410.16703v1) | [**link**](https://github.com/burcgokden/llm-from-power-law-decoder-representations) |
+| **2024/10/21** | Large Body Language Models | Saif Punjwani et al. | [2410.16533v1](http://arxiv.org/abs/2410.16533v1) | **NULL** |
+| **2024/10/21** | AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition | Zehua Liu et al. | [2410.16438v1](http://arxiv.org/abs/2410.16438v1) | [**link**](https://github.com/liu12366262626/alignvsr) |
+| **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | [**link**](https://github.com/wenet-e2e/wesep) |
 | **2024/10/21** | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | Guangcong Zheng et al. | [2410.15957v2](http://arxiv.org/abs/2410.15957v2) | [**link**](https://github.com/ZGCTroy/CamI2V) |
 | **2024/10/21** | Revealing and Mitigating the Local Pattern Shortcuts of Mamba | Wangjie You et al. | [2410.15678v1](http://arxiv.org/abs/2410.15678v1) | [**link**](https://github.com/zetangforward/global_mamba) |
 | **2024/10/21** | Generalized Probabilistic Attention Mechanism in Transformers | DongNyeong Heo et al. | [2410.15578v1](http://arxiv.org/abs/2410.15578v1) | **NULL** |
+| **2024/10/20** | Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN | Mahmoud Ranjbar et al. | [2410.16336v1](http://arxiv.org/abs/2410.16336v1) | **NULL** |
 | **2024/10/20** | Attention Is All You Need for LLM-based Code Vulnerability Localization | Yue Li et al. | [2410.15288v1](http://arxiv.org/abs/2410.15288v1) | **NULL** |
 | **2024/10/20** | GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning | Haiwen Diao et al. | [2410.15266v1](http://arxiv.org/abs/2410.15266v1) | [**link**](https://github.com/paranioar/gssf) |
 | **2024/10/19** | Incorporating Group Prior into Variational Inference for Tail-User Behavior Modeling in CTR Prediction | Han Xu et al. | [2410.15098v1](http://arxiv.org/abs/2410.15098v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/10/17** | Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | Lijie Fan et al. | [2410.13863v1](http://arxiv.org/abs/2410.13863v1) | **NULL** |
 | **2024/10/17** | Artificial Kuramoto Oscillatory Neurons | Takeru Miyato et al. | [2410.13821v1](http://arxiv.org/abs/2410.13821v1) | [**link**](https://github.com/autonomousvision/akorn) |
 | **2024/10/17** | Reducing the Transformer Architecture to a Minimum | Bernhard Bermeitinger et al. | [2410.13732v1](http://arxiv.org/abs/2410.13732v1) | **NULL** |
-| **2024/10/17** | On the Role of Attention Heads in Large Language Model Safety | Zhenhong Zhou et al. | [2410.13708v1](http://arxiv.org/abs/2410.13708v1) | [**link**](https://github.com/ydyjya/safetyheadattribution) |
-| **2024/10/17** | DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition | Demetris Shianios et al. | [2410.13663v1](http://arxiv.org/abs/2410.13663v1) | **NULL** |
-| **2024/10/17** | Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring | Kristina Telegraph et al. | [2410.13616v1](http://arxiv.org/abs/2410.13616v1) | **NULL** |
-| **2024/10/17** | Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques | Rahimanuddin Shaik et al. | [2410.13498v1](http://arxiv.org/abs/2410.13498v1) | **NULL** |
-| **2024/10/17** | Precipitation Nowcasting Using Diffusion Transformer with Causal Attention | ChaoRong Li et al. | [2410.13314v1](http://arxiv.org/abs/2410.13314v1) | **NULL** |
-| **2024/10/17** | SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs | Yizhao Gao et al. | [2410.13276v2](http://arxiv.org/abs/2410.13276v2) | **NULL** |
-| **2024/10/17** | TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering | Al Zadid Sultan Bin Habib et al. | [2410.13203v2](http://arxiv.org/abs/2410.13203v2) | **NULL** |
 
 ## 背景差分
 
