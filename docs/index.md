@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/24 08:59:36
+> Updated on 2024/10/25 09:00:36
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/23** | Stick-breaking Attention | Shawn Tan et al. | [2410.17980v1](http://arxiv.org/abs/2410.17980v1) | **NULL** |
+| **2024/10/23** | Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds | Kai Liu et al. | [2410.17823v1](http://arxiv.org/abs/2410.17823v1) | [**link**](https://github.com/i2-multimedia-lab/att2cpc) |
+| **2024/10/23** | ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning | Zhiwei Hao et al. | [2410.17779v1](http://arxiv.org/abs/2410.17779v1) | [**link**](https://github.com/hao840/adem-vl) |
+| **2024/10/23** | Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data | Salvatore Raieli et al. | [2410.17758v1](http://arxiv.org/abs/2410.17758v1) | **NULL** |
+| **2024/10/23** | Emotion Recognition with Facial Attention and Objective Activation Functions | Andrzej Miskow et al. | [2410.17740v1](http://arxiv.org/abs/2410.17740v1) | **NULL** |
+| **2024/10/23** | Feature Learning in Attention Mechanisms Is More Compact and Stable Than in Convolution | Baiyuan Chen | [2410.17628v1](http://arxiv.org/abs/2410.17628v1) | **NULL** |
+| **2024/10/23** | Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation | Yuxuan Wu et al. | [2410.17620v1](http://arxiv.org/abs/2410.17620v1) | **NULL** |
+| **2024/10/22** | Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification | Arrun Sivasubramanian et al. | [2410.17396v1](http://arxiv.org/abs/2410.17396v1) | **NULL** |
 | **2024/10/22** | AlphaChimp: Tracking and Behavior Recognition of Chimpanzees | Xiaoxuan Ma et al. | [2410.17136v1](http://arxiv.org/abs/2410.17136v1) | [**link**](https://github.com/shirleymaxx/chimpact) |
 | **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | **NULL** |
 | **2024/10/22** | Progressive Compositionality In Text-to-Image Generative Models | Xu Han et al. | [2410.16719v1](http://arxiv.org/abs/2410.16719v1) | **NULL** |
 | **2024/10/22** | PLDR-LLM: Large Language Model from Power Law Decoder Representations | Burc Gokden | [2410.16703v1](http://arxiv.org/abs/2410.16703v1) | [**link**](https://github.com/burcgokden/llm-from-power-law-decoder-representations) |
 | **2024/10/21** | Large Body Language Models | Saif Punjwani et al. | [2410.16533v1](http://arxiv.org/abs/2410.16533v1) | **NULL** |
+| **2024/10/21** | A Fusion-Driven Approach of Attention-Based CNN-BiLSTM for Protein Family Classification -- ProFamNet | Bahar Ali et al. | [2410.17293v1](http://arxiv.org/abs/2410.17293v1) | **NULL** |
 | **2024/10/21** | AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition | Zehua Liu et al. | [2410.16438v1](http://arxiv.org/abs/2410.16438v1) | [**link**](https://github.com/liu12366262626/alignvsr) |
 | **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | [**link**](https://github.com/wenet-e2e/wesep) |
 | **2024/10/21** | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | Guangcong Zheng et al. | [2410.15957v2](http://arxiv.org/abs/2410.15957v2) | [**link**](https://github.com/ZGCTroy/CamI2V) |
@@ -74,20 +83,12 @@ layout: default
 | **2024/10/18** | A novel approach towards the classification of Bone Fracture from Musculoskeletal Radiography images using Attention Based Transfer Learning | Sayeda Sanzida Ferdous Ruhi et al. | [2410.14833v1](http://arxiv.org/abs/2410.14833v1) | **NULL** |
 | **2024/10/18** | GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration | Ruoyu Zhang et al. | [2410.14805v1](http://arxiv.org/abs/2410.14805v1) | **NULL** |
 | **2024/10/18** | Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection | Aaron Alvarado Kristanto Julistiono et al. | [2410.14581v1](http://arxiv.org/abs/2410.14581v1) | **NULL** |
-| **2024/10/18** | SignAttention: On the Interpretability of Transformer Models for Sign Language Translation | Pedro Alejandro Dal Bianco et al. | [2410.14506v1](http://arxiv.org/abs/2410.14506v1) | **NULL** |
-| **2024/10/18** | Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems | Shuang shuang Li et al. | [2410.14439v1](http://arxiv.org/abs/2410.14439v1) | **NULL** |
-| **2024/10/18** | Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension | Yin Xie et al. | [2410.14332v1](http://arxiv.org/abs/2410.14332v1) | [**link**](https://github.com/deepglint/croc) |
-| **2024/10/18** | Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis | Honglin Li et al. | [2410.14195v1](http://arxiv.org/abs/2410.14195v1) | **NULL** |
-| **2024/10/17** | Your Interest, Your Summaries: Query-Focused Long Video Summarization | Nirav Patel et al. | [2410.14087v1](http://arxiv.org/abs/2410.14087v1) | **NULL** |
-| **2024/10/17** | MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment | Ehsan Kazemi et al. | [2410.13973v1](http://arxiv.org/abs/2410.13973v1) | **NULL** |
-| **2024/10/17** | Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | Lijie Fan et al. | [2410.13863v1](http://arxiv.org/abs/2410.13863v1) | **NULL** |
-| **2024/10/17** | Artificial Kuramoto Oscillatory Neurons | Takeru Miyato et al. | [2410.13821v1](http://arxiv.org/abs/2410.13821v1) | [**link**](https://github.com/autonomousvision/akorn) |
-| **2024/10/17** | Reducing the Transformer Architecture to a Minimum | Bernhard Bermeitinger et al. | [2410.13732v1](http://arxiv.org/abs/2410.13732v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v1](http://arxiv.org/abs/2410.17334v1) | **NULL** |
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/09/27** | Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction | Basit Alawode et al. | [2309.15576v1](http://arxiv.org/abs/2309.15576v1) | **NULL** |
 | **2023/09/15** | A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads | Zixuan Li et al. | [2309.08164v1](http://arxiv.org/abs/2309.08164v1) | **NULL** |
 | **2023/09/12** | Reference Frames and Black Hole Thermodynamics | Franco Fiorini et al. | [2309.06293v2](http://arxiv.org/abs/2309.06293v2) | **NULL** |
-| **2023/08/23** | Computational models of object motion detectors accelerated using FPGA technology | Pedro Machado | [2310.06842v1](http://arxiv.org/abs/2310.06842v1) | **NULL** |
