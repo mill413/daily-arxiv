@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/25 09:00:36
+> Updated on 2024/10/26 08:58:15
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/10/23** | Stick-breaking Attention | Shawn Tan et al. | [2410.17980v1](http://arxiv.org/abs/2410.17980v1) | **NULL** |
+| **2024/10/24** | MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms | Ling-Hao Chen et al. | [2410.18977v1](http://arxiv.org/abs/2410.18977v1) | **NULL** |
+| **2024/10/24** | Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences | Haoxuan Kuang et al. | [2410.18766v1](http://arxiv.org/abs/2410.18766v1) | **NULL** |
+| **2024/10/24** | Why Does the Effective Context Length of LLMs Fall Short? | Chenxin An et al. | [2410.18745v1](http://arxiv.org/abs/2410.18745v1) | **NULL** |
+| **2024/10/24** | Rethinking Softmax: Self-Attention with Polynomial Activations | Hemanth Saratchandran et al. | [2410.18613v1](http://arxiv.org/abs/2410.18613v1) | **NULL** |
+| **2024/10/24** | Local and Global Graph Modeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition | Yejing Xie et al. | [2410.18555v1](http://arxiv.org/abs/2410.18555v1) | **NULL** |
+| **2024/10/24** | Integrating Canonical Neural Units and Multi-Scale Training for Handwritten Text Recognition | Zi-Rui Wang | [2410.18374v1](http://arxiv.org/abs/2410.18374v1) | **NULL** |
+| **2024/10/24** | Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need | Runzhen Xue et al. | [2410.18368v1](http://arxiv.org/abs/2410.18368v1) | **NULL** |
+| **2024/10/24** | WAFFLE: Multi-Modal Model for Automated Front-End Development | Shanchao Liang et al. | [2410.18362v1](http://arxiv.org/abs/2410.18362v1) | **NULL** |
+| **2024/10/23** | NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection | Solmaz Seyed Monir et al. | [2410.18294v1](http://arxiv.org/abs/2410.18294v1) | **NULL** |
+| **2024/10/23** | Stick-breaking Attention | Shawn Tan et al. | [2410.17980v1](http://arxiv.org/abs/2410.17980v1) | [**link**](https://github.com/shawntan/stickbreaking-attention) |
 | **2024/10/23** | Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds | Kai Liu et al. | [2410.17823v1](http://arxiv.org/abs/2410.17823v1) | [**link**](https://github.com/i2-multimedia-lab/att2cpc) |
 | **2024/10/23** | ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning | Zhiwei Hao et al. | [2410.17779v1](http://arxiv.org/abs/2410.17779v1) | [**link**](https://github.com/hao840/adem-vl) |
-| **2024/10/23** | Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data | Salvatore Raieli et al. | [2410.17758v1](http://arxiv.org/abs/2410.17758v1) | **NULL** |
+| **2024/10/23** | Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data | Salvatore Raieli et al. | [2410.17758v1](http://arxiv.org/abs/2410.17758v1) | [**link**](https://github.com/salvatorera/sam) |
 | **2024/10/23** | Emotion Recognition with Facial Attention and Objective Activation Functions | Andrzej Miskow et al. | [2410.17740v1](http://arxiv.org/abs/2410.17740v1) | **NULL** |
 | **2024/10/23** | Feature Learning in Attention Mechanisms Is More Compact and Stable Than in Convolution | Baiyuan Chen | [2410.17628v1](http://arxiv.org/abs/2410.17628v1) | **NULL** |
 | **2024/10/23** | Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation | Yuxuan Wu et al. | [2410.17620v1](http://arxiv.org/abs/2410.17620v1) | **NULL** |
+| **2024/10/23** | Music102: An $D_{12}$-equivariant transformer for chord progression accompaniment | Weiliang Luo | [2410.18151v1](http://arxiv.org/abs/2410.18151v1) | [**link**](https://github.com/Benzoin96485/music102) |
 | **2024/10/22** | Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification | Arrun Sivasubramanian et al. | [2410.17396v1](http://arxiv.org/abs/2410.17396v1) | **NULL** |
 | **2024/10/22** | AlphaChimp: Tracking and Behavior Recognition of Chimpanzees | Xiaoxuan Ma et al. | [2410.17136v1](http://arxiv.org/abs/2410.17136v1) | [**link**](https://github.com/shirleymaxx/chimpact) |
 | **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2024/10/21** | Revealing and Mitigating the Local Pattern Shortcuts of Mamba | Wangjie You et al. | [2410.15678v1](http://arxiv.org/abs/2410.15678v1) | [**link**](https://github.com/zetangforward/global_mamba) |
 | **2024/10/21** | Generalized Probabilistic Attention Mechanism in Transformers | DongNyeong Heo et al. | [2410.15578v1](http://arxiv.org/abs/2410.15578v1) | **NULL** |
 | **2024/10/20** | Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN | Mahmoud Ranjbar et al. | [2410.16336v1](http://arxiv.org/abs/2410.16336v1) | **NULL** |
-| **2024/10/20** | Attention Is All You Need for LLM-based Code Vulnerability Localization | Yue Li et al. | [2410.15288v1](http://arxiv.org/abs/2410.15288v1) | **NULL** |
-| **2024/10/20** | GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning | Haiwen Diao et al. | [2410.15266v1](http://arxiv.org/abs/2410.15266v1) | [**link**](https://github.com/paranioar/gssf) |
-| **2024/10/19** | Incorporating Group Prior into Variational Inference for Tail-User Behavior Modeling in CTR Prediction | Han Xu et al. | [2410.15098v1](http://arxiv.org/abs/2410.15098v1) | **NULL** |
-| **2024/10/19** | Independent Feature Enhanced Crossmodal Fusion for Match-Mismatch Classification of Speech Stimulus and EEG Response | Shitong Fan et al. | [2410.15078v1](http://arxiv.org/abs/2410.15078v1) | **NULL** |
-| **2024/10/19** | EViT-Unet: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices | Xin Li et al. | [2410.15036v1](http://arxiv.org/abs/2410.15036v1) | **NULL** |
-| **2024/10/19** | CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation | Shangning Xia et al. | [2410.14974v1](http://arxiv.org/abs/2410.14974v1) | **NULL** |
-| **2024/10/18** | Improving Vision Transformers by Overlapping Heads in Multi-Head Self-Attention | Tianxiao Zhang et al. | [2410.14874v1](http://arxiv.org/abs/2410.14874v1) | **NULL** |
-| **2024/10/18** | A novel approach towards the classification of Bone Fracture from Musculoskeletal Radiography images using Attention Based Transfer Learning | Sayeda Sanzida Ferdous Ruhi et al. | [2410.14833v1](http://arxiv.org/abs/2410.14833v1) | **NULL** |
-| **2024/10/18** | GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration | Ruoyu Zhang et al. | [2410.14805v1](http://arxiv.org/abs/2410.14805v1) | **NULL** |
-| **2024/10/18** | Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection | Aaron Alvarado Kristanto Julistiono et al. | [2410.14581v1](http://arxiv.org/abs/2410.14581v1) | **NULL** |
 
 ## 背景差分
 
