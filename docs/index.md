@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/27 09:04:34
+> Updated on 2024/10/28 09:02:36
 
 <summary>Table of Contents</summary>
 
@@ -60,7 +60,7 @@ layout: default
 | **2024/10/24** | Local and Global Graph Modeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition | Yejing Xie et al. | [2410.18555v1](http://arxiv.org/abs/2410.18555v1) | **NULL** |
 | **2024/10/24** | Integrating Canonical Neural Units and Multi-Scale Training for Handwritten Text Recognition | Zi-Rui Wang | [2410.18374v1](http://arxiv.org/abs/2410.18374v1) | **NULL** |
 | **2024/10/24** | Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need | Runzhen Xue et al. | [2410.18368v1](http://arxiv.org/abs/2410.18368v1) | **NULL** |
-| **2024/10/24** | WAFFLE: Multi-Modal Model for Automated Front-End Development | Shanchao Liang et al. | [2410.18362v1](http://arxiv.org/abs/2410.18362v1) | **NULL** |
+| **2024/10/24** | WAFFLE: Multi-Modal Model for Automated Front-End Development | Shanchao Liang et al. | [2410.18362v1](http://arxiv.org/abs/2410.18362v1) | [**link**](https://github.com/lt-asset/Waffle) |
 | **2024/10/23** | NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection | Solmaz Seyed Monir et al. | [2410.18294v1](http://arxiv.org/abs/2410.18294v1) | **NULL** |
 | **2024/10/23** | Stick-breaking Attention | Shawn Tan et al. | [2410.17980v1](http://arxiv.org/abs/2410.17980v1) | [**link**](https://github.com/shawntan/stickbreaking-attention) |
 | **2024/10/23** | Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds | Kai Liu et al. | [2410.17823v1](http://arxiv.org/abs/2410.17823v1) | [**link**](https://github.com/i2-multimedia-lab/att2cpc) |
@@ -72,7 +72,7 @@ layout: default
 | **2024/10/23** | Music102: An $D_{12}$-equivariant transformer for chord progression accompaniment | Weiliang Luo | [2410.18151v1](http://arxiv.org/abs/2410.18151v1) | [**link**](https://github.com/Benzoin96485/music102) |
 | **2024/10/22** | Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification | Arrun Sivasubramanian et al. | [2410.17396v1](http://arxiv.org/abs/2410.17396v1) | **NULL** |
 | **2024/10/22** | AlphaChimp: Tracking and Behavior Recognition of Chimpanzees | Xiaoxuan Ma et al. | [2410.17136v1](http://arxiv.org/abs/2410.17136v1) | [**link**](https://github.com/shirleymaxx/chimpact) |
-| **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | **NULL** |
+| **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | [**link**](https://github.com/typistchen/spikmamba) |
 | **2024/10/22** | Progressive Compositionality In Text-to-Image Generative Models | Xu Han et al. | [2410.16719v1](http://arxiv.org/abs/2410.16719v1) | **NULL** |
 | **2024/10/22** | PLDR-LLM: Large Language Model from Power Law Decoder Representations | Burc Gokden | [2410.16703v1](http://arxiv.org/abs/2410.16703v1) | [**link**](https://github.com/burcgokden/llm-from-power-law-decoder-representations) |
 | **2024/10/21** | Large Body Language Models | Saif Punjwani et al. | [2410.16533v1](http://arxiv.org/abs/2410.16533v1) | **NULL** |
