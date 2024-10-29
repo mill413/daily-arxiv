@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/28 09:02:36
+> Updated on 2024/10/29 09:01:29
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/25** | Generative Diffusion Models for Sequential Recommendations | Sharare Zolghadr et al. | [2410.19429v1](http://arxiv.org/abs/2410.19429v1) | **NULL** |
+| **2024/10/25** | MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction | Xiaoman Liu | [2410.19297v1](http://arxiv.org/abs/2410.19297v1) | **NULL** |
 | **2024/10/24** | MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms | Ling-Hao Chen et al. | [2410.18977v1](http://arxiv.org/abs/2410.18977v1) | **NULL** |
 | **2024/10/24** | Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences | Haoxuan Kuang et al. | [2410.18766v1](http://arxiv.org/abs/2410.18766v1) | **NULL** |
 | **2024/10/24** | Why Does the Effective Context Length of LLMs Fall Short? | Chenxin An et al. | [2410.18745v1](http://arxiv.org/abs/2410.18745v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | [**link**](https://github.com/wenet-e2e/wesep) |
 | **2024/10/21** | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | Guangcong Zheng et al. | [2410.15957v2](http://arxiv.org/abs/2410.15957v2) | [**link**](https://github.com/ZGCTroy/CamI2V) |
 | **2024/10/21** | Revealing and Mitigating the Local Pattern Shortcuts of Mamba | Wangjie You et al. | [2410.15678v1](http://arxiv.org/abs/2410.15678v1) | [**link**](https://github.com/zetangforward/global_mamba) |
-| **2024/10/21** | Generalized Probabilistic Attention Mechanism in Transformers | DongNyeong Heo et al. | [2410.15578v1](http://arxiv.org/abs/2410.15578v1) | **NULL** |
-| **2024/10/20** | Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN | Mahmoud Ranjbar et al. | [2410.16336v1](http://arxiv.org/abs/2410.16336v1) | **NULL** |
 
 ## 背景差分
 
