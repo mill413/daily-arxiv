@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/10/29 09:01:29
+> Updated on 2024/10/30 09:00:42
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/10/28** | Exploring contextual modeling with linear complexity for point cloud segmentation | Yong Xien Chng et al. | [2410.21211v1](http://arxiv.org/abs/2410.21211v1) | **NULL** |
+| **2024/10/28** | Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies | Xiwen Li et al. | [2410.21170v1](http://arxiv.org/abs/2410.21170v1) | **NULL** |
+| **2024/10/28** | Enhancing Learned Image Compression via Cross Window-based Attention | Priyanka Mudgal et al. | [2410.21144v1](http://arxiv.org/abs/2410.21144v1) | **NULL** |
+| **2024/10/28** | KA$^2$ER: Knowledge Adaptive Amalgamation of ExpeRts for Medical Images Segmentation | Shangde Gao et al. | [2410.21085v1](http://arxiv.org/abs/2410.21085v1) | **NULL** |
+| **2024/10/28** | EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment | Xiaoqi Ling et al. | [2410.21069v2](http://arxiv.org/abs/2410.21069v2) | **NULL** |
+| **2024/10/28** | SepMamba: State-space models for speaker separation using Mamba | Thor Højhus Avenstrup et al. | [2410.20997v1](http://arxiv.org/abs/2410.20997v1) | **NULL** |
+| **2024/10/28** | Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting | Bong Gyun Kang et al. | [2410.20772v1](http://arxiv.org/abs/2410.20772v1) | [**link**](https://github.com/djlee1208/bsa_2024) |
+| **2024/10/28** | CIB-SE-YOLOv8: Optimized YOLOv8 for Real-Time Safety Equipment Detection on Construction Sites | Xiaoyi Liu et al. | [2410.20699v1](http://arxiv.org/abs/2410.20699v1) | **NULL** |
+| **2024/10/28** | KANsformer for Scalable Beamforming | Xinke Xie et al. | [2410.20690v1](http://arxiv.org/abs/2410.20690v1) | **NULL** |
+| **2024/10/28** | Visualizing attention zones in machine reading comprehension models | Yiming Cui et al. | [2410.20652v1](http://arxiv.org/abs/2410.20652v1) | **NULL** |
+| **2024/10/27** | Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network | Chongxiao Liu | [2410.20546v1](http://arxiv.org/abs/2410.20546v1) | **NULL** |
+| **2024/10/27** | TEAFormers: TEnsor-Augmented Transformers for Multi-Dimensional Time Series Forecasting | Linghang Kong et al. | [2410.20439v1](http://arxiv.org/abs/2410.20439v1) | **NULL** |
+| **2024/10/27** | Depth Attention for Robust RGB Tracking | Yu Liu et al. | [2410.20395v1](http://arxiv.org/abs/2410.20395v1) | [**link**](https://github.com/liuyuml/depth-attention) |
+| **2024/10/27** | RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior | Mingjiang Liang et al. | [2410.20358v1](http://arxiv.org/abs/2410.20358v1) | **NULL** |
+| **2024/10/27** | UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration | Runshi Zhang et al. | [2410.20348v1](http://arxiv.org/abs/2410.20348v1) | **NULL** |
+| **2024/10/27** | ProtSCAPE: Mapping the landscape of protein conformations in molecular dynamics | Siddharth Viswanath et al. | [2410.20317v1](http://arxiv.org/abs/2410.20317v1) | **NULL** |
+| **2024/10/26** | Beyond Simple Sum of Delayed Rewards: Non-Markovian Reward Modeling for Reinforcement Learning | Yuting Tang et al. | [2410.20176v1](http://arxiv.org/abs/2410.20176v1) | **NULL** |
+| **2024/10/26** | Hybrid Deep Learning for Legal Text Analysis: Predicting Punishment Durations in Indonesian Court Rulings | Muhammad Amien Ibrahim et al. | [2410.20104v1](http://arxiv.org/abs/2410.20104v1) | **NULL** |
+| **2024/10/25** | FLAASH: Flow-Attention Adaptive Semantic Hierarchical Fusion for Multi-Modal Tobacco Content Analysis | Naga VS Raviteja Chappa et al. | [2410.19896v1](http://arxiv.org/abs/2410.19896v1) | **NULL** |
 | **2024/10/25** | Generative Diffusion Models for Sequential Recommendations | Sharare Zolghadr et al. | [2410.19429v1](http://arxiv.org/abs/2410.19429v1) | **NULL** |
-| **2024/10/25** | MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction | Xiaoman Liu | [2410.19297v1](http://arxiv.org/abs/2410.19297v1) | **NULL** |
+| **2024/10/25** | MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction | Xiaoman Liu | [2410.19297v2](http://arxiv.org/abs/2410.19297v2) | **NULL** |
 | **2024/10/24** | MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms | Ling-Hao Chen et al. | [2410.18977v1](http://arxiv.org/abs/2410.18977v1) | **NULL** |
 | **2024/10/24** | Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences | Haoxuan Kuang et al. | [2410.18766v1](http://arxiv.org/abs/2410.18766v1) | **NULL** |
 | **2024/10/24** | Why Does the Effective Context Length of LLMs Fall Short? | Chenxin An et al. | [2410.18745v1](http://arxiv.org/abs/2410.18745v1) | **NULL** |
@@ -64,25 +83,6 @@ layout: default
 | **2024/10/24** | Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need | Runzhen Xue et al. | [2410.18368v1](http://arxiv.org/abs/2410.18368v1) | **NULL** |
 | **2024/10/24** | WAFFLE: Multi-Modal Model for Automated Front-End Development | Shanchao Liang et al. | [2410.18362v1](http://arxiv.org/abs/2410.18362v1) | [**link**](https://github.com/lt-asset/Waffle) |
 | **2024/10/23** | NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection | Solmaz Seyed Monir et al. | [2410.18294v1](http://arxiv.org/abs/2410.18294v1) | **NULL** |
-| **2024/10/23** | Stick-breaking Attention | Shawn Tan et al. | [2410.17980v1](http://arxiv.org/abs/2410.17980v1) | [**link**](https://github.com/shawntan/stickbreaking-attention) |
-| **2024/10/23** | Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds | Kai Liu et al. | [2410.17823v1](http://arxiv.org/abs/2410.17823v1) | [**link**](https://github.com/i2-multimedia-lab/att2cpc) |
-| **2024/10/23** | ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning | Zhiwei Hao et al. | [2410.17779v1](http://arxiv.org/abs/2410.17779v1) | [**link**](https://github.com/hao840/adem-vl) |
-| **2024/10/23** | Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data | Salvatore Raieli et al. | [2410.17758v1](http://arxiv.org/abs/2410.17758v1) | [**link**](https://github.com/salvatorera/sam) |
-| **2024/10/23** | Emotion Recognition with Facial Attention and Objective Activation Functions | Andrzej Miskow et al. | [2410.17740v1](http://arxiv.org/abs/2410.17740v1) | **NULL** |
-| **2024/10/23** | Feature Learning in Attention Mechanisms Is More Compact and Stable Than in Convolution | Baiyuan Chen | [2410.17628v1](http://arxiv.org/abs/2410.17628v1) | **NULL** |
-| **2024/10/23** | Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation | Yuxuan Wu et al. | [2410.17620v1](http://arxiv.org/abs/2410.17620v1) | **NULL** |
-| **2024/10/23** | Music102: An $D_{12}$-equivariant transformer for chord progression accompaniment | Weiliang Luo | [2410.18151v1](http://arxiv.org/abs/2410.18151v1) | [**link**](https://github.com/Benzoin96485/music102) |
-| **2024/10/22** | Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification | Arrun Sivasubramanian et al. | [2410.17396v1](http://arxiv.org/abs/2410.17396v1) | **NULL** |
-| **2024/10/22** | AlphaChimp: Tracking and Behavior Recognition of Chimpanzees | Xiaoxuan Ma et al. | [2410.17136v1](http://arxiv.org/abs/2410.17136v1) | [**link**](https://github.com/shirleymaxx/chimpact) |
-| **2024/10/22** | SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | Jiaqi Chen et al. | [2410.16746v1](http://arxiv.org/abs/2410.16746v1) | [**link**](https://github.com/typistchen/spikmamba) |
-| **2024/10/22** | Progressive Compositionality In Text-to-Image Generative Models | Xu Han et al. | [2410.16719v1](http://arxiv.org/abs/2410.16719v1) | **NULL** |
-| **2024/10/22** | PLDR-LLM: Large Language Model from Power Law Decoder Representations | Burc Gokden | [2410.16703v1](http://arxiv.org/abs/2410.16703v1) | [**link**](https://github.com/burcgokden/llm-from-power-law-decoder-representations) |
-| **2024/10/21** | Large Body Language Models | Saif Punjwani et al. | [2410.16533v1](http://arxiv.org/abs/2410.16533v1) | **NULL** |
-| **2024/10/21** | A Fusion-Driven Approach of Attention-Based CNN-BiLSTM for Protein Family Classification -- ProFamNet | Bahar Ali et al. | [2410.17293v1](http://arxiv.org/abs/2410.17293v1) | **NULL** |
-| **2024/10/21** | AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition | Zehua Liu et al. | [2410.16438v1](http://arxiv.org/abs/2410.16438v1) | [**link**](https://github.com/liu12366262626/alignvsr) |
-| **2024/10/21** | Multi-Level Speaker Representation for Target Speaker Extraction | Ke Zhang et al. | [2410.16059v1](http://arxiv.org/abs/2410.16059v1) | [**link**](https://github.com/wenet-e2e/wesep) |
-| **2024/10/21** | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | Guangcong Zheng et al. | [2410.15957v2](http://arxiv.org/abs/2410.15957v2) | [**link**](https://github.com/ZGCTroy/CamI2V) |
-| **2024/10/21** | Revealing and Mitigating the Local Pattern Shortcuts of Mamba | Wangjie You et al. | [2410.15678v1](http://arxiv.org/abs/2410.15678v1) | [**link**](https://github.com/zetangforward/global_mamba) |
 
 ## 背景差分
 
