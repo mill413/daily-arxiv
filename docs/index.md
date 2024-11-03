@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/02 08:59:21
+> Updated on 2024/11/03 09:04:30
 
 <summary>Table of Contents</summary>
 
@@ -44,7 +44,7 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Hou-I Liu et al. | [2404.03507v5](http://arxiv.org/abs/2404.03507v5) | [**link**](https://github.com/katie0723/dq-detr) |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Hou-I Liu et al. | [2404.03507v5](http://arxiv.org/abs/2404.03507v5) | **NULL** |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
@@ -65,7 +65,7 @@ layout: default
 | **2024/10/30** | DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET | Yitong Li et al. | [2410.23219v1](http://arxiv.org/abs/2410.23219v1) | [**link**](https://github.com/ai-med/diamond) |
 | **2024/10/30** | ProTransformer: Robustify Transformers via Plug-and-Play Paradigm | Zhichao Hou et al. | [2410.23182v1](http://arxiv.org/abs/2410.23182v1) | **NULL** |
 | **2024/10/30** | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters | Haiyang Wang et al. | [2410.23168v1](http://arxiv.org/abs/2410.23168v1) | [**link**](https://github.com/haiyang-w/tokenformer) |
-| **2024/10/30** | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | Jingge Xiao et al. | [2410.23160v1](http://arxiv.org/abs/2410.23160v1) | **NULL** |
+| **2024/10/30** | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | Jingge Xiao et al. | [2410.23160v1](http://arxiv.org/abs/2410.23160v1) | [**link**](https://github.com/jingge326/flextsf) |
 | **2024/10/30** | High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer | Mingxian Li et al. | [2410.22922v1](http://arxiv.org/abs/2410.22922v1) | [**link**](https://github.com/CXH-Research/StainRestorer) |
 | **2024/10/30** | HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models | Shengkai Zhang et al. | [2410.22901v1](http://arxiv.org/abs/2410.22901v1) | [**link**](https://github.com/HelloVision/HelloMeme) |
 | **2024/10/30** | Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study | Takuto Yamamoto et al. | [2410.22768v1](http://arxiv.org/abs/2410.22768v1) | **NULL** |
