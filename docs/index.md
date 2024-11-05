@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/04 09:01:53
+> Updated on 2024/11/05 08:59:04
 
 <summary>Table of Contents</summary>
 
@@ -44,7 +44,7 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Hou-I Liu et al. | [2404.03507v5](http://arxiv.org/abs/2404.03507v5) | **NULL** |
+| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v6](http://arxiv.org/abs/2404.03507v6) | [**link**](https://github.com/hoiliu-0801/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 | **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
@@ -53,12 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/10/31** | DELTA: Dense Efficient Long-range 3D Tracking for any video | Tuan Duc Ngo et al. | [2410.24211v1](http://arxiv.org/abs/2410.24211v1) | **NULL** |
+| **2024/10/31** | DELTA: Dense Efficient Long-range 3D Tracking for any video | Tuan Duc Ngo et al. | [2410.24211v2](http://arxiv.org/abs/2410.24211v2) | **NULL** |
 | **2024/10/31** | Length-Induced Embedding Collapse in Transformer-based Models | Yuqi Zhou et al. | [2410.24200v1](http://arxiv.org/abs/2410.24200v1) | **NULL** |
 | **2024/10/31** | The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains | Eric Qu et al. | [2410.24169v1](http://arxiv.org/abs/2410.24169v1) | **NULL** |
 | **2024/10/31** | Deep Learning with HM-VGG: AI Strategies for Multi-modal Image Analysis | Junliang Du et al. | [2410.24046v1](http://arxiv.org/abs/2410.24046v1) | **NULL** |
 | **2024/10/31** | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | Suhan Guo et al. | [2410.24023v1](http://arxiv.org/abs/2410.24023v1) | **NULL** |
-| **2024/10/31** | LSEAttention is All You Need for Time Series Forecasting | Dizhen Liang | [2410.23749v1](http://arxiv.org/abs/2410.23749v1) | **NULL** |
+| **2024/10/31** | LSEAttention is All You Need for Time Series Forecasting | Dizhen Liang | [2410.23749v2](http://arxiv.org/abs/2410.23749v2) | **NULL** |
 | **2024/10/31** | Deep Convolutional Neural Networks on Multiclass Classification of Three-Dimensional Brain Images for Parkinson's Disease Stage Prediction | Guan-Hua Huang et al. | [2410.23649v1](http://arxiv.org/abs/2410.23649v1) | **NULL** |
 | **2024/10/31** | Context-Aware Token Selection and Packing for Enhanced Vision Transformer | Tianyi Zhang et al. | [2410.23608v1](http://arxiv.org/abs/2410.23608v1) | **NULL** |
 | **2024/10/30** | A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization | Bin Wu et al. | [2410.23279v1](http://arxiv.org/abs/2410.23279v1) | **NULL** |
