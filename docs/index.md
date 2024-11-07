@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/06 08:58:42
+> Updated on 2024/11/07 08:59:08
 
 <summary>Table of Contents</summary>
 
@@ -53,16 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/05** | Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation | Francisco Giral et al. | [2411.02975v1](http://arxiv.org/abs/2411.02975v1) | **NULL** |
+| **2024/11/05** | AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI | Haoan Xu et al. | [2411.02867v1](http://arxiv.org/abs/2411.02867v1) | **NULL** |
+| **2024/11/05** | The Evolution of RWKV: Advancements in Efficient Language Modeling | Akul Datta | [2411.02795v1](http://arxiv.org/abs/2411.02795v1) | **NULL** |
+| **2024/11/05** | A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks | Uday Kiran Reddy Tadipatri et al. | [2411.02767v1](http://arxiv.org/abs/2411.02767v1) | **NULL** |
+| **2024/11/05** | TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image | Xiang Li et al. | [2411.02724v1](http://arxiv.org/abs/2411.02724v1) | **NULL** |
 | **2024/11/04** | Adaptive Caching for Faster Video Generation with Diffusion Transformers | Kumara Kahatapitiya et al. | [2411.02397v1](http://arxiv.org/abs/2411.02397v1) | **NULL** |
 | **2024/11/04** | Federated GNNs for EEG-Based Stroke Assessment | Andrea Protani et al. | [2411.02286v1](http://arxiv.org/abs/2411.02286v1) | **NULL** |
-| **2024/11/04** | QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition | Chengpeng Wang et al. | [2411.01988v1](http://arxiv.org/abs/2411.01988v1) | **NULL** |
+| **2024/11/04** | QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition | Chengpeng Wang et al. | [2411.01988v1](http://arxiv.org/abs/2411.01988v1) | [**link**](https://github.com/birdwcp/qcs) |
 | **2024/11/04** | HACD: Harnessing Attribute Semantics and Mesoscopic Structure for Community Detection | Anran Zhang et al. | [2411.01947v1](http://arxiv.org/abs/2411.01947v1) | [**link**](https://github.com/anniran1/hacd1-wsdm) |
-| **2024/11/04** | MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation | Duc Dang Trung Tran et al. | [2411.01781v1](http://arxiv.org/abs/2411.01781v1) | **NULL** |
+| **2024/11/04** | MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation | Duc Dang Trung Tran et al. | [2411.01781v2](http://arxiv.org/abs/2411.01781v2) | **NULL** |
 | **2024/11/04** | xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism | Jiarui Fang et al. | [2411.01738v1](http://arxiv.org/abs/2411.01738v1) | [**link**](https://github.com/xdit-project/xdit) |
 | **2024/11/03** | GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making | Xingyu Hu et al. | [2411.01608v1](http://arxiv.org/abs/2411.01608v1) | **NULL** |
 | **2024/11/03** | FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing | Jitesh Joshi et al. | [2411.01542v1](http://arxiv.org/abs/2411.01542v1) | [**link**](https://github.com/physiologicailab/factorizephys) |
-| **2024/11/03** | LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems | Langming Liu et al. | [2411.01537v1](http://arxiv.org/abs/2411.01537v1) | **NULL** |
-| **2024/11/02** | An Innovative CGL-MHA Model for Sarcasm Sentiment Recognition Using the MindSpore Framework | Zhenkai Qin et al. | [2411.01264v1](http://arxiv.org/abs/2411.01264v1) | **NULL** |
+| **2024/11/03** | LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems | Langming Liu et al. | [2411.01537v1](http://arxiv.org/abs/2411.01537v1) | [**link**](https://github.com/Applied-Machine-Learning-Lab/LinRec) |
+| **2024/11/02** | An Innovative CGL-MHA Model for Sarcasm Sentiment Recognition Using the MindSpore Framework | Zhenkai Qin et al. | [2411.01264v1](http://arxiv.org/abs/2411.01264v1) | [**link**](https://github.com/bitbitlemon/CGL-MHA) |
 | **2024/11/01** | A lightweight Convolutional Neural Network based on U shape structure and Attention Mechanism for Anterior Mediastinum Segmentation | Sina Soleimani-Fard et al. | [2411.01019v1](http://arxiv.org/abs/2411.01019v1) | **NULL** |
 | **2024/11/01** | FedDTPT: Federated Discrete and Transferable Prompt Tuning for Black-Box Large Language Models | Jiaqi Wu et al. | [2411.00985v1](http://arxiv.org/abs/2411.00985v1) | **NULL** |
 | **2024/11/01** | Multilayer Dataflow based Butterfly Sparsity Orchestration to Accelerate Attention Workloads | Haibin Wu et al. | [2411.00734v1](http://arxiv.org/abs/2411.00734v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2024/10/31** | ViT-LCA: A Neuromorphic Approach for Vision Transformers | Sanaz Mahmoodi Takaghaj | [2411.00140v1](http://arxiv.org/abs/2411.00140v1) | **NULL** |
 | **2024/10/31** | DELTA: Dense Efficient Long-range 3D Tracking for any video | Tuan Duc Ngo et al. | [2410.24211v2](http://arxiv.org/abs/2410.24211v2) | **NULL** |
 | **2024/10/31** | Length-Induced Embedding Collapse in Transformer-based Models | Yuqi Zhou et al. | [2410.24200v1](http://arxiv.org/abs/2410.24200v1) | **NULL** |
-| **2024/10/31** | The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains | Eric Qu et al. | [2410.24169v1](http://arxiv.org/abs/2410.24169v1) | **NULL** |
-| **2024/10/31** | Deep Learning with HM-VGG: AI Strategies for Multi-modal Image Analysis | Junliang Du et al. | [2410.24046v1](http://arxiv.org/abs/2410.24046v1) | **NULL** |
-| **2024/10/31** | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | Suhan Guo et al. | [2410.24023v1](http://arxiv.org/abs/2410.24023v1) | **NULL** |
-| **2024/10/31** | LSEAttention is All You Need for Time Series Forecasting | Dizhen Liang | [2410.23749v2](http://arxiv.org/abs/2410.23749v2) | **NULL** |
-| **2024/10/31** | Deep Convolutional Neural Networks on Multiclass Classification of Three-Dimensional Brain Images for Parkinson's Disease Stage Prediction | Guan-Hua Huang et al. | [2410.23649v1](http://arxiv.org/abs/2410.23649v1) | **NULL** |
 
 ## 背景差分
 
