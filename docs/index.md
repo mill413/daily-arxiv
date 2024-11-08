@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/07 08:59:08
+> Updated on 2024/11/08 08:58:39
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/06** | GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting | Jilan Mei et al. | [2411.03807v1](http://arxiv.org/abs/2411.03807v1) | **NULL** |
+| **2024/11/06** | Relation Learning and Aggregate-attention for Multi-person Motion Prediction | Kehua Qu et al. | [2411.03729v1](http://arxiv.org/abs/2411.03729v1) | **NULL** |
+| **2024/11/06** | Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation | Long Shi et al. | [2411.03713v1](http://arxiv.org/abs/2411.03713v1) | **NULL** |
+| **2024/11/06** | Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model | Yansong Qu et al. | [2411.03672v1](http://arxiv.org/abs/2411.03672v1) | **NULL** |
+| **2024/11/06** | Cross Feature Fusion of Fundus Image and Generated Lesion Map for Referable Diabetic Retinopathy Classification | Dahyun Mok et al. | [2411.03618v1](http://arxiv.org/abs/2411.03618v1) | **NULL** |
+| **2024/11/05** | LASER: Attention with Exponential Transformation | Sai Surya Duvvuri et al. | [2411.03493v1](http://arxiv.org/abs/2411.03493v1) | **NULL** |
+| **2024/11/05** | TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs | Fan Wang et al. | [2411.03464v1](http://arxiv.org/abs/2411.03464v1) | **NULL** |
 | **2024/11/05** | Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation | Francisco Giral et al. | [2411.02975v1](http://arxiv.org/abs/2411.02975v1) | **NULL** |
 | **2024/11/05** | AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI | Haoan Xu et al. | [2411.02867v1](http://arxiv.org/abs/2411.02867v1) | **NULL** |
+| **2024/11/05** | Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis | Mohammadreza Kouchaki et al. | [2411.03365v1](http://arxiv.org/abs/2411.03365v1) | **NULL** |
 | **2024/11/05** | The Evolution of RWKV: Advancements in Efficient Language Modeling | Akul Datta | [2411.02795v1](http://arxiv.org/abs/2411.02795v1) | **NULL** |
 | **2024/11/05** | A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks | Uday Kiran Reddy Tadipatri et al. | [2411.02767v1](http://arxiv.org/abs/2411.02767v1) | **NULL** |
 | **2024/11/05** | TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image | Xiang Li et al. | [2411.02724v1](http://arxiv.org/abs/2411.02724v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/11/01** | ZIM: Zero-Shot Image Matting for Anything | Beomyoung Kim et al. | [2411.00626v1](http://arxiv.org/abs/2411.00626v1) | [**link**](https://github.com/naver-ai/zim) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 | **2024/11/01** | MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention | Lianjun Liu | [2411.00472v1](http://arxiv.org/abs/2411.00472v1) | **NULL** |
-| **2024/11/01** | Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions | Jie Wang et al. | [2411.00462v1](http://arxiv.org/abs/2411.00462v1) | [**link**](https://github.com/roywangj/apct) |
-| **2024/11/01** | Differentiable architecture search with multi-dimensional attention for spiking neural networks | Yilei Man et al. | [2411.00902v1](http://arxiv.org/abs/2411.00902v1) | **NULL** |
-| **2024/11/01** | StyleTex: Style Image-Guided Texture Generation for 3D Models | Zhiyu Xie et al. | [2411.00399v1](http://arxiv.org/abs/2411.00399v1) | **NULL** |
-| **2024/10/31** | Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning | John Wu et al. | [2411.00173v1](http://arxiv.org/abs/2411.00173v1) | **NULL** |
-| **2024/10/31** | NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs | Nursena Köprücü et al. | [2411.00151v1](http://arxiv.org/abs/2411.00151v1) | **NULL** |
-| **2024/10/31** | ViT-LCA: A Neuromorphic Approach for Vision Transformers | Sanaz Mahmoodi Takaghaj | [2411.00140v1](http://arxiv.org/abs/2411.00140v1) | **NULL** |
-| **2024/10/31** | DELTA: Dense Efficient Long-range 3D Tracking for any video | Tuan Duc Ngo et al. | [2410.24211v2](http://arxiv.org/abs/2410.24211v2) | **NULL** |
-| **2024/10/31** | Length-Induced Embedding Collapse in Transformer-based Models | Yuqi Zhou et al. | [2410.24200v1](http://arxiv.org/abs/2410.24200v1) | **NULL** |
 
 ## 背景差分
 
