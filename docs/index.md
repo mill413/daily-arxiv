@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/08 08:58:39
+> Updated on 2024/11/09 08:57:15
 
 <summary>Table of Contents</summary>
 
@@ -53,20 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/11/06** | GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting | Jilan Mei et al. | [2411.03807v1](http://arxiv.org/abs/2411.03807v1) | **NULL** |
+| **2024/11/07** | AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation | Anil Kag et al. | [2411.04967v1](http://arxiv.org/abs/2411.04967v1) | **NULL** |
+| **2024/11/07** | SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering | ianyu Yang et al. | [2411.04933v1](http://arxiv.org/abs/2411.04933v1) | **NULL** |
+| **2024/11/07** | High Entropy Alloy property predictions using Transformer-based language model | Spyros Kamnis et al. | [2411.04861v1](http://arxiv.org/abs/2411.04861v1) | **NULL** |
+| **2024/11/07** | SpectraFM: Tuning into Stellar Foundation Models | Nolan Koblischke et al. | [2411.04750v1](http://arxiv.org/abs/2411.04750v1) | **NULL** |
+| **2024/11/07** | Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis | Qiang Wu et al. | [2411.04554v1](http://arxiv.org/abs/2411.04554v1) | [**link**](https://github.com/WuQiangXDU/Peri-midFormer) |
+| **2024/11/07** | Seeing Through Pixel Motion: Learning Obstacle Avoidance from Optical Flow with One Camera | Yu Hu et al. | [2411.04413v1](http://arxiv.org/abs/2411.04413v1) | **NULL** |
+| **2024/11/06** | GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting | Jilan Mei et al. | [2411.03807v2](http://arxiv.org/abs/2411.03807v2) | **NULL** |
 | **2024/11/06** | Relation Learning and Aggregate-attention for Multi-person Motion Prediction | Kehua Qu et al. | [2411.03729v1](http://arxiv.org/abs/2411.03729v1) | **NULL** |
-| **2024/11/06** | Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation | Long Shi et al. | [2411.03713v1](http://arxiv.org/abs/2411.03713v1) | **NULL** |
+| **2024/11/06** | Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation | Long Shi et al. | [2411.03713v1](http://arxiv.org/abs/2411.03713v1) | [**link**](https://github.com/lshi91/GTMC-HOA) |
 | **2024/11/06** | Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model | Yansong Qu et al. | [2411.03672v1](http://arxiv.org/abs/2411.03672v1) | **NULL** |
 | **2024/11/06** | Cross Feature Fusion of Fundus Image and Generated Lesion Map for Referable Diabetic Retinopathy Classification | Dahyun Mok et al. | [2411.03618v1](http://arxiv.org/abs/2411.03618v1) | **NULL** |
 | **2024/11/05** | LASER: Attention with Exponential Transformation | Sai Surya Duvvuri et al. | [2411.03493v1](http://arxiv.org/abs/2411.03493v1) | **NULL** |
-| **2024/11/05** | TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs | Fan Wang et al. | [2411.03464v1](http://arxiv.org/abs/2411.03464v1) | **NULL** |
+| **2024/11/05** | TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs | Fan Wang et al. | [2411.03464v1](http://arxiv.org/abs/2411.03464v1) | [**link**](https://github.com/RNZZL/TopoTxR-A-topology-guided-deep-convolutional-network-for-breast-parenchyma-learning-on-DCE-MRIs-2024) |
 | **2024/11/05** | Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation | Francisco Giral et al. | [2411.02975v1](http://arxiv.org/abs/2411.02975v1) | **NULL** |
 | **2024/11/05** | AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI | Haoan Xu et al. | [2411.02867v1](http://arxiv.org/abs/2411.02867v1) | **NULL** |
 | **2024/11/05** | Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis | Mohammadreza Kouchaki et al. | [2411.03365v1](http://arxiv.org/abs/2411.03365v1) | **NULL** |
 | **2024/11/05** | The Evolution of RWKV: Advancements in Efficient Language Modeling | Akul Datta | [2411.02795v1](http://arxiv.org/abs/2411.02795v1) | **NULL** |
 | **2024/11/05** | A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks | Uday Kiran Reddy Tadipatri et al. | [2411.02767v1](http://arxiv.org/abs/2411.02767v1) | **NULL** |
 | **2024/11/05** | TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image | Xiang Li et al. | [2411.02724v1](http://arxiv.org/abs/2411.02724v1) | **NULL** |
-| **2024/11/04** | Adaptive Caching for Faster Video Generation with Diffusion Transformers | Kumara Kahatapitiya et al. | [2411.02397v1](http://arxiv.org/abs/2411.02397v1) | **NULL** |
+| **2024/11/04** | Adaptive Caching for Faster Video Generation with Diffusion Transformers | Kumara Kahatapitiya et al. | [2411.02397v2](http://arxiv.org/abs/2411.02397v2) | **NULL** |
 | **2024/11/04** | Federated GNNs for EEG-Based Stroke Assessment | Andrea Protani et al. | [2411.02286v1](http://arxiv.org/abs/2411.02286v1) | **NULL** |
 | **2024/11/04** | QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition | Chengpeng Wang et al. | [2411.01988v1](http://arxiv.org/abs/2411.01988v1) | [**link**](https://github.com/birdwcp/qcs) |
 | **2024/11/04** | HACD: Harnessing Attribute Semantics and Mesoscopic Structure for Community Detection | Anran Zhang et al. | [2411.01947v1](http://arxiv.org/abs/2411.01947v1) | [**link**](https://github.com/anniran1/hacd1-wsdm) |
@@ -77,12 +83,6 @@ layout: default
 | **2024/11/03** | LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems | Langming Liu et al. | [2411.01537v1](http://arxiv.org/abs/2411.01537v1) | [**link**](https://github.com/Applied-Machine-Learning-Lab/LinRec) |
 | **2024/11/02** | An Innovative CGL-MHA Model for Sarcasm Sentiment Recognition Using the MindSpore Framework | Zhenkai Qin et al. | [2411.01264v1](http://arxiv.org/abs/2411.01264v1) | [**link**](https://github.com/bitbitlemon/CGL-MHA) |
 | **2024/11/01** | A lightweight Convolutional Neural Network based on U shape structure and Attention Mechanism for Anterior Mediastinum Segmentation | Sina Soleimani-Fard et al. | [2411.01019v1](http://arxiv.org/abs/2411.01019v1) | **NULL** |
-| **2024/11/01** | FedDTPT: Federated Discrete and Transferable Prompt Tuning for Black-Box Large Language Models | Jiaqi Wu et al. | [2411.00985v1](http://arxiv.org/abs/2411.00985v1) | **NULL** |
-| **2024/11/01** | Multilayer Dataflow based Butterfly Sparsity Orchestration to Accelerate Attention Workloads | Haibin Wu et al. | [2411.00734v1](http://arxiv.org/abs/2411.00734v1) | **NULL** |
-| **2024/11/01** | Wasserstein Flow Matching: Generative modeling over families of distributions | Doron Haviv et al. | [2411.00698v1](http://arxiv.org/abs/2411.00698v1) | **NULL** |
-| **2024/11/01** | ZIM: Zero-Shot Image Matting for Anything | Beomyoung Kim et al. | [2411.00626v1](http://arxiv.org/abs/2411.00626v1) | [**link**](https://github.com/naver-ai/zim) |
-| **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
-| **2024/11/01** | MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention | Lianjun Liu | [2411.00472v1](http://arxiv.org/abs/2411.00472v1) | **NULL** |
 
 ## 背景差分
 
