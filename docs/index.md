@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/13 08:59:30
+> Updated on 2024/11/14 08:59:43
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/11/11** | Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models | Yoad Tewel et al. | [2411.07232v1](http://arxiv.org/abs/2411.07232v1) | **NULL** |
+| **2024/11/12** | Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer | Xiao Huo et al. | [2411.07899v1](http://arxiv.org/abs/2411.07899v1) | **NULL** |
+| **2024/11/12** | Emotion Classification of Children Expressions | Sanchayan Vivekananthan | [2411.07708v1](http://arxiv.org/abs/2411.07708v1) | **NULL** |
+| **2024/11/12** | HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification | Cheng Jin et al. | [2411.07660v1](http://arxiv.org/abs/2411.07660v1) | **NULL** |
+| **2024/11/12** | Breaking the Low-Rank Dilemma of Linear Attention | Qihang Fan et al. | [2411.07635v1](http://arxiv.org/abs/2411.07635v1) | [**link**](https://github.com/qhfan/rala) |
+| **2024/11/12** | Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation | Shuai Niu et al. | [2411.07611v1](http://arxiv.org/abs/2411.07611v1) | **NULL** |
+| **2024/11/12** | Multi-task Feature Enhancement Network for No-Reference Image Quality Assessment | Li Yu | [2411.07556v1](http://arxiv.org/abs/2411.07556v1) | **NULL** |
+| **2024/11/12** | All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model | Yuanbo Wen et al. | [2411.07445v1](http://arxiv.org/abs/2411.07445v1) | **NULL** |
+| **2024/11/11** | Spiking Transformer Hardware Accelerators in 3D Integration | Boxun Xu et al. | [2411.07397v1](http://arxiv.org/abs/2411.07397v1) | **NULL** |
+| **2024/11/11** | Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models | Yoad Tewel et al. | [2411.07232v2](http://arxiv.org/abs/2411.07232v2) | **NULL** |
 | **2024/11/11** | More Expressive Attention with Negative Weights | Ang Lv et al. | [2411.07176v1](http://arxiv.org/abs/2411.07176v1) | [**link**](https://github.com/trestad/cogattn) |
 | **2024/11/11** | MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps | Xue Xia et al. | [2411.06971v1](http://arxiv.org/abs/2411.06971v1) | **NULL** |
 | **2024/11/11** | Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition | Yoshiki Masuyama et al. | [2411.06968v1](http://arxiv.org/abs/2411.06968v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2024/11/06** | GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting | Jilan Mei et al. | [2411.03807v3](http://arxiv.org/abs/2411.03807v3) | **NULL** |
 | **2024/11/06** | Relation Learning and Aggregate-attention for Multi-person Motion Prediction | Kehua Qu et al. | [2411.03729v1](http://arxiv.org/abs/2411.03729v1) | **NULL** |
 | **2024/11/06** | Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation | Long Shi et al. | [2411.03713v1](http://arxiv.org/abs/2411.03713v1) | [**link**](https://github.com/lshi91/GTMC-HOA) |
-| **2024/11/06** | Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model | Yansong Qu et al. | [2411.03672v1](http://arxiv.org/abs/2411.03672v1) | **NULL** |
-| **2024/11/06** | Cross Feature Fusion of Fundus Image and Generated Lesion Map for Referable Diabetic Retinopathy Classification | Dahyun Mok et al. | [2411.03618v1](http://arxiv.org/abs/2411.03618v1) | **NULL** |
-| **2024/11/05** | LASER: Attention with Exponential Transformation | Sai Surya Duvvuri et al. | [2411.03493v1](http://arxiv.org/abs/2411.03493v1) | **NULL** |
-| **2024/11/05** | TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs | Fan Wang et al. | [2411.03464v1](http://arxiv.org/abs/2411.03464v1) | [**link**](https://github.com/RNZZL/TopoTxR-A-topology-guided-deep-convolutional-network-for-breast-parenchyma-learning-on-DCE-MRIs-2024) |
-| **2024/11/05** | Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation | Francisco Giral et al. | [2411.02975v1](http://arxiv.org/abs/2411.02975v1) | **NULL** |
-| **2024/11/05** | Leveraging Transfer Learning and Multiple Instance Learning for HER2 Automatic Scoring of H\&E Whole Slide Images | Rawan S. Abdulsadig et al. | [2411.05028v1](http://arxiv.org/abs/2411.05028v1) | **NULL** |
-| **2024/11/05** | AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI | Haoan Xu et al. | [2411.02867v1](http://arxiv.org/abs/2411.02867v1) | **NULL** |
-| **2024/11/05** | Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis | Mohammadreza Kouchaki et al. | [2411.03365v1](http://arxiv.org/abs/2411.03365v1) | **NULL** |
 
 ## 背景差分
 
