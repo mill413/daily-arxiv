@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/14 08:59:43
+> Updated on 2024/11/15 09:03:21
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/13** | Multimodal Instruction Tuning with Hybrid State Space Models | Jianing Zhou et al. | [2411.08840v1](http://arxiv.org/abs/2411.08840v1) | **NULL** |
+| **2024/11/13** | TRACE: Transformer-based Risk Assessment for Clinical Evaluation | Dionysis Christopoulos et al. | [2411.08701v1](http://arxiv.org/abs/2411.08701v1) | **NULL** |
+| **2024/11/13** | SASE: A Searching Architecture for Squeeze and Excitation Operations | Hanming Wang et al. | [2411.08333v1](http://arxiv.org/abs/2411.08333v1) | **NULL** |
+| **2024/11/13** | PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation | Yungang Yi et al. | [2411.08307v1](http://arxiv.org/abs/2411.08307v1) | **NULL** |
+| **2024/11/13** | RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing | Mohamed Mejri et al. | [2411.08290v1](http://arxiv.org/abs/2411.08290v1) | [**link**](https://github.com/mmejri3/resolve) |
+| **2024/11/12** | Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach | Jiyao Li et al. | [2411.08248v1](http://arxiv.org/abs/2411.08248v1) | [**link**](https://github.com/utsjiyaoli/qa-attack) |
 | **2024/11/12** | Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer | Xiao Huo et al. | [2411.07899v1](http://arxiv.org/abs/2411.07899v1) | **NULL** |
 | **2024/11/12** | Emotion Classification of Children Expressions | Sanchayan Vivekananthan | [2411.07708v1](http://arxiv.org/abs/2411.07708v1) | **NULL** |
 | **2024/11/12** | HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification | Cheng Jin et al. | [2411.07660v1](http://arxiv.org/abs/2411.07660v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/11/07** | High Entropy Alloy property predictions using Transformer-based language model | Spyros Kamnis et al. | [2411.04861v1](http://arxiv.org/abs/2411.04861v1) | **NULL** |
 | **2024/11/07** | SpectraFM: Tuning into Stellar Foundation Models | Nolan Koblischke et al. | [2411.04750v1](http://arxiv.org/abs/2411.04750v1) | [**link**](https://github.com/NolanKoblischke/SpectraFM_NeurIPS_FM4Science) |
 | **2024/11/07** | Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis | Qiang Wu et al. | [2411.04554v1](http://arxiv.org/abs/2411.04554v1) | [**link**](https://github.com/WuQiangXDU/Peri-midFormer) |
-| **2024/11/07** | Financial Fraud Detection using Jump-Attentive Graph Neural Networks | Prashank Kadam | [2411.05857v1](http://arxiv.org/abs/2411.05857v1) | **NULL** |
-| **2024/11/07** | Seeing Through Pixel Motion: Learning Obstacle Avoidance from Optical Flow with One Camera | Yu Hu et al. | [2411.04413v1](http://arxiv.org/abs/2411.04413v1) | **NULL** |
-| **2024/11/06** | StegaVision: Enhancing Steganography with Attention Mechanism | Abhinav Kumar et al. | [2411.05838v1](http://arxiv.org/abs/2411.05838v1) | **NULL** |
-| **2024/11/06** | GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting | Jilan Mei et al. | [2411.03807v3](http://arxiv.org/abs/2411.03807v3) | **NULL** |
-| **2024/11/06** | Relation Learning and Aggregate-attention for Multi-person Motion Prediction | Kehua Qu et al. | [2411.03729v1](http://arxiv.org/abs/2411.03729v1) | **NULL** |
-| **2024/11/06** | Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation | Long Shi et al. | [2411.03713v1](http://arxiv.org/abs/2411.03713v1) | [**link**](https://github.com/lshi91/GTMC-HOA) |
 
 ## 背景差分
 
