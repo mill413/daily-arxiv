@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/15 09:03:21
+> Updated on 2024/11/16 09:01:55
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 | **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v1](http://arxiv.org/abs/2410.21822v1) | [**link**](https://github.com/mkang315/pk-yolo) |
 | **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
@@ -47,42 +48,41 @@ layout: default
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v6](http://arxiv.org/abs/2404.03507v6) | [**link**](https://github.com/hoiliu-0801/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
-| **2024/02/20** | YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection | Xiaoyu Tang et al. | [2402.12641v1](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
+| **2024/11/14** | A Centralized-Distributed Transfer Model for Cross-Domain Recommendation Based on Multi-Source Heterogeneous Transfer Learning | Ke Xu et al. | [2411.09286v1](http://arxiv.org/abs/2411.09286v1) | **NULL** |
+| **2024/11/14** | Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism | Libo Wang | [2411.09111v1](http://arxiv.org/abs/2411.09111v1) | [**link**](https://github.com/brucewang123456789/GeniusTrail) |
+| **2024/11/14** | Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery | Ashim Dahal et al. | [2411.09101v1](http://arxiv.org/abs/2411.09101v1) | [**link**](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation) |
+| **2024/11/13** | Scale Contrastive Learning with Selective Attentions for Blind Image Quality Assessment | Zihao Huang et al. | [2411.09007v1](http://arxiv.org/abs/2411.09007v1) | **NULL** |
 | **2024/11/13** | Multimodal Instruction Tuning with Hybrid State Space Models | Jianing Zhou et al. | [2411.08840v1](http://arxiv.org/abs/2411.08840v1) | **NULL** |
 | **2024/11/13** | TRACE: Transformer-based Risk Assessment for Clinical Evaluation | Dionysis Christopoulos et al. | [2411.08701v1](http://arxiv.org/abs/2411.08701v1) | **NULL** |
 | **2024/11/13** | SASE: A Searching Architecture for Squeeze and Excitation Operations | Hanming Wang et al. | [2411.08333v1](http://arxiv.org/abs/2411.08333v1) | **NULL** |
 | **2024/11/13** | PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation | Yungang Yi et al. | [2411.08307v1](http://arxiv.org/abs/2411.08307v1) | **NULL** |
+| **2024/11/13** | ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening | Hojun Jang et al. | [2411.09435v1](http://arxiv.org/abs/2411.09435v1) | **NULL** |
 | **2024/11/13** | RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing | Mohamed Mejri et al. | [2411.08290v1](http://arxiv.org/abs/2411.08290v1) | [**link**](https://github.com/mmejri3/resolve) |
 | **2024/11/12** | Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach | Jiyao Li et al. | [2411.08248v1](http://arxiv.org/abs/2411.08248v1) | [**link**](https://github.com/utsjiyaoli/qa-attack) |
 | **2024/11/12** | Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer | Xiao Huo et al. | [2411.07899v1](http://arxiv.org/abs/2411.07899v1) | **NULL** |
 | **2024/11/12** | Emotion Classification of Children Expressions | Sanchayan Vivekananthan | [2411.07708v1](http://arxiv.org/abs/2411.07708v1) | **NULL** |
 | **2024/11/12** | HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification | Cheng Jin et al. | [2411.07660v1](http://arxiv.org/abs/2411.07660v1) | **NULL** |
-| **2024/11/12** | Breaking the Low-Rank Dilemma of Linear Attention | Qihang Fan et al. | [2411.07635v1](http://arxiv.org/abs/2411.07635v1) | [**link**](https://github.com/qhfan/rala) |
+| **2024/11/12** | Breaking the Low-Rank Dilemma of Linear Attention | Qihang Fan et al. | [2411.07635v2](http://arxiv.org/abs/2411.07635v2) | [**link**](https://github.com/qhfan/rala) |
 | **2024/11/12** | Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation | Shuai Niu et al. | [2411.07611v1](http://arxiv.org/abs/2411.07611v1) | **NULL** |
 | **2024/11/12** | Multi-task Feature Enhancement Network for No-Reference Image Quality Assessment | Li Yu | [2411.07556v1](http://arxiv.org/abs/2411.07556v1) | **NULL** |
 | **2024/11/12** | All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model | Yuanbo Wen et al. | [2411.07445v1](http://arxiv.org/abs/2411.07445v1) | **NULL** |
 | **2024/11/11** | Spiking Transformer Hardware Accelerators in 3D Integration | Boxun Xu et al. | [2411.07397v1](http://arxiv.org/abs/2411.07397v1) | **NULL** |
 | **2024/11/11** | Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models | Yoad Tewel et al. | [2411.07232v2](http://arxiv.org/abs/2411.07232v2) | **NULL** |
-| **2024/11/11** | More Expressive Attention with Negative Weights | Ang Lv et al. | [2411.07176v1](http://arxiv.org/abs/2411.07176v1) | [**link**](https://github.com/trestad/cogattn) |
+| **2024/11/11** | More Expressive Attention with Negative Weights | Ang Lv et al. | [2411.07176v2](http://arxiv.org/abs/2411.07176v2) | [**link**](https://github.com/trestad/cogattn) |
 | **2024/11/11** | MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps | Xue Xia et al. | [2411.06971v1](http://arxiv.org/abs/2411.06971v1) | **NULL** |
-| **2024/11/11** | Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition | Yoshiki Masuyama et al. | [2411.06968v1](http://arxiv.org/abs/2411.06968v1) | **NULL** |
+| **2024/11/11** | Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition | Yoshiki Masuyama et al. | [2411.06968v1](http://arxiv.org/abs/2411.06968v1) | [**link**](https://github.com/YoshikiMas/madeon-asr) |
 | **2024/11/11** | Multi-Modal interpretable automatic video captioning | Antoine Hanna-Asaad et al. | [2411.06872v1](http://arxiv.org/abs/2411.06872v1) | **NULL** |
 | **2024/11/11** | Spatially Constrained Transformer with Efficient Global Relation Modelling for Spatio-Temporal Prediction | Ashutosh Sao et al. | [2411.06836v1](http://arxiv.org/abs/2411.06836v1) | [**link**](https://github.com/ashusao/st-samplenet) |
 | **2024/11/11** | AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness | Yizhuo Yang et al. | [2411.06789v1](http://arxiv.org/abs/2411.06789v1) | **NULL** |
 | **2024/11/11** | GTA-Net: An IoT-Integrated 3D Human Pose Estimation System for Real-Time Adolescent Sports Posture Correction | Shizhe Yuan et al. | [2411.06725v1](http://arxiv.org/abs/2411.06725v1) | **NULL** |
 | **2024/11/11** | Anchor Attention, Small Cache: Code Generation with Large Language Models | Xiangyu Zhang et al. | [2411.06680v1](http://arxiv.org/abs/2411.06680v1) | **NULL** |
-| **2024/11/09** | DFT: A Dual-branch Framework of Fluctuation and Trend for Stock Price Prediction | Chengqi Dong et al. | [2411.06065v1](http://arxiv.org/abs/2411.06065v1) | **NULL** |
-| **2024/11/08** | AuthFormer: Adaptive Multimodal biometric authentication transformer for middle-aged and elderly people | Yang rui et al. | [2411.05395v1](http://arxiv.org/abs/2411.05395v1) | **NULL** |
-| **2024/11/07** | AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation | Anil Kag et al. | [2411.04967v1](http://arxiv.org/abs/2411.04967v1) | **NULL** |
-| **2024/11/07** | SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering | Tianyu Yang et al. | [2411.04933v3](http://arxiv.org/abs/2411.04933v3) | **NULL** |
-| **2024/11/07** | High Entropy Alloy property predictions using Transformer-based language model | Spyros Kamnis et al. | [2411.04861v1](http://arxiv.org/abs/2411.04861v1) | **NULL** |
-| **2024/11/07** | SpectraFM: Tuning into Stellar Foundation Models | Nolan Koblischke et al. | [2411.04750v1](http://arxiv.org/abs/2411.04750v1) | [**link**](https://github.com/NolanKoblischke/SpectraFM_NeurIPS_FM4Science) |
-| **2024/11/07** | Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis | Qiang Wu et al. | [2411.04554v1](http://arxiv.org/abs/2411.04554v1) | [**link**](https://github.com/WuQiangXDU/Peri-midFormer) |
+| **2024/11/09** | DFT: A Dual-branch Framework of Fluctuation and Trend for Stock Price Prediction | Chengqi Dong et al. | [2411.06065v1](http://arxiv.org/abs/2411.06065v1) | [**link**](https://github.com/cq-dong/DFT_25) |
 
 ## 背景差分
 
