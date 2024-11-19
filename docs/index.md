@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/18 09:04:28
+> Updated on 2024/11/19 09:02:56
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 | **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v1](http://arxiv.org/abs/2410.21822v1) | [**link**](https://github.com/mkang315/pk-yolo) |
@@ -47,12 +48,16 @@ layout: default
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v6](http://arxiv.org/abs/2404.03507v6) | [**link**](https://github.com/hoiliu-0801/dq-detr) |
 | **2024/03/16** | HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection | Shibiao Xu et al. | [2403.10778v1](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
-| **2024/02/22** | YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5 | Chun-Lin Ji et al. | [2402.14309v2](http://arxiv.org/abs/2402.14309v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/15** | Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence | Guodong Sun et al. | [2411.10321v1](http://arxiv.org/abs/2411.10321v1) | **NULL** |
+| **2024/11/15** | Morpho-Aware Global Attention for Image Matting | Jingru Yang et al. | [2411.10251v1](http://arxiv.org/abs/2411.10251v1) | **NULL** |
+| **2024/11/15** | A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift | Sanath Budakegowdanadoddi Nagaraju et al. | [2411.10231v1](http://arxiv.org/abs/2411.10231v1) | **NULL** |
+| **2024/11/15** | DaYu: Data-Driven Model for Geostationary Satellite Observed Cloud Images Forecasting | Xujun Wei et al. | [2411.10144v1](http://arxiv.org/abs/2411.10144v1) | **NULL** |
+| **2024/11/15** | XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection | Yang Xiao et al. | [2411.10027v1](http://arxiv.org/abs/2411.10027v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/14** | A Centralized-Distributed Transfer Model for Cross-Domain Recommendation Based on Multi-Source Heterogeneous Transfer Learning | Ke Xu et al. | [2411.09286v1](http://arxiv.org/abs/2411.09286v1) | **NULL** |
 | **2024/11/14** | Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism | Libo Wang | [2411.09111v1](http://arxiv.org/abs/2411.09111v1) | [**link**](https://github.com/brucewang123456789/GeniusTrail) |
@@ -78,11 +83,6 @@ layout: default
 | **2024/11/11** | MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps | Xue Xia et al. | [2411.06971v1](http://arxiv.org/abs/2411.06971v1) | **NULL** |
 | **2024/11/11** | Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition | Yoshiki Masuyama et al. | [2411.06968v1](http://arxiv.org/abs/2411.06968v1) | [**link**](https://github.com/YoshikiMas/madeon-asr) |
 | **2024/11/11** | Multi-Modal interpretable automatic video captioning | Antoine Hanna-Asaad et al. | [2411.06872v1](http://arxiv.org/abs/2411.06872v1) | **NULL** |
-| **2024/11/11** | Spatially Constrained Transformer with Efficient Global Relation Modelling for Spatio-Temporal Prediction | Ashutosh Sao et al. | [2411.06836v1](http://arxiv.org/abs/2411.06836v1) | [**link**](https://github.com/ashusao/st-samplenet) |
-| **2024/11/11** | AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness | Yizhuo Yang et al. | [2411.06789v1](http://arxiv.org/abs/2411.06789v1) | **NULL** |
-| **2024/11/11** | GTA-Net: An IoT-Integrated 3D Human Pose Estimation System for Real-Time Adolescent Sports Posture Correction | Shizhe Yuan et al. | [2411.06725v1](http://arxiv.org/abs/2411.06725v1) | **NULL** |
-| **2024/11/11** | Anchor Attention, Small Cache: Code Generation with Large Language Models | Xiangyu Zhang et al. | [2411.06680v1](http://arxiv.org/abs/2411.06680v1) | **NULL** |
-| **2024/11/09** | DFT: A Dual-branch Framework of Fluctuation and Trend for Stock Price Prediction | Chengqi Dong et al. | [2411.06065v1](http://arxiv.org/abs/2411.06065v1) | [**link**](https://github.com/cq-dong/DFT_25) |
 
 ## 背景差分
 
