@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/20 09:02:23
+> Updated on 2024/11/21 09:02:34
 
 <summary>Table of Contents</summary>
 
@@ -53,14 +53,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2024/11/18** | ST-Tree with Interpretability for Multivariate Time Series Classification | Mingsen Du et al. | [2411.11620v1](http://arxiv.org/abs/2411.11620v1) | [**link**](https://github.com/dumingsen/ST-Tree) |
+| **2024/11/19** | Benchmarking Positional Encodings for GNNs and Graph Transformers | Florian Grötschla et al. | [2411.12732v1](http://arxiv.org/abs/2411.12732v1) | [**link**](https://github.com/ETH-DISCO/Benchmarking-PEs) |
+| **2024/11/19** | S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation | Yuke Wu et al. | [2411.12547v1](http://arxiv.org/abs/2411.12547v1) | **NULL** |
+| **2024/11/19** | Transformer Neural Processes -- Kernel Regression | Daniel Jenson et al. | [2411.12502v1](http://arxiv.org/abs/2411.12502v1) | **NULL** |
+| **2024/11/19** | CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis | Yifan Xie et al. | [2411.12198v1](http://arxiv.org/abs/2411.12198v1) | **NULL** |
+| **2024/11/19** | HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments | Shuijing Liu et al. | [2411.12150v1](http://arxiv.org/abs/2411.12150v1) | **NULL** |
+| **2024/11/18** | Higher Order Graph Attention Probabilistic Walk Networks | Thomas Bailie et al. | [2411.12052v1](http://arxiv.org/abs/2411.12052v1) | **NULL** |
+| **2024/11/18** | ST-Tree with Interpretability for Multivariate Time Series Classification | Mingsen Du et al. | [2411.11620v1](http://arxiv.org/abs/2411.11620v1) | **NULL** |
 | **2024/11/18** | SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions | Shuo Zhang et al. | [2411.11530v1](http://arxiv.org/abs/2411.11530v1) | **NULL** |
 | **2024/11/18** | Graph Artificial Intelligence for Quantifying Compatibility Mechanisms in Traditional Chinese Medicine | Jingqi Zeng et al. | [2411.11474v1](http://arxiv.org/abs/2411.11474v1) | [**link**](https://github.com/zengjingqi/graphai-for-tcm) |
+| **2024/11/18** | FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training | Anjia Cao et al. | [2411.11927v1](http://arxiv.org/abs/2411.11927v1) | **NULL** |
 | **2024/11/18** | GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views | Boyao Zhou et al. | [2411.11363v1](http://arxiv.org/abs/2411.11363v1) | **NULL** |
 | **2024/11/18** | DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery | Jaewoo Heo et al. | [2411.11214v1](http://arxiv.org/abs/2411.11214v1) | **NULL** |
 | **2024/11/16** | Attention-based U-Net Method for Autonomous Lane Detection | Mohammadhamed Tangestanizadeh et al. | [2411.10902v1](http://arxiv.org/abs/2411.10902v1) | **NULL** |
 | **2024/11/16** | Explainable DNN-based Beamformer with Postfilter | Adi Cohen et al. | [2411.10854v1](http://arxiv.org/abs/2411.10854v1) | **NULL** |
+| **2024/11/16** | $\text{S}^{3}$Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model | Peizhe Xia et al. | [2411.11906v1](http://arxiv.org/abs/2411.11906v1) | **NULL** |
 | **2024/11/15** | Vision Eagle Attention: A New Lens for Advancing Image Classification | Mahmudul Hasan | [2411.10564v1](http://arxiv.org/abs/2411.10564v1) | [**link**](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention) |
+| **2024/11/15** | ULTra: Unveiling Latent Token Interpretability in Transformer Based Understanding | Hesam Hosseini et al. | [2411.12589v1](http://arxiv.org/abs/2411.12589v1) | **NULL** |
 | **2024/11/15** | Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence | Guodong Sun et al. | [2411.10321v1](http://arxiv.org/abs/2411.10321v1) | **NULL** |
 | **2024/11/15** | Morpho-Aware Global Attention for Image Matting | Jingru Yang et al. | [2411.10251v1](http://arxiv.org/abs/2411.10251v1) | **NULL** |
 | **2024/11/15** | A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift | Sanath Budakegowdanadoddi Nagaraju et al. | [2411.10231v1](http://arxiv.org/abs/2411.10231v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/11/13** | Multimodal Instruction Tuning with Hybrid State Space Models | Jianing Zhou et al. | [2411.08840v1](http://arxiv.org/abs/2411.08840v1) | **NULL** |
 | **2024/11/13** | TRACE: Transformer-based Risk Assessment for Clinical Evaluation | Dionysis Christopoulos et al. | [2411.08701v1](http://arxiv.org/abs/2411.08701v1) | **NULL** |
 | **2024/11/13** | SASE: A Searching Architecture for Squeeze and Excitation Operations | Hanming Wang et al. | [2411.08333v1](http://arxiv.org/abs/2411.08333v1) | **NULL** |
-| **2024/11/13** | PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation | Yungang Yi et al. | [2411.08307v1](http://arxiv.org/abs/2411.08307v1) | **NULL** |
-| **2024/11/13** | ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening | Hojun Jang et al. | [2411.09435v1](http://arxiv.org/abs/2411.09435v1) | **NULL** |
-| **2024/11/13** | RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing | Mohamed Mejri et al. | [2411.08290v1](http://arxiv.org/abs/2411.08290v1) | [**link**](https://github.com/mmejri3/resolve) |
-| **2024/11/12** | Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach | Jiyao Li et al. | [2411.08248v1](http://arxiv.org/abs/2411.08248v1) | [**link**](https://github.com/utsjiyaoli/qa-attack) |
-| **2024/11/12** | Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer | Xiao Huo et al. | [2411.07899v2](http://arxiv.org/abs/2411.07899v2) | **NULL** |
-| **2024/11/12** | Emotion Classification of Children Expressions | Sanchayan Vivekananthan | [2411.07708v1](http://arxiv.org/abs/2411.07708v1) | **NULL** |
-| **2024/11/12** | HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification | Cheng Jin et al. | [2411.07660v1](http://arxiv.org/abs/2411.07660v1) | **NULL** |
-| **2024/11/12** | Breaking the Low-Rank Dilemma of Linear Attention | Qihang Fan et al. | [2411.07635v3](http://arxiv.org/abs/2411.07635v3) | [**link**](https://github.com/qhfan/rala) |
-| **2024/11/12** | Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation | Shuai Niu et al. | [2411.07611v1](http://arxiv.org/abs/2411.07611v1) | **NULL** |
 
 ## 背景差分
 
