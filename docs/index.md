@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/21 09:02:34
+> Updated on 2024/11/22 09:03:13
 
 <summary>Table of Contents</summary>
 
@@ -30,7 +30,7 @@ layout: default
 | **2024/08/28** | Small Object Detection for Indoor Assistance to the Blind using YOLO NAS Small and Super Gradients | Rashmi BN et al. | [2409.07469v1](http://arxiv.org/abs/2409.07469v1) | **NULL** |
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
-| **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | **NULL** |
+| **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | [**link**](https://github.com/Boshrakh/YoloV8-Small-Object-Detection---Areial-Images) |
 | **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | [**link**](https://github.com/duzw9311/cfpt) |
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v1](http://arxiv.org/abs/2407.16424v1) | **NULL** |
@@ -53,9 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/20** | Quantum Attention for Vision Transformers in High Energy Physics | Alessandro Tesi et al. | [2411.13520v1](http://arxiv.org/abs/2411.13520v1) | **NULL** |
+| **2024/11/20** | When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training | Haonan Wang et al. | [2411.13476v1](http://arxiv.org/abs/2411.13476v1) | [**link**](https://github.com/haonan3/anchorcontext) |
+| **2024/11/20** | Attentive Contextual Attention for Cloud Removal | Wenli Huang et al. | [2411.13042v1](http://arxiv.org/abs/2411.13042v1) | [**link**](https://github.com/huangwenwenlili/aca-crnet) |
+| **2024/11/20** | RobustFormer: Noise-Robust Pre-training for images and videos | Ashish Bastola et al. | [2411.13040v1](http://arxiv.org/abs/2411.13040v1) | **NULL** |
+| **2024/11/19** | Selective Attention: Enhancing Transformer through Principled Context Control | Xuechen Zhang et al. | [2411.12892v1](http://arxiv.org/abs/2411.12892v1) | **NULL** |
 | **2024/11/19** | Benchmarking Positional Encodings for GNNs and Graph Transformers | Florian Grötschla et al. | [2411.12732v1](http://arxiv.org/abs/2411.12732v1) | [**link**](https://github.com/ETH-DISCO/Benchmarking-PEs) |
 | **2024/11/19** | S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation | Yuke Wu et al. | [2411.12547v1](http://arxiv.org/abs/2411.12547v1) | **NULL** |
 | **2024/11/19** | Transformer Neural Processes -- Kernel Regression | Daniel Jenson et al. | [2411.12502v1](http://arxiv.org/abs/2411.12502v1) | **NULL** |
+| **2024/11/19** | Cross-Layer Encrypted Semantic Communication Framework for Panoramic Video Transmission | Haixiao Gao et al. | [2411.12776v1](http://arxiv.org/abs/2411.12776v1) | **NULL** |
 | **2024/11/19** | CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis | Yifan Xie et al. | [2411.12198v1](http://arxiv.org/abs/2411.12198v1) | **NULL** |
 | **2024/11/19** | HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments | Shuijing Liu et al. | [2411.12150v1](http://arxiv.org/abs/2411.12150v1) | **NULL** |
 | **2024/11/18** | Higher Order Graph Attention Probabilistic Walk Networks | Thomas Bailie et al. | [2411.12052v1](http://arxiv.org/abs/2411.12052v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/11/15** | XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection | Yang Xiao et al. | [2411.10027v1](http://arxiv.org/abs/2411.10027v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/14** | A Centralized-Distributed Transfer Model for Cross-Domain Recommendation Based on Multi-Source Heterogeneous Transfer Learning | Ke Xu et al. | [2411.09286v1](http://arxiv.org/abs/2411.09286v1) | **NULL** |
-| **2024/11/14** | Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism | Libo Wang | [2411.09111v2](http://arxiv.org/abs/2411.09111v2) | [**link**](https://github.com/brucewang123456789/GeniusTrail) |
-| **2024/11/14** | Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery | Ashim Dahal et al. | [2411.09101v1](http://arxiv.org/abs/2411.09101v1) | [**link**](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation) |
-| **2024/11/13** | Scale Contrastive Learning with Selective Attentions for Blind Image Quality Assessment | Zihao Huang et al. | [2411.09007v1](http://arxiv.org/abs/2411.09007v1) | **NULL** |
-| **2024/11/13** | Multimodal Instruction Tuning with Hybrid State Space Models | Jianing Zhou et al. | [2411.08840v1](http://arxiv.org/abs/2411.08840v1) | **NULL** |
-| **2024/11/13** | TRACE: Transformer-based Risk Assessment for Clinical Evaluation | Dionysis Christopoulos et al. | [2411.08701v1](http://arxiv.org/abs/2411.08701v1) | **NULL** |
-| **2024/11/13** | SASE: A Searching Architecture for Squeeze and Excitation Operations | Hanming Wang et al. | [2411.08333v1](http://arxiv.org/abs/2411.08333v1) | **NULL** |
 
 ## 背景差分
 
