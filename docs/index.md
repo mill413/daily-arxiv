@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/25 09:04:12
+> Updated on 2024/11/26 09:03:30
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/22** | RED: Effective Trajectory Representation Learning with Comprehensive Information | Silin Zhou et al. | [2411.15096v1](http://arxiv.org/abs/2411.15096v1) | **NULL** |
+| **2024/11/22** | Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation | Yuheng Xu et al. | [2411.14883v1](http://arxiv.org/abs/2411.14883v1) | **NULL** |
+| **2024/11/22** | An Attention-based Framework for Fair Contrastive Learning | Stefan K. Nielsen et al. | [2411.14765v1](http://arxiv.org/abs/2411.14765v1) | **NULL** |
+| **2024/11/22** | Point Cloud Understanding via Attention-Driven Contrastive Learning | Yi Wang et al. | [2411.14744v1](http://arxiv.org/abs/2411.14744v1) | **NULL** |
+| **2024/11/22** | Multiset Transformer: Advancing Representation Learning in Persistence Diagrams | Minghua Wang et al. | [2411.14662v1](http://arxiv.org/abs/2411.14662v1) | [**link**](https://github.com/minghuax/MST) |
 | **2024/11/21** | Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance | Haozhe Zhao et al. | [2411.14279v1](http://arxiv.org/abs/2411.14279v1) | **NULL** |
 | **2024/11/21** | Regional Attention for Shadow Removal | Hengxing Liu et al. | [2411.14201v1](http://arxiv.org/abs/2411.14201v1) | [**link**](https://github.com/CalcuLuUus/RASM) |
 | **2024/11/21** | Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection | Ziyi Wang et al. | [2411.14109v1](http://arxiv.org/abs/2411.14109v1) | [**link**](https://github.com/summitgao/glaformer) |
@@ -78,11 +83,6 @@ layout: default
 | **2024/11/18** | FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training | Anjia Cao et al. | [2411.11927v1](http://arxiv.org/abs/2411.11927v1) | [**link**](https://github.com/miv-xjtu/flame) |
 | **2024/11/18** | GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views | Boyao Zhou et al. | [2411.11363v1](http://arxiv.org/abs/2411.11363v1) | **NULL** |
 | **2024/11/18** | DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery | Jaewoo Heo et al. | [2411.11214v1](http://arxiv.org/abs/2411.11214v1) | **NULL** |
-| **2024/11/16** | Attention-based U-Net Method for Autonomous Lane Detection | Mohammadhamed Tangestanizadeh et al. | [2411.10902v1](http://arxiv.org/abs/2411.10902v1) | **NULL** |
-| **2024/11/16** | Explainable DNN-based Beamformer with Postfilter | Adi Cohen et al. | [2411.10854v1](http://arxiv.org/abs/2411.10854v1) | [**link**](https://github.com/AdiCohen501/ExNet-BF-PF) |
-| **2024/11/16** | $\text{S}^{3}$Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model | Peizhe Xia et al. | [2411.11906v1](http://arxiv.org/abs/2411.11906v1) | **NULL** |
-| **2024/11/15** | Vision Eagle Attention: A New Lens for Advancing Image Classification | Mahmudul Hasan | [2411.10564v1](http://arxiv.org/abs/2411.10564v1) | [**link**](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention) |
-| **2024/11/15** | ULTra: Unveiling Latent Token Interpretability in Transformer Based Understanding | Hesam Hosseini et al. | [2411.12589v1](http://arxiv.org/abs/2411.12589v1) | **NULL** |
 
 ## 背景差分
 
