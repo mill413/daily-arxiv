@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/26 09:03:30
+> Updated on 2024/11/27 09:04:00
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/25** | StructFormer: Document Structure-based Masked Attention and its Impact on Language Model Pre-Training | Kaustubh Ponkshe et al. | [2411.16618v1](http://arxiv.org/abs/2411.16618v1) | **NULL** |
+| **2024/11/25** | J-CaPA : Joint Channel and Pyramid Attention Improves Medical Image Segmentation | Marzia Binta Nizam et al. | [2411.16568v1](http://arxiv.org/abs/2411.16568v1) | **NULL** |
+| **2024/11/25** | Even Sparser Graph Transformers | Hamed Shirzad et al. | [2411.16278v1](http://arxiv.org/abs/2411.16278v1) | **NULL** |
+| **2024/11/24** | Fixing the Perspective: A Critical Examination of Zero-1-to-3 | Jack Yu et al. | [2411.15706v1](http://arxiv.org/abs/2411.15706v1) | **NULL** |
+| **2024/11/23** | TANGNN: a Concise, Scalable and Effective Graph Neural Networks with Top-m Attention Mechanism for Graph Representation Learning | Jiawei E et al. | [2411.15458v1](http://arxiv.org/abs/2411.15458v1) | **NULL** |
 | **2024/11/22** | RED: Effective Trajectory Representation Learning with Comprehensive Information | Silin Zhou et al. | [2411.15096v1](http://arxiv.org/abs/2411.15096v1) | **NULL** |
 | **2024/11/22** | Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation | Yuheng Xu et al. | [2411.14883v1](http://arxiv.org/abs/2411.14883v1) | **NULL** |
+| **2024/11/22** | LocRef-Diffusion:Tuning-Free Layout and Appearance-Guided Generation | Fan Deng et al. | [2411.15252v1](http://arxiv.org/abs/2411.15252v1) | **NULL** |
 | **2024/11/22** | An Attention-based Framework for Fair Contrastive Learning | Stefan K. Nielsen et al. | [2411.14765v1](http://arxiv.org/abs/2411.14765v1) | **NULL** |
 | **2024/11/22** | Point Cloud Understanding via Attention-Driven Contrastive Learning | Yi Wang et al. | [2411.14744v1](http://arxiv.org/abs/2411.14744v1) | **NULL** |
 | **2024/11/22** | Multiset Transformer: Advancing Representation Learning in Persistence Diagrams | Minghua Wang et al. | [2411.14662v1](http://arxiv.org/abs/2411.14662v1) | [**link**](https://github.com/minghuax/MST) |
+| **2024/11/21** | Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI | Meng Ye et al. | [2411.15233v1](http://arxiv.org/abs/2411.15233v1) | **NULL** |
 | **2024/11/21** | Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance | Haozhe Zhao et al. | [2411.14279v1](http://arxiv.org/abs/2411.14279v1) | **NULL** |
 | **2024/11/21** | Regional Attention for Shadow Removal | Hengxing Liu et al. | [2411.14201v1](http://arxiv.org/abs/2411.14201v1) | [**link**](https://github.com/CalcuLuUus/RASM) |
 | **2024/11/21** | Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection | Ziyi Wang et al. | [2411.14109v1](http://arxiv.org/abs/2411.14109v1) | [**link**](https://github.com/summitgao/glaformer) |
 | **2024/11/21** | The Master-Slave Encoder Model for Improving Patent Text Summarization: A New Approach to Combining Specifications and Claims | Shu Zhou et al. | [2411.14072v1](http://arxiv.org/abs/2411.14072v1) | **NULL** |
 | **2024/11/21** | Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation | Ming Zhao et al. | [2411.13847v1](http://arxiv.org/abs/2411.13847v1) | **NULL** |
-| **2024/11/21** | X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion | Chang Sun et al. | [2411.13811v1](http://arxiv.org/abs/2411.13811v1) | **NULL** |
+| **2024/11/21** | X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion | Chang Sun et al. | [2411.13811v2](http://arxiv.org/abs/2411.13811v2) | **NULL** |
+| **2024/11/21** | An accuracy improving method for advertising click through rate prediction based on enhanced xDeepFM model | Xiaowei Xi et al. | [2411.15223v1](http://arxiv.org/abs/2411.15223v1) | **NULL** |
 | **2024/11/20** | Hymba: A Hybrid-head Architecture for Small Language Models | Xin Dong et al. | [2411.13676v1](http://arxiv.org/abs/2411.13676v1) | **NULL** |
 | **2024/11/20** | Quantum Attention for Vision Transformers in High Energy Physics | Alessandro Tesi et al. | [2411.13520v1](http://arxiv.org/abs/2411.13520v1) | **NULL** |
 | **2024/11/20** | When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training | Haonan Wang et al. | [2411.13476v1](http://arxiv.org/abs/2411.13476v1) | [**link**](https://github.com/haonan3/anchorcontext) |
+| **2024/11/20** | M2oE: Multimodal Collaborative Expert Peptide Model | Zengzhu Guo et al. | [2411.15208v1](http://arxiv.org/abs/2411.15208v1) | **NULL** |
+| **2024/11/20** | DAGSM: Disentangled Avatar Generation with GS-enhanced Mesh | Jingyu Zhuang et al. | [2411.15205v1](http://arxiv.org/abs/2411.15205v1) | **NULL** |
 | **2024/11/20** | Attentive Contextual Attention for Cloud Removal | Wenli Huang et al. | [2411.13042v1](http://arxiv.org/abs/2411.13042v1) | [**link**](https://github.com/huangwenwenlili/aca-crnet) |
 | **2024/11/20** | RobustFormer: Noise-Robust Pre-training for images and videos | Ashish Bastola et al. | [2411.13040v1](http://arxiv.org/abs/2411.13040v1) | **NULL** |
 | **2024/11/19** | Selective Attention: Enhancing Transformer through Principled Context Control | Xuechen Zhang et al. | [2411.12892v1](http://arxiv.org/abs/2411.12892v1) | [**link**](https://github.com/umich-sota/selective_attention) |
+| **2024/11/19** | Deep Learning-Based Classification of Hyperkinetic Movement Disorders in Children | Nandika Ramamurthy et al. | [2411.15200v1](http://arxiv.org/abs/2411.15200v1) | **NULL** |
 | **2024/11/19** | Benchmarking Positional Encodings for GNNs and Graph Transformers | Florian Grötschla et al. | [2411.12732v1](http://arxiv.org/abs/2411.12732v1) | [**link**](https://github.com/ETH-DISCO/Benchmarking-PEs) |
 | **2024/11/19** | S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation | Yuke Wu et al. | [2411.12547v1](http://arxiv.org/abs/2411.12547v1) | **NULL** |
-| **2024/11/19** | Transformer Neural Processes -- Kernel Regression | Daniel Jenson et al. | [2411.12502v1](http://arxiv.org/abs/2411.12502v1) | **NULL** |
-| **2024/11/19** | Cross-Layer Encrypted Semantic Communication Framework for Panoramic Video Transmission | Haixiao Gao et al. | [2411.12776v1](http://arxiv.org/abs/2411.12776v1) | **NULL** |
-| **2024/11/19** | CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis | Yifan Xie et al. | [2411.12198v1](http://arxiv.org/abs/2411.12198v1) | **NULL** |
-| **2024/11/19** | HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments | Shuijing Liu et al. | [2411.12150v1](http://arxiv.org/abs/2411.12150v1) | **NULL** |
-| **2024/11/18** | Higher Order Graph Attention Probabilistic Walk Networks | Thomas Bailie et al. | [2411.12052v1](http://arxiv.org/abs/2411.12052v1) | **NULL** |
-| **2024/11/18** | ST-Tree with Interpretability for Multivariate Time Series Classification | Mingsen Du et al. | [2411.11620v1](http://arxiv.org/abs/2411.11620v1) | **NULL** |
-| **2024/11/18** | SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions | Shuo Zhang et al. | [2411.11530v1](http://arxiv.org/abs/2411.11530v1) | **NULL** |
-| **2024/11/18** | Graph Artificial Intelligence for Quantifying Compatibility Mechanisms in Traditional Chinese Medicine | Jingqi Zeng et al. | [2411.11474v1](http://arxiv.org/abs/2411.11474v1) | [**link**](https://github.com/zengjingqi/graphai-for-tcm) |
-| **2024/11/18** | FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training | Anjia Cao et al. | [2411.11927v1](http://arxiv.org/abs/2411.11927v1) | [**link**](https://github.com/miv-xjtu/flame) |
-| **2024/11/18** | GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views | Boyao Zhou et al. | [2411.11363v1](http://arxiv.org/abs/2411.11363v1) | **NULL** |
-| **2024/11/18** | DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery | Jaewoo Heo et al. | [2411.11214v1](http://arxiv.org/abs/2411.11214v1) | **NULL** |
 
 ## 背景差分
 
@@ -96,7 +96,7 @@ layout: default
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
-| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v2](http://arxiv.org/abs/2405.12570v2) | **NULL** |
+| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v3](http://arxiv.org/abs/2405.12570v3) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
