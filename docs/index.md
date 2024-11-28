@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/27 09:04:00
+> Updated on 2024/11/28 09:04:16
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/26** | DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance | Shahriar Soudeep et al. | [2411.17251v1](http://arxiv.org/abs/2411.17251v1) | **NULL** |
 | **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v1](http://arxiv.org/abs/2411.11477v1) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
@@ -47,42 +48,41 @@ layout: default
 | **2024/04/20** | Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer | Quoc Khanh Nguyen et al. | [2404.13417v1](http://arxiv.org/abs/2404.13417v1) | [**link**](https://github.com/khanhnguyenuet/GCAME) |
 | **2024/04/09** | YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images | Chenguang Liu et al. | [2404.06180v2](http://arxiv.org/abs/2404.06180v2) | [**link**](https://github.com/dawn-ech/yolc) |
 | **2024/04/05** | SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers | Weile Li et al. | [2404.04179v1](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| **2024/04/04** | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection | Yi-Xin Huang et al. | [2404.03507v6](http://arxiv.org/abs/2404.03507v6) | [**link**](https://github.com/hoiliu-0801/dq-detr) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/26** | Learning Chemical Reaction Representation with Reactant-Product Alignment | Kaipeng Zeng et al. | [2411.17629v1](http://arxiv.org/abs/2411.17629v1) | **NULL** |
+| **2024/11/26** | Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network | Fuyou Mao et al. | [2411.17420v1](http://arxiv.org/abs/2411.17420v1) | **NULL** |
+| **2024/11/26** | Multimodal Outer Arithmetic Block Dual Fusion of Whole Slide Images and Omics Data for Precision Oncology | Omnia Alwazzan et al. | [2411.17418v1](http://arxiv.org/abs/2411.17418v1) | **NULL** |
+| **2024/11/26** | MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution | Chengxing Xie et al. | [2411.17214v1](http://arxiv.org/abs/2411.17214v1) | **NULL** |
+| **2024/11/26** | LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization | Rui Xie et al. | [2411.17178v1](http://arxiv.org/abs/2411.17178v1) | **NULL** |
+| **2024/11/26** | GMFlow: Global Motion-Guided Recurrent Flow for 6D Object Pose Estimation | Xin Liu et al. | [2411.17174v1](http://arxiv.org/abs/2411.17174v1) | **NULL** |
+| **2024/11/26** | Learning Monotonic Attention in Transducer for Streaming Generation | Zhengrui Ma et al. | [2411.17170v1](http://arxiv.org/abs/2411.17170v1) | [**link**](https://github.com/ictnlp/monoattn-transducer) |
+| **2024/11/26** | Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation | Chanyoung Kim et al. | [2411.17150v1](http://arxiv.org/abs/2411.17150v1) | **NULL** |
+| **2024/11/26** | Crack Detection in Infrastructure Using Transfer Learning, Spatial Attention, and Genetic Algorithm Optimization | Feng Ding | [2411.17140v1](http://arxiv.org/abs/2411.17140v1) | **NULL** |
+| **2024/11/26** | Star Attention: Efficient LLM Inference over Long Sequences | Shantanu Acharya et al. | [2411.17116v1](http://arxiv.org/abs/2411.17116v1) | [**link**](https://github.com/NVIDIA/Star-Attention) |
+| **2024/11/26** | ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction | Chang Li et al. | [2411.17088v1](http://arxiv.org/abs/2411.17088v1) | **NULL** |
+| **2024/11/26** | DeepMDV: Learning Global Matching for Multi-depot Vehicle Routing Problems | Saeed Nasehi et al. | [2411.17080v1](http://arxiv.org/abs/2411.17080v1) | **NULL** |
+| **2024/11/25** | Tree Transformers are an Ineffective Model of Syntactic Constituency | Michael Ginn | [2411.16993v1](http://arxiv.org/abs/2411.16993v1) | **NULL** |
 | **2024/11/25** | StructFormer: Document Structure-based Masked Attention and its Impact on Language Model Pre-Training | Kaustubh Ponkshe et al. | [2411.16618v1](http://arxiv.org/abs/2411.16618v1) | **NULL** |
 | **2024/11/25** | J-CaPA : Joint Channel and Pyramid Attention Improves Medical Image Segmentation | Marzia Binta Nizam et al. | [2411.16568v1](http://arxiv.org/abs/2411.16568v1) | **NULL** |
-| **2024/11/25** | Even Sparser Graph Transformers | Hamed Shirzad et al. | [2411.16278v1](http://arxiv.org/abs/2411.16278v1) | **NULL** |
+| **2024/11/25** | Even Sparser Graph Transformers | Hamed Shirzad et al. | [2411.16278v1](http://arxiv.org/abs/2411.16278v1) | [**link**](https://github.com/hamed1375/Sp_Exphormer) |
+| **2024/11/25** | Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory | Eric Hanchen Jiang et al. | [2411.17472v1](http://arxiv.org/abs/2411.17472v1) | **NULL** |
+| **2024/11/24** | LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis | Haojie Zhang et al. | [2411.16748v1](http://arxiv.org/abs/2411.16748v1) | **NULL** |
 | **2024/11/24** | Fixing the Perspective: A Critical Examination of Zero-1-to-3 | Jack Yu et al. | [2411.15706v1](http://arxiv.org/abs/2411.15706v1) | **NULL** |
-| **2024/11/23** | TANGNN: a Concise, Scalable and Effective Graph Neural Networks with Top-m Attention Mechanism for Graph Representation Learning | Jiawei E et al. | [2411.15458v1](http://arxiv.org/abs/2411.15458v1) | **NULL** |
+| **2024/11/23** | TANGNN: a Concise, Scalable and Effective Graph Neural Networks with Top-m Attention Mechanism for Graph Representation Learning | Jiawei E et al. | [2411.15458v1](http://arxiv.org/abs/2411.15458v1) | [**link**](https://github.com/ejwww/tangnn) |
 | **2024/11/22** | RED: Effective Trajectory Representation Learning with Comprehensive Information | Silin Zhou et al. | [2411.15096v1](http://arxiv.org/abs/2411.15096v1) | **NULL** |
 | **2024/11/22** | Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation | Yuheng Xu et al. | [2411.14883v1](http://arxiv.org/abs/2411.14883v1) | **NULL** |
 | **2024/11/22** | LocRef-Diffusion:Tuning-Free Layout and Appearance-Guided Generation | Fan Deng et al. | [2411.15252v1](http://arxiv.org/abs/2411.15252v1) | **NULL** |
 | **2024/11/22** | An Attention-based Framework for Fair Contrastive Learning | Stefan K. Nielsen et al. | [2411.14765v1](http://arxiv.org/abs/2411.14765v1) | **NULL** |
 | **2024/11/22** | Point Cloud Understanding via Attention-Driven Contrastive Learning | Yi Wang et al. | [2411.14744v1](http://arxiv.org/abs/2411.14744v1) | **NULL** |
 | **2024/11/22** | Multiset Transformer: Advancing Representation Learning in Persistence Diagrams | Minghua Wang et al. | [2411.14662v1](http://arxiv.org/abs/2411.14662v1) | [**link**](https://github.com/minghuax/MST) |
-| **2024/11/21** | Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI | Meng Ye et al. | [2411.15233v1](http://arxiv.org/abs/2411.15233v1) | **NULL** |
+| **2024/11/21** | Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI | Meng Ye et al. | [2411.15233v1](http://arxiv.org/abs/2411.15233v1) | [**link**](https://github.com/deeptag/volumetricneuraldeformablemodels) |
 | **2024/11/21** | Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance | Haozhe Zhao et al. | [2411.14279v1](http://arxiv.org/abs/2411.14279v1) | **NULL** |
 | **2024/11/21** | Regional Attention for Shadow Removal | Hengxing Liu et al. | [2411.14201v1](http://arxiv.org/abs/2411.14201v1) | [**link**](https://github.com/CalcuLuUus/RASM) |
 | **2024/11/21** | Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection | Ziyi Wang et al. | [2411.14109v1](http://arxiv.org/abs/2411.14109v1) | [**link**](https://github.com/summitgao/glaformer) |
-| **2024/11/21** | The Master-Slave Encoder Model for Improving Patent Text Summarization: A New Approach to Combining Specifications and Claims | Shu Zhou et al. | [2411.14072v1](http://arxiv.org/abs/2411.14072v1) | **NULL** |
-| **2024/11/21** | Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation | Ming Zhao et al. | [2411.13847v1](http://arxiv.org/abs/2411.13847v1) | **NULL** |
-| **2024/11/21** | X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion | Chang Sun et al. | [2411.13811v2](http://arxiv.org/abs/2411.13811v2) | **NULL** |
-| **2024/11/21** | An accuracy improving method for advertising click through rate prediction based on enhanced xDeepFM model | Xiaowei Xi et al. | [2411.15223v1](http://arxiv.org/abs/2411.15223v1) | **NULL** |
-| **2024/11/20** | Hymba: A Hybrid-head Architecture for Small Language Models | Xin Dong et al. | [2411.13676v1](http://arxiv.org/abs/2411.13676v1) | **NULL** |
-| **2024/11/20** | Quantum Attention for Vision Transformers in High Energy Physics | Alessandro Tesi et al. | [2411.13520v1](http://arxiv.org/abs/2411.13520v1) | **NULL** |
-| **2024/11/20** | When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training | Haonan Wang et al. | [2411.13476v1](http://arxiv.org/abs/2411.13476v1) | [**link**](https://github.com/haonan3/anchorcontext) |
-| **2024/11/20** | M2oE: Multimodal Collaborative Expert Peptide Model | Zengzhu Guo et al. | [2411.15208v1](http://arxiv.org/abs/2411.15208v1) | **NULL** |
-| **2024/11/20** | DAGSM: Disentangled Avatar Generation with GS-enhanced Mesh | Jingyu Zhuang et al. | [2411.15205v1](http://arxiv.org/abs/2411.15205v1) | **NULL** |
-| **2024/11/20** | Attentive Contextual Attention for Cloud Removal | Wenli Huang et al. | [2411.13042v1](http://arxiv.org/abs/2411.13042v1) | [**link**](https://github.com/huangwenwenlili/aca-crnet) |
-| **2024/11/20** | RobustFormer: Noise-Robust Pre-training for images and videos | Ashish Bastola et al. | [2411.13040v1](http://arxiv.org/abs/2411.13040v1) | **NULL** |
-| **2024/11/19** | Selective Attention: Enhancing Transformer through Principled Context Control | Xuechen Zhang et al. | [2411.12892v1](http://arxiv.org/abs/2411.12892v1) | [**link**](https://github.com/umich-sota/selective_attention) |
-| **2024/11/19** | Deep Learning-Based Classification of Hyperkinetic Movement Disorders in Children | Nandika Ramamurthy et al. | [2411.15200v1](http://arxiv.org/abs/2411.15200v1) | **NULL** |
-| **2024/11/19** | Benchmarking Positional Encodings for GNNs and Graph Transformers | Florian Grötschla et al. | [2411.12732v1](http://arxiv.org/abs/2411.12732v1) | [**link**](https://github.com/ETH-DISCO/Benchmarking-PEs) |
-| **2024/11/19** | S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation | Yuke Wu et al. | [2411.12547v1](http://arxiv.org/abs/2411.12547v1) | **NULL** |
 
 ## 背景差分
 
