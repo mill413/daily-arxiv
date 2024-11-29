@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/11/28 09:04:16
+> Updated on 2024/11/29 09:04:07
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/11/27** | DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model | Xinyu Su et al. | [2411.18286v1](http://arxiv.org/abs/2411.18286v1) | **NULL** |
+| **2024/11/27** | Visual Adversarial Attack on Vision-Language Models for Autonomous Driving | Tianyuan Zhang et al. | [2411.18275v1](http://arxiv.org/abs/2411.18275v1) | **NULL** |
+| **2024/11/27** | HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution | Song-Jiang Lai et al. | [2411.18003v1](http://arxiv.org/abs/2411.18003v1) | **NULL** |
 | **2024/11/26** | Learning Chemical Reaction Representation with Reactant-Product Alignment | Kaipeng Zeng et al. | [2411.17629v1](http://arxiv.org/abs/2411.17629v1) | **NULL** |
 | **2024/11/26** | Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network | Fuyou Mao et al. | [2411.17420v1](http://arxiv.org/abs/2411.17420v1) | **NULL** |
 | **2024/11/26** | Multimodal Outer Arithmetic Block Dual Fusion of Whole Slide Images and Omics Data for Precision Oncology | Omnia Alwazzan et al. | [2411.17418v1](http://arxiv.org/abs/2411.17418v1) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2024/11/22** | Point Cloud Understanding via Attention-Driven Contrastive Learning | Yi Wang et al. | [2411.14744v1](http://arxiv.org/abs/2411.14744v1) | **NULL** |
 | **2024/11/22** | Multiset Transformer: Advancing Representation Learning in Persistence Diagrams | Minghua Wang et al. | [2411.14662v1](http://arxiv.org/abs/2411.14662v1) | [**link**](https://github.com/minghuax/MST) |
 | **2024/11/21** | Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI | Meng Ye et al. | [2411.15233v1](http://arxiv.org/abs/2411.15233v1) | [**link**](https://github.com/deeptag/volumetricneuraldeformablemodels) |
-| **2024/11/21** | Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance | Haozhe Zhao et al. | [2411.14279v1](http://arxiv.org/abs/2411.14279v1) | **NULL** |
-| **2024/11/21** | Regional Attention for Shadow Removal | Hengxing Liu et al. | [2411.14201v1](http://arxiv.org/abs/2411.14201v1) | [**link**](https://github.com/CalcuLuUus/RASM) |
-| **2024/11/21** | Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection | Ziyi Wang et al. | [2411.14109v1](http://arxiv.org/abs/2411.14109v1) | [**link**](https://github.com/summitgao/glaformer) |
 
 ## 背景差分
 
