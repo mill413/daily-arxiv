@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/03 09:05:40
+> Updated on 2024/12/04 09:05:48
 
 <summary>Table of Contents</summary>
 
@@ -19,8 +19,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2024/11/28** | Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection | Junwei Feng et al. | [2411.19071v1](http://arxiv.org/abs/2411.19071v1) | **NULL** |
-| **2024/11/26** | DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance | Shahriar Soudeep et al. | [2411.17251v1](http://arxiv.org/abs/2411.17251v1) | **NULL** |
-| **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v1](http://arxiv.org/abs/2411.11477v1) | **NULL** |
+| **2024/11/26** | DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance | Shahriar Soudeep et al. | [2411.17251v2](http://arxiv.org/abs/2411.17251v2) | **NULL** |
+| **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v2](http://arxiv.org/abs/2411.11477v2) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
@@ -64,7 +64,7 @@ layout: default
 | **2024/11/27** | DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model | Xinyu Su et al. | [2411.18286v1](http://arxiv.org/abs/2411.18286v1) | **NULL** |
 | **2024/11/27** | Visual Adversarial Attack on Vision-Language Models for Autonomous Driving | Tianyuan Zhang et al. | [2411.18275v1](http://arxiv.org/abs/2411.18275v1) | **NULL** |
 | **2024/11/27** | HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events | Dianze Li et al. | [2411.18658v1](http://arxiv.org/abs/2411.18658v1) | **NULL** |
-| **2024/11/27** | HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution | Song-Jiang Lai et al. | [2411.18003v1](http://arxiv.org/abs/2411.18003v1) | **NULL** |
+| **2024/11/27** | HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution | Song-Jiang Lai et al. | [2411.18003v2](http://arxiv.org/abs/2411.18003v2) | **NULL** |
 | **2024/11/26** | Learning Chemical Reaction Representation with Reactant-Product Alignment | Kaipeng Zeng et al. | [2411.17629v1](http://arxiv.org/abs/2411.17629v1) | **NULL** |
 | **2024/11/26** | Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network | Fuyou Mao et al. | [2411.17420v2](http://arxiv.org/abs/2411.17420v2) | **NULL** |
 | **2024/11/26** | Multimodal Outer Arithmetic Block Dual Fusion of Whole Slide Images and Omics Data for Precision Oncology | Omnia Alwazzan et al. | [2411.17418v1](http://arxiv.org/abs/2411.17418v1) | **NULL** |
