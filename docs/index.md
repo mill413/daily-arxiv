@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/07 09:04:33
+> Updated on 2024/12/08 09:11:12
 
 <summary>Table of Contents</summary>
 
@@ -76,8 +76,8 @@ layout: default
 | **2024/12/03** | Enhanced Photovoltaic Power Forecasting: An iTransformer and LSTM-Based Model Integrating Temporal and Covariate Interactions | Guang Wu et al. | [2412.02302v1](http://arxiv.org/abs/2412.02302v1) | [**link**](https://github.com/laowu-code/iTansformer_LSTM_CrossAttention_KAN) |
 | **2024/12/03** | CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems | Yasser Khalafaoui et al. | [2412.02295v1](http://arxiv.org/abs/2412.02295v1) | **NULL** |
 | **2024/12/03** | GQWformer: A Quantum-based Transformer for Graph Representation Learning | Lei Yu et al. | [2412.02285v1](http://arxiv.org/abs/2412.02285v1) | **NULL** |
-| **2024/12/03** | Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images | Xiangyong Lu et al. | [2412.02197v1](http://arxiv.org/abs/2412.02197v1) | **NULL** |
-| **2024/12/02** | Unveiling Interpretability in Self-Supervised Speech Representations for Parkinson's Diagnosis | David Gimeno-Gómez et al. | [2412.02006v1](http://arxiv.org/abs/2412.02006v1) | **NULL** |
+| **2024/12/03** | Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images | Xiangyong Lu et al. | [2412.02197v1](http://arxiv.org/abs/2412.02197v1) | [**link**](https://github.com/xyonglu/cmsa) |
+| **2024/12/02** | Unveiling Interpretability in Self-Supervised Speech Representations for Parkinson's Diagnosis | David Gimeno-Gómez et al. | [2412.02006v1](http://arxiv.org/abs/2412.02006v1) | [**link**](https://github.com/david-gimeno/interpreting-ssl-parkinson-speech) |
 | **2024/12/02** | FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders | Jinming Xing et al. | [2412.01979v1](http://arxiv.org/abs/2412.01979v1) | **NULL** |
 | **2024/12/02** | Efficient Semantic Communication Through Transformer-Aided Compression | Matin Mortaheb et al. | [2412.01817v1](http://arxiv.org/abs/2412.01817v1) | **NULL** |
 | **2024/12/02** | Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation | Christian Witte et al. | [2412.01595v1](http://arxiv.org/abs/2412.01595v1) | **NULL** |
