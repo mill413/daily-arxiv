@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/09 09:07:20
+> Updated on 2024/12/10 09:06:35
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/06** | Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction | Gaurav Shrivastava et al. | [2412.04929v1](http://arxiv.org/abs/2412.04929v1) | **NULL** |
+| **2024/12/06** | Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer | Xueluan Gong et al. | [2412.04776v1](http://arxiv.org/abs/2412.04776v1) | **NULL** |
+| **2024/12/06** | Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern | Hongyin Tang et al. | [2412.04757v1](http://arxiv.org/abs/2412.04757v1) | **NULL** |
+| **2024/12/06** | DHIL-GT: Scalable Graph Transformer with Decoupled Hierarchy Labeling | Ningyi Liao et al. | [2412.04738v1](http://arxiv.org/abs/2412.04738v1) | **NULL** |
+| **2024/12/06** | StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching | Jixun Yao et al. | [2412.04724v1](http://arxiv.org/abs/2412.04724v1) | **NULL** |
+| **2024/12/06** | Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens | Jaihyun Lew et al. | [2412.04680v1](http://arxiv.org/abs/2412.04680v1) | **NULL** |
 | **2024/12/05** | On Deep-Learning-Based Closures for Algebraic Surrogate Models of Turbulent Flows | Benet Eiximeno et al. | [2412.04239v1](http://arxiv.org/abs/2412.04239v1) | **NULL** |
 | **2024/12/05** | AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models | Xinghui Li et al. | [2412.04146v1](http://arxiv.org/abs/2412.04146v1) | **NULL** |
 | **2024/12/05** | HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection | Zuo Zuo et al. | [2412.03969v1](http://arxiv.org/abs/2412.03969v1) | **NULL** |
@@ -70,19 +76,13 @@ layout: default
 | **2024/12/04** | Higher Order Transformers: Efficient Attention Mechanism for Tensor Structured Data | Soroush Omranpour et al. | [2412.02919v1](http://arxiv.org/abs/2412.02919v1) | **NULL** |
 | **2024/12/03** | Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention | Xiangyu Jiang et al. | [2412.02839v1](http://arxiv.org/abs/2412.02839v1) | **NULL** |
 | **2024/12/03** | The Asymptotic Behavior of Attention in Transformers | Álvaro Rodríguez Abella et al. | [2412.02682v1](http://arxiv.org/abs/2412.02682v1) | **NULL** |
-| **2024/12/03** | ShadowHack: Hacking Shadows via Luminance-Color Divide and Conquer | Jin Hu et al. | [2412.02545v1](http://arxiv.org/abs/2412.02545v1) | [**link**](https://github.com/lime-j/shadowhack) |
+| **2024/12/03** | ShadowHack: Hacking Shadows via Luminance-Color Divide and Conquer | Jin Hu et al. | [2412.02545v2](http://arxiv.org/abs/2412.02545v2) | [**link**](https://github.com/lime-j/shadowhack) |
 | **2024/12/03** | Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark | Haidong Xu et al. | [2412.02508v1](http://arxiv.org/abs/2412.02508v1) | [**link**](https://github.com/walkermitty/emoava) |
 | **2024/12/03** | UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices | Seul-Ki Yeom et al. | [2412.02344v1](http://arxiv.org/abs/2412.02344v1) | **NULL** |
 | **2024/12/03** | Enhanced Photovoltaic Power Forecasting: An iTransformer and LSTM-Based Model Integrating Temporal and Covariate Interactions | Guang Wu et al. | [2412.02302v1](http://arxiv.org/abs/2412.02302v1) | [**link**](https://github.com/laowu-code/iTansformer_LSTM_CrossAttention_KAN) |
 | **2024/12/03** | CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems | Yasser Khalafaoui et al. | [2412.02295v1](http://arxiv.org/abs/2412.02295v1) | **NULL** |
 | **2024/12/03** | GQWformer: A Quantum-based Transformer for Graph Representation Learning | Lei Yu et al. | [2412.02285v1](http://arxiv.org/abs/2412.02285v1) | **NULL** |
 | **2024/12/03** | Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images | Xiangyong Lu et al. | [2412.02197v1](http://arxiv.org/abs/2412.02197v1) | [**link**](https://github.com/xyonglu/cmsa) |
-| **2024/12/02** | Unveiling Interpretability in Self-Supervised Speech Representations for Parkinson's Diagnosis | David Gimeno-Gómez et al. | [2412.02006v1](http://arxiv.org/abs/2412.02006v1) | [**link**](https://github.com/david-gimeno/interpreting-ssl-parkinson-speech) |
-| **2024/12/02** | FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders | Jinming Xing et al. | [2412.01979v1](http://arxiv.org/abs/2412.01979v1) | **NULL** |
-| **2024/12/02** | Efficient Semantic Communication Through Transformer-Aided Compression | Matin Mortaheb et al. | [2412.01817v1](http://arxiv.org/abs/2412.01817v1) | **NULL** |
-| **2024/12/02** | Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation | Christian Witte et al. | [2412.01595v1](http://arxiv.org/abs/2412.01595v1) | **NULL** |
-| **2024/12/02** | VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval | Dhiman Paul et al. | [2412.01558v1](http://arxiv.org/abs/2412.01558v1) | [**link**](https://github.com/dpaul06/VideoLights) |
-| **2024/12/02** | ReHub: Linear Complexity Graph Transformers with Adaptive Hub-Spoke Reassignment | Tomer Borreda et al. | [2412.01519v1](http://arxiv.org/abs/2412.01519v1) | **NULL** |
 
 ## 背景差分
 
