@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/11 09:05:49
+> Updated on 2024/12/12 09:05:13
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/10** | 3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation | Xiao Fu et al. | [2412.07759v1](http://arxiv.org/abs/2412.07759v1) | **NULL** |
+| **2024/12/10** | PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation | Fatemeh Nazarieh et al. | [2412.07754v1](http://arxiv.org/abs/2412.07754v1) | **NULL** |
+| **2024/12/10** | Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications | Kai Wang et al. | [2412.07681v1](http://arxiv.org/abs/2412.07681v1) | **NULL** |
+| **2024/12/10** | SurvBETA: Ensemble-Based Survival Models Using Beran Estimators and Several Attention Mechanisms | Lev V. Utkin et al. | [2412.07638v1](http://arxiv.org/abs/2412.07638v1) | **NULL** |
+| **2024/12/10** | Causal World Representation in the GPT Model | Raanan Y. Rohekar et al. | [2412.07446v1](http://arxiv.org/abs/2412.07446v1) | **NULL** |
+| **2024/12/10** | Learning Self-Supervised Audio-Visual Representations for Sound Recommendations | Sudha Krishnamurthy | [2412.07406v1](http://arxiv.org/abs/2412.07406v1) | **NULL** |
+| **2024/12/10** | CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding | Jiquan Wang et al. | [2412.07236v1](http://arxiv.org/abs/2412.07236v1) | [**link**](https://github.com/wjq-learning/cbramod) |
+| **2024/12/10** | Comateformer: Combined Attention Transformer for Semantic Sentence Matching | Bo Li et al. | [2412.07220v1](http://arxiv.org/abs/2412.07220v1) | **NULL** |
+| **2024/12/10** | An Enhancement of CNN Algorithm for Rice Leaf Disease Image Classification in Mobile Applications | Kayne Uriel K. Rodrigo et al. | [2412.07182v1](http://arxiv.org/abs/2412.07182v1) | **NULL** |
+| **2024/12/10** | 3A-YOLO: New Real-Time Object Detectors with Triple Discriminative Awareness and Coordinated Representations | Xuecheng Wu et al. | [2412.07168v1](http://arxiv.org/abs/2412.07168v1) | **NULL** |
+| **2024/12/09** | Static Key Attention in Vision | Zizhao Hu et al. | [2412.07049v1](http://arxiv.org/abs/2412.07049v1) | **NULL** |
 | **2024/12/09** | 3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation | Harish Thangaraj et al. | [2412.06743v1](http://arxiv.org/abs/2412.06743v1) | **NULL** |
 | **2024/12/09** | VidMusician: Video-to-Music Generation with Semantic-Rhythmic Alignment via Hierarchical Visual Features | Sifei Li et al. | [2412.06296v1](http://arxiv.org/abs/2412.06296v1) | **NULL** |
 | **2024/12/09** | SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs | James Vo | [2412.06198v1](http://arxiv.org/abs/2412.06198v1) | **NULL** |
@@ -70,19 +81,8 @@ layout: default
 | **2024/12/06** | Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer | Xueluan Gong et al. | [2412.04776v1](http://arxiv.org/abs/2412.04776v1) | **NULL** |
 | **2024/12/06** | Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern | Hongyin Tang et al. | [2412.04757v1](http://arxiv.org/abs/2412.04757v1) | **NULL** |
 | **2024/12/06** | DHIL-GT: Scalable Graph Transformer with Decoupled Hierarchy Labeling | Ningyi Liao et al. | [2412.04738v1](http://arxiv.org/abs/2412.04738v1) | **NULL** |
-| **2024/12/06** | StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching | Jixun Yao et al. | [2412.04724v1](http://arxiv.org/abs/2412.04724v1) | **NULL** |
+| **2024/12/06** | StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching | Jixun Yao et al. | [2412.04724v2](http://arxiv.org/abs/2412.04724v2) | **NULL** |
 | **2024/12/06** | Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens | Jaihyun Lew et al. | [2412.04680v1](http://arxiv.org/abs/2412.04680v1) | **NULL** |
-| **2024/12/05** | On Deep-Learning-Based Closures for Algebraic Surrogate Models of Turbulent Flows | Benet Eiximeno et al. | [2412.04239v1](http://arxiv.org/abs/2412.04239v1) | **NULL** |
-| **2024/12/05** | AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models | Xinghui Li et al. | [2412.04146v1](http://arxiv.org/abs/2412.04146v1) | **NULL** |
-| **2024/12/05** | HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection | Zuo Zuo et al. | [2412.03969v1](http://arxiv.org/abs/2412.03969v1) | **NULL** |
-| **2024/12/04** | Multi-view Image Diffusion via Coordinate Noise and Fourier Attention | Justin Theiss et al. | [2412.03756v1](http://arxiv.org/abs/2412.03756v1) | **NULL** |
-| **2024/12/04** | HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution | Yuxuan Jiang et al. | [2412.03748v1](http://arxiv.org/abs/2412.03748v1) | **NULL** |
-| **2024/12/04** | MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation | Zehuan Huang et al. | [2412.03558v1](http://arxiv.org/abs/2412.03558v1) | **NULL** |
-| **2024/12/04** | Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention | Hannan Lu et al. | [2412.03520v2](http://arxiv.org/abs/2412.03520v2) | **NULL** |
-| **2024/12/04** | Multimodal Sentiment Analysis Based on BERT and ResNet | JiaLe Ren | [2412.03625v1](http://arxiv.org/abs/2412.03625v1) | **NULL** |
-| **2024/12/04** | Equivariant Representation Learning for Augmentation-based Self-Supervised Learning via Image Reconstruction | Qin Wang et al. | [2412.03314v1](http://arxiv.org/abs/2412.03314v1) | **NULL** |
-| **2024/12/04** | Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis | Siyoon Jin et al. | [2412.03150v1](http://arxiv.org/abs/2412.03150v1) | **NULL** |
-| **2024/12/04** | Advanced Risk Prediction and Stability Assessment of Banks Using Time Series Transformer Models | Wenying Sun et al. | [2412.03606v1](http://arxiv.org/abs/2412.03606v1) | **NULL** |
 
 ## 背景差分
 
