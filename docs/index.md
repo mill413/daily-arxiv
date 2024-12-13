@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/12 09:05:13
+> Updated on 2024/12/13 09:06:25
 
 <summary>Table of Contents</summary>
 
@@ -21,7 +21,7 @@ layout: default
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
 | **2024/12/06** | YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery | Sindhu Boddu et al. | [2412.05394v1](http://arxiv.org/abs/2412.05394v1) | **NULL** |
 | **2024/11/28** | Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection | Junwei Feng et al. | [2411.19071v1](http://arxiv.org/abs/2411.19071v1) | **NULL** |
-| **2024/11/26** | DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance | Shahriar Soudeep et al. | [2411.17251v2](http://arxiv.org/abs/2411.17251v2) | **NULL** |
+| **2024/11/26** | DGNN-YOLO: Interpretable Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance | Shahriar Soudeep et al. | [2411.17251v3](http://arxiv.org/abs/2411.17251v3) | **NULL** |
 | **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v2](http://arxiv.org/abs/2411.11477v2) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
@@ -53,10 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/11** | TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs | Hao Kang et al. | [2412.08585v1](http://arxiv.org/abs/2412.08585v1) | **NULL** |
+| **2024/12/11** | A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis | Nguyen Van Doan et al. | [2412.08489v1](http://arxiv.org/abs/2412.08489v1) | **NULL** |
+| **2024/12/11** | Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation | Fermin Orozco et al. | [2412.08460v1](http://arxiv.org/abs/2412.08460v1) | **NULL** |
+| **2024/12/11** | LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba | Yubo Cui et al. | [2412.08388v1](http://arxiv.org/abs/2412.08388v1) | **NULL** |
+| **2024/12/11** | Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection | Yining Pang et al. | [2412.08301v1](http://arxiv.org/abs/2412.08301v1) | **NULL** |
+| **2024/12/11** | A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision | Guiran Liu et al. | [2412.08148v1](http://arxiv.org/abs/2412.08148v1) | **NULL** |
+| **2024/12/11** | Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation | Hee-Seon Kim et al. | [2412.08108v1](http://arxiv.org/abs/2412.08108v1) | **NULL** |
+| **2024/12/11** | Multimodal Difference Learning for Sequential Recommendation | Changhong Li et al. | [2412.08103v1](http://arxiv.org/abs/2412.08103v1) | **NULL** |
+| **2024/12/11** | EM-Net: Gaze Estimation with Expectation Maximization Algorithm | Zhang Cheng et al. | [2412.08074v1](http://arxiv.org/abs/2412.08074v1) | **NULL** |
+| **2024/12/11** | Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation | Zhigang Cen et al. | [2412.08034v1](http://arxiv.org/abs/2412.08034v1) | **NULL** |
+| **2024/12/11** | Accurate Prediction of Temperature Indicators in Eastern China Using a Multi-Scale CNN-LSTM-Attention model | Jiajiang Shen et al. | [2412.07997v1](http://arxiv.org/abs/2412.07997v1) | **NULL** |
+| **2024/12/10** | Demystifying Workload Imbalances in Large Transformer Model Training over Variable-length Sequences | Haoyang Li et al. | [2412.07894v1](http://arxiv.org/abs/2412.07894v1) | **NULL** |
 | **2024/12/10** | 3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation | Xiao Fu et al. | [2412.07759v1](http://arxiv.org/abs/2412.07759v1) | **NULL** |
 | **2024/12/10** | PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation | Fatemeh Nazarieh et al. | [2412.07754v1](http://arxiv.org/abs/2412.07754v1) | **NULL** |
 | **2024/12/10** | Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications | Kai Wang et al. | [2412.07681v1](http://arxiv.org/abs/2412.07681v1) | **NULL** |
-| **2024/12/10** | SurvBETA: Ensemble-Based Survival Models Using Beran Estimators and Several Attention Mechanisms | Lev V. Utkin et al. | [2412.07638v1](http://arxiv.org/abs/2412.07638v1) | **NULL** |
+| **2024/12/10** | SurvBETA: Ensemble-Based Survival Models Using Beran Estimators and Several Attention Mechanisms | Lev V. Utkin et al. | [2412.07638v1](http://arxiv.org/abs/2412.07638v1) | [**link**](https://github.com/NTAILab/SurvBETA) |
 | **2024/12/10** | Causal World Representation in the GPT Model | Raanan Y. Rohekar et al. | [2412.07446v1](http://arxiv.org/abs/2412.07446v1) | **NULL** |
 | **2024/12/10** | Learning Self-Supervised Audio-Visual Representations for Sound Recommendations | Sudha Krishnamurthy | [2412.07406v1](http://arxiv.org/abs/2412.07406v1) | **NULL** |
 | **2024/12/10** | CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding | Jiquan Wang et al. | [2412.07236v1](http://arxiv.org/abs/2412.07236v1) | [**link**](https://github.com/wjq-learning/cbramod) |
@@ -71,18 +83,6 @@ layout: default
 | **2024/12/08** | SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation | Naizhu Jin et al. | [2412.05829v1](http://arxiv.org/abs/2412.05829v1) | **NULL** |
 | **2024/12/07** | Multimodal Biometric Authentication Using Camera-Based PPG and Fingerprint Fusion | Xue Xian Zheng et al. | [2412.05660v1](http://arxiv.org/abs/2412.05660v1) | **NULL** |
 | **2024/12/07** | RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation | Xiang Gao et al. | [2412.05605v1](http://arxiv.org/abs/2412.05605v1) | **NULL** |
-| **2024/12/07** | UNet++ and LSTM combined approach for Breast Ultrasound Image Segmentation | Saba Hesaraki et al. | [2412.05585v1](http://arxiv.org/abs/2412.05585v1) | **NULL** |
-| **2024/12/07** | On the Expressive Power of Modern Hopfield Networks | Xiaoyu Li et al. | [2412.05562v1](http://arxiv.org/abs/2412.05562v1) | **NULL** |
-| **2024/12/07** | WavFusion: Towards wav2vec 2.0 Multimodal Speech Emotion Recognition | Feng Li et al. | [2412.05558v1](http://arxiv.org/abs/2412.05558v1) | **NULL** |
-| **2024/12/07** | Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers | Boxun Xu et al. | [2412.05540v1](http://arxiv.org/abs/2412.05540v1) | **NULL** |
-| **2024/12/07** | Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search | Boxun Xu et al. | [2412.05505v1](http://arxiv.org/abs/2412.05505v1) | **NULL** |
-| **2024/12/06** | KEDformer:Knowledge Extraction Seasonal Trend Decomposition for Long-term Sequence Prediction | Zhenkai Qin et al. | [2412.05421v1](http://arxiv.org/abs/2412.05421v1) | **NULL** |
-| **2024/12/06** | Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction | Gaurav Shrivastava et al. | [2412.04929v2](http://arxiv.org/abs/2412.04929v2) | **NULL** |
-| **2024/12/06** | Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer | Xueluan Gong et al. | [2412.04776v1](http://arxiv.org/abs/2412.04776v1) | **NULL** |
-| **2024/12/06** | Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern | Hongyin Tang et al. | [2412.04757v1](http://arxiv.org/abs/2412.04757v1) | **NULL** |
-| **2024/12/06** | DHIL-GT: Scalable Graph Transformer with Decoupled Hierarchy Labeling | Ningyi Liao et al. | [2412.04738v1](http://arxiv.org/abs/2412.04738v1) | **NULL** |
-| **2024/12/06** | StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching | Jixun Yao et al. | [2412.04724v2](http://arxiv.org/abs/2412.04724v2) | **NULL** |
-| **2024/12/06** | Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens | Jaihyun Lew et al. | [2412.04680v1](http://arxiv.org/abs/2412.04680v1) | **NULL** |
 
 ## 背景差分
 
