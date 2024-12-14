@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/13 09:06:25
+> Updated on 2024/12/14 09:04:09
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/12** | Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection | Yangguang Feng | [2412.09467v1](http://arxiv.org/abs/2412.09467v1) | **NULL** |
+| **2024/12/12** | Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering | Sai Bhargav Rongali et al. | [2412.09230v1](http://arxiv.org/abs/2412.09230v1) | **NULL** |
+| **2024/12/12** | RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction | Zhihao Ding et al. | [2412.09030v1](http://arxiv.org/abs/2412.09030v1) | **NULL** |
+| **2024/12/12** | STEAM: Squeeze and Transform Enhanced Attention Module | Rishabh Sabharwal et al. | [2412.09023v1](http://arxiv.org/abs/2412.09023v1) | **NULL** |
+| **2024/12/12** | Improvement in Sign Language Translation Using Text CTC Alignment | Sihan Tan et al. | [2412.09014v1](http://arxiv.org/abs/2412.09014v1) | **NULL** |
+| **2024/12/11** | Emotional Vietnamese Speech-Based Depression Diagnosis Using Dynamic Attention Mechanism | Quang-Anh N. D. et al. | [2412.08683v1](http://arxiv.org/abs/2412.08683v1) | [**link**](https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism) |
 | **2024/12/11** | TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs | Hao Kang et al. | [2412.08585v1](http://arxiv.org/abs/2412.08585v1) | **NULL** |
 | **2024/12/11** | A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis | Nguyen Van Doan et al. | [2412.08489v1](http://arxiv.org/abs/2412.08489v1) | **NULL** |
 | **2024/12/11** | Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation | Fermin Orozco et al. | [2412.08460v1](http://arxiv.org/abs/2412.08460v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2024/12/10** | 3A-YOLO: New Real-Time Object Detectors with Triple Discriminative Awareness and Coordinated Representations | Xuecheng Wu et al. | [2412.07168v1](http://arxiv.org/abs/2412.07168v1) | **NULL** |
 | **2024/12/09** | Static Key Attention in Vision | Zizhao Hu et al. | [2412.07049v1](http://arxiv.org/abs/2412.07049v1) | **NULL** |
 | **2024/12/09** | 3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation | Harish Thangaraj et al. | [2412.06743v1](http://arxiv.org/abs/2412.06743v1) | **NULL** |
-| **2024/12/09** | VidMusician: Video-to-Music Generation with Semantic-Rhythmic Alignment via Hierarchical Visual Features | Sifei Li et al. | [2412.06296v1](http://arxiv.org/abs/2412.06296v1) | **NULL** |
-| **2024/12/09** | SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs | James Vo | [2412.06198v1](http://arxiv.org/abs/2412.06198v1) | **NULL** |
-| **2024/12/08** | Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling | Kaleel Mahmood et al. | [2412.06106v1](http://arxiv.org/abs/2412.06106v1) | **NULL** |
-| **2024/12/08** | SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation | Naizhu Jin et al. | [2412.05829v1](http://arxiv.org/abs/2412.05829v1) | **NULL** |
-| **2024/12/07** | Multimodal Biometric Authentication Using Camera-Based PPG and Fingerprint Fusion | Xue Xian Zheng et al. | [2412.05660v1](http://arxiv.org/abs/2412.05660v1) | **NULL** |
-| **2024/12/07** | RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation | Xiang Gao et al. | [2412.05605v1](http://arxiv.org/abs/2412.05605v1) | **NULL** |
 
 ## 背景差分
 
