@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/14 09:04:09
+> Updated on 2024/12/15 09:10:29
 
 <summary>Table of Contents</summary>
 
@@ -55,9 +55,9 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2024/12/12** | Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection | Yangguang Feng | [2412.09467v1](http://arxiv.org/abs/2412.09467v1) | **NULL** |
 | **2024/12/12** | Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering | Sai Bhargav Rongali et al. | [2412.09230v1](http://arxiv.org/abs/2412.09230v1) | **NULL** |
-| **2024/12/12** | RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction | Zhihao Ding et al. | [2412.09030v1](http://arxiv.org/abs/2412.09030v1) | **NULL** |
+| **2024/12/12** | RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction | Zhihao Ding et al. | [2412.09030v1](http://arxiv.org/abs/2412.09030v1) | [**link**](https://github.com/TommyDzh/RingFormer) |
 | **2024/12/12** | STEAM: Squeeze and Transform Enhanced Attention Module | Rishabh Sabharwal et al. | [2412.09023v1](http://arxiv.org/abs/2412.09023v1) | **NULL** |
-| **2024/12/12** | Improvement in Sign Language Translation Using Text CTC Alignment | Sihan Tan et al. | [2412.09014v1](http://arxiv.org/abs/2412.09014v1) | **NULL** |
+| **2024/12/12** | Improvement in Sign Language Translation Using Text CTC Alignment | Sihan Tan et al. | [2412.09014v1](http://arxiv.org/abs/2412.09014v1) | [**link**](https://github.com/Claire874/TextCTC-SLT) |
 | **2024/12/11** | Emotional Vietnamese Speech-Based Depression Diagnosis Using Dynamic Attention Mechanism | Quang-Anh N. D. et al. | [2412.08683v1](http://arxiv.org/abs/2412.08683v1) | [**link**](https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism) |
 | **2024/12/11** | TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs | Hao Kang et al. | [2412.08585v1](http://arxiv.org/abs/2412.08585v1) | **NULL** |
 | **2024/12/11** | A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis | Nguyen Van Doan et al. | [2412.08489v1](http://arxiv.org/abs/2412.08489v1) | **NULL** |
