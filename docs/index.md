@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/16 09:07:49
+> Updated on 2024/12/17 09:05:48
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v1](http://arxiv.org/abs/2412.10116v1) | **NULL** |
+| **2024/12/13** | RemDet: Rethinking Efficient Model Design for UAV Object Detection | Chen Li et al. | [2412.10040v1](http://arxiv.org/abs/2412.10040v1) | [**link**](https://github.com/hzai-zjnu/remdet) |
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
 | **2024/12/06** | YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery | Sindhu Boddu et al. | [2412.05394v1](http://arxiv.org/abs/2412.05394v1) | **NULL** |
 | **2024/11/28** | Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection | Junwei Feng et al. | [2411.19071v1](http://arxiv.org/abs/2411.19071v1) | **NULL** |
@@ -46,18 +48,25 @@ layout: default
 | **2024/06/08** | Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes | Hao Zhang et al. | [2406.05412v1](http://arxiv.org/abs/2406.05412v1) | [**link**](https://github.com/malagoutou/select-mosaic) |
 | **2024/05/18** | Visible and Clear: Finding Tiny Objects in Difference Map | Bing Cao et al. | [2405.11276v3](http://arxiv.org/abs/2405.11276v3) | [**link**](https://github.com/Hiyuur/SR-TOD) |
 | **2024/05/17** | Better Sampling, towards Better End-to-end Small Object Detection | Zile Huang et al. | [2407.06127v1](http://arxiv.org/abs/2407.06127v1) | **NULL** |
-| **2024/05/02** | SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | Tushar Verma et al. | [2405.01699v2](http://arxiv.org/abs/2405.01699v2) | **NULL** |
-| **2024/04/25** | Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection | Mehmet Kerem Turkcan et al. | [2404.16944v1](http://arxiv.org/abs/2404.16944v1) | [**link**](https://github.com/zk2172-columbia/constellation-dataset) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/13** | DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding | Zhiyu Wu et al. | [2412.10302v1](http://arxiv.org/abs/2412.10302v1) | [**link**](https://github.com/deepseek-ai/deepseek-vl2) |
+| **2024/12/13** | Prompt-Guided Mask Proposal for Two-Stage Open-Vocabulary Segmentation | Yu-Jhe Li et al. | [2412.10292v1](http://arxiv.org/abs/2412.10292v1) | **NULL** |
+| **2024/12/13** | Label-template based Few-Shot Text Classification with Contrastive Learning | Guanghua Hou et al. | [2412.10110v1](http://arxiv.org/abs/2412.10110v1) | **NULL** |
+| **2024/12/13** | AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation | Xiyuan Gao et al. | [2412.10103v1](http://arxiv.org/abs/2412.10103v1) | **NULL** |
+| **2024/12/13** | FaceShield: Defending Facial Image against Deepfake Threats | Jaehwan Jeong et al. | [2412.09921v1](http://arxiv.org/abs/2412.09921v1) | **NULL** |
+| **2024/12/13** | MSC: Multi-Scale Spatio-Temporal Causal Attention for Autoregressive Video Diffusion | Xunnong Xu et al. | [2412.09828v1](http://arxiv.org/abs/2412.09828v1) | **NULL** |
+| **2024/12/13** | Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism | Jun Zheng et al. | [2412.09822v1](http://arxiv.org/abs/2412.09822v1) | **NULL** |
 | **2024/12/12** | Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection | Yangguang Feng | [2412.09467v1](http://arxiv.org/abs/2412.09467v1) | **NULL** |
 | **2024/12/12** | Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering | Sai Bhargav Rongali et al. | [2412.09230v1](http://arxiv.org/abs/2412.09230v1) | **NULL** |
+| **2024/12/12** | SEGT: A General Spatial Expansion Group Transformer for nuScenes Lidar-based Object Detection Task | Cheng Mei et al. | [2412.09658v1](http://arxiv.org/abs/2412.09658v1) | **NULL** |
 | **2024/12/12** | RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction | Zhihao Ding et al. | [2412.09030v1](http://arxiv.org/abs/2412.09030v1) | [**link**](https://github.com/TommyDzh/RingFormer) |
 | **2024/12/12** | STEAM: Squeeze and Transform Enhanced Attention Module | Rishabh Sabharwal et al. | [2412.09023v1](http://arxiv.org/abs/2412.09023v1) | **NULL** |
-| **2024/12/12** | Improvement in Sign Language Translation Using Text CTC Alignment | Sihan Tan et al. | [2412.09014v1](http://arxiv.org/abs/2412.09014v1) | [**link**](https://github.com/Claire874/TextCTC-SLT) |
+| **2024/12/12** | Improvement in Sign Language Translation Using Text CTC Alignment | Sihan Tan et al. | [2412.09014v2](http://arxiv.org/abs/2412.09014v2) | [**link**](https://github.com/Claire874/TextCTC-SLT) |
+| **2024/12/12** | From Noise to Nuance: Advances in Deep Generative Image Models | Benji Peng et al. | [2412.09656v1](http://arxiv.org/abs/2412.09656v1) | **NULL** |
 | **2024/12/11** | Emotional Vietnamese Speech-Based Depression Diagnosis Using Dynamic Attention Mechanism | Quang-Anh N. D. et al. | [2412.08683v1](http://arxiv.org/abs/2412.08683v1) | [**link**](https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism) |
 | **2024/12/11** | TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs | Hao Kang et al. | [2412.08585v1](http://arxiv.org/abs/2412.08585v1) | **NULL** |
 | **2024/12/11** | A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis | Nguyen Van Doan et al. | [2412.08489v1](http://arxiv.org/abs/2412.08489v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/12/10** | 3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation | Xiao Fu et al. | [2412.07759v1](http://arxiv.org/abs/2412.07759v1) | **NULL** |
 | **2024/12/10** | PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation | Fatemeh Nazarieh et al. | [2412.07754v1](http://arxiv.org/abs/2412.07754v1) | **NULL** |
 | **2024/12/10** | Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications | Kai Wang et al. | [2412.07681v1](http://arxiv.org/abs/2412.07681v1) | **NULL** |
-| **2024/12/10** | SurvBETA: Ensemble-Based Survival Models Using Beran Estimators and Several Attention Mechanisms | Lev V. Utkin et al. | [2412.07638v1](http://arxiv.org/abs/2412.07638v1) | [**link**](https://github.com/NTAILab/SurvBETA) |
-| **2024/12/10** | Causal World Representation in the GPT Model | Raanan Y. Rohekar et al. | [2412.07446v1](http://arxiv.org/abs/2412.07446v1) | **NULL** |
-| **2024/12/10** | Learning Self-Supervised Audio-Visual Representations for Sound Recommendations | Sudha Krishnamurthy | [2412.07406v1](http://arxiv.org/abs/2412.07406v1) | **NULL** |
-| **2024/12/10** | CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding | Jiquan Wang et al. | [2412.07236v1](http://arxiv.org/abs/2412.07236v1) | [**link**](https://github.com/wjq-learning/cbramod) |
-| **2024/12/10** | Comateformer: Combined Attention Transformer for Semantic Sentence Matching | Bo Li et al. | [2412.07220v1](http://arxiv.org/abs/2412.07220v1) | **NULL** |
-| **2024/12/10** | An Enhancement of CNN Algorithm for Rice Leaf Disease Image Classification in Mobile Applications | Kayne Uriel K. Rodrigo et al. | [2412.07182v1](http://arxiv.org/abs/2412.07182v1) | **NULL** |
-| **2024/12/10** | 3A-YOLO: New Real-Time Object Detectors with Triple Discriminative Awareness and Coordinated Representations | Xuecheng Wu et al. | [2412.07168v1](http://arxiv.org/abs/2412.07168v1) | **NULL** |
-| **2024/12/09** | Static Key Attention in Vision | Zizhao Hu et al. | [2412.07049v1](http://arxiv.org/abs/2412.07049v1) | **NULL** |
-| **2024/12/09** | 3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation | Harish Thangaraj et al. | [2412.06743v1](http://arxiv.org/abs/2412.06743v1) | **NULL** |
 
 ## 背景差分
 
