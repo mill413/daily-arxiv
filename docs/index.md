@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/20 09:00:03
+> Updated on 2024/12/21 08:59:14
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/19** | Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture | Thomas F Burns et al. | [2412.15113v1](http://arxiv.org/abs/2412.15113v1) | [**link**](https://github.com/tfburns/amicl-and-residual-attention-streams) |
+| **2024/12/19** | Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation | Rongqing Kenneth Ong et al. | [2412.14978v1](http://arxiv.org/abs/2412.14978v1) | **NULL** |
+| **2024/12/19** | MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data | Camillo Maria Caruso et al. | [2412.14810v1](http://arxiv.org/abs/2412.14810v1) | **NULL** |
+| **2024/12/19** | FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities | Byeonghun Kim et al. | [2412.14768v1](http://arxiv.org/abs/2412.14768v1) | **NULL** |
+| **2024/12/19** | Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning | Eric Brouwer et al. | [2412.14640v1](http://arxiv.org/abs/2412.14640v1) | **NULL** |
+| **2024/12/19** | Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization Through Spare-Coding Transformer | Lei Su et al. | [2412.14598v1](http://arxiv.org/abs/2412.14598v1) | **NULL** |
+| **2024/12/19** | Leveraging Time Series Categorization and Temporal Fusion Transformers to Improve Cryptocurrency Price Forecasting | Arash Peik et al. | [2412.14529v1](http://arxiv.org/abs/2412.14529v1) | **NULL** |
+| **2024/12/19** | Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance | Sukrit Leelaluk et al. | [2412.14526v1](http://arxiv.org/abs/2412.14526v1) | [**link**](https://github.com/limu-research/2025-sac-rnn-attention-kd) |
 | **2024/12/18** | MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation | Shenhao Zhu et al. | [2412.14148v1](http://arxiv.org/abs/2412.14148v1) | **NULL** |
-| **2024/12/18** | Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems | Igor G. Smit et al. | [2412.14052v1](http://arxiv.org/abs/2412.14052v1) | **NULL** |
+| **2024/12/18** | ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods | Eduard Hogea et al. | [2412.14231v1](http://arxiv.org/abs/2412.14231v1) | **NULL** |
+| **2024/12/18** | Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems | Igor G. Smit et al. | [2412.14052v1](http://arxiv.org/abs/2412.14052v1) | [**link**](https://github.com/ai-for-decision-making-tue/NCO-for-Stochastic-FJSP) |
+| **2024/12/18** | A Survey on Inference Optimization Techniques for Mixture of Experts Models | Jiacheng Liu et al. | [2412.14219v1](http://arxiv.org/abs/2412.14219v1) | [**link**](https://github.com/moe-inf/awesome-moe-inference) |
 | **2024/12/18** | Personalized Clustering via Targeted Representation Learning | Xiwen Geng et al. | [2412.13690v1](http://arxiv.org/abs/2412.13690v1) | **NULL** |
 | **2024/12/18** | Self-control: A Better Conditional Mechanism for Masked Autoregressive Model | Qiaoying Qu et al. | [2412.13635v1](http://arxiv.org/abs/2412.13635v1) | **NULL** |
 | **2024/12/18** | NPC: Neural Predictive Control for Fuel-Efficient Autonomous Trucks | Jiaping Ren et al. | [2412.13618v1](http://arxiv.org/abs/2412.13618v1) | **NULL** |
-| **2024/12/18** | MambaLCT: Boosting Tracking via Long-term Context State Space Model | Xiaohai Li et al. | [2412.13615v1](http://arxiv.org/abs/2412.13615v1) | **NULL** |
+| **2024/12/18** | MambaLCT: Boosting Tracking via Long-term Context State Space Model | Xiaohai Li et al. | [2412.13615v1](http://arxiv.org/abs/2412.13615v1) | [**link**](https://github.com/gxnu-zhonglab/mambalct) |
 | **2024/12/18** | Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks | Hangming Zhang et al. | [2412.13553v1](http://arxiv.org/abs/2412.13553v1) | **NULL** |
 | **2024/12/18** | Attention-aware convolutional neural networks for identification of magnetic islands in the tearing mode on EAST tokamak | Feifei Long et al. | [2412.13498v1](http://arxiv.org/abs/2412.13498v1) | **NULL** |
 | **2024/12/18** | T$^3$-S2S: Training-free Triplet Tuning for Sketch to Scene Generation | Zhenhong Sun et al. | [2412.13486v1](http://arxiv.org/abs/2412.13486v1) | **NULL** |
 | **2024/12/18** | DarkIR: Robust Low-Light Image Restoration | Daniel Feijoo et al. | [2412.13443v1](http://arxiv.org/abs/2412.13443v1) | **NULL** |
+| **2024/12/18** | Improving Generalization Performance of YOLOv8 for Camera Trap Object Detection | Aroj Subedi | [2412.14211v1](http://arxiv.org/abs/2412.14211v1) | **NULL** |
 | **2024/12/17** | Locate n' Rotate: Two-stage Openable Part Detection with Foundation Model Priors | Siqi Li et al. | [2412.13173v1](http://arxiv.org/abs/2412.13173v1) | [**link**](https://github.com/lisiqi-zju/mopd) |
 | **2024/12/17** | Identification of Epileptic Spasms (ESES) Phases Using EEG Signals: A Vision Transformer Approach | Wei Gong et al. | [2412.13028v1](http://arxiv.org/abs/2412.13028v1) | **NULL** |
-| **2024/12/17** | Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance | Wenhao Sun et al. | [2412.12974v2](http://arxiv.org/abs/2412.12974v2) | [**link**](https://github.com/anonym0u3/attentiveeraser) |
+| **2024/12/17** | Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance | Wenhao Sun et al. | [2412.12974v3](http://arxiv.org/abs/2412.12974v3) | [**link**](https://github.com/anonym0u3/attentiveeraser) |
 | **2024/12/17** | Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning | Moritz Reuss et al. | [2412.12953v1](http://arxiv.org/abs/2412.12953v1) | **NULL** |
 | **2024/12/17** | Versatile Ordering Network: An Attention-based Neural Network for Ordering Across Scales and Quality Metrics | Zehua Yu et al. | [2412.12759v2](http://arxiv.org/abs/2412.12759v2) | [**link**](https://github.com/sysuvis/von) |
 | **2024/12/17** | Enhanced Momentum with Momentum Transformers | Max Mason et al. | [2412.12516v1](http://arxiv.org/abs/2412.12516v1) | **NULL** |
 | **2024/12/17** | Multi-Scale Cross-Fusion and Edge-Supervision Network for Image Splicing Localization | Yakun Niu et al. | [2412.12503v1](http://arxiv.org/abs/2412.12503v1) | **NULL** |
 | **2024/12/17** | Core Context Aware Attention for Long Context Language Modeling | Yaofo Chen et al. | [2412.12465v1](http://arxiv.org/abs/2412.12465v1) | **NULL** |
 | **2024/12/16** | Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review | Md Iftekhar Islam Tashik et al. | [2412.11823v1](http://arxiv.org/abs/2412.11823v1) | **NULL** |
-| **2024/12/16** | ColorFlow: Retrieval-Augmented Image Sequence Colorization | Junhao Zhuang et al. | [2412.11815v1](http://arxiv.org/abs/2412.11815v1) | **NULL** |
-| **2024/12/16** | EDformer: Embedded Decomposition Transformer for Interpretable Multivariate Time Series Predictions | Sanjay Chakraborty et al. | [2412.12227v1](http://arxiv.org/abs/2412.12227v1) | **NULL** |
-| **2024/12/16** | DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis | Pan Wang et al. | [2412.12225v1](http://arxiv.org/abs/2412.12225v1) | [**link**](https://github.com/pwang322/dlf) |
-| **2024/12/16** | Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs | Yuchen Fu et al. | [2412.11556v1](http://arxiv.org/abs/2412.11556v1) | **NULL** |
-| **2024/12/15** | Transformer-Based Bearing Fault Detection using Temporal Decomposition Attention Mechanism | Marzieh Mirzaeibonehkhater et al. | [2412.11245v1](http://arxiv.org/abs/2412.11245v1) | **NULL** |
-| **2024/12/15** | Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation | Zhe Yang et al. | [2412.11105v1](http://arxiv.org/abs/2412.11105v1) | [**link**](https://github.com/liang-tian-tian/mgcot) |
-| **2024/12/14** | Enhancing Road Crack Detection Accuracy with BsS-YOLO: Optimizing Feature Fusion and Attention Mechanisms | Jiaze Tang et al. | [2412.10902v1](http://arxiv.org/abs/2412.10902v1) | **NULL** |
-| **2024/12/14** | CRENER: A Character Relation Enhanced Chinese NER Model | Yaqiong Qiao et al. | [2412.10858v1](http://arxiv.org/abs/2412.10858v1) | **NULL** |
-| **2024/12/14** | Learning Semantic-Aware Representation in Visual-Language Models for Multi-Label Recognition with Partial Labels | Haoxian Ruan et al. | [2412.10843v1](http://arxiv.org/abs/2412.10843v1) | **NULL** |
-| **2024/12/14** | Optimizing Vision-Language Interactions Through Decoder-Only Models | Kaito Tanaka et al. | [2412.10758v1](http://arxiv.org/abs/2412.10758v1) | **NULL** |
-| **2024/12/14** | Sentiment and Hashtag-aware Attentive Deep Neural Network for Multimodal Post Popularity Prediction | Shubhi Bansal et al. | [2412.10737v1](http://arxiv.org/abs/2412.10737v1) | **NULL** |
 
 ## 背景差分
 
