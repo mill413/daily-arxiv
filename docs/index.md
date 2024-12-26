@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/25 08:59:27
+> Updated on 2024/12/26 08:59:31
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
 | **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
 | **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
 | **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v2](http://arxiv.org/abs/2412.10116v2) | **NULL** |
@@ -47,14 +48,20 @@ layout: default
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
-| **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/24** | DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation | Minghong Cai et al. | [2412.18597v1](http://arxiv.org/abs/2412.18597v1) | [**link**](https://github.com/tencentarc/ditctrl) |
+| **2024/12/24** | HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation | Mohammed Hamdan et al. | [2412.18524v1](http://arxiv.org/abs/2412.18524v1) | **NULL** |
+| **2024/12/24** | Underwater Image Restoration via Polymorphic Large Kernel CNNs | Xiaojiao Guo et al. | [2412.18459v1](http://arxiv.org/abs/2412.18459v1) | [**link**](https://github.com/CXH-Research/UIR-PolyKernel) |
+| **2024/12/24** | Towards understanding how attention mechanism works in deep learning | Tianyu Ruan et al. | [2412.18288v1](http://arxiv.org/abs/2412.18288v1) | **NULL** |
+| **2024/12/24** | Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment | Jiaqi Wu et al. | [2412.18230v1](http://arxiv.org/abs/2412.18230v1) | **NULL** |
+| **2024/12/24** | SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos | Zhen Zhang et al. | [2412.18214v1](http://arxiv.org/abs/2412.18214v1) | [**link**](https://github.com/tanedam/sdm-car) |
+| **2024/12/23** | Theoretical Constraints on the Expressive Power of $\mathsf{RoPE}$-based Tensor Attention Transformers | Xiaoyu Li et al. | [2412.18040v1](http://arxiv.org/abs/2412.18040v1) | **NULL** |
 | **2024/12/23** | Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction | Ziyang Wu et al. | [2412.17810v1](http://arxiv.org/abs/2412.17810v1) | **NULL** |
-| **2024/12/23** | Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders | Rui Chen et al. | [2412.17808v1](http://arxiv.org/abs/2412.17808v1) | **NULL** |
+| **2024/12/23** | Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders | Rui Chen et al. | [2412.17808v2](http://arxiv.org/abs/2412.17808v2) | **NULL** |
 | **2024/12/23** | Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization | Ermo Hua et al. | [2412.17739v1](http://arxiv.org/abs/2412.17739v1) | **NULL** |
 | **2024/12/23** | URoadNet: Dual Sparse Attentive U-Net for Multiscale Road Network Extraction | Jie Song et al. | [2412.17573v1](http://arxiv.org/abs/2412.17573v1) | **NULL** |
 | **2024/12/23** | HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics | Murat Isik et al. | [2412.17571v1](http://arxiv.org/abs/2412.17571v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2024/12/21** | FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation | Jinlin Li et al. | [2412.16699v1](http://arxiv.org/abs/2412.16699v1) | **NULL** |
 | **2024/12/21** | Transformer-based toxin-protein interaction analysis prioritizes airborne particulate matter components with potential adverse health effects | Yan Zhu et al. | [2412.16664v1](http://arxiv.org/abs/2412.16664v1) | **NULL** |
 | **2024/12/21** | Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement | Junyu Wang et al. | [2412.16626v1](http://arxiv.org/abs/2412.16626v1) | **NULL** |
-| **2024/12/21** | VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification | Wenjie Xi et al. | [2412.16515v1](http://arxiv.org/abs/2412.16515v1) | **NULL** |
-| **2024/12/21** | Flash3D: Super-scaling Point Transformers through Joint Hardware-Geometry Locality | Liyan Chen et al. | [2412.16481v1](http://arxiv.org/abs/2412.16481v1) | **NULL** |
-| **2024/12/21** | Sensitive Image Classification by Vision Transformers | Hanxian He et al. | [2412.16446v1](http://arxiv.org/abs/2412.16446v1) | **NULL** |
-| **2024/12/21** | Effective Context Modeling Framework for Emotion Recognition in Conversations | Cuong Tran Van et al. | [2412.16444v1](http://arxiv.org/abs/2412.16444v1) | **NULL** |
-| **2024/12/20** | GAT-RWOS: Graph Attention-Guided Random Walk Oversampling for Imbalanced Data Classification | Zahiriddin Rustamov et al. | [2412.16394v1](http://arxiv.org/abs/2412.16394v1) | [**link**](https://github.com/zahiriddin-rustamov/gat-rwos) |
-| **2024/12/20** | CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up | Songhua Liu et al. | [2412.16112v1](http://arxiv.org/abs/2412.16112v1) | [**link**](https://github.com/huage001/clear) |
-| **2024/12/20** | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation | Aiwen Jiang et al. | [2412.15845v1](http://arxiv.org/abs/2412.15845v1) | [**link**](https://github.com/12138-chr/mtair) |
 
 ## 背景差分
 
