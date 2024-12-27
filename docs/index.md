@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/26 08:59:31
+> Updated on 2024/12/27 08:59:58
 
 <summary>Table of Contents</summary>
 
@@ -62,7 +62,7 @@ layout: default
 | **2024/12/23** | Theoretical Constraints on the Expressive Power of $\mathsf{RoPE}$-based Tensor Attention Transformers | Xiaoyu Li et al. | [2412.18040v1](http://arxiv.org/abs/2412.18040v1) | **NULL** |
 | **2024/12/23** | Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction | Ziyang Wu et al. | [2412.17810v1](http://arxiv.org/abs/2412.17810v1) | **NULL** |
 | **2024/12/23** | Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders | Rui Chen et al. | [2412.17808v2](http://arxiv.org/abs/2412.17808v2) | **NULL** |
-| **2024/12/23** | Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization | Ermo Hua et al. | [2412.17739v1](http://arxiv.org/abs/2412.17739v1) | **NULL** |
+| **2024/12/23** | Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization | Ermo Hua et al. | [2412.17739v1](http://arxiv.org/abs/2412.17739v1) | [**link**](https://github.com/tsinghuac3i/fourier-position-embedding) |
 | **2024/12/23** | URoadNet: Dual Sparse Attentive U-Net for Multiscale Road Network Extraction | Jie Song et al. | [2412.17573v1](http://arxiv.org/abs/2412.17573v1) | **NULL** |
 | **2024/12/23** | HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics | Murat Isik et al. | [2412.17571v1](http://arxiv.org/abs/2412.17571v1) | **NULL** |
 | **2024/12/23** | CALLIC: Content Adaptive Learning for Lossless Image Compression | Daxin Li et al. | [2412.17464v1](http://arxiv.org/abs/2412.17464v1) | **NULL** |
