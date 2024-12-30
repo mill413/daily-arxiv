@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/29 09:05:39
+> Updated on 2024/12/30 09:02:12
 
 <summary>Table of Contents</summary>
 
@@ -80,7 +80,7 @@ layout: default
 | **2024/12/22** | A Multi-modal Approach to Dysarthria Detection and Severity Assessment Using Speech and Text Information | Anuprabha M et al. | [2412.16874v1](http://arxiv.org/abs/2412.16874v1) | **NULL** |
 | **2024/12/21** | RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing | Zhipeng Huang et al. | [2412.16778v1](http://arxiv.org/abs/2412.16778v1) | **NULL** |
 | **2024/12/21** | Paraformer: Parameterization of Sub-grid Scale Processes Using Transformers | Shuochen Wang et al. | [2412.16763v1](http://arxiv.org/abs/2412.16763v1) | **NULL** |
-| **2024/12/21** | FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation | Jinlin Li et al. | [2412.16699v1](http://arxiv.org/abs/2412.16699v1) | **NULL** |
+| **2024/12/21** | FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation | Jinlin Li et al. | [2412.16699v1](http://arxiv.org/abs/2412.16699v1) | [**link**](https://github.com/jinlin2021/fap_cd) |
 | **2024/12/21** | Transformer-based toxin-protein interaction analysis prioritizes airborne particulate matter components with potential adverse health effects | Yan Zhu et al. | [2412.16664v1](http://arxiv.org/abs/2412.16664v1) | **NULL** |
 | **2024/12/21** | Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement | Junyu Wang et al. | [2412.16626v1](http://arxiv.org/abs/2412.16626v1) | **NULL** |
 
