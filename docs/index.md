@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/12/31 08:59:45
+> Updated on 2025/01/01 09:05:26
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/30** | Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models | Christos Petridis | [2412.21022v1](http://arxiv.org/abs/2412.21022v1) | **NULL** |
+| **2024/12/30** | QAHAN: A Quantum Annealing Hard Attention Network | Ren-Xin Zhao | [2412.20930v1](http://arxiv.org/abs/2412.20930v1) | **NULL** |
+| **2024/12/30** | Low-Light Image Enhancement via Generative Perceptual Priors | Han Zhou et al. | [2412.20916v1](http://arxiv.org/abs/2412.20916v1) | **NULL** |
+| **2024/12/30** | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | Gaoxiang Zhao et al. | [2412.20727v1](http://arxiv.org/abs/2412.20727v1) | **NULL** |
+| **2024/12/29** | TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication | Zongwu Wang et al. | [2412.20501v1](http://arxiv.org/abs/2412.20501v1) | **NULL** |
+| **2024/12/29** | MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation | Minjae Seong et al. | [2412.20480v1](http://arxiv.org/abs/2412.20480v1) | **NULL** |
+| **2024/12/29** | Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection | Ayush Ghadiya et al. | [2412.20455v1](http://arxiv.org/abs/2412.20455v1) | **NULL** |
+| **2024/12/28** | Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition | Junyao Wang et al. | [2412.20290v1](http://arxiv.org/abs/2412.20290v1) | **NULL** |
+| **2024/12/28** | ST$^3$: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming | Jiedong Zhuang et al. | [2412.20105v1](http://arxiv.org/abs/2412.20105v1) | **NULL** |
 | **2024/12/27** | An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models | Arezoo Borji et al. | [2412.19696v1](http://arxiv.org/abs/2412.19696v1) | **NULL** |
 | **2024/12/27** | Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation | Guangsheng Xu et al. | [2412.19676v1](http://arxiv.org/abs/2412.19676v1) | [**link**](https://github.com/poker-xu/ssr-stf) |
 | **2024/12/27** | StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture | Miaomiao Dai et al. | [2412.19535v1](http://arxiv.org/abs/2412.19535v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2024/12/25** | ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction | Apoorv Thapliyal et al. | [2412.18775v1](http://arxiv.org/abs/2412.18775v1) | **NULL** |
 | **2024/12/25** | Predicting Time Series of Networked Dynamical Systems without Knowing Topology | Yanna Ding et al. | [2412.18734v1](http://arxiv.org/abs/2412.18734v1) | **NULL** |
 | **2024/12/24** | Advancing Explainability in Neural Machine Translation: Analytical Metrics for Attention and Alignment Consistency | Anurag Mishra | [2412.18669v1](http://arxiv.org/abs/2412.18669v1) | **NULL** |
-| **2024/12/24** | DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation | Minghong Cai et al. | [2412.18597v1](http://arxiv.org/abs/2412.18597v1) | [**link**](https://github.com/tencentarc/ditctrl) |
-| **2024/12/24** | HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation | Mohammed Hamdan et al. | [2412.18524v1](http://arxiv.org/abs/2412.18524v1) | **NULL** |
-| **2024/12/24** | Underwater Image Restoration via Polymorphic Large Kernel CNNs | Xiaojiao Guo et al. | [2412.18459v1](http://arxiv.org/abs/2412.18459v1) | [**link**](https://github.com/CXH-Research/UIR-PolyKernel) |
-| **2024/12/24** | Towards understanding how attention mechanism works in deep learning | Tianyu Ruan et al. | [2412.18288v1](http://arxiv.org/abs/2412.18288v1) | **NULL** |
-| **2024/12/24** | Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment | Jiaqi Wu et al. | [2412.18230v1](http://arxiv.org/abs/2412.18230v1) | **NULL** |
-| **2024/12/24** | SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos | Zhen Zhang et al. | [2412.18214v1](http://arxiv.org/abs/2412.18214v1) | [**link**](https://github.com/tanedam/sdm-car) |
-| **2024/12/23** | Theoretical Constraints on the Expressive Power of $\mathsf{RoPE}$-based Tensor Attention Transformers | Xiaoyu Li et al. | [2412.18040v1](http://arxiv.org/abs/2412.18040v1) | **NULL** |
-| **2024/12/23** | Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction | Ziyang Wu et al. | [2412.17810v1](http://arxiv.org/abs/2412.17810v1) | **NULL** |
-| **2024/12/23** | Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders | Rui Chen et al. | [2412.17808v2](http://arxiv.org/abs/2412.17808v2) | **NULL** |
 
 ## 背景差分
 
@@ -98,7 +98,7 @@ layout: default
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
-| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v4](http://arxiv.org/abs/2405.12570v4) | **NULL** |
+| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v5](http://arxiv.org/abs/2405.12570v5) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
