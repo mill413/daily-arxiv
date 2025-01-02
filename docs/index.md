@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/01 09:05:26
+> Updated on 2025/01/02 08:59:23
 
 <summary>Table of Contents</summary>
 
@@ -66,7 +66,7 @@ layout: default
 | **2024/12/27** | Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation | Guangsheng Xu et al. | [2412.19676v1](http://arxiv.org/abs/2412.19676v1) | [**link**](https://github.com/poker-xu/ssr-stf) |
 | **2024/12/27** | StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture | Miaomiao Dai et al. | [2412.19535v1](http://arxiv.org/abs/2412.19535v1) | **NULL** |
 | **2024/12/27** | Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models | Shuo Wang et al. | [2412.19449v1](http://arxiv.org/abs/2412.19449v1) | **NULL** |
-| **2024/12/27** | A Survey on Large Language Model Acceleration based on KV Cache Management | Haoyang Li et al. | [2412.19442v1](http://arxiv.org/abs/2412.19442v1) | **NULL** |
+| **2024/12/27** | A Survey on Large Language Model Acceleration based on KV Cache Management | Haoyang Li et al. | [2412.19442v1](http://arxiv.org/abs/2412.19442v1) | [**link**](https://github.com/treeai-lab/awesome-kv-cache-management) |
 | **2024/12/26** | 6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning | Nabo He et al. | [2412.19243v1](http://arxiv.org/abs/2412.19243v1) | **NULL** |
 | **2024/12/26** | Multi-Head Attention Driven Dynamic Visual-Semantic Embedding for Enhanced Image-Text Matching | Wenjing Chen | [2412.19184v1](http://arxiv.org/abs/2412.19184v1) | **NULL** |
 | **2024/12/26** | To Predict or Not To Predict? Proportionally Masked Autoencoders for Tabular Data Imputation | Jungkyu Kim et al. | [2412.19152v1](http://arxiv.org/abs/2412.19152v1) | **NULL** |
@@ -77,11 +77,11 @@ layout: default
 | **2024/12/25** | TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding | Muhammet Esat Kalfaoglu et al. | [2412.18951v1](http://arxiv.org/abs/2412.18951v1) | **NULL** |
 | **2024/12/25** | UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation | Lunhao Duan et al. | [2412.18928v1](http://arxiv.org/abs/2412.18928v1) | **NULL** |
 | **2024/12/25** | BCR-Net: Boundary-Category Refinement Network for Weakly Semi-Supervised X-Ray Prohibited Item Detection with Points | Sanjoeng Wong | [2412.18918v1](http://arxiv.org/abs/2412.18918v1) | **NULL** |
-| **2024/12/25** | Attention-Enhanced Short-Time Wiener Solution for Acoustic Echo Cancellation | Fei Zhao et al. | [2412.18851v1](http://arxiv.org/abs/2412.18851v1) | **NULL** |
+| **2024/12/25** | Attention-Enhanced Short-Time Wiener Solution for Acoustic Echo Cancellation | Fei Zhao et al. | [2412.18851v1](http://arxiv.org/abs/2412.18851v1) | [**link**](https://github.com/zhaof-i/astws-aec) |
 | **2024/12/25** | Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting | Fanpu Cao et al. | [2412.18798v1](http://arxiv.org/abs/2412.18798v1) | **NULL** |
 | **2024/12/25** | Unified Local and Global Attention Interaction Modeling for Vision Transformers | Tan Nguyen et al. | [2412.18778v1](http://arxiv.org/abs/2412.18778v1) | **NULL** |
 | **2024/12/25** | ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction | Apoorv Thapliyal et al. | [2412.18775v1](http://arxiv.org/abs/2412.18775v1) | **NULL** |
-| **2024/12/25** | Predicting Time Series of Networked Dynamical Systems without Knowing Topology | Yanna Ding et al. | [2412.18734v1](http://arxiv.org/abs/2412.18734v1) | **NULL** |
+| **2024/12/25** | Predicting Time Series of Networked Dynamical Systems without Knowing Topology | Yanna Ding et al. | [2412.18734v1](http://arxiv.org/abs/2412.18734v1) | [**link**](https://github.com/dingyanna/LatentTopoDynamics) |
 | **2024/12/24** | Advancing Explainability in Neural Machine Translation: Analytical Metrics for Attention and Alignment Consistency | Anurag Mishra | [2412.18669v1](http://arxiv.org/abs/2412.18669v1) | **NULL** |
 
 ## 背景差分
