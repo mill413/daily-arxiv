@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/03 08:59:58
+> Updated on 2025/01/04 08:59:03
 
 <summary>Table of Contents</summary>
 
@@ -56,8 +56,8 @@ layout: default
 | **2024/12/30** | Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models | Christos Petridis | [2412.21022v1](http://arxiv.org/abs/2412.21022v1) | **NULL** |
 | **2024/12/30** | QAHAN: A Quantum Annealing Hard Attention Network | Ren-Xin Zhao | [2412.20930v1](http://arxiv.org/abs/2412.20930v1) | **NULL** |
 | **2024/12/30** | Low-Light Image Enhancement via Generative Perceptual Priors | Han Zhou et al. | [2412.20916v1](http://arxiv.org/abs/2412.20916v1) | **NULL** |
-| **2024/12/30** | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | Gaoxiang Zhao et al. | [2412.20727v1](http://arxiv.org/abs/2412.20727v1) | **NULL** |
-| **2024/12/29** | TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication | Zongwu Wang et al. | [2412.20501v1](http://arxiv.org/abs/2412.20501v1) | **NULL** |
+| **2024/12/30** | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | Gaoxiang Zhao et al. | [2412.20727v1](http://arxiv.org/abs/2412.20727v1) | [**link**](https://github.com/UniqueoneZ/AverageLinear) |
+| **2024/12/29** | TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication | Zongwu Wang et al. | [2412.20501v1](http://arxiv.org/abs/2412.20501v1) | [**link**](https://github.com/aca-lab-sjtu/token-ring) |
 | **2024/12/29** | MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation | Minjae Seong et al. | [2412.20480v1](http://arxiv.org/abs/2412.20480v1) | **NULL** |
 | **2024/12/29** | Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection | Ayush Ghadiya et al. | [2412.20455v1](http://arxiv.org/abs/2412.20455v1) | **NULL** |
 | **2024/12/28** | Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition | Junyao Wang et al. | [2412.20290v1](http://arxiv.org/abs/2412.20290v1) | **NULL** |
@@ -66,7 +66,7 @@ layout: default
 | **2024/12/27** | Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation | Guangsheng Xu et al. | [2412.19676v1](http://arxiv.org/abs/2412.19676v1) | [**link**](https://github.com/poker-xu/ssr-stf) |
 | **2024/12/27** | StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture | Miaomiao Dai et al. | [2412.19535v1](http://arxiv.org/abs/2412.19535v1) | **NULL** |
 | **2024/12/27** | Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models | Shuo Wang et al. | [2412.19449v1](http://arxiv.org/abs/2412.19449v1) | **NULL** |
-| **2024/12/27** | A Survey on Large Language Model Acceleration based on KV Cache Management | Haoyang Li et al. | [2412.19442v1](http://arxiv.org/abs/2412.19442v1) | [**link**](https://github.com/treeai-lab/awesome-kv-cache-management) |
+| **2024/12/27** | A Survey on Large Language Model Acceleration based on KV Cache Management | Haoyang Li et al. | [2412.19442v2](http://arxiv.org/abs/2412.19442v2) | [**link**](https://github.com/treeai-lab/awesome-kv-cache-management) |
 | **2024/12/26** | 6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning | Nabo He et al. | [2412.19243v1](http://arxiv.org/abs/2412.19243v1) | **NULL** |
 | **2024/12/26** | Multi-Head Attention Driven Dynamic Visual-Semantic Embedding for Enhanced Image-Text Matching | Wenjing Chen | [2412.19184v1](http://arxiv.org/abs/2412.19184v1) | **NULL** |
 | **2024/12/26** | To Predict or Not To Predict? Proportionally Masked Autoencoders for Tabular Data Imputation | Jungkyu Kim et al. | [2412.19152v1](http://arxiv.org/abs/2412.19152v1) | **NULL** |
