@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/05 09:05:27
+> Updated on 2025/01/06 09:03:08
 
 <summary>Table of Contents</summary>
 
@@ -53,41 +53,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/02** | Object-level Visual Prompts for Compositional Image Generation | Gaurav Parmar et al. | [2501.01424v1](http://arxiv.org/abs/2501.01424v1) | **NULL** |
+| **2025/01/02** | DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring | Hao Wang et al. | [2501.01342v1](http://arxiv.org/abs/2501.01342v1) | **NULL** |
+| **2025/01/02** | Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging | Mengjie Qin et al. | [2501.01262v1](http://arxiv.org/abs/2501.01262v1) | **NULL** |
+| **2025/01/02** | An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec | Uzma Mushtaque | [2501.01242v1](http://arxiv.org/abs/2501.01242v1) | **NULL** |
+| **2025/01/02** | RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer | Seongho Hong et al. | [2501.01182v1](http://arxiv.org/abs/2501.01182v1) | **NULL** |
+| **2025/01/02** | TED: Turn Emphasis with Dialogue Feature Attention for Emotion Recognition in Conversation | Junya Ono et al. | [2501.01123v1](http://arxiv.org/abs/2501.01123v1) | **NULL** |
+| **2025/01/02** | FAST: Fast Audio Spectrogram Transformer | Anugunj Naman et al. | [2501.01104v1](http://arxiv.org/abs/2501.01104v1) | **NULL** |
+| **2025/01/02** | iCNN-LSTM: A batch-based incremental ransomware detection system using Sysmon | Jamil Ispahany et al. | [2501.01083v1](http://arxiv.org/abs/2501.01083v1) | **NULL** |
+| **2025/01/02** | Dynamic Attention-Guided Context Decoding for Mitigating Context Faithfulness Hallucinations in Large Language Models | Yanwen Huang et al. | [2501.01059v1](http://arxiv.org/abs/2501.01059v1) | **NULL** |
+| **2025/01/02** | MSWA: Refining Local Attention with Multi-ScaleWindow Attention | Yixing Xu et al. | [2501.01039v1](http://arxiv.org/abs/2501.01039v1) | **NULL** |
+| **2025/01/02** | Hadamard Attention Recurrent Transformer: A Strong Baseline for Stereo Matching Transformer | Ziyang Chen et al. | [2501.01023v1](http://arxiv.org/abs/2501.01023v1) | **NULL** |
+| **2025/01/02** | FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving | Zihao Ye et al. | [2501.01005v1](http://arxiv.org/abs/2501.01005v1) | [**link**](https://github.com/flashinfer-ai/flashinfer) |
+| **2025/01/01** | Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model | Omid Saghatchian et al. | [2501.00946v1](http://arxiv.org/abs/2501.00946v1) | [**link**](https://github.com/omidiu/ca_tome) |
+| **2025/01/01** | FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation | Bingyu Li et al. | [2501.00877v1](http://arxiv.org/abs/2501.00877v1) | [**link**](https://github.com/LiBingyu01/FGA-seg) |
+| **2025/01/01** | Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks | Rongke Liu | [2501.00824v1](http://arxiv.org/abs/2501.00824v1) | **NULL** |
+| **2025/01/01** | Decoupling Knowledge and Reasoning in Transformers: A Modular Architecture with Generalized Cross-Attention | Zhenyu Guo et al. | [2501.00823v1](http://arxiv.org/abs/2501.00823v1) | **NULL** |
+| **2025/01/01** | Less is More: Token Context-aware Learning for Object Tracking | Chenlong Xu et al. | [2501.00758v1](http://arxiv.org/abs/2501.00758v1) | **NULL** |
+| **2024/12/31** | KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities | Chengcheng Mai et al. | [2501.00571v1](http://arxiv.org/abs/2501.00571v1) | **NULL** |
+| **2024/12/31** | A Novel Shape Guided Transformer Network for Instance Segmentation in Remote Sensing Images | Dawen Yu et al. | [2501.00360v1](http://arxiv.org/abs/2501.00360v1) | **NULL** |
+| **2024/12/31** | Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction | Yixuan Li et al. | [2501.00307v1](http://arxiv.org/abs/2501.00307v1) | **NULL** |
+| **2024/12/31** | Research on vehicle detection based on improved YOLOv8 network | Haocheng Guo et al. | [2501.00300v1](http://arxiv.org/abs/2501.00300v1) | **NULL** |
 | **2024/12/30** | Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models | Christos Petridis | [2412.21022v1](http://arxiv.org/abs/2412.21022v1) | **NULL** |
 | **2024/12/30** | QAHAN: A Quantum Annealing Hard Attention Network | Ren-Xin Zhao | [2412.20930v1](http://arxiv.org/abs/2412.20930v1) | **NULL** |
 | **2024/12/30** | Low-Light Image Enhancement via Generative Perceptual Priors | Han Zhou et al. | [2412.20916v1](http://arxiv.org/abs/2412.20916v1) | **NULL** |
 | **2024/12/30** | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | Gaoxiang Zhao et al. | [2412.20727v1](http://arxiv.org/abs/2412.20727v1) | [**link**](https://github.com/UniqueoneZ/AverageLinear) |
+| **2024/12/30** | Open-Book Neural Algorithmic Reasoning | Hefei Li et al. | [2501.00072v1](http://arxiv.org/abs/2501.00072v1) | **NULL** |
 | **2024/12/29** | TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication | Zongwu Wang et al. | [2412.20501v1](http://arxiv.org/abs/2412.20501v1) | [**link**](https://github.com/aca-lab-sjtu/token-ring) |
 | **2024/12/29** | MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation | Minjae Seong et al. | [2412.20480v1](http://arxiv.org/abs/2412.20480v1) | **NULL** |
 | **2024/12/29** | Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection | Ayush Ghadiya et al. | [2412.20455v1](http://arxiv.org/abs/2412.20455v1) | **NULL** |
 | **2024/12/28** | Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition | Junyao Wang et al. | [2412.20290v1](http://arxiv.org/abs/2412.20290v1) | **NULL** |
-| **2024/12/28** | ST$^3$: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming | Jiedong Zhuang et al. | [2412.20105v1](http://arxiv.org/abs/2412.20105v1) | **NULL** |
-| **2024/12/27** | An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models | Arezoo Borji et al. | [2412.19696v1](http://arxiv.org/abs/2412.19696v1) | **NULL** |
-| **2024/12/27** | Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation | Guangsheng Xu et al. | [2412.19676v1](http://arxiv.org/abs/2412.19676v1) | [**link**](https://github.com/poker-xu/ssr-stf) |
-| **2024/12/27** | StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture | Miaomiao Dai et al. | [2412.19535v1](http://arxiv.org/abs/2412.19535v1) | **NULL** |
-| **2024/12/27** | Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models | Shuo Wang et al. | [2412.19449v1](http://arxiv.org/abs/2412.19449v1) | **NULL** |
-| **2024/12/27** | A Survey on Large Language Model Acceleration based on KV Cache Management | Haoyang Li et al. | [2412.19442v2](http://arxiv.org/abs/2412.19442v2) | [**link**](https://github.com/treeai-lab/awesome-kv-cache-management) |
-| **2024/12/26** | 6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning | Nabo He et al. | [2412.19243v1](http://arxiv.org/abs/2412.19243v1) | **NULL** |
-| **2024/12/26** | Multi-Head Attention Driven Dynamic Visual-Semantic Embedding for Enhanced Image-Text Matching | Wenjing Chen | [2412.19184v1](http://arxiv.org/abs/2412.19184v1) | **NULL** |
-| **2024/12/26** | To Predict or Not To Predict? Proportionally Masked Autoencoders for Tabular Data Imputation | Jungkyu Kim et al. | [2412.19152v1](http://arxiv.org/abs/2412.19152v1) | **NULL** |
-| **2024/12/26** | Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation | Haotian Qian et al. | [2412.19080v1](http://arxiv.org/abs/2412.19080v1) | **NULL** |
-| **2024/12/26** | Graph-Enhanced Dual-Stream Feature Fusion with Pre-Trained Model for Acoustic Traffic Monitoring | Shitong Fan et al. | [2412.19078v1](http://arxiv.org/abs/2412.19078v1) | **NULL** |
-| **2024/12/25** | HAND: Hierarchical Attention Network for Multi-Scale Handwritten Document Recognition and Layout Analysis | Mohammed Hamdan et al. | [2412.18981v1](http://arxiv.org/abs/2412.18981v1) | **NULL** |
-| **2024/12/25** | Adopting Trustworthy AI for Sleep Disorder Prediction: Deep Time Series Analysis with Temporal Attention Mechanism and Counterfactual Explanations | Pegah Ahadian et al. | [2412.18971v1](http://arxiv.org/abs/2412.18971v1) | **NULL** |
-| **2024/12/25** | TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding | Muhammet Esat Kalfaoglu et al. | [2412.18951v1](http://arxiv.org/abs/2412.18951v1) | **NULL** |
-| **2024/12/25** | UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation | Lunhao Duan et al. | [2412.18928v1](http://arxiv.org/abs/2412.18928v1) | **NULL** |
-| **2024/12/25** | BCR-Net: Boundary-Category Refinement Network for Weakly Semi-Supervised X-Ray Prohibited Item Detection with Points | Sanjoeng Wong | [2412.18918v1](http://arxiv.org/abs/2412.18918v1) | **NULL** |
-| **2024/12/25** | Attention-Enhanced Short-Time Wiener Solution for Acoustic Echo Cancellation | Fei Zhao et al. | [2412.18851v1](http://arxiv.org/abs/2412.18851v1) | [**link**](https://github.com/zhaof-i/astws-aec) |
-| **2024/12/25** | Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting | Fanpu Cao et al. | [2412.18798v1](http://arxiv.org/abs/2412.18798v1) | **NULL** |
-| **2024/12/25** | Unified Local and Global Attention Interaction Modeling for Vision Transformers | Tan Nguyen et al. | [2412.18778v1](http://arxiv.org/abs/2412.18778v1) | **NULL** |
-| **2024/12/25** | ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction | Apoorv Thapliyal et al. | [2412.18775v1](http://arxiv.org/abs/2412.18775v1) | **NULL** |
-| **2024/12/25** | Predicting Time Series of Networked Dynamical Systems without Knowing Topology | Yanna Ding et al. | [2412.18734v1](http://arxiv.org/abs/2412.18734v1) | [**link**](https://github.com/dingyanna/LatentTopoDynamics) |
-| **2024/12/24** | Advancing Explainability in Neural Machine Translation: Analytical Metrics for Attention and Alignment Consistency | Anurag Mishra | [2412.18669v1](http://arxiv.org/abs/2412.18669v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
 | **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v1](http://arxiv.org/abs/2410.17334v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/10/25** | Spectral Background-Subtracted Activity Maps | Carsten Denker et al. | [2310.16747v1](http://arxiv.org/abs/2310.16747v1) | **NULL** |
 | **2023/10/12** | Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter | A. K. Yi et al. | [2310.07967v2](http://arxiv.org/abs/2310.07967v2) | **NULL** |
 | **2023/09/28** | The Hyper Suprime-Cam extended Point Spread Functions and applications | L. P. Garate-Nuñez et al. | [2309.16244v2](http://arxiv.org/abs/2309.16244v2) | [**link**](https://github.com/luciagarate/hsc_psfs) |
-| **2023/09/27** | Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction | Basit Alawode et al. | [2309.15576v1](http://arxiv.org/abs/2309.15576v1) | **NULL** |
