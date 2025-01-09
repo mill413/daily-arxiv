@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/08 09:00:28
+> Updated on 2025/01/09 08:59:58
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/07** | SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis | Runci Bai | [2501.03836v1](http://arxiv.org/abs/2501.03836v1) | **NULL** |
+| **2025/01/07** | Universal Speaker Embedding Free Target Speaker Extraction and Personal Voice Activity Detection | Bang Zeng et al. | [2501.03612v1](http://arxiv.org/abs/2501.03612v1) | **NULL** |
+| **2025/01/07** | Discriminative Representation learning via Attention-Enhanced Contrastive Learning for Short Text Clustering | Zhihao Yao | [2501.03584v1](http://arxiv.org/abs/2501.03584v1) | **NULL** |
+| **2025/01/07** | Entropy-Guided Attention for Private LLMs | Nandan Kumar Jha et al. | [2501.03489v1](http://arxiv.org/abs/2501.03489v1) | [**link**](https://github.com/nandan91/entropy-guided-attention-llm) |
+| **2025/01/07** | LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging | Shubhr Singh et al. | [2501.03464v1](http://arxiv.org/abs/2501.03464v1) | **NULL** |
 | **2025/01/06** | Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization | Martin Burger et al. | [2501.03096v1](http://arxiv.org/abs/2501.03096v1) | **NULL** |
 | **2025/01/06** | Inverse receptive field attention for naturalistic image reconstruction from the brain | Lynn Le et al. | [2501.03051v1](http://arxiv.org/abs/2501.03051v1) | **NULL** |
 | **2025/01/06** | TransPixar: Advancing Text-to-Video Generation with Transparency | Luozhou Wang et al. | [2501.03006v1](http://arxiv.org/abs/2501.03006v1) | **NULL** |
@@ -61,7 +66,7 @@ layout: default
 | **2025/01/06** | A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation | Toomas Tahves et al. | [2501.02858v1](http://arxiv.org/abs/2501.02858v1) | **NULL** |
 | **2025/01/06** | RAHN: A Reputation Based Hourglass Network for Web Service QoS Prediction | Xia Chen et al. | [2501.02843v1](http://arxiv.org/abs/2501.02843v1) | **NULL** |
 | **2025/01/06** | Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI | Xujin Li et al. | [2501.02841v1](http://arxiv.org/abs/2501.02841v1) | **NULL** |
-| **2025/01/06** | Samba-asr state-of-the-art speech recognition leveraging structured state-space models | Syed Abdul Gaffar Shakhadri et al. | [2501.02832v1](http://arxiv.org/abs/2501.02832v1) | **NULL** |
+| **2025/01/06** | Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models | Syed Abdul Gaffar Shakhadri et al. | [2501.02832v2](http://arxiv.org/abs/2501.02832v2) | **NULL** |
 | **2025/01/06** | RDD4D: 4D Attention-Guided Road Damage Detection And Classification | Asma Alkalbani et al. | [2501.02822v1](http://arxiv.org/abs/2501.02822v1) | [**link**](https://github.com/msaqib17/road_damage_detection) |
 | **2025/01/06** | Theoretical Data-Driven MobilePosenet: Lightweight Neural Network for Accurate Calibration-Free 5-DOF Magnet Localization | Wenxuan Xie et al. | [2501.02809v1](http://arxiv.org/abs/2501.02809v1) | **NULL** |
 | **2025/01/06** | Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences | Xiwen Chen et al. | [2501.02735v1](http://arxiv.org/abs/2501.02735v1) | **NULL** |
@@ -76,18 +81,14 @@ layout: default
 | **2025/01/03** | Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing | Po-Wei Tang et al. | [2501.01924v1](http://arxiv.org/abs/2501.01924v1) | **NULL** |
 | **2025/01/03** | EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation | Siyuan Huang et al. | [2501.01895v1](http://arxiv.org/abs/2501.01895v1) | **NULL** |
 | **2025/01/03** | BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction | Ferhat Ozgur Catak et al. | [2501.01802v1](http://arxiv.org/abs/2501.01802v1) | **NULL** |
-| **2025/01/03** | Catch Causal Signals from Edges for Label Imbalance in Graph Classification | Fengrui Zhang et al. | [2501.01707v1](http://arxiv.org/abs/2501.01707v1) | [**link**](https://github.com/fengrui-z/ecal) |
-| **2025/01/03** | VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement | Jiachen Li et al. | [2501.01691v1](http://arxiv.org/abs/2501.01691v1) | **NULL** |
-| **2025/01/03** | Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection | Kang Yi et al. | [2501.01648v1](http://arxiv.org/abs/2501.01648v1) | **NULL** |
-| **2025/01/02** | Object-level Visual Prompts for Compositional Image Generation | Gaurav Parmar et al. | [2501.01424v1](http://arxiv.org/abs/2501.01424v1) | **NULL** |
-| **2025/01/02** | Weakly Supervised Learning on Large Graphs | Aditya Prakash | [2501.02021v1](http://arxiv.org/abs/2501.02021v1) | **NULL** |
-| **2025/01/02** | DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring | Hao Wang et al. | [2501.01342v1](http://arxiv.org/abs/2501.01342v1) | **NULL** |
-| **2025/01/02** | Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging | Mengjie Qin et al. | [2501.01262v1](http://arxiv.org/abs/2501.01262v1) | [**link**](https://github.com/mengjie-s/mijun) |
+| **2025/01/03** | Catch Causal Signals from Edges for Label Imbalance in Graph Classification | Fengrui Zhang et al. | [2501.01707v2](http://arxiv.org/abs/2501.01707v2) | [**link**](https://github.com/fengrui-z/ecal) |
+| **2025/01/03** | VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement | Jiachen Li et al. | [2501.01691v2](http://arxiv.org/abs/2501.01691v2) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v1](http://arxiv.org/abs/2501.03419v1) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
 | **2023/10/25** | Spectral Background-Subtracted Activity Maps | Carsten Denker et al. | [2310.16747v1](http://arxiv.org/abs/2310.16747v1) | **NULL** |
 | **2023/10/12** | Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter | A. K. Yi et al. | [2310.07967v2](http://arxiv.org/abs/2310.07967v2) | **NULL** |
-| **2023/09/28** | The Hyper Suprime-Cam extended Point Spread Functions and applications | L. P. Garate-Nuñez et al. | [2309.16244v2](http://arxiv.org/abs/2309.16244v2) | [**link**](https://github.com/luciagarate/hsc_psfs) |
