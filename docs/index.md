@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/11 09:00:43
+> Updated on 2025/01/12 09:06:21
 
 <summary>Table of Contents</summary>
 
@@ -72,8 +72,8 @@ layout: default
 | **2025/01/07** | Discriminative Representation learning via Attention-Enhanced Contrastive Learning for Short Text Clustering | Zhihao Yao | [2501.03584v1](http://arxiv.org/abs/2501.03584v1) | **NULL** |
 | **2025/01/07** | Entropy-Guided Attention for Private LLMs | Nandan Kumar Jha et al. | [2501.03489v2](http://arxiv.org/abs/2501.03489v2) | [**link**](https://github.com/nandan91/entropy-guided-attention-llm) |
 | **2025/01/07** | LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging | Shubhr Singh et al. | [2501.03464v1](http://arxiv.org/abs/2501.03464v1) | **NULL** |
-| **2025/01/06** | Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization | Martin Burger et al. | [2501.03096v1](http://arxiv.org/abs/2501.03096v1) | **NULL** |
-| **2025/01/06** | Inverse receptive field attention for naturalistic image reconstruction from the brain | Lynn Le et al. | [2501.03051v1](http://arxiv.org/abs/2501.03051v1) | **NULL** |
+| **2025/01/06** | Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization | Martin Burger et al. | [2501.03096v1](http://arxiv.org/abs/2501.03096v1) | [**link**](https://github.com/timroith/transformerdynamics) |
+| **2025/01/06** | Inverse receptive field attention for naturalistic image reconstruction from the brain | Lynn Le et al. | [2501.03051v1](http://arxiv.org/abs/2501.03051v1) | [**link**](https://github.com/neuralcodinglab/irfa) |
 | **2025/01/06** | TransPixar: Advancing Text-to-Video Generation with Transparency | Luozhou Wang et al. | [2501.03006v1](http://arxiv.org/abs/2501.03006v1) | [**link**](https://github.com/wileewang/TransPixar) |
 | **2025/01/06** | Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures | Charles O'Neill | [2501.02931v1](http://arxiv.org/abs/2501.02931v1) | **NULL** |
 | **2025/01/06** | QSCL-EWIL: Quantum Stochastic Contrast Learning for Enhanced WiFi-Based Indoor Localization | Muhammad Bilal Akram Dastagir et al. | [2501.02884v1](http://arxiv.org/abs/2501.02884v1) | **NULL** |
