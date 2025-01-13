@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/12 09:06:21
+> Updated on 2025/01/13 09:04:12
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/01/09** | Uncertainty-aware Knowledge Tracing | Weihua Cheng et al. | [2501.05415v1](http://arxiv.org/abs/2501.05415v1) | **NULL** |
+| **2025/01/09** | Uncertainty-aware Knowledge Tracing | Weihua Cheng et al. | [2501.05415v1](http://arxiv.org/abs/2501.05415v1) | [**link**](https://github.com/uncertaintyforknowledgetracing/ukt) |
 | **2025/01/09** | BRATI: Bidirectional Recurrent Attention for Time-Series Imputation | Armando Collado-Villaverde et al. | [2501.05401v1](http://arxiv.org/abs/2501.05401v1) | **NULL** |
 | **2025/01/09** | 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering | Dewei Zhou et al. | [2501.05131v1](http://arxiv.org/abs/2501.05131v1) | **NULL** |
-| **2025/01/09** | Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment | Lei Li et al. | [2501.04958v1](http://arxiv.org/abs/2501.04958v1) | **NULL** |
+| **2025/01/09** | Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment | Lei Li et al. | [2501.04958v1](http://arxiv.org/abs/2501.04958v1) | [**link**](https://github.com/yinghemedical/imbalance-aware_domain_adaptation) |
 | **2025/01/09** | SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection | Jake H. Lee et al. | [2501.04916v1](http://arxiv.org/abs/2501.04916v1) | [**link**](https://github.com/emit-sds/SpecTf) |
 | **2025/01/08** | Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers | Anthony Deschênes et al. | [2501.04819v1](http://arxiv.org/abs/2501.04819v1) | [**link**](https://github.com/AnthonyDeschenes/PlaningItByEarDataset) |
 | **2025/01/08** | Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification | Zhiqiang Gao et al. | [2501.04643v1](http://arxiv.org/abs/2501.04643v1) | **NULL** |
