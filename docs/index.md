@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/13 09:04:12
+> Updated on 2025/01/14 08:57:50
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/10** | ELFATT: Efficient Linear Fast Attention for Vision Transformers | Chong Wu et al. | [2501.06098v1](http://arxiv.org/abs/2501.06098v1) | **NULL** |
+| **2025/01/10** | MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets | Bowei Zhang et al. | [2501.06040v1](http://arxiv.org/abs/2501.06040v1) | **NULL** |
+| **2025/01/10** | AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery | Johann Wenckstern et al. | [2501.06039v1](http://arxiv.org/abs/2501.06039v1) | **NULL** |
+| **2025/01/10** | An Attention-Guided Deep Learning Approach for Classifying 39 Skin Lesion Types | Sauda Adiv Hanum et al. | [2501.05991v1](http://arxiv.org/abs/2501.05991v1) | [**link**](https://github.com/akabircs/skin-lesions-classification) |
+| **2025/01/10** | Element-wise Attention Is All You Need | Guoxin Feng | [2501.05730v1](http://arxiv.org/abs/2501.05730v1) | **NULL** |
+| **2025/01/09** | MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data | Gourav Siddhad et al. | [2501.05525v1](http://arxiv.org/abs/2501.05525v1) | **NULL** |
 | **2025/01/09** | Uncertainty-aware Knowledge Tracing | Weihua Cheng et al. | [2501.05415v1](http://arxiv.org/abs/2501.05415v1) | [**link**](https://github.com/uncertaintyforknowledgetracing/ukt) |
 | **2025/01/09** | BRATI: Bidirectional Recurrent Attention for Time-Series Imputation | Armando Collado-Villaverde et al. | [2501.05401v1](http://arxiv.org/abs/2501.05401v1) | **NULL** |
 | **2025/01/09** | 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering | Dewei Zhou et al. | [2501.05131v1](http://arxiv.org/abs/2501.05131v1) | **NULL** |
+| **2025/01/09** | Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy | Mingyang Chen et al. | [2501.05490v1](http://arxiv.org/abs/2501.05490v1) | **NULL** |
 | **2025/01/09** | Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment | Lei Li et al. | [2501.04958v1](http://arxiv.org/abs/2501.04958v1) | [**link**](https://github.com/yinghemedical/imbalance-aware_domain_adaptation) |
 | **2025/01/09** | SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection | Jake H. Lee et al. | [2501.04916v1](http://arxiv.org/abs/2501.04916v1) | [**link**](https://github.com/emit-sds/SpecTf) |
 | **2025/01/08** | Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers | Anthony Deschênes et al. | [2501.04819v1](http://arxiv.org/abs/2501.04819v1) | [**link**](https://github.com/AnthonyDeschenes/PlaningItByEarDataset) |
@@ -76,13 +83,6 @@ layout: default
 | **2025/01/06** | Inverse receptive field attention for naturalistic image reconstruction from the brain | Lynn Le et al. | [2501.03051v1](http://arxiv.org/abs/2501.03051v1) | [**link**](https://github.com/neuralcodinglab/irfa) |
 | **2025/01/06** | TransPixar: Advancing Text-to-Video Generation with Transparency | Luozhou Wang et al. | [2501.03006v1](http://arxiv.org/abs/2501.03006v1) | [**link**](https://github.com/wileewang/TransPixar) |
 | **2025/01/06** | Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures | Charles O'Neill | [2501.02931v1](http://arxiv.org/abs/2501.02931v1) | **NULL** |
-| **2025/01/06** | QSCL-EWIL: Quantum Stochastic Contrast Learning for Enhanced WiFi-Based Indoor Localization | Muhammad Bilal Akram Dastagir et al. | [2501.02884v1](http://arxiv.org/abs/2501.02884v1) | **NULL** |
-| **2025/01/06** | A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation | Toomas Tahves et al. | [2501.02858v1](http://arxiv.org/abs/2501.02858v1) | **NULL** |
-| **2025/01/06** | RAHN: A Reputation Based Hourglass Network for Web Service QoS Prediction | Xia Chen et al. | [2501.02843v1](http://arxiv.org/abs/2501.02843v1) | **NULL** |
-| **2025/01/06** | Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI | Xujin Li et al. | [2501.02841v1](http://arxiv.org/abs/2501.02841v1) | **NULL** |
-| **2025/01/06** | Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models | Syed Abdul Gaffar Shakhadri et al. | [2501.02832v3](http://arxiv.org/abs/2501.02832v3) | **NULL** |
-| **2025/01/06** | RDD4D: 4D Attention-Guided Road Damage Detection And Classification | Asma Alkalbani et al. | [2501.02822v1](http://arxiv.org/abs/2501.02822v1) | [**link**](https://github.com/msaqib17/road_damage_detection) |
-| **2025/01/06** | Theoretical Data-Driven MobilePosenet: Lightweight Neural Network for Accurate Calibration-Free 5-DOF Magnet Localization | Wenxuan Xie et al. | [2501.02809v1](http://arxiv.org/abs/2501.02809v1) | **NULL** |
 
 ## 背景差分
 
