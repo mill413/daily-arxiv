@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/14 08:57:50
+> Updated on 2025/01/15 08:59:21
 
 <summary>Table of Contents</summary>
 
@@ -27,7 +27,7 @@ layout: default
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
 | **2024/12/06** | YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery | Sindhu Boddu et al. | [2412.05394v2](http://arxiv.org/abs/2412.05394v2) | **NULL** |
 | **2024/11/28** | Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection | Junwei Feng et al. | [2411.19071v1](http://arxiv.org/abs/2411.19071v1) | **NULL** |
-| **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v2](http://arxiv.org/abs/2411.11477v2) | **NULL** |
+| **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v3](http://arxiv.org/abs/2411.11477v3) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
@@ -53,6 +53,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/13** | Emergent effects of scaling on the functional hierarchies within large language models | Paul C. Bogdan | [2501.07359v1](http://arxiv.org/abs/2501.07359v1) | **NULL** |
+| **2025/01/13** | Code and Pixels: Multi-Modal Contrastive Pre-training for Enhanced Tabular Data Analysis | Kankana Roy et al. | [2501.07304v1](http://arxiv.org/abs/2501.07304v1) | **NULL** |
+| **2025/01/13** | VAGeo: View-specific Attention for Cross-View Object Geo-Localization | Zhongyang Li et al. | [2501.07194v1](http://arxiv.org/abs/2501.07194v1) | **NULL** |
+| **2025/01/13** | MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation | Xiaoxian Yang et al. | [2501.07120v1](http://arxiv.org/abs/2501.07120v1) | **NULL** |
+| **2025/01/13** | The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering | Anupam Pandey et al. | [2501.07109v1](http://arxiv.org/abs/2501.07109v1) | **NULL** |
+| **2025/01/13** | Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection | ZhouRui Zhang et al. | [2501.07101v1](http://arxiv.org/abs/2501.07101v1) | **NULL** |
+| **2025/01/13** | Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation | Yijin Choi et al. | [2501.07096v1](http://arxiv.org/abs/2501.07096v1) | **NULL** |
+| **2025/01/13** | Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities | Jialin Wu et al. | [2501.07044v1](http://arxiv.org/abs/2501.07044v1) | **NULL** |
+| **2025/01/13** | PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks | Hoang-Thang Ta et al. | [2501.07032v1](http://arxiv.org/abs/2501.07032v1) | **NULL** |
+| **2025/01/13** | A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis | Binyu Zhang et al. | [2501.07016v1](http://arxiv.org/abs/2501.07016v1) | [**link**](https://github.com/binging512/umpsnet) |
+| **2025/01/12** | Local Foreground Selection aware Attentive Feature Reconstruction for few-shot fine-grained plant species classification | Aisha Zulfiqar et al. | [2501.06909v1](http://arxiv.org/abs/2501.06909v1) | **NULL** |
+| **2025/01/12** | ODPG: Outfitting Diffusion with Pose Guided Condition | Seohyun Lee et al. | [2501.06769v1](http://arxiv.org/abs/2501.06769v1) | **NULL** |
+| **2025/01/12** | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation | Zhonghao Yan et al. | [2501.06692v1](http://arxiv.org/abs/2501.06692v1) | **NULL** |
+| **2025/01/11** | Dual-Modality Representation Learning for Molecular Property Prediction | Anyin Zhao et al. | [2501.06608v1](http://arxiv.org/abs/2501.06608v1) | **NULL** |
+| **2025/01/11** | TopoFormer: Integrating Transformers and ConvLSTMs for Coastal Topography Prediction | Santosh Munian et al. | [2501.06494v1](http://arxiv.org/abs/2501.06494v1) | **NULL** |
+| **2025/01/11** | YO-CSA-T: A Real-time Badminton Tracking System Utilizing YOLO Based on Contextual and Spatial Attention | Yuan Lai et al. | [2501.06472v1](http://arxiv.org/abs/2501.06472v1) | **NULL** |
+| **2025/01/11** | CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement | Yijie Li et al. | [2501.06441v1](http://arxiv.org/abs/2501.06441v1) | **NULL** |
+| **2025/01/11** | Tensor Product Attention Is All You Need | Yifan Zhang et al. | [2501.06425v1](http://arxiv.org/abs/2501.06425v1) | [**link**](https://github.com/tensorgi/t6) |
 | **2025/01/10** | ELFATT: Efficient Linear Fast Attention for Vision Transformers | Chong Wu et al. | [2501.06098v1](http://arxiv.org/abs/2501.06098v1) | **NULL** |
 | **2025/01/10** | MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets | Bowei Zhang et al. | [2501.06040v1](http://arxiv.org/abs/2501.06040v1) | **NULL** |
 | **2025/01/10** | AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery | Johann Wenckstern et al. | [2501.06039v1](http://arxiv.org/abs/2501.06039v1) | **NULL** |
@@ -61,28 +79,10 @@ layout: default
 | **2025/01/09** | MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data | Gourav Siddhad et al. | [2501.05525v1](http://arxiv.org/abs/2501.05525v1) | **NULL** |
 | **2025/01/09** | Uncertainty-aware Knowledge Tracing | Weihua Cheng et al. | [2501.05415v1](http://arxiv.org/abs/2501.05415v1) | [**link**](https://github.com/uncertaintyforknowledgetracing/ukt) |
 | **2025/01/09** | BRATI: Bidirectional Recurrent Attention for Time-Series Imputation | Armando Collado-Villaverde et al. | [2501.05401v1](http://arxiv.org/abs/2501.05401v1) | **NULL** |
+| **2025/01/09** | HPAC-IDS: A Hierarchical Packet Attention Convolution for Intrusion Detection System | Anass Grini et al. | [2501.06264v1](http://arxiv.org/abs/2501.06264v1) | **NULL** |
 | **2025/01/09** | 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering | Dewei Zhou et al. | [2501.05131v1](http://arxiv.org/abs/2501.05131v1) | **NULL** |
 | **2025/01/09** | Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy | Mingyang Chen et al. | [2501.05490v1](http://arxiv.org/abs/2501.05490v1) | **NULL** |
 | **2025/01/09** | Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment | Lei Li et al. | [2501.04958v1](http://arxiv.org/abs/2501.04958v1) | [**link**](https://github.com/yinghemedical/imbalance-aware_domain_adaptation) |
-| **2025/01/09** | SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection | Jake H. Lee et al. | [2501.04916v1](http://arxiv.org/abs/2501.04916v1) | [**link**](https://github.com/emit-sds/SpecTf) |
-| **2025/01/08** | Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers | Anthony Deschênes et al. | [2501.04819v1](http://arxiv.org/abs/2501.04819v1) | [**link**](https://github.com/AnthonyDeschenes/PlaningItByEarDataset) |
-| **2025/01/08** | Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification | Zhiqiang Gao et al. | [2501.04643v1](http://arxiv.org/abs/2501.04643v1) | **NULL** |
-| **2025/01/08** | On Computational Limits and Provably Efficient Criteria of Visual Autoregressive Models: A Fine-Grained Complexity Analysis | Yekun Ke et al. | [2501.04377v1](http://arxiv.org/abs/2501.04377v1) | **NULL** |
-| **2025/01/08** | Modeling All Response Surfaces in One for Conditional Search Spaces | Jiaxing Li et al. | [2501.04260v1](http://arxiv.org/abs/2501.04260v1) | **NULL** |
-| **2025/01/08** | LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition | Bowen Hao et al. | [2501.04204v1](http://arxiv.org/abs/2501.04204v1) | **NULL** |
-| **2025/01/07** | KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion | Dong Hyun Jeon et al. | [2501.04161v1](http://arxiv.org/abs/2501.04161v1) | **NULL** |
-| **2025/01/07** | AI-Driven Reinvention of Hydrological Modeling for Accurate Predictions and Interpretation to Transform Earth System Modeling | Cuihui Xia et al. | [2501.04733v1](http://arxiv.org/abs/2501.04733v1) | **NULL** |
-| **2025/01/07** | Deep Learning for Ophthalmology: The State-of-the-Art and Future Trends | Duy M. H. Nguyen et al. | [2501.04073v1](http://arxiv.org/abs/2501.04073v1) | **NULL** |
-| **2025/01/07** | SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis | Runci Bai | [2501.03836v1](http://arxiv.org/abs/2501.03836v1) | **NULL** |
-| **2025/01/07** | SFADNet: Spatio-temporal Fused Graph based on Attention Decoupling Network for Traffic Prediction | Mei Wu et al. | [2501.04060v1](http://arxiv.org/abs/2501.04060v1) | [**link**](https://github.com/meiwu5/sfadnet) |
-| **2025/01/07** | Universal Speaker Embedding Free Target Speaker Extraction and Personal Voice Activity Detection | Bang Zeng et al. | [2501.03612v1](http://arxiv.org/abs/2501.03612v1) | **NULL** |
-| **2025/01/07** | Discriminative Representation learning via Attention-Enhanced Contrastive Learning for Short Text Clustering | Zhihao Yao | [2501.03584v1](http://arxiv.org/abs/2501.03584v1) | **NULL** |
-| **2025/01/07** | Entropy-Guided Attention for Private LLMs | Nandan Kumar Jha et al. | [2501.03489v2](http://arxiv.org/abs/2501.03489v2) | [**link**](https://github.com/nandan91/entropy-guided-attention-llm) |
-| **2025/01/07** | LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging | Shubhr Singh et al. | [2501.03464v1](http://arxiv.org/abs/2501.03464v1) | **NULL** |
-| **2025/01/06** | Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization | Martin Burger et al. | [2501.03096v1](http://arxiv.org/abs/2501.03096v1) | [**link**](https://github.com/timroith/transformerdynamics) |
-| **2025/01/06** | Inverse receptive field attention for naturalistic image reconstruction from the brain | Lynn Le et al. | [2501.03051v1](http://arxiv.org/abs/2501.03051v1) | [**link**](https://github.com/neuralcodinglab/irfa) |
-| **2025/01/06** | TransPixar: Advancing Text-to-Video Generation with Transparency | Luozhou Wang et al. | [2501.03006v1](http://arxiv.org/abs/2501.03006v1) | [**link**](https://github.com/wileewang/TransPixar) |
-| **2025/01/06** | Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures | Charles O'Neill | [2501.02931v1](http://arxiv.org/abs/2501.02931v1) | **NULL** |
 
 ## 背景差分
 
