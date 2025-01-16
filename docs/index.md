@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/15 08:59:21
+> Updated on 2025/01/16 08:58:26
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/14** | LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking | Yukai Ma et al. | [2501.08168v1](http://arxiv.org/abs/2501.08168v1) | **NULL** |
+| **2025/01/14** | EEG-ReMinD: Enhancing Neurodegenerative EEG Decoding through Self-Supervised State Reconstruction-Primed Riemannian Dynamics | Zirui Wang et al. | [2501.08139v1](http://arxiv.org/abs/2501.08139v1) | **NULL** |
+| **2025/01/14** | Audio-visual Deepfake Detection With Local Temporal Inconsistencies | Marcella Astrid et al. | [2501.08137v1](http://arxiv.org/abs/2501.08137v1) | **NULL** |
+| **2025/01/14** | Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification | Hui Lee et al. | [2501.08085v1](http://arxiv.org/abs/2501.08085v1) | **NULL** |
+| **2025/01/14** | GAC-Net_Geometric and attention-based Network for Depth Completion | Kuang Zhu et al. | [2501.07988v1](http://arxiv.org/abs/2501.07988v1) | **NULL** |
+| **2025/01/14** | Threshold Attention Network for Semantic Segmentation of Remote Sensing Images | Wei Long et al. | [2501.07984v1](http://arxiv.org/abs/2501.07984v1) | **NULL** |
+| **2025/01/14** | Comprehensive Metapath-based Heterogeneous Graph Transformer for Gene-Disease Association Prediction | Wentao Cui et al. | [2501.07970v1](http://arxiv.org/abs/2501.07970v1) | **NULL** |
+| **2025/01/14** | Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments | Mohamed A. Taha | [2501.07905v1](http://arxiv.org/abs/2501.07905v1) | [**link**](https://github.com/ahmedboin/logarithmicmemory) |
+| **2025/01/14** | Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network | Yuxi Wang et al. | [2501.07901v1](http://arxiv.org/abs/2501.07901v1) | **NULL** |
+| **2025/01/14** | MD-Syn: Synergistic drug combination prediction based on the multidimensional feature fusion method and attention mechanisms | XinXin Ge et al. | [2501.07884v1](http://arxiv.org/abs/2501.07884v1) | **NULL** |
+| **2025/01/14** | Transforming Indoor Localization: Advanced Transformer Architecture for NLOS Dominated Wireless Environments with Distributed Sensors | Saad Masrur et al. | [2501.07774v1](http://arxiv.org/abs/2501.07774v1) | **NULL** |
 | **2025/01/13** | Emergent effects of scaling on the functional hierarchies within large language models | Paul C. Bogdan | [2501.07359v1](http://arxiv.org/abs/2501.07359v1) | **NULL** |
 | **2025/01/13** | Code and Pixels: Multi-Modal Contrastive Pre-training for Enhanced Tabular Data Analysis | Kankana Roy et al. | [2501.07304v1](http://arxiv.org/abs/2501.07304v1) | **NULL** |
 | **2025/01/13** | VAGeo: View-specific Attention for Cross-View Object Geo-Localization | Zhongyang Li et al. | [2501.07194v1](http://arxiv.org/abs/2501.07194v1) | **NULL** |
@@ -71,23 +82,13 @@ layout: default
 | **2025/01/11** | YO-CSA-T: A Real-time Badminton Tracking System Utilizing YOLO Based on Contextual and Spatial Attention | Yuan Lai et al. | [2501.06472v1](http://arxiv.org/abs/2501.06472v1) | **NULL** |
 | **2025/01/11** | CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement | Yijie Li et al. | [2501.06441v1](http://arxiv.org/abs/2501.06441v1) | **NULL** |
 | **2025/01/11** | Tensor Product Attention Is All You Need | Yifan Zhang et al. | [2501.06425v1](http://arxiv.org/abs/2501.06425v1) | [**link**](https://github.com/tensorgi/t6) |
-| **2025/01/10** | ELFATT: Efficient Linear Fast Attention for Vision Transformers | Chong Wu et al. | [2501.06098v1](http://arxiv.org/abs/2501.06098v1) | **NULL** |
-| **2025/01/10** | MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets | Bowei Zhang et al. | [2501.06040v1](http://arxiv.org/abs/2501.06040v1) | **NULL** |
-| **2025/01/10** | AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery | Johann Wenckstern et al. | [2501.06039v1](http://arxiv.org/abs/2501.06039v1) | **NULL** |
-| **2025/01/10** | An Attention-Guided Deep Learning Approach for Classifying 39 Skin Lesion Types | Sauda Adiv Hanum et al. | [2501.05991v1](http://arxiv.org/abs/2501.05991v1) | [**link**](https://github.com/akabircs/skin-lesions-classification) |
-| **2025/01/10** | Element-wise Attention Is All You Need | Guoxin Feng | [2501.05730v1](http://arxiv.org/abs/2501.05730v1) | **NULL** |
-| **2025/01/09** | MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data | Gourav Siddhad et al. | [2501.05525v1](http://arxiv.org/abs/2501.05525v1) | **NULL** |
-| **2025/01/09** | Uncertainty-aware Knowledge Tracing | Weihua Cheng et al. | [2501.05415v1](http://arxiv.org/abs/2501.05415v1) | [**link**](https://github.com/uncertaintyforknowledgetracing/ukt) |
-| **2025/01/09** | BRATI: Bidirectional Recurrent Attention for Time-Series Imputation | Armando Collado-Villaverde et al. | [2501.05401v1](http://arxiv.org/abs/2501.05401v1) | **NULL** |
-| **2025/01/09** | HPAC-IDS: A Hierarchical Packet Attention Convolution for Intrusion Detection System | Anass Grini et al. | [2501.06264v1](http://arxiv.org/abs/2501.06264v1) | **NULL** |
-| **2025/01/09** | 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering | Dewei Zhou et al. | [2501.05131v1](http://arxiv.org/abs/2501.05131v1) | **NULL** |
-| **2025/01/09** | Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy | Mingyang Chen et al. | [2501.05490v1](http://arxiv.org/abs/2501.05490v1) | **NULL** |
-| **2025/01/09** | Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment | Lei Li et al. | [2501.04958v1](http://arxiv.org/abs/2501.04958v1) | [**link**](https://github.com/yinghemedical/imbalance-aware_domain_adaptation) |
+| **2025/01/10** | Analyzing Spatio-Temporal Dynamics of Dissolved Oxygen for the River Thames using Superstatistical Methods and Machine Learning | Hankun He et al. | [2501.07599v1](http://arxiv.org/abs/2501.07599v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/14** | Background subtraction method is as applicable as convariant counterterm method, but much simpler | Wei Guo et al. | [2501.08214v1](http://arxiv.org/abs/2501.08214v1) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v1](http://arxiv.org/abs/2501.03419v1) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/12/04** | Cable Slack Detection for Arresting Gear Application using Machine Vision | Ari Goodman et al. | [2312.02320v1](http://arxiv.org/abs/2312.02320v1) | **NULL** |
 | **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
 | **2023/10/25** | Spectral Background-Subtracted Activity Maps | Carsten Denker et al. | [2310.16747v1](http://arxiv.org/abs/2310.16747v1) | **NULL** |
-| **2023/10/12** | Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter | A. K. Yi et al. | [2310.07967v2](http://arxiv.org/abs/2310.07967v2) | **NULL** |
