@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/16 08:58:26
+> Updated on 2025/01/17 08:58:20
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/15** | RepVideo: Rethinking Cross-Layer Representation for Video Generation | Chenyang Si et al. | [2501.08994v1](http://arxiv.org/abs/2501.08994v1) | **NULL** |
+| **2025/01/15** | Enhanced Multi-Scale Cross-Attention for Person Image Generation | Hao Tang et al. | [2501.08900v1](http://arxiv.org/abs/2501.08900v1) | **NULL** |
+| **2025/01/15** | Incrementally Learning Multiple Diverse Data Domains via Multi-Source Dynamic Expansion Model | Runqing Wu et al. | [2501.08878v1](http://arxiv.org/abs/2501.08878v1) | **NULL** |
+| **2025/01/15** | Disentangled Interleaving Variational Encoding | Noelle Y. L. Wong et al. | [2501.08710v1](http://arxiv.org/abs/2501.08710v1) | **NULL** |
+| **2025/01/15** | MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities | Savya Khosla et al. | [2501.08648v1](http://arxiv.org/abs/2501.08648v1) | **NULL** |
+| **2025/01/15** | Transformer-based Multivariate Time Series Anomaly Localization | Charalampos Shimillas et al. | [2501.08628v1](http://arxiv.org/abs/2501.08628v1) | **NULL** |
+| **2025/01/15** | Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms | Kewei Li et al. | [2501.08570v1](http://arxiv.org/abs/2501.08570v1) | **NULL** |
 | **2025/01/14** | LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking | Yukai Ma et al. | [2501.08168v1](http://arxiv.org/abs/2501.08168v1) | **NULL** |
 | **2025/01/14** | EEG-ReMinD: Enhancing Neurodegenerative EEG Decoding through Self-Supervised State Reconstruction-Primed Riemannian Dynamics | Zirui Wang et al. | [2501.08139v1](http://arxiv.org/abs/2501.08139v1) | **NULL** |
 | **2025/01/14** | Audio-visual Deepfake Detection With Local Temporal Inconsistencies | Marcella Astrid et al. | [2501.08137v1](http://arxiv.org/abs/2501.08137v1) | **NULL** |
@@ -76,20 +83,13 @@ layout: default
 | **2025/01/13** | A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis | Binyu Zhang et al. | [2501.07016v1](http://arxiv.org/abs/2501.07016v1) | [**link**](https://github.com/binging512/umpsnet) |
 | **2025/01/12** | Local Foreground Selection aware Attentive Feature Reconstruction for few-shot fine-grained plant species classification | Aisha Zulfiqar et al. | [2501.06909v1](http://arxiv.org/abs/2501.06909v1) | **NULL** |
 | **2025/01/12** | ODPG: Outfitting Diffusion with Pose Guided Condition | Seohyun Lee et al. | [2501.06769v1](http://arxiv.org/abs/2501.06769v1) | **NULL** |
-| **2025/01/12** | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation | Zhonghao Yan et al. | [2501.06692v1](http://arxiv.org/abs/2501.06692v1) | **NULL** |
-| **2025/01/11** | Dual-Modality Representation Learning for Molecular Property Prediction | Anyin Zhao et al. | [2501.06608v1](http://arxiv.org/abs/2501.06608v1) | **NULL** |
-| **2025/01/11** | TopoFormer: Integrating Transformers and ConvLSTMs for Coastal Topography Prediction | Santosh Munian et al. | [2501.06494v1](http://arxiv.org/abs/2501.06494v1) | **NULL** |
-| **2025/01/11** | YO-CSA-T: A Real-time Badminton Tracking System Utilizing YOLO Based on Contextual and Spatial Attention | Yuan Lai et al. | [2501.06472v1](http://arxiv.org/abs/2501.06472v1) | **NULL** |
-| **2025/01/11** | CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement | Yijie Li et al. | [2501.06441v1](http://arxiv.org/abs/2501.06441v1) | **NULL** |
-| **2025/01/11** | Tensor Product Attention Is All You Need | Yifan Zhang et al. | [2501.06425v1](http://arxiv.org/abs/2501.06425v1) | [**link**](https://github.com/tensorgi/t6) |
-| **2025/01/10** | Analyzing Spatio-Temporal Dynamics of Dissolved Oxygen for the River Thames using Superstatistical Methods and Machine Learning | Hankun He et al. | [2501.07599v1](http://arxiv.org/abs/2501.07599v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2025/01/14** | Background subtraction method is as applicable as convariant counterterm method, but much simpler | Wei Guo et al. | [2501.08214v1](http://arxiv.org/abs/2501.08214v1) | **NULL** |
-| **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v1](http://arxiv.org/abs/2501.03419v1) | **NULL** |
+| **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
