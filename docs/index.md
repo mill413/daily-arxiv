@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/17 08:58:20
+> Updated on 2025/01/18 08:56:43
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/15** | Attention is All You Need Until You Need Retention | M. Murat Yaslioglu | [2501.09166v1](http://arxiv.org/abs/2501.09166v1) | **NULL** |
+| **2025/01/15** | Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks | Tong Liu et al. | [2501.09117v1](http://arxiv.org/abs/2501.09117v1) | **NULL** |
 | **2025/01/15** | RepVideo: Rethinking Cross-Layer Representation for Video Generation | Chenyang Si et al. | [2501.08994v1](http://arxiv.org/abs/2501.08994v1) | **NULL** |
 | **2025/01/15** | Enhanced Multi-Scale Cross-Attention for Person Image Generation | Hao Tang et al. | [2501.08900v1](http://arxiv.org/abs/2501.08900v1) | **NULL** |
 | **2025/01/15** | Incrementally Learning Multiple Diverse Data Domains via Multi-Source Dynamic Expansion Model | Runqing Wu et al. | [2501.08878v1](http://arxiv.org/abs/2501.08878v1) | **NULL** |
-| **2025/01/15** | Disentangled Interleaving Variational Encoding | Noelle Y. L. Wong et al. | [2501.08710v1](http://arxiv.org/abs/2501.08710v1) | **NULL** |
+| **2025/01/15** | Disentangled Interleaving Variational Encoding | Noelle Y. L. Wong et al. | [2501.08710v2](http://arxiv.org/abs/2501.08710v2) | **NULL** |
 | **2025/01/15** | MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities | Savya Khosla et al. | [2501.08648v1](http://arxiv.org/abs/2501.08648v1) | **NULL** |
 | **2025/01/15** | Transformer-based Multivariate Time Series Anomaly Localization | Charalampos Shimillas et al. | [2501.08628v1](http://arxiv.org/abs/2501.08628v1) | **NULL** |
 | **2025/01/15** | Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms | Kewei Li et al. | [2501.08570v1](http://arxiv.org/abs/2501.08570v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2025/01/13** | Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities | Jialin Wu et al. | [2501.07044v1](http://arxiv.org/abs/2501.07044v1) | **NULL** |
 | **2025/01/13** | PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks | Hoang-Thang Ta et al. | [2501.07032v1](http://arxiv.org/abs/2501.07032v1) | **NULL** |
 | **2025/01/13** | A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis | Binyu Zhang et al. | [2501.07016v1](http://arxiv.org/abs/2501.07016v1) | [**link**](https://github.com/binging512/umpsnet) |
-| **2025/01/12** | Local Foreground Selection aware Attentive Feature Reconstruction for few-shot fine-grained plant species classification | Aisha Zulfiqar et al. | [2501.06909v1](http://arxiv.org/abs/2501.06909v1) | **NULL** |
-| **2025/01/12** | ODPG: Outfitting Diffusion with Pose Guided Condition | Seohyun Lee et al. | [2501.06769v1](http://arxiv.org/abs/2501.06769v1) | **NULL** |
 
 ## 背景差分
 
