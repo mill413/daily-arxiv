@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/20 08:59:46
+> Updated on 2025/01/21 08:58:17
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/17** | Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism | Mohammed Guhdar et al. | [2501.10342v1](http://arxiv.org/abs/2501.10342v1) | **NULL** |
+| **2025/01/17** | Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework | Ali Can Karaca et al. | [2501.10075v1](http://arxiv.org/abs/2501.10075v1) | **NULL** |
+| **2025/01/17** | Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography | Mohammed Salah et al. | [2501.09994v1](http://arxiv.org/abs/2501.09994v1) | [**link**](https://github.com/mohammedsalah98/pt_fusion) |
 | **2025/01/15** | Attention is All You Need Until You Need Retention | M. Murat Yaslioglu | [2501.09166v1](http://arxiv.org/abs/2501.09166v1) | **NULL** |
 | **2025/01/15** | Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks | Tong Liu et al. | [2501.09117v1](http://arxiv.org/abs/2501.09117v1) | **NULL** |
 | **2025/01/15** | RepVideo: Rethinking Cross-Layer Representation for Video Generation | Chenyang Si et al. | [2501.08994v1](http://arxiv.org/abs/2501.08994v1) | **NULL** |
@@ -80,9 +83,6 @@ layout: default
 | **2025/01/13** | The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering | Anupam Pandey et al. | [2501.07109v1](http://arxiv.org/abs/2501.07109v1) | **NULL** |
 | **2025/01/13** | Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection | ZhouRui Zhang et al. | [2501.07101v1](http://arxiv.org/abs/2501.07101v1) | **NULL** |
 | **2025/01/13** | Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation | Yijin Choi et al. | [2501.07096v1](http://arxiv.org/abs/2501.07096v1) | **NULL** |
-| **2025/01/13** | Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities | Jialin Wu et al. | [2501.07044v1](http://arxiv.org/abs/2501.07044v1) | **NULL** |
-| **2025/01/13** | PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks | Hoang-Thang Ta et al. | [2501.07032v1](http://arxiv.org/abs/2501.07032v1) | **NULL** |
-| **2025/01/13** | A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis | Binyu Zhang et al. | [2501.07016v1](http://arxiv.org/abs/2501.07016v1) | [**link**](https://github.com/binging512/umpsnet) |
 
 ## 背景差分
 
