@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/22 08:59:59
+> Updated on 2025/01/23 08:58:34
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/21** | Parallel Sequence Modeling via Generalized Spatial Propagation Network | Hongjun Wang et al. | [2501.12381v1](http://arxiv.org/abs/2501.12381v1) | **NULL** |
+| **2025/01/21** | A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications | Eugenio Borzone et al. | [2501.12309v1](http://arxiv.org/abs/2501.12309v1) | **NULL** |
+| **2025/01/21** | DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains | Junyu Xia et al. | [2501.12235v1](http://arxiv.org/abs/2501.12235v1) | **NULL** |
+| **2025/01/21** | SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology | Dongli Wu et al. | [2501.12169v1](http://arxiv.org/abs/2501.12169v1) | **NULL** |
+| **2025/01/21** | Comparative Analysis of Pre-trained Deep Learning Models and DINOv2 for Cushing's Syndrome Diagnosis in Facial Analysis | Hongjun Liu et al. | [2501.12023v1](http://arxiv.org/abs/2501.12023v1) | **NULL** |
+| **2025/01/21** | A Hybrid Attention Framework for Fake News Detection with Large Language Models | Xiaochuan Xu et al. | [2501.11967v1](http://arxiv.org/abs/2501.11967v1) | **NULL** |
+| **2025/01/21** | Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery | Vicky Feliren et al. | [2501.11923v1](http://arxiv.org/abs/2501.11923v1) | **NULL** |
+| **2025/01/21** | FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients | Jiaqi Leng et al. | [2501.11876v1](http://arxiv.org/abs/2501.11876v1) | [**link**](https://github.com/nailwatts/fnin) |
+| **2025/01/20** | Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference | Pouya Hamadanian et al. | [2501.11779v1](http://arxiv.org/abs/2501.11779v1) | [**link**](https://github.com/microsoft/glinthawk) |
+| **2025/01/20** | Is logical analysis performed by transformers taking place in self-attention or in the fully connected part? | Evgeniy Shin et al. | [2501.11765v1](http://arxiv.org/abs/2501.11765v1) | **NULL** |
+| **2025/01/20** | Hybrid Photonic-digital Accelerator for Attention Mechanism | Huize Li et al. | [2501.11286v1](http://arxiv.org/abs/2501.11286v1) | **NULL** |
+| **2025/01/20** | Advancing Oyster Phenotype Segmentation with Multi-Network Ensemble and Multi-Scale mechanism | Wenli Yang et al. | [2501.11203v1](http://arxiv.org/abs/2501.11203v1) | **NULL** |
+| **2025/01/19** | Enhancing Brain Tumor Segmentation Using Channel Attention and Transfer learning | Majid Behzadpour et al. | [2501.11196v1](http://arxiv.org/abs/2501.11196v1) | **NULL** |
+| **2025/01/19** | Modeling Attention during Dimensional Shifts with Counterfactual and Delayed Feedback | Tyler Malloy et al. | [2501.11161v1](http://arxiv.org/abs/2501.11161v1) | **NULL** |
+| **2025/01/19** | Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model | Mohaiminul Islam Bhuiyan et al. | [2501.11094v1](http://arxiv.org/abs/2501.11094v1) | **NULL** |
+| **2025/01/19** | Generative Retrieval for Book search | Yubao Tang et al. | [2501.11034v1](http://arxiv.org/abs/2501.11034v1) | **NULL** |
+| **2025/01/19** | Decomposing and Fusing Intra- and Inter-Sensor Spatio-Temporal Signal for Multi-Sensor Wearable Human Activity Recognition | Haoyu Xie et al. | [2501.10917v1](http://arxiv.org/abs/2501.10917v1) | [**link**](https://github.com/anakin2555/decomposewhar) |
+| **2025/01/18** | CEReBrO: Compact Encoder for Representations of Brain Oscillations Using Efficient Alternating Attention | Alexandru Dimofte et al. | [2501.10885v1](http://arxiv.org/abs/2501.10885v1) | **NULL** |
+| **2025/01/18** | Semi-supervised Semantic Segmentation for Remote Sensing Images via Multi-scale Uncertainty Consistency and Cross-Teacher-Student Attention | Shanwen Wang et al. | [2501.10736v1](http://arxiv.org/abs/2501.10736v1) | **NULL** |
+| **2025/01/18** | UAV-Assisted Multi-Task Federated Learning with Task Knowledge Sharing | Yubo Yang et al. | [2501.10644v1](http://arxiv.org/abs/2501.10644v1) | **NULL** |
 | **2025/01/17** | Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism | Mohammed Guhdar et al. | [2501.10342v1](http://arxiv.org/abs/2501.10342v1) | **NULL** |
 | **2025/01/17** | Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework | Ali Can Karaca et al. | [2501.10075v1](http://arxiv.org/abs/2501.10075v1) | **NULL** |
 | **2025/01/17** | Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography | Mohammed Salah et al. | [2501.09994v1](http://arxiv.org/abs/2501.09994v1) | [**link**](https://github.com/mohammedsalah98/pt_fusion) |
@@ -63,26 +83,6 @@ layout: default
 | **2025/01/15** | Incrementally Learning Multiple Diverse Data Domains via Multi-Source Dynamic Expansion Model | Runqing Wu et al. | [2501.08878v1](http://arxiv.org/abs/2501.08878v1) | **NULL** |
 | **2025/01/15** | Disentangled Interleaving Variational Encoding | Noelle Y. L. Wong et al. | [2501.08710v2](http://arxiv.org/abs/2501.08710v2) | **NULL** |
 | **2025/01/15** | MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities | Savya Khosla et al. | [2501.08648v1](http://arxiv.org/abs/2501.08648v1) | **NULL** |
-| **2025/01/15** | Transformer-based Multivariate Time Series Anomaly Localization | Charalampos Shimillas et al. | [2501.08628v1](http://arxiv.org/abs/2501.08628v1) | **NULL** |
-| **2025/01/15** | Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms | Kewei Li et al. | [2501.08570v1](http://arxiv.org/abs/2501.08570v1) | **NULL** |
-| **2025/01/14** | LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking | Yukai Ma et al. | [2501.08168v1](http://arxiv.org/abs/2501.08168v1) | **NULL** |
-| **2025/01/14** | EEG-ReMinD: Enhancing Neurodegenerative EEG Decoding through Self-Supervised State Reconstruction-Primed Riemannian Dynamics | Zirui Wang et al. | [2501.08139v1](http://arxiv.org/abs/2501.08139v1) | **NULL** |
-| **2025/01/14** | Audio-visual Deepfake Detection With Local Temporal Inconsistencies | Marcella Astrid et al. | [2501.08137v1](http://arxiv.org/abs/2501.08137v1) | **NULL** |
-| **2025/01/14** | Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification | Hui Lee et al. | [2501.08085v1](http://arxiv.org/abs/2501.08085v1) | **NULL** |
-| **2025/01/14** | GAC-Net_Geometric and attention-based Network for Depth Completion | Kuang Zhu et al. | [2501.07988v1](http://arxiv.org/abs/2501.07988v1) | **NULL** |
-| **2025/01/14** | Threshold Attention Network for Semantic Segmentation of Remote Sensing Images | Wei Long et al. | [2501.07984v1](http://arxiv.org/abs/2501.07984v1) | **NULL** |
-| **2025/01/14** | Comprehensive Metapath-based Heterogeneous Graph Transformer for Gene-Disease Association Prediction | Wentao Cui et al. | [2501.07970v1](http://arxiv.org/abs/2501.07970v1) | **NULL** |
-| **2025/01/14** | Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments | Mohamed A. Taha | [2501.07905v1](http://arxiv.org/abs/2501.07905v1) | [**link**](https://github.com/ahmedboin/logarithmicmemory) |
-| **2025/01/14** | Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network | Yuxi Wang et al. | [2501.07901v1](http://arxiv.org/abs/2501.07901v1) | **NULL** |
-| **2025/01/14** | MD-Syn: Synergistic drug combination prediction based on the multidimensional feature fusion method and attention mechanisms | XinXin Ge et al. | [2501.07884v1](http://arxiv.org/abs/2501.07884v1) | **NULL** |
-| **2025/01/14** | Transforming Indoor Localization: Advanced Transformer Architecture for NLOS Dominated Wireless Environments with Distributed Sensors | Saad Masrur et al. | [2501.07774v1](http://arxiv.org/abs/2501.07774v1) | **NULL** |
-| **2025/01/13** | Emergent effects of scaling on the functional hierarchies within large language models | Paul C. Bogdan | [2501.07359v1](http://arxiv.org/abs/2501.07359v1) | **NULL** |
-| **2025/01/13** | Code and Pixels: Multi-Modal Contrastive Pre-training for Enhanced Tabular Data Analysis | Kankana Roy et al. | [2501.07304v1](http://arxiv.org/abs/2501.07304v1) | **NULL** |
-| **2025/01/13** | VAGeo: View-specific Attention for Cross-View Object Geo-Localization | Zhongyang Li et al. | [2501.07194v1](http://arxiv.org/abs/2501.07194v1) | **NULL** |
-| **2025/01/13** | MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation | Xiaoxian Yang et al. | [2501.07120v1](http://arxiv.org/abs/2501.07120v1) | **NULL** |
-| **2025/01/13** | The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering | Anupam Pandey et al. | [2501.07109v1](http://arxiv.org/abs/2501.07109v1) | **NULL** |
-| **2025/01/13** | Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection | ZhouRui Zhang et al. | [2501.07101v1](http://arxiv.org/abs/2501.07101v1) | **NULL** |
-| **2025/01/13** | Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation | Yijin Choi et al. | [2501.07096v1](http://arxiv.org/abs/2501.07096v1) | **NULL** |
 
 ## 背景差分
 
