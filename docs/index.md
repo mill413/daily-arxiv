@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/24 08:58:57
+> Updated on 2025/01/25 08:55:25
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/23** | Where Do You Go? Pedestrian Trajectory Prediction using Scene Features | Mohammad Ali Rezaei et al. | [2501.13848v1](http://arxiv.org/abs/2501.13848v1) | **NULL** |
+| **2025/01/23** | Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models | Zhenghao Lin et al. | [2501.13629v1](http://arxiv.org/abs/2501.13629v1) | **NULL** |
+| **2025/01/23** | Multi-Level Attention and Contrastive Learning for Enhanced Text Classification with an Optimized Transformer | Jia Gao et al. | [2501.13467v1](http://arxiv.org/abs/2501.13467v1) | **NULL** |
+| **2025/01/23** | KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks | Taoran Fang et al. | [2501.13456v1](http://arxiv.org/abs/2501.13456v1) | [**link**](https://github.com/luckytiger123/kaa) |
+| **2025/01/23** | Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models | Bo Gao et al. | [2501.13428v1](http://arxiv.org/abs/2501.13428v1) | **NULL** |
+| **2025/01/23** | Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification | Yuzhuo Li et al. | [2501.13368v1](http://arxiv.org/abs/2501.13368v1) | **NULL** |
+| **2025/01/23** | Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision | Aman Urumbekov et al. | [2501.13353v1](http://arxiv.org/abs/2501.13353v1) | **NULL** |
+| **2025/01/22** | Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions | Yan Ru Pei | [2501.13230v1](http://arxiv.org/abs/2501.13230v1) | [**link**](https://github.com/Brainchip-Inc/Centaurus) |
 | **2025/01/22** | Regularization, Semi-supervision, and Supervision for a Plausible Attention-Based Explanation | Duc Hau Nguyen et al. | [2501.12775v1](http://arxiv.org/abs/2501.12775v1) | [**link**](https://github.com/kihansi95/linkmedia_attentionplausibilitybyconstraint) |
 | **2025/01/22** | GRAMA: Adaptive Graph Autoregressive Moving Average Models | Moshe Eliasof et al. | [2501.12732v1](http://arxiv.org/abs/2501.12732v1) | **NULL** |
 | **2025/01/22** | Towards Robust Multi-tab Website Fingerprinting | Xinhao Deng et al. | [2501.12622v1](http://arxiv.org/abs/2501.12622v1) | **NULL** |
 | **2025/01/22** | Multi-Instance Partial-Label Learning with Margin Adjustment | Wei Tang et al. | [2501.12597v1](http://arxiv.org/abs/2501.12597v1) | [**link**](https://github.com/tangw-seu/miplma) |
+| **2025/01/22** | A Novel Scene Coupling Semantic Mask Network for Remote Sensing Image Segmentation | Xiaowen Ma et al. | [2501.13130v1](http://arxiv.org/abs/2501.13130v1) | **NULL** |
 | **2025/01/21** | Parallel Sequence Modeling via Generalized Spatial Propagation Network | Hongjun Wang et al. | [2501.12381v1](http://arxiv.org/abs/2501.12381v1) | **NULL** |
 | **2025/01/21** | Enhancing Retrosynthesis with Conformer: A Template-Free Method | Jiaxi Zhuang et al. | [2501.12434v1](http://arxiv.org/abs/2501.12434v1) | **NULL** |
 | **2025/01/21** | A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications | Eugenio Borzone et al. | [2501.12309v1](http://arxiv.org/abs/2501.12309v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/01/19** | Modeling Attention during Dimensional Shifts with Counterfactual and Delayed Feedback | Tyler Malloy et al. | [2501.11161v1](http://arxiv.org/abs/2501.11161v1) | [**link**](https://github.com/tylerjamesmalloy/dimensionalattention) |
 | **2025/01/19** | Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model | Mohaiminul Islam Bhuiyan et al. | [2501.11094v1](http://arxiv.org/abs/2501.11094v1) | **NULL** |
 | **2025/01/19** | Generative Retrieval for Book search | Yubao Tang et al. | [2501.11034v1](http://arxiv.org/abs/2501.11034v1) | **NULL** |
-| **2025/01/19** | Decomposing and Fusing Intra- and Inter-Sensor Spatio-Temporal Signal for Multi-Sensor Wearable Human Activity Recognition | Haoyu Xie et al. | [2501.10917v1](http://arxiv.org/abs/2501.10917v1) | [**link**](https://github.com/anakin2555/decomposewhar) |
-| **2025/01/18** | CEReBrO: Compact Encoder for Representations of Brain Oscillations Using Efficient Alternating Attention | Alexandru Dimofte et al. | [2501.10885v1](http://arxiv.org/abs/2501.10885v1) | **NULL** |
-| **2025/01/18** | Semi-supervised Semantic Segmentation for Remote Sensing Images via Multi-scale Uncertainty Consistency and Cross-Teacher-Student Attention | Shanwen Wang et al. | [2501.10736v1](http://arxiv.org/abs/2501.10736v1) | **NULL** |
-| **2025/01/18** | UAV-Assisted Multi-Task Federated Learning with Task Knowledge Sharing | Yubo Yang et al. | [2501.10644v1](http://arxiv.org/abs/2501.10644v1) | **NULL** |
-| **2025/01/17** | Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism | Mohammed Guhdar et al. | [2501.10342v1](http://arxiv.org/abs/2501.10342v1) | **NULL** |
-| **2025/01/17** | Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework | Ali Can Karaca et al. | [2501.10075v1](http://arxiv.org/abs/2501.10075v1) | **NULL** |
-| **2025/01/17** | Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography | Mohammed Salah et al. | [2501.09994v1](http://arxiv.org/abs/2501.09994v1) | [**link**](https://github.com/mohammedsalah98/pt_fusion) |
-| **2025/01/15** | Attention is All You Need Until You Need Retention | M. Murat Yaslioglu | [2501.09166v1](http://arxiv.org/abs/2501.09166v1) | **NULL** |
-| **2025/01/15** | Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks | Tong Liu et al. | [2501.09117v1](http://arxiv.org/abs/2501.09117v1) | **NULL** |
 
 ## 背景差分
 
