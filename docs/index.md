@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/27 08:59:56
+> Updated on 2025/01/28 08:58:56
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/24** | Idiom Detection in Sorani Kurdish Texts | Skala Kamaran Omer et al. | [2501.14528v1](http://arxiv.org/abs/2501.14528v1) | **NULL** |
+| **2025/01/24** | Optimizing Human Pose Estimation Through Focused Human and Joint Regions | Yingying Jiao et al. | [2501.14439v1](http://arxiv.org/abs/2501.14439v1) | **NULL** |
+| **2025/01/24** | Learning Primitive Relations for Compositional Zero-Shot Learning | Insu Lee et al. | [2501.14308v1](http://arxiv.org/abs/2501.14308v1) | **NULL** |
+| **2025/01/24** | Global Semantic-Guided Sub-image Feature Weight Allocation in High-Resolution Large Vision-Language Models | Yuxuan Liang et al. | [2501.14276v1](http://arxiv.org/abs/2501.14276v1) | **NULL** |
+| **2025/01/24** | Dynamic Token Reduction during Generation for Vision Language Models | Xiaoyu Liang et al. | [2501.14204v1](http://arxiv.org/abs/2501.14204v1) | **NULL** |
 | **2025/01/23** | Where Do You Go? Pedestrian Trajectory Prediction using Scene Features | Mohammad Ali Rezaei et al. | [2501.13848v1](http://arxiv.org/abs/2501.13848v1) | **NULL** |
+| **2025/01/23** | ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection | Luqi Zhang et al. | [2501.14004v1](http://arxiv.org/abs/2501.14004v1) | [**link**](https://github.com/zhangluqi0209/me-cpt) |
 | **2025/01/23** | Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models | Zhenghao Lin et al. | [2501.13629v1](http://arxiv.org/abs/2501.13629v1) | **NULL** |
+| **2025/01/23** | FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting | Wenzhen Yue et al. | [2501.13989v1](http://arxiv.org/abs/2501.13989v1) | **NULL** |
 | **2025/01/23** | Multi-Level Attention and Contrastive Learning for Enhanced Text Classification with an Optimized Transformer | Jia Gao et al. | [2501.13467v1](http://arxiv.org/abs/2501.13467v1) | **NULL** |
 | **2025/01/23** | KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks | Taoran Fang et al. | [2501.13456v1](http://arxiv.org/abs/2501.13456v1) | [**link**](https://github.com/luckytiger123/kaa) |
 | **2025/01/23** | Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models | Bo Gao et al. | [2501.13428v1](http://arxiv.org/abs/2501.13428v1) | **NULL** |
+| **2025/01/23** | Enhanced PEC-YOLO for Detecting Improper Safety Gear Wearing Among Power Line Workers | Chen Zuguo et al. | [2501.13981v1](http://arxiv.org/abs/2501.13981v1) | **NULL** |
 | **2025/01/23** | Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification | Yuzhuo Li et al. | [2501.13368v1](http://arxiv.org/abs/2501.13368v1) | **NULL** |
 | **2025/01/23** | Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision | Aman Urumbekov et al. | [2501.13353v1](http://arxiv.org/abs/2501.13353v1) | **NULL** |
 | **2025/01/22** | Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions | Yan Ru Pei | [2501.13230v1](http://arxiv.org/abs/2501.13230v1) | [**link**](https://github.com/Brainchip-Inc/Centaurus) |
@@ -75,14 +83,6 @@ layout: default
 | **2025/01/21** | A Hybrid Attention Framework for Fake News Detection with Large Language Models | Xiaochuan Xu et al. | [2501.11967v1](http://arxiv.org/abs/2501.11967v1) | **NULL** |
 | **2025/01/21** | Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery | Vicky Feliren et al. | [2501.11923v1](http://arxiv.org/abs/2501.11923v1) | **NULL** |
 | **2025/01/21** | FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients | Jiaqi Leng et al. | [2501.11876v1](http://arxiv.org/abs/2501.11876v1) | [**link**](https://github.com/nailwatts/fnin) |
-| **2025/01/20** | Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference | Pouya Hamadanian et al. | [2501.11779v1](http://arxiv.org/abs/2501.11779v1) | [**link**](https://github.com/microsoft/glinthawk) |
-| **2025/01/20** | Is logical analysis performed by transformers taking place in self-attention or in the fully connected part? | Evgeniy Shin et al. | [2501.11765v1](http://arxiv.org/abs/2501.11765v1) | **NULL** |
-| **2025/01/20** | Hybrid Photonic-digital Accelerator for Attention Mechanism | Huize Li et al. | [2501.11286v1](http://arxiv.org/abs/2501.11286v1) | **NULL** |
-| **2025/01/20** | Advancing Oyster Phenotype Segmentation with Multi-Network Ensemble and Multi-Scale mechanism | Wenli Yang et al. | [2501.11203v1](http://arxiv.org/abs/2501.11203v1) | **NULL** |
-| **2025/01/19** | Enhancing Brain Tumor Segmentation Using Channel Attention and Transfer learning | Majid Behzadpour et al. | [2501.11196v1](http://arxiv.org/abs/2501.11196v1) | [**link**](https://github.com/majid9418/eresu-net) |
-| **2025/01/19** | Modeling Attention during Dimensional Shifts with Counterfactual and Delayed Feedback | Tyler Malloy et al. | [2501.11161v1](http://arxiv.org/abs/2501.11161v1) | [**link**](https://github.com/tylerjamesmalloy/dimensionalattention) |
-| **2025/01/19** | Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model | Mohaiminul Islam Bhuiyan et al. | [2501.11094v1](http://arxiv.org/abs/2501.11094v1) | **NULL** |
-| **2025/01/19** | Generative Retrieval for Book search | Yubao Tang et al. | [2501.11034v1](http://arxiv.org/abs/2501.11034v1) | **NULL** |
 
 ## 背景差分
 
