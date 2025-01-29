@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/28 08:58:56
+> Updated on 2025/01/29 08:58:35
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/27** | From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases | Gary Tom et al. | [2501.16271v1](http://arxiv.org/abs/2501.16271v1) | **NULL** |
+| **2025/01/27** | ARFlow: Autogressive Flow with Hybrid Linear Attention | Mude Hui et al. | [2501.16085v1](http://arxiv.org/abs/2501.16085v1) | **NULL** |
+| **2025/01/27** | Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis | Xiang Huang et al. | [2501.15968v1](http://arxiv.org/abs/2501.15968v1) | [**link**](https://github.com/selgroup/masgcn) |
+| **2025/01/27** | Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System | Yongchun Zhu et al. | [2501.15817v1](http://arxiv.org/abs/2501.15817v1) | **NULL** |
+| **2025/01/27** | ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring | Xiaopeng Lin et al. | [2501.15808v1](http://arxiv.org/abs/2501.15808v1) | **NULL** |
+| **2025/01/27** | Efficiency Bottlenecks of Convolutional Kolmogorov-Arnold Networks: A Comprehensive Scrutiny with ImageNet, AlexNet, LeNet and Tabular Classification | Ashim Dahal et al. | [2501.15757v1](http://arxiv.org/abs/2501.15757v1) | [**link**](https://github.com/ashimdahal/study-of-convolutional-kolmogorov-arnold-networks) |
+| **2025/01/27** | Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI | Taymaz Akan et al. | [2501.15733v1](http://arxiv.org/abs/2501.15733v1) | **NULL** |
+| **2025/01/26** | Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach | S. M. Yousuf Iqbal Tomal et al. | [2501.15630v1](http://arxiv.org/abs/2501.15630v1) | **NULL** |
+| **2025/01/26** | RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning | Zhihan Zheng et al. | [2501.15493v1](http://arxiv.org/abs/2501.15493v1) | **NULL** |
+| **2025/01/26** | End-to-End Target Speaker Speech Recognition Using Context-Aware Attention Mechanisms for Challenging Enrollment Scenario | Mohsen Ghane et al. | [2501.15466v1](http://arxiv.org/abs/2501.15466v1) | **NULL** |
+| **2025/01/26** | Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception | Lianqing Zheng et al. | [2501.15394v1](http://arxiv.org/abs/2501.15394v1) | **NULL** |
+| **2025/01/26** | Evaluating the Effectiveness of XAI Techniques for Encoder-Based Language Models | Melkamu Abay Mersha et al. | [2501.15374v1](http://arxiv.org/abs/2501.15374v1) | **NULL** |
+| **2025/01/25** | Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink | Yining Wang et al. | [2501.15269v1](http://arxiv.org/abs/2501.15269v1) | **NULL** |
+| **2025/01/25** | Generalizable Deepfake Detection via Effective Local-Global Feature Extraction | Jiazhen Yan et al. | [2501.15253v1](http://arxiv.org/abs/2501.15253v1) | **NULL** |
+| **2025/01/25** | Reliable Pseudo-labeling via Optimal Transport with Attention for Short Text Clustering | Zhihao Yao et al. | [2501.15194v1](http://arxiv.org/abs/2501.15194v1) | [**link**](https://github.com/yzh0905/pota-stc) |
+| **2025/01/25** | PolaFormer: Polarity-aware Linear Attention for Vision Transformers | Weikang Meng et al. | [2501.15061v1](http://arxiv.org/abs/2501.15061v1) | **NULL** |
+| **2025/01/25** | Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures | Ghazal Khodabandeh et al. | [2501.15019v1](http://arxiv.org/abs/2501.15019v1) | **NULL** |
+| **2025/01/24** | Light3R-SfM: Towards Feed-forward Structure-from-Motion | Sven Elflein et al. | [2501.14914v1](http://arxiv.org/abs/2501.14914v1) | **NULL** |
+| **2025/01/24** | Iterative Feature Space Optimization through Incremental Adaptive Evaluation | Yanping Wu et al. | [2501.14889v1](http://arxiv.org/abs/2501.14889v1) | **NULL** |
 | **2025/01/24** | Idiom Detection in Sorani Kurdish Texts | Skala Kamaran Omer et al. | [2501.14528v1](http://arxiv.org/abs/2501.14528v1) | **NULL** |
 | **2025/01/24** | Optimizing Human Pose Estimation Through Focused Human and Joint Regions | Yingying Jiao et al. | [2501.14439v1](http://arxiv.org/abs/2501.14439v1) | **NULL** |
 | **2025/01/24** | Learning Primitive Relations for Compositional Zero-Shot Learning | Insu Lee et al. | [2501.14308v1](http://arxiv.org/abs/2501.14308v1) | **NULL** |
@@ -64,31 +83,12 @@ layout: default
 | **2025/01/23** | FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting | Wenzhen Yue et al. | [2501.13989v1](http://arxiv.org/abs/2501.13989v1) | **NULL** |
 | **2025/01/23** | Multi-Level Attention and Contrastive Learning for Enhanced Text Classification with an Optimized Transformer | Jia Gao et al. | [2501.13467v1](http://arxiv.org/abs/2501.13467v1) | **NULL** |
 | **2025/01/23** | KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks | Taoran Fang et al. | [2501.13456v1](http://arxiv.org/abs/2501.13456v1) | [**link**](https://github.com/luckytiger123/kaa) |
-| **2025/01/23** | Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models | Bo Gao et al. | [2501.13428v1](http://arxiv.org/abs/2501.13428v1) | **NULL** |
-| **2025/01/23** | Enhanced PEC-YOLO for Detecting Improper Safety Gear Wearing Among Power Line Workers | Chen Zuguo et al. | [2501.13981v1](http://arxiv.org/abs/2501.13981v1) | **NULL** |
-| **2025/01/23** | Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification | Yuzhuo Li et al. | [2501.13368v1](http://arxiv.org/abs/2501.13368v1) | **NULL** |
-| **2025/01/23** | Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision | Aman Urumbekov et al. | [2501.13353v1](http://arxiv.org/abs/2501.13353v1) | **NULL** |
-| **2025/01/22** | Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions | Yan Ru Pei | [2501.13230v1](http://arxiv.org/abs/2501.13230v1) | [**link**](https://github.com/Brainchip-Inc/Centaurus) |
-| **2025/01/22** | Regularization, Semi-supervision, and Supervision for a Plausible Attention-Based Explanation | Duc Hau Nguyen et al. | [2501.12775v1](http://arxiv.org/abs/2501.12775v1) | [**link**](https://github.com/kihansi95/linkmedia_attentionplausibilitybyconstraint) |
-| **2025/01/22** | GRAMA: Adaptive Graph Autoregressive Moving Average Models | Moshe Eliasof et al. | [2501.12732v1](http://arxiv.org/abs/2501.12732v1) | **NULL** |
-| **2025/01/22** | Towards Robust Multi-tab Website Fingerprinting | Xinhao Deng et al. | [2501.12622v1](http://arxiv.org/abs/2501.12622v1) | [**link**](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
-| **2025/01/22** | Multi-Instance Partial-Label Learning with Margin Adjustment | Wei Tang et al. | [2501.12597v1](http://arxiv.org/abs/2501.12597v1) | [**link**](https://github.com/tangw-seu/miplma) |
-| **2025/01/22** | A Novel Scene Coupling Semantic Mask Network for Remote Sensing Image Segmentation | Xiaowen Ma et al. | [2501.13130v1](http://arxiv.org/abs/2501.13130v1) | [**link**](https://github.com/xwmaxwma/rssegmentation) |
-| **2025/01/21** | Parallel Sequence Modeling via Generalized Spatial Propagation Network | Hongjun Wang et al. | [2501.12381v1](http://arxiv.org/abs/2501.12381v1) | **NULL** |
-| **2025/01/21** | Enhancing Retrosynthesis with Conformer: A Template-Free Method | Jiaxi Zhuang et al. | [2501.12434v1](http://arxiv.org/abs/2501.12434v1) | **NULL** |
-| **2025/01/21** | A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications | Eugenio Borzone et al. | [2501.12309v1](http://arxiv.org/abs/2501.12309v1) | **NULL** |
-| **2025/01/21** | DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains | Junyu Xia et al. | [2501.12235v1](http://arxiv.org/abs/2501.12235v1) | **NULL** |
-| **2025/01/21** | SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology | Dongli Wu et al. | [2501.12169v1](http://arxiv.org/abs/2501.12169v1) | **NULL** |
-| **2025/01/21** | Comparative Analysis of Pre-trained Deep Learning Models and DINOv2 for Cushing's Syndrome Diagnosis in Facial Analysis | Hongjun Liu et al. | [2501.12023v1](http://arxiv.org/abs/2501.12023v1) | **NULL** |
-| **2025/01/21** | A Hybrid Attention Framework for Fake News Detection with Large Language Models | Xiaochuan Xu et al. | [2501.11967v1](http://arxiv.org/abs/2501.11967v1) | **NULL** |
-| **2025/01/21** | Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery | Vicky Feliren et al. | [2501.11923v1](http://arxiv.org/abs/2501.11923v1) | **NULL** |
-| **2025/01/21** | FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients | Jiaqi Leng et al. | [2501.11876v1](http://arxiv.org/abs/2501.11876v1) | [**link**](https://github.com/nailwatts/fnin) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/01/14** | Background subtraction method is as applicable as convariant counterterm method, but much simpler | Wei Guo et al. | [2501.08214v1](http://arxiv.org/abs/2501.08214v1) | **NULL** |
+| **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v2](http://arxiv.org/abs/2501.08214v2) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
