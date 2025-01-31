@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/30 08:58:02
+> Updated on 2025/01/31 08:58:53
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/29** | P-TAME: Explain Any Image Classifier with Trained Perturbations | Mariano V. Ntrougkas et al. | [2501.17813v1](http://arxiv.org/abs/2501.17813v1) | **NULL** |
+| **2025/01/29** | Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment | Jonathan Teel et al. | [2501.17617v1](http://arxiv.org/abs/2501.17617v1) | **NULL** |
+| **2025/01/29** | DINT Transformer | Yueyang Cang et al. | [2501.17486v1](http://arxiv.org/abs/2501.17486v1) | **NULL** |
+| **2025/01/28** | Multi-Physics Simulations via Coupled Fourier Neural Operator | Shibo Li et al. | [2501.17296v1](http://arxiv.org/abs/2501.17296v1) | **NULL** |
 | **2025/01/28** | Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models | J. Pablo Muñoz et al. | [2501.17088v1](http://arxiv.org/abs/2501.17088v1) | [**link**](https://github.com/intellabs/hardware-aware-automated-machine-learning) |
 | **2025/01/28** | Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils | Gregory Duthé et al. | [2501.17081v1](http://arxiv.org/abs/2501.17081v1) | **NULL** |
 | **2025/01/28** | MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction | Shreyam Gupta et al. | [2501.16997v1](http://arxiv.org/abs/2501.16997v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2025/01/25** | Reliable Pseudo-labeling via Optimal Transport with Attention for Short Text Clustering | Zhihao Yao et al. | [2501.15194v1](http://arxiv.org/abs/2501.15194v1) | [**link**](https://github.com/yzh0905/pota-stc) |
 | **2025/01/25** | MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling | Sai Tarun Inaganti et al. | [2501.16384v1](http://arxiv.org/abs/2501.16384v1) | **NULL** |
 | **2025/01/25** | PolaFormer: Polarity-aware Linear Attention for Vision Transformers | Weikang Meng et al. | [2501.15061v1](http://arxiv.org/abs/2501.15061v1) | **NULL** |
-| **2025/01/25** | Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures | Ghazal Khodabandeh et al. | [2501.15019v1](http://arxiv.org/abs/2501.15019v1) | **NULL** |
-| **2025/01/24** | Light3R-SfM: Towards Feed-forward Structure-from-Motion | Sven Elflein et al. | [2501.14914v1](http://arxiv.org/abs/2501.14914v1) | **NULL** |
-| **2025/01/24** | Iterative Feature Space Optimization through Incremental Adaptive Evaluation | Yanping Wu et al. | [2501.14889v1](http://arxiv.org/abs/2501.14889v1) | **NULL** |
-| **2025/01/24** | Idiom Detection in Sorani Kurdish Texts | Skala Kamaran Omer et al. | [2501.14528v1](http://arxiv.org/abs/2501.14528v1) | **NULL** |
 
 ## 背景差分
 
