@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/01/31 08:58:53
+> Updated on 2025/02/01 09:02:20
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/30** | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | Haoquan Fang et al. | [2501.18564v1](http://arxiv.org/abs/2501.18564v1) | **NULL** |
+| **2025/01/30** | Efficient Transformer for High Resolution Image Motion Deblurring | Amanturdieva Akmaral et al. | [2501.18403v1](http://arxiv.org/abs/2501.18403v1) | [**link**](https://github.com/hamzafer/image-deblurring) |
+| **2025/01/30** | MatIR: A Hybrid Mamba-Transformer Image Restoration Model | Juan Wen et al. | [2501.18401v1](http://arxiv.org/abs/2501.18401v1) | **NULL** |
+| **2025/01/30** | A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series | Yifan Wang et al. | [2501.18367v1](http://arxiv.org/abs/2501.18367v1) | **NULL** |
+| **2025/01/30** | Contextually Structured Token Dependency Encoding for Large Language Models | James Blades et al. | [2501.18205v1](http://arxiv.org/abs/2501.18205v1) | **NULL** |
+| **2025/01/30** | GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection | Qingxiang Liu et al. | [2501.18196v1](http://arxiv.org/abs/2501.18196v1) | [**link**](https://github.com/yuppielqx/gdformer) |
+| **2025/01/30** | REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning | Liangjing Shao et al. | [2501.18124v1](http://arxiv.org/abs/2501.18124v1) | **NULL** |
 | **2025/01/29** | P-TAME: Explain Any Image Classifier with Trained Perturbations | Mariano V. Ntrougkas et al. | [2501.17813v1](http://arxiv.org/abs/2501.17813v1) | **NULL** |
 | **2025/01/29** | Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment | Jonathan Teel et al. | [2501.17617v1](http://arxiv.org/abs/2501.17617v1) | **NULL** |
+| **2025/01/29** | Shared DIFF Transformer | Yueyang Cang et al. | [2501.17900v1](http://arxiv.org/abs/2501.17900v1) | **NULL** |
 | **2025/01/29** | DINT Transformer | Yueyang Cang et al. | [2501.17486v1](http://arxiv.org/abs/2501.17486v1) | **NULL** |
-| **2025/01/28** | Multi-Physics Simulations via Coupled Fourier Neural Operator | Shibo Li et al. | [2501.17296v1](http://arxiv.org/abs/2501.17296v1) | **NULL** |
+| **2025/01/28** | Multi-Physics Simulations via Coupled Fourier Neural Operator | Shibo Li et al. | [2501.17296v2](http://arxiv.org/abs/2501.17296v2) | **NULL** |
 | **2025/01/28** | Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models | J. Pablo Muñoz et al. | [2501.17088v1](http://arxiv.org/abs/2501.17088v1) | [**link**](https://github.com/intellabs/hardware-aware-automated-machine-learning) |
 | **2025/01/28** | Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils | Gregory Duthé et al. | [2501.17081v1](http://arxiv.org/abs/2501.17081v1) | **NULL** |
 | **2025/01/28** | MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction | Shreyam Gupta et al. | [2501.16997v1](http://arxiv.org/abs/2501.16997v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2025/01/27** | Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI | Taymaz Akan et al. | [2501.15733v1](http://arxiv.org/abs/2501.15733v1) | **NULL** |
 | **2025/01/26** | Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach | S. M. Yousuf Iqbal Tomal et al. | [2501.15630v1](http://arxiv.org/abs/2501.15630v1) | **NULL** |
 | **2025/01/26** | RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning | Zhihan Zheng et al. | [2501.15493v1](http://arxiv.org/abs/2501.15493v1) | **NULL** |
-| **2025/01/26** | End-to-End Target Speaker Speech Recognition Using Context-Aware Attention Mechanisms for Challenging Enrollment Scenario | Mohsen Ghane et al. | [2501.15466v1](http://arxiv.org/abs/2501.15466v1) | **NULL** |
-| **2025/01/26** | Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception | Lianqing Zheng et al. | [2501.15394v1](http://arxiv.org/abs/2501.15394v1) | **NULL** |
-| **2025/01/26** | Evaluating the Effectiveness of XAI Techniques for Encoder-Based Language Models | Melkamu Abay Mersha et al. | [2501.15374v1](http://arxiv.org/abs/2501.15374v1) | **NULL** |
-| **2025/01/25** | Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink | Yining Wang et al. | [2501.15269v1](http://arxiv.org/abs/2501.15269v1) | **NULL** |
-| **2025/01/25** | Generalizable Deepfake Detection via Effective Local-Global Feature Extraction | Jiazhen Yan et al. | [2501.15253v1](http://arxiv.org/abs/2501.15253v1) | **NULL** |
-| **2025/01/25** | Reliable Pseudo-labeling via Optimal Transport with Attention for Short Text Clustering | Zhihao Yao et al. | [2501.15194v1](http://arxiv.org/abs/2501.15194v1) | [**link**](https://github.com/yzh0905/pota-stc) |
-| **2025/01/25** | MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling | Sai Tarun Inaganti et al. | [2501.16384v1](http://arxiv.org/abs/2501.16384v1) | **NULL** |
-| **2025/01/25** | PolaFormer: Polarity-aware Linear Attention for Vision Transformers | Weikang Meng et al. | [2501.15061v1](http://arxiv.org/abs/2501.15061v1) | **NULL** |
 
 ## 背景差分
 
