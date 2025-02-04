@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/03 08:59:59
+> Updated on 2025/02/04 08:58:50
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
 | **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
 | **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
@@ -47,15 +48,22 @@ layout: default
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 | **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
-| **2024/06/09** | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection | Hou-I Liu et al. | [2406.05755v3](http://arxiv.org/abs/2406.05755v3) | [**link**](https://github.com/hoiliu-0801/dntr) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/01/31** | LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks | Liudi Yang et al. | [2501.19382v1](http://arxiv.org/abs/2501.19382v1) | [**link**](https://github.com/crepuscularlight/semanticloopclosure) |
+| **2025/01/31** | Strassen Attention: Unlocking Compositional Abilities in Transformers Based on a New Lower Bound Method | Alexander Kozachinskiy et al. | [2501.19215v1](http://arxiv.org/abs/2501.19215v1) | **NULL** |
+| **2025/01/31** | Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields | Xingyu Miao et al. | [2501.19084v1](http://arxiv.org/abs/2501.19084v1) | **NULL** |
+| **2025/01/31** | Intrinsic Tensor Field Propagation in Large Language Models: A Novel Approach to Contextual Information Flow | Alfred Bexley et al. | [2501.18957v1](http://arxiv.org/abs/2501.18957v1) | **NULL** |
+| **2025/01/31** | CAAT-EHR: Cross-Attentional Autoregressive Transformer for Multimodal Electronic Health Record Embeddings | Mohammad Al Olaimat et al. | [2501.18891v1](http://arxiv.org/abs/2501.18891v1) | [**link**](https://github.com/bozdaglab/caat-ehr) |
+| **2025/01/31** | FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM | Xinlong Wan et al. | [2501.18855v1](http://arxiv.org/abs/2501.18855v1) | **NULL** |
+| **2025/01/30** | Rope to Nope and Back Again: A New Hybrid Attention Strategy | Bowen Yang et al. | [2501.18795v1](http://arxiv.org/abs/2501.18795v1) | **NULL** |
+| **2025/01/30** | Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval | Niklas Freymuth et al. | [2501.18707v1](http://arxiv.org/abs/2501.18707v1) | **NULL** |
 | **2025/01/30** | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | Haoquan Fang et al. | [2501.18564v1](http://arxiv.org/abs/2501.18564v1) | **NULL** |
 | **2025/01/30** | Efficient Transformer for High Resolution Image Motion Deblurring | Amanturdieva Akmaral et al. | [2501.18403v1](http://arxiv.org/abs/2501.18403v1) | [**link**](https://github.com/hamzafer/image-deblurring) |
-| **2025/01/30** | MatIR: A Hybrid Mamba-Transformer Image Restoration Model | Juan Wen et al. | [2501.18401v1](http://arxiv.org/abs/2501.18401v1) | **NULL** |
+| **2025/01/30** | MatIR: A Hybrid Mamba-Transformer Image Restoration Model | Juan Wen et al. | [2501.18401v2](http://arxiv.org/abs/2501.18401v2) | [**link**](https://github.com/wenjuan7275/matir) |
 | **2025/01/30** | A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series | Yifan Wang et al. | [2501.18367v1](http://arxiv.org/abs/2501.18367v1) | **NULL** |
 | **2025/01/30** | Contextually Structured Token Dependency Encoding for Large Language Models | James Blades et al. | [2501.18205v1](http://arxiv.org/abs/2501.18205v1) | **NULL** |
 | **2025/01/30** | GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection | Qingxiang Liu et al. | [2501.18196v1](http://arxiv.org/abs/2501.18196v1) | [**link**](https://github.com/yuppielqx/gdformer) |
@@ -68,21 +76,13 @@ layout: default
 | **2025/01/28** | Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models | J. Pablo Muñoz et al. | [2501.17088v1](http://arxiv.org/abs/2501.17088v1) | [**link**](https://github.com/intellabs/hardware-aware-automated-machine-learning) |
 | **2025/01/28** | Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils | Gregory Duthé et al. | [2501.17081v1](http://arxiv.org/abs/2501.17081v1) | **NULL** |
 | **2025/01/28** | MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction | Shreyam Gupta et al. | [2501.16997v1](http://arxiv.org/abs/2501.16997v1) | **NULL** |
-| **2025/01/28** | Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning | Lindy Gan et al. | [2501.16813v1](http://arxiv.org/abs/2501.16813v1) | **NULL** |
+| **2025/01/28** | Multimodal Magic Elevating Depression Detection with a Fusion of Text and Audio Intelligence | Lindy Gan et al. | [2501.16813v2](http://arxiv.org/abs/2501.16813v2) | **NULL** |
 | **2025/01/28** | Exponential Family Attention | Kevin Christian Wibisono et al. | [2501.16790v1](http://arxiv.org/abs/2501.16790v1) | [**link**](https://github.com/yixinw-lab/efa) |
 | **2025/01/28** | Toward Relative Positional Encoding in Spiking Transformers | Changze Lv et al. | [2501.16745v1](http://arxiv.org/abs/2501.16745v1) | **NULL** |
 | **2025/01/28** | DFCon: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection | MD Sadik Hossain Shanto et al. | [2501.16704v1](http://arxiv.org/abs/2501.16704v1) | **NULL** |
 | **2025/01/28** | SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation | Jianing Li et al. | [2501.16684v1](http://arxiv.org/abs/2501.16684v1) | [**link**](https://github.com/northsummer/sliceocc) |
 | **2025/01/28** | CascadeV: An Implementation of Wurstchen Architecture for Video Generation | Wenfeng Lin et al. | [2501.16612v1](http://arxiv.org/abs/2501.16612v1) | [**link**](https://github.com/bytedance/cascadev) |
 | **2025/01/27** | From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases | Gary Tom et al. | [2501.16271v1](http://arxiv.org/abs/2501.16271v1) | **NULL** |
-| **2025/01/27** | ARFlow: Autogressive Flow with Hybrid Linear Attention | Mude Hui et al. | [2501.16085v1](http://arxiv.org/abs/2501.16085v1) | **NULL** |
-| **2025/01/27** | Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis | Xiang Huang et al. | [2501.15968v1](http://arxiv.org/abs/2501.15968v1) | [**link**](https://github.com/selgroup/masgcn) |
-| **2025/01/27** | Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System | Yongchun Zhu et al. | [2501.15817v1](http://arxiv.org/abs/2501.15817v1) | **NULL** |
-| **2025/01/27** | ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring | Xiaopeng Lin et al. | [2501.15808v1](http://arxiv.org/abs/2501.15808v1) | **NULL** |
-| **2025/01/27** | Efficiency Bottlenecks of Convolutional Kolmogorov-Arnold Networks: A Comprehensive Scrutiny with ImageNet, AlexNet, LeNet and Tabular Classification | Ashim Dahal et al. | [2501.15757v2](http://arxiv.org/abs/2501.15757v2) | [**link**](https://github.com/ashimdahal/study-of-convolutional-kolmogorov-arnold-networks) |
-| **2025/01/27** | Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI | Taymaz Akan et al. | [2501.15733v1](http://arxiv.org/abs/2501.15733v1) | **NULL** |
-| **2025/01/26** | Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach | S. M. Yousuf Iqbal Tomal et al. | [2501.15630v1](http://arxiv.org/abs/2501.15630v1) | **NULL** |
-| **2025/01/26** | RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning | Zhihan Zheng et al. | [2501.15493v1](http://arxiv.org/abs/2501.15493v1) | **NULL** |
 
 ## 背景差分
 
