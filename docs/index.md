@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/04 08:58:50
+> Updated on 2025/02/05 08:59:35
 
 <summary>Table of Contents</summary>
 
@@ -67,7 +67,7 @@ layout: default
 | **2025/01/30** | A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series | Yifan Wang et al. | [2501.18367v1](http://arxiv.org/abs/2501.18367v1) | **NULL** |
 | **2025/01/30** | Contextually Structured Token Dependency Encoding for Large Language Models | James Blades et al. | [2501.18205v1](http://arxiv.org/abs/2501.18205v1) | **NULL** |
 | **2025/01/30** | GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection | Qingxiang Liu et al. | [2501.18196v1](http://arxiv.org/abs/2501.18196v1) | [**link**](https://github.com/yuppielqx/gdformer) |
-| **2025/01/30** | REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning | Liangjing Shao et al. | [2501.18124v1](http://arxiv.org/abs/2501.18124v1) | **NULL** |
+| **2025/01/30** | REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning | Liangjing Shao et al. | [2501.18124v2](http://arxiv.org/abs/2501.18124v2) | **NULL** |
 | **2025/01/29** | P-TAME: Explain Any Image Classifier with Trained Perturbations | Mariano V. Ntrougkas et al. | [2501.17813v1](http://arxiv.org/abs/2501.17813v1) | **NULL** |
 | **2025/01/29** | Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment | Jonathan Teel et al. | [2501.17617v1](http://arxiv.org/abs/2501.17617v1) | **NULL** |
 | **2025/01/29** | Shared DIFF Transformer | Yueyang Cang et al. | [2501.17900v1](http://arxiv.org/abs/2501.17900v1) | **NULL** |
