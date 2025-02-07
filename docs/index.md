@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/06 08:59:44
+> Updated on 2025/02/07 08:59:58
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/05** | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | Cheng He et al. | [2502.03264v1](http://arxiv.org/abs/2502.03264v1) | **NULL** |
+| **2025/02/05** | FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer | Yufei Ye et al. | [2502.03036v1](http://arxiv.org/abs/2502.03036v1) | **NULL** |
+| **2025/02/05** | Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL | Wenbo Sun et al. | [2502.02818v1](http://arxiv.org/abs/2502.02818v1) | **NULL** |
+| **2025/02/04** | Deep Reinforcement Learning Enabled Persistent Surveillance with Energy-Aware UAV-UGV Systems for Disaster Management Applications | Md Safwan Mondal et al. | [2502.02666v1](http://arxiv.org/abs/2502.02666v1) | **NULL** |
 | **2025/02/04** | Spatio-temporal transformer to support automatic sign language translation | Christian Ruiz et al. | [2502.02587v1](http://arxiv.org/abs/2502.02587v1) | **NULL** |
-| **2025/02/04** | AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis | Divya Bharti et al. | [2502.02555v1](http://arxiv.org/abs/2502.02555v1) | **NULL** |
+| **2025/02/04** | AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis | Divya Bharti et al. | [2502.02555v2](http://arxiv.org/abs/2502.02555v2) | **NULL** |
 | **2025/02/04** | SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency | Qianhao Yuan et al. | [2502.02458v1](http://arxiv.org/abs/2502.02458v1) | **NULL** |
 | **2025/02/04** | LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models | Tzu-Tao Chang et al. | [2502.02406v1](http://arxiv.org/abs/2502.02406v1) | **NULL** |
 | **2025/02/04** | Exact Sequence Classification with Hardmax Transformers | Albert Alcalde et al. | [2502.02270v1](http://arxiv.org/abs/2502.02270v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2025/02/02** | Estimating forest carbon stocks from high-resolution remote sensing imagery by reducing domain shift with style transfer | Zhenyu Yu et al. | [2502.00784v1](http://arxiv.org/abs/2502.00784v1) | **NULL** |
 | **2025/02/02** | MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction | Chao Wang et al. | [2502.00717v1](http://arxiv.org/abs/2502.00717v1) | **NULL** |
 | **2025/02/01** | Converting Transformers into DGNNs Form | Jie Zhang et al. | [2502.00585v1](http://arxiv.org/abs/2502.00585v1) | **NULL** |
-| **2025/02/01** | Milmer: a Framework for Multiple Instance Learning based Multimodal Emotion Recognition | Zaitian Wang et al. | [2502.00547v1](http://arxiv.org/abs/2502.00547v1) | **NULL** |
-| **2025/02/01** | Evaluation of End-to-End Continuous Spanish Lipreading in Different Data Conditions | David Gimeno-Gómez et al. | [2502.00464v1](http://arxiv.org/abs/2502.00464v1) | **NULL** |
-| **2025/02/01** | Spectro-Riemannian Graph Neural Networks | Karish Grover et al. | [2502.00401v1](http://arxiv.org/abs/2502.00401v1) | **NULL** |
-| **2025/02/01** | Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective | Fanqi Yan et al. | [2502.00281v1](http://arxiv.org/abs/2502.00281v1) | **NULL** |
 
 ## 背景差分
 
