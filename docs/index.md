@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/07 08:59:58
+> Updated on 2025/02/08 08:58:13
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
 | **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
 | **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
@@ -47,13 +48,21 @@ layout: default
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v3](http://arxiv.org/abs/2407.02394v3) | [**link**](https://github.com/cszzshi/SimD) |
 | **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
-| **2024/06/12** | Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing | Sina Tayebati et al. | [2406.07833v1](http://arxiv.org/abs/2406.07833v1) | [**link**](https://github.com/sinatayebati/radial_mae) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/06** | ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features | Alec Helbling et al. | [2502.04320v1](http://arxiv.org/abs/2502.04320v1) | **NULL** |
+| **2025/02/06** | XAttnMark: Learning Robust Audio Watermarking with Cross-Attention | Yixin Liu et al. | [2502.04230v1](http://arxiv.org/abs/2502.04230v1) | **NULL** |
+| **2025/02/06** | Generative Adversarial Networks Bridging Art and Machine Intelligence | Junhao Song et al. | [2502.04116v1](http://arxiv.org/abs/2502.04116v1) | **NULL** |
+| **2025/02/06** | DEALing with Image Reconstruction: Deep Attentive Least Squares | Mehrsa Pourya et al. | [2502.04079v1](http://arxiv.org/abs/2502.04079v1) | **NULL** |
+| **2025/02/06** | Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation | Xuan Li et al. | [2502.03813v1](http://arxiv.org/abs/2502.03813v1) | **NULL** |
+| **2025/02/06** | Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers | Yi Ding et al. | [2502.03736v1](http://arxiv.org/abs/2502.03736v1) | **NULL** |
+| **2025/02/05** | DynVFX: Augmenting Real Videos with Dynamic Content | Danah Yatim et al. | [2502.03621v1](http://arxiv.org/abs/2502.03621v1) | **NULL** |
 | **2025/02/05** | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | Cheng He et al. | [2502.03264v1](http://arxiv.org/abs/2502.03264v1) | **NULL** |
+| **2025/02/05** | Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning | SiYeoul Lee et al. | [2502.03505v1](http://arxiv.org/abs/2502.03505v1) | **NULL** |
+| **2025/02/05** | DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior | Janghyeok Han et al. | [2502.03502v1](http://arxiv.org/abs/2502.03502v1) | **NULL** |
 | **2025/02/05** | FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer | Yufei Ye et al. | [2502.03036v1](http://arxiv.org/abs/2502.03036v1) | **NULL** |
 | **2025/02/05** | Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL | Wenbo Sun et al. | [2502.02818v1](http://arxiv.org/abs/2502.02818v1) | **NULL** |
 | **2025/02/04** | Deep Reinforcement Learning Enabled Persistent Surveillance with Energy-Aware UAV-UGV Systems for Disaster Management Applications | Md Safwan Mondal et al. | [2502.02666v1](http://arxiv.org/abs/2502.02666v1) | **NULL** |
@@ -68,26 +77,18 @@ layout: default
 | **2025/02/03** | Texture Image Synthesis Using Spatial GAN Based on Vision Transformers | Elahe Salari et al. | [2502.01842v1](http://arxiv.org/abs/2502.01842v1) | **NULL** |
 | **2025/02/03** | Hamming Attention Distillation: Binarizing Keys and Queries for Efficient Long-Context Transformers | Mark Horton et al. | [2502.01770v1](http://arxiv.org/abs/2502.01770v1) | **NULL** |
 | **2025/02/03** | Generating Multi-Image Synthetic Data for Text-to-Image Customization | Nupur Kumari et al. | [2502.01720v1](http://arxiv.org/abs/2502.01720v1) | **NULL** |
-| **2025/02/03** | ReGLA: Refining Gated Linear Attention | Peng Lu et al. | [2502.01578v1](http://arxiv.org/abs/2502.01578v1) | **NULL** |
+| **2025/02/03** | ReGLA: Refining Gated Linear Attention | Peng Lu et al. | [2502.01578v2](http://arxiv.org/abs/2502.01578v2) | **NULL** |
 | **2025/02/03** | Hybrid Machine Learning Model for Detecting Bangla Smishing Text Using BERT and Character-Level CNN | Gazi Tanbhir et al. | [2502.01518v1](http://arxiv.org/abs/2502.01518v1) | **NULL** |
 | **2025/02/03** | Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention | Arya Honarpisheh et al. | [2502.01473v1](http://arxiv.org/abs/2502.01473v1) | **NULL** |
 | **2025/02/03** | Deep Unfolding Multi-modal Image Fusion Network via Attribution Analysis | Haowen Bai et al. | [2502.01467v1](http://arxiv.org/abs/2502.01467v1) | **NULL** |
 | **2025/02/03** | Docking-Aware Attention: Dynamic Protein Representations through Molecular Context Integration | Amitay Sicherman et al. | [2502.01461v1](http://arxiv.org/abs/2502.01461v1) | **NULL** |
 | **2025/02/03** | A Multi-Scale Feature Fusion Framework Integrating Frequency Domain and Cross-View Attention for Dual-View X-ray Security Inspections | Shilong Hong et al. | [2502.01710v1](http://arxiv.org/abs/2502.01710v1) | **NULL** |
-| **2025/02/03** | TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning | Chengkai Xu et al. | [2502.01387v1](http://arxiv.org/abs/2502.01387v1) | **NULL** |
-| **2025/02/03** | Multimodal Inverse Attention Network with Intrinsic Discriminant Feature Exploitation for Fake News Detection | Tianlin Zhang et al. | [2502.01699v1](http://arxiv.org/abs/2502.01699v1) | **NULL** |
-| **2025/02/03** | VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control | Lifan Jiang et al. | [2502.01101v1](http://arxiv.org/abs/2502.01101v1) | **NULL** |
-| **2025/02/02** | Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design | Ming Han et al. | [2502.00910v1](http://arxiv.org/abs/2502.00910v1) | **NULL** |
-| **2025/02/02** | HuViDPO:Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment | Lifan Jiang et al. | [2502.01690v1](http://arxiv.org/abs/2502.01690v1) | **NULL** |
-| **2025/02/02** | Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization | Yoontae Hwang et al. | [2502.00828v1](http://arxiv.org/abs/2502.00828v1) | **NULL** |
-| **2025/02/02** | Estimating forest carbon stocks from high-resolution remote sensing imagery by reducing domain shift with style transfer | Zhenyu Yu et al. | [2502.00784v1](http://arxiv.org/abs/2502.00784v1) | **NULL** |
-| **2025/02/02** | MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction | Chao Wang et al. | [2502.00717v1](http://arxiv.org/abs/2502.00717v1) | **NULL** |
-| **2025/02/01** | Converting Transformers into DGNNs Form | Jie Zhang et al. | [2502.00585v1](http://arxiv.org/abs/2502.00585v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v2](http://arxiv.org/abs/2501.08214v2) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/12/11** | Non-negative matrix factorization approach to sky subtraction for optical spectroscopy | Fedor Kolganov et al. | [2312.06761v1](http://arxiv.org/abs/2312.06761v1) | **NULL** |
 | **2023/12/04** | Cable Slack Detection for Arresting Gear Application using Machine Vision | Ari Goodman et al. | [2312.02320v1](http://arxiv.org/abs/2312.02320v1) | **NULL** |
 | **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
-| **2023/10/25** | Spectral Background-Subtracted Activity Maps | Carsten Denker et al. | [2310.16747v1](http://arxiv.org/abs/2310.16747v1) | **NULL** |
