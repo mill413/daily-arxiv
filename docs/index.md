@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/11 08:59:30
+> Updated on 2025/02/12 08:59:48
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/10** | Wandering around: A bioinspired approach to visual attention through object motion sensitivity | Giulia D Angelo et al. | [2502.06747v1](http://arxiv.org/abs/2502.06747v1) | **NULL** |
+| **2025/02/10** | Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2502.06427v1](http://arxiv.org/abs/2502.06427v1) | **NULL** |
+| **2025/02/10** | Systematic Outliers in Large Language Models | Yongqi An et al. | [2502.06415v1](http://arxiv.org/abs/2502.06415v1) | **NULL** |
+| **2025/02/10** | DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation | Sara Monji-Azad et al. | [2502.06336v1](http://arxiv.org/abs/2502.06336v1) | **NULL** |
+| **2025/02/10** | Powerformer: A Transformer with Weighted Causal Attention for Time-series Forecasting | Kareem Hegazy et al. | [2502.06151v1](http://arxiv.org/abs/2502.06151v1) | **NULL** |
+| **2025/02/10** | Improved YOLOv5s model for key components detection of power transmission lines | Chen Chen et al. | [2502.06127v1](http://arxiv.org/abs/2502.06127v1) | **NULL** |
+| **2025/02/10** | An Appearance Defect Detection Method for Cigarettes Based on C-CenterNet | Hongyu Liu et al. | [2502.06119v1](http://arxiv.org/abs/2502.06119v1) | **NULL** |
+| **2025/02/09** | SNAT-YOLO: Efficient Cross-Layer Aggregation Network for Edge-Oriented Gangue Detection | Shang Li | [2502.05988v1](http://arxiv.org/abs/2502.05988v1) | **NULL** |
+| **2025/02/09** | HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition | Yue Li et al. | [2502.05869v1](http://arxiv.org/abs/2502.05869v1) | **NULL** |
+| **2025/02/09** | On the use of Performer and Agent Attention for Spoken Language Identification | Jitendra Kumar dhiman et al. | [2502.05841v1](http://arxiv.org/abs/2502.05841v1) | **NULL** |
+| **2025/02/09** | MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device | Novendra Setyawan et al. | [2502.05800v1](http://arxiv.org/abs/2502.05800v1) | **NULL** |
+| **2025/02/09** | EPBC-YOLOv8: An efficient and accurate improved YOLOv8 underwater detector based on an attention mechanism | Xing Jiang et al. | [2502.05788v1](http://arxiv.org/abs/2502.05788v1) | **NULL** |
+| **2025/02/09** | Performance Analysis of Traditional VQA Models Under Limited Computational Resources | Jihao Gu | [2502.05738v1](http://arxiv.org/abs/2502.05738v1) | **NULL** |
+| **2025/02/08** | TabICL: A Tabular Foundation Model for In-Context Learning on Large Data | Jingang Qu et al. | [2502.05564v1](http://arxiv.org/abs/2502.05564v1) | **NULL** |
+| **2025/02/08** | Diffusion Model for Interest Refinement in Multi-Interest Recommendation | Yankun Le et al. | [2502.05561v1](http://arxiv.org/abs/2502.05561v1) | **NULL** |
+| **2025/02/08** | Multi-scale Masked Autoencoder for Electrocardiogram Anomaly Detection | Ya Zhou et al. | [2502.05494v1](http://arxiv.org/abs/2502.05494v1) | **NULL** |
+| **2025/02/08** | LRA-GNN: Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual for Facial Age Estimation | Yiping Zhang et al. | [2502.05423v1](http://arxiv.org/abs/2502.05423v1) | **NULL** |
+| **2025/02/08** | A Novel Convolutional-Free Method for 3D Medical Imaging Segmentation | Canxuan Gang | [2502.05396v1](http://arxiv.org/abs/2502.05396v1) | **NULL** |
+| **2025/02/08** | Hierarchical Lexical Manifold Projection in Large Language Models: A Novel Mechanism for Multi-Scale Semantic Representation | Natasha Martus et al. | [2502.05395v1](http://arxiv.org/abs/2502.05395v1) | **NULL** |
+| **2025/02/07** | Is attention all you need to solve the correlated electron problem? | Max Geier et al. | [2502.05383v1](http://arxiv.org/abs/2502.05383v1) | **NULL** |
+| **2025/02/07** | Probabilistic Subspace Manifolds for Contextual Inference in Large Language Models | Christopher Nightingale et al. | [2502.05346v1](http://arxiv.org/abs/2502.05346v1) | **NULL** |
 | **2025/02/07** | NoLiMa: Long-Context Evaluation Beyond Literal Matching | Ali Modarressi et al. | [2502.05167v1](http://arxiv.org/abs/2502.05167v1) | **NULL** |
 | **2025/02/07** | In-context denoising with one-layer transformers: connections between attention and associative memory retrieval | Matthew Smart et al. | [2502.05164v1](http://arxiv.org/abs/2502.05164v1) | **NULL** |
 | **2025/02/07** | LP-DETR: Layer-wise Progressive Relations for Object Detection | Zhengjian Kang et al. | [2502.05147v1](http://arxiv.org/abs/2502.05147v1) | **NULL** |
-| **2025/02/06** | Private Federated Learning In Real World Application -- A Case Study | An Ji et al. | [2502.04565v1](http://arxiv.org/abs/2502.04565v1) | **NULL** |
+| **2025/02/06** | Private Federated Learning In Real World Application -- A Case Study | An Ji et al. | [2502.04565v2](http://arxiv.org/abs/2502.04565v2) | **NULL** |
 | **2025/02/06** | MedGNN: Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification | Wei Fan et al. | [2502.04515v1](http://arxiv.org/abs/2502.04515v1) | **NULL** |
 | **2025/02/06** | ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features | Alec Helbling et al. | [2502.04320v1](http://arxiv.org/abs/2502.04320v1) | **NULL** |
-| **2025/02/06** | XAttnMark: Learning Robust Audio Watermarking with Cross-Attention | Yixin Liu et al. | [2502.04230v1](http://arxiv.org/abs/2502.04230v1) | **NULL** |
-| **2025/02/06** | Generative Adversarial Networks Bridging Art and Machine Intelligence | Junhao Song et al. | [2502.04116v1](http://arxiv.org/abs/2502.04116v1) | **NULL** |
+| **2025/02/06** | XAttnMark: Learning Robust Audio Watermarking with Cross-Attention | Yixin Liu et al. | [2502.04230v2](http://arxiv.org/abs/2502.04230v2) | **NULL** |
+| **2025/02/06** | Generative Adversarial Networks Bridging Art and Machine Intelligence | Junhao Song et al. | [2502.04116v2](http://arxiv.org/abs/2502.04116v2) | **NULL** |
 | **2025/02/06** | DEALing with Image Reconstruction: Deep Attentive Least Squares | Mehrsa Pourya et al. | [2502.04079v1](http://arxiv.org/abs/2502.04079v1) | **NULL** |
-| **2025/02/06** | Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation | Xuan Li et al. | [2502.03813v1](http://arxiv.org/abs/2502.03813v1) | **NULL** |
-| **2025/02/06** | Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers | Yi Ding et al. | [2502.03736v2](http://arxiv.org/abs/2502.03736v2) | **NULL** |
-| **2025/02/05** | DynVFX: Augmenting Real Videos with Dynamic Content | Danah Yatim et al. | [2502.03621v1](http://arxiv.org/abs/2502.03621v1) | **NULL** |
-| **2025/02/05** | MapFusion: A Novel BEV Feature Fusion Network for Multi-modal Map Construction | Xiaoshuai Hao et al. | [2502.04377v1](http://arxiv.org/abs/2502.04377v1) | **NULL** |
-| **2025/02/05** | An Analysis for Reasoning Bias of Language Models with Small Initialization | Junjie Yao et al. | [2502.04375v1](http://arxiv.org/abs/2502.04375v1) | **NULL** |
-| **2025/02/05** | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | Cheng He et al. | [2502.03264v1](http://arxiv.org/abs/2502.03264v1) | **NULL** |
-| **2025/02/05** | Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning | SiYeoul Lee et al. | [2502.03505v1](http://arxiv.org/abs/2502.03505v1) | **NULL** |
-| **2025/02/05** | DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior | Janghyeok Han et al. | [2502.03502v1](http://arxiv.org/abs/2502.03502v1) | **NULL** |
-| **2025/02/05** | FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer | Yufei Ye et al. | [2502.03036v1](http://arxiv.org/abs/2502.03036v1) | **NULL** |
-| **2025/02/05** | HSI: A Holistic Style Injector for Arbitrary Style Transfer | Shuhao Zhang et al. | [2502.04369v1](http://arxiv.org/abs/2502.04369v1) | **NULL** |
-| **2025/02/05** | Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL | Wenbo Sun et al. | [2502.02818v1](http://arxiv.org/abs/2502.02818v1) | **NULL** |
-| **2025/02/04** | Deep Reinforcement Learning Enabled Persistent Surveillance with Energy-Aware UAV-UGV Systems for Disaster Management Applications | Md Safwan Mondal et al. | [2502.02666v1](http://arxiv.org/abs/2502.02666v1) | **NULL** |
-| **2025/02/04** | Spatio-temporal transformer to support automatic sign language translation | Christian Ruiz et al. | [2502.02587v1](http://arxiv.org/abs/2502.02587v1) | **NULL** |
-| **2025/02/04** | AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis | Divya Bharti et al. | [2502.02555v2](http://arxiv.org/abs/2502.02555v2) | [**link**](https://github.com/bhartidivya/aad-dce) |
-| **2025/02/04** | SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency | Qianhao Yuan et al. | [2502.02458v1](http://arxiv.org/abs/2502.02458v1) | **NULL** |
-| **2025/02/04** | LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models | Tzu-Tao Chang et al. | [2502.02406v2](http://arxiv.org/abs/2502.02406v2) | **NULL** |
-| **2025/02/04** | Exact Sequence Classification with Hardmax Transformers | Albert Alcalde et al. | [2502.02270v1](http://arxiv.org/abs/2502.02270v1) | **NULL** |
-| **2025/02/04** | Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge | Daniel Tamayo et al. | [2502.02173v1](http://arxiv.org/abs/2502.02173v1) | [**link**](https://github.com/dtamayo-nlp/memat) |
-| **2025/02/04** | VerteNet -- A Multi-Context Hybrid CNN Transformer for Accurate Vertebral Landmark Localization in Lateral Spine DXA Images | Zaid Ilyas et al. | [2502.02097v1](http://arxiv.org/abs/2502.02097v1) | [**link**](https://github.com/zaidilyas89/vertenet) |
-| **2025/02/04** | On the Emergence of Position Bias in Transformers | Xinyi Wu et al. | [2502.01951v1](http://arxiv.org/abs/2502.01951v1) | **NULL** |
-| **2025/02/03** | Texture Image Synthesis Using Spatial GAN Based on Vision Transformers | Elahe Salari et al. | [2502.01842v1](http://arxiv.org/abs/2502.01842v1) | **NULL** |
 
 ## 背景差分
 
