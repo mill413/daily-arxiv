@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/12 08:59:48
+> Updated on 2025/02/13 08:59:59
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/11** | DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training | Xin Tan et al. | [2502.07590v1](http://arxiv.org/abs/2502.07590v1) | **NULL** |
+| **2025/02/11** | Attention Learning is Needed to Efficiently Learn Parity Function | Yaomengxi Han et al. | [2502.07553v1](http://arxiv.org/abs/2502.07553v1) | **NULL** |
+| **2025/02/11** | CodePhys: Robust Video-based Remote Physiological Measurement through Latent Codebook Querying | Shuyang Chu et al. | [2502.07526v1](http://arxiv.org/abs/2502.07526v1) | **NULL** |
+| **2025/02/11** | Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution | Hongyu An et al. | [2502.07381v1](http://arxiv.org/abs/2502.07381v1) | **NULL** |
+| **2025/02/11** | Small Language Model Makes an Effective Long Text Extractor | Yelin Chen et al. | [2502.07286v1](http://arxiv.org/abs/2502.07286v1) | **NULL** |
+| **2025/02/11** | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | Jiecheng Lu et al. | [2502.07244v1](http://arxiv.org/abs/2502.07244v1) | **NULL** |
+| **2025/02/11** | A Survey on Mamba Architecture for Vision Applications | Fady Ibrahim et al. | [2502.07161v1](http://arxiv.org/abs/2502.07161v1) | **NULL** |
 | **2025/02/10** | Wandering around: A bioinspired approach to visual attention through object motion sensitivity | Giulia D Angelo et al. | [2502.06747v1](http://arxiv.org/abs/2502.06747v1) | **NULL** |
 | **2025/02/10** | Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2502.06427v1](http://arxiv.org/abs/2502.06427v1) | **NULL** |
 | **2025/02/10** | Systematic Outliers in Large Language Models | Yongqi An et al. | [2502.06415v1](http://arxiv.org/abs/2502.06415v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2025/02/07** | Probabilistic Subspace Manifolds for Contextual Inference in Large Language Models | Christopher Nightingale et al. | [2502.05346v1](http://arxiv.org/abs/2502.05346v1) | **NULL** |
 | **2025/02/07** | NoLiMa: Long-Context Evaluation Beyond Literal Matching | Ali Modarressi et al. | [2502.05167v1](http://arxiv.org/abs/2502.05167v1) | **NULL** |
 | **2025/02/07** | In-context denoising with one-layer transformers: connections between attention and associative memory retrieval | Matthew Smart et al. | [2502.05164v1](http://arxiv.org/abs/2502.05164v1) | **NULL** |
-| **2025/02/07** | LP-DETR: Layer-wise Progressive Relations for Object Detection | Zhengjian Kang et al. | [2502.05147v1](http://arxiv.org/abs/2502.05147v1) | **NULL** |
-| **2025/02/06** | Private Federated Learning In Real World Application -- A Case Study | An Ji et al. | [2502.04565v2](http://arxiv.org/abs/2502.04565v2) | **NULL** |
-| **2025/02/06** | MedGNN: Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification | Wei Fan et al. | [2502.04515v1](http://arxiv.org/abs/2502.04515v1) | **NULL** |
-| **2025/02/06** | ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features | Alec Helbling et al. | [2502.04320v1](http://arxiv.org/abs/2502.04320v1) | **NULL** |
-| **2025/02/06** | XAttnMark: Learning Robust Audio Watermarking with Cross-Attention | Yixin Liu et al. | [2502.04230v2](http://arxiv.org/abs/2502.04230v2) | **NULL** |
-| **2025/02/06** | Generative Adversarial Networks Bridging Art and Machine Intelligence | Junhao Song et al. | [2502.04116v2](http://arxiv.org/abs/2502.04116v2) | **NULL** |
-| **2025/02/06** | DEALing with Image Reconstruction: Deep Attentive Least Squares | Mehrsa Pourya et al. | [2502.04079v1](http://arxiv.org/abs/2502.04079v1) | **NULL** |
 
 ## 背景差分
 
