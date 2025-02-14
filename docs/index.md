@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/13 08:59:59
+> Updated on 2025/02/14 08:59:49
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/12** | Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based? | Xiaoxia Xu et al. | [2502.08637v1](http://arxiv.org/abs/2502.08637v1) | **NULL** |
+| **2025/02/12** | Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features | Ugochukwu Orji et al. | [2502.08376v1](http://arxiv.org/abs/2502.08376v1) | **NULL** |
+| **2025/02/12** | Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding | Konstantin Berestizshevsky et al. | [2502.08363v1](http://arxiv.org/abs/2502.08363v1) | [**link**](https://github.com/kostyanoob/top-theta-attention) |
+| **2025/02/12** | Fully-Geometric Cross-Attention for Point Cloud Registration | Weijie Wang et al. | [2502.08285v1](http://arxiv.org/abs/2502.08285v1) | **NULL** |
+| **2025/02/12** | Deepfake Detection with Spatio-Temporal Consistency and Attention | Yunzhuo Chen et al. | [2502.08216v1](http://arxiv.org/abs/2502.08216v1) | **NULL** |
+| **2025/02/12** | LLM Modules: Knowledge Transfer from a Large to a Small Model using Enhanced Cross-Attention | Konstantin Kolomeitsev | [2502.08213v1](http://arxiv.org/abs/2502.08213v1) | **NULL** |
+| **2025/02/12** | DGSense: A Domain Generalization Framework for Wireless Sensing | Rui Zhou et al. | [2502.08155v1](http://arxiv.org/abs/2502.08155v1) | **NULL** |
+| **2025/02/11** | Deep Semantic Graph Learning via LLM based Node Enhancement | Chuanqi Shi et al. | [2502.07982v1](http://arxiv.org/abs/2502.07982v1) | **NULL** |
+| **2025/02/11** | ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans | Ashkan Shahbazi et al. | [2502.07962v1](http://arxiv.org/abs/2502.07962v1) | **NULL** |
 | **2025/02/11** | DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training | Xin Tan et al. | [2502.07590v1](http://arxiv.org/abs/2502.07590v1) | **NULL** |
 | **2025/02/11** | Attention Learning is Needed to Efficiently Learn Parity Function | Yaomengxi Han et al. | [2502.07553v1](http://arxiv.org/abs/2502.07553v1) | **NULL** |
+| **2025/02/11** | Advancing Heat Demand Forecasting with Attention Mechanisms: Opportunities and Challenges | Adithya Ramachandran et al. | [2502.07854v1](http://arxiv.org/abs/2502.07854v1) | **NULL** |
 | **2025/02/11** | CodePhys: Robust Video-based Remote Physiological Measurement through Latent Codebook Querying | Shuyang Chu et al. | [2502.07526v1](http://arxiv.org/abs/2502.07526v1) | **NULL** |
-| **2025/02/11** | Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution | Hongyu An et al. | [2502.07381v1](http://arxiv.org/abs/2502.07381v1) | **NULL** |
-| **2025/02/11** | Small Language Model Makes an Effective Long Text Extractor | Yelin Chen et al. | [2502.07286v1](http://arxiv.org/abs/2502.07286v1) | **NULL** |
-| **2025/02/11** | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | Jiecheng Lu et al. | [2502.07244v1](http://arxiv.org/abs/2502.07244v1) | **NULL** |
+| **2025/02/11** | Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution | Hongyu An et al. | [2502.07381v2](http://arxiv.org/abs/2502.07381v2) | **NULL** |
+| **2025/02/11** | Small Language Model Makes an Effective Long Text Extractor | Yelin Chen et al. | [2502.07286v1](http://arxiv.org/abs/2502.07286v1) | [**link**](https://github.com/thudm/scholar-profiling) |
+| **2025/02/11** | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | Jiecheng Lu et al. | [2502.07244v1](http://arxiv.org/abs/2502.07244v1) | [**link**](https://github.com/ljc-fvnr/structural-aligned-mixture-of-var) |
 | **2025/02/11** | A Survey on Mamba Architecture for Vision Applications | Fady Ibrahim et al. | [2502.07161v1](http://arxiv.org/abs/2502.07161v1) | **NULL** |
 | **2025/02/10** | Wandering around: A bioinspired approach to visual attention through object motion sensitivity | Giulia D Angelo et al. | [2502.06747v1](http://arxiv.org/abs/2502.06747v1) | **NULL** |
 | **2025/02/10** | Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2502.06427v1](http://arxiv.org/abs/2502.06427v1) | **NULL** |
@@ -72,17 +82,7 @@ layout: default
 | **2025/02/09** | On the use of Performer and Agent Attention for Spoken Language Identification | Jitendra Kumar dhiman et al. | [2502.05841v1](http://arxiv.org/abs/2502.05841v1) | **NULL** |
 | **2025/02/09** | MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device | Novendra Setyawan et al. | [2502.05800v1](http://arxiv.org/abs/2502.05800v1) | **NULL** |
 | **2025/02/09** | EPBC-YOLOv8: An efficient and accurate improved YOLOv8 underwater detector based on an attention mechanism | Xing Jiang et al. | [2502.05788v1](http://arxiv.org/abs/2502.05788v1) | **NULL** |
-| **2025/02/09** | Performance Analysis of Traditional VQA Models Under Limited Computational Resources | Jihao Gu | [2502.05738v1](http://arxiv.org/abs/2502.05738v1) | **NULL** |
-| **2025/02/08** | TabICL: A Tabular Foundation Model for In-Context Learning on Large Data | Jingang Qu et al. | [2502.05564v1](http://arxiv.org/abs/2502.05564v1) | **NULL** |
-| **2025/02/08** | Diffusion Model for Interest Refinement in Multi-Interest Recommendation | Yankun Le et al. | [2502.05561v1](http://arxiv.org/abs/2502.05561v1) | **NULL** |
-| **2025/02/08** | Multi-scale Masked Autoencoder for Electrocardiogram Anomaly Detection | Ya Zhou et al. | [2502.05494v1](http://arxiv.org/abs/2502.05494v1) | **NULL** |
-| **2025/02/08** | LRA-GNN: Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual for Facial Age Estimation | Yiping Zhang et al. | [2502.05423v1](http://arxiv.org/abs/2502.05423v1) | **NULL** |
-| **2025/02/08** | A Novel Convolutional-Free Method for 3D Medical Imaging Segmentation | Canxuan Gang | [2502.05396v1](http://arxiv.org/abs/2502.05396v1) | **NULL** |
-| **2025/02/08** | Hierarchical Lexical Manifold Projection in Large Language Models: A Novel Mechanism for Multi-Scale Semantic Representation | Natasha Martus et al. | [2502.05395v1](http://arxiv.org/abs/2502.05395v1) | **NULL** |
-| **2025/02/07** | Is attention all you need to solve the correlated electron problem? | Max Geier et al. | [2502.05383v1](http://arxiv.org/abs/2502.05383v1) | **NULL** |
-| **2025/02/07** | Probabilistic Subspace Manifolds for Contextual Inference in Large Language Models | Christopher Nightingale et al. | [2502.05346v1](http://arxiv.org/abs/2502.05346v1) | **NULL** |
-| **2025/02/07** | NoLiMa: Long-Context Evaluation Beyond Literal Matching | Ali Modarressi et al. | [2502.05167v1](http://arxiv.org/abs/2502.05167v1) | **NULL** |
-| **2025/02/07** | In-context denoising with one-layer transformers: connections between attention and associative memory retrieval | Matthew Smart et al. | [2502.05164v1](http://arxiv.org/abs/2502.05164v1) | **NULL** |
+| **2025/02/09** | Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution | Siwei Tu et al. | [2502.07814v1](http://arxiv.org/abs/2502.07814v1) | **NULL** |
 
 ## 背景差分
 
