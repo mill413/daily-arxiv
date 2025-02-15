@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/14 08:59:49
+> Updated on 2025/02/15 08:59:05
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/13** | Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model | Fei Shen et al. | [2502.09533v1](http://arxiv.org/abs/2502.09533v1) | **NULL** |
+| **2025/02/13** | Transformer-Enhanced Variational Autoencoder for Crystal Structure Prediction | Ziyi Chen et al. | [2502.09423v1](http://arxiv.org/abs/2502.09423v1) | **NULL** |
+| **2025/02/13** | FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation | Xiaodong Li et al. | [2502.09375v1](http://arxiv.org/abs/2502.09375v1) | **NULL** |
+| **2025/02/13** | Machine learning for modelling unstructured grid data in computational physics: a review | Sibo Cheng et al. | [2502.09346v1](http://arxiv.org/abs/2502.09346v1) | **NULL** |
+| **2025/02/13** | Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity | Xiaoyu Zheng et al. | [2502.09291v1](http://arxiv.org/abs/2502.09291v1) | **NULL** |
+| **2025/02/13** | Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence | Yuankai Luo et al. | [2502.09263v1](http://arxiv.org/abs/2502.09263v1) | [**link**](https://github.com/LUOyk1999/tunedGNN-G) |
+| **2025/02/13** | DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images | Zesheng Li et al. | [2502.09256v1](http://arxiv.org/abs/2502.09256v1) | **NULL** |
+| **2025/02/13** | The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics | Danni Feng et al. | [2502.09247v1](http://arxiv.org/abs/2502.09247v1) | **NULL** |
+| **2025/02/13** | A Contextual-Aware Position Encoding for Sequential Recommendation | Jun Yuan et al. | [2502.09027v1](http://arxiv.org/abs/2502.09027v1) | **NULL** |
+| **2025/02/13** | Diversity Enhances an LLM's Performance in RAG and Long-context Task | Zhchao Wang et al. | [2502.09017v1](http://arxiv.org/abs/2502.09017v1) | **NULL** |
 | **2025/02/12** | Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based? | Xiaoxia Xu et al. | [2502.08637v1](http://arxiv.org/abs/2502.08637v1) | **NULL** |
 | **2025/02/12** | Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features | Ugochukwu Orji et al. | [2502.08376v1](http://arxiv.org/abs/2502.08376v1) | **NULL** |
 | **2025/02/12** | Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding | Konstantin Berestizshevsky et al. | [2502.08363v1](http://arxiv.org/abs/2502.08363v1) | [**link**](https://github.com/kostyanoob/top-theta-attention) |
@@ -60,6 +70,8 @@ layout: default
 | **2025/02/12** | Deepfake Detection with Spatio-Temporal Consistency and Attention | Yunzhuo Chen et al. | [2502.08216v1](http://arxiv.org/abs/2502.08216v1) | **NULL** |
 | **2025/02/12** | LLM Modules: Knowledge Transfer from a Large to a Small Model using Enhanced Cross-Attention | Konstantin Kolomeitsev | [2502.08213v1](http://arxiv.org/abs/2502.08213v1) | **NULL** |
 | **2025/02/12** | DGSense: A Domain Generalization Framework for Wireless Sensing | Rui Zhou et al. | [2502.08155v1](http://arxiv.org/abs/2502.08155v1) | **NULL** |
+| **2025/02/12** | Improving Lesion Segmentation in Medical Images by Global and Regional Feature Compensation | Chuhan Wang et al. | [2502.08675v1](http://arxiv.org/abs/2502.08675v1) | **NULL** |
+| **2025/02/12** | Enhanced LSTM by Attention Mechanism for Early Detection of Parkinson's Disease through Voice Signals | Arman Mohammadigilani et al. | [2502.08672v1](http://arxiv.org/abs/2502.08672v1) | **NULL** |
 | **2025/02/11** | Deep Semantic Graph Learning via LLM based Node Enhancement | Chuanqi Shi et al. | [2502.07982v1](http://arxiv.org/abs/2502.07982v1) | **NULL** |
 | **2025/02/11** | ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans | Ashkan Shahbazi et al. | [2502.07962v1](http://arxiv.org/abs/2502.07962v1) | **NULL** |
 | **2025/02/11** | DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training | Xin Tan et al. | [2502.07590v1](http://arxiv.org/abs/2502.07590v1) | **NULL** |
@@ -71,23 +83,12 @@ layout: default
 | **2025/02/11** | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | Jiecheng Lu et al. | [2502.07244v1](http://arxiv.org/abs/2502.07244v1) | [**link**](https://github.com/ljc-fvnr/structural-aligned-mixture-of-var) |
 | **2025/02/11** | A Survey on Mamba Architecture for Vision Applications | Fady Ibrahim et al. | [2502.07161v1](http://arxiv.org/abs/2502.07161v1) | **NULL** |
 | **2025/02/10** | Wandering around: A bioinspired approach to visual attention through object motion sensitivity | Giulia D Angelo et al. | [2502.06747v1](http://arxiv.org/abs/2502.06747v1) | **NULL** |
-| **2025/02/10** | Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2502.06427v1](http://arxiv.org/abs/2502.06427v1) | **NULL** |
-| **2025/02/10** | Systematic Outliers in Large Language Models | Yongqi An et al. | [2502.06415v1](http://arxiv.org/abs/2502.06415v1) | **NULL** |
-| **2025/02/10** | DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation | Sara Monji-Azad et al. | [2502.06336v1](http://arxiv.org/abs/2502.06336v1) | **NULL** |
-| **2025/02/10** | Powerformer: A Transformer with Weighted Causal Attention for Time-series Forecasting | Kareem Hegazy et al. | [2502.06151v1](http://arxiv.org/abs/2502.06151v1) | **NULL** |
-| **2025/02/10** | Improved YOLOv5s model for key components detection of power transmission lines | Chen Chen et al. | [2502.06127v1](http://arxiv.org/abs/2502.06127v1) | **NULL** |
-| **2025/02/10** | An Appearance Defect Detection Method for Cigarettes Based on C-CenterNet | Hongyu Liu et al. | [2502.06119v1](http://arxiv.org/abs/2502.06119v1) | **NULL** |
-| **2025/02/09** | SNAT-YOLO: Efficient Cross-Layer Aggregation Network for Edge-Oriented Gangue Detection | Shang Li | [2502.05988v1](http://arxiv.org/abs/2502.05988v1) | **NULL** |
-| **2025/02/09** | HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition | Yue Li et al. | [2502.05869v1](http://arxiv.org/abs/2502.05869v1) | **NULL** |
-| **2025/02/09** | On the use of Performer and Agent Attention for Spoken Language Identification | Jitendra Kumar dhiman et al. | [2502.05841v1](http://arxiv.org/abs/2502.05841v1) | **NULL** |
-| **2025/02/09** | MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device | Novendra Setyawan et al. | [2502.05800v1](http://arxiv.org/abs/2502.05800v1) | **NULL** |
-| **2025/02/09** | EPBC-YOLOv8: An efficient and accurate improved YOLOv8 underwater detector based on an attention mechanism | Xing Jiang et al. | [2502.05788v1](http://arxiv.org/abs/2502.05788v1) | **NULL** |
-| **2025/02/09** | Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution | Siwei Tu et al. | [2502.07814v1](http://arxiv.org/abs/2502.07814v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/13** | ALMA-IMF XVII - Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v2](http://arxiv.org/abs/2501.08214v2) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
@@ -107,7 +108,7 @@ layout: default
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
-| **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v1](http://arxiv.org/abs/2402.07976v1) | **NULL** |
+| **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v2](http://arxiv.org/abs/2402.07976v2) | **NULL** |
 | **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/12/11** | Efficiency of solar microflares in accelerating electrons when rooted in a sunspot | Jonas Saqri et al. | [2312.06856v2](http://arxiv.org/abs/2312.06856v2) | **NULL** |
 | **2023/12/11** | Non-negative matrix factorization approach to sky subtraction for optical spectroscopy | Fedor Kolganov et al. | [2312.06761v1](http://arxiv.org/abs/2312.06761v1) | **NULL** |
 | **2023/12/04** | Cable Slack Detection for Arresting Gear Application using Machine Vision | Ari Goodman et al. | [2312.02320v1](http://arxiv.org/abs/2312.02320v1) | **NULL** |
-| **2023/12/02** | Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays | Elena Fedorova et al. | [2312.01174v1](http://arxiv.org/abs/2312.01174v1) | **NULL** |
