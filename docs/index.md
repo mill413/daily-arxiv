@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/17 09:02:51
+> Updated on 2025/02/18 08:59:49
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/14** | ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences | Liyuan Zhu et al. | [2502.10377v1](http://arxiv.org/abs/2502.10377v1) | **NULL** |
+| **2025/02/14** | VicKAM: Visual Conceptual Knowledge Guided Action Map for Weakly Supervised Group Activity Recognition | Zhuming Wang et al. | [2502.09967v1](http://arxiv.org/abs/2502.09967v1) | **NULL** |
+| **2025/02/14** | Insect-Foundation: A Foundation Model and Large Multimodal Dataset for Vision-Language Insect Understanding | Thanh-Dat Truong et al. | [2502.09906v1](http://arxiv.org/abs/2502.09906v1) | **NULL** |
 | **2025/02/13** | Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model | Fei Shen et al. | [2502.09533v1](http://arxiv.org/abs/2502.09533v1) | **NULL** |
 | **2025/02/13** | Transformer-Enhanced Variational Autoencoder for Crystal Structure Prediction | Ziyi Chen et al. | [2502.09423v1](http://arxiv.org/abs/2502.09423v1) | **NULL** |
 | **2025/02/13** | FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation | Xiaodong Li et al. | [2502.09375v1](http://arxiv.org/abs/2502.09375v1) | **NULL** |
@@ -61,7 +64,7 @@ layout: default
 | **2025/02/13** | Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence | Yuankai Luo et al. | [2502.09263v1](http://arxiv.org/abs/2502.09263v1) | [**link**](https://github.com/LUOyk1999/tunedGNN-G) |
 | **2025/02/13** | DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images | Zesheng Li et al. | [2502.09256v1](http://arxiv.org/abs/2502.09256v1) | **NULL** |
 | **2025/02/13** | The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics | Danni Feng et al. | [2502.09247v1](http://arxiv.org/abs/2502.09247v1) | **NULL** |
-| **2025/02/13** | A Contextual-Aware Position Encoding for Sequential Recommendation | Jun Yuan et al. | [2502.09027v1](http://arxiv.org/abs/2502.09027v1) | **NULL** |
+| **2025/02/13** | A Contextual-Aware Position Encoding for Sequential Recommendation | Jun Yuan et al. | [2502.09027v1](http://arxiv.org/abs/2502.09027v1) | [**link**](https://github.com/yjdy/cape) |
 | **2025/02/13** | Diversity Enhances an LLM's Performance in RAG and Long-context Task | Zhchao Wang et al. | [2502.09017v1](http://arxiv.org/abs/2502.09017v1) | **NULL** |
 | **2025/02/12** | Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based? | Xiaoxia Xu et al. | [2502.08637v1](http://arxiv.org/abs/2502.08637v1) | **NULL** |
 | **2025/02/12** | Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features | Ugochukwu Orji et al. | [2502.08376v1](http://arxiv.org/abs/2502.08376v1) | **NULL** |
@@ -70,6 +73,7 @@ layout: default
 | **2025/02/12** | Deepfake Detection with Spatio-Temporal Consistency and Attention | Yunzhuo Chen et al. | [2502.08216v1](http://arxiv.org/abs/2502.08216v1) | **NULL** |
 | **2025/02/12** | LLM Modules: Knowledge Transfer from a Large to a Small Model using Enhanced Cross-Attention | Konstantin Kolomeitsev | [2502.08213v1](http://arxiv.org/abs/2502.08213v1) | **NULL** |
 | **2025/02/12** | DGSense: A Domain Generalization Framework for Wireless Sensing | Rui Zhou et al. | [2502.08155v1](http://arxiv.org/abs/2502.08155v1) | **NULL** |
+| **2025/02/12** | Towards Fine-grained Interactive Segmentation in Images and Videos | Yuan Yao et al. | [2502.09660v1](http://arxiv.org/abs/2502.09660v1) | **NULL** |
 | **2025/02/12** | Improving Lesion Segmentation in Medical Images by Global and Regional Feature Compensation | Chuhan Wang et al. | [2502.08675v1](http://arxiv.org/abs/2502.08675v1) | **NULL** |
 | **2025/02/12** | Enhanced LSTM by Attention Mechanism for Early Detection of Parkinson's Disease through Voice Signals | Arman Mohammadigilani et al. | [2502.08672v1](http://arxiv.org/abs/2502.08672v1) | **NULL** |
 | **2025/02/11** | Deep Semantic Graph Learning via LLM based Node Enhancement | Chuanqi Shi et al. | [2502.07982v1](http://arxiv.org/abs/2502.07982v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2025/02/11** | Advancing Heat Demand Forecasting with Attention Mechanisms: Opportunities and Challenges | Adithya Ramachandran et al. | [2502.07854v1](http://arxiv.org/abs/2502.07854v1) | **NULL** |
 | **2025/02/11** | CodePhys: Robust Video-based Remote Physiological Measurement through Latent Codebook Querying | Shuyang Chu et al. | [2502.07526v1](http://arxiv.org/abs/2502.07526v1) | **NULL** |
 | **2025/02/11** | Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution | Hongyu An et al. | [2502.07381v2](http://arxiv.org/abs/2502.07381v2) | **NULL** |
-| **2025/02/11** | Small Language Model Makes an Effective Long Text Extractor | Yelin Chen et al. | [2502.07286v1](http://arxiv.org/abs/2502.07286v1) | [**link**](https://github.com/thudm/scholar-profiling) |
-| **2025/02/11** | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | Jiecheng Lu et al. | [2502.07244v1](http://arxiv.org/abs/2502.07244v1) | [**link**](https://github.com/ljc-fvnr/structural-aligned-mixture-of-var) |
-| **2025/02/11** | A Survey on Mamba Architecture for Vision Applications | Fady Ibrahim et al. | [2502.07161v1](http://arxiv.org/abs/2502.07161v1) | **NULL** |
-| **2025/02/10** | Wandering around: A bioinspired approach to visual attention through object motion sensitivity | Giulia D Angelo et al. | [2502.06747v1](http://arxiv.org/abs/2502.06747v1) | **NULL** |
 
 ## 背景差分
 
