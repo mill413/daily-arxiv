@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/19 09:00:17
+> Updated on 2025/02/20 09:00:48
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/18** | NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches | Penghui Zhang et al. | [2502.12834v1](http://arxiv.org/abs/2502.12834v1) | **NULL** |
+| **2025/02/18** | An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data | Pengfei Wu et al. | [2502.12817v1](http://arxiv.org/abs/2502.12817v1) | **NULL** |
+| **2025/02/18** | Spiking Vision Transformer with Saccadic Attention | Shuai Wang et al. | [2502.12677v1](http://arxiv.org/abs/2502.12677v1) | **NULL** |
+| **2025/02/18** | YOLOv12: Attention-Centric Real-Time Object Detectors | Yunjie Tian et al. | [2502.12524v1](http://arxiv.org/abs/2502.12524v1) | **NULL** |
+| **2025/02/18** | Mixture of Attention Yields Accurate Results for Tabular Data | Xuechen Li et al. | [2502.12507v1](http://arxiv.org/abs/2502.12507v1) | **NULL** |
+| **2025/02/18** | Efficient OpAmp Adaptation for Zoom Attention to Golden Contexts | Haoyuan Wu et al. | [2502.12502v1](http://arxiv.org/abs/2502.12502v1) | **NULL** |
+| **2025/02/18** | Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning | Xiang He et al. | [2502.12488v1](http://arxiv.org/abs/2502.12488v1) | **NULL** |
+| **2025/02/18** | LocalEscaper: A Weakly-supervised Framework with Regional Reconstruction for Scalable Neural TSP Solvers | Junrui Wen et al. | [2502.12484v1](http://arxiv.org/abs/2502.12484v1) | **NULL** |
+| **2025/02/18** | An Empirical Evaluation of Encoder Architectures for Fast Real-Time Long Conversational Understanding | Annamalai Senthilnathan et al. | [2502.12458v1](http://arxiv.org/abs/2502.12458v1) | **NULL** |
+| **2025/02/17** | DiffuRNN: Harnessing Diffusion Processes for Global Interactions | Jacob Fein-Ashley | [2502.12381v1](http://arxiv.org/abs/2502.12381v1) | **NULL** |
+| **2025/02/17** | Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs | Batu El et al. | [2502.12352v1](http://arxiv.org/abs/2502.12352v1) | **NULL** |
+| **2025/02/17** | SmokeNet: Efficient Smoke Segmentation Leveraging Multiscale Convolutions and Multiview Attention Mechanisms | Xuesong Liu et al. | [2502.12258v1](http://arxiv.org/abs/2502.12258v1) | **NULL** |
 | **2025/02/17** | APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs | Yuxiang Huang et al. | [2502.12085v1](http://arxiv.org/abs/2502.12085v1) | **NULL** |
 | **2025/02/17** | The geometry of BERT | Matteo Bonino et al. | [2502.12033v1](http://arxiv.org/abs/2502.12033v1) | **NULL** |
+| **2025/02/17** | IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations | Andrea Apicella et al. | [2502.12222v1](http://arxiv.org/abs/2502.12222v1) | **NULL** |
+| **2025/02/17** | Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs | Kan Zhu et al. | [2502.12216v1](http://arxiv.org/abs/2502.12216v1) | **NULL** |
 | **2025/02/17** | Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation | Zexi Jia et al. | [2502.11532v1](http://arxiv.org/abs/2502.11532v1) | **NULL** |
 | **2025/02/17** | If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation? | Ryo Yoshida et al. | [2502.11469v1](http://arxiv.org/abs/2502.11469v1) | **NULL** |
+| **2025/02/17** | Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement | Guanghao Li et al. | [2502.12214v1](http://arxiv.org/abs/2502.12214v1) | **NULL** |
 | **2025/02/17** | Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs? | Hanxing Ding et al. | [2502.11400v1](http://arxiv.org/abs/2502.11400v1) | **NULL** |
 | **2025/02/17** | S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting | Zihao Wu et al. | [2502.11340v1](http://arxiv.org/abs/2502.11340v1) | **NULL** |
 | **2025/02/16** | RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer | Shilong Yang et al. | [2502.11179v1](http://arxiv.org/abs/2502.11179v1) | **NULL** |
@@ -64,25 +79,10 @@ layout: default
 | **2025/02/16** | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | Jingyang Yuan et al. | [2502.11089v1](http://arxiv.org/abs/2502.11089v1) | **NULL** |
 | **2025/02/16** | Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions | Ming Shan Hee et al. | [2502.11073v1](http://arxiv.org/abs/2502.11073v1) | **NULL** |
 | **2025/02/16** | CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening | Gen Zhou et al. | [2502.11001v1](http://arxiv.org/abs/2502.11001v1) | **NULL** |
-| **2025/02/15** | HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model | Mingqian Ma et al. | [2502.10807v1](http://arxiv.org/abs/2502.10807v1) | **NULL** |
-| **2025/02/15** | VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS | Ming Meng et al. | [2502.10729v1](http://arxiv.org/abs/2502.10729v1) | **NULL** |
+| **2025/02/15** | HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model | Mingqian Ma et al. | [2502.10807v2](http://arxiv.org/abs/2502.10807v2) | **NULL** |
+| **2025/02/15** | VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS | Ming Meng et al. | [2502.10729v2](http://arxiv.org/abs/2502.10729v2) | **NULL** |
 | **2025/02/15** | Improving action segmentation via explicit similarity measurement | Kamel Aouaidjia et al. | [2502.10713v1](http://arxiv.org/abs/2502.10713v1) | **NULL** |
 | **2025/02/15** | Exploring Synaptic Resonance in Large Language Models: A Novel Approach to Contextual Memory Integration | George Applegarth et al. | [2502.10699v1](http://arxiv.org/abs/2502.10699v1) | **NULL** |
-| **2025/02/15** | Hybrid Deepfake Image Detection: A Comprehensive Dataset-Driven Approach Integrating Convolutional and Attention Mechanisms with Frequency Domain Features | Kafi Anan et al. | [2502.10682v1](http://arxiv.org/abs/2502.10682v1) | **NULL** |
-| **2025/02/14** | ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences | Liyuan Zhu et al. | [2502.10377v1](http://arxiv.org/abs/2502.10377v1) | **NULL** |
-| **2025/02/14** | VicKAM: Visual Conceptual Knowledge Guided Action Map for Weakly Supervised Group Activity Recognition | Zhuming Wang et al. | [2502.09967v1](http://arxiv.org/abs/2502.09967v1) | **NULL** |
-| **2025/02/14** | Insect-Foundation: A Foundation Model and Large Multimodal Dataset for Vision-Language Insect Understanding | Thanh-Dat Truong et al. | [2502.09906v1](http://arxiv.org/abs/2502.09906v1) | **NULL** |
-| **2025/02/13** | Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model | Fei Shen et al. | [2502.09533v1](http://arxiv.org/abs/2502.09533v1) | **NULL** |
-| **2025/02/13** | Transformer-Enhanced Variational Autoencoder for Crystal Structure Prediction | Ziyi Chen et al. | [2502.09423v1](http://arxiv.org/abs/2502.09423v1) | **NULL** |
-| **2025/02/13** | FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation | Xiaodong Li et al. | [2502.09375v1](http://arxiv.org/abs/2502.09375v1) | **NULL** |
-| **2025/02/13** | Machine learning for modelling unstructured grid data in computational physics: a review | Sibo Cheng et al. | [2502.09346v1](http://arxiv.org/abs/2502.09346v1) | **NULL** |
-| **2025/02/13** | Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity | Xiaoyu Zheng et al. | [2502.09291v1](http://arxiv.org/abs/2502.09291v1) | **NULL** |
-| **2025/02/13** | Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence | Yuankai Luo et al. | [2502.09263v1](http://arxiv.org/abs/2502.09263v1) | [**link**](https://github.com/LUOyk1999/tunedGNN-G) |
-| **2025/02/13** | DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images | Zesheng Li et al. | [2502.09256v1](http://arxiv.org/abs/2502.09256v1) | **NULL** |
-| **2025/02/13** | The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics | Danni Feng et al. | [2502.09247v1](http://arxiv.org/abs/2502.09247v1) | **NULL** |
-| **2025/02/13** | A Contextual-Aware Position Encoding for Sequential Recommendation | Jun Yuan et al. | [2502.09027v1](http://arxiv.org/abs/2502.09027v1) | [**link**](https://github.com/yjdy/cape) |
-| **2025/02/13** | Diversity Enhances an LLM's Performance in RAG and Long-context Task | Zhchao Wang et al. | [2502.09017v1](http://arxiv.org/abs/2502.09017v1) | **NULL** |
-| **2025/02/12** | Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based? | Xiaoxia Xu et al. | [2502.08637v1](http://arxiv.org/abs/2502.08637v1) | **NULL** |
 
 ## 背景差分
 
