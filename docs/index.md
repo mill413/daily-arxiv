@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/20 09:00:48
+> Updated on 2025/02/21 09:00:53
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/19** | Learning Novel Transformer Architecture for Time-series Forecasting | Juyuan Zhang et al. | [2502.13721v1](http://arxiv.org/abs/2502.13721v1) | **NULL** |
+| **2025/02/19** | Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation | Prasun Roy et al. | [2502.13637v1](http://arxiv.org/abs/2502.13637v1) | **NULL** |
+| **2025/02/18** | MoBA: Mixture of Block Attention for Long-Context LLMs | Enzhe Lu et al. | [2502.13189v1](http://arxiv.org/abs/2502.13189v1) | **NULL** |
 | **2025/02/18** | NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches | Penghui Zhang et al. | [2502.12834v1](http://arxiv.org/abs/2502.12834v1) | **NULL** |
-| **2025/02/18** | An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data | Pengfei Wu et al. | [2502.12817v1](http://arxiv.org/abs/2502.12817v1) | **NULL** |
+| **2025/02/18** | An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data | Pengfei Wu et al. | [2502.12817v2](http://arxiv.org/abs/2502.12817v2) | **NULL** |
 | **2025/02/18** | Spiking Vision Transformer with Saccadic Attention | Shuai Wang et al. | [2502.12677v1](http://arxiv.org/abs/2502.12677v1) | **NULL** |
 | **2025/02/18** | YOLOv12: Attention-Centric Real-Time Object Detectors | Yunjie Tian et al. | [2502.12524v1](http://arxiv.org/abs/2502.12524v1) | **NULL** |
 | **2025/02/18** | Mixture of Attention Yields Accurate Results for Tabular Data | Xuechen Li et al. | [2502.12507v1](http://arxiv.org/abs/2502.12507v1) | **NULL** |
@@ -79,10 +82,7 @@ layout: default
 | **2025/02/16** | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | Jingyang Yuan et al. | [2502.11089v1](http://arxiv.org/abs/2502.11089v1) | **NULL** |
 | **2025/02/16** | Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions | Ming Shan Hee et al. | [2502.11073v1](http://arxiv.org/abs/2502.11073v1) | **NULL** |
 | **2025/02/16** | CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening | Gen Zhou et al. | [2502.11001v1](http://arxiv.org/abs/2502.11001v1) | **NULL** |
-| **2025/02/15** | HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model | Mingqian Ma et al. | [2502.10807v2](http://arxiv.org/abs/2502.10807v2) | **NULL** |
-| **2025/02/15** | VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS | Ming Meng et al. | [2502.10729v2](http://arxiv.org/abs/2502.10729v2) | **NULL** |
-| **2025/02/15** | Improving action segmentation via explicit similarity measurement | Kamel Aouaidjia et al. | [2502.10713v1](http://arxiv.org/abs/2502.10713v1) | **NULL** |
-| **2025/02/15** | Exploring Synaptic Resonance in Large Language Models: A Novel Approach to Contextual Memory Integration | George Applegarth et al. | [2502.10699v1](http://arxiv.org/abs/2502.10699v1) | **NULL** |
+| **2025/02/16** | Understanding Dynamic Diffusion Process of LLM-based Agents under Information Asymmetry | Yiwen Zhang et al. | [2502.13160v1](http://arxiv.org/abs/2502.13160v1) | **NULL** |
 
 ## 背景差分
 
