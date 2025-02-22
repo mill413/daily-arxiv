@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/21 09:00:53
+> Updated on 2025/02/22 08:58:49
 
 <summary>Table of Contents</summary>
 
@@ -46,16 +46,24 @@ layout: default
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v2](http://arxiv.org/abs/2407.16424v2) | [**link**](https://github.com/alibaba/esod) |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v3](http://arxiv.org/abs/2407.02394v3) | [**link**](https://github.com/cszzshi/SimD) |
-| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v1](http://arxiv.org/abs/2406.14482v1) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
+| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v2](http://arxiv.org/abs/2406.14482v2) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
 | **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/20** | Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis | Kevin Warren et al. | [2502.14726v1](http://arxiv.org/abs/2502.14726v1) | **NULL** |
+| **2025/02/20** | Exploring RWKV for Sentence Embeddings: Layer-wise Analysis and Baseline Comparison for Semantic Similarity | Xinghan Pan | [2502.14620v1](http://arxiv.org/abs/2502.14620v1) | [**link**](https://github.com/PStarH/RWKV-embedding) |
+| **2025/02/20** | ParallelComp: Parallel Long-Context Compressor for Length Extrapolation | Jing Xiong et al. | [2502.14317v1](http://arxiv.org/abs/2502.14317v1) | **NULL** |
+| **2025/02/20** | Adaptive Convolution for CNN-based Speech Enhancement Models | Dahan Wang et al. | [2502.14224v1](http://arxiv.org/abs/2502.14224v1) | **NULL** |
+| **2025/02/20** | H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging | Zhen Huang et al. | [2502.14221v1](http://arxiv.org/abs/2502.14221v1) | **NULL** |
+| **2025/02/20** | Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring | Hu Gao et al. | [2502.14209v1](http://arxiv.org/abs/2502.14209v1) | **NULL** |
+| **2025/02/19** | Modular Prompt Learning Improves Vision-Language Models | Zhenhan Huang et al. | [2502.14125v1](http://arxiv.org/abs/2502.14125v1) | **NULL** |
 | **2025/02/19** | Learning Novel Transformer Architecture for Time-series Forecasting | Juyuan Zhang et al. | [2502.13721v1](http://arxiv.org/abs/2502.13721v1) | **NULL** |
-| **2025/02/19** | Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation | Prasun Roy et al. | [2502.13637v1](http://arxiv.org/abs/2502.13637v1) | **NULL** |
-| **2025/02/18** | MoBA: Mixture of Block Attention for Long-Context LLMs | Enzhe Lu et al. | [2502.13189v1](http://arxiv.org/abs/2502.13189v1) | **NULL** |
+| **2025/02/19** | Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation | Prasun Roy et al. | [2502.13637v1](http://arxiv.org/abs/2502.13637v1) | [**link**](https://github.com/prasunroy/mcma) |
+| **2025/02/19** | Generative Detail Enhancement for Physically Based Materials | Saeed Hadadan et al. | [2502.13994v1](http://arxiv.org/abs/2502.13994v1) | **NULL** |
+| **2025/02/18** | MoBA: Mixture of Block Attention for Long-Context LLMs | Enzhe Lu et al. | [2502.13189v1](http://arxiv.org/abs/2502.13189v1) | [**link**](https://github.com/moonshotai/moba) |
 | **2025/02/18** | NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches | Penghui Zhang et al. | [2502.12834v1](http://arxiv.org/abs/2502.12834v1) | **NULL** |
 | **2025/02/18** | An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data | Pengfei Wu et al. | [2502.12817v2](http://arxiv.org/abs/2502.12817v2) | **NULL** |
 | **2025/02/18** | Spiking Vision Transformer with Saccadic Attention | Shuai Wang et al. | [2502.12677v1](http://arxiv.org/abs/2502.12677v1) | **NULL** |
@@ -65,30 +73,22 @@ layout: default
 | **2025/02/18** | Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning | Xiang He et al. | [2502.12488v1](http://arxiv.org/abs/2502.12488v1) | **NULL** |
 | **2025/02/18** | LocalEscaper: A Weakly-supervised Framework with Regional Reconstruction for Scalable Neural TSP Solvers | Junrui Wen et al. | [2502.12484v1](http://arxiv.org/abs/2502.12484v1) | **NULL** |
 | **2025/02/18** | An Empirical Evaluation of Encoder Architectures for Fast Real-Time Long Conversational Understanding | Annamalai Senthilnathan et al. | [2502.12458v1](http://arxiv.org/abs/2502.12458v1) | **NULL** |
-| **2025/02/17** | DiffuRNN: Harnessing Diffusion Processes for Global Interactions | Jacob Fein-Ashley | [2502.12381v1](http://arxiv.org/abs/2502.12381v1) | **NULL** |
+| **2025/02/17** | Linear Diffusion Networks: Harnessing Diffusion Processes for Global Interactions | Jacob Fein-Ashley | [2502.12381v2](http://arxiv.org/abs/2502.12381v2) | **NULL** |
 | **2025/02/17** | Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs | Batu El et al. | [2502.12352v1](http://arxiv.org/abs/2502.12352v1) | **NULL** |
 | **2025/02/17** | SmokeNet: Efficient Smoke Segmentation Leveraging Multiscale Convolutions and Multiview Attention Mechanisms | Xuesong Liu et al. | [2502.12258v1](http://arxiv.org/abs/2502.12258v1) | **NULL** |
-| **2025/02/17** | APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs | Yuxiang Huang et al. | [2502.12085v1](http://arxiv.org/abs/2502.12085v1) | **NULL** |
+| **2025/02/17** | APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs | Yuxiang Huang et al. | [2502.12085v1](http://arxiv.org/abs/2502.12085v1) | [**link**](https://github.com/thunlp/apb) |
 | **2025/02/17** | The geometry of BERT | Matteo Bonino et al. | [2502.12033v1](http://arxiv.org/abs/2502.12033v1) | **NULL** |
 | **2025/02/17** | IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations | Andrea Apicella et al. | [2502.12222v1](http://arxiv.org/abs/2502.12222v1) | **NULL** |
 | **2025/02/17** | Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs | Kan Zhu et al. | [2502.12216v1](http://arxiv.org/abs/2502.12216v1) | **NULL** |
 | **2025/02/17** | Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation | Zexi Jia et al. | [2502.11532v1](http://arxiv.org/abs/2502.11532v1) | **NULL** |
 | **2025/02/17** | If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation? | Ryo Yoshida et al. | [2502.11469v1](http://arxiv.org/abs/2502.11469v1) | **NULL** |
 | **2025/02/17** | Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement | Guanghao Li et al. | [2502.12214v1](http://arxiv.org/abs/2502.12214v1) | **NULL** |
-| **2025/02/17** | Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs? | Hanxing Ding et al. | [2502.11400v1](http://arxiv.org/abs/2502.11400v1) | **NULL** |
-| **2025/02/17** | S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting | Zihao Wu et al. | [2502.11340v1](http://arxiv.org/abs/2502.11340v1) | **NULL** |
-| **2025/02/16** | RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer | Shilong Yang et al. | [2502.11179v1](http://arxiv.org/abs/2502.11179v1) | **NULL** |
-| **2025/02/16** | DAViMNet: SSMs-Based Domain Adaptive Object Detection | A. Enes Doruk et al. | [2502.11178v1](http://arxiv.org/abs/2502.11178v1) | **NULL** |
-| **2025/02/16** | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | Jingyang Yuan et al. | [2502.11089v1](http://arxiv.org/abs/2502.11089v1) | **NULL** |
-| **2025/02/16** | Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions | Ming Shan Hee et al. | [2502.11073v1](http://arxiv.org/abs/2502.11073v1) | **NULL** |
-| **2025/02/16** | CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening | Gen Zhou et al. | [2502.11001v1](http://arxiv.org/abs/2502.11001v1) | **NULL** |
-| **2025/02/16** | Understanding Dynamic Diffusion Process of LLM-based Agents under Information Asymmetry | Yiwen Zhang et al. | [2502.13160v1](http://arxiv.org/abs/2502.13160v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/02/13** | ALMA-IMF XVII - Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
+| **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v2](http://arxiv.org/abs/2501.08214v2) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
