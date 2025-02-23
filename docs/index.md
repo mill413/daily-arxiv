@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/22 08:58:49
+> Updated on 2025/02/23 09:05:10
 
 <summary>Table of Contents</summary>
 
@@ -70,7 +70,7 @@ layout: default
 | **2025/02/18** | YOLOv12: Attention-Centric Real-Time Object Detectors | Yunjie Tian et al. | [2502.12524v1](http://arxiv.org/abs/2502.12524v1) | **NULL** |
 | **2025/02/18** | Mixture of Attention Yields Accurate Results for Tabular Data | Xuechen Li et al. | [2502.12507v1](http://arxiv.org/abs/2502.12507v1) | **NULL** |
 | **2025/02/18** | Efficient OpAmp Adaptation for Zoom Attention to Golden Contexts | Haoyuan Wu et al. | [2502.12502v1](http://arxiv.org/abs/2502.12502v1) | **NULL** |
-| **2025/02/18** | Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning | Xiang He et al. | [2502.12488v1](http://arxiv.org/abs/2502.12488v1) | **NULL** |
+| **2025/02/18** | Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning | Xiang He et al. | [2502.12488v1](http://arxiv.org/abs/2502.12488v1) | [**link**](https://github.com/brain-cog-lab/s-cmrl) |
 | **2025/02/18** | LocalEscaper: A Weakly-supervised Framework with Regional Reconstruction for Scalable Neural TSP Solvers | Junrui Wen et al. | [2502.12484v1](http://arxiv.org/abs/2502.12484v1) | **NULL** |
 | **2025/02/18** | An Empirical Evaluation of Encoder Architectures for Fast Real-Time Long Conversational Understanding | Annamalai Senthilnathan et al. | [2502.12458v1](http://arxiv.org/abs/2502.12458v1) | **NULL** |
 | **2025/02/17** | Linear Diffusion Networks: Harnessing Diffusion Processes for Global Interactions | Jacob Fein-Ashley | [2502.12381v2](http://arxiv.org/abs/2502.12381v2) | **NULL** |
