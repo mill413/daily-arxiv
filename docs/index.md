@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/24 09:02:36
+> Updated on 2025/02/25 09:01:49
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/21** | Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach | Sai Krishna Reddy Mareddy et al. | [2502.15545v1](http://arxiv.org/abs/2502.15545v1) | **NULL** |
+| **2025/02/21** | Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors | Milad Sefidgaran et al. | [2502.15540v1](http://arxiv.org/abs/2502.15540v1) | **NULL** |
+| **2025/02/21** | Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection | Yue Sun et al. | [2502.15516v1](http://arxiv.org/abs/2502.15516v1) | **NULL** |
+| **2025/02/21** | AttentionEngine: A Versatile Framework for Efficient Attention Mechanisms on Diverse Hardware Platforms | Feiyang Chen et al. | [2502.15349v1](http://arxiv.org/abs/2502.15349v1) | **NULL** |
+| **2025/02/21** | Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference | Yaohua Tang et al. | [2502.15294v1](http://arxiv.org/abs/2502.15294v1) | **NULL** |
+| **2025/02/21** | Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients | Artur Agaronyan et al. | [2502.15198v1](http://arxiv.org/abs/2502.15198v1) | **NULL** |
+| **2025/02/20** | GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data | Rui Deng et al. | [2502.15032v1](http://arxiv.org/abs/2502.15032v1) | **NULL** |
 | **2025/02/20** | Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis | Kevin Warren et al. | [2502.14726v1](http://arxiv.org/abs/2502.14726v1) | **NULL** |
 | **2025/02/20** | Exploring RWKV for Sentence Embeddings: Layer-wise Analysis and Baseline Comparison for Semantic Similarity | Xinghan Pan | [2502.14620v1](http://arxiv.org/abs/2502.14620v1) | [**link**](https://github.com/PStarH/RWKV-embedding) |
 | **2025/02/20** | ParallelComp: Parallel Long-Context Compressor for Length Extrapolation | Jing Xiong et al. | [2502.14317v1](http://arxiv.org/abs/2502.14317v1) | **NULL** |
 | **2025/02/20** | Adaptive Convolution for CNN-based Speech Enhancement Models | Dahan Wang et al. | [2502.14224v1](http://arxiv.org/abs/2502.14224v1) | **NULL** |
-| **2025/02/20** | H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging | Zhen Huang et al. | [2502.14221v1](http://arxiv.org/abs/2502.14221v1) | **NULL** |
-| **2025/02/20** | Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring | Hu Gao et al. | [2502.14209v1](http://arxiv.org/abs/2502.14209v1) | **NULL** |
-| **2025/02/19** | Modular Prompt Learning Improves Vision-Language Models | Zhenhan Huang et al. | [2502.14125v1](http://arxiv.org/abs/2502.14125v1) | **NULL** |
+| **2025/02/20** | H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging | Zhen Huang et al. | [2502.14221v1](http://arxiv.org/abs/2502.14221v1) | [**link**](https://github.com/ECNUACRush/H3DE-Net) |
+| **2025/02/20** | Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring | Hu Gao et al. | [2502.14209v1](http://arxiv.org/abs/2502.14209v1) | [**link**](https://github.com/tombs98/sfafnet) |
+| **2025/02/19** | Modular Prompt Learning Improves Vision-Language Models | Zhenhan Huang et al. | [2502.14125v1](http://arxiv.org/abs/2502.14125v1) | [**link**](https://github.com/Zhenhan-Huang/Modular-Prompt-Learning) |
 | **2025/02/19** | Learning Novel Transformer Architecture for Time-series Forecasting | Juyuan Zhang et al. | [2502.13721v1](http://arxiv.org/abs/2502.13721v1) | **NULL** |
 | **2025/02/19** | Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation | Prasun Roy et al. | [2502.13637v1](http://arxiv.org/abs/2502.13637v1) | [**link**](https://github.com/prasunroy/mcma) |
 | **2025/02/19** | Generative Detail Enhancement for Physically Based Materials | Saeed Hadadan et al. | [2502.13994v1](http://arxiv.org/abs/2502.13994v1) | **NULL** |
@@ -76,18 +83,12 @@ layout: default
 | **2025/02/17** | Linear Diffusion Networks: Harnessing Diffusion Processes for Global Interactions | Jacob Fein-Ashley | [2502.12381v2](http://arxiv.org/abs/2502.12381v2) | **NULL** |
 | **2025/02/17** | Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs | Batu El et al. | [2502.12352v1](http://arxiv.org/abs/2502.12352v1) | **NULL** |
 | **2025/02/17** | SmokeNet: Efficient Smoke Segmentation Leveraging Multiscale Convolutions and Multiview Attention Mechanisms | Xuesong Liu et al. | [2502.12258v1](http://arxiv.org/abs/2502.12258v1) | **NULL** |
-| **2025/02/17** | APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs | Yuxiang Huang et al. | [2502.12085v1](http://arxiv.org/abs/2502.12085v1) | [**link**](https://github.com/thunlp/apb) |
-| **2025/02/17** | The geometry of BERT | Matteo Bonino et al. | [2502.12033v1](http://arxiv.org/abs/2502.12033v1) | **NULL** |
-| **2025/02/17** | IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations | Andrea Apicella et al. | [2502.12222v1](http://arxiv.org/abs/2502.12222v1) | **NULL** |
-| **2025/02/17** | Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs | Kan Zhu et al. | [2502.12216v1](http://arxiv.org/abs/2502.12216v1) | **NULL** |
-| **2025/02/17** | Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation | Zexi Jia et al. | [2502.11532v1](http://arxiv.org/abs/2502.11532v1) | **NULL** |
-| **2025/02/17** | If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation? | Ryo Yoshida et al. | [2502.11469v1](http://arxiv.org/abs/2502.11469v1) | **NULL** |
-| **2025/02/17** | Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement | Guanghao Li et al. | [2502.12214v1](http://arxiv.org/abs/2502.12214v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/21** | Equivariant localization in supergravity in odd dimensions | Edoardo Colombo et al. | [2502.15624v1](http://arxiv.org/abs/2502.15624v1) | **NULL** |
 | **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v2](http://arxiv.org/abs/2501.08214v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2023/12/14** | Solar flare catalog from 3 years of Chandrayaan-2 XSM observations | Aravind Bharathi Valluvan et al. | [2312.09191v2](http://arxiv.org/abs/2312.09191v2) | [**link**](https://github.com/devansh-dvj/suryadrishti) |
 | **2023/12/11** | Efficiency of solar microflares in accelerating electrons when rooted in a sunspot | Jonas Saqri et al. | [2312.06856v2](http://arxiv.org/abs/2312.06856v2) | **NULL** |
 | **2023/12/11** | Non-negative matrix factorization approach to sky subtraction for optical spectroscopy | Fedor Kolganov et al. | [2312.06761v1](http://arxiv.org/abs/2312.06761v1) | **NULL** |
-| **2023/12/04** | Cable Slack Detection for Arresting Gear Application using Machine Vision | Ari Goodman et al. | [2312.02320v1](http://arxiv.org/abs/2312.02320v1) | **NULL** |
