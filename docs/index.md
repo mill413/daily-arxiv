@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/26 09:01:34
+> Updated on 2025/02/27 09:01:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/25** | The FFT Strikes Back: An Efficient Alternative to Self-Attention | Jacob Fein-Ashley | [2502.18394v1](http://arxiv.org/abs/2502.18394v1) | **NULL** |
+| **2025/02/25** | How Vital is the Jurisprudential Relevance: Law Article Intervened Legal Case Retrieval and Matching | Nuo Xu et al. | [2502.18292v1](http://arxiv.org/abs/2502.18292v1) | **NULL** |
+| **2025/02/25** | Neural Network Graph Similarity Computation Based on Graph Fusion | Zenghui Chang et al. | [2502.18291v1](http://arxiv.org/abs/2502.18291v1) | **NULL** |
+| **2025/02/25** | Self-Adjust Softmax | Chuanyang Zheng et al. | [2502.18277v1](http://arxiv.org/abs/2502.18277v1) | **NULL** |
+| **2025/02/25** | FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations | Shengtian Mian et al. | [2502.18094v1](http://arxiv.org/abs/2502.18094v1) | **NULL** |
+| **2025/02/25** | Improved YOLOv7x-Based Defect Detection Algorithm for Power Equipment | Jin Hou et al. | [2502.17961v1](http://arxiv.org/abs/2502.17961v1) | **NULL** |
+| **2025/02/25** | InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer | Bo Zhang et al. | [2502.17949v1](http://arxiv.org/abs/2502.17949v1) | **NULL** |
+| **2025/02/25** | Dual Classification Head Self-training Network for Cross-scene Hyperspectral Image Classification | Rong Liu et al. | [2502.17879v1](http://arxiv.org/abs/2502.17879v1) | **NULL** |
+| **2025/02/25** | Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads | Istiaq Ahmed Fahad et al. | [2502.17843v1](http://arxiv.org/abs/2502.17843v1) | **NULL** |
+| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Chenga et al. | [2502.17648v1](http://arxiv.org/abs/2502.17648v1) | **NULL** |
 | **2025/02/24** | AnyTop: Character Animation Diffusion with Any Topology | Inbar Gat et al. | [2502.17327v1](http://arxiv.org/abs/2502.17327v1) | **NULL** |
 | **2025/02/24** | VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing | Xiangpeng Yang et al. | [2502.17258v1](http://arxiv.org/abs/2502.17258v1) | **NULL** |
 | **2025/02/24** | Disentangling Visual Transformers: Patch-level Interpretability for Image Classification | Guillaume Jeanneret et al. | [2502.17196v1](http://arxiv.org/abs/2502.17196v1) | **NULL** |
@@ -63,6 +73,7 @@ layout: default
 | **2025/02/24** | Mitigating Hallucinations in Diffusion Models through Adaptive Attention Modulation | Trevine Oorloff et al. | [2502.16872v1](http://arxiv.org/abs/2502.16872v1) | **NULL** |
 | **2025/02/24** | LongAttn: Selecting Long-context Training Data via Token-level Attention | Longyun Wu et al. | [2502.16860v1](http://arxiv.org/abs/2502.16860v1) | **NULL** |
 | **2025/02/24** | Detecting Code Vulnerabilities with Heterogeneous GNN Training | Yu Luo et al. | [2502.16835v1](http://arxiv.org/abs/2502.16835v1) | **NULL** |
+| **2025/02/23** | Liver Cirrhosis Stage Estimation from MRI with Deep Learning | Jun Zeng et al. | [2502.18225v1](http://arxiv.org/abs/2502.18225v1) | **NULL** |
 | **2025/02/23** | FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image | Yehong Huang et al. | [2502.16709v1](http://arxiv.org/abs/2502.16709v1) | **NULL** |
 | **2025/02/23** | Transformer-based Approach for Accurate Asteroid Spectra taxonomy and albedo estimation | Yijun Tang et al. | [2502.16458v1](http://arxiv.org/abs/2502.16458v1) | **NULL** |
 | **2025/02/22** | Demand Forecasting for Electric Vehicle Charging Stations using Multivariate Time-Series Analysis | Saba Sanami et al. | [2502.16365v1](http://arxiv.org/abs/2502.16365v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/02/21** | Connecting the geometry and dynamics of many-body complex systems with message passing neural operators | Nicholas A. Gabriel et al. | [2502.15913v1](http://arxiv.org/abs/2502.15913v1) | **NULL** |
 | **2025/02/21** | Graph Attention Convolutional U-NET: A Semantic Segmentation Model for Identifying Flooded Areas | Muhammad Umair Danish et al. | [2502.15907v1](http://arxiv.org/abs/2502.15907v1) | **NULL** |
 | **2025/02/21** | Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach | Sai Krishna Reddy Mareddy et al. | [2502.15545v1](http://arxiv.org/abs/2502.15545v1) | **NULL** |
-| **2025/02/21** | Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors | Milad Sefidgaran et al. | [2502.15540v1](http://arxiv.org/abs/2502.15540v1) | **NULL** |
-| **2025/02/21** | Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection | Yue Sun et al. | [2502.15516v1](http://arxiv.org/abs/2502.15516v1) | **NULL** |
-| **2025/02/21** | AttentionEngine: A Versatile Framework for Efficient Attention Mechanisms on Diverse Hardware Platforms | Feiyang Chen et al. | [2502.15349v1](http://arxiv.org/abs/2502.15349v1) | [**link**](https://github.com/microsoft/attentionengine) |
-| **2025/02/21** | Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference | Yaohua Tang et al. | [2502.15294v2](http://arxiv.org/abs/2502.15294v2) | **NULL** |
-| **2025/02/21** | Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients | Artur Agaronyan et al. | [2502.15198v1](http://arxiv.org/abs/2502.15198v1) | **NULL** |
-| **2025/02/20** | GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data | Rui Deng et al. | [2502.15032v1](http://arxiv.org/abs/2502.15032v1) | **NULL** |
-| **2025/02/20** | Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis | Kevin Warren et al. | [2502.14726v1](http://arxiv.org/abs/2502.14726v1) | **NULL** |
-| **2025/02/20** | Exploring RWKV for Sentence Embeddings: Layer-wise Analysis and Baseline Comparison for Semantic Similarity | Xinghan Pan | [2502.14620v1](http://arxiv.org/abs/2502.14620v1) | [**link**](https://github.com/PStarH/RWKV-embedding) |
-| **2025/02/20** | ParallelComp: Parallel Long-Context Compressor for Length Extrapolation | Jing Xiong et al. | [2502.14317v1](http://arxiv.org/abs/2502.14317v1) | **NULL** |
-| **2025/02/20** | Adaptive Convolution for CNN-based Speech Enhancement Models | Dahan Wang et al. | [2502.14224v1](http://arxiv.org/abs/2502.14224v1) | [**link**](https://github.com/Dahan-Wang/Adaptive-Convolution-for-CNN-based-Speech-Enhancement-Models) |
-| **2025/02/20** | H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging | Zhen Huang et al. | [2502.14221v1](http://arxiv.org/abs/2502.14221v1) | [**link**](https://github.com/ECNUACRush/H3DE-Net) |
 
 ## 背景差分
 
