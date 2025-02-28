@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/02/27 09:01:37
+> Updated on 2025/02/28 09:02:08
 
 <summary>Table of Contents</summary>
 
@@ -53,16 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/02/25** | The FFT Strikes Back: An Efficient Alternative to Self-Attention | Jacob Fein-Ashley | [2502.18394v1](http://arxiv.org/abs/2502.18394v1) | **NULL** |
+| **2025/02/26** | Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces | Jiyuan Wang et al. | [2502.19281v1](http://arxiv.org/abs/2502.19281v1) | **NULL** |
+| **2025/02/26** | Poster: Long PHP webshell files detection based on sliding window attention | Zhiqiang Wang et al. | [2502.19257v1](http://arxiv.org/abs/2502.19257v1) | [**link**](https://github.com/w-32768/PHP-Webshell-Detection-via-Opcode-Analysis) |
+| **2025/02/26** | A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation | Anthony M. Smaldone et al. | [2502.19214v1](http://arxiv.org/abs/2502.19214v1) | **NULL** |
+| **2025/02/26** | Multi-level Attention-guided Graph Neural Network for Image Restoration | Jiatao Jiang et al. | [2502.19181v1](http://arxiv.org/abs/2502.19181v1) | **NULL** |
+| **2025/02/26** | A HEART for the environment: Transformer-Based Spatiotemporal Modeling for Air Quality Prediction | Norbert Bodendorfer | [2502.19042v1](http://arxiv.org/abs/2502.19042v1) | **NULL** |
+| **2025/02/26** | The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training | Jinbo Wang et al. | [2502.19002v1](http://arxiv.org/abs/2502.19002v1) | **NULL** |
+| **2025/02/26** | SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation | Fanglei Xue et al. | [2502.18875v1](http://arxiv.org/abs/2502.18875v1) | **NULL** |
+| **2025/02/26** | Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation | Muhammad A. Muttaqien et al. | [2502.18842v1](http://arxiv.org/abs/2502.18842v1) | **NULL** |
+| **2025/02/26** | NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders | Jun-En Ding et al. | [2502.18786v1](http://arxiv.org/abs/2502.18786v1) | **NULL** |
+| **2025/02/26** | Genotype-to-Phenotype Prediction in Rice with High-Dimensional Nonlinear Features | Zeyuan Zhou et al. | [2502.18758v1](http://arxiv.org/abs/2502.18758v1) | **NULL** |
+| **2025/02/26** | Beyond RNNs: Benchmarking Attention-Based Image Captioning Models | Hemanth Teja Yanambakkam et al. | [2502.18734v1](http://arxiv.org/abs/2502.18734v1) | **NULL** |
+| **2025/02/25** | Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision | Erick da Silva Farias et al. | [2502.18555v1](http://arxiv.org/abs/2502.18555v1) | **NULL** |
+| **2025/02/25** | The FFT Strikes Back: An Efficient Alternative to Self-Attention | Jacob Fein-Ashley | [2502.18394v2](http://arxiv.org/abs/2502.18394v2) | [**link**](https://github.com/jacobfa/fft) |
 | **2025/02/25** | How Vital is the Jurisprudential Relevance: Law Article Intervened Legal Case Retrieval and Matching | Nuo Xu et al. | [2502.18292v1](http://arxiv.org/abs/2502.18292v1) | **NULL** |
-| **2025/02/25** | Neural Network Graph Similarity Computation Based on Graph Fusion | Zenghui Chang et al. | [2502.18291v1](http://arxiv.org/abs/2502.18291v1) | **NULL** |
+| **2025/02/25** | Neural Network Graph Similarity Computation Based on Graph Fusion | Zenghui Chang et al. | [2502.18291v1](http://arxiv.org/abs/2502.18291v1) | [**link**](https://github.com/llirarry/gfm-code) |
 | **2025/02/25** | Self-Adjust Softmax | Chuanyang Zheng et al. | [2502.18277v1](http://arxiv.org/abs/2502.18277v1) | **NULL** |
-| **2025/02/25** | FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations | Shengtian Mian et al. | [2502.18094v1](http://arxiv.org/abs/2502.18094v1) | **NULL** |
+| **2025/02/25** | FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations | Shengtian Mian et al. | [2502.18094v1](http://arxiv.org/abs/2502.18094v1) | [**link**](https://github.com/qingxiaoli/fwnet-eca) |
 | **2025/02/25** | Improved YOLOv7x-Based Defect Detection Algorithm for Power Equipment | Jin Hou et al. | [2502.17961v1](http://arxiv.org/abs/2502.17961v1) | **NULL** |
 | **2025/02/25** | InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer | Bo Zhang et al. | [2502.17949v1](http://arxiv.org/abs/2502.17949v1) | **NULL** |
 | **2025/02/25** | Dual Classification Head Self-training Network for Cross-scene Hyperspectral Image Classification | Rong Liu et al. | [2502.17879v1](http://arxiv.org/abs/2502.17879v1) | **NULL** |
 | **2025/02/25** | Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads | Istiaq Ahmed Fahad et al. | [2502.17843v1](http://arxiv.org/abs/2502.17843v1) | **NULL** |
-| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Chenga et al. | [2502.17648v1](http://arxiv.org/abs/2502.17648v1) | **NULL** |
+| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Cheng et al. | [2502.17648v2](http://arxiv.org/abs/2502.17648v2) | **NULL** |
 | **2025/02/24** | AnyTop: Character Animation Diffusion with Any Topology | Inbar Gat et al. | [2502.17327v1](http://arxiv.org/abs/2502.17327v1) | **NULL** |
 | **2025/02/24** | VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing | Xiangpeng Yang et al. | [2502.17258v1](http://arxiv.org/abs/2502.17258v1) | **NULL** |
 | **2025/02/24** | Disentangling Visual Transformers: Patch-level Interpretability for Image Classification | Guillaume Jeanneret et al. | [2502.17196v1](http://arxiv.org/abs/2502.17196v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/02/24** | Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems | Maksim Zhdanov et al. | [2502.17019v1](http://arxiv.org/abs/2502.17019v1) | **NULL** |
 | **2025/02/24** | Atten-Transformer: A Deep Learning Framework for User App Usage Prediction | Longlong Li et al. | [2502.16957v1](http://arxiv.org/abs/2502.16957v1) | **NULL** |
 | **2025/02/24** | Mitigating Hallucinations in Diffusion Models through Adaptive Attention Modulation | Trevine Oorloff et al. | [2502.16872v1](http://arxiv.org/abs/2502.16872v1) | **NULL** |
-| **2025/02/24** | LongAttn: Selecting Long-context Training Data via Token-level Attention | Longyun Wu et al. | [2502.16860v1](http://arxiv.org/abs/2502.16860v1) | **NULL** |
-| **2025/02/24** | Detecting Code Vulnerabilities with Heterogeneous GNN Training | Yu Luo et al. | [2502.16835v1](http://arxiv.org/abs/2502.16835v1) | **NULL** |
-| **2025/02/23** | Liver Cirrhosis Stage Estimation from MRI with Deep Learning | Jun Zeng et al. | [2502.18225v1](http://arxiv.org/abs/2502.18225v1) | **NULL** |
-| **2025/02/23** | FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image | Yehong Huang et al. | [2502.16709v1](http://arxiv.org/abs/2502.16709v1) | **NULL** |
-| **2025/02/23** | Transformer-based Approach for Accurate Asteroid Spectra taxonomy and albedo estimation | Yijun Tang et al. | [2502.16458v1](http://arxiv.org/abs/2502.16458v1) | **NULL** |
-| **2025/02/22** | Demand Forecasting for Electric Vehicle Charging Stations using Multivariate Time-Series Analysis | Saba Sanami et al. | [2502.16365v1](http://arxiv.org/abs/2502.16365v1) | **NULL** |
-| **2025/02/22** | FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths | Xuqi Mao et al. | [2502.16281v1](http://arxiv.org/abs/2502.16281v1) | **NULL** |
-| **2025/02/22** | Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation | Weiming Liu et al. | [2502.16068v1](http://arxiv.org/abs/2502.16068v1) | **NULL** |
-| **2025/02/22** | Single Domain Generalization with Model-aware Parametric Batch-wise Mixup | Marzi Heidari et al. | [2502.16064v1](http://arxiv.org/abs/2502.16064v1) | **NULL** |
-| **2025/02/21** | Connecting the geometry and dynamics of many-body complex systems with message passing neural operators | Nicholas A. Gabriel et al. | [2502.15913v1](http://arxiv.org/abs/2502.15913v1) | **NULL** |
-| **2025/02/21** | Graph Attention Convolutional U-NET: A Semantic Segmentation Model for Identifying Flooded Areas | Muhammad Umair Danish et al. | [2502.15907v1](http://arxiv.org/abs/2502.15907v1) | **NULL** |
-| **2025/02/21** | Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach | Sai Krishna Reddy Mareddy et al. | [2502.15545v1](http://arxiv.org/abs/2502.15545v1) | **NULL** |
 
 ## 背景差分
 
@@ -96,7 +96,7 @@ layout: default
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
-| **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v1](http://arxiv.org/abs/2410.17334v1) | **NULL** |
+| **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v2](http://arxiv.org/abs/2410.17334v2) | **NULL** |
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
