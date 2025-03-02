@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/01 09:06:14
+> Updated on 2025/03/02 09:05:49
 
 <summary>Table of Contents</summary>
 
@@ -72,7 +72,7 @@ layout: default
 | **2025/02/26** | Beyond RNNs: Benchmarking Attention-Based Image Captioning Models | Hemanth Teja Yanambakkam et al. | [2502.18734v1](http://arxiv.org/abs/2502.18734v1) | **NULL** |
 | **2025/02/25** | Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision | Erick da Silva Farias et al. | [2502.18555v1](http://arxiv.org/abs/2502.18555v1) | **NULL** |
 | **2025/02/25** | The FFT Strikes Back: An Efficient Alternative to Self-Attention | Jacob Fein-Ashley | [2502.18394v2](http://arxiv.org/abs/2502.18394v2) | [**link**](https://github.com/jacobfa/fft) |
-| **2025/02/25** | How Vital is the Jurisprudential Relevance: Law Article Intervened Legal Case Retrieval and Matching | Nuo Xu et al. | [2502.18292v1](http://arxiv.org/abs/2502.18292v1) | **NULL** |
+| **2025/02/25** | How Vital is the Jurisprudential Relevance: Law Article Intervened Legal Case Retrieval and Matching | Nuo Xu et al. | [2502.18292v1](http://arxiv.org/abs/2502.18292v1) | [**link**](https://github.com/prometheusXN/LCM-LAI) |
 | **2025/02/25** | Neural Network Graph Similarity Computation Based on Graph Fusion | Zenghui Chang et al. | [2502.18291v1](http://arxiv.org/abs/2502.18291v1) | [**link**](https://github.com/llirarry/gfm-code) |
 | **2025/02/25** | Self-Adjust Softmax | Chuanyang Zheng et al. | [2502.18277v1](http://arxiv.org/abs/2502.18277v1) | **NULL** |
 | **2025/02/25** | FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations | Shengtian Mian et al. | [2502.18094v1](http://arxiv.org/abs/2502.18094v1) | [**link**](https://github.com/qingxiaoli/fwnet-eca) |
@@ -80,7 +80,7 @@ layout: default
 | **2025/02/25** | InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer | Bo Zhang et al. | [2502.17949v1](http://arxiv.org/abs/2502.17949v1) | **NULL** |
 | **2025/02/25** | Dual Classification Head Self-training Network for Cross-scene Hyperspectral Image Classification | Rong Liu et al. | [2502.17879v1](http://arxiv.org/abs/2502.17879v1) | **NULL** |
 | **2025/02/25** | Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads | Istiaq Ahmed Fahad et al. | [2502.17843v1](http://arxiv.org/abs/2502.17843v1) | **NULL** |
-| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Cheng et al. | [2502.17648v2](http://arxiv.org/abs/2502.17648v2) | **NULL** |
+| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Cheng et al. | [2502.17648v2](http://arxiv.org/abs/2502.17648v2) | [**link**](https://github.com/radar-lab/Lidar) |
 | **2025/02/24** | AnyTop: Character Animation Diffusion with Any Topology | Inbar Gat et al. | [2502.17327v1](http://arxiv.org/abs/2502.17327v1) | **NULL** |
 | **2025/02/24** | VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing | Xiangpeng Yang et al. | [2502.17258v1](http://arxiv.org/abs/2502.17258v1) | **NULL** |
 
