@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/03 09:03:41
+> Updated on 2025/03/04 09:02:30
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/02/28** | Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos | Zhiyu Tan et al. | [2502.21314v1](http://arxiv.org/abs/2502.21314v1) | **NULL** |
+| **2025/02/28** | FANformer: Improving Large Language Models Through Effective Periodicity Modeling | Yihong Dong et al. | [2502.21309v1](http://arxiv.org/abs/2502.21309v1) | **NULL** |
+| **2025/02/28** | PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts | Boxiao Yu et al. | [2502.21260v1](http://arxiv.org/abs/2502.21260v1) | **NULL** |
+| **2025/02/28** | Anatomically-guided masked autoencoder pre-training for aneurysm detection | Alberto Mario Ceballos-Arroyo et al. | [2502.21244v1](http://arxiv.org/abs/2502.21244v1) | **NULL** |
+| **2025/02/28** | Training-free and Adaptive Sparse Attention for Efficient Long Video Generation | Yifei Xia et al. | [2502.21079v1](http://arxiv.org/abs/2502.21079v1) | **NULL** |
+| **2025/02/28** | Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems | Faisal Mohammad et al. | [2502.20806v1](http://arxiv.org/abs/2502.20806v1) | **NULL** |
+| **2025/02/28** | A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation | Hui Lai et al. | [2502.20767v1](http://arxiv.org/abs/2502.20767v1) | **NULL** |
+| **2025/02/28** | FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference | Xunhao Lai et al. | [2502.20766v1](http://arxiv.org/abs/2502.20766v1) | **NULL** |
+| **2025/02/28** | Visual Attention Exploration in Vision-Based Mamba Models | Junpeng Wang et al. | [2502.20764v1](http://arxiv.org/abs/2502.20764v1) | **NULL** |
+| **2025/02/28** | Retrieval Backward Attention without Additional Training: Enhance Embeddings of Large Language Models via Repetition | Yifei Duan et al. | [2502.20726v1](http://arxiv.org/abs/2502.20726v1) | [**link**](https://github.com/cqdyf099/ReBA) |
+| **2025/02/28** | Variational Transformer Ansatz for the Density Operator of Steady States in Dissipative Quantum Many-Body Systems | Lu Wei et al. | [2502.20723v1](http://arxiv.org/abs/2502.20723v1) | **NULL** |
+| **2025/02/28** | EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar | Pengyu Zhang et al. | [2502.20643v1](http://arxiv.org/abs/2502.20643v1) | **NULL** |
+| **2025/02/28** | A Compact Model for Large-Scale Time Series Forecasting | Chin-Chia Michael Yeh et al. | [2502.20634v1](http://arxiv.org/abs/2502.20634v1) | **NULL** |
+| **2025/02/27** | An Integrated Deep Learning Framework Leveraging NASNet and Vision Transformer with MixProcessing for Accurate and Precise Diagnosis of Lung Diseases | Sajjad Saleem et al. | [2502.20570v1](http://arxiv.org/abs/2502.20570v1) | **NULL** |
 | **2025/02/27** | Scalable Graph Attention-based Instance Selection via Mini-Batch Sampling and Hierarchical Hashing | Zahiriddin Rustamov et al. | [2502.20293v1](http://arxiv.org/abs/2502.20293v1) | **NULL** |
 | **2025/02/27** | RURANET++: An Unsupervised Learning Method for Diabetic Macular Edema Based on SCSE Attention Mechanisms and Dynamic Multi-Projection Head Clustering | Wei Yang et al. | [2502.20224v1](http://arxiv.org/abs/2502.20224v1) | **NULL** |
 | **2025/02/27** | MITracker: Multi-View Integration for Visual Object Tracking | Mengjie Xu et al. | [2502.20111v1](http://arxiv.org/abs/2502.20111v1) | **NULL** |
-| **2025/02/27** | Image Referenced Sketch Colorization Based on Animation Creation Workflow | Dingkun Yan et al. | [2502.19937v1](http://arxiv.org/abs/2502.19937v1) | **NULL** |
+| **2025/02/27** | Image Referenced Sketch Colorization Based on Animation Creation Workflow | Dingkun Yan et al. | [2502.19937v1](http://arxiv.org/abs/2502.19937v1) | [**link**](https://github.com/tellurion-kanata/colorizediffusion) |
 | **2025/02/27** | LLM-driven Effective Knowledge Tracing by Integrating Dual-channel Difficulty | Jiahui Cen et al. | [2502.19915v1](http://arxiv.org/abs/2502.19915v1) | **NULL** |
 | **2025/02/27** | Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation | Yuanyuan Xu et al. | [2502.19651v1](http://arxiv.org/abs/2502.19651v1) | **NULL** |
 | **2025/02/26** | Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces | Jiyuan Wang et al. | [2502.19281v1](http://arxiv.org/abs/2502.19281v1) | **NULL** |
 | **2025/02/26** | Poster: Long PHP webshell files detection based on sliding window attention | Zhiqiang Wang et al. | [2502.19257v2](http://arxiv.org/abs/2502.19257v2) | [**link**](https://github.com/w-32768/PHP-Webshell-Detection-via-Opcode-Analysis) |
-| **2025/02/26** | A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation | Anthony M. Smaldone et al. | [2502.19214v1](http://arxiv.org/abs/2502.19214v1) | **NULL** |
+| **2025/02/26** | A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation | Anthony M. Smaldone et al. | [2502.19214v1](http://arxiv.org/abs/2502.19214v1) | [**link**](https://github.com/anthonysmaldone/quantum-transformer) |
 | **2025/02/26** | Multi-level Attention-guided Graph Neural Network for Image Restoration | Jiatao Jiang et al. | [2502.19181v1](http://arxiv.org/abs/2502.19181v1) | **NULL** |
 | **2025/02/26** | A HEART for the environment: Transformer-Based Spatiotemporal Modeling for Air Quality Prediction | Norbert Bodendorfer | [2502.19042v1](http://arxiv.org/abs/2502.19042v1) | **NULL** |
 | **2025/02/26** | The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training | Jinbo Wang et al. | [2502.19002v1](http://arxiv.org/abs/2502.19002v1) | **NULL** |
-| **2025/02/26** | SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation | Fanglei Xue et al. | [2502.18875v1](http://arxiv.org/abs/2502.18875v1) | **NULL** |
-| **2025/02/26** | Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation | Muhammad A. Muttaqien et al. | [2502.18842v1](http://arxiv.org/abs/2502.18842v1) | **NULL** |
+| **2025/02/26** | SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation | Fanglei Xue et al. | [2502.18875v1](http://arxiv.org/abs/2502.18875v1) | [**link**](https://github.com/youqingxiaozhua/deepternary) |
+| **2025/02/26** | Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation | Muhammad A. Muttaqien et al. | [2502.18842v2](http://arxiv.org/abs/2502.18842v2) | **NULL** |
 | **2025/02/26** | NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders | Jun-En Ding et al. | [2502.18786v1](http://arxiv.org/abs/2502.18786v1) | **NULL** |
 | **2025/02/26** | Genotype-to-Phenotype Prediction in Rice with High-Dimensional Nonlinear Features | Zeyuan Zhou et al. | [2502.18758v1](http://arxiv.org/abs/2502.18758v1) | **NULL** |
-| **2025/02/26** | Beyond RNNs: Benchmarking Attention-Based Image Captioning Models | Hemanth Teja Yanambakkam et al. | [2502.18734v1](http://arxiv.org/abs/2502.18734v1) | **NULL** |
-| **2025/02/25** | Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision | Erick da Silva Farias et al. | [2502.18555v1](http://arxiv.org/abs/2502.18555v1) | **NULL** |
-| **2025/02/25** | The FFT Strikes Back: An Efficient Alternative to Self-Attention | Jacob Fein-Ashley | [2502.18394v2](http://arxiv.org/abs/2502.18394v2) | [**link**](https://github.com/jacobfa/fft) |
-| **2025/02/25** | How Vital is the Jurisprudential Relevance: Law Article Intervened Legal Case Retrieval and Matching | Nuo Xu et al. | [2502.18292v1](http://arxiv.org/abs/2502.18292v1) | [**link**](https://github.com/prometheusXN/LCM-LAI) |
-| **2025/02/25** | Neural Network Graph Similarity Computation Based on Graph Fusion | Zenghui Chang et al. | [2502.18291v1](http://arxiv.org/abs/2502.18291v1) | [**link**](https://github.com/llirarry/gfm-code) |
-| **2025/02/25** | Self-Adjust Softmax | Chuanyang Zheng et al. | [2502.18277v1](http://arxiv.org/abs/2502.18277v1) | **NULL** |
-| **2025/02/25** | FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations | Shengtian Mian et al. | [2502.18094v1](http://arxiv.org/abs/2502.18094v1) | [**link**](https://github.com/qingxiaoli/fwnet-eca) |
-| **2025/02/25** | Improved YOLOv7x-Based Defect Detection Algorithm for Power Equipment | Jin Hou et al. | [2502.17961v1](http://arxiv.org/abs/2502.17961v1) | **NULL** |
-| **2025/02/25** | InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer | Bo Zhang et al. | [2502.17949v1](http://arxiv.org/abs/2502.17949v1) | **NULL** |
-| **2025/02/25** | Dual Classification Head Self-training Network for Cross-scene Hyperspectral Image Classification | Rong Liu et al. | [2502.17879v1](http://arxiv.org/abs/2502.17879v1) | **NULL** |
-| **2025/02/25** | Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads | Istiaq Ahmed Fahad et al. | [2502.17843v1](http://arxiv.org/abs/2502.17843v1) | **NULL** |
-| **2025/02/24** | CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement | Lei Cheng et al. | [2502.17648v2](http://arxiv.org/abs/2502.17648v2) | [**link**](https://github.com/radar-lab/Lidar) |
-| **2025/02/24** | AnyTop: Character Animation Diffusion with Any Topology | Inbar Gat et al. | [2502.17327v1](http://arxiv.org/abs/2502.17327v1) | **NULL** |
-| **2025/02/24** | VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing | Xiangpeng Yang et al. | [2502.17258v1](http://arxiv.org/abs/2502.17258v1) | **NULL** |
 
 ## 背景差分
 
