@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/05 09:02:41
+> Updated on 2025/03/06 09:02:40
 
 <summary>Table of Contents</summary>
 
@@ -53,41 +53,45 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/02/28** | Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos | Zhiyu Tan et al. | [2502.21314v1](http://arxiv.org/abs/2502.21314v1) | **NULL** |
-| **2025/02/28** | FANformer: Improving Large Language Models Through Effective Periodicity Modeling | Yihong Dong et al. | [2502.21309v1](http://arxiv.org/abs/2502.21309v1) | **NULL** |
-| **2025/02/28** | PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts | Boxiao Yu et al. | [2502.21260v1](http://arxiv.org/abs/2502.21260v1) | **NULL** |
-| **2025/02/28** | Anatomically-guided masked autoencoder pre-training for aneurysm detection | Alberto Mario Ceballos-Arroyo et al. | [2502.21244v1](http://arxiv.org/abs/2502.21244v1) | **NULL** |
-| **2025/02/28** | Training-free and Adaptive Sparse Attention for Efficient Long Video Generation | Yifei Xia et al. | [2502.21079v1](http://arxiv.org/abs/2502.21079v1) | **NULL** |
-| **2025/02/28** | Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems | Faisal Mohammad et al. | [2502.20806v1](http://arxiv.org/abs/2502.20806v1) | **NULL** |
-| **2025/02/28** | A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation | Hui Lai et al. | [2502.20767v1](http://arxiv.org/abs/2502.20767v1) | **NULL** |
-| **2025/02/28** | FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference | Xunhao Lai et al. | [2502.20766v1](http://arxiv.org/abs/2502.20766v1) | **NULL** |
-| **2025/02/28** | Visual Attention Exploration in Vision-Based Mamba Models | Junpeng Wang et al. | [2502.20764v1](http://arxiv.org/abs/2502.20764v1) | **NULL** |
-| **2025/02/28** | Retrieval Backward Attention without Additional Training: Enhance Embeddings of Large Language Models via Repetition | Yifei Duan et al. | [2502.20726v1](http://arxiv.org/abs/2502.20726v1) | [**link**](https://github.com/cqdyf099/ReBA) |
-| **2025/02/28** | Variational Transformer Ansatz for the Density Operator of Steady States in Dissipative Quantum Many-Body Systems | Lu Wei et al. | [2502.20723v1](http://arxiv.org/abs/2502.20723v1) | **NULL** |
-| **2025/02/28** | EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar | Pengyu Zhang et al. | [2502.20643v1](http://arxiv.org/abs/2502.20643v1) | **NULL** |
-| **2025/02/28** | A Compact Model for Large-Scale Time Series Forecasting | Chin-Chia Michael Yeh et al. | [2502.20634v1](http://arxiv.org/abs/2502.20634v1) | **NULL** |
-| **2025/02/27** | An Integrated Deep Learning Framework Leveraging NASNet and Vision Transformer with MixProcessing for Accurate and Precise Diagnosis of Lung Diseases | Sajjad Saleem et al. | [2502.20570v1](http://arxiv.org/abs/2502.20570v1) | **NULL** |
-| **2025/02/27** | Scalable Graph Attention-based Instance Selection via Mini-Batch Sampling and Hierarchical Hashing | Zahiriddin Rustamov et al. | [2502.20293v1](http://arxiv.org/abs/2502.20293v1) | **NULL** |
-| **2025/02/27** | RURANET++: An Unsupervised Learning Method for Diabetic Macular Edema Based on SCSE Attention Mechanisms and Dynamic Multi-Projection Head Clustering | Wei Yang et al. | [2502.20224v1](http://arxiv.org/abs/2502.20224v1) | **NULL** |
-| **2025/02/27** | MITracker: Multi-View Integration for Visual Object Tracking | Mengjie Xu et al. | [2502.20111v1](http://arxiv.org/abs/2502.20111v1) | **NULL** |
-| **2025/02/27** | Image Referenced Sketch Colorization Based on Animation Creation Workflow | Dingkun Yan et al. | [2502.19937v1](http://arxiv.org/abs/2502.19937v1) | [**link**](https://github.com/tellurion-kanata/colorizediffusion) |
-| **2025/02/27** | LLM-driven Effective Knowledge Tracing by Integrating Dual-channel Difficulty | Jiahui Cen et al. | [2502.19915v1](http://arxiv.org/abs/2502.19915v1) | **NULL** |
-| **2025/02/27** | Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation | Yuanyuan Xu et al. | [2502.19651v1](http://arxiv.org/abs/2502.19651v1) | **NULL** |
-| **2025/02/26** | Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces | Jiyuan Wang et al. | [2502.19281v1](http://arxiv.org/abs/2502.19281v1) | **NULL** |
-| **2025/02/26** | Poster: Long PHP webshell files detection based on sliding window attention | Zhiqiang Wang et al. | [2502.19257v2](http://arxiv.org/abs/2502.19257v2) | [**link**](https://github.com/w-32768/PHP-Webshell-Detection-via-Opcode-Analysis) |
-| **2025/02/26** | A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation | Anthony M. Smaldone et al. | [2502.19214v1](http://arxiv.org/abs/2502.19214v1) | [**link**](https://github.com/anthonysmaldone/quantum-transformer) |
-| **2025/02/26** | Multi-level Attention-guided Graph Neural Network for Image Restoration | Jiatao Jiang et al. | [2502.19181v1](http://arxiv.org/abs/2502.19181v1) | **NULL** |
-| **2025/02/26** | A HEART for the environment: Transformer-Based Spatiotemporal Modeling for Air Quality Prediction | Norbert Bodendorfer | [2502.19042v1](http://arxiv.org/abs/2502.19042v1) | **NULL** |
-| **2025/02/26** | The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training | Jinbo Wang et al. | [2502.19002v1](http://arxiv.org/abs/2502.19002v1) | **NULL** |
-| **2025/02/26** | SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation | Fanglei Xue et al. | [2502.18875v1](http://arxiv.org/abs/2502.18875v1) | [**link**](https://github.com/youqingxiaozhua/deepternary) |
-| **2025/02/26** | Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation | Muhammad A. Muttaqien et al. | [2502.18842v2](http://arxiv.org/abs/2502.18842v2) | **NULL** |
-| **2025/02/26** | NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders | Jun-En Ding et al. | [2502.18786v1](http://arxiv.org/abs/2502.18786v1) | **NULL** |
-| **2025/02/26** | Genotype-to-Phenotype Prediction in Rice with High-Dimensional Nonlinear Features | Zeyuan Zhou et al. | [2502.18758v1](http://arxiv.org/abs/2502.18758v1) | **NULL** |
+| **2025/03/04** | Boltzmann Attention Sampling for Image Analysis with Small Objects | Theodore Zhao et al. | [2503.02841v1](http://arxiv.org/abs/2503.02841v1) | **NULL** |
+| **2025/03/04** | STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks | Tianqing Zhang et al. | [2503.02689v1](http://arxiv.org/abs/2503.02689v1) | **NULL** |
+| **2025/03/04** | Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks | Paul Suganthan et al. | [2503.02656v1](http://arxiv.org/abs/2503.02656v1) | **NULL** |
+| **2025/03/04** | Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs | Wei-Yao Wang et al. | [2503.02597v1](http://arxiv.org/abs/2503.02597v1) | **NULL** |
+| **2025/03/04** | TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping | Xinying Hong et al. | [2503.02578v1](http://arxiv.org/abs/2503.02578v1) | **NULL** |
+| **2025/03/04** | Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction | Xin Song et al. | [2503.02542v1](http://arxiv.org/abs/2503.02542v1) | **NULL** |
+| **2025/03/04** | Disentangled Knowledge Tracing for Alleviating Cognitive Bias | Yiyun Zhou et al. | [2503.02539v1](http://arxiv.org/abs/2503.02539v1) | [**link**](https://github.com/zyy-2001/DisKT) |
+| **2025/03/04** | LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs | Jianghao Chen et al. | [2503.02502v1](http://arxiv.org/abs/2503.02502v1) | **NULL** |
+| **2025/03/04** | Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation | Dengke Zhang et al. | [2503.02459v1](http://arxiv.org/abs/2503.02459v1) | **NULL** |
+| **2025/03/04** | JPDS-NN: Reinforcement Learning-Based Dynamic Task Allocation for Agricultural Vehicle Routing Optimization | Yixuan Fan et al. | [2503.02369v1](http://arxiv.org/abs/2503.02369v1) | **NULL** |
+| **2025/03/04** | YOLO-PRO: Enhancing Instance-Specific Object Detection with Full-Channel Global Self-Attention | Lin Huang et al. | [2503.02348v1](http://arxiv.org/abs/2503.02348v1) | **NULL** |
+| **2025/03/04** | RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications | Vu Tung Lam et al. | [2503.02299v1](http://arxiv.org/abs/2503.02299v1) | [**link**](https://github.com/DoHaiSon/RACNN) |
+| **2025/03/04** | Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views | Yingji Zhong et al. | [2503.02230v1](http://arxiv.org/abs/2503.02230v1) | **NULL** |
+| **2025/03/04** | CrystalFramer: Rethinking the Role of Frames for SE(3)-Invariant Crystal Structure Modeling | Yusei Ito et al. | [2503.02209v1](http://arxiv.org/abs/2503.02209v1) | **NULL** |
+| **2025/03/03** | Forgetting Transformer: Softmax Attention with a Forget Gate | Zhixuan Lin et al. | [2503.02130v1](http://arxiv.org/abs/2503.02130v1) | **NULL** |
+| **2025/03/03** | Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification | Yumeng Song et al. | [2503.02047v1](http://arxiv.org/abs/2503.02047v1) | **NULL** |
+| **2025/03/03** | Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA | Zhusi Zhong et al. | [2503.02034v1](http://arxiv.org/abs/2503.02034v1) | **NULL** |
+| **2025/03/03** | Rotary Outliers and Rotary Offset Features in Large Language Models | André Jonasson | [2503.01832v1](http://arxiv.org/abs/2503.01832v1) | **NULL** |
+| **2025/03/03** | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Shiqi Chen et al. | [2503.01773v2](http://arxiv.org/abs/2503.01773v2) | [**link**](https://github.com/shiqichen17/adaptvis) |
+| **2025/03/03** | Boolean-aware Attention for Dense Retrieval | Quan Mai et al. | [2503.01753v1](http://arxiv.org/abs/2503.01753v1) | **NULL** |
+| **2025/03/03** | Effective High-order Graph Representation Learning for Credit Card Fraud Detection | Yao Zou et al. | [2503.01556v1](http://arxiv.org/abs/2503.01556v1) | **NULL** |
+| **2025/03/03** | Liger: Linearizing Large Language Models to Gated Recurrent Structures | Disen Lan et al. | [2503.01496v1](http://arxiv.org/abs/2503.01496v1) | **NULL** |
+| **2025/03/03** | Hierarchical Causal Transformer with Heterogeneous Information for Expandable Sequential Recommendation | Hao Deng et al. | [2503.01469v2](http://arxiv.org/abs/2503.01469v2) | **NULL** |
+| **2025/03/03** | Enhancing Social Media Rumor Detection: A Semantic and Graph Neural Network Approach for the 2024 Global Election | Liu Yan et al. | [2503.01394v1](http://arxiv.org/abs/2503.01394v1) | **NULL** |
+| **2025/03/03** | Streaming Piano Transcription Based on Consistent Onset and Offset Decoding with Sustain Pedal Detection | Weixing Wei et al. | [2503.01362v1](http://arxiv.org/abs/2503.01362v1) | **NULL** |
+| **2025/03/03** | Interactive Gadolinium-Free MRI Synthesis: A Transformer with Localization Prompt Learning | Linhao Li et al. | [2503.01265v1](http://arxiv.org/abs/2503.01265v1) | [**link**](https://github.com/changhuisu/tlp) |
+| **2025/03/03** | STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction | Shilin Tong et al. | [2503.01152v1](http://arxiv.org/abs/2503.01152v1) | **NULL** |
+| **2025/03/02** | Transformer Meets Twicing: Harnessing Unattended Residual Information | Laziz Abdullaev et al. | [2503.00687v1](http://arxiv.org/abs/2503.00687v1) | **NULL** |
+| **2025/03/01** | Streaming Video Question-Answering with In-context Video KV-Cache Retrieval | Shangzhe Di et al. | [2503.00540v1](http://arxiv.org/abs/2503.00540v1) | [**link**](https://github.com/becomebright/rekv) |
+| **2025/03/01** | Auto-encoding Molecules: Graph-Matching Capabilities Matter | Magnus Cunow et al. | [2503.00426v1](http://arxiv.org/abs/2503.00426v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
+| **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | [**link**](https://github.com/q-viper/contour-based-writing) |
+| **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
+| **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v1](http://arxiv.org/abs/2503.00370v1) | **NULL** |
 | **2025/02/21** | Equivariant localization in supergravity in odd dimensions | Edoardo Colombo et al. | [2502.15624v1](http://arxiv.org/abs/2502.15624v1) | **NULL** |
 | **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
@@ -114,7 +118,3 @@ layout: default
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
 | **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
 | **2024/01/05** | Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning | Geoffery Agorku et al. | [2401.03070v1](http://arxiv.org/abs/2401.03070v1) | **NULL** |
-| **2023/12/19** | The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters | Adit H. Edward et al. | [2312.12380v1](http://arxiv.org/abs/2312.12380v1) | **NULL** |
-| **2023/12/14** | Solar flare catalog from 3 years of Chandrayaan-2 XSM observations | Aravind Bharathi Valluvan et al. | [2312.09191v2](http://arxiv.org/abs/2312.09191v2) | [**link**](https://github.com/devansh-dvj/suryadrishti) |
-| **2023/12/11** | Efficiency of solar microflares in accelerating electrons when rooted in a sunspot | Jonas Saqri et al. | [2312.06856v2](http://arxiv.org/abs/2312.06856v2) | **NULL** |
-| **2023/12/11** | Non-negative matrix factorization approach to sky subtraction for optical spectroscopy | Fedor Kolganov et al. | [2312.06761v1](http://arxiv.org/abs/2312.06761v1) | **NULL** |
