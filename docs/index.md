@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/07 09:03:35
+> Updated on 2025/03/08 08:50:23
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
+| **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v1](http://arxiv.org/abs/2503.04500v1) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
 | **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
@@ -46,13 +48,20 @@ layout: default
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 | **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v2](http://arxiv.org/abs/2407.16424v2) | [**link**](https://github.com/alibaba/esod) |
 | **2024/07/02** | Similarity Distance-Based Label Assignment for Tiny Object Detection | Shuohao Shi et al. | [2407.02394v3](http://arxiv.org/abs/2407.02394v3) | [**link**](https://github.com/cszzshi/SimD) |
-| **2024/06/20** | Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines | Xinyi Ying et al. | [2406.14482v2](http://arxiv.org/abs/2406.14482v2) | [**link**](https://github.com/XinyiYing/RGBT-Tiny) |
-| **2024/06/12** | MWIRSTD: A MWIR Small Target Detection Dataset | Nikhil Kumar et al. | [2406.08063v1](http://arxiv.org/abs/2406.08063v1) | [**link**](https://github.com/avinres/mwirstd) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/06** | Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins | Jiang Li et al. | [2503.04650v1](http://arxiv.org/abs/2503.04650v1) | **NULL** |
+| **2025/03/06** | Adaptive Prototype Learning for Multimodal Cancer Survival Analysis | Hong Liu et al. | [2503.04643v1](http://arxiv.org/abs/2503.04643v1) | **NULL** |
+| **2025/03/06** | HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization | Zhijian Zhuo et al. | [2503.04598v1](http://arxiv.org/abs/2503.04598v1) | **NULL** |
+| **2025/03/06** | Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information | Edoardo Bianchi et al. | [2503.04470v1](http://arxiv.org/abs/2503.04470v1) | **NULL** |
+| **2025/03/06** | Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks | Shengjie Liu et al. | [2503.04233v1](http://arxiv.org/abs/2503.04233v1) | **NULL** |
+| **2025/03/06** | Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks | Yi Xiao et al. | [2503.04223v1](http://arxiv.org/abs/2503.04223v1) | **NULL** |
+| **2025/03/06** | Hedging with Sparse Reward Reinforcement Learning | Yiheng Ding et al. | [2503.04218v1](http://arxiv.org/abs/2503.04218v1) | **NULL** |
+| **2025/03/06** | Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation | Jie Xu et al. | [2503.04151v1](http://arxiv.org/abs/2503.04151v1) | **NULL** |
+| **2025/03/06** | MTS: A Deep Reinforcement Learning Portfolio Management Framework with Time-Awareness and Short-Selling | Fengchen Gu et al. | [2503.04143v1](http://arxiv.org/abs/2503.04143v1) | **NULL** |
 | **2025/03/05** | PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention | Lida Chen et al. | [2503.03588v1](http://arxiv.org/abs/2503.03588v1) | **NULL** |
 | **2025/03/05** | See What You Are Told: Visual Attention Sink in Large Multimodal Models | Seil Kang et al. | [2503.03321v1](http://arxiv.org/abs/2503.03321v1) | **NULL** |
 | **2025/03/05** | Lead Instrument Detection from Multitrack Music | Longshen Ou et al. | [2503.03232v1](http://arxiv.org/abs/2503.03232v1) | **NULL** |
@@ -74,22 +83,13 @@ layout: default
 | **2025/03/04** | Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views | Yingji Zhong et al. | [2503.02230v1](http://arxiv.org/abs/2503.02230v1) | **NULL** |
 | **2025/03/04** | CrystalFramer: Rethinking the Role of Frames for SE(3)-Invariant Crystal Structure Modeling | Yusei Ito et al. | [2503.02209v1](http://arxiv.org/abs/2503.02209v1) | **NULL** |
 | **2025/03/03** | Forgetting Transformer: Softmax Attention with a Forget Gate | Zhixuan Lin et al. | [2503.02130v1](http://arxiv.org/abs/2503.02130v1) | **NULL** |
-| **2025/03/03** | Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification | Yumeng Song et al. | [2503.02047v1](http://arxiv.org/abs/2503.02047v1) | **NULL** |
-| **2025/03/03** | Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA | Zhusi Zhong et al. | [2503.02034v1](http://arxiv.org/abs/2503.02034v1) | **NULL** |
-| **2025/03/03** | Rotary Outliers and Rotary Offset Features in Large Language Models | André Jonasson | [2503.01832v1](http://arxiv.org/abs/2503.01832v1) | **NULL** |
-| **2025/03/03** | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Shiqi Chen et al. | [2503.01773v2](http://arxiv.org/abs/2503.01773v2) | [**link**](https://github.com/shiqichen17/adaptvis) |
-| **2025/03/03** | Boolean-aware Attention for Dense Retrieval | Quan Mai et al. | [2503.01753v1](http://arxiv.org/abs/2503.01753v1) | **NULL** |
-| **2025/03/03** | Effective High-order Graph Representation Learning for Credit Card Fraud Detection | Yao Zou et al. | [2503.01556v1](http://arxiv.org/abs/2503.01556v1) | **NULL** |
-| **2025/03/03** | Liger: Linearizing Large Language Models to Gated Recurrent Structures | Disen Lan et al. | [2503.01496v1](http://arxiv.org/abs/2503.01496v1) | **NULL** |
-| **2025/03/03** | Hierarchical Causal Transformer with Heterogeneous Information for Expandable Sequential Recommendation | Hao Deng et al. | [2503.01469v2](http://arxiv.org/abs/2503.01469v2) | **NULL** |
-| **2025/03/03** | Enhancing Social Media Rumor Detection: A Semantic and Graph Neural Network Approach for the 2024 Global Election | Liu Yan et al. | [2503.01394v1](http://arxiv.org/abs/2503.01394v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
-| **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v1](http://arxiv.org/abs/2503.02910v1) | **NULL** |
+| **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v2](http://arxiv.org/abs/2503.02910v2) | **NULL** |
 | **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | [**link**](https://github.com/q-viper/contour-based-writing) |
 | **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
 | **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v1](http://arxiv.org/abs/2503.00370v1) | **NULL** |
