@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/10 08:54:18
+> Updated on 2025/03/11 09:03:23
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/07** | Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation | Zhenxuan Zhang et al. | [2503.05682v1](http://arxiv.org/abs/2503.05682v1) | **NULL** |
+| **2025/03/07** | MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification | Yang Mu et al. | [2503.05582v1](http://arxiv.org/abs/2503.05582v1) | **NULL** |
+| **2025/03/07** | Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation | Md Atik Ahamed et al. | [2503.05499v1](http://arxiv.org/abs/2503.05499v1) | **NULL** |
+| **2025/03/07** | Deep Frequency Attention Networks for Single Snapshot Sparse Array Interpolation | Ruxin Zheng et al. | [2503.05486v1](http://arxiv.org/abs/2503.05486v1) | **NULL** |
+| **2025/03/07** | VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method | Weiyu Ma et al. | [2503.05383v1](http://arxiv.org/abs/2503.05383v1) | **NULL** |
+| **2025/03/07** | SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting | Linqi Yang et al. | [2503.05174v1](http://arxiv.org/abs/2503.05174v1) | **NULL** |
+| **2025/03/07** | UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation | Weiguang Chen et al. | [2503.05110v1](http://arxiv.org/abs/2503.05110v1) | **NULL** |
+| **2025/03/06** | A Unified Framework with Novel Metrics for Evaluating the Effectiveness of XAI Techniques in LLMs | Melkamu Abay Mersha et al. | [2503.05050v1](http://arxiv.org/abs/2503.05050v1) | **NULL** |
 | **2025/03/06** | Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins | Jiang Li et al. | [2503.04650v1](http://arxiv.org/abs/2503.04650v1) | **NULL** |
 | **2025/03/06** | Adaptive Prototype Learning for Multimodal Cancer Survival Analysis | Hong Liu et al. | [2503.04643v1](http://arxiv.org/abs/2503.04643v1) | **NULL** |
 | **2025/03/06** | HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization | Zhijian Zhuo et al. | [2503.04598v1](http://arxiv.org/abs/2503.04598v1) | **NULL** |
 | **2025/03/06** | Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information | Edoardo Bianchi et al. | [2503.04470v1](http://arxiv.org/abs/2503.04470v1) | **NULL** |
+| **2025/03/06** | Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism | Ziyue Zhao et al. | [2503.04863v1](http://arxiv.org/abs/2503.04863v1) | **NULL** |
 | **2025/03/06** | Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks | Shengjie Liu et al. | [2503.04233v1](http://arxiv.org/abs/2503.04233v1) | **NULL** |
 | **2025/03/06** | Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks | Yi Xiao et al. | [2503.04223v1](http://arxiv.org/abs/2503.04223v1) | **NULL** |
 | **2025/03/06** | Hedging with Sparse Reward Reinforcement Learning | Yiheng Ding et al. | [2503.04218v1](http://arxiv.org/abs/2503.04218v1) | **NULL** |
@@ -66,23 +75,14 @@ layout: default
 | **2025/03/05** | See What You Are Told: Visual Attention Sink in Large Multimodal Models | Seil Kang et al. | [2503.03321v1](http://arxiv.org/abs/2503.03321v1) | **NULL** |
 | **2025/03/05** | Lead Instrument Detection from Multitrack Music | Longshen Ou et al. | [2503.03232v1](http://arxiv.org/abs/2503.03232v1) | **NULL** |
 | **2025/03/05** | Partial Convolution Meets Visual Attention | Haiduo Huang et al. | [2503.03148v1](http://arxiv.org/abs/2503.03148v1) | **NULL** |
-| **2025/03/04** | Graph Transformer with Disease Subgraph Positional Encoding for Improved Comorbidity Prediction | Xihan Qin et al. | [2503.03046v1](http://arxiv.org/abs/2503.03046v1) | **NULL** |
+| **2025/03/05** | DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction | Yuheng Kuang et al. | [2503.04823v1](http://arxiv.org/abs/2503.04823v1) | **NULL** |
+| **2025/03/04** | Graph Transformer with Disease Subgraph Positional Encoding for Improved Comorbidity Prediction | Xihan Qin et al. | [2503.03046v1](http://arxiv.org/abs/2503.03046v1) | [**link**](https://github.com/xihan-qin/tspe-graphtransformer) |
 | **2025/03/04** | Boltzmann Attention Sampling for Image Analysis with Small Objects | Theodore Zhao et al. | [2503.02841v1](http://arxiv.org/abs/2503.02841v1) | **NULL** |
 | **2025/03/04** | STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks | Tianqing Zhang et al. | [2503.02689v2](http://arxiv.org/abs/2503.02689v2) | **NULL** |
 | **2025/03/04** | Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks | Paul Suganthan et al. | [2503.02656v1](http://arxiv.org/abs/2503.02656v1) | **NULL** |
 | **2025/03/04** | Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs | Wei-Yao Wang et al. | [2503.02597v1](http://arxiv.org/abs/2503.02597v1) | **NULL** |
-| **2025/03/04** | TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping | Xinying Hong et al. | [2503.02578v1](http://arxiv.org/abs/2503.02578v1) | **NULL** |
+| **2025/03/04** | TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping | Xinying Hong et al. | [2503.02578v1](http://arxiv.org/abs/2503.02578v1) | [**link**](https://github.com/krabs-h/ts-cgnet) |
 | **2025/03/04** | Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction | Xin Song et al. | [2503.02542v1](http://arxiv.org/abs/2503.02542v1) | **NULL** |
-| **2025/03/04** | Disentangled Knowledge Tracing for Alleviating Cognitive Bias | Yiyun Zhou et al. | [2503.02539v1](http://arxiv.org/abs/2503.02539v1) | [**link**](https://github.com/zyy-2001/DisKT) |
-| **2025/03/04** | LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs | Jianghao Chen et al. | [2503.02502v1](http://arxiv.org/abs/2503.02502v1) | **NULL** |
-| **2025/03/04** | Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation | Dengke Zhang et al. | [2503.02459v1](http://arxiv.org/abs/2503.02459v1) | **NULL** |
-| **2025/03/04** | Towards Robust Multi-UAV Collaboration: MARL with Noise-Resilient Communication and Attention Mechanisms | Zilin Zhao et al. | [2503.02913v1](http://arxiv.org/abs/2503.02913v1) | **NULL** |
-| **2025/03/04** | JPDS-NN: Reinforcement Learning-Based Dynamic Task Allocation for Agricultural Vehicle Routing Optimization | Yixuan Fan et al. | [2503.02369v1](http://arxiv.org/abs/2503.02369v1) | **NULL** |
-| **2025/03/04** | YOLO-PRO: Enhancing Instance-Specific Object Detection with Full-Channel Global Self-Attention | Lin Huang et al. | [2503.02348v1](http://arxiv.org/abs/2503.02348v1) | **NULL** |
-| **2025/03/04** | RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications | Vu Tung Lam et al. | [2503.02299v1](http://arxiv.org/abs/2503.02299v1) | [**link**](https://github.com/DoHaiSon/RACNN) |
-| **2025/03/04** | Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views | Yingji Zhong et al. | [2503.02230v1](http://arxiv.org/abs/2503.02230v1) | **NULL** |
-| **2025/03/04** | CrystalFramer: Rethinking the Role of Frames for SE(3)-Invariant Crystal Structure Modeling | Yusei Ito et al. | [2503.02209v1](http://arxiv.org/abs/2503.02209v1) | **NULL** |
-| **2025/03/03** | Forgetting Transformer: Softmax Attention with a Forget Gate | Zhixuan Lin et al. | [2503.02130v1](http://arxiv.org/abs/2503.02130v1) | **NULL** |
 
 ## 背景差分
 
