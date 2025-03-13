@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/12 09:02:26
+> Updated on 2025/03/13 09:03:40
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/11** | Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion | Mehdi Hosseini Chagahi et al. | [2503.08609v1](http://arxiv.org/abs/2503.08609v1) | **NULL** |
+| **2025/03/11** | SuperCap: Multi-resolution Superpixel-based Image Captioning | Henry Senior et al. | [2503.08496v1](http://arxiv.org/abs/2503.08496v1) | **NULL** |
+| **2025/03/11** | Design and Implementation of FourCropNet: A CNN-Based System for Efficient Multi-Crop Disease Detection and Management | H. P. Khandagale et al. | [2503.08348v1](http://arxiv.org/abs/2503.08348v1) | **NULL** |
+| **2025/03/11** | A Grey-box Text Attack Framework using Explainable AI | Esther Chiramal et al. | [2503.08226v1](http://arxiv.org/abs/2503.08226v1) | **NULL** |
+| **2025/03/11** | DeepRAG: Building a Custom Hindi Embedding Model for Retrieval Augmented Generation from Scratch | Nandakishor M | [2503.08213v1](http://arxiv.org/abs/2503.08213v1) | **NULL** |
+| **2025/03/11** | HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views | Ethan Griffiths et al. | [2503.08140v1](http://arxiv.org/abs/2503.08140v1) | **NULL** |
+| **2025/03/11** | Advancing Sentiment Analysis: A Novel LSTM Framework with Multi-head Attention | Jingyuan Yi et al. | [2503.08079v1](http://arxiv.org/abs/2503.08079v1) | **NULL** |
+| **2025/03/11** | Overlap-aware meta-learning attention to enhance hypergraph neural networks for node classification | Murong Yang et al. | [2503.07961v1](http://arxiv.org/abs/2503.07961v1) | **NULL** |
+| **2025/03/10** | Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning | Satoshi Funabashi et al. | [2503.07757v1](http://arxiv.org/abs/2503.07757v1) | **NULL** |
+| **2025/03/10** | DreamRelation: Relation-Centric Video Customization | Yujie Wei et al. | [2503.07602v1](http://arxiv.org/abs/2503.07602v1) | **NULL** |
 | **2025/03/10** | Building English ASR model with regional language support | Purvi Agrawal et al. | [2503.07522v1](http://arxiv.org/abs/2503.07522v1) | **NULL** |
 | **2025/03/10** | Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data | Zhangdi Liu et al. | [2503.07424v1](http://arxiv.org/abs/2503.07424v1) | **NULL** |
 | **2025/03/10** | AttentionSwarm: Reinforcement Learning with Attention Control Barier Function for Crazyflie Drones in Dynamic Environments | Grik Tadevosyan et al. | [2503.07376v1](http://arxiv.org/abs/2503.07376v1) | **NULL** |
@@ -70,24 +80,15 @@ layout: default
 | **2025/03/09** | Enhancing Layer Attention Efficiency through Pruning Redundant Retrievals | Hanze Li et al. | [2503.06473v1](http://arxiv.org/abs/2503.06473v1) | **NULL** |
 | **2025/03/09** | Pre-Training Meta-Rule Selection Policy for Visual Generative Abductive Learning | Yu Jin et al. | [2503.06427v1](http://arxiv.org/abs/2503.06427v1) | **NULL** |
 | **2025/03/09** | Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter | Yanyu Zhu et al. | [2503.06397v1](http://arxiv.org/abs/2503.06397v1) | **NULL** |
-| **2025/03/08** | Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification | Sizhen Bian et al. | [2503.06311v1](http://arxiv.org/abs/2503.06311v1) | **NULL** |
+| **2025/03/08** | Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification | Sizhen Bian et al. | [2503.06311v1](http://arxiv.org/abs/2503.06311v1) | [**link**](https://github.com/zhaxidele/toolkit-for-hbc-sensing) |
 | **2025/03/08** | MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering | Vinay Kumar Verma et al. | [2503.06296v1](http://arxiv.org/abs/2503.06296v1) | **NULL** |
 | **2025/03/08** | Rethinking Lanes and Points in Complex Scenarios for Monocular 3D Lane Detection | Yifan Chang et al. | [2503.06237v1](http://arxiv.org/abs/2503.06237v1) | **NULL** |
-| **2025/03/08** | Attention on the Wires (AttWire): A Foundation Model for Detecting Devices and Catheters in X-ray Fluoroscopic Images | YingLiang Ma et al. | [2503.06190v1](http://arxiv.org/abs/2503.06190v1) | **NULL** |
-| **2025/03/08** | MSConv: Multiplicative and Subtractive Convolution for Face Recognition | Si Zhou et al. | [2503.06187v1](http://arxiv.org/abs/2503.06187v1) | **NULL** |
-| **2025/03/08** | Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions | Xudong Wang et al. | [2503.06149v1](http://arxiv.org/abs/2503.06149v1) | **NULL** |
-| **2025/03/08** | AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning | Hoang-Thang Ta et al. | [2503.06112v1](http://arxiv.org/abs/2503.06112v1) | **NULL** |
-| **2025/03/08** | Fine-Grained Bias Detection in LLM: Enhancing detection mechanisms for nuanced biases | Suvendu Mohanty | [2503.06054v1](http://arxiv.org/abs/2503.06054v1) | **NULL** |
-| **2025/03/08** | Interpretable High-order Knowledge Graph Neural Network for Predicting Synthetic Lethality in Human Cancers | Xuexin Chen et al. | [2503.06052v1](http://arxiv.org/abs/2503.06052v1) | **NULL** |
-| **2025/03/08** | End-to-End HOI Reconstruction Transformer with Graph-based Encoding | Zhenrong Wang et al. | [2503.06012v1](http://arxiv.org/abs/2503.06012v1) | **NULL** |
-| **2025/03/08** | ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features | Shan An et al. | [2503.05995v1](http://arxiv.org/abs/2503.05995v1) | **NULL** |
-| **2025/03/07** | MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice | Hongwei Yi et al. | [2503.05978v1](http://arxiv.org/abs/2503.05978v1) | **NULL** |
-| **2025/03/07** | Explaining the Unexplainable: A Systematic Review of Explainable AI in Finance | Md Talha Mohsin et al. | [2503.05966v1](http://arxiv.org/abs/2503.05966v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/10** | Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes | Lei Xiang et al. | [2503.07921v1](http://arxiv.org/abs/2503.07921v1) | **NULL** |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
 | **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v2](http://arxiv.org/abs/2503.02910v2) | **NULL** |
 | **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | [**link**](https://github.com/q-viper/contour-based-writing) |
@@ -117,4 +118,3 @@ layout: default
 | **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v2](http://arxiv.org/abs/2402.07976v2) | **NULL** |
 | **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
 | **2024/02/01** | MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation | Praveen Kumar Pokala et al. | [2402.00918v1](http://arxiv.org/abs/2402.00918v1) | **NULL** |
-| **2024/01/11** | Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction | Andrea Ramos et al. | [2401.05763v1](http://arxiv.org/abs/2401.05763v1) | **NULL** |
