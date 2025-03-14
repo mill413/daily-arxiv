@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/13 09:03:40
+> Updated on 2025/03/14 09:02:35
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/12** | BIMBA: Selective-Scan Compression for Long-Range Video Question Answering | Md Mohaiminul Islam et al. | [2503.09590v1](http://arxiv.org/abs/2503.09590v1) | **NULL** |
+| **2025/03/12** | Pig behavior dataset and Spatial-temporal perception and enhancement networks based on the attention mechanism for pig behavior recognition | Fangzheng Qi et al. | [2503.09378v1](http://arxiv.org/abs/2503.09378v1) | **NULL** |
+| **2025/03/12** | GIGP: A Global Information Interacting and Geometric Priors Focusing Framework for Semi-supervised Medical Image Segmentation | Lianyuan Yu et al. | [2503.09355v1](http://arxiv.org/abs/2503.09355v1) | **NULL** |
+| **2025/03/12** | UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer | Haoxuan Wang et al. | [2503.09277v1](http://arxiv.org/abs/2503.09277v1) | **NULL** |
+| **2025/03/12** | SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction | Yigang Chen et al. | [2503.09251v1](http://arxiv.org/abs/2503.09251v1) | **NULL** |
+| **2025/03/12** | Efficient UAV Swarm-Based Multi-Task Federated Learning with Dynamic Task Knowledge Sharing | Yubo Yang et al. | [2503.09144v1](http://arxiv.org/abs/2503.09144v1) | **NULL** |
+| **2025/03/11** | PromptGAR: Flexible Promptive Group Activity Recognition | Zhangyu Jin et al. | [2503.08933v1](http://arxiv.org/abs/2503.08933v1) | **NULL** |
 | **2025/03/11** | Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion | Mehdi Hosseini Chagahi et al. | [2503.08609v1](http://arxiv.org/abs/2503.08609v1) | **NULL** |
+| **2025/03/11** | QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution | Siddhant Dutta et al. | [2503.08759v1](http://arxiv.org/abs/2503.08759v1) | **NULL** |
 | **2025/03/11** | SuperCap: Multi-resolution Superpixel-based Image Captioning | Henry Senior et al. | [2503.08496v1](http://arxiv.org/abs/2503.08496v1) | **NULL** |
 | **2025/03/11** | Design and Implementation of FourCropNet: A CNN-Based System for Efficient Multi-Crop Disease Detection and Management | H. P. Khandagale et al. | [2503.08348v1](http://arxiv.org/abs/2503.08348v1) | **NULL** |
 | **2025/03/11** | A Grey-box Text Attack Framework using Explainable AI | Esther Chiramal et al. | [2503.08226v1](http://arxiv.org/abs/2503.08226v1) | **NULL** |
@@ -61,6 +69,7 @@ layout: default
 | **2025/03/11** | HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views | Ethan Griffiths et al. | [2503.08140v1](http://arxiv.org/abs/2503.08140v1) | **NULL** |
 | **2025/03/11** | Advancing Sentiment Analysis: A Novel LSTM Framework with Multi-head Attention | Jingyuan Yi et al. | [2503.08079v1](http://arxiv.org/abs/2503.08079v1) | **NULL** |
 | **2025/03/11** | Overlap-aware meta-learning attention to enhance hypergraph neural networks for node classification | Murong Yang et al. | [2503.07961v1](http://arxiv.org/abs/2503.07961v1) | **NULL** |
+| **2025/03/11** | SIMAC: A Semantic-Driven Integrated Multimodal Sensing And Communication Framework | Yubo Peng et al. | [2503.08726v1](http://arxiv.org/abs/2503.08726v1) | **NULL** |
 | **2025/03/10** | Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning | Satoshi Funabashi et al. | [2503.07757v1](http://arxiv.org/abs/2503.07757v1) | **NULL** |
 | **2025/03/10** | DreamRelation: Relation-Centric Video Customization | Yujie Wei et al. | [2503.07602v1](http://arxiv.org/abs/2503.07602v1) | **NULL** |
 | **2025/03/10** | Building English ASR model with regional language support | Purvi Agrawal et al. | [2503.07522v1](http://arxiv.org/abs/2503.07522v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/03/10** | MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation | Juntian Du et al. | [2503.07046v1](http://arxiv.org/abs/2503.07046v1) | **NULL** |
 | **2025/03/10** | EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer | Yuxuan Zhang et al. | [2503.07027v1](http://arxiv.org/abs/2503.07027v1) | **NULL** |
 | **2025/03/10** | Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification | Junyan Lin et al. | [2503.06945v1](http://arxiv.org/abs/2503.06945v1) | **NULL** |
-| **2025/03/10** | LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs | Hanyu Zhou et al. | [2503.06934v1](http://arxiv.org/abs/2503.06934v1) | **NULL** |
-| **2025/03/10** | Two-stage Deep Denoising with Self-guided Noise Attention for Multimodal Medical Images | S M A Sharif et al. | [2503.06827v1](http://arxiv.org/abs/2503.06827v1) | **NULL** |
-| **2025/03/09** | DiffCLIP: Differential Attention Meets CLIP | Hasan Abed Al Kader Hammoud et al. | [2503.06626v1](http://arxiv.org/abs/2503.06626v1) | **NULL** |
-| **2025/03/09** | Enhancing Layer Attention Efficiency through Pruning Redundant Retrievals | Hanze Li et al. | [2503.06473v1](http://arxiv.org/abs/2503.06473v1) | **NULL** |
-| **2025/03/09** | Pre-Training Meta-Rule Selection Policy for Visual Generative Abductive Learning | Yu Jin et al. | [2503.06427v1](http://arxiv.org/abs/2503.06427v1) | **NULL** |
-| **2025/03/09** | Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter | Yanyu Zhu et al. | [2503.06397v1](http://arxiv.org/abs/2503.06397v1) | **NULL** |
-| **2025/03/08** | Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification | Sizhen Bian et al. | [2503.06311v1](http://arxiv.org/abs/2503.06311v1) | [**link**](https://github.com/zhaxidele/toolkit-for-hbc-sensing) |
-| **2025/03/08** | MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering | Vinay Kumar Verma et al. | [2503.06296v1](http://arxiv.org/abs/2503.06296v1) | **NULL** |
-| **2025/03/08** | Rethinking Lanes and Points in Complex Scenarios for Monocular 3D Lane Detection | Yifan Chang et al. | [2503.06237v1](http://arxiv.org/abs/2503.06237v1) | **NULL** |
 
 ## 背景差分
 
