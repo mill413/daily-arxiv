@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/17 09:05:31
+> Updated on 2025/03/18 09:03:40
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/14** | Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information | Xuanqi Zhang et al. | [2503.11601v1](http://arxiv.org/abs/2503.11601v1) | **NULL** |
+| **2025/03/14** | Text Compression for Efficient Language Generation | David Gu et al. | [2503.11426v1](http://arxiv.org/abs/2503.11426v1) | **NULL** |
+| **2025/03/14** | MTV-Inpaint: Multi-Task Long Video Inpainting | Shiyuan Yang et al. | [2503.11412v1](http://arxiv.org/abs/2503.11412v1) | **NULL** |
+| **2025/03/14** | APLA: A Simple Adaptation Method for Vision Transformers | Moein Sorkhei et al. | [2503.11335v1](http://arxiv.org/abs/2503.11335v1) | **NULL** |
+| **2025/03/14** | Addressing Information Loss and Interaction Collapse: A Dual Enhanced Attention Framework for Feature Interaction | Yi Xu et al. | [2503.11233v1](http://arxiv.org/abs/2503.11233v1) | **NULL** |
+| **2025/03/14** | X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression | Guihong Li et al. | [2503.11132v1](http://arxiv.org/abs/2503.11132v1) | **NULL** |
+| **2025/03/14** | Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers | Yifang Chen et al. | [2503.11108v1](http://arxiv.org/abs/2503.11108v1) | **NULL** |
+| **2025/03/14** | Quantum ensemble learning with a programmable superconducting processor | Jiachen Chen et al. | [2503.11047v1](http://arxiv.org/abs/2503.11047v1) | **NULL** |
+| **2025/03/14** | Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement | Zhicheng Feng et al. | [2503.10986v1](http://arxiv.org/abs/2503.10986v1) | **NULL** |
+| **2025/03/13** | Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM | Yizhou Huang et al. | [2503.10898v1](http://arxiv.org/abs/2503.10898v1) | **NULL** |
+| **2025/03/13** | Convolutional Rectangular Attention Module | Hai-Vy Nguyen et al. | [2503.10875v1](http://arxiv.org/abs/2503.10875v1) | **NULL** |
+| **2025/03/13** | Towards Efficient Large Scale Spatial-Temporal Time Series Forecasting via Improved Inverted Transformers | Jiarui Sun et al. | [2503.10858v1](http://arxiv.org/abs/2503.10858v1) | **NULL** |
+| **2025/03/13** | HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer | Zhang Zhang et al. | [2503.10777v1](http://arxiv.org/abs/2503.10777v1) | **NULL** |
 | **2025/03/13** | LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds | Lingteng Qiu et al. | [2503.10625v1](http://arxiv.org/abs/2503.10625v1) | **NULL** |
 | **2025/03/13** | Long Context Tuning for Video Generation | Yuwei Guo et al. | [2503.10589v1](http://arxiv.org/abs/2503.10589v1) | **NULL** |
-| **2025/03/13** | Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection | Chaoqun Wang et al. | [2503.10579v1](http://arxiv.org/abs/2503.10579v1) | **NULL** |
+| **2025/03/13** | Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection | Chaoqun Wang et al. | [2503.10579v2](http://arxiv.org/abs/2503.10579v2) | **NULL** |
 | **2025/03/13** | Autoregressive Image Generation with Randomized Parallel Decoding | Haopeng Li et al. | [2503.10568v1](http://arxiv.org/abs/2503.10568v1) | **NULL** |
 | **2025/03/13** | Interactive Multimodal Fusion with Temporal Modeling | Jun Yu et al. | [2503.10523v1](http://arxiv.org/abs/2503.10523v1) | **NULL** |
 | **2025/03/13** | Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification | Rajiv Krishnakumar et al. | [2503.10510v1](http://arxiv.org/abs/2503.10510v1) | **NULL** |
+| **2025/03/13** | TAU: Modeling Temporal Consistency Through Temporal Attentive U-Net for PPG Peak Detection | Chunsheng Zuo et al. | [2503.10733v1](http://arxiv.org/abs/2503.10733v1) | **NULL** |
 | **2025/03/13** | Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution | Zhenwei Wang et al. | [2503.10421v1](http://arxiv.org/abs/2503.10421v1) | **NULL** |
+| **2025/03/13** | TacticExpert: Spatial-Temporal Graph Language Model for Basketball Tactics | Xu Lingrui et al. | [2503.10722v1](http://arxiv.org/abs/2503.10722v1) | **NULL** |
 | **2025/03/13** | Unlocking Generalization Power in LiDAR Point Cloud Registration | Zhenxuan Zeng et al. | [2503.10149v1](http://arxiv.org/abs/2503.10149v1) | [**link**](https://github.com/peakpang/ugp) |
 | **2025/03/13** | DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks | Minje Kim et al. | [2503.10052v1](http://arxiv.org/abs/2503.10052v1) | [**link**](https://github.com/mnjnkim/dta-snn) |
 | **2025/03/12** | Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models | Héctor Laria et al. | [2503.09864v1](http://arxiv.org/abs/2503.09864v1) | **NULL** |
@@ -68,21 +83,6 @@ layout: default
 | **2025/03/12** | GIGP: A Global Information Interacting and Geometric Priors Focusing Framework for Semi-supervised Medical Image Segmentation | Lianyuan Yu et al. | [2503.09355v1](http://arxiv.org/abs/2503.09355v1) | **NULL** |
 | **2025/03/12** | UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer | Haoxuan Wang et al. | [2503.09277v1](http://arxiv.org/abs/2503.09277v1) | **NULL** |
 | **2025/03/12** | SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction | Yigang Chen et al. | [2503.09251v1](http://arxiv.org/abs/2503.09251v1) | [**link**](https://github.com/yigang-chen/scope-dti) |
-| **2025/03/12** | 4D-ACFNet: A 4D Attention Mechanism-Based Prognostic Framework for Colorectal Cancer Liver Metastasis Integrating Multimodal Spatiotemporal Features | Zesheng Li et al. | [2503.09652v1](http://arxiv.org/abs/2503.09652v1) | **NULL** |
-| **2025/03/12** | Efficient UAV Swarm-Based Multi-Task Federated Learning with Dynamic Task Knowledge Sharing | Yubo Yang et al. | [2503.09144v1](http://arxiv.org/abs/2503.09144v1) | **NULL** |
-| **2025/03/11** | PromptGAR: Flexible Promptive Group Activity Recognition | Zhangyu Jin et al. | [2503.08933v1](http://arxiv.org/abs/2503.08933v1) | **NULL** |
-| **2025/03/11** | Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion | Mehdi Hosseini Chagahi et al. | [2503.08609v1](http://arxiv.org/abs/2503.08609v1) | **NULL** |
-| **2025/03/11** | QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution | Siddhant Dutta et al. | [2503.08759v1](http://arxiv.org/abs/2503.08759v1) | **NULL** |
-| **2025/03/11** | SuperCap: Multi-resolution Superpixel-based Image Captioning | Henry Senior et al. | [2503.08496v1](http://arxiv.org/abs/2503.08496v1) | **NULL** |
-| **2025/03/11** | Design and Implementation of FourCropNet: A CNN-Based System for Efficient Multi-Crop Disease Detection and Management | H. P. Khandagale et al. | [2503.08348v1](http://arxiv.org/abs/2503.08348v1) | **NULL** |
-| **2025/03/11** | A Grey-box Text Attack Framework using Explainable AI | Esther Chiramal et al. | [2503.08226v1](http://arxiv.org/abs/2503.08226v1) | **NULL** |
-| **2025/03/11** | DeepRAG: Building a Custom Hindi Embedding Model for Retrieval Augmented Generation from Scratch | Nandakishor M | [2503.08213v1](http://arxiv.org/abs/2503.08213v1) | **NULL** |
-| **2025/03/11** | HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views | Ethan Griffiths et al. | [2503.08140v1](http://arxiv.org/abs/2503.08140v1) | **NULL** |
-| **2025/03/11** | Advancing Sentiment Analysis: A Novel LSTM Framework with Multi-head Attention | Jingyuan Yi et al. | [2503.08079v1](http://arxiv.org/abs/2503.08079v1) | **NULL** |
-| **2025/03/11** | Overlap-aware meta-learning attention to enhance hypergraph neural networks for node classification | Murong Yang et al. | [2503.07961v1](http://arxiv.org/abs/2503.07961v1) | **NULL** |
-| **2025/03/11** | SIMAC: A Semantic-Driven Integrated Multimodal Sensing And Communication Framework | Yubo Peng et al. | [2503.08726v1](http://arxiv.org/abs/2503.08726v1) | **NULL** |
-| **2025/03/10** | Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning | Satoshi Funabashi et al. | [2503.07757v1](http://arxiv.org/abs/2503.07757v1) | **NULL** |
-| **2025/03/10** | DreamRelation: Relation-Centric Video Customization | Yujie Wei et al. | [2503.07602v1](http://arxiv.org/abs/2503.07602v1) | **NULL** |
 
 ## 背景差分
 
