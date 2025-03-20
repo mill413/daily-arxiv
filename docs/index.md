@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/19 09:04:17
+> Updated on 2025/03/20 09:02:55
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v1](http://arxiv.org/abs/2503.13883v1) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
@@ -47,12 +48,21 @@ layout: default
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | [**link**](https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images) |
 | **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | [**link**](https://github.com/duzw9311/cfpt) |
 | **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
-| **2024/07/23** | ESOD: Efficient Small Object Detection on High-Resolution Images | Kai Liu et al. | [2407.16424v2](http://arxiv.org/abs/2407.16424v2) | [**link**](https://github.com/alibaba/esod) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/18** | State Space Model Meets Transformer: A New Paradigm for 3D Object Detection | Chuxin Wang et al. | [2503.14493v2](http://arxiv.org/abs/2503.14493v2) | **NULL** |
+| **2025/03/18** | Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties | Ziyao Ling et al. | [2503.14231v1](http://arxiv.org/abs/2503.14231v1) | **NULL** |
+| **2025/03/18** | Concat-ID: Towards Universal Identity-Preserving Video Synthesis | Yong Zhong et al. | [2503.14151v1](http://arxiv.org/abs/2503.14151v1) | **NULL** |
+| **2025/03/18** | Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data | Yihang Zhou et al. | [2503.14150v1](http://arxiv.org/abs/2503.14150v1) | **NULL** |
+| **2025/03/18** | Intra and Inter Parser-Prompted Transformers for Effective Image Restoration | Cong Wang et al. | [2503.14037v1](http://arxiv.org/abs/2503.14037v1) | **NULL** |
+| **2025/03/18** | Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation | Huan Ren et al. | [2503.13926v2](http://arxiv.org/abs/2503.13926v2) | **NULL** |
+| **2025/03/18** | Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering | Wenjie Zhang et al. | [2503.13806v1](http://arxiv.org/abs/2503.13806v1) | **NULL** |
+| **2025/03/18** | SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis | Liangrui Pan et al. | [2503.13799v1](http://arxiv.org/abs/2503.13799v1) | **NULL** |
+| **2025/03/18** | AI-Powered Prediction of Nanoparticle Pharmacokinetics: A Multi-View Learning Approach | Amirhossein Khakpour et al. | [2503.13798v1](http://arxiv.org/abs/2503.13798v1) | **NULL** |
+| **2025/03/17** | C2D-ISR: Optimizing Attention-based Image Super-resolution from Continuous to Discrete Scales | Yuxuan Jiang et al. | [2503.13740v1](http://arxiv.org/abs/2503.13740v1) | **NULL** |
 | **2025/03/17** | Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images | Tianhao Wu et al. | [2503.13439v1](http://arxiv.org/abs/2503.13439v1) | **NULL** |
 | **2025/03/17** | Computation Mechanism Behind LLM Position Generalization | Chi Han et al. | [2503.13305v1](http://arxiv.org/abs/2503.13305v1) | **NULL** |
 | **2025/03/17** | Channel Estimation for Pinching-Antenna Systems (PASS) | Jian Xiao et al. | [2503.13268v1](http://arxiv.org/abs/2503.13268v1) | **NULL** |
@@ -67,22 +77,12 @@ layout: default
 | **2025/03/16** | Multi-Granular Multimodal Clue Fusion for Meme Understanding | Li Zheng et al. | [2503.12560v1](http://arxiv.org/abs/2503.12560v1) | **NULL** |
 | **2025/03/16** | CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences | Ziran Qin et al. | [2503.12491v1](http://arxiv.org/abs/2503.12491v1) | **NULL** |
 | **2025/03/16** | SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation | Jianhao Yang et al. | [2503.12404v1](http://arxiv.org/abs/2503.12404v1) | **NULL** |
+| **2025/03/16** | MSCMHMST: A traffic flow prediction model based on Transformer | Weiyang Geng et al. | [2503.13540v1](http://arxiv.org/abs/2503.13540v1) | **NULL** |
 | **2025/03/15** | Handling Weak Complementary Relationships for Audio-Visual Emotion Recognition | R. Gnana Praveen et al. | [2503.12261v1](http://arxiv.org/abs/2503.12261v1) | **NULL** |
 | **2025/03/15** | Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation | Enze Liu et al. | [2503.12183v1](http://arxiv.org/abs/2503.12183v1) | **NULL** |
-| **2025/03/15** | PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing | Cheng Deng et al. | [2503.12167v1](http://arxiv.org/abs/2503.12167v1) | **NULL** |
+| **2025/03/15** | PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing | Cheng Deng et al. | [2503.12167v2](http://arxiv.org/abs/2503.12167v2) | **NULL** |
 | **2025/03/15** | VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction | Zijian He et al. | [2503.12165v1](http://arxiv.org/abs/2503.12165v1) | **NULL** |
 | **2025/03/15** | SFMNet: Sparse Focal Modulation for 3D Object Detection | Oren Shrout et al. | [2503.12093v1](http://arxiv.org/abs/2503.12093v1) | **NULL** |
-| **2025/03/15** | Tailor: An Integrated Text-Driven CG-Ready Human and Garment Generation System | Zhiyao Sun et al. | [2503.12052v2](http://arxiv.org/abs/2503.12052v2) | **NULL** |
-| **2025/03/15** | Design of an Expression Recognition Solution Employing the Global Channel-Spatial Attention Mechanism | Jun Yu et al. | [2503.11935v2](http://arxiv.org/abs/2503.11935v2) | **NULL** |
-| **2025/03/14** | DCAT: Dual Cross-Attention Fusion for Disease Classification in Radiological Images with Uncertainty Estimation | Jutika Borah et al. | [2503.11851v1](http://arxiv.org/abs/2503.11851v1) | **NULL** |
-| **2025/03/14** | Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information | Xuanqi Zhang et al. | [2503.11601v1](http://arxiv.org/abs/2503.11601v1) | **NULL** |
-| **2025/03/14** | Text Compression for Efficient Language Generation | David Gu et al. | [2503.11426v1](http://arxiv.org/abs/2503.11426v1) | **NULL** |
-| **2025/03/14** | MTV-Inpaint: Multi-Task Long Video Inpainting | Shiyuan Yang et al. | [2503.11412v1](http://arxiv.org/abs/2503.11412v1) | **NULL** |
-| **2025/03/14** | APLA: A Simple Adaptation Method for Vision Transformers | Moein Sorkhei et al. | [2503.11335v1](http://arxiv.org/abs/2503.11335v1) | **NULL** |
-| **2025/03/14** | Addressing Information Loss and Interaction Collapse: A Dual Enhanced Attention Framework for Feature Interaction | Yi Xu et al. | [2503.11233v1](http://arxiv.org/abs/2503.11233v1) | **NULL** |
-| **2025/03/14** | X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression | Guihong Li et al. | [2503.11132v1](http://arxiv.org/abs/2503.11132v1) | **NULL** |
-| **2025/03/14** | Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers | Yifang Chen et al. | [2503.11108v1](http://arxiv.org/abs/2503.11108v1) | **NULL** |
-| **2025/03/14** | SPECTra: Scalable Multi-Agent Reinforcement Learning with Permutation-Free Networks | Hyunwoo Park et al. | [2503.11726v1](http://arxiv.org/abs/2503.11726v1) | **NULL** |
 
 ## 背景差分
 
