@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/20 09:02:55
+> Updated on 2025/03/21 09:04:37
 
 <summary>Table of Contents</summary>
 
@@ -26,7 +26,7 @@ layout: default
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
 | **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
 | **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
-| **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v2](http://arxiv.org/abs/2412.10116v2) | **NULL** |
+| **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v3](http://arxiv.org/abs/2412.10116v3) | **NULL** |
 | **2024/12/13** | RemDet: Rethinking Efficient Model Design for UAV Object Detection | Chen Li et al. | [2412.10040v2](http://arxiv.org/abs/2412.10040v2) | [**link**](https://github.com/hzai-zjnu/remdet) |
 | **2024/12/12** | Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach | Kailas PS et al. | [2412.10453v1](http://arxiv.org/abs/2412.10453v1) | **NULL** |
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
@@ -53,11 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/19** | Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification | ZhengLin Lai et al. | [2503.15469v2](http://arxiv.org/abs/2503.15469v2) | [**link**](https://github.com/Bearisbug/Bi-Elman) |
+| **2025/03/19** | USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network | Joseph Emmanuel DL Dayo et al. | [2503.14950v1](http://arxiv.org/abs/2503.14950v1) | **NULL** |
+| **2025/03/19** | MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance | Zihan Cao et al. | [2503.14944v1](http://arxiv.org/abs/2503.14944v1) | **NULL** |
+| **2025/03/19** | Optimal Transport Adapter Tuning for Bridging Modality Gaps in Few-Shot Remote Sensing Scene Classification | Zhong Ji et al. | [2503.14938v1](http://arxiv.org/abs/2503.14938v1) | **NULL** |
 | **2025/03/18** | State Space Model Meets Transformer: A New Paradigm for 3D Object Detection | Chuxin Wang et al. | [2503.14493v2](http://arxiv.org/abs/2503.14493v2) | **NULL** |
 | **2025/03/18** | Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties | Ziyao Ling et al. | [2503.14231v1](http://arxiv.org/abs/2503.14231v1) | **NULL** |
 | **2025/03/18** | Concat-ID: Towards Universal Identity-Preserving Video Synthesis | Yong Zhong et al. | [2503.14151v1](http://arxiv.org/abs/2503.14151v1) | **NULL** |
 | **2025/03/18** | Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data | Yihang Zhou et al. | [2503.14150v1](http://arxiv.org/abs/2503.14150v1) | **NULL** |
-| **2025/03/18** | Intra and Inter Parser-Prompted Transformers for Effective Image Restoration | Cong Wang et al. | [2503.14037v1](http://arxiv.org/abs/2503.14037v1) | **NULL** |
+| **2025/03/18** | Intra and Inter Parser-Prompted Transformers for Effective Image Restoration | Cong Wang et al. | [2503.14037v1](http://arxiv.org/abs/2503.14037v1) | [**link**](https://github.com/supersupercong/pptformer) |
 | **2025/03/18** | Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation | Huan Ren et al. | [2503.13926v2](http://arxiv.org/abs/2503.13926v2) | **NULL** |
 | **2025/03/18** | Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering | Wenjie Zhang et al. | [2503.13806v1](http://arxiv.org/abs/2503.13806v1) | **NULL** |
 | **2025/03/18** | SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis | Liangrui Pan et al. | [2503.13799v1](http://arxiv.org/abs/2503.13799v1) | **NULL** |
@@ -68,21 +72,17 @@ layout: default
 | **2025/03/17** | Channel Estimation for Pinching-Antenna Systems (PASS) | Jian Xiao et al. | [2503.13268v1](http://arxiv.org/abs/2503.13268v1) | **NULL** |
 | **2025/03/17** | Can Language Models Follow Multiple Turns of Entangled Instructions? | Chi Han | [2503.13222v1](http://arxiv.org/abs/2503.13222v1) | **NULL** |
 | **2025/03/17** | A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network | Yi Zhang et al. | [2503.13179v1](http://arxiv.org/abs/2503.13179v1) | **NULL** |
+| **2025/03/17** | Advancing Chronic Tuberculosis Diagnostics Using Vision-Language Models: A Multi modal Framework for Precision Analysis | Praveen Shastry et al. | [2503.14536v1](http://arxiv.org/abs/2503.14536v1) | **NULL** |
 | **2025/03/17** | InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving | Ruiqi Song et al. | [2503.13047v1](http://arxiv.org/abs/2503.13047v1) | **NULL** |
-| **2025/03/17** | Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait | Chaolong Yang et al. | [2503.12963v1](http://arxiv.org/abs/2503.12963v1) | **NULL** |
+| **2025/03/17** | Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait | Chaolong Yang et al. | [2503.12963v1](http://arxiv.org/abs/2503.12963v1) | [**link**](https://github.com/chaolongy/kdtalker) |
 | **2025/03/17** | Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation | Yanlin Xiang et al. | [2503.12853v1](http://arxiv.org/abs/2503.12853v1) | **NULL** |
 | **2025/03/17** | Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment | Chen Liu et al. | [2503.12847v1](http://arxiv.org/abs/2503.12847v1) | **NULL** |
 | **2025/03/17** | DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Mode | Junjia Huang et al. | [2503.12838v1](http://arxiv.org/abs/2503.12838v1) | **NULL** |
-| **2025/03/16** | MAVEN: Multi-modal Attention for Valence-Arousal Emotion Network | Vrushank Ahire et al. | [2503.12623v1](http://arxiv.org/abs/2503.12623v1) | **NULL** |
+| **2025/03/16** | MAVEN: Multi-modal Attention for Valence-Arousal Emotion Network | Vrushank Ahire et al. | [2503.12623v1](http://arxiv.org/abs/2503.12623v1) | [**link**](https://github.com/vrushank-ahire/maven_8th_abaw) |
 | **2025/03/16** | Multi-Granular Multimodal Clue Fusion for Meme Understanding | Li Zheng et al. | [2503.12560v1](http://arxiv.org/abs/2503.12560v1) | **NULL** |
 | **2025/03/16** | CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences | Ziran Qin et al. | [2503.12491v1](http://arxiv.org/abs/2503.12491v1) | **NULL** |
 | **2025/03/16** | SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation | Jianhao Yang et al. | [2503.12404v1](http://arxiv.org/abs/2503.12404v1) | **NULL** |
 | **2025/03/16** | MSCMHMST: A traffic flow prediction model based on Transformer | Weiyang Geng et al. | [2503.13540v1](http://arxiv.org/abs/2503.13540v1) | **NULL** |
-| **2025/03/15** | Handling Weak Complementary Relationships for Audio-Visual Emotion Recognition | R. Gnana Praveen et al. | [2503.12261v1](http://arxiv.org/abs/2503.12261v1) | **NULL** |
-| **2025/03/15** | Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation | Enze Liu et al. | [2503.12183v1](http://arxiv.org/abs/2503.12183v1) | **NULL** |
-| **2025/03/15** | PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing | Cheng Deng et al. | [2503.12167v2](http://arxiv.org/abs/2503.12167v2) | **NULL** |
-| **2025/03/15** | VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction | Zijian He et al. | [2503.12165v1](http://arxiv.org/abs/2503.12165v1) | **NULL** |
-| **2025/03/15** | SFMNet: Sparse Focal Modulation for 3D Object Detection | Oren Shrout et al. | [2503.12093v1](http://arxiv.org/abs/2503.12093v1) | **NULL** |
 
 ## 背景差分
 
