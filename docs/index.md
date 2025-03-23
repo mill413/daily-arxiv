@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/22 09:02:33
+> Updated on 2025/03/23 09:08:30
 
 <summary>Table of Contents</summary>
 
@@ -73,7 +73,7 @@ layout: default
 | **2025/03/18** | State Space Model Meets Transformer: A New Paradigm for 3D Object Detection | Chuxin Wang et al. | [2503.14493v2](http://arxiv.org/abs/2503.14493v2) | **NULL** |
 | **2025/03/18** | Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties | Ziyao Ling et al. | [2503.14231v1](http://arxiv.org/abs/2503.14231v1) | **NULL** |
 | **2025/03/18** | Concat-ID: Towards Universal Identity-Preserving Video Synthesis | Yong Zhong et al. | [2503.14151v1](http://arxiv.org/abs/2503.14151v1) | **NULL** |
-| **2025/03/18** | Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data | Yihang Zhou et al. | [2503.14150v1](http://arxiv.org/abs/2503.14150v1) | **NULL** |
+| **2025/03/18** | Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data | Yihang Zhou et al. | [2503.14150v1](http://arxiv.org/abs/2503.14150v1) | [**link**](https://github.com/yng314/xai_for_wildfire) |
 | **2025/03/18** | Intra and Inter Parser-Prompted Transformers for Effective Image Restoration | Cong Wang et al. | [2503.14037v1](http://arxiv.org/abs/2503.14037v1) | [**link**](https://github.com/supersupercong/pptformer) |
 | **2025/03/18** | Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation | Huan Ren et al. | [2503.13926v2](http://arxiv.org/abs/2503.13926v2) | **NULL** |
 | **2025/03/18** | Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering | Wenjie Zhang et al. | [2503.13806v1](http://arxiv.org/abs/2503.13806v1) | **NULL** |
