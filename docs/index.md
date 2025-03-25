@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/24 09:06:07
+> Updated on 2025/03/25 09:04:39
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/21** | Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer | Qingyu Shi et al. | [2503.17350v1](http://arxiv.org/abs/2503.17350v1) | **NULL** |
+| **2025/03/21** | Vision Transformer Based Semantic Communications for Next Generation Wireless Networks | Muhammad Ahmed Mohsin et al. | [2503.17275v1](http://arxiv.org/abs/2503.17275v1) | **NULL** |
+| **2025/03/21** | MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection | Xiaojin Lu et al. | [2503.17193v1](http://arxiv.org/abs/2503.17193v1) | **NULL** |
+| **2025/03/21** | PVChat: Personalized Video Chat with One-Shot Learning | Yufei Shi et al. | [2503.17069v1](http://arxiv.org/abs/2503.17069v1) | **NULL** |
+| **2025/03/21** | Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos | Yuang Feng et al. | [2503.17050v1](http://arxiv.org/abs/2503.17050v1) | **NULL** |
+| **2025/03/21** | Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models | Haichao Zhang et al. | [2503.16980v1](http://arxiv.org/abs/2503.16980v1) | **NULL** |
+| **2025/03/21** | Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition | Koki Hirooka et al. | [2503.16855v1](http://arxiv.org/abs/2503.16855v1) | **NULL** |
+| **2025/03/21** | Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking | Meng Zhou et al. | [2503.16768v1](http://arxiv.org/abs/2503.16768v1) | **NULL** |
+| **2025/03/20** | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | Hanxiao Wang et al. | [2503.16653v1](http://arxiv.org/abs/2503.16653v1) | **NULL** |
 | **2025/03/20** | DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding | Keyan Chen et al. | [2503.16426v1](http://arxiv.org/abs/2503.16426v1) | [**link**](https://github.com/KyanChen/DynamicVis) |
 | **2025/03/20** | Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation | Kristin Qi et al. | [2503.16389v1](http://arxiv.org/abs/2503.16389v1) | **NULL** |
-| **2025/03/20** | PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification | Sharon Peled et al. | [2503.16284v1](http://arxiv.org/abs/2503.16284v1) | **NULL** |
+| **2025/03/20** | PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification | Sharon Peled et al. | [2503.16284v1](http://arxiv.org/abs/2503.16284v1) | [**link**](https://github.com/sharonpeled/psa-mil) |
 | **2025/03/20** | Selective Complementary Feature Fusion and Modal Feature Compression Interaction for Brain Tumor Segmentation | Dong Chen et al. | [2503.16149v1](http://arxiv.org/abs/2503.16149v1) | **NULL** |
-| **2025/03/20** | Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures | Tim Seizinger et al. | [2503.16067v1](http://arxiv.org/abs/2503.16067v1) | **NULL** |
-| **2025/03/20** | Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution | Wanshu Fan et al. | [2503.16056v1](http://arxiv.org/abs/2503.16056v1) | **NULL** |
+| **2025/03/20** | Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures | Tim Seizinger et al. | [2503.16067v1](http://arxiv.org/abs/2503.16067v1) | [**link**](https://github.com/timseizinger/bokehlicious) |
+| **2025/03/20** | Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution | Wanshu Fan et al. | [2503.16056v1](http://arxiv.org/abs/2503.16056v1) | [**link**](https://github.com/fanamber831/sgglc-net) |
 | **2025/03/20** | Temporal-Spatial Attention Network (TSAN) for DoS Attack Detection in Network Traffic | Bisola Faith Kayode et al. | [2503.16047v2](http://arxiv.org/abs/2503.16047v2) | **NULL** |
 | **2025/03/20** | Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models | Zhihang Liu et al. | [2503.16036v1](http://arxiv.org/abs/2503.16036v1) | **NULL** |
 | **2025/03/20** | InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer | Tony Zhang et al. | [2503.15983v1](http://arxiv.org/abs/2503.15983v1) | **NULL** |
+| **2025/03/20** | Gene42: Long-Range Genomic Foundation Model With Dense Attention | Kirill Vishniakov et al. | [2503.16565v1](http://arxiv.org/abs/2503.16565v1) | **NULL** |
 | **2025/03/20** | MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations | Kyungho Bae et al. | [2503.15871v1](http://arxiv.org/abs/2503.15871v1) | **NULL** |
 | **2025/03/20** | GraPLUS: Graph-based Placement Using Semantics for Image Composition | Mir Mohammad Khaleghi et al. | [2503.15761v1](http://arxiv.org/abs/2503.15761v1) | **NULL** |
 | **2025/03/20** | ATTENTION2D: Communication Efficient Distributed Self-Attention Mechanism | Venmugil Elango | [2503.15758v1](http://arxiv.org/abs/2503.15758v1) | **NULL** |
 | **2025/03/19** | Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification | ZhengLin Lai et al. | [2503.15469v2](http://arxiv.org/abs/2503.15469v2) | [**link**](https://github.com/Bearisbug/Bi-Elman) |
 | **2025/03/19** | Sparseformer: a Transferable Transformer with Multi-granularity Token Sparsification for Medical Time Series Classification | Jiexia Ye et al. | [2503.15578v1](http://arxiv.org/abs/2503.15578v1) | **NULL** |
+| **2025/03/19** | A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions | Saddam Hussain Khan et al. | [2503.16546v1](http://arxiv.org/abs/2503.16546v1) | **NULL** |
 | **2025/03/19** | USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network | Joseph Emmanuel DL Dayo et al. | [2503.14950v1](http://arxiv.org/abs/2503.14950v1) | **NULL** |
 | **2025/03/19** | MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance | Zihan Cao et al. | [2503.14944v1](http://arxiv.org/abs/2503.14944v1) | **NULL** |
 | **2025/03/19** | Optimal Transport Adapter Tuning for Bridging Modality Gaps in Few-Shot Remote Sensing Scene Classification | Zhong Ji et al. | [2503.14938v1](http://arxiv.org/abs/2503.14938v1) | **NULL** |
 | **2025/03/18** | State Space Model Meets Transformer: A New Paradigm for 3D Object Detection | Chuxin Wang et al. | [2503.14493v2](http://arxiv.org/abs/2503.14493v2) | **NULL** |
 | **2025/03/18** | Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties | Ziyao Ling et al. | [2503.14231v1](http://arxiv.org/abs/2503.14231v1) | **NULL** |
-| **2025/03/18** | Concat-ID: Towards Universal Identity-Preserving Video Synthesis | Yong Zhong et al. | [2503.14151v1](http://arxiv.org/abs/2503.14151v1) | **NULL** |
-| **2025/03/18** | Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data | Yihang Zhou et al. | [2503.14150v1](http://arxiv.org/abs/2503.14150v1) | [**link**](https://github.com/yng314/xai_for_wildfire) |
-| **2025/03/18** | Intra and Inter Parser-Prompted Transformers for Effective Image Restoration | Cong Wang et al. | [2503.14037v1](http://arxiv.org/abs/2503.14037v1) | [**link**](https://github.com/supersupercong/pptformer) |
-| **2025/03/18** | Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation | Huan Ren et al. | [2503.13926v2](http://arxiv.org/abs/2503.13926v2) | **NULL** |
-| **2025/03/18** | Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering | Wenjie Zhang et al. | [2503.13806v1](http://arxiv.org/abs/2503.13806v1) | **NULL** |
-| **2025/03/18** | SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis | Liangrui Pan et al. | [2503.13799v1](http://arxiv.org/abs/2503.13799v1) | **NULL** |
-| **2025/03/18** | AI-Powered Prediction of Nanoparticle Pharmacokinetics: A Multi-View Learning Approach | Amirhossein Khakpour et al. | [2503.13798v1](http://arxiv.org/abs/2503.13798v1) | **NULL** |
-| **2025/03/17** | C2D-ISR: Optimizing Attention-based Image Super-resolution from Continuous to Discrete Scales | Yuxuan Jiang et al. | [2503.13740v1](http://arxiv.org/abs/2503.13740v1) | **NULL** |
-| **2025/03/17** | Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images | Tianhao Wu et al. | [2503.13439v1](http://arxiv.org/abs/2503.13439v1) | **NULL** |
-| **2025/03/17** | Computation Mechanism Behind LLM Position Generalization | Chi Han et al. | [2503.13305v1](http://arxiv.org/abs/2503.13305v1) | **NULL** |
-| **2025/03/17** | Channel Estimation for Pinching-Antenna Systems (PASS) | Jian Xiao et al. | [2503.13268v1](http://arxiv.org/abs/2503.13268v1) | **NULL** |
 
 ## 背景差分
 
