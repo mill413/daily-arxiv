@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/25 09:04:39
+> Updated on 2025/03/26 09:04:39
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
 | **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v1](http://arxiv.org/abs/2503.13883v1) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
@@ -47,12 +48,27 @@ layout: default
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | [**link**](https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images) |
 | **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | [**link**](https://github.com/duzw9311/cfpt) |
-| **2024/07/25** | XS-VID: An Extremely Small Video Object Detection Dataset | Jiahao Guo et al. | [2407.18137v1](http://arxiv.org/abs/2407.18137v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/24** | HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | Zunnan Xu et al. | [2503.18860v2](http://arxiv.org/abs/2503.18860v2) | **NULL** |
+| **2025/03/24** | Learning to segment anatomy and lesions from disparately labeled sources in brain MRI | Meva Himmetoglu et al. | [2503.18840v2](http://arxiv.org/abs/2503.18840v2) | **NULL** |
+| **2025/03/24** | Frequency Dynamic Convolution for Dense Image Prediction | Linwei Chen et al. | [2503.18783v2](http://arxiv.org/abs/2503.18783v2) | **NULL** |
+| **2025/03/24** | Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures | Abdoul Majid O. Thiombiano et al. | [2503.18565v1](http://arxiv.org/abs/2503.18565v1) | **NULL** |
+| **2025/03/23** | Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging | Abderrachid Hamrani et al. | [2503.18170v1](http://arxiv.org/abs/2503.18170v1) | **NULL** |
+| **2025/03/23** | FS-SS: Few-Shot Learning for Fast and Accurate Spike Sorting of High-channel Count Probes | Tao Fang et al. | [2503.18040v1](http://arxiv.org/abs/2503.18040v1) | **NULL** |
+| **2025/03/23** | Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization | Tianyi Shang et al. | [2503.18035v1](http://arxiv.org/abs/2503.18035v1) | **NULL** |
+| **2025/03/23** | Deep Learning Assisted Denoising of Experimental Micrographs | Owais Ahmad et al. | [2503.17945v1](http://arxiv.org/abs/2503.17945v1) | **NULL** |
+| **2025/03/23** | Cat-AIR: Content and Task-Aware All-in-One Image Restoration | Jiachen Jiang et al. | [2503.17915v1](http://arxiv.org/abs/2503.17915v1) | **NULL** |
+| **2025/03/22** | Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration | Yawei Li et al. | [2503.17825v1](http://arxiv.org/abs/2503.17825v1) | **NULL** |
+| **2025/03/22** | Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion | Lei Guo et al. | [2503.17777v1](http://arxiv.org/abs/2503.17777v1) | **NULL** |
+| **2025/03/22** | Probabilistic Net Load Forecasting for High-Penetration RES Grids Utilizing Enhanced Conditional Diffusion Model | Yixiang Huang et al. | [2503.17770v1](http://arxiv.org/abs/2503.17770v1) | **NULL** |
+| **2025/03/22** | HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving | R. D. Lin et al. | [2503.17752v1](http://arxiv.org/abs/2503.17752v1) | **NULL** |
+| **2025/03/22** | Serial Low-rank Adaptation of Vision Transformer | Houqiang Zhong et al. | [2503.17750v1](http://arxiv.org/abs/2503.17750v1) | **NULL** |
+| **2025/03/22** | CardioTabNet: A Novel Hybrid Transformer Model for Heart Disease Prediction using Tabular Medical Data | Md. Shaheenur Islam Sumon et al. | [2503.17664v1](http://arxiv.org/abs/2503.17664v1) | **NULL** |
+| **2025/03/22** | Sentinel: Multi-Patch Transformer with Temporal and Channel Attention for Time Series Forecasting | Davide Villaboni et al. | [2503.17658v1](http://arxiv.org/abs/2503.17658v1) | **NULL** |
 | **2025/03/21** | Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer | Qingyu Shi et al. | [2503.17350v1](http://arxiv.org/abs/2503.17350v1) | **NULL** |
 | **2025/03/21** | Vision Transformer Based Semantic Communications for Next Generation Wireless Networks | Muhammad Ahmed Mohsin et al. | [2503.17275v1](http://arxiv.org/abs/2503.17275v1) | **NULL** |
 | **2025/03/21** | MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection | Xiaojin Lu et al. | [2503.17193v1](http://arxiv.org/abs/2503.17193v1) | **NULL** |
@@ -61,33 +77,19 @@ layout: default
 | **2025/03/21** | Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models | Haichao Zhang et al. | [2503.16980v1](http://arxiv.org/abs/2503.16980v1) | **NULL** |
 | **2025/03/21** | Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition | Koki Hirooka et al. | [2503.16855v1](http://arxiv.org/abs/2503.16855v1) | **NULL** |
 | **2025/03/21** | Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking | Meng Zhou et al. | [2503.16768v1](http://arxiv.org/abs/2503.16768v1) | **NULL** |
-| **2025/03/20** | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | Hanxiao Wang et al. | [2503.16653v1](http://arxiv.org/abs/2503.16653v1) | **NULL** |
+| **2025/03/20** | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | Hanxiao Wang et al. | [2503.16653v2](http://arxiv.org/abs/2503.16653v2) | **NULL** |
 | **2025/03/20** | DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding | Keyan Chen et al. | [2503.16426v1](http://arxiv.org/abs/2503.16426v1) | [**link**](https://github.com/KyanChen/DynamicVis) |
 | **2025/03/20** | Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation | Kristin Qi et al. | [2503.16389v1](http://arxiv.org/abs/2503.16389v1) | **NULL** |
 | **2025/03/20** | PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification | Sharon Peled et al. | [2503.16284v1](http://arxiv.org/abs/2503.16284v1) | [**link**](https://github.com/sharonpeled/psa-mil) |
 | **2025/03/20** | Selective Complementary Feature Fusion and Modal Feature Compression Interaction for Brain Tumor Segmentation | Dong Chen et al. | [2503.16149v1](http://arxiv.org/abs/2503.16149v1) | **NULL** |
-| **2025/03/20** | Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures | Tim Seizinger et al. | [2503.16067v1](http://arxiv.org/abs/2503.16067v1) | [**link**](https://github.com/timseizinger/bokehlicious) |
-| **2025/03/20** | Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution | Wanshu Fan et al. | [2503.16056v1](http://arxiv.org/abs/2503.16056v1) | [**link**](https://github.com/fanamber831/sgglc-net) |
-| **2025/03/20** | Temporal-Spatial Attention Network (TSAN) for DoS Attack Detection in Network Traffic | Bisola Faith Kayode et al. | [2503.16047v2](http://arxiv.org/abs/2503.16047v2) | **NULL** |
-| **2025/03/20** | Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models | Zhihang Liu et al. | [2503.16036v1](http://arxiv.org/abs/2503.16036v1) | **NULL** |
-| **2025/03/20** | InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer | Tony Zhang et al. | [2503.15983v1](http://arxiv.org/abs/2503.15983v1) | **NULL** |
-| **2025/03/20** | Gene42: Long-Range Genomic Foundation Model With Dense Attention | Kirill Vishniakov et al. | [2503.16565v1](http://arxiv.org/abs/2503.16565v1) | **NULL** |
-| **2025/03/20** | MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations | Kyungho Bae et al. | [2503.15871v1](http://arxiv.org/abs/2503.15871v1) | **NULL** |
-| **2025/03/20** | GraPLUS: Graph-based Placement Using Semantics for Image Composition | Mir Mohammad Khaleghi et al. | [2503.15761v1](http://arxiv.org/abs/2503.15761v1) | **NULL** |
-| **2025/03/20** | ATTENTION2D: Communication Efficient Distributed Self-Attention Mechanism | Venmugil Elango | [2503.15758v1](http://arxiv.org/abs/2503.15758v1) | **NULL** |
-| **2025/03/19** | Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification | ZhengLin Lai et al. | [2503.15469v2](http://arxiv.org/abs/2503.15469v2) | [**link**](https://github.com/Bearisbug/Bi-Elman) |
-| **2025/03/19** | Sparseformer: a Transferable Transformer with Multi-granularity Token Sparsification for Medical Time Series Classification | Jiexia Ye et al. | [2503.15578v1](http://arxiv.org/abs/2503.15578v1) | **NULL** |
-| **2025/03/19** | A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions | Saddam Hussain Khan et al. | [2503.16546v1](http://arxiv.org/abs/2503.16546v1) | **NULL** |
-| **2025/03/19** | USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network | Joseph Emmanuel DL Dayo et al. | [2503.14950v1](http://arxiv.org/abs/2503.14950v1) | **NULL** |
-| **2025/03/19** | MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance | Zihan Cao et al. | [2503.14944v1](http://arxiv.org/abs/2503.14944v1) | **NULL** |
-| **2025/03/19** | Optimal Transport Adapter Tuning for Bridging Modality Gaps in Few-Shot Remote Sensing Scene Classification | Zhong Ji et al. | [2503.14938v1](http://arxiv.org/abs/2503.14938v1) | **NULL** |
-| **2025/03/18** | State Space Model Meets Transformer: A New Paradigm for 3D Object Detection | Chuxin Wang et al. | [2503.14493v2](http://arxiv.org/abs/2503.14493v2) | **NULL** |
-| **2025/03/18** | Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties | Ziyao Ling et al. | [2503.14231v1](http://arxiv.org/abs/2503.14231v1) | **NULL** |
+| **2025/03/20** | Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures | Tim Seizinger et al. | [2503.16067v2](http://arxiv.org/abs/2503.16067v2) | [**link**](https://github.com/timseizinger/bokehlicious) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
+| **2025/03/21** | UV LIGHTS. New tools for revealing the low surface brightness regime in the ultraviolet | Ignacio Ruiz Cejudo et al. | [2503.17446v1](http://arxiv.org/abs/2503.17446v1) | **NULL** |
 | **2025/03/14** | Black Hole Action in Einstein's other Gravity | Michal Stano | [2503.11746v1](http://arxiv.org/abs/2503.11746v1) | **NULL** |
 | **2025/03/10** | Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes | Lei Xiang et al. | [2503.07921v1](http://arxiv.org/abs/2503.07921v1) | **NULL** |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
@@ -116,5 +118,3 @@ layout: default
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
 | **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
-| **2024/02/12** | First Result for Dark Matter Search by WINERED | Wen Yin et al. | [2402.07976v2](http://arxiv.org/abs/2402.07976v2) | **NULL** |
-| **2024/02/08** | Multiplicity Based Background Subtraction for Jets in Heavy Ion Collisions | Tanner Mengel et al. | [2402.10945v1](http://arxiv.org/abs/2402.10945v1) | **NULL** |
