@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/26 09:04:39
+> Updated on 2025/03/27 09:04:11
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/25** | FullDiT: Multi-Task Video Generative Foundation Model with Full Attention | Xuan Ju et al. | [2503.19907v1](http://arxiv.org/abs/2503.19907v1) | **NULL** |
+| **2025/03/25** | Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation | Tianhao Qi et al. | [2503.19881v1](http://arxiv.org/abs/2503.19881v1) | **NULL** |
+| **2025/03/25** | Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection | Bo Leng et al. | [2503.19690v1](http://arxiv.org/abs/2503.19690v1) | **NULL** |
+| **2025/03/25** | An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators | Tseng-Jen Li et al. | [2503.19640v1](http://arxiv.org/abs/2503.19640v1) | **NULL** |
+| **2025/03/25** | Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System | Ziji Guo et al. | [2503.19594v1](http://arxiv.org/abs/2503.19594v1) | **NULL** |
+| **2025/03/25** | RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation | Sheng Wang | [2503.19510v1](http://arxiv.org/abs/2503.19510v1) | **NULL** |
+| **2025/03/25** | MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection | Jee Won Lee et al. | [2503.19330v1](http://arxiv.org/abs/2503.19330v1) | **NULL** |
+| **2025/03/25** | No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism | Yubo Li et al. | [2503.19285v1](http://arxiv.org/abs/2503.19285v1) | **NULL** |
+| **2025/03/25** | Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications | Ben Rahman | [2503.19276v1](http://arxiv.org/abs/2503.19276v1) | **NULL** |
+| **2025/03/25** | $L^2$FMamba: Lightweight Light Field Image Super-Resolution with State Space Model | Zeqiang Wei et al. | [2503.19253v1](http://arxiv.org/abs/2503.19253v1) | **NULL** |
 | **2025/03/24** | HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | Zunnan Xu et al. | [2503.18860v2](http://arxiv.org/abs/2503.18860v2) | **NULL** |
 | **2025/03/24** | Learning to segment anatomy and lesions from disparately labeled sources in brain MRI | Meva Himmetoglu et al. | [2503.18840v2](http://arxiv.org/abs/2503.18840v2) | **NULL** |
 | **2025/03/24** | Frequency Dynamic Convolution for Dense Image Prediction | Linwei Chen et al. | [2503.18783v2](http://arxiv.org/abs/2503.18783v2) | **NULL** |
+| **2025/03/24** | Quantum Complex-Valued Self-Attention Model | Fu Chen et al. | [2503.19002v1](http://arxiv.org/abs/2503.19002v1) | **NULL** |
+| **2025/03/24** | DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model | Kangwei Liu et al. | [2503.19001v1](http://arxiv.org/abs/2503.19001v1) | **NULL** |
 | **2025/03/24** | Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures | Abdoul Majid O. Thiombiano et al. | [2503.18565v1](http://arxiv.org/abs/2503.18565v1) | **NULL** |
 | **2025/03/23** | Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging | Abderrachid Hamrani et al. | [2503.18170v1](http://arxiv.org/abs/2503.18170v1) | **NULL** |
 | **2025/03/23** | FS-SS: Few-Shot Learning for Fast and Accurate Spike Sorting of High-channel Count Probes | Tao Fang et al. | [2503.18040v1](http://arxiv.org/abs/2503.18040v1) | **NULL** |
@@ -71,23 +83,12 @@ layout: default
 | **2025/03/22** | Sentinel: Multi-Patch Transformer with Temporal and Channel Attention for Time Series Forecasting | Davide Villaboni et al. | [2503.17658v1](http://arxiv.org/abs/2503.17658v1) | **NULL** |
 | **2025/03/21** | Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer | Qingyu Shi et al. | [2503.17350v1](http://arxiv.org/abs/2503.17350v1) | **NULL** |
 | **2025/03/21** | Vision Transformer Based Semantic Communications for Next Generation Wireless Networks | Muhammad Ahmed Mohsin et al. | [2503.17275v1](http://arxiv.org/abs/2503.17275v1) | **NULL** |
-| **2025/03/21** | MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection | Xiaojin Lu et al. | [2503.17193v1](http://arxiv.org/abs/2503.17193v1) | **NULL** |
-| **2025/03/21** | PVChat: Personalized Video Chat with One-Shot Learning | Yufei Shi et al. | [2503.17069v1](http://arxiv.org/abs/2503.17069v1) | **NULL** |
-| **2025/03/21** | Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos | Yuang Feng et al. | [2503.17050v1](http://arxiv.org/abs/2503.17050v1) | **NULL** |
-| **2025/03/21** | Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models | Haichao Zhang et al. | [2503.16980v1](http://arxiv.org/abs/2503.16980v1) | **NULL** |
-| **2025/03/21** | Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition | Koki Hirooka et al. | [2503.16855v1](http://arxiv.org/abs/2503.16855v1) | **NULL** |
-| **2025/03/21** | Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking | Meng Zhou et al. | [2503.16768v1](http://arxiv.org/abs/2503.16768v1) | **NULL** |
-| **2025/03/20** | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | Hanxiao Wang et al. | [2503.16653v2](http://arxiv.org/abs/2503.16653v2) | **NULL** |
-| **2025/03/20** | DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding | Keyan Chen et al. | [2503.16426v1](http://arxiv.org/abs/2503.16426v1) | [**link**](https://github.com/KyanChen/DynamicVis) |
-| **2025/03/20** | Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation | Kristin Qi et al. | [2503.16389v1](http://arxiv.org/abs/2503.16389v1) | **NULL** |
-| **2025/03/20** | PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification | Sharon Peled et al. | [2503.16284v1](http://arxiv.org/abs/2503.16284v1) | [**link**](https://github.com/sharonpeled/psa-mil) |
-| **2025/03/20** | Selective Complementary Feature Fusion and Modal Feature Compression Interaction for Brain Tumor Segmentation | Dong Chen et al. | [2503.16149v1](http://arxiv.org/abs/2503.16149v1) | **NULL** |
-| **2025/03/20** | Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures | Tim Seizinger et al. | [2503.16067v2](http://arxiv.org/abs/2503.16067v2) | [**link**](https://github.com/timseizinger/bokehlicious) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
 | **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
 | **2025/03/21** | UV LIGHTS. New tools for revealing the low surface brightness regime in the ultraviolet | Ignacio Ruiz Cejudo et al. | [2503.17446v1](http://arxiv.org/abs/2503.17446v1) | **NULL** |
 | **2025/03/14** | Black Hole Action in Einstein's other Gravity | Michal Stano | [2503.11746v1](http://arxiv.org/abs/2503.11746v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
 | **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
-| **2024/02/15** | Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis | Ketan Suhaas Saichandran | [2402.09663v1](http://arxiv.org/abs/2402.09663v1) | **NULL** |
