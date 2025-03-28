@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/27 09:04:11
+> Updated on 2025/03/28 09:04:07
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
 | **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v1](http://arxiv.org/abs/2503.13883v1) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
@@ -47,20 +48,26 @@ layout: default
 | **2024/08/16** | Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques | Vinit Hegiste et al. | [2408.08974v1](http://arxiv.org/abs/2408.08974v1) | **NULL** |
 | **2024/08/14** | Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection | Zhonglin Chen et al. | [2408.07455v1](http://arxiv.org/abs/2408.07455v1) | **NULL** |
 | **2024/08/08** | SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes | Boshra Khalili et al. | [2408.04786v1](http://arxiv.org/abs/2408.04786v1) | [**link**](https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images) |
-| **2024/07/29** | Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images | Zewen Du et al. | [2407.19696v1](http://arxiv.org/abs/2407.19696v1) | [**link**](https://github.com/duzw9311/cfpt) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
+| **2025/03/26** | Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation | Farzan Moodi et al. | [2503.20446v1](http://arxiv.org/abs/2503.20446v1) | **NULL** |
+| **2025/03/26** | Latent Beam Diffusion Models for Decoding Image Sequences | Guilherme Fernandes et al. | [2503.20429v1](http://arxiv.org/abs/2503.20429v1) | **NULL** |
+| **2025/03/26** | RSRWKV: A Linear-Complexity 2D Attention Mechanism for Efficient Remote Sensing Vision Task | Chunshan Li et al. | [2503.20382v1](http://arxiv.org/abs/2503.20382v1) | **NULL** |
+| **2025/03/26** | VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers | Ching-Yao Chen et al. | [2503.20246v1](http://arxiv.org/abs/2503.20246v1) | **NULL** |
+| **2025/03/26** | Guiding Human-Object Interactions with Rich Geometry and Relations | Mengqing Xue et al. | [2503.20172v1](http://arxiv.org/abs/2503.20172v1) | **NULL** |
+| **2025/03/26** | Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework | Zhenkai Qin et al. | [2503.20136v1](http://arxiv.org/abs/2503.20136v1) | **NULL** |
 | **2025/03/25** | FullDiT: Multi-Task Video Generative Foundation Model with Full Attention | Xuan Ju et al. | [2503.19907v1](http://arxiv.org/abs/2503.19907v1) | **NULL** |
 | **2025/03/25** | Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation | Tianhao Qi et al. | [2503.19881v1](http://arxiv.org/abs/2503.19881v1) | **NULL** |
-| **2025/03/25** | Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection | Bo Leng et al. | [2503.19690v1](http://arxiv.org/abs/2503.19690v1) | **NULL** |
+| **2025/03/25** | Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection | Bo Leng et al. | [2503.19690v2](http://arxiv.org/abs/2503.19690v2) | **NULL** |
 | **2025/03/25** | An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators | Tseng-Jen Li et al. | [2503.19640v1](http://arxiv.org/abs/2503.19640v1) | **NULL** |
 | **2025/03/25** | Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System | Ziji Guo et al. | [2503.19594v1](http://arxiv.org/abs/2503.19594v1) | **NULL** |
 | **2025/03/25** | RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation | Sheng Wang | [2503.19510v1](http://arxiv.org/abs/2503.19510v1) | **NULL** |
 | **2025/03/25** | MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection | Jee Won Lee et al. | [2503.19330v1](http://arxiv.org/abs/2503.19330v1) | **NULL** |
-| **2025/03/25** | No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism | Yubo Li et al. | [2503.19285v1](http://arxiv.org/abs/2503.19285v1) | **NULL** |
+| **2025/03/25** | No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism | Yubo Li et al. | [2503.19285v2](http://arxiv.org/abs/2503.19285v2) | **NULL** |
 | **2025/03/25** | Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications | Ben Rahman | [2503.19276v1](http://arxiv.org/abs/2503.19276v1) | **NULL** |
 | **2025/03/25** | $L^2$FMamba: Lightweight Light Field Image Super-Resolution with State Space Model | Zeqiang Wei et al. | [2503.19253v1](http://arxiv.org/abs/2503.19253v1) | **NULL** |
 | **2025/03/24** | HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | Zunnan Xu et al. | [2503.18860v2](http://arxiv.org/abs/2503.18860v2) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2025/03/23** | Cat-AIR: Content and Task-Aware All-in-One Image Restoration | Jiachen Jiang et al. | [2503.17915v1](http://arxiv.org/abs/2503.17915v1) | **NULL** |
 | **2025/03/22** | Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration | Yawei Li et al. | [2503.17825v1](http://arxiv.org/abs/2503.17825v1) | **NULL** |
 | **2025/03/22** | Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion | Lei Guo et al. | [2503.17777v1](http://arxiv.org/abs/2503.17777v1) | **NULL** |
-| **2025/03/22** | Probabilistic Net Load Forecasting for High-Penetration RES Grids Utilizing Enhanced Conditional Diffusion Model | Yixiang Huang et al. | [2503.17770v1](http://arxiv.org/abs/2503.17770v1) | **NULL** |
-| **2025/03/22** | HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving | R. D. Lin et al. | [2503.17752v1](http://arxiv.org/abs/2503.17752v1) | **NULL** |
-| **2025/03/22** | Serial Low-rank Adaptation of Vision Transformer | Houqiang Zhong et al. | [2503.17750v1](http://arxiv.org/abs/2503.17750v1) | **NULL** |
-| **2025/03/22** | CardioTabNet: A Novel Hybrid Transformer Model for Heart Disease Prediction using Tabular Medical Data | Md. Shaheenur Islam Sumon et al. | [2503.17664v1](http://arxiv.org/abs/2503.17664v1) | **NULL** |
-| **2025/03/22** | Sentinel: Multi-Patch Transformer with Temporal and Channel Attention for Time Series Forecasting | Davide Villaboni et al. | [2503.17658v1](http://arxiv.org/abs/2503.17658v1) | **NULL** |
-| **2025/03/21** | Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer | Qingyu Shi et al. | [2503.17350v1](http://arxiv.org/abs/2503.17350v1) | **NULL** |
-| **2025/03/21** | Vision Transformer Based Semantic Communications for Next Generation Wireless Networks | Muhammad Ahmed Mohsin et al. | [2503.17275v1](http://arxiv.org/abs/2503.17275v1) | **NULL** |
 
 ## 背景差分
 
