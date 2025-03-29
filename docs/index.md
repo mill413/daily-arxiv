@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/28 09:04:07
+> Updated on 2025/03/29 09:03:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/27** | OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation | Mallika Garg et al. | [2503.21723v1](http://arxiv.org/abs/2503.21723v1) | **NULL** |
+| **2025/03/27** | Molecular Quantum Transformer | Yuichi Kamata et al. | [2503.21686v1](http://arxiv.org/abs/2503.21686v1) | **NULL** |
+| **2025/03/27** | LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing | Achint Soni et al. | [2503.21541v1](http://arxiv.org/abs/2503.21541v1) | **NULL** |
+| **2025/03/27** | Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method | Wenyi Xiong et al. | [2503.21477v1](http://arxiv.org/abs/2503.21477v1) | **NULL** |
+| **2025/03/27** | vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition | Yunusa Haruna et al. | [2503.21262v1](http://arxiv.org/abs/2503.21262v1) | [**link**](https://github.com/yunusa2k2/vGamba) |
+| **2025/03/27** | OminiAdapt: Learning Cross-Task Invariance for Robust and Environment-Aware Robotic Manipulation | Yongxu Wang et al. | [2503.21257v1](http://arxiv.org/abs/2503.21257v1) | **NULL** |
+| **2025/03/27** | DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation | Haoyu Zhao et al. | [2503.21246v1](http://arxiv.org/abs/2503.21246v1) | **NULL** |
+| **2025/03/27** | DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration | Yimin Xu | [2503.21187v1](http://arxiv.org/abs/2503.21187v1) | **NULL** |
+| **2025/03/27** | Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation | Junjie Chen et al. | [2503.21140v1](http://arxiv.org/abs/2503.21140v1) | **NULL** |
 | **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/26** | Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation | Farzan Moodi et al. | [2503.20446v1](http://arxiv.org/abs/2503.20446v1) | **NULL** |
 | **2025/03/26** | Latent Beam Diffusion Models for Decoding Image Sequences | Guilherme Fernandes et al. | [2503.20429v1](http://arxiv.org/abs/2503.20429v1) | **NULL** |
@@ -72,17 +81,8 @@ layout: default
 | **2025/03/25** | $L^2$FMamba: Lightweight Light Field Image Super-Resolution with State Space Model | Zeqiang Wei et al. | [2503.19253v1](http://arxiv.org/abs/2503.19253v1) | **NULL** |
 | **2025/03/24** | HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | Zunnan Xu et al. | [2503.18860v2](http://arxiv.org/abs/2503.18860v2) | **NULL** |
 | **2025/03/24** | Learning to segment anatomy and lesions from disparately labeled sources in brain MRI | Meva Himmetoglu et al. | [2503.18840v2](http://arxiv.org/abs/2503.18840v2) | **NULL** |
-| **2025/03/24** | Frequency Dynamic Convolution for Dense Image Prediction | Linwei Chen et al. | [2503.18783v2](http://arxiv.org/abs/2503.18783v2) | **NULL** |
+| **2025/03/24** | Frequency Dynamic Convolution for Dense Image Prediction | Linwei Chen et al. | [2503.18783v2](http://arxiv.org/abs/2503.18783v2) | [**link**](https://github.com/linwei-chen/fdconv) |
 | **2025/03/24** | Quantum Complex-Valued Self-Attention Model | Fu Chen et al. | [2503.19002v1](http://arxiv.org/abs/2503.19002v1) | **NULL** |
-| **2025/03/24** | DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model | Kangwei Liu et al. | [2503.19001v1](http://arxiv.org/abs/2503.19001v1) | **NULL** |
-| **2025/03/24** | Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures | Abdoul Majid O. Thiombiano et al. | [2503.18565v1](http://arxiv.org/abs/2503.18565v1) | **NULL** |
-| **2025/03/23** | Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging | Abderrachid Hamrani et al. | [2503.18170v1](http://arxiv.org/abs/2503.18170v1) | **NULL** |
-| **2025/03/23** | FS-SS: Few-Shot Learning for Fast and Accurate Spike Sorting of High-channel Count Probes | Tao Fang et al. | [2503.18040v1](http://arxiv.org/abs/2503.18040v1) | **NULL** |
-| **2025/03/23** | Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization | Tianyi Shang et al. | [2503.18035v1](http://arxiv.org/abs/2503.18035v1) | **NULL** |
-| **2025/03/23** | Deep Learning Assisted Denoising of Experimental Micrographs | Owais Ahmad et al. | [2503.17945v1](http://arxiv.org/abs/2503.17945v1) | **NULL** |
-| **2025/03/23** | Cat-AIR: Content and Task-Aware All-in-One Image Restoration | Jiachen Jiang et al. | [2503.17915v1](http://arxiv.org/abs/2503.17915v1) | **NULL** |
-| **2025/03/22** | Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration | Yawei Li et al. | [2503.17825v1](http://arxiv.org/abs/2503.17825v1) | **NULL** |
-| **2025/03/22** | Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion | Lei Guo et al. | [2503.17777v1](http://arxiv.org/abs/2503.17777v1) | **NULL** |
 
 ## 背景差分
 
