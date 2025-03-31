@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/30 09:09:46
+> Updated on 2025/03/31 09:08:22
 
 <summary>Table of Contents</summary>
 
@@ -55,7 +55,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2025/03/27** | OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation | Mallika Garg et al. | [2503.21723v1](http://arxiv.org/abs/2503.21723v1) | **NULL** |
 | **2025/03/27** | Molecular Quantum Transformer | Yuichi Kamata et al. | [2503.21686v1](http://arxiv.org/abs/2503.21686v1) | **NULL** |
-| **2025/03/27** | LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing | Achint Soni et al. | [2503.21541v1](http://arxiv.org/abs/2503.21541v1) | [**link**](https://github.com/locatedit/locatedit) |
+| **2025/03/27** | LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing | Achint Soni et al. | [2503.21541v2](http://arxiv.org/abs/2503.21541v2) | [**link**](https://github.com/locatedit/locatedit) |
 | **2025/03/27** | Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method | Wenyi Xiong et al. | [2503.21477v1](http://arxiv.org/abs/2503.21477v1) | **NULL** |
 | **2025/03/27** | vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition | Yunusa Haruna et al. | [2503.21262v1](http://arxiv.org/abs/2503.21262v1) | [**link**](https://github.com/yunusa2k2/vGamba) |
 | **2025/03/27** | OminiAdapt: Learning Cross-Task Invariance for Robust and Environment-Aware Robotic Manipulation | Yongxu Wang et al. | [2503.21257v1](http://arxiv.org/abs/2503.21257v1) | **NULL** |
