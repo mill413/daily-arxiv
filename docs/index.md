@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/03/31 09:08:22
+> Updated on 2025/04/01 09:12:43
 
 <summary>Table of Contents</summary>
 
@@ -20,7 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
-| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v1](http://arxiv.org/abs/2503.13883v1) | **NULL** |
+| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v2](http://arxiv.org/abs/2503.13883v2) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/03/28** | DynaGraph: Interpretable Multi-Label Prediction from EHRs via Dynamic Graph Learning and Contrastive Augmentation | Munib Mesinovic et al. | [2503.22257v1](http://arxiv.org/abs/2503.22257v1) | **NULL** |
+| **2025/03/28** | Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance | Haijie Yang et al. | [2503.22225v1](http://arxiv.org/abs/2503.22225v1) | **NULL** |
+| **2025/03/28** | EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices | Jiyu Chen et al. | [2503.22196v1](http://arxiv.org/abs/2503.22196v1) | **NULL** |
+| **2025/03/28** | Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model | Changchang Sun et al. | [2503.22138v1](http://arxiv.org/abs/2503.22138v1) | **NULL** |
+| **2025/03/28** | Camera Model Identification with SPAIR-Swin and Entropy based Non-Homogeneous Patches | Protyay Dey et al. | [2503.22120v1](http://arxiv.org/abs/2503.22120v1) | **NULL** |
 | **2025/03/27** | OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation | Mallika Garg et al. | [2503.21723v1](http://arxiv.org/abs/2503.21723v1) | **NULL** |
 | **2025/03/27** | Molecular Quantum Transformer | Yuichi Kamata et al. | [2503.21686v1](http://arxiv.org/abs/2503.21686v1) | **NULL** |
 | **2025/03/27** | LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing | Achint Soni et al. | [2503.21541v2](http://arxiv.org/abs/2503.21541v2) | [**link**](https://github.com/locatedit/locatedit) |
@@ -78,11 +83,6 @@ layout: default
 | **2025/03/25** | MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection | Jee Won Lee et al. | [2503.19330v1](http://arxiv.org/abs/2503.19330v1) | **NULL** |
 | **2025/03/25** | No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism | Yubo Li et al. | [2503.19285v2](http://arxiv.org/abs/2503.19285v2) | **NULL** |
 | **2025/03/25** | Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications | Ben Rahman | [2503.19276v1](http://arxiv.org/abs/2503.19276v1) | **NULL** |
-| **2025/03/25** | $L^2$FMamba: Lightweight Light Field Image Super-Resolution with State Space Model | Zeqiang Wei et al. | [2503.19253v1](http://arxiv.org/abs/2503.19253v1) | **NULL** |
-| **2025/03/24** | HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation | Zunnan Xu et al. | [2503.18860v2](http://arxiv.org/abs/2503.18860v2) | **NULL** |
-| **2025/03/24** | Learning to segment anatomy and lesions from disparately labeled sources in brain MRI | Meva Himmetoglu et al. | [2503.18840v2](http://arxiv.org/abs/2503.18840v2) | **NULL** |
-| **2025/03/24** | Frequency Dynamic Convolution for Dense Image Prediction | Linwei Chen et al. | [2503.18783v2](http://arxiv.org/abs/2503.18783v2) | [**link**](https://github.com/linwei-chen/fdconv) |
-| **2025/03/24** | Quantum Complex-Valued Self-Attention Model | Fu Chen et al. | [2503.19002v1](http://arxiv.org/abs/2503.19002v1) | **NULL** |
 
 ## 背景差分
 
