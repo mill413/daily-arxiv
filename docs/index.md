@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/04 09:04:27
+> Updated on 2025/04/05 09:03:58
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/04/02** | InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems | Noam Elata et al. | [2504.01689v1](http://arxiv.org/abs/2504.01689v1) | **NULL** |
+| **2025/04/03** | Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition | Vincent Gbouna Zakka et al. | [2504.02778v1](http://arxiv.org/abs/2504.02778v1) | [**link**](https://github.com/Gbouna/MAK-GCN) |
+| **2025/04/03** | HQViT: Hybrid Quantum Vision Transformer for Image Classification | Hui Zhang et al. | [2504.02730v1](http://arxiv.org/abs/2504.02730v1) | **NULL** |
+| **2025/04/03** | A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification | Aman Singh et al. | [2504.02615v1](http://arxiv.org/abs/2504.02615v1) | **NULL** |
+| **2025/04/03** | Cognitive Memory in Large Language Models | Lianlei Shan et al. | [2504.02441v1](http://arxiv.org/abs/2504.02441v1) | **NULL** |
+| **2025/04/03** | Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval | Boseung Jeong et al. | [2504.02397v1](http://arxiv.org/abs/2504.02397v1) | **NULL** |
+| **2025/04/03** | Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing | Abdo Abouelrous et al. | [2504.02383v1](http://arxiv.org/abs/2504.02383v1) | **NULL** |
+| **2025/04/03** | Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation | Amit Rand et al. | [2504.02277v1](http://arxiv.org/abs/2504.02277v1) | **NULL** |
+| **2025/04/03** | MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception | Wenzhuo Liu et al. | [2504.02264v1](http://arxiv.org/abs/2504.02264v1) | **NULL** |
+| **2025/04/03** | FT-Transformer: Resilient and Reliable Transformer with End-to-End Fault Tolerant Attention | Huangliang Dai et al. | [2504.02211v1](http://arxiv.org/abs/2504.02211v1) | **NULL** |
+| **2025/04/02** | InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems | Noam Elata et al. | [2504.01689v1](http://arxiv.org/abs/2504.01689v1) | [**link**](https://github.com/noamelata/invfussion) |
 | **2025/04/02** | BioAtt: Anatomical Prior Driven Low-Dose CT Denoising | Namhun Kim et al. | [2504.01662v1](http://arxiv.org/abs/2504.01662v1) | **NULL** |
 | **2025/04/02** | ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation | Haosheng Li et al. | [2504.01648v1](http://arxiv.org/abs/2504.01648v1) | **NULL** |
 | **2025/04/02** | Coarse-to-Fine Semantic Communication Systems for Text Transmission | Mengli Tao et al. | [2504.01442v1](http://arxiv.org/abs/2504.01442v1) | **NULL** |
+| **2025/04/02** | HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks | Jiannuo Li et al. | [2504.02014v1](http://arxiv.org/abs/2504.02014v1) | **NULL** |
+| **2025/04/02** | Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements | Sijie Xiong et al. | [2504.02013v1](http://arxiv.org/abs/2504.02013v1) | **NULL** |
 | **2025/04/02** | Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval | Yuji Nozawa et al. | [2504.01348v1](http://arxiv.org/abs/2504.01348v1) | **NULL** |
 | **2025/04/01** | FUSION: Frequency-guided Underwater Spatial Image recOnstructioN | Jaskaran Singh Walia et al. | [2504.01243v1](http://arxiv.org/abs/2504.01243v1) | **NULL** |
 | **2025/04/01** | GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection | Banafsheh Adami et al. | [2504.01213v1](http://arxiv.org/abs/2504.01213v1) | **NULL** |
@@ -66,23 +77,12 @@ layout: default
 | **2025/04/01** | How does Watermarking Affect Visual Language Models in Document Understanding? | Chunxue Xu et al. | [2504.01048v1](http://arxiv.org/abs/2504.01048v1) | **NULL** |
 | **2025/04/01** | Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation | Lan Sun et al. | [2504.00438v1](http://arxiv.org/abs/2504.00438v1) | **NULL** |
 | **2025/04/01** | Enhancing Fundus Image-based Glaucoma Screening via Dynamic Global-Local Feature Integration | Yuzhuo Zhou et al. | [2504.00431v1](http://arxiv.org/abs/2504.00431v1) | **NULL** |
-| **2025/04/01** | Deconver: A Deconvolutional Network for Medical Image Segmentation | Pooya Ashtari et al. | [2504.00302v1](http://arxiv.org/abs/2504.00302v1) | **NULL** |
+| **2025/04/01** | Deconver: A Deconvolutional Network for Medical Image Segmentation | Pooya Ashtari et al. | [2504.00302v1](http://arxiv.org/abs/2504.00302v1) | [**link**](https://github.com/pashtari/deconver) |
 | **2025/03/31** | A Deep Learning Approach to Anomaly Detection in High-Frequency Trading Data | Qiuliuyang Bao et al. | [2504.00287v1](http://arxiv.org/abs/2504.00287v1) | **NULL** |
 | **2025/03/31** | Fixed-Attention Mechanism for Deep-Learning-Assisted Design of High-Degree-of-Freedom 3D Metamaterials | Huanshu Zhang et al. | [2504.00203v1](http://arxiv.org/abs/2504.00203v1) | **NULL** |
 | **2025/03/31** | SQuat: Subspace-orthogonal KV Cache Quantization | Hao Wang et al. | [2503.24358v1](http://arxiv.org/abs/2503.24358v1) | **NULL** |
 | **2025/03/31** | Enhancing Time Series Forecasting with Fuzzy Attention-Integrated Transformers | Sanjay Chakraborty et al. | [2504.00070v1](http://arxiv.org/abs/2504.00070v1) | **NULL** |
 | **2025/03/31** | Integrating Quantum-Classical Attention in Patch Transformers for Enhanced Time Series Forecasting | Sanjay Chakraborty et al. | [2504.00068v1](http://arxiv.org/abs/2504.00068v1) | **NULL** |
-| **2025/03/31** | Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions | Thinesh Thiyakesan Ponbagavathi et al. | [2503.24298v1](http://arxiv.org/abs/2503.24298v1) | **NULL** |
-| **2025/03/31** | From Colors to Classes: Emergence of Concepts in Vision Transformers | Teresa Dorszewski et al. | [2503.24071v1](http://arxiv.org/abs/2503.24071v1) | [**link**](https://github.com/teresa-sc/concepts_in_vits) |
-| **2025/03/31** | Frequency-Aware Attention-LSTM for PM$_{2.5}$ Time Series Forecasting | Jiahui LU et al. | [2503.24043v1](http://arxiv.org/abs/2503.24043v1) | **NULL** |
-| **2025/03/31** | A Benchmark for Vision-Centric HD Mapping by V2I Systems | Miao Fan et al. | [2503.23963v1](http://arxiv.org/abs/2503.23963v1) | **NULL** |
-| **2025/03/31** | AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference | Kai Huang et al. | [2503.23956v1](http://arxiv.org/abs/2503.23956v1) | **NULL** |
-| **2025/03/31** | PupiNet: Seamless OCT-OCTA Interconversion Through Wavelet-Driven and Multi-Scale Attention Mechanisms | Renzhi Tian et al. | [2503.23933v1](http://arxiv.org/abs/2503.23933v1) | **NULL** |
-| **2025/03/31** | CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching | Zizhuo Li et al. | [2503.23925v1](http://arxiv.org/abs/2503.23925v1) | **NULL** |
-| **2025/03/31** | Model Hemorrhage and the Robustness Limits of Large Language Models | Ziyang Ma et al. | [2503.23924v1](http://arxiv.org/abs/2503.23924v1) | **NULL** |
-| **2025/03/31** | An extension of linear self-attention for in-context learning | Katsuyuki Hagiwara | [2503.23814v1](http://arxiv.org/abs/2503.23814v1) | **NULL** |
-| **2025/03/30** | DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution | Zheng-Peng Duan et al. | [2503.23580v1](http://arxiv.org/abs/2503.23580v1) | **NULL** |
-| **2025/03/30** | Efficient Dynamic Attention 3D Convolution for Hyperspectral Image Classification | Guandong Li et al. | [2503.23472v1](http://arxiv.org/abs/2503.23472v1) | **NULL** |
 
 ## 背景差分
 
