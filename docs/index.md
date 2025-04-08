@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/07 09:07:01
+> Updated on 2025/04/08 09:04:58
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/04** | AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities | Badhan Kumar Das et al. | [2504.03589v1](http://arxiv.org/abs/2504.03589v1) | **NULL** |
+| **2025/04/04** | HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration | Boyuan Wang et al. | [2504.03536v1](http://arxiv.org/abs/2504.03536v1) | **NULL** |
+| **2025/04/04** | FADConv: A Frequency-Aware Dynamic Convolution for Farmland Non-agriculturalization Identification and Segmentation | Tan Shu et al. | [2504.03510v1](http://arxiv.org/abs/2504.03510v1) | **NULL** |
+| **2025/04/04** | JanusDDG: A Thermodynamics-Compliant Model for Sequence-Based Protein Stability via Two-Fronts Multi-Head Attention | Guido Barducci et al. | [2504.03278v1](http://arxiv.org/abs/2504.03278v1) | **NULL** |
+| **2025/04/04** | Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation | Xin Zhang et al. | [2504.03193v1](http://arxiv.org/abs/2504.03193v1) | **NULL** |
+| **2025/04/04** | Joint Retrieval of Cloud properties using Attention-based Deep Learning Models | Zahid Hassan Tushar et al. | [2504.03133v1](http://arxiv.org/abs/2504.03133v1) | **NULL** |
+| **2025/04/04** | Multi-Granularity Vision Fastformer with Fusion Mechanism for Skin Lesion Segmentation | Xuanyu Liu et al. | [2504.03108v1](http://arxiv.org/abs/2504.03108v1) | **NULL** |
+| **2025/04/03** | Attention-Aware Multi-View Pedestrian Tracking | Reef Alturki et al. | [2504.03047v1](http://arxiv.org/abs/2504.03047v1) | **NULL** |
+| **2025/04/03** | Graph Attention for Heterogeneous Graphs with Positional Encoding | Nikhil Shivakumar Nayak | [2504.02938v1](http://arxiv.org/abs/2504.02938v1) | **NULL** |
 | **2025/04/03** | Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition | Vincent Gbouna Zakka et al. | [2504.02778v1](http://arxiv.org/abs/2504.02778v1) | [**link**](https://github.com/Gbouna/MAK-GCN) |
 | **2025/04/03** | HQViT: Hybrid Quantum Vision Transformer for Image Classification | Hui Zhang et al. | [2504.02730v1](http://arxiv.org/abs/2504.02730v1) | **NULL** |
 | **2025/04/03** | A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification | Aman Singh et al. | [2504.02615v1](http://arxiv.org/abs/2504.02615v1) | **NULL** |
@@ -69,20 +78,11 @@ layout: default
 | **2025/04/02** | HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks | Jiannuo Li et al. | [2504.02014v1](http://arxiv.org/abs/2504.02014v1) | **NULL** |
 | **2025/04/02** | Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements | Sijie Xiong et al. | [2504.02013v1](http://arxiv.org/abs/2504.02013v1) | **NULL** |
 | **2025/04/02** | Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval | Yuji Nozawa et al. | [2504.01348v1](http://arxiv.org/abs/2504.01348v1) | **NULL** |
+| **2025/04/02** | Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning | Hongfei Cai et al. | [2504.02879v1](http://arxiv.org/abs/2504.02879v1) | **NULL** |
 | **2025/04/01** | FUSION: Frequency-guided Underwater Spatial Image recOnstructioN | Jaskaran Singh Walia et al. | [2504.01243v1](http://arxiv.org/abs/2504.01243v1) | **NULL** |
 | **2025/04/01** | GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection | Banafsheh Adami et al. | [2504.01213v1](http://arxiv.org/abs/2504.01213v1) | **NULL** |
 | **2025/04/01** | CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification | Yang Yang et al. | [2504.00784v1](http://arxiv.org/abs/2504.00784v1) | [**link**](https://github.com/JieZheng-ShanghaiTech/CellVTA) |
 | **2025/04/01** | Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution | Songran Bai et al. | [2504.00721v1](http://arxiv.org/abs/2504.00721v1) | **NULL** |
-| **2025/04/01** | POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation | Lanyun Zhu et al. | [2504.00640v1](http://arxiv.org/abs/2504.00640v1) | **NULL** |
-| **2025/04/01** | How does Watermarking Affect Visual Language Models in Document Understanding? | Chunxue Xu et al. | [2504.01048v1](http://arxiv.org/abs/2504.01048v1) | **NULL** |
-| **2025/04/01** | Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation | Lan Sun et al. | [2504.00438v1](http://arxiv.org/abs/2504.00438v1) | **NULL** |
-| **2025/04/01** | Enhancing Fundus Image-based Glaucoma Screening via Dynamic Global-Local Feature Integration | Yuzhuo Zhou et al. | [2504.00431v1](http://arxiv.org/abs/2504.00431v1) | **NULL** |
-| **2025/04/01** | Deconver: A Deconvolutional Network for Medical Image Segmentation | Pooya Ashtari et al. | [2504.00302v1](http://arxiv.org/abs/2504.00302v1) | [**link**](https://github.com/pashtari/deconver) |
-| **2025/03/31** | A Deep Learning Approach to Anomaly Detection in High-Frequency Trading Data | Qiuliuyang Bao et al. | [2504.00287v1](http://arxiv.org/abs/2504.00287v1) | **NULL** |
-| **2025/03/31** | Fixed-Attention Mechanism for Deep-Learning-Assisted Design of High-Degree-of-Freedom 3D Metamaterials | Huanshu Zhang et al. | [2504.00203v1](http://arxiv.org/abs/2504.00203v1) | **NULL** |
-| **2025/03/31** | SQuat: Subspace-orthogonal KV Cache Quantization | Hao Wang et al. | [2503.24358v1](http://arxiv.org/abs/2503.24358v1) | **NULL** |
-| **2025/03/31** | Enhancing Time Series Forecasting with Fuzzy Attention-Integrated Transformers | Sanjay Chakraborty et al. | [2504.00070v1](http://arxiv.org/abs/2504.00070v1) | **NULL** |
-| **2025/03/31** | Integrating Quantum-Classical Attention in Patch Transformers for Enhanced Time Series Forecasting | Sanjay Chakraborty et al. | [2504.00068v1](http://arxiv.org/abs/2504.00068v1) | **NULL** |
 
 ## 背景差分
 
