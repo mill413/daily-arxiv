@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/08 09:04:58
+> Updated on 2025/04/09 09:05:29
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/07** | Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes | Guangqiang Li et al. | [2504.05172v1](http://arxiv.org/abs/2504.05172v1) | **NULL** |
+| **2025/04/07** | Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation | Huilin Yin et al. | [2504.05045v2](http://arxiv.org/abs/2504.05045v2) | **NULL** |
+| **2025/04/07** | Content-Aware Transformer for All-in-one Image Restoration | Gang Wu et al. | [2504.04869v1](http://arxiv.org/abs/2504.04869v1) | **NULL** |
+| **2025/04/07** | Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing | Hui Liu et al. | [2504.04784v1](http://arxiv.org/abs/2504.04784v1) | **NULL** |
+| **2025/04/07** | Enhancing Leaf Disease Classification Using GAT-GCN Hybrid Model | Shyam Sundhar et al. | [2504.04764v1](http://arxiv.org/abs/2504.04764v1) | **NULL** |
+| **2025/04/06** | Saliency-driven Dynamic Token Pruning for Large Language Models | Yao Tao et al. | [2504.04514v1](http://arxiv.org/abs/2504.04514v1) | **NULL** |
+| **2025/04/06** | Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization | Renyuan Liu et al. | [2504.04477v1](http://arxiv.org/abs/2504.04477v1) | **NULL** |
+| **2025/04/05** | Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models | Yuheng Wu et al. | [2504.04238v1](http://arxiv.org/abs/2504.04238v1) | **NULL** |
+| **2025/04/05** | Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images | Hamza Riaz et al. | [2504.04225v1](http://arxiv.org/abs/2504.04225v1) | **NULL** |
+| **2025/04/05** | Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior | Wenxuan Wang et al. | [2504.04159v1](http://arxiv.org/abs/2504.04159v1) | **NULL** |
+| **2025/04/05** | DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning | Xiao-Hui Li et al. | [2504.04085v1](http://arxiv.org/abs/2504.04085v1) | **NULL** |
+| **2025/04/05** | Performance Analysis of Deep Learning Models for Femur Segmentation in MRI Scan | Mengyuan Liu et al. | [2504.04066v1](http://arxiv.org/abs/2504.04066v1) | **NULL** |
+| **2025/04/05** | Deep-Learning-Directed Preventive Dynamic Security Control via Coordinated Demand Response | Amin Masoumi et al. | [2504.04059v1](http://arxiv.org/abs/2504.04059v1) | **NULL** |
 | **2025/04/04** | AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities | Badhan Kumar Das et al. | [2504.03589v1](http://arxiv.org/abs/2504.03589v1) | **NULL** |
 | **2025/04/04** | HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration | Boyuan Wang et al. | [2504.03536v1](http://arxiv.org/abs/2504.03536v1) | **NULL** |
 | **2025/04/04** | FADConv: A Frequency-Aware Dynamic Convolution for Farmland Non-agriculturalization Identification and Segmentation | Tan Shu et al. | [2504.03510v1](http://arxiv.org/abs/2504.03510v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2025/04/03** | Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing | Abdo Abouelrous et al. | [2504.02383v1](http://arxiv.org/abs/2504.02383v1) | **NULL** |
 | **2025/04/03** | Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation | Amit Rand et al. | [2504.02277v1](http://arxiv.org/abs/2504.02277v1) | **NULL** |
 | **2025/04/03** | MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception | Wenzhuo Liu et al. | [2504.02264v1](http://arxiv.org/abs/2504.02264v1) | **NULL** |
-| **2025/04/03** | FT-Transformer: Resilient and Reliable Transformer with End-to-End Fault Tolerant Attention | Huangliang Dai et al. | [2504.02211v1](http://arxiv.org/abs/2504.02211v1) | **NULL** |
-| **2025/04/02** | InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems | Noam Elata et al. | [2504.01689v1](http://arxiv.org/abs/2504.01689v1) | [**link**](https://github.com/noamelata/invfussion) |
-| **2025/04/02** | BioAtt: Anatomical Prior Driven Low-Dose CT Denoising | Namhun Kim et al. | [2504.01662v1](http://arxiv.org/abs/2504.01662v1) | **NULL** |
-| **2025/04/02** | ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation | Haosheng Li et al. | [2504.01648v1](http://arxiv.org/abs/2504.01648v1) | **NULL** |
-| **2025/04/02** | Coarse-to-Fine Semantic Communication Systems for Text Transmission | Mengli Tao et al. | [2504.01442v1](http://arxiv.org/abs/2504.01442v1) | **NULL** |
-| **2025/04/02** | HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks | Jiannuo Li et al. | [2504.02014v1](http://arxiv.org/abs/2504.02014v1) | **NULL** |
-| **2025/04/02** | Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements | Sijie Xiong et al. | [2504.02013v1](http://arxiv.org/abs/2504.02013v1) | **NULL** |
-| **2025/04/02** | Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval | Yuji Nozawa et al. | [2504.01348v1](http://arxiv.org/abs/2504.01348v1) | **NULL** |
-| **2025/04/02** | Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning | Hongfei Cai et al. | [2504.02879v1](http://arxiv.org/abs/2504.02879v1) | **NULL** |
-| **2025/04/01** | FUSION: Frequency-guided Underwater Spatial Image recOnstructioN | Jaskaran Singh Walia et al. | [2504.01243v1](http://arxiv.org/abs/2504.01243v1) | **NULL** |
-| **2025/04/01** | GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection | Banafsheh Adami et al. | [2504.01213v1](http://arxiv.org/abs/2504.01213v1) | **NULL** |
-| **2025/04/01** | CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification | Yang Yang et al. | [2504.00784v1](http://arxiv.org/abs/2504.00784v1) | [**link**](https://github.com/JieZheng-ShanghaiTech/CellVTA) |
-| **2025/04/01** | Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution | Songran Bai et al. | [2504.00721v1](http://arxiv.org/abs/2504.00721v1) | **NULL** |
 
 ## 背景差分
 
