@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/09 09:05:29
+> Updated on 2025/04/10 09:05:22
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/08** | NNN: Next-Generation Neural Networks for Marketing Mix Modeling | Thomas Mulc et al. | [2504.06212v1](http://arxiv.org/abs/2504.06212v1) | **NULL** |
+| **2025/04/08** | Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion | Saad Wazir et al. | [2504.06158v1](http://arxiv.org/abs/2504.06158v1) | [**link**](https://github.com/saadwazir/ReN-UNet) |
+| **2025/04/08** | Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics | Xingzu Liu et al. | [2504.05855v1](http://arxiv.org/abs/2504.05855v1) | **NULL** |
+| **2025/04/08** | End-to-End Dialog Neural Coreference Resolution: Balancing Efficiency and Accuracy in Large-Scale Systems | Zhang Dong et al. | [2504.05824v1](http://arxiv.org/abs/2504.05824v1) | **NULL** |
+| **2025/04/08** | Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation | Enming Zhang et al. | [2504.05774v1](http://arxiv.org/abs/2504.05774v1) | **NULL** |
+| **2025/04/08** | A Lightweight Multi-Module Fusion Approach for Korean Character Recognition | Inho Jake Park et al. | [2504.05770v1](http://arxiv.org/abs/2504.05770v1) | **NULL** |
+| **2025/04/08** | Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation | Zhihua Xu et al. | [2504.05746v1](http://arxiv.org/abs/2504.05746v1) | **NULL** |
+| **2025/04/08** | Point-based Instance Completion with Scene Constraints | Wesley Khademi et al. | [2504.05698v1](http://arxiv.org/abs/2504.05698v1) | **NULL** |
+| **2025/04/08** | Lattice: Learning to Efficiently Compress the Memory | Mahdi Karami et al. | [2504.05646v1](http://arxiv.org/abs/2504.05646v1) | **NULL** |
+| **2025/04/08** | Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification | Jiahang Li et al. | [2504.05583v1](http://arxiv.org/abs/2504.05583v1) | [**link**](https://github.com/rekkles2/Gaze-CIFAR-10) |
+| **2025/04/07** | FORCE: Feature-Oriented Representation with Clustering and Explanation | Rishav Mukherjee et al. | [2504.05530v1](http://arxiv.org/abs/2504.05530v1) | **NULL** |
+| **2025/04/07** | TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles | Yazan Youssef et al. | [2504.05407v1](http://arxiv.org/abs/2504.05407v1) | **NULL** |
 | **2025/04/07** | Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes | Guangqiang Li et al. | [2504.05172v1](http://arxiv.org/abs/2504.05172v1) | **NULL** |
 | **2025/04/07** | Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation | Huilin Yin et al. | [2504.05045v2](http://arxiv.org/abs/2504.05045v2) | **NULL** |
 | **2025/04/07** | Content-Aware Transformer for All-in-one Image Restoration | Gang Wu et al. | [2504.04869v1](http://arxiv.org/abs/2504.04869v1) | **NULL** |
 | **2025/04/07** | Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing | Hui Liu et al. | [2504.04784v1](http://arxiv.org/abs/2504.04784v1) | **NULL** |
 | **2025/04/07** | Enhancing Leaf Disease Classification Using GAT-GCN Hybrid Model | Shyam Sundhar et al. | [2504.04764v1](http://arxiv.org/abs/2504.04764v1) | **NULL** |
-| **2025/04/06** | Saliency-driven Dynamic Token Pruning for Large Language Models | Yao Tao et al. | [2504.04514v1](http://arxiv.org/abs/2504.04514v1) | **NULL** |
+| **2025/04/06** | Saliency-driven Dynamic Token Pruning for Large Language Models | Yao Tao et al. | [2504.04514v2](http://arxiv.org/abs/2504.04514v2) | **NULL** |
 | **2025/04/06** | Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization | Renyuan Liu et al. | [2504.04477v1](http://arxiv.org/abs/2504.04477v1) | **NULL** |
 | **2025/04/05** | Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models | Yuheng Wu et al. | [2504.04238v1](http://arxiv.org/abs/2504.04238v1) | **NULL** |
 | **2025/04/05** | Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images | Hamza Riaz et al. | [2504.04225v1](http://arxiv.org/abs/2504.04225v1) | **NULL** |
@@ -66,23 +78,11 @@ layout: default
 | **2025/04/05** | DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning | Xiao-Hui Li et al. | [2504.04085v1](http://arxiv.org/abs/2504.04085v1) | **NULL** |
 | **2025/04/05** | Performance Analysis of Deep Learning Models for Femur Segmentation in MRI Scan | Mengyuan Liu et al. | [2504.04066v1](http://arxiv.org/abs/2504.04066v1) | **NULL** |
 | **2025/04/05** | Deep-Learning-Directed Preventive Dynamic Security Control via Coordinated Demand Response | Amin Masoumi et al. | [2504.04059v1](http://arxiv.org/abs/2504.04059v1) | **NULL** |
+| **2025/04/05** | Quantum Adaptive Self-Attention for Quantum Transformer Models | Chi-Sheng Chen et al. | [2504.05336v1](http://arxiv.org/abs/2504.05336v1) | **NULL** |
 | **2025/04/04** | AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities | Badhan Kumar Das et al. | [2504.03589v1](http://arxiv.org/abs/2504.03589v1) | **NULL** |
 | **2025/04/04** | HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration | Boyuan Wang et al. | [2504.03536v1](http://arxiv.org/abs/2504.03536v1) | **NULL** |
 | **2025/04/04** | FADConv: A Frequency-Aware Dynamic Convolution for Farmland Non-agriculturalization Identification and Segmentation | Tan Shu et al. | [2504.03510v1](http://arxiv.org/abs/2504.03510v1) | **NULL** |
 | **2025/04/04** | JanusDDG: A Thermodynamics-Compliant Model for Sequence-Based Protein Stability via Two-Fronts Multi-Head Attention | Guido Barducci et al. | [2504.03278v1](http://arxiv.org/abs/2504.03278v1) | **NULL** |
-| **2025/04/04** | Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation | Xin Zhang et al. | [2504.03193v1](http://arxiv.org/abs/2504.03193v1) | **NULL** |
-| **2025/04/04** | Joint Retrieval of Cloud properties using Attention-based Deep Learning Models | Zahid Hassan Tushar et al. | [2504.03133v1](http://arxiv.org/abs/2504.03133v1) | **NULL** |
-| **2025/04/04** | Multi-Granularity Vision Fastformer with Fusion Mechanism for Skin Lesion Segmentation | Xuanyu Liu et al. | [2504.03108v1](http://arxiv.org/abs/2504.03108v1) | **NULL** |
-| **2025/04/03** | Attention-Aware Multi-View Pedestrian Tracking | Reef Alturki et al. | [2504.03047v1](http://arxiv.org/abs/2504.03047v1) | **NULL** |
-| **2025/04/03** | Graph Attention for Heterogeneous Graphs with Positional Encoding | Nikhil Shivakumar Nayak | [2504.02938v1](http://arxiv.org/abs/2504.02938v1) | **NULL** |
-| **2025/04/03** | Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition | Vincent Gbouna Zakka et al. | [2504.02778v1](http://arxiv.org/abs/2504.02778v1) | [**link**](https://github.com/Gbouna/MAK-GCN) |
-| **2025/04/03** | HQViT: Hybrid Quantum Vision Transformer for Image Classification | Hui Zhang et al. | [2504.02730v1](http://arxiv.org/abs/2504.02730v1) | **NULL** |
-| **2025/04/03** | A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification | Aman Singh et al. | [2504.02615v1](http://arxiv.org/abs/2504.02615v1) | **NULL** |
-| **2025/04/03** | Cognitive Memory in Large Language Models | Lianlei Shan et al. | [2504.02441v1](http://arxiv.org/abs/2504.02441v1) | **NULL** |
-| **2025/04/03** | Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval | Boseung Jeong et al. | [2504.02397v1](http://arxiv.org/abs/2504.02397v1) | **NULL** |
-| **2025/04/03** | Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing | Abdo Abouelrous et al. | [2504.02383v1](http://arxiv.org/abs/2504.02383v1) | **NULL** |
-| **2025/04/03** | Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation | Amit Rand et al. | [2504.02277v1](http://arxiv.org/abs/2504.02277v1) | **NULL** |
-| **2025/04/03** | MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception | Wenzhuo Liu et al. | [2504.02264v1](http://arxiv.org/abs/2504.02264v1) | **NULL** |
 
 ## 背景差分
 
