@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/10 09:05:22
+> Updated on 2025/04/11 09:05:46
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/04/08** | NNN: Next-Generation Neural Networks for Marketing Mix Modeling | Thomas Mulc et al. | [2504.06212v1](http://arxiv.org/abs/2504.06212v1) | **NULL** |
+| **2025/04/09** | A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras | Teng Xiao et al. | [2504.06965v1](http://arxiv.org/abs/2504.06965v1) | **NULL** |
+| **2025/04/09** | ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities | Dingkun Yan et al. | [2504.06895v1](http://arxiv.org/abs/2504.06895v1) | [**link**](https://github.com/tellurion-kanata/colorizediffusion) |
+| **2025/04/09** | CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers | Yoshihiro Yamada | [2504.06704v1](http://arxiv.org/abs/2504.06704v1) | **NULL** |
+| **2025/04/09** | Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention | Osama Ahmad et al. | [2504.06660v1](http://arxiv.org/abs/2504.06660v1) | **NULL** |
+| **2025/04/09** | AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection | Tiange Huang et al. | [2504.06643v2](http://arxiv.org/abs/2504.06643v2) | **NULL** |
+| **2025/04/09** | Crafting Query-Aware Selective Attention for Single Image Super-Resolution | Junyoung Kim et al. | [2504.06634v1](http://arxiv.org/abs/2504.06634v1) | **NULL** |
+| **2025/04/09** | Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program | Minghe Gao et al. | [2504.06606v1](http://arxiv.org/abs/2504.06606v1) | **NULL** |
+| **2025/04/08** | NNN: Next-Generation Neural Networks for Marketing Mix Modeling | Thomas Mulc et al. | [2504.06212v2](http://arxiv.org/abs/2504.06212v2) | **NULL** |
 | **2025/04/08** | Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion | Saad Wazir et al. | [2504.06158v1](http://arxiv.org/abs/2504.06158v1) | [**link**](https://github.com/saadwazir/ReN-UNet) |
+| **2025/04/08** | MM-STFlowNet: A Transportation Hub-Oriented Multi-Mode Passenger Flow Prediction Method via Spatial-Temporal Dynamic Graph Modeling | Ronghui Zhang et al. | [2504.06325v1](http://arxiv.org/abs/2504.06325v1) | **NULL** |
 | **2025/04/08** | Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics | Xingzu Liu et al. | [2504.05855v1](http://arxiv.org/abs/2504.05855v1) | **NULL** |
 | **2025/04/08** | End-to-End Dialog Neural Coreference Resolution: Balancing Efficiency and Accuracy in Large-Scale Systems | Zhang Dong et al. | [2504.05824v1](http://arxiv.org/abs/2504.05824v1) | **NULL** |
 | **2025/04/08** | Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation | Enming Zhang et al. | [2504.05774v1](http://arxiv.org/abs/2504.05774v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2025/04/05** | Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models | Yuheng Wu et al. | [2504.04238v1](http://arxiv.org/abs/2504.04238v1) | **NULL** |
 | **2025/04/05** | Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images | Hamza Riaz et al. | [2504.04225v1](http://arxiv.org/abs/2504.04225v1) | **NULL** |
 | **2025/04/05** | Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior | Wenxuan Wang et al. | [2504.04159v1](http://arxiv.org/abs/2504.04159v1) | **NULL** |
-| **2025/04/05** | DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning | Xiao-Hui Li et al. | [2504.04085v1](http://arxiv.org/abs/2504.04085v1) | **NULL** |
-| **2025/04/05** | Performance Analysis of Deep Learning Models for Femur Segmentation in MRI Scan | Mengyuan Liu et al. | [2504.04066v1](http://arxiv.org/abs/2504.04066v1) | **NULL** |
-| **2025/04/05** | Deep-Learning-Directed Preventive Dynamic Security Control via Coordinated Demand Response | Amin Masoumi et al. | [2504.04059v1](http://arxiv.org/abs/2504.04059v1) | **NULL** |
-| **2025/04/05** | Quantum Adaptive Self-Attention for Quantum Transformer Models | Chi-Sheng Chen et al. | [2504.05336v1](http://arxiv.org/abs/2504.05336v1) | **NULL** |
-| **2025/04/04** | AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities | Badhan Kumar Das et al. | [2504.03589v1](http://arxiv.org/abs/2504.03589v1) | **NULL** |
-| **2025/04/04** | HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration | Boyuan Wang et al. | [2504.03536v1](http://arxiv.org/abs/2504.03536v1) | **NULL** |
-| **2025/04/04** | FADConv: A Frequency-Aware Dynamic Convolution for Farmland Non-agriculturalization Identification and Segmentation | Tan Shu et al. | [2504.03510v1](http://arxiv.org/abs/2504.03510v1) | **NULL** |
-| **2025/04/04** | JanusDDG: A Thermodynamics-Compliant Model for Sequence-Based Protein Stability via Two-Fronts Multi-Head Attention | Guido Barducci et al. | [2504.03278v1](http://arxiv.org/abs/2504.03278v1) | **NULL** |
 
 ## 背景差分
 
