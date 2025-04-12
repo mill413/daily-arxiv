@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/11 09:05:46
+> Updated on 2025/04/12 09:04:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/10** | Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | Daniel Torres et al. | [2504.07810v1](http://arxiv.org/abs/2504.07810v1) | **NULL** |
+| **2025/04/10** | Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition | Alexander Brettmann et al. | [2504.07792v1](http://arxiv.org/abs/2504.07792v1) | **NULL** |
+| **2025/04/10** | FMNV: A Dataset of Media-Published News Videos for Fake News Detection | Yihao Wang et al. | [2504.07687v1](http://arxiv.org/abs/2504.07687v1) | **NULL** |
+| **2025/04/10** | Extending Visual Dynamics for Video-to-Music Generation | Xiaohao Liu et al. | [2504.07594v1](http://arxiv.org/abs/2504.07594v1) | **NULL** |
+| **2025/04/10** | DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction | Xu Zhao et al. | [2504.07524v1](http://arxiv.org/abs/2504.07524v1) | **NULL** |
+| **2025/04/10** | ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement | Anning Hu et al. | [2504.07418v1](http://arxiv.org/abs/2504.07418v1) | **NULL** |
+| **2025/04/10** | RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability | Jonggwon Park et al. | [2504.07416v1](http://arxiv.org/abs/2504.07416v1) | **NULL** |
+| **2025/04/10** | ChronoFormer: Time-Aware Transformer Architectures for Structured Clinical Event Modeling | Yuanyun Zhang et al. | [2504.07373v1](http://arxiv.org/abs/2504.07373v1) | **NULL** |
+| **2025/04/09** | Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments | Dawood Ahmed et al. | [2504.07309v1](http://arxiv.org/abs/2504.07309v1) | **NULL** |
 | **2025/04/09** | A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras | Teng Xiao et al. | [2504.06965v1](http://arxiv.org/abs/2504.06965v1) | **NULL** |
 | **2025/04/09** | ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities | Dingkun Yan et al. | [2504.06895v1](http://arxiv.org/abs/2504.06895v1) | [**link**](https://github.com/tellurion-kanata/colorizediffusion) |
 | **2025/04/09** | CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers | Yoshihiro Yamada | [2504.06704v1](http://arxiv.org/abs/2504.06704v1) | **NULL** |
@@ -60,6 +69,7 @@ layout: default
 | **2025/04/09** | AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection | Tiange Huang et al. | [2504.06643v2](http://arxiv.org/abs/2504.06643v2) | **NULL** |
 | **2025/04/09** | Crafting Query-Aware Selective Attention for Single Image Super-Resolution | Junyoung Kim et al. | [2504.06634v1](http://arxiv.org/abs/2504.06634v1) | **NULL** |
 | **2025/04/09** | Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program | Minghe Gao et al. | [2504.06606v1](http://arxiv.org/abs/2504.06606v1) | **NULL** |
+| **2025/04/08** | GIGA: Generalizable Sparse Image-driven Gaussian Avatars | Anton Zubekhin et al. | [2504.07144v1](http://arxiv.org/abs/2504.07144v1) | **NULL** |
 | **2025/04/08** | NNN: Next-Generation Neural Networks for Marketing Mix Modeling | Thomas Mulc et al. | [2504.06212v2](http://arxiv.org/abs/2504.06212v2) | **NULL** |
 | **2025/04/08** | Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion | Saad Wazir et al. | [2504.06158v1](http://arxiv.org/abs/2504.06158v1) | [**link**](https://github.com/saadwazir/ReN-UNet) |
 | **2025/04/08** | MM-STFlowNet: A Transportation Hub-Oriented Multi-Mode Passenger Flow Prediction Method via Spatial-Temporal Dynamic Graph Modeling | Ronghui Zhang et al. | [2504.06325v1](http://arxiv.org/abs/2504.06325v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/04/08** | Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification | Jiahang Li et al. | [2504.05583v1](http://arxiv.org/abs/2504.05583v1) | [**link**](https://github.com/rekkles2/Gaze-CIFAR-10) |
 | **2025/04/07** | FORCE: Feature-Oriented Representation with Clustering and Explanation | Rishav Mukherjee et al. | [2504.05530v1](http://arxiv.org/abs/2504.05530v1) | **NULL** |
 | **2025/04/07** | TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles | Yazan Youssef et al. | [2504.05407v1](http://arxiv.org/abs/2504.05407v1) | **NULL** |
-| **2025/04/07** | Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes | Guangqiang Li et al. | [2504.05172v1](http://arxiv.org/abs/2504.05172v1) | **NULL** |
-| **2025/04/07** | Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation | Huilin Yin et al. | [2504.05045v2](http://arxiv.org/abs/2504.05045v2) | **NULL** |
-| **2025/04/07** | Content-Aware Transformer for All-in-one Image Restoration | Gang Wu et al. | [2504.04869v1](http://arxiv.org/abs/2504.04869v1) | **NULL** |
-| **2025/04/07** | Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing | Hui Liu et al. | [2504.04784v1](http://arxiv.org/abs/2504.04784v1) | **NULL** |
-| **2025/04/07** | Enhancing Leaf Disease Classification Using GAT-GCN Hybrid Model | Shyam Sundhar et al. | [2504.04764v1](http://arxiv.org/abs/2504.04764v1) | **NULL** |
-| **2025/04/06** | Saliency-driven Dynamic Token Pruning for Large Language Models | Yao Tao et al. | [2504.04514v2](http://arxiv.org/abs/2504.04514v2) | **NULL** |
-| **2025/04/06** | Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization | Renyuan Liu et al. | [2504.04477v1](http://arxiv.org/abs/2504.04477v1) | **NULL** |
-| **2025/04/05** | Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models | Yuheng Wu et al. | [2504.04238v1](http://arxiv.org/abs/2504.04238v1) | **NULL** |
-| **2025/04/05** | Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images | Hamza Riaz et al. | [2504.04225v1](http://arxiv.org/abs/2504.04225v1) | **NULL** |
-| **2025/04/05** | Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior | Wenxuan Wang et al. | [2504.04159v1](http://arxiv.org/abs/2504.04159v1) | **NULL** |
 
 ## 背景差分
 
