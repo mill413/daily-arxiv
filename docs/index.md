@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/13 10:33:42
+> Updated on 2025/04/14 09:08:36
 
 <summary>Table of Contents</summary>
 
@@ -54,7 +54,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2025/04/10** | Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | Daniel Torres et al. | [2504.07810v1](http://arxiv.org/abs/2504.07810v1) | **NULL** |
-| **2025/04/10** | Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition | Alexander Brettmann et al. | [2504.07792v1](http://arxiv.org/abs/2504.07792v1) | **NULL** |
+| **2025/04/10** | Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition | Alexander Brettmann et al. | [2504.07792v2](http://arxiv.org/abs/2504.07792v2) | **NULL** |
 | **2025/04/10** | FMNV: A Dataset of Media-Published News Videos for Fake News Detection | Yihao Wang et al. | [2504.07687v1](http://arxiv.org/abs/2504.07687v1) | **NULL** |
 | **2025/04/10** | Extending Visual Dynamics for Video-to-Music Generation | Xiaohao Liu et al. | [2504.07594v1](http://arxiv.org/abs/2504.07594v1) | **NULL** |
 | **2025/04/10** | DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction | Xu Zhao et al. | [2504.07524v1](http://arxiv.org/abs/2504.07524v1) | **NULL** |
