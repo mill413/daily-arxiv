@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/14 09:08:36
+> Updated on 2025/04/15 09:07:23
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/11** | Transformer Learns Optimal Variable Selection in Group-Sparse Classification | Chenyang Zhang et al. | [2504.08638v1](http://arxiv.org/abs/2504.08638v1) | **NULL** |
+| **2025/04/11** | Enhancing knowledge retention for continual learning with domain-specific adapters and features gating | Mohamed Abbas Hedjazi et al. | [2504.08613v1](http://arxiv.org/abs/2504.08613v1) | **NULL** |
+| **2025/04/11** | ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration | Yongsheng Yu et al. | [2504.08591v1](http://arxiv.org/abs/2504.08591v1) | **NULL** |
+| **2025/04/11** | A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification | Kerol Djoumessi et al. | [2504.08481v1](http://arxiv.org/abs/2504.08481v1) | **NULL** |
+| **2025/04/11** | Artifact detection and localization in single-channel mobile EEG for sleep research using deep learning and attention mechanisms | Khrystyna Semkiv et al. | [2504.08469v1](http://arxiv.org/abs/2504.08469v1) | **NULL** |
+| **2025/04/11** | Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion | Weiye Chen et al. | [2504.08451v1](http://arxiv.org/abs/2504.08451v1) | **NULL** |
+| **2025/04/11** | Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network | Yucheng Liu et al. | [2504.08371v1](http://arxiv.org/abs/2504.08371v1) | **NULL** |
+| **2025/04/11** | Millions of States: Designing a Scalable MoE Architecture with RWKV-7 Meta-learner | Liu Xiao et al. | [2504.08247v1](http://arxiv.org/abs/2504.08247v1) | **NULL** |
+| **2025/04/11** | Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention | Qiuwu Sha et al. | [2504.08183v1](http://arxiv.org/abs/2504.08183v1) | **NULL** |
+| **2025/04/10** | Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning | Hsing-Huan Chung et al. | [2504.08129v1](http://arxiv.org/abs/2504.08129v1) | **NULL** |
 | **2025/04/10** | Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | Daniel Torres et al. | [2504.07810v1](http://arxiv.org/abs/2504.07810v1) | **NULL** |
 | **2025/04/10** | Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition | Alexander Brettmann et al. | [2504.07792v2](http://arxiv.org/abs/2504.07792v2) | **NULL** |
 | **2025/04/10** | FMNV: A Dataset of Media-Published News Videos for Fake News Detection | Yihao Wang et al. | [2504.07687v1](http://arxiv.org/abs/2504.07687v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/04/08** | NNN: Next-Generation Neural Networks for Marketing Mix Modeling | Thomas Mulc et al. | [2504.06212v2](http://arxiv.org/abs/2504.06212v2) | **NULL** |
 | **2025/04/08** | Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion | Saad Wazir et al. | [2504.06158v1](http://arxiv.org/abs/2504.06158v1) | [**link**](https://github.com/saadwazir/ReN-UNet) |
 | **2025/04/08** | MM-STFlowNet: A Transportation Hub-Oriented Multi-Mode Passenger Flow Prediction Method via Spatial-Temporal Dynamic Graph Modeling | Ronghui Zhang et al. | [2504.06325v1](http://arxiv.org/abs/2504.06325v1) | **NULL** |
-| **2025/04/08** | Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics | Xingzu Liu et al. | [2504.05855v1](http://arxiv.org/abs/2504.05855v1) | **NULL** |
-| **2025/04/08** | End-to-End Dialog Neural Coreference Resolution: Balancing Efficiency and Accuracy in Large-Scale Systems | Zhang Dong et al. | [2504.05824v1](http://arxiv.org/abs/2504.05824v1) | **NULL** |
-| **2025/04/08** | Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation | Enming Zhang et al. | [2504.05774v1](http://arxiv.org/abs/2504.05774v1) | **NULL** |
-| **2025/04/08** | A Lightweight Multi-Module Fusion Approach for Korean Character Recognition | Inho Jake Park et al. | [2504.05770v1](http://arxiv.org/abs/2504.05770v1) | **NULL** |
-| **2025/04/08** | Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation | Zhihua Xu et al. | [2504.05746v1](http://arxiv.org/abs/2504.05746v1) | **NULL** |
-| **2025/04/08** | Point-based Instance Completion with Scene Constraints | Wesley Khademi et al. | [2504.05698v1](http://arxiv.org/abs/2504.05698v1) | **NULL** |
-| **2025/04/08** | Lattice: Learning to Efficiently Compress the Memory | Mahdi Karami et al. | [2504.05646v1](http://arxiv.org/abs/2504.05646v1) | **NULL** |
-| **2025/04/08** | Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification | Jiahang Li et al. | [2504.05583v1](http://arxiv.org/abs/2504.05583v1) | [**link**](https://github.com/rekkles2/Gaze-CIFAR-10) |
-| **2025/04/07** | FORCE: Feature-Oriented Representation with Clustering and Explanation | Rishav Mukherjee et al. | [2504.05530v1](http://arxiv.org/abs/2504.05530v1) | **NULL** |
-| **2025/04/07** | TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles | Yazan Youssef et al. | [2504.05407v1](http://arxiv.org/abs/2504.05407v1) | **NULL** |
 
 ## 背景差分
 
