@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/16 09:07:11
+> Updated on 2025/04/17 09:06:10
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/15** | Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps | Panagiotis Agrafiotis et al. | [2504.11416v1](http://arxiv.org/abs/2504.11416v1) | **NULL** |
+| **2025/04/15** | Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach | Xiaoxiao Ma et al. | [2504.11262v1](http://arxiv.org/abs/2504.11262v1) | **NULL** |
+| **2025/04/15** | Video Summarization with Large Language Models | Min Jung Lee et al. | [2504.11199v1](http://arxiv.org/abs/2504.11199v1) | **NULL** |
+| **2025/04/15** | QAMA: Quantum annealing multi-head attention operator with classical deep learning framework | Peng Du et al. | [2504.11083v1](http://arxiv.org/abs/2504.11083v1) | **NULL** |
+| **2025/04/15** | Leveraging LLMs and attention-mechanism for automatic annotation of historical maps | Yunshuang Yuan et al. | [2504.11050v1](http://arxiv.org/abs/2504.11050v1) | **NULL** |
+| **2025/04/15** | An Efficient and Mixed Heterogeneous Model for Image Restoration | Yubin Gu et al. | [2504.10967v1](http://arxiv.org/abs/2504.10967v1) | **NULL** |
+| **2025/04/15** | Fast-Powerformer: A Memory-Efficient Transformer for Accurate Mid-Term Wind Power Forecasting | Mingyi Zhu et al. | [2504.10923v1](http://arxiv.org/abs/2504.10923v1) | **NULL** |
+| **2025/04/15** | Towards A Universal Graph Structural Encoder | Jialin Chen et al. | [2504.10917v1](http://arxiv.org/abs/2504.10917v1) | **NULL** |
+| **2025/04/15** | Weather-Aware Object Detection Transformer for Domain Adaptation | Soheil Gharatappeh et al. | [2504.10877v1](http://arxiv.org/abs/2504.10877v1) | **NULL** |
+| **2025/04/15** | Moving Beyond Next-Token Prediction: Transformers are Context-Sensitive Language Generators | Phill Kyu Rhee | [2504.10845v1](http://arxiv.org/abs/2504.10845v1) | **NULL** |
+| **2025/04/15** | IlluSign: Illustrating Sign Language Videos by Leveraging the Attention Mechanism | Janna Bruner et al. | [2504.10822v1](http://arxiv.org/abs/2504.10822v1) | **NULL** |
+| **2025/04/14** | Epistemic Uncertainty-aware Recommendation Systems via Bayesian Deep Ensemble Learning | Radin Cheraghi et al. | [2504.10753v1](http://arxiv.org/abs/2504.10753v1) | **NULL** |
+| **2025/04/14** | Un marco conceptual para la generación de requerimientos de software de calidad | Mauro José Pacchiotti et al. | [2504.10654v1](http://arxiv.org/abs/2504.10654v1) | **NULL** |
+| **2025/04/14** | Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning | Saif Punjwani et al. | [2504.10646v1](http://arxiv.org/abs/2504.10646v1) | **NULL** |
 | **2025/04/14** | The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer | Weixian Lei et al. | [2504.10462v1](http://arxiv.org/abs/2504.10462v1) | **NULL** |
+| **2025/04/14** | Self-Controlled Dynamic Expansion Model for Continual Learning | Runqing Wu et al. | [2504.10561v2](http://arxiv.org/abs/2504.10561v2) | **NULL** |
+| **2025/04/14** | Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features | Hu Gao et al. | [2504.10558v1](http://arxiv.org/abs/2504.10558v1) | **NULL** |
 | **2025/04/14** | Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers | Chunyang Zhang et al. | [2504.10148v1](http://arxiv.org/abs/2504.10148v1) | **NULL** |
 | **2025/04/14** | Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach | Lixiang Lian et al. | [2504.10060v1](http://arxiv.org/abs/2504.10060v1) | **NULL** |
 | **2025/04/13** | Ordinary Least Squares as an Attention Mechanism | Philippe Goulet Coulombe | [2504.09663v1](http://arxiv.org/abs/2504.09663v1) | **NULL** |
@@ -64,25 +80,9 @@ layout: default
 | **2025/04/12** | MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints | Yichao Yuan et al. | [2504.09345v1](http://arxiv.org/abs/2504.09345v1) | **NULL** |
 | **2025/04/12** | EchoMask: Speech-Queried Attention-based Mask Modeling for Holistic Co-Speech Motion Generation | Xiangyue Zhang et al. | [2504.09209v2](http://arxiv.org/abs/2504.09209v2) | **NULL** |
 | **2025/04/12** | Multi-Modal Brain Tumor Segmentation via 3D Multi-Scale Self-attention and Cross-attention | Yonghao Huang et al. | [2504.09088v1](http://arxiv.org/abs/2504.09088v1) | **NULL** |
+| **2025/04/12** | PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2 | Mingyang Zhu et al. | [2504.10526v1](http://arxiv.org/abs/2504.10526v1) | **NULL** |
 | **2025/04/12** | A Visual Self-attention Mechanism Facial Expression Recognition Network beyond Convnext | Bingyu Nan et al. | [2504.09077v1](http://arxiv.org/abs/2504.09077v1) | **NULL** |
 | **2025/04/11** | Bidirectional Linear Recurrent Models for Sequence-Level Multisource Fusion | Qisai Liu et al. | [2504.08964v1](http://arxiv.org/abs/2504.08964v1) | **NULL** |
-| **2025/04/11** | Transformer Learns Optimal Variable Selection in Group-Sparse Classification | Chenyang Zhang et al. | [2504.08638v1](http://arxiv.org/abs/2504.08638v1) | **NULL** |
-| **2025/04/11** | Enhancing knowledge retention for continual learning with domain-specific adapters and features gating | Mohamed Abbas Hedjazi et al. | [2504.08613v1](http://arxiv.org/abs/2504.08613v1) | **NULL** |
-| **2025/04/11** | ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration | Yongsheng Yu et al. | [2504.08591v1](http://arxiv.org/abs/2504.08591v1) | **NULL** |
-| **2025/04/11** | A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification | Kerol Djoumessi et al. | [2504.08481v1](http://arxiv.org/abs/2504.08481v1) | **NULL** |
-| **2025/04/11** | Artifact detection and localization in single-channel mobile EEG for sleep research using deep learning and attention mechanisms | Khrystyna Semkiv et al. | [2504.08469v1](http://arxiv.org/abs/2504.08469v1) | **NULL** |
-| **2025/04/11** | Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion | Weiye Chen et al. | [2504.08451v1](http://arxiv.org/abs/2504.08451v1) | [**link**](https://github.com/chenweiye9/moun-ad) |
-| **2025/04/11** | Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network | Yucheng Liu et al. | [2504.08371v1](http://arxiv.org/abs/2504.08371v1) | **NULL** |
-| **2025/04/11** | Millions of States: Designing a Scalable MoE Architecture with RWKV-7 Meta-learner | Liu Xiao et al. | [2504.08247v1](http://arxiv.org/abs/2504.08247v1) | **NULL** |
-| **2025/04/11** | Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention | Qiuwu Sha et al. | [2504.08183v1](http://arxiv.org/abs/2504.08183v1) | **NULL** |
-| **2025/04/10** | Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning | Hsing-Huan Chung et al. | [2504.08129v1](http://arxiv.org/abs/2504.08129v1) | [**link**](https://github.com/hsinghuan/dg-linear-time) |
-| **2025/04/10** | Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement | Daniel Torres et al. | [2504.07810v1](http://arxiv.org/abs/2504.07810v1) | **NULL** |
-| **2025/04/10** | Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition | Alexander Brettmann et al. | [2504.07792v2](http://arxiv.org/abs/2504.07792v2) | **NULL** |
-| **2025/04/10** | FMNV: A Dataset of Media-Published News Videos for Fake News Detection | Yihao Wang et al. | [2504.07687v1](http://arxiv.org/abs/2504.07687v1) | **NULL** |
-| **2025/04/10** | Extending Visual Dynamics for Video-to-Music Generation | Xiaohao Liu et al. | [2504.07594v1](http://arxiv.org/abs/2504.07594v1) | **NULL** |
-| **2025/04/10** | DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction | Xu Zhao et al. | [2504.07524v1](http://arxiv.org/abs/2504.07524v1) | **NULL** |
-| **2025/04/10** | ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement | Anning Hu et al. | [2504.07418v1](http://arxiv.org/abs/2504.07418v1) | **NULL** |
-| **2025/04/10** | RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability | Jonggwon Park et al. | [2504.07416v1](http://arxiv.org/abs/2504.07416v1) | **NULL** |
 
 ## 背景差分
 
