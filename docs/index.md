@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/18 09:05:31
+> Updated on 2025/04/19 09:03:22
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/17** | Hadamard product in deep learning: Introduction, Advances and Challenges | Grigorios G Chrysos et al. | [2504.13112v1](http://arxiv.org/abs/2504.13112v1) | **NULL** |
+| **2025/04/17** | A Multi-task Learning Balanced Attention Convolutional Neural Network Model for Few-shot Underwater Acoustic Target Recognition | Wei Huang et al. | [2504.13102v1](http://arxiv.org/abs/2504.13102v1) | **NULL** |
+| **2025/04/17** | EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance | Yang Yue et al. | [2504.13065v1](http://arxiv.org/abs/2504.13065v1) | [**link**](https://github.com/LeapLabTHU/EchoWorld) |
+| **2025/04/17** | Efficient Masked Image Compression with Position-Indexed Self-Attention | Chengjie Dai et al. | [2504.12923v1](http://arxiv.org/abs/2504.12923v1) | **NULL** |
+| **2025/04/17** | CST-former: Multidimensional Attention-based Transformer for Sound Event Localization and Detection in Real Scenes | Yusun Shul et al. | [2504.12870v1](http://arxiv.org/abs/2504.12870v1) | **NULL** |
+| **2025/04/17** | SMARTe: Slot-based Method for Accountable Relational Triple extraction | Xue Wen Tan et al. | [2504.12816v1](http://arxiv.org/abs/2504.12816v1) | **NULL** |
+| **2025/04/17** | Simplifying Graph Transformers | Liheng Ma et al. | [2504.12588v1](http://arxiv.org/abs/2504.12588v1) | **NULL** |
+| **2025/04/16** | GLUSE: Enhanced Channel-Wise Adaptive Gated Linear Units SE for Onboard Satellite Earth Observation Image Classification | Thanh-Dung Le et al. | [2504.12484v1](http://arxiv.org/abs/2504.12484v1) | **NULL** |
+| **2025/04/16** | One Model to Rig Them All: Diverse Skeleton Rigging with UniRig | Jia-Peng Zhang et al. | [2504.12451v1](http://arxiv.org/abs/2504.12451v1) | [**link**](https://github.com/VAST-AI-Research/UniRig) |
+| **2025/04/16** | 3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap | Minmin Yang et al. | [2504.12442v1](http://arxiv.org/abs/2504.12442v1) | **NULL** |
+| **2025/04/16** | Attention-Infused Autoencoder for Massive MIMO CSI Compression | Kangzhi Lou et al. | [2504.12440v1](http://arxiv.org/abs/2504.12440v1) | **NULL** |
+| **2025/04/16** | WORLDMEM: Long-term Consistent World Simulation with Memory | Zeqi Xiao et al. | [2504.12369v1](http://arxiv.org/abs/2504.12369v1) | **NULL** |
 | **2025/04/16** | SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields | David Keetae Park et al. | [2504.12262v1](http://arxiv.org/abs/2504.12262v1) | **NULL** |
 | **2025/04/16** | Approximation Bounds for Transformer Networks with Application to Regression | Yuling Jiao et al. | [2504.12175v1](http://arxiv.org/abs/2504.12175v1) | **NULL** |
 | **2025/04/16** | Understanding Attention Mechanism in Video Diffusion Models | Bingyan Liu et al. | [2504.12027v2](http://arxiv.org/abs/2504.12027v2) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/04/15** | ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators | Riad Ibadulla et al. | [2504.11517v1](http://arxiv.org/abs/2504.11517v1) | **NULL** |
 | **2025/04/15** | Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach | Xiaoxiao Ma et al. | [2504.11262v1](http://arxiv.org/abs/2504.11262v1) | **NULL** |
 | **2025/04/15** | Graph-Driven Multimodal Feature Learning Framework for Apparent Personality Assessment | Kangsheng Wang et al. | [2504.11515v1](http://arxiv.org/abs/2504.11515v1) | **NULL** |
-| **2025/04/15** | Video Summarization with Large Language Models | Min Jung Lee et al. | [2504.11199v1](http://arxiv.org/abs/2504.11199v1) | **NULL** |
-| **2025/04/15** | QAMA: Quantum annealing multi-head attention operator with classical deep learning framework | Peng Du et al. | [2504.11083v1](http://arxiv.org/abs/2504.11083v1) | **NULL** |
-| **2025/04/15** | Leveraging LLMs and attention-mechanism for automatic annotation of historical maps | Yunshuang Yuan et al. | [2504.11050v1](http://arxiv.org/abs/2504.11050v1) | **NULL** |
-| **2025/04/15** | An Efficient and Mixed Heterogeneous Model for Image Restoration | Yubin Gu et al. | [2504.10967v1](http://arxiv.org/abs/2504.10967v1) | **NULL** |
-| **2025/04/15** | Fast-Powerformer: A Memory-Efficient Transformer for Accurate Mid-Term Wind Power Forecasting | Mingyi Zhu et al. | [2504.10923v1](http://arxiv.org/abs/2504.10923v1) | **NULL** |
-| **2025/04/15** | Towards A Universal Graph Structural Encoder | Jialin Chen et al. | [2504.10917v1](http://arxiv.org/abs/2504.10917v1) | **NULL** |
-| **2025/04/15** | Weather-Aware Object Detection Transformer for Domain Adaptation | Soheil Gharatappeh et al. | [2504.10877v1](http://arxiv.org/abs/2504.10877v1) | **NULL** |
-| **2025/04/15** | Moving Beyond Next-Token Prediction: Transformers are Context-Sensitive Language Generators | Phill Kyu Rhee | [2504.10845v1](http://arxiv.org/abs/2504.10845v1) | **NULL** |
-| **2025/04/15** | IlluSign: Illustrating Sign Language Videos by Leveraging the Attention Mechanism | Janna Bruner et al. | [2504.10822v1](http://arxiv.org/abs/2504.10822v1) | **NULL** |
-| **2025/04/15** | TransitReID: Transit OD Data Collection with Occlusion-Resistant Dynamic Passenger Re-Identification | Kaicong Huang et al. | [2504.11500v1](http://arxiv.org/abs/2504.11500v1) | **NULL** |
-| **2025/04/14** | Epistemic Uncertainty-aware Recommendation Systems via Bayesian Deep Ensemble Learning | Radin Cheraghi et al. | [2504.10753v1](http://arxiv.org/abs/2504.10753v1) | **NULL** |
-| **2025/04/14** | Un marco conceptual para la generación de requerimientos de software de calidad | Mauro José Pacchiotti et al. | [2504.10654v1](http://arxiv.org/abs/2504.10654v1) | **NULL** |
 
 ## 背景差分
 
