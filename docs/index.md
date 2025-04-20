@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/19 09:03:22
+> Updated on 2025/04/20 09:11:08
 
 <summary>Table of Contents</summary>
 
@@ -79,7 +79,7 @@ layout: default
 | **2025/04/16** | AQETuner: Reliable Query-level Configuration Tuning for Analytical Query Engines | Lixiang Chen et al. | [2504.11756v1](http://arxiv.org/abs/2504.11756v1) | **NULL** |
 | **2025/04/16** | H$^3$GNNs: Harmonizing Heterophily and Homophily in GNNs via Joint Structural Node Encoding and Self-Supervised Learning | Rui Xue et al. | [2504.11699v1](http://arxiv.org/abs/2504.11699v1) | **NULL** |
 | **2025/04/15** | Transformer-Driven Neural Beamforming with Imperfect CSI in Urban Macro Wireless Channels | Cemil Vahapoglu et al. | [2504.11667v1](http://arxiv.org/abs/2504.11667v1) | **NULL** |
-| **2025/04/15** | Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps | Panagiotis Agrafiotis et al. | [2504.11416v1](http://arxiv.org/abs/2504.11416v1) | **NULL** |
+| **2025/04/15** | Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps | Panagiotis Agrafiotis et al. | [2504.11416v1](http://arxiv.org/abs/2504.11416v1) | [**link**](https://github.com/pagraf/swin-bathyunet) |
 | **2025/04/15** | ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators | Riad Ibadulla et al. | [2504.11517v1](http://arxiv.org/abs/2504.11517v1) | **NULL** |
 | **2025/04/15** | Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach | Xiaoxiao Ma et al. | [2504.11262v1](http://arxiv.org/abs/2504.11262v1) | **NULL** |
 | **2025/04/15** | Graph-Driven Multimodal Feature Learning Framework for Apparent Personality Assessment | Kangsheng Wang et al. | [2504.11515v1](http://arxiv.org/abs/2504.11515v1) | **NULL** |
