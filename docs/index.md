@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/21 09:09:56
+> Updated on 2025/04/22 09:06:27
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
 | **2025/04/14** | Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware | Muhammad Fasih Tariq et al. | [2504.09900v1](http://arxiv.org/abs/2504.09900v1) | **NULL** |
 | **2025/04/11** | SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection | Huaxiang Zhang et al. | [2504.11470v1](http://arxiv.org/abs/2504.11470v1) | **NULL** |
 | **2025/03/29** | Context in object detection: a systematic literature review | Mahtab Jamali et al. | [2503.23249v1](http://arxiv.org/abs/2503.23249v1) | **NULL** |
@@ -47,20 +48,31 @@ layout: default
 | **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 | **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v2](http://arxiv.org/abs/2409.14028v2) | [**link**](https://github.com/caiguohui123/msdet) |
 | **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | [**link**](https://github.com/o937-blip/simir) |
-| **2024/08/28** | Small Object Detection for Indoor Assistance to the Blind using YOLO NAS Small and Super Gradients | Rashmi BN et al. | [2409.07469v1](http://arxiv.org/abs/2409.07469v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/18** | Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models | Junjie Yang et al. | [2504.13825v1](http://arxiv.org/abs/2504.13825v1) | **NULL** |
+| **2025/04/18** | Transformer Encoder and Multi-features Time2Vec for Financial Prediction | Nguyen Kim Hai Bui et al. | [2504.13801v1](http://arxiv.org/abs/2504.13801v1) | **NULL** |
+| **2025/04/18** | Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration | Gianluca Carloni | [2504.13717v1](http://arxiv.org/abs/2504.13717v1) | **NULL** |
+| **2025/04/18** | Long-context Non-factoid Question Answering in Indic Languages | Ritwik Mishra et al. | [2504.13615v1](http://arxiv.org/abs/2504.13615v1) | **NULL** |
+| **2025/04/18** | Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation | Zahra Akhlaghi et al. | [2504.13614v1](http://arxiv.org/abs/2504.13614v1) | **NULL** |
+| **2025/04/18** | FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention | Jun Zeng et al. | [2504.13597v1](http://arxiv.org/abs/2504.13597v1) | **NULL** |
+| **2025/04/18** | MSTIM: A MindSpore-Based Model for Traffic Flow Prediction | Weiqi Qin et al. | [2504.13576v1](http://arxiv.org/abs/2504.13576v1) | **NULL** |
+| **2025/04/18** | MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework | Zhenkai Qin et al. | [2504.13574v1](http://arxiv.org/abs/2504.13574v1) | **NULL** |
+| **2025/04/18** | Cross-Modal Temporal Fusion for Financial Market Forecasting | Yunhua Pei et al. | [2504.13522v1](http://arxiv.org/abs/2504.13522v1) | **NULL** |
+| **2025/04/18** | Integrating Locality-Aware Attention with Transformers for General Geometry PDEs | Minsu Koh et al. | [2504.13480v1](http://arxiv.org/abs/2504.13480v1) | **NULL** |
+| **2025/04/17** | Dynamic Memory-enhanced Transformer for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2504.13242v1](http://arxiv.org/abs/2504.13242v1) | **NULL** |
 | **2025/04/17** | Hadamard product in deep learning: Introduction, Advances and Challenges | Grigorios G Chrysos et al. | [2504.13112v1](http://arxiv.org/abs/2504.13112v1) | **NULL** |
 | **2025/04/17** | A Multi-task Learning Balanced Attention Convolutional Neural Network Model for Few-shot Underwater Acoustic Target Recognition | Wei Huang et al. | [2504.13102v1](http://arxiv.org/abs/2504.13102v1) | **NULL** |
 | **2025/04/17** | EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance | Yang Yue et al. | [2504.13065v1](http://arxiv.org/abs/2504.13065v1) | [**link**](https://github.com/LeapLabTHU/EchoWorld) |
 | **2025/04/17** | Efficient Masked Image Compression with Position-Indexed Self-Attention | Chengjie Dai et al. | [2504.12923v1](http://arxiv.org/abs/2504.12923v1) | **NULL** |
 | **2025/04/17** | CST-former: Multidimensional Attention-based Transformer for Sound Event Localization and Detection in Real Scenes | Yusun Shul et al. | [2504.12870v1](http://arxiv.org/abs/2504.12870v1) | **NULL** |
 | **2025/04/17** | SMARTe: Slot-based Method for Accountable Relational Triple extraction | Xue Wen Tan et al. | [2504.12816v1](http://arxiv.org/abs/2504.12816v1) | **NULL** |
+| **2025/04/17** | SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification | Ummay Maria Muna et al. | [2504.13220v1](http://arxiv.org/abs/2504.13220v1) | **NULL** |
 | **2025/04/17** | Simplifying Graph Transformers | Liheng Ma et al. | [2504.12588v1](http://arxiv.org/abs/2504.12588v1) | **NULL** |
-| **2025/04/16** | GLUSE: Enhanced Channel-Wise Adaptive Gated Linear Units SE for Onboard Satellite Earth Observation Image Classification | Thanh-Dung Le et al. | [2504.12484v1](http://arxiv.org/abs/2504.12484v1) | **NULL** |
+| **2025/04/16** | GLUSE: Enhanced Channel-Wise Adaptive Gated Linear Units SE for Onboard Satellite Earth Observation Image Classification | Thanh-Dung Le et al. | [2504.12484v1](http://arxiv.org/abs/2504.12484v1) | [**link**](https://github.com/ltdung/snt-sentry) |
 | **2025/04/16** | One Model to Rig Them All: Diverse Skeleton Rigging with UniRig | Jia-Peng Zhang et al. | [2504.12451v1](http://arxiv.org/abs/2504.12451v1) | [**link**](https://github.com/VAST-AI-Research/UniRig) |
 | **2025/04/16** | 3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap | Minmin Yang et al. | [2504.12442v1](http://arxiv.org/abs/2504.12442v1) | **NULL** |
 | **2025/04/16** | Attention-Infused Autoencoder for Massive MIMO CSI Compression | Kangzhi Lou et al. | [2504.12440v1](http://arxiv.org/abs/2504.12440v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/04/16** | A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions | Rahima Khanam et al. | [2504.11995v1](http://arxiv.org/abs/2504.11995v1) | **NULL** |
 | **2025/04/16** | Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach | Lvpan Cai et al. | [2504.11922v1](http://arxiv.org/abs/2504.11922v1) | **NULL** |
 | **2025/04/16** | HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems | Qiyue Chen et al. | [2504.11885v1](http://arxiv.org/abs/2504.11885v1) | **NULL** |
-| **2025/04/16** | From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp | Haoyang Sun et al. | [2504.11860v1](http://arxiv.org/abs/2504.11860v1) | **NULL** |
-| **2025/04/16** | GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization | Huizhe Zhang et al. | [2504.11840v1](http://arxiv.org/abs/2504.11840v1) | **NULL** |
-| **2025/04/16** | Emergence of Computational Structure in a Neural Network Physics Simulator | Rohan Hitchcock et al. | [2504.11830v1](http://arxiv.org/abs/2504.11830v1) | **NULL** |
-| **2025/04/16** | TextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation | Kangbo Ma | [2504.11825v1](http://arxiv.org/abs/2504.11825v1) | **NULL** |
-| **2025/04/16** | Extended Short- and Long-Range Mesh Learning for Fast and Generalized Garment Simulation | Aoran Liu et al. | [2504.11763v1](http://arxiv.org/abs/2504.11763v1) | **NULL** |
-| **2025/04/16** | AQETuner: Reliable Query-level Configuration Tuning for Analytical Query Engines | Lixiang Chen et al. | [2504.11756v1](http://arxiv.org/abs/2504.11756v1) | **NULL** |
-| **2025/04/16** | H$^3$GNNs: Harmonizing Heterophily and Homophily in GNNs via Joint Structural Node Encoding and Self-Supervised Learning | Rui Xue et al. | [2504.11699v1](http://arxiv.org/abs/2504.11699v1) | **NULL** |
-| **2025/04/15** | Transformer-Driven Neural Beamforming with Imperfect CSI in Urban Macro Wireless Channels | Cemil Vahapoglu et al. | [2504.11667v1](http://arxiv.org/abs/2504.11667v1) | **NULL** |
-| **2025/04/15** | Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps | Panagiotis Agrafiotis et al. | [2504.11416v1](http://arxiv.org/abs/2504.11416v1) | [**link**](https://github.com/pagraf/swin-bathyunet) |
-| **2025/04/15** | ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators | Riad Ibadulla et al. | [2504.11517v1](http://arxiv.org/abs/2504.11517v1) | **NULL** |
-| **2025/04/15** | Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach | Xiaoxiao Ma et al. | [2504.11262v1](http://arxiv.org/abs/2504.11262v1) | **NULL** |
-| **2025/04/15** | Graph-Driven Multimodal Feature Learning Framework for Apparent Personality Assessment | Kangsheng Wang et al. | [2504.11515v1](http://arxiv.org/abs/2504.11515v1) | **NULL** |
 
 ## 背景差分
 
