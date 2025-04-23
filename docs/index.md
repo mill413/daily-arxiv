@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/22 09:06:27
+> Updated on 2025/04/23 09:07:14
 
 <summary>Table of Contents</summary>
 
@@ -43,7 +43,7 @@ layout: default
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
-| **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v1](http://arxiv.org/abs/2410.21822v1) | [**link**](https://github.com/mkang315/pk-yolo) |
+| **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v2](http://arxiv.org/abs/2410.21822v2) | [**link**](https://github.com/mkang315/pk-yolo) |
 | **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
 | **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 | **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v2](http://arxiv.org/abs/2409.14028v2) | [**link**](https://github.com/caiguohui123/msdet) |
@@ -53,15 +53,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/21** | A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention | Tao Yang et al. | [2504.15223v1](http://arxiv.org/abs/2504.15223v1) | **NULL** |
+| **2025/04/21** | HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection | Chengxi Han et al. | [2504.15170v1](http://arxiv.org/abs/2504.15170v1) | [**link**](https://github.com/chengxihan/hsanet) |
+| **2025/04/21** | Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2504.15085v1](http://arxiv.org/abs/2504.15085v1) | **NULL** |
+| **2025/04/21** | DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation | Weijie He et al. | [2504.15032v1](http://arxiv.org/abs/2504.15032v1) | **NULL** |
+| **2025/04/21** | WMKA-Net: A Weighted Multi-Kernel Attention NetworkMethod for Retinal Vessel Segmentation | Xinran Xu et al. | [2504.14888v1](http://arxiv.org/abs/2504.14888v1) | **NULL** |
+| **2025/04/20** | TAPIP3D: Tracking Any Point in Persistent 3D Geometry | Bowei Zhang et al. | [2504.14717v1](http://arxiv.org/abs/2504.14717v1) | [**link**](https://github.com/zbw001/tapip3d) |
+| **2025/04/19** | ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm | Shang Zhang et al. | [2504.14289v1](http://arxiv.org/abs/2504.14289v1) | **NULL** |
+| **2025/04/19** | Cross-attention for State-based model RWKV-7 | Liu Xiao et al. | [2504.14260v1](http://arxiv.org/abs/2504.14260v1) | [**link**](https://github.com/torchrwkv/flash-linear-attention) |
+| **2025/04/19** | Rethinking Traffic Flow Forecasting: From Transition to Generatation | Li Shijiao et al. | [2504.14248v1](http://arxiv.org/abs/2504.14248v1) | **NULL** |
+| **2025/04/18** | From sequence to protein structure and conformational dynamics with AI/ML | Alexander M. Ille et al. | [2504.14059v1](http://arxiv.org/abs/2504.14059v1) | **NULL** |
 | **2025/04/18** | Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models | Junjie Yang et al. | [2504.13825v1](http://arxiv.org/abs/2504.13825v1) | **NULL** |
 | **2025/04/18** | Transformer Encoder and Multi-features Time2Vec for Financial Prediction | Nguyen Kim Hai Bui et al. | [2504.13801v1](http://arxiv.org/abs/2504.13801v1) | **NULL** |
 | **2025/04/18** | Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration | Gianluca Carloni | [2504.13717v1](http://arxiv.org/abs/2504.13717v1) | **NULL** |
 | **2025/04/18** | Long-context Non-factoid Question Answering in Indic Languages | Ritwik Mishra et al. | [2504.13615v1](http://arxiv.org/abs/2504.13615v1) | **NULL** |
-| **2025/04/18** | Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation | Zahra Akhlaghi et al. | [2504.13614v1](http://arxiv.org/abs/2504.13614v1) | **NULL** |
-| **2025/04/18** | FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention | Jun Zeng et al. | [2504.13597v1](http://arxiv.org/abs/2504.13597v1) | **NULL** |
+| **2025/04/18** | Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation | Zahra Akhlaghi et al. | [2504.13614v1](http://arxiv.org/abs/2504.13614v1) | [**link**](https://github.com/zahraakhlaghi/alda4rec) |
+| **2025/04/18** | Entropy Rectifying Guidance for Diffusion and Flow Models | Tariq Berrada Ifriqi et al. | [2504.13987v1](http://arxiv.org/abs/2504.13987v1) | **NULL** |
+| **2025/04/18** | FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention | Jun Zeng et al. | [2504.13597v1](http://arxiv.org/abs/2504.13597v1) | [**link**](https://github.com/junzengz/focusnet) |
 | **2025/04/18** | MSTIM: A MindSpore-Based Model for Traffic Flow Prediction | Weiqi Qin et al. | [2504.13576v1](http://arxiv.org/abs/2504.13576v1) | **NULL** |
 | **2025/04/18** | MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework | Zhenkai Qin et al. | [2504.13574v1](http://arxiv.org/abs/2504.13574v1) | **NULL** |
 | **2025/04/18** | Cross-Modal Temporal Fusion for Financial Market Forecasting | Yunhua Pei et al. | [2504.13522v1](http://arxiv.org/abs/2504.13522v1) | **NULL** |
+| **2025/04/18** | CacheFormer: High Attention-Based Segment Caching | Sushant Singh et al. | [2504.13981v1](http://arxiv.org/abs/2504.13981v1) | **NULL** |
 | **2025/04/18** | Integrating Locality-Aware Attention with Transformers for General Geometry PDEs | Minsu Koh et al. | [2504.13480v1](http://arxiv.org/abs/2504.13480v1) | **NULL** |
 | **2025/04/17** | Dynamic Memory-enhanced Transformer for Hyperspectral Image Classification | Muhammad Ahmad et al. | [2504.13242v1](http://arxiv.org/abs/2504.13242v1) | **NULL** |
 | **2025/04/17** | Hadamard product in deep learning: Introduction, Advances and Challenges | Grigorios G Chrysos et al. | [2504.13112v1](http://arxiv.org/abs/2504.13112v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/04/17** | CST-former: Multidimensional Attention-based Transformer for Sound Event Localization and Detection in Real Scenes | Yusun Shul et al. | [2504.12870v1](http://arxiv.org/abs/2504.12870v1) | **NULL** |
 | **2025/04/17** | SMARTe: Slot-based Method for Accountable Relational Triple extraction | Xue Wen Tan et al. | [2504.12816v1](http://arxiv.org/abs/2504.12816v1) | **NULL** |
 | **2025/04/17** | SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification | Ummay Maria Muna et al. | [2504.13220v1](http://arxiv.org/abs/2504.13220v1) | **NULL** |
-| **2025/04/17** | Simplifying Graph Transformers | Liheng Ma et al. | [2504.12588v1](http://arxiv.org/abs/2504.12588v1) | **NULL** |
-| **2025/04/16** | GLUSE: Enhanced Channel-Wise Adaptive Gated Linear Units SE for Onboard Satellite Earth Observation Image Classification | Thanh-Dung Le et al. | [2504.12484v1](http://arxiv.org/abs/2504.12484v1) | [**link**](https://github.com/ltdung/snt-sentry) |
-| **2025/04/16** | One Model to Rig Them All: Diverse Skeleton Rigging with UniRig | Jia-Peng Zhang et al. | [2504.12451v1](http://arxiv.org/abs/2504.12451v1) | [**link**](https://github.com/VAST-AI-Research/UniRig) |
-| **2025/04/16** | 3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap | Minmin Yang et al. | [2504.12442v1](http://arxiv.org/abs/2504.12442v1) | **NULL** |
-| **2025/04/16** | Attention-Infused Autoencoder for Massive MIMO CSI Compression | Kangzhi Lou et al. | [2504.12440v1](http://arxiv.org/abs/2504.12440v1) | **NULL** |
-| **2025/04/16** | WORLDMEM: Long-term Consistent World Simulation with Memory | Zeqi Xiao et al. | [2504.12369v1](http://arxiv.org/abs/2504.12369v1) | **NULL** |
-| **2025/04/16** | SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields | David Keetae Park et al. | [2504.12262v1](http://arxiv.org/abs/2504.12262v1) | **NULL** |
-| **2025/04/16** | Approximation Bounds for Transformer Networks with Application to Regression | Yuling Jiao et al. | [2504.12175v1](http://arxiv.org/abs/2504.12175v1) | **NULL** |
-| **2025/04/16** | Understanding Attention Mechanism in Video Diffusion Models | Bingyan Liu et al. | [2504.12027v2](http://arxiv.org/abs/2504.12027v2) | **NULL** |
-| **2025/04/16** | A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions | Rahima Khanam et al. | [2504.11995v1](http://arxiv.org/abs/2504.11995v1) | **NULL** |
-| **2025/04/16** | Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach | Lvpan Cai et al. | [2504.11922v1](http://arxiv.org/abs/2504.11922v1) | **NULL** |
-| **2025/04/16** | HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems | Qiyue Chen et al. | [2504.11885v1](http://arxiv.org/abs/2504.11885v1) | **NULL** |
 
 ## 背景差分
 
