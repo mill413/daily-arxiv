@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/24 09:06:47
+> Updated on 2025/04/25 09:07:10
 
 <summary>Table of Contents</summary>
 
@@ -53,13 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/23** | Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light | Ali Hassani et al. | [2504.16922v1](http://arxiv.org/abs/2504.16922v1) | **NULL** |
+| **2025/04/23** | Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention | Xiang Hu et al. | [2504.16795v1](http://arxiv.org/abs/2504.16795v1) | **NULL** |
+| **2025/04/23** | Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism | Lakshita Agarwal et al. | [2504.16774v1](http://arxiv.org/abs/2504.16774v1) | **NULL** |
+| **2025/04/23** | Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism | Lakshita Agarwal et al. | [2504.16761v1](http://arxiv.org/abs/2504.16761v1) | **NULL** |
+| **2025/04/23** | Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval | Xin Jiang et al. | [2504.16691v1](http://arxiv.org/abs/2504.16691v1) | **NULL** |
+| **2025/04/23** | WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks | Younggeol Cho et al. | [2504.16655v1](http://arxiv.org/abs/2504.16655v1) | **NULL** |
+| **2025/04/23** | PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression | Lizhe Chen et al. | [2504.16574v1](http://arxiv.org/abs/2504.16574v1) | **NULL** |
+| **2025/04/23** | A Few-Shot Metric Learning Method with Dual-Channel Attention for Cross-Modal Same-Neuron Identification | Wenwei Li et al. | [2504.16520v1](http://arxiv.org/abs/2504.16520v1) | **NULL** |
+| **2025/04/23** | Transformer-Based Extraction of Statutory Definitions from the U.S. Code | Arpana Hosabettu et al. | [2504.16353v1](http://arxiv.org/abs/2504.16353v1) | **NULL** |
 | **2025/04/22** | SUPRA: Subspace Parameterized Attention for Neural Operator on General Domains | Zherui Yang et al. | [2504.15897v1](http://arxiv.org/abs/2504.15897v1) | **NULL** |
 | **2025/04/22** | Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model | Ying Shan et al. | [2504.15875v1](http://arxiv.org/abs/2504.15875v1) | **NULL** |
 | **2025/04/22** | GADS: A Super Lightweight Model for Head Pose Estimation | Menan Velayuthan et al. | [2504.15751v1](http://arxiv.org/abs/2504.15751v1) | **NULL** |
 | **2025/04/22** | Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation | Ning Wang et al. | [2504.15699v1](http://arxiv.org/abs/2504.15699v1) | **NULL** |
 | **2025/04/22** | Enhancing Reinforcement learning in 3-Dimensional Hydrophobic-Polar Protein Folding Model with Attention-based layers | Peizheng Liu et al. | [2504.15634v1](http://arxiv.org/abs/2504.15634v1) | **NULL** |
 | **2025/04/22** | Bayesian Autoencoder for Medical Anomaly Detection: Uncertainty-Aware Approach for Brain 2 MRI Analysis | Dip Roy | [2504.15562v1](http://arxiv.org/abs/2504.15562v1) | **NULL** |
-| **2025/04/21** | KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments | Junyoung Park et al. | [2504.15364v1](http://arxiv.org/abs/2504.15364v1) | **NULL** |
+| **2025/04/21** | KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments | Junyoung Park et al. | [2504.15364v2](http://arxiv.org/abs/2504.15364v2) | **NULL** |
 | **2025/04/21** | A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention | Tao Yang et al. | [2504.15223v1](http://arxiv.org/abs/2504.15223v1) | **NULL** |
 | **2025/04/21** | HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection | Chengxi Han et al. | [2504.15170v1](http://arxiv.org/abs/2504.15170v1) | [**link**](https://github.com/chengxihan/hsanet) |
 | **2025/04/21** | Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2504.15085v1](http://arxiv.org/abs/2504.15085v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/04/18** | Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models | Junjie Yang et al. | [2504.13825v1](http://arxiv.org/abs/2504.13825v1) | **NULL** |
 | **2025/04/18** | Transformer Encoder and Multi-features Time2Vec for Financial Prediction | Nguyen Kim Hai Bui et al. | [2504.13801v1](http://arxiv.org/abs/2504.13801v1) | **NULL** |
 | **2025/04/18** | Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration | Gianluca Carloni | [2504.13717v1](http://arxiv.org/abs/2504.13717v1) | **NULL** |
-| **2025/04/18** | Long-context Non-factoid Question Answering in Indic Languages | Ritwik Mishra et al. | [2504.13615v1](http://arxiv.org/abs/2504.13615v1) | **NULL** |
-| **2025/04/18** | Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation | Zahra Akhlaghi et al. | [2504.13614v1](http://arxiv.org/abs/2504.13614v1) | [**link**](https://github.com/zahraakhlaghi/alda4rec) |
-| **2025/04/18** | Entropy Rectifying Guidance for Diffusion and Flow Models | Tariq Berrada Ifriqi et al. | [2504.13987v1](http://arxiv.org/abs/2504.13987v1) | **NULL** |
-| **2025/04/18** | FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention | Jun Zeng et al. | [2504.13597v1](http://arxiv.org/abs/2504.13597v1) | [**link**](https://github.com/junzengz/focusnet) |
-| **2025/04/18** | MSTIM: A MindSpore-Based Model for Traffic Flow Prediction | Weiqi Qin et al. | [2504.13576v1](http://arxiv.org/abs/2504.13576v1) | **NULL** |
-| **2025/04/18** | MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework | Zhenkai Qin et al. | [2504.13574v1](http://arxiv.org/abs/2504.13574v1) | **NULL** |
-| **2025/04/18** | Cross-Modal Temporal Fusion for Financial Market Forecasting | Yunhua Pei et al. | [2504.13522v1](http://arxiv.org/abs/2504.13522v1) | **NULL** |
-| **2025/04/18** | CacheFormer: High Attention-Based Segment Caching | Sushant Singh et al. | [2504.13981v1](http://arxiv.org/abs/2504.13981v1) | **NULL** |
-| **2025/04/18** | Integrating Locality-Aware Attention with Transformers for General Geometry PDEs | Minsu Koh et al. | [2504.13480v1](http://arxiv.org/abs/2504.13480v1) | **NULL** |
 
 ## 背景差分
 
