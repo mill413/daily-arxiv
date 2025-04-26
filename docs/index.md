@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/25 09:07:10
+> Updated on 2025/04/26 09:04:54
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/24** | Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach | Sihem Bakri et al. | [2504.17590v1](http://arxiv.org/abs/2504.17590v1) | **NULL** |
+| **2025/04/24** | Combining GCN Structural Learning with LLM Chemical Knowledge for or Enhanced Virtual Screening | Radia Berreziga et al. | [2504.17497v1](http://arxiv.org/abs/2504.17497v1) | **NULL** |
+| **2025/04/24** | Contrastive Learning for Continuous Touch-Based Authentication | Mengyu Qiao et al. | [2504.17271v1](http://arxiv.org/abs/2504.17271v1) | **NULL** |
+| **2025/04/24** | 3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations | Shaoyu Pei et al. | [2504.17255v1](http://arxiv.org/abs/2504.17255v1) | **NULL** |
+| **2025/04/24** | Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo | Ocheme Anthony Ekle et al. | [2504.17252v1](http://arxiv.org/abs/2504.17252v1) | **NULL** |
 | **2025/04/23** | Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light | Ali Hassani et al. | [2504.16922v1](http://arxiv.org/abs/2504.16922v1) | **NULL** |
 | **2025/04/23** | Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention | Xiang Hu et al. | [2504.16795v1](http://arxiv.org/abs/2504.16795v1) | **NULL** |
 | **2025/04/23** | Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism | Lakshita Agarwal et al. | [2504.16774v1](http://arxiv.org/abs/2504.16774v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/04/20** | TAPIP3D: Tracking Any Point in Persistent 3D Geometry | Bowei Zhang et al. | [2504.14717v1](http://arxiv.org/abs/2504.14717v1) | [**link**](https://github.com/zbw001/tapip3d) |
 | **2025/04/19** | ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm | Shang Zhang et al. | [2504.14289v1](http://arxiv.org/abs/2504.14289v1) | **NULL** |
 | **2025/04/19** | Cross-attention for State-based model RWKV-7 | Liu Xiao et al. | [2504.14260v1](http://arxiv.org/abs/2504.14260v1) | [**link**](https://github.com/torchrwkv/flash-linear-attention) |
-| **2025/04/19** | Rethinking Traffic Flow Forecasting: From Transition to Generatation | Li Shijiao et al. | [2504.14248v1](http://arxiv.org/abs/2504.14248v1) | **NULL** |
-| **2025/04/18** | From sequence to protein structure and conformational dynamics with AI/ML | Alexander M. Ille et al. | [2504.14059v1](http://arxiv.org/abs/2504.14059v1) | **NULL** |
-| **2025/04/18** | Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models | Junjie Yang et al. | [2504.13825v1](http://arxiv.org/abs/2504.13825v1) | **NULL** |
-| **2025/04/18** | Transformer Encoder and Multi-features Time2Vec for Financial Prediction | Nguyen Kim Hai Bui et al. | [2504.13801v1](http://arxiv.org/abs/2504.13801v1) | **NULL** |
-| **2025/04/18** | Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration | Gianluca Carloni | [2504.13717v1](http://arxiv.org/abs/2504.13717v1) | **NULL** |
 
 ## 背景差分
 
