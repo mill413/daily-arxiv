@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/28 09:09:41
+> Updated on 2025/04/29 09:07:25
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 | **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
 | **2025/04/14** | Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware | Muhammad Fasih Tariq et al. | [2504.09900v1](http://arxiv.org/abs/2504.09900v1) | **NULL** |
 | **2025/04/11** | SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection | Huaxiang Zhang et al. | [2504.11470v1](http://arxiv.org/abs/2504.11470v1) | **NULL** |
@@ -47,14 +48,18 @@ layout: default
 | **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
 | **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 | **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v2](http://arxiv.org/abs/2409.14028v2) | [**link**](https://github.com/caiguohui123/msdet) |
-| **2024/09/07** | Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection | Mingjin Zhang et al. | [2409.04714v1](http://arxiv.org/abs/2409.04714v1) | [**link**](https://github.com/o937-blip/simir) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/25** | An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images | Andrews Danyo et al. | [2504.18490v1](http://arxiv.org/abs/2504.18490v1) | **NULL** |
+| **2025/04/25** | Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior | Milad Sefidgaran et al. | [2504.18455v1](http://arxiv.org/abs/2504.18455v1) | **NULL** |
+| **2025/04/25** | NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration | Haotian Dong et al. | [2504.18448v1](http://arxiv.org/abs/2504.18448v1) | **NULL** |
+| **2025/04/25** | DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification | Guohao Huo et al. | [2504.18046v1](http://arxiv.org/abs/2504.18046v1) | **NULL** |
+| **2025/04/24** | STNet: Prediction of Underwater Sound Speed Profiles with An Advanced Semi-Transformer Neural Network | Wei Huang et al. | [2504.17912v1](http://arxiv.org/abs/2504.17912v1) | **NULL** |
 | **2025/04/24** | Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach | Sihem Bakri et al. | [2504.17590v1](http://arxiv.org/abs/2504.17590v1) | **NULL** |
-| **2025/04/24** | Combining GCN Structural Learning with LLM Chemical Knowledge for or Enhanced Virtual Screening | Radia Berreziga et al. | [2504.17497v1](http://arxiv.org/abs/2504.17497v1) | **NULL** |
+| **2025/04/24** | Combining GCN Structural Learning with LLM Chemical Knowledge for Enhanced Virtual Screening | Radia Berreziga et al. | [2504.17497v2](http://arxiv.org/abs/2504.17497v2) | **NULL** |
 | **2025/04/24** | Contrastive Learning for Continuous Touch-Based Authentication | Mengyu Qiao et al. | [2504.17271v1](http://arxiv.org/abs/2504.17271v1) | **NULL** |
 | **2025/04/24** | 3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations | Shaoyu Pei et al. | [2504.17255v1](http://arxiv.org/abs/2504.17255v1) | **NULL** |
 | **2025/04/24** | Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo | Ocheme Anthony Ekle et al. | [2504.17252v1](http://arxiv.org/abs/2504.17252v1) | **NULL** |
@@ -71,23 +76,19 @@ layout: default
 | **2025/04/22** | Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model | Ying Shan et al. | [2504.15875v1](http://arxiv.org/abs/2504.15875v1) | **NULL** |
 | **2025/04/22** | GADS: A Super Lightweight Model for Head Pose Estimation | Menan Velayuthan et al. | [2504.15751v1](http://arxiv.org/abs/2504.15751v1) | **NULL** |
 | **2025/04/22** | Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation | Ning Wang et al. | [2504.15699v1](http://arxiv.org/abs/2504.15699v1) | **NULL** |
+| **2025/04/22** | Research on Cloud Platform Network Traffic Monitoring and Anomaly Detection System based on Large Language Models | Ze Yang et al. | [2504.17807v1](http://arxiv.org/abs/2504.17807v1) | **NULL** |
 | **2025/04/22** | Enhancing Reinforcement learning in 3-Dimensional Hydrophobic-Polar Protein Folding Model with Attention-based layers | Peizheng Liu et al. | [2504.15634v1](http://arxiv.org/abs/2504.15634v1) | **NULL** |
 | **2025/04/22** | Bayesian Autoencoder for Medical Anomaly Detection: Uncertainty-Aware Approach for Brain 2 MRI Analysis | Dip Roy | [2504.15562v1](http://arxiv.org/abs/2504.15562v1) | **NULL** |
 | **2025/04/21** | KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments | Junyoung Park et al. | [2504.15364v2](http://arxiv.org/abs/2504.15364v2) | **NULL** |
 | **2025/04/21** | A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention | Tao Yang et al. | [2504.15223v1](http://arxiv.org/abs/2504.15223v1) | **NULL** |
 | **2025/04/21** | HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection | Chengxi Han et al. | [2504.15170v1](http://arxiv.org/abs/2504.15170v1) | [**link**](https://github.com/chengxihan/hsanet) |
 | **2025/04/21** | Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2504.15085v1](http://arxiv.org/abs/2504.15085v1) | **NULL** |
-| **2025/04/21** | DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation | Weijie He et al. | [2504.15032v1](http://arxiv.org/abs/2504.15032v1) | **NULL** |
-| **2025/04/21** | WMKA-Net: A Weighted Multi-Kernel Attention NetworkMethod for Retinal Vessel Segmentation | Xinran Xu et al. | [2504.14888v1](http://arxiv.org/abs/2504.14888v1) | **NULL** |
-| **2025/04/21** | How to systematically develop an effective AI-based bias correction model? | Xiao Zhou et al. | [2504.15322v1](http://arxiv.org/abs/2504.15322v1) | **NULL** |
-| **2025/04/20** | TAPIP3D: Tracking Any Point in Persistent 3D Geometry | Bowei Zhang et al. | [2504.14717v1](http://arxiv.org/abs/2504.14717v1) | [**link**](https://github.com/zbw001/tapip3d) |
-| **2025/04/19** | ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm | Shang Zhang et al. | [2504.14289v1](http://arxiv.org/abs/2504.14289v1) | **NULL** |
-| **2025/04/19** | Cross-attention for State-based model RWKV-7 | Liu Xiao et al. | [2504.14260v1](http://arxiv.org/abs/2504.14260v1) | [**link**](https://github.com/torchrwkv/flash-linear-attention) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
 | **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
 | **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
 | **2025/03/21** | UV LIGHTS. New tools for revealing the low surface brightness regime in the ultraviolet | Ignacio Ruiz Cejudo et al. | [2503.17446v1](http://arxiv.org/abs/2503.17446v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v5](http://arxiv.org/abs/2405.12570v5) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
 | **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
-| **2024/02/21** | QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays | Daniel Moreno | [2402.13805v2](http://arxiv.org/abs/2402.13805v2) | **NULL** |
