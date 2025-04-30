@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/29 09:07:25
+> Updated on 2025/04/30 09:07:33
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/28** | Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism | Adway Das et al. | [2504.19967v1](http://arxiv.org/abs/2504.19967v1) | **NULL** |
+| **2025/04/28** | Attention Mechanism, Max-Affine Partition, and Universal Approximation | Hude Liu et al. | [2504.19901v1](http://arxiv.org/abs/2504.19901v1) | **NULL** |
+| **2025/04/28** | STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction | Zhimin Liao et al. | [2504.19749v1](http://arxiv.org/abs/2504.19749v1) | **NULL** |
+| **2025/04/28** | Graph Fourier Transformer with Structure-Frequency Information | Yonghui Zhai et al. | [2504.19740v1](http://arxiv.org/abs/2504.19740v1) | **NULL** |
+| **2025/04/28** | Taming the Titans: A Survey of Efficient LLM Inference Serving | Ranran Zhen et al. | [2504.19720v1](http://arxiv.org/abs/2504.19720v1) | **NULL** |
+| **2025/04/28** | DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer | Junpeng Jiang et al. | [2504.19614v1](http://arxiv.org/abs/2504.19614v1) | **NULL** |
+| **2025/04/28** | Geometry-Informed Neural Operator Transformer | Qibang Liu et al. | [2504.19452v2](http://arxiv.org/abs/2504.19452v2) | **NULL** |
+| **2025/04/28** | Dual Attention Driven Lumbar Magnetic Resonance Image Feature Enhancement and Automatic Diagnosis of Herniation | Lingrui Zhang et al. | [2504.19438v1](http://arxiv.org/abs/2504.19438v1) | **NULL** |
+| **2025/04/28** | GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability | Sehyeong Jo et al. | [2504.19414v1](http://arxiv.org/abs/2504.19414v1) | **NULL** |
+| **2025/04/28** | UNet with Axial Transformer : A Neural Weather Model for Precipitation Nowcasting | Maitreya Sonawane et al. | [2504.19408v1](http://arxiv.org/abs/2504.19408v1) | **NULL** |
+| **2025/04/27** | CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis | Alexander Baumann et al. | [2504.19223v1](http://arxiv.org/abs/2504.19223v1) | **NULL** |
+| **2025/04/27** | WuNeng: Hybrid State with Attention | Liu Xiao et al. | [2504.19191v1](http://arxiv.org/abs/2504.19191v1) | **NULL** |
+| **2025/04/27** | Hierarchical Attention Generates Better Proofs | Jianlong Chen et al. | [2504.19188v1](http://arxiv.org/abs/2504.19188v1) | **NULL** |
+| **2025/04/27** | MIA-Mind: A Multidimensional Interactive Attention Mechanism Based on MindSpore | Zhenkai Qin et al. | [2504.19080v1](http://arxiv.org/abs/2504.19080v1) | **NULL** |
+| **2025/04/26** | HeartSimSage: Attention-Enhanced Graph Neural Networks for Accelerating Cardiac Mechanics Modeling | Lei Shi et al. | [2504.18968v1](http://arxiv.org/abs/2504.18968v1) | **NULL** |
+| **2025/04/26** | Transformer-Empowered Actor-Critic Reinforcement Learning for Sequence-Aware Service Function Chain Partitioning | Cyril Shih-Huan Hsu et al. | [2504.18902v1](http://arxiv.org/abs/2504.18902v1) | **NULL** |
+| **2025/04/26** | TSRM: A Lightweight Temporal Feature Encoding Architecture for Time Series Forecasting and Imputation | Robert Leppich et al. | [2504.18878v1](http://arxiv.org/abs/2504.18878v1) | **NULL** |
+| **2025/04/26** | PiercingEye: Dual-Space Video Violence Detection with Hyperbolic Vision-Language Guidance | Jiaxu Leng et al. | [2504.18866v1](http://arxiv.org/abs/2504.18866v1) | **NULL** |
+| **2025/04/26** | ALF: Advertiser Large Foundation Model for Multi-Modal Advertiser Understanding | Santosh Rajagopalan et al. | [2504.18785v1](http://arxiv.org/abs/2504.18785v1) | **NULL** |
+| **2025/04/26** | PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data | Manuel Weber et al. | [2504.18770v1](http://arxiv.org/abs/2504.18770v1) | **NULL** |
+| **2025/04/25** | HierSum: A Global and Local Attention Mechanism for Video Summarization | Apoorva Beedu et al. | [2504.18689v1](http://arxiv.org/abs/2504.18689v1) | **NULL** |
+| **2025/04/25** | Research on Personalized Medical Intervention Strategy Generation System based on Group Relative Policy Optimization and Time-Series Data Fusion | Dingxin Lu et al. | [2504.18631v1](http://arxiv.org/abs/2504.18631v1) | **NULL** |
 | **2025/04/25** | An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images | Andrews Danyo et al. | [2504.18490v1](http://arxiv.org/abs/2504.18490v1) | **NULL** |
 | **2025/04/25** | Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior | Milad Sefidgaran et al. | [2504.18455v1](http://arxiv.org/abs/2504.18455v1) | **NULL** |
 | **2025/04/25** | NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration | Haotian Dong et al. | [2504.18448v1](http://arxiv.org/abs/2504.18448v1) | **NULL** |
@@ -61,28 +83,6 @@ layout: default
 | **2025/04/24** | Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach | Sihem Bakri et al. | [2504.17590v1](http://arxiv.org/abs/2504.17590v1) | **NULL** |
 | **2025/04/24** | Combining GCN Structural Learning with LLM Chemical Knowledge for Enhanced Virtual Screening | Radia Berreziga et al. | [2504.17497v2](http://arxiv.org/abs/2504.17497v2) | **NULL** |
 | **2025/04/24** | Contrastive Learning for Continuous Touch-Based Authentication | Mengyu Qiao et al. | [2504.17271v1](http://arxiv.org/abs/2504.17271v1) | **NULL** |
-| **2025/04/24** | 3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations | Shaoyu Pei et al. | [2504.17255v1](http://arxiv.org/abs/2504.17255v1) | **NULL** |
-| **2025/04/24** | Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo | Ocheme Anthony Ekle et al. | [2504.17252v1](http://arxiv.org/abs/2504.17252v1) | **NULL** |
-| **2025/04/23** | Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light | Ali Hassani et al. | [2504.16922v1](http://arxiv.org/abs/2504.16922v1) | **NULL** |
-| **2025/04/23** | Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention | Xiang Hu et al. | [2504.16795v1](http://arxiv.org/abs/2504.16795v1) | **NULL** |
-| **2025/04/23** | Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism | Lakshita Agarwal et al. | [2504.16774v1](http://arxiv.org/abs/2504.16774v1) | **NULL** |
-| **2025/04/23** | Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism | Lakshita Agarwal et al. | [2504.16761v1](http://arxiv.org/abs/2504.16761v1) | **NULL** |
-| **2025/04/23** | Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval | Xin Jiang et al. | [2504.16691v1](http://arxiv.org/abs/2504.16691v1) | **NULL** |
-| **2025/04/23** | WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks | Younggeol Cho et al. | [2504.16655v1](http://arxiv.org/abs/2504.16655v1) | **NULL** |
-| **2025/04/23** | PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression | Lizhe Chen et al. | [2504.16574v1](http://arxiv.org/abs/2504.16574v1) | **NULL** |
-| **2025/04/23** | A Few-Shot Metric Learning Method with Dual-Channel Attention for Cross-Modal Same-Neuron Identification | Wenwei Li et al. | [2504.16520v1](http://arxiv.org/abs/2504.16520v1) | **NULL** |
-| **2025/04/23** | Transformer-Based Extraction of Statutory Definitions from the U.S. Code | Arpana Hosabettu et al. | [2504.16353v1](http://arxiv.org/abs/2504.16353v1) | **NULL** |
-| **2025/04/22** | SUPRA: Subspace Parameterized Attention for Neural Operator on General Domains | Zherui Yang et al. | [2504.15897v1](http://arxiv.org/abs/2504.15897v1) | **NULL** |
-| **2025/04/22** | Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model | Ying Shan et al. | [2504.15875v1](http://arxiv.org/abs/2504.15875v1) | **NULL** |
-| **2025/04/22** | GADS: A Super Lightweight Model for Head Pose Estimation | Menan Velayuthan et al. | [2504.15751v1](http://arxiv.org/abs/2504.15751v1) | **NULL** |
-| **2025/04/22** | Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation | Ning Wang et al. | [2504.15699v1](http://arxiv.org/abs/2504.15699v1) | **NULL** |
-| **2025/04/22** | Research on Cloud Platform Network Traffic Monitoring and Anomaly Detection System based on Large Language Models | Ze Yang et al. | [2504.17807v1](http://arxiv.org/abs/2504.17807v1) | **NULL** |
-| **2025/04/22** | Enhancing Reinforcement learning in 3-Dimensional Hydrophobic-Polar Protein Folding Model with Attention-based layers | Peizheng Liu et al. | [2504.15634v1](http://arxiv.org/abs/2504.15634v1) | **NULL** |
-| **2025/04/22** | Bayesian Autoencoder for Medical Anomaly Detection: Uncertainty-Aware Approach for Brain 2 MRI Analysis | Dip Roy | [2504.15562v1](http://arxiv.org/abs/2504.15562v1) | **NULL** |
-| **2025/04/21** | KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments | Junyoung Park et al. | [2504.15364v2](http://arxiv.org/abs/2504.15364v2) | **NULL** |
-| **2025/04/21** | A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention | Tao Yang et al. | [2504.15223v1](http://arxiv.org/abs/2504.15223v1) | **NULL** |
-| **2025/04/21** | HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection | Chengxi Han et al. | [2504.15170v1](http://arxiv.org/abs/2504.15170v1) | [**link**](https://github.com/chengxihan/hsanet) |
-| **2025/04/21** | Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2504.15085v1](http://arxiv.org/abs/2504.15085v1) | **NULL** |
 
 ## 背景差分
 
