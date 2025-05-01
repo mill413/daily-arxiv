@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/04/30 09:07:33
+> Updated on 2025/05/01 09:13:44
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 | **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
 | **2025/04/14** | Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware | Muhammad Fasih Tariq et al. | [2504.09900v1](http://arxiv.org/abs/2504.09900v1) | **NULL** |
@@ -47,12 +48,22 @@ layout: default
 | **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v2](http://arxiv.org/abs/2410.21822v2) | [**link**](https://github.com/mkang315/pk-yolo) |
 | **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
 | **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
-| **2024/09/21** | MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule | Guohui Cai et al. | [2409.14028v2](http://arxiv.org/abs/2409.14028v2) | [**link**](https://github.com/caiguohui123/msdet) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/29** | Softpick: No Attention Sink, No Massive Activations with Rectified Softmax | Zayd M. K. Zuhri et al. | [2504.20966v1](http://arxiv.org/abs/2504.20966v1) | **NULL** |
+| **2025/04/29** | Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction | Yi He et al. | [2504.20858v1](http://arxiv.org/abs/2504.20858v1) | **NULL** |
+| **2025/04/29** | Mitigating the Structural Bias in Graph Adversarial Defenses | Junyuan Fang et al. | [2504.20848v1](http://arxiv.org/abs/2504.20848v1) | **NULL** |
+| **2025/04/29** | SFi-Former: Sparse Flow Induced Attention for Graph Transformer | Zhonghao Li et al. | [2504.20666v1](http://arxiv.org/abs/2504.20666v1) | **NULL** |
+| **2025/04/29** | SteelBlastQC: Shot-blasted Steel Surface Dataset with Interpretable Detection of Surface Defects | Irina Ruzavina et al. | [2504.20510v1](http://arxiv.org/abs/2504.20510v1) | **NULL** |
+| **2025/04/29** | Quality-factor inspired deep neural network solver for solving inverse scattering problems | Yutong Du et al. | [2504.20504v1](http://arxiv.org/abs/2504.20504v1) | **NULL** |
+| **2025/04/29** | Enhancing News Recommendation with Hierarchical LLM Prompting | Hai-Dang Kieu et al. | [2504.20452v1](http://arxiv.org/abs/2504.20452v1) | **NULL** |
+| **2025/04/29** | PixelHacker: Image Inpainting with Structural and Semantic Consistency | Ziyang Xu et al. | [2504.20438v2](http://arxiv.org/abs/2504.20438v2) | **NULL** |
+| **2025/04/29** | Neural Stereo Video Compression with Hybrid Disparity Compensation | Shiyin Jiang et al. | [2504.20383v1](http://arxiv.org/abs/2504.20383v1) | **NULL** |
+| **2025/04/28** | Dynamic Contextual Attention Network: Transforming Spatial Representations into Adaptive Insights for Endoscopic Polyp Diagnosis | Teja Krishna Cherukuri et al. | [2504.20306v1](http://arxiv.org/abs/2504.20306v1) | **NULL** |
+| **2025/04/28** | ProFi-Net: Prototype-based Feature Attention with Curriculum Augmentation for WiFi-based Gesture Recognition | Zhe Cui et al. | [2504.20193v1](http://arxiv.org/abs/2504.20193v1) | **NULL** |
 | **2025/04/28** | Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism | Adway Das et al. | [2504.19967v1](http://arxiv.org/abs/2504.19967v1) | **NULL** |
 | **2025/04/28** | Attention Mechanism, Max-Affine Partition, and Universal Approximation | Hude Liu et al. | [2504.19901v1](http://arxiv.org/abs/2504.19901v1) | **NULL** |
 | **2025/04/28** | STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction | Zhimin Liao et al. | [2504.19749v1](http://arxiv.org/abs/2504.19749v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/04/26** | TSRM: A Lightweight Temporal Feature Encoding Architecture for Time Series Forecasting and Imputation | Robert Leppich et al. | [2504.18878v1](http://arxiv.org/abs/2504.18878v1) | **NULL** |
 | **2025/04/26** | PiercingEye: Dual-Space Video Violence Detection with Hyperbolic Vision-Language Guidance | Jiaxu Leng et al. | [2504.18866v1](http://arxiv.org/abs/2504.18866v1) | **NULL** |
 | **2025/04/26** | ALF: Advertiser Large Foundation Model for Multi-Modal Advertiser Understanding | Santosh Rajagopalan et al. | [2504.18785v1](http://arxiv.org/abs/2504.18785v1) | **NULL** |
-| **2025/04/26** | PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data | Manuel Weber et al. | [2504.18770v1](http://arxiv.org/abs/2504.18770v1) | **NULL** |
-| **2025/04/25** | HierSum: A Global and Local Attention Mechanism for Video Summarization | Apoorva Beedu et al. | [2504.18689v1](http://arxiv.org/abs/2504.18689v1) | **NULL** |
-| **2025/04/25** | Research on Personalized Medical Intervention Strategy Generation System based on Group Relative Policy Optimization and Time-Series Data Fusion | Dingxin Lu et al. | [2504.18631v1](http://arxiv.org/abs/2504.18631v1) | **NULL** |
-| **2025/04/25** | An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images | Andrews Danyo et al. | [2504.18490v1](http://arxiv.org/abs/2504.18490v1) | **NULL** |
-| **2025/04/25** | Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior | Milad Sefidgaran et al. | [2504.18455v1](http://arxiv.org/abs/2504.18455v1) | **NULL** |
-| **2025/04/25** | NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration | Haotian Dong et al. | [2504.18448v1](http://arxiv.org/abs/2504.18448v1) | **NULL** |
-| **2025/04/25** | DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification | Guohao Huo et al. | [2504.18046v1](http://arxiv.org/abs/2504.18046v1) | **NULL** |
-| **2025/04/24** | STNet: Prediction of Underwater Sound Speed Profiles with An Advanced Semi-Transformer Neural Network | Wei Huang et al. | [2504.17912v1](http://arxiv.org/abs/2504.17912v1) | **NULL** |
-| **2025/04/24** | Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach | Sihem Bakri et al. | [2504.17590v1](http://arxiv.org/abs/2504.17590v1) | **NULL** |
-| **2025/04/24** | Combining GCN Structural Learning with LLM Chemical Knowledge for Enhanced Virtual Screening | Radia Berreziga et al. | [2504.17497v2](http://arxiv.org/abs/2504.17497v2) | **NULL** |
-| **2025/04/24** | Contrastive Learning for Continuous Touch-Based Authentication | Mengyu Qiao et al. | [2504.17271v1](http://arxiv.org/abs/2504.17271v1) | **NULL** |
 
 ## 背景差分
 
