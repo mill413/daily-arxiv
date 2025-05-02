@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/01 09:13:44
+> Updated on 2025/05/02 09:07:44
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/30** | 3D Stylization via Large Reconstruction Model | Ipek Oztas et al. | [2504.21836v1](http://arxiv.org/abs/2504.21836v1) | **NULL** |
+| **2025/04/30** | Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection | Yirui Chen et al. | [2504.21612v1](http://arxiv.org/abs/2504.21612v1) | **NULL** |
+| **2025/04/30** | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | Uzair Shah et al. | [2504.21544v1](http://arxiv.org/abs/2504.21544v1) | **NULL** |
+| **2025/04/30** | MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance | Mengting Wei et al. | [2504.21497v1](http://arxiv.org/abs/2504.21497v1) | **NULL** |
+| **2025/04/30** | Consistency-aware Fake Videos Detection on Short Video Platforms | Junxi Wang et al. | [2504.21495v1](http://arxiv.org/abs/2504.21495v1) | **NULL** |
+| **2025/04/30** | RWKV-X: A Linear Complexity Hybrid Language Model | Haowen Hou et al. | [2504.21463v1](http://arxiv.org/abs/2504.21463v1) | **NULL** |
+| **2025/04/30** | A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting | Xiao Zheng et al. | [2504.21358v1](http://arxiv.org/abs/2504.21358v1) | **NULL** |
+| **2025/04/30** | Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions | ZiYi Dong et al. | [2504.21292v1](http://arxiv.org/abs/2504.21292v1) | **NULL** |
 | **2025/04/29** | Softpick: No Attention Sink, No Massive Activations with Rectified Softmax | Zayd M. K. Zuhri et al. | [2504.20966v1](http://arxiv.org/abs/2504.20966v1) | **NULL** |
 | **2025/04/29** | Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction | Yi He et al. | [2504.20858v1](http://arxiv.org/abs/2504.20858v1) | **NULL** |
 | **2025/04/29** | Mitigating the Structural Bias in Graph Adversarial Defenses | Junyuan Fang et al. | [2504.20848v1](http://arxiv.org/abs/2504.20848v1) | **NULL** |
@@ -75,19 +83,12 @@ layout: default
 | **2025/04/28** | GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability | Sehyeong Jo et al. | [2504.19414v1](http://arxiv.org/abs/2504.19414v1) | **NULL** |
 | **2025/04/28** | UNet with Axial Transformer : A Neural Weather Model for Precipitation Nowcasting | Maitreya Sonawane et al. | [2504.19408v1](http://arxiv.org/abs/2504.19408v1) | **NULL** |
 | **2025/04/27** | CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis | Alexander Baumann et al. | [2504.19223v1](http://arxiv.org/abs/2504.19223v1) | **NULL** |
-| **2025/04/27** | WuNeng: Hybrid State with Attention | Liu Xiao et al. | [2504.19191v1](http://arxiv.org/abs/2504.19191v1) | **NULL** |
-| **2025/04/27** | Hierarchical Attention Generates Better Proofs | Jianlong Chen et al. | [2504.19188v1](http://arxiv.org/abs/2504.19188v1) | **NULL** |
-| **2025/04/27** | MIA-Mind: A Multidimensional Interactive Attention Mechanism Based on MindSpore | Zhenkai Qin et al. | [2504.19080v1](http://arxiv.org/abs/2504.19080v1) | **NULL** |
-| **2025/04/26** | HeartSimSage: Attention-Enhanced Graph Neural Networks for Accelerating Cardiac Mechanics Modeling | Lei Shi et al. | [2504.18968v1](http://arxiv.org/abs/2504.18968v1) | **NULL** |
-| **2025/04/26** | Transformer-Empowered Actor-Critic Reinforcement Learning for Sequence-Aware Service Function Chain Partitioning | Cyril Shih-Huan Hsu et al. | [2504.18902v1](http://arxiv.org/abs/2504.18902v1) | **NULL** |
-| **2025/04/26** | TSRM: A Lightweight Temporal Feature Encoding Architecture for Time Series Forecasting and Imputation | Robert Leppich et al. | [2504.18878v1](http://arxiv.org/abs/2504.18878v1) | **NULL** |
-| **2025/04/26** | PiercingEye: Dual-Space Video Violence Detection with Hyperbolic Vision-Language Guidance | Jiaxu Leng et al. | [2504.18866v1](http://arxiv.org/abs/2504.18866v1) | **NULL** |
-| **2025/04/26** | ALF: Advertiser Large Foundation Model for Multi-Modal Advertiser Understanding | Santosh Rajagopalan et al. | [2504.18785v1](http://arxiv.org/abs/2504.18785v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/30** | Higher derivative corrections to Kerr-AdS black hole thermodynamics | Wei Guo et al. | [2504.21724v1](http://arxiv.org/abs/2504.21724v1) | **NULL** |
 | **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
 | **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
 | **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v5](http://arxiv.org/abs/2405.12570v5) | **NULL** |
 | **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
-| **2024/04/03** | Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI | J. Guy et al. | [2404.03003v4](http://arxiv.org/abs/2404.03003v4) | **NULL** |
