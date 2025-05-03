@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/02 09:07:44
+> Updated on 2025/05/03 09:06:24
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 | **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
@@ -47,12 +48,20 @@ layout: default
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 | **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v2](http://arxiv.org/abs/2410.21822v2) | [**link**](https://github.com/mkang315/pk-yolo) |
 | **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
-| **2024/10/09** | Robust infrared small target detection using self-supervised and a contrario paradigms | Alina Ciocarlan et al. | [2410.07437v1](http://arxiv.org/abs/2410.07437v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/01** | ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models | Jiarong Wei et al. | [2505.00586v1](http://arxiv.org/abs/2505.00586v1) | **NULL** |
+| **2025/05/01** | Toward Automated Regulatory Decision-Making: Trustworthy Medical Device Risk Classification with Multimodal Transformers and Self-Training | Yu Han et al. | [2505.00422v1](http://arxiv.org/abs/2505.00422v1) | **NULL** |
+| **2025/05/01** | DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions | Jinhui Yi et al. | [2505.00402v1](http://arxiv.org/abs/2505.00402v1) | **NULL** |
+| **2025/05/01** | Learning to Estimate Package Delivery Time in Mixed Imbalanced Delivery and Pickup Logistics Services | Jinhui Yi et al. | [2505.00375v1](http://arxiv.org/abs/2505.00375v1) | **NULL** |
+| **2025/05/01** | Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing | Piotr Piękos et al. | [2505.00315v1](http://arxiv.org/abs/2505.00315v1) | **NULL** |
+| **2025/05/01** | Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations | Yu-Hsiang Lan et al. | [2505.00307v1](http://arxiv.org/abs/2505.00307v1) | **NULL** |
+| **2025/05/01** | Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting | Xinlong Zhao et al. | [2505.00302v1](http://arxiv.org/abs/2505.00302v1) | **NULL** |
+| **2025/04/30** | Neuroevolution of Self-Attention Over Proto-Objects | Rafael C. Pinto et al. | [2505.00186v1](http://arxiv.org/abs/2505.00186v1) | **NULL** |
+| **2025/04/30** | Attention-enabled Explainable AI for Bladder Cancer Recurrence Prediction | Saram Abbas et al. | [2505.00171v1](http://arxiv.org/abs/2505.00171v1) | **NULL** |
 | **2025/04/30** | 3D Stylization via Large Reconstruction Model | Ipek Oztas et al. | [2504.21836v1](http://arxiv.org/abs/2504.21836v1) | **NULL** |
 | **2025/04/30** | Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection | Yirui Chen et al. | [2504.21612v1](http://arxiv.org/abs/2504.21612v1) | **NULL** |
 | **2025/04/30** | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | Uzair Shah et al. | [2504.21544v1](http://arxiv.org/abs/2504.21544v1) | **NULL** |
@@ -64,6 +73,7 @@ layout: default
 | **2025/04/29** | Softpick: No Attention Sink, No Massive Activations with Rectified Softmax | Zayd M. K. Zuhri et al. | [2504.20966v1](http://arxiv.org/abs/2504.20966v1) | **NULL** |
 | **2025/04/29** | Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction | Yi He et al. | [2504.20858v1](http://arxiv.org/abs/2504.20858v1) | **NULL** |
 | **2025/04/29** | Mitigating the Structural Bias in Graph Adversarial Defenses | Junyuan Fang et al. | [2504.20848v1](http://arxiv.org/abs/2504.20848v1) | **NULL** |
+| **2025/04/29** | From Attention to Atoms: Spectral Dictionary Learning for Fast, Interpretable Language Models | Andrew Kiruluta | [2505.00033v1](http://arxiv.org/abs/2505.00033v1) | **NULL** |
 | **2025/04/29** | SFi-Former: Sparse Flow Induced Attention for Graph Transformer | Zhonghao Li et al. | [2504.20666v1](http://arxiv.org/abs/2504.20666v1) | **NULL** |
 | **2025/04/29** | SteelBlastQC: Shot-blasted Steel Surface Dataset with Interpretable Detection of Surface Defects | Irina Ruzavina et al. | [2504.20510v1](http://arxiv.org/abs/2504.20510v1) | **NULL** |
 | **2025/04/29** | Quality-factor inspired deep neural network solver for solving inverse scattering problems | Yutong Du et al. | [2504.20504v1](http://arxiv.org/abs/2504.20504v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/04/28** | Dynamic Contextual Attention Network: Transforming Spatial Representations into Adaptive Insights for Endoscopic Polyp Diagnosis | Teja Krishna Cherukuri et al. | [2504.20306v1](http://arxiv.org/abs/2504.20306v1) | **NULL** |
 | **2025/04/28** | ProFi-Net: Prototype-based Feature Attention with Curriculum Augmentation for WiFi-based Gesture Recognition | Zhe Cui et al. | [2504.20193v1](http://arxiv.org/abs/2504.20193v1) | **NULL** |
 | **2025/04/28** | Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism | Adway Das et al. | [2504.19967v1](http://arxiv.org/abs/2504.19967v1) | **NULL** |
-| **2025/04/28** | Attention Mechanism, Max-Affine Partition, and Universal Approximation | Hude Liu et al. | [2504.19901v1](http://arxiv.org/abs/2504.19901v1) | **NULL** |
-| **2025/04/28** | STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction | Zhimin Liao et al. | [2504.19749v1](http://arxiv.org/abs/2504.19749v1) | **NULL** |
-| **2025/04/28** | Graph Fourier Transformer with Structure-Frequency Information | Yonghui Zhai et al. | [2504.19740v1](http://arxiv.org/abs/2504.19740v1) | **NULL** |
-| **2025/04/28** | Taming the Titans: A Survey of Efficient LLM Inference Serving | Ranran Zhen et al. | [2504.19720v1](http://arxiv.org/abs/2504.19720v1) | **NULL** |
-| **2025/04/28** | DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer | Junpeng Jiang et al. | [2504.19614v1](http://arxiv.org/abs/2504.19614v1) | **NULL** |
-| **2025/04/28** | Geometry-Informed Neural Operator Transformer | Qibang Liu et al. | [2504.19452v2](http://arxiv.org/abs/2504.19452v2) | **NULL** |
-| **2025/04/28** | Dual Attention Driven Lumbar Magnetic Resonance Image Feature Enhancement and Automatic Diagnosis of Herniation | Lingrui Zhang et al. | [2504.19438v1](http://arxiv.org/abs/2504.19438v1) | **NULL** |
-| **2025/04/28** | GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability | Sehyeong Jo et al. | [2504.19414v1](http://arxiv.org/abs/2504.19414v1) | **NULL** |
-| **2025/04/28** | UNet with Axial Transformer : A Neural Weather Model for Precipitation Nowcasting | Maitreya Sonawane et al. | [2504.19408v1](http://arxiv.org/abs/2504.19408v1) | **NULL** |
-| **2025/04/27** | CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis | Alexander Baumann et al. | [2504.19223v1](http://arxiv.org/abs/2504.19223v1) | **NULL** |
 
 ## 背景差分
 
