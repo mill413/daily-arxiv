@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/05 09:10:50
+> Updated on 2025/05/06 09:08:29
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/02** | 2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables | Yajuan Zhang et al. | [2505.01286v1](http://arxiv.org/abs/2505.01286v1) | **NULL** |
+| **2025/05/02** | Edge Detection based on Channel Attention and Inter-region Independence Test | Ru-yu Yan et al. | [2505.01040v1](http://arxiv.org/abs/2505.01040v1) | **NULL** |
+| **2025/05/02** | Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing | Ruyu Yan et al. | [2505.01032v1](http://arxiv.org/abs/2505.01032v1) | **NULL** |
+| **2025/05/02** | 3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer | Kamel Aouaidjia et al. | [2505.01003v1](http://arxiv.org/abs/2505.01003v1) | **NULL** |
+| **2025/05/02** | Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism | Kohei Yoshikawa et al. | [2505.00993v1](http://arxiv.org/abs/2505.00993v1) | **NULL** |
+| **2025/05/02** | LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment | Jiahuan Long et al. | [2505.00980v1](http://arxiv.org/abs/2505.00980v1) | **NULL** |
+| **2025/05/01** | Towards Explainable Temporal User Profiling with LLMs | Milad Sabouri et al. | [2505.00886v1](http://arxiv.org/abs/2505.00886v1) | **NULL** |
 | **2025/05/01** | ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models | Jiarong Wei et al. | [2505.00586v1](http://arxiv.org/abs/2505.00586v1) | **NULL** |
 | **2025/05/01** | Toward Automated Regulatory Decision-Making: Trustworthy Medical Device Risk Classification with Multimodal Transformers and Self-Training | Yu Han et al. | [2505.00422v1](http://arxiv.org/abs/2505.00422v1) | **NULL** |
 | **2025/05/01** | DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions | Jinhui Yi et al. | [2505.00402v1](http://arxiv.org/abs/2505.00402v1) | **NULL** |
@@ -70,19 +77,12 @@ layout: default
 | **2025/04/30** | RWKV-X: A Linear Complexity Hybrid Language Model | Haowen Hou et al. | [2504.21463v1](http://arxiv.org/abs/2504.21463v1) | **NULL** |
 | **2025/04/30** | A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting | Xiao Zheng et al. | [2504.21358v1](http://arxiv.org/abs/2504.21358v1) | **NULL** |
 | **2025/04/30** | Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions | ZiYi Dong et al. | [2504.21292v1](http://arxiv.org/abs/2504.21292v1) | **NULL** |
+| **2025/04/30** | XeMap: Contextual Referring in Large-Scale Remote Sensing Environments | Yuxi Li et al. | [2505.00738v1](http://arxiv.org/abs/2505.00738v1) | **NULL** |
+| **2025/04/29** | Leveraging Depth and Attention Mechanisms for Improved RGB Image Inpainting | Jin Hyun Park et al. | [2505.00735v1](http://arxiv.org/abs/2505.00735v1) | **NULL** |
 | **2025/04/29** | Softpick: No Attention Sink, No Massive Activations with Rectified Softmax | Zayd M. K. Zuhri et al. | [2504.20966v1](http://arxiv.org/abs/2504.20966v1) | **NULL** |
 | **2025/04/29** | Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction | Yi He et al. | [2504.20858v1](http://arxiv.org/abs/2504.20858v1) | **NULL** |
 | **2025/04/29** | Mitigating the Structural Bias in Graph Adversarial Defenses | Junyuan Fang et al. | [2504.20848v1](http://arxiv.org/abs/2504.20848v1) | **NULL** |
 | **2025/04/29** | From Attention to Atoms: Spectral Dictionary Learning for Fast, Interpretable Language Models | Andrew Kiruluta | [2505.00033v1](http://arxiv.org/abs/2505.00033v1) | **NULL** |
-| **2025/04/29** | SFi-Former: Sparse Flow Induced Attention for Graph Transformer | Zhonghao Li et al. | [2504.20666v1](http://arxiv.org/abs/2504.20666v1) | **NULL** |
-| **2025/04/29** | SteelBlastQC: Shot-blasted Steel Surface Dataset with Interpretable Detection of Surface Defects | Irina Ruzavina et al. | [2504.20510v1](http://arxiv.org/abs/2504.20510v1) | **NULL** |
-| **2025/04/29** | Quality-factor inspired deep neural network solver for solving inverse scattering problems | Yutong Du et al. | [2504.20504v1](http://arxiv.org/abs/2504.20504v1) | **NULL** |
-| **2025/04/29** | Enhancing News Recommendation with Hierarchical LLM Prompting | Hai-Dang Kieu et al. | [2504.20452v1](http://arxiv.org/abs/2504.20452v1) | **NULL** |
-| **2025/04/29** | PixelHacker: Image Inpainting with Structural and Semantic Consistency | Ziyang Xu et al. | [2504.20438v2](http://arxiv.org/abs/2504.20438v2) | **NULL** |
-| **2025/04/29** | Neural Stereo Video Compression with Hybrid Disparity Compensation | Shiyin Jiang et al. | [2504.20383v1](http://arxiv.org/abs/2504.20383v1) | **NULL** |
-| **2025/04/28** | Dynamic Contextual Attention Network: Transforming Spatial Representations into Adaptive Insights for Endoscopic Polyp Diagnosis | Teja Krishna Cherukuri et al. | [2504.20306v1](http://arxiv.org/abs/2504.20306v1) | **NULL** |
-| **2025/04/28** | ProFi-Net: Prototype-based Feature Attention with Curriculum Augmentation for WiFi-based Gesture Recognition | Zhe Cui et al. | [2504.20193v1](http://arxiv.org/abs/2504.20193v1) | **NULL** |
-| **2025/04/28** | Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism | Adway Das et al. | [2504.19967v1](http://arxiv.org/abs/2504.19967v1) | **NULL** |
 
 ## 背景差分
 
