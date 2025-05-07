@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/06 09:08:29
+> Updated on 2025/05/07 09:08:36
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
@@ -47,12 +48,24 @@ layout: default
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 | **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v2](http://arxiv.org/abs/2410.21822v2) | [**link**](https://github.com/mkang315/pk-yolo) |
-| **2024/10/09** | Self-Supervised Learning for Real-World Object Detection: a Survey | Alina Ciocarlan et al. | [2410.07442v2](http://arxiv.org/abs/2410.07442v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/05** | FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization | Hongze Li et al. | [2505.02515v1](http://arxiv.org/abs/2505.02515v1) | **NULL** |
+| **2025/05/05** | Token Coordinated Prompt Attention is Needed for Visual Prompting | Zichen Liu et al. | [2505.02406v1](http://arxiv.org/abs/2505.02406v1) | **NULL** |
+| **2025/05/05** | Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques | Jie Kong et al. | [2505.02351v1](http://arxiv.org/abs/2505.02351v1) | **NULL** |
+| **2025/05/04** | Minimally Supervised Hierarchical Domain Intent Learning for CRS | Safikureshi Mondal et al. | [2505.02209v1](http://arxiv.org/abs/2505.02209v1) | **NULL** |
+| **2025/05/04** | Focus What Matters: Matchability-Based Reweighting for Local Feature Matching | Dongyue Li | [2505.02161v1](http://arxiv.org/abs/2505.02161v1) | **NULL** |
+| **2025/05/04** | Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data | Zhong Guan et al. | [2505.02130v1](http://arxiv.org/abs/2505.02130v1) | **NULL** |
+| **2025/05/04** | CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting | Minhyuk Lee et al. | [2505.02011v1](http://arxiv.org/abs/2505.02011v1) | **NULL** |
+| **2025/05/04** | Always Skip Attention | Yiping Ji et al. | [2505.01996v1](http://arxiv.org/abs/2505.01996v1) | **NULL** |
+| **2025/05/03** | Positional Attention for Efficient BERT-Based Named Entity Recognition | Mo Sun et al. | [2505.01868v1](http://arxiv.org/abs/2505.01868v1) | **NULL** |
+| **2025/05/03** | CVVNet: A Cross-Vertical-View Network for Gait Recognition | Xiangru Li et al. | [2505.01837v1](http://arxiv.org/abs/2505.01837v1) | **NULL** |
+| **2025/05/03** | Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement | Haofan Wu et al. | [2505.01831v1](http://arxiv.org/abs/2505.01831v1) | **NULL** |
+| **2025/05/03** | Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion | Xingqun Qi et al. | [2505.01746v1](http://arxiv.org/abs/2505.01746v1) | **NULL** |
+| **2025/05/03** | PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems | Han Wan et al. | [2505.01736v1](http://arxiv.org/abs/2505.01736v1) | **NULL** |
 | **2025/05/02** | 2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables | Yajuan Zhang et al. | [2505.01286v1](http://arxiv.org/abs/2505.01286v1) | **NULL** |
 | **2025/05/02** | Edge Detection based on Channel Attention and Inter-region Independence Test | Ru-yu Yan et al. | [2505.01040v1](http://arxiv.org/abs/2505.01040v1) | **NULL** |
 | **2025/05/02** | Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing | Ruyu Yan et al. | [2505.01032v1](http://arxiv.org/abs/2505.01032v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2025/04/30** | Neuroevolution of Self-Attention Over Proto-Objects | Rafael C. Pinto et al. | [2505.00186v1](http://arxiv.org/abs/2505.00186v1) | **NULL** |
 | **2025/04/30** | Attention-enabled Explainable AI for Bladder Cancer Recurrence Prediction | Saram Abbas et al. | [2505.00171v1](http://arxiv.org/abs/2505.00171v1) | **NULL** |
 | **2025/04/30** | 3D Stylization via Large Reconstruction Model | Ipek Oztas et al. | [2504.21836v1](http://arxiv.org/abs/2504.21836v1) | **NULL** |
-| **2025/04/30** | Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection | Yirui Chen et al. | [2504.21612v1](http://arxiv.org/abs/2504.21612v1) | **NULL** |
-| **2025/04/30** | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | Uzair Shah et al. | [2504.21544v1](http://arxiv.org/abs/2504.21544v1) | **NULL** |
-| **2025/04/30** | MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance | Mengting Wei et al. | [2504.21497v1](http://arxiv.org/abs/2504.21497v1) | **NULL** |
-| **2025/04/30** | Consistency-aware Fake Videos Detection on Short Video Platforms | Junxi Wang et al. | [2504.21495v1](http://arxiv.org/abs/2504.21495v1) | **NULL** |
-| **2025/04/30** | RWKV-X: A Linear Complexity Hybrid Language Model | Haowen Hou et al. | [2504.21463v1](http://arxiv.org/abs/2504.21463v1) | **NULL** |
-| **2025/04/30** | A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting | Xiao Zheng et al. | [2504.21358v1](http://arxiv.org/abs/2504.21358v1) | **NULL** |
-| **2025/04/30** | Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions | ZiYi Dong et al. | [2504.21292v1](http://arxiv.org/abs/2504.21292v1) | **NULL** |
-| **2025/04/30** | XeMap: Contextual Referring in Large-Scale Remote Sensing Environments | Yuxi Li et al. | [2505.00738v1](http://arxiv.org/abs/2505.00738v1) | **NULL** |
-| **2025/04/29** | Leveraging Depth and Attention Mechanisms for Improved RGB Image Inpainting | Jin Hyun Park et al. | [2505.00735v1](http://arxiv.org/abs/2505.00735v1) | **NULL** |
-| **2025/04/29** | Softpick: No Attention Sink, No Massive Activations with Rectified Softmax | Zayd M. K. Zuhri et al. | [2504.20966v1](http://arxiv.org/abs/2504.20966v1) | **NULL** |
-| **2025/04/29** | Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction | Yi He et al. | [2504.20858v1](http://arxiv.org/abs/2504.20858v1) | **NULL** |
-| **2025/04/29** | Mitigating the Structural Bias in Graph Adversarial Defenses | Junyuan Fang et al. | [2504.20848v1](http://arxiv.org/abs/2504.20848v1) | **NULL** |
-| **2025/04/29** | From Attention to Atoms: Spectral Dictionary Learning for Fast, Interpretable Language Models | Andrew Kiruluta | [2505.00033v1](http://arxiv.org/abs/2505.00033v1) | **NULL** |
 
 ## 背景差分
 
