@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/08 09:09:35
+> Updated on 2025/05/09 09:08:47
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/07** | Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC | Yongcheng Wu et al. | [2505.04496v1](http://arxiv.org/abs/2505.04496v1) | **NULL** |
+| **2025/05/07** | Multi-Granular Attention based Heterogeneous Hypergraph Neural Network | Hong Jin et al. | [2505.04340v1](http://arxiv.org/abs/2505.04340v1) | **NULL** |
+| **2025/05/07** | Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections | Taoyuan Yu et al. | [2505.04231v1](http://arxiv.org/abs/2505.04231v1) | **NULL** |
+| **2025/05/07** | Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection | Athulya Ratnayake et al. | [2505.04199v1](http://arxiv.org/abs/2505.04199v1) | [**link**](https://github.com/Buddhi19/SCanNet) |
+| **2025/05/07** | SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking | Shang Zhang et al. | [2505.04088v1](http://arxiv.org/abs/2505.04088v1) | **NULL** |
+| **2025/05/07** | Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks | Xuyang Wang et al. | [2505.04046v1](http://arxiv.org/abs/2505.04046v1) | **NULL** |
 | **2025/05/06** | NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation | Baharul Islam et al. | [2505.03711v1](http://arxiv.org/abs/2505.03711v1) | **NULL** |
 | **2025/05/06** | Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration | Shiqi Li et al. | [2505.03692v1](http://arxiv.org/abs/2505.03692v1) | [**link**](https://github.com/shi-qi-li/mdgd) |
 | **2025/05/06** | Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection | Fangling Jiang et al. | [2505.03610v1](http://arxiv.org/abs/2505.03610v1) | **NULL** |
@@ -60,6 +66,7 @@ layout: default
 | **2025/05/06** | STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation | Maolin Wang et al. | [2505.03484v1](http://arxiv.org/abs/2505.03484v1) | **NULL** |
 | **2025/05/06** | SD-VSum: A Method and Dataset for Script-Driven Video Summarization | Manolis Mylonas et al. | [2505.03319v1](http://arxiv.org/abs/2505.03319v1) | [**link**](https://github.com/idt-iti/sd-vsum) |
 | **2025/05/06** | IAFormer: Interaction-Aware Transformer network for collider data analysis | W. Esmail et al. | [2505.03258v1](http://arxiv.org/abs/2505.03258v1) | **NULL** |
+| **2025/05/05** | GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation | Kangsheng Wang et al. | [2505.03846v1](http://arxiv.org/abs/2505.03846v1) | **NULL** |
 | **2025/05/05** | FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization | Hongze Li et al. | [2505.02515v1](http://arxiv.org/abs/2505.02515v1) | **NULL** |
 | **2025/05/05** | Token Coordinated Prompt Attention is Needed for Visual Prompting | Zichen Liu et al. | [2505.02406v2](http://arxiv.org/abs/2505.02406v2) | **NULL** |
 | **2025/05/05** | Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques | Jie Kong et al. | [2505.02351v1](http://arxiv.org/abs/2505.02351v1) | **NULL** |
@@ -73,16 +80,9 @@ layout: default
 | **2025/05/03** | Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement | Haofan Wu et al. | [2505.01831v1](http://arxiv.org/abs/2505.01831v1) | **NULL** |
 | **2025/05/03** | Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion | Xingqun Qi et al. | [2505.01746v1](http://arxiv.org/abs/2505.01746v1) | **NULL** |
 | **2025/05/03** | PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems | Han Wan et al. | [2505.01736v1](http://arxiv.org/abs/2505.01736v1) | **NULL** |
+| **2025/05/02** | Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation | Jaehong Oh | [2505.03815v1](http://arxiv.org/abs/2505.03815v1) | **NULL** |
 | **2025/05/02** | 2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables | Yajuan Zhang et al. | [2505.01286v1](http://arxiv.org/abs/2505.01286v1) | [**link**](https://github.com/jseaj/2dxformer) |
-| **2025/05/02** | Edge Detection based on Channel Attention and Inter-region Independence Test | Ru-yu Yan et al. | [2505.01040v1](http://arxiv.org/abs/2505.01040v1) | **NULL** |
-| **2025/05/02** | Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing | Ruyu Yan et al. | [2505.01032v1](http://arxiv.org/abs/2505.01032v1) | **NULL** |
-| **2025/05/02** | 3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer | Kamel Aouaidjia et al. | [2505.01003v1](http://arxiv.org/abs/2505.01003v1) | **NULL** |
-| **2025/05/02** | Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism | Kohei Yoshikawa et al. | [2505.00993v1](http://arxiv.org/abs/2505.00993v1) | **NULL** |
-| **2025/05/02** | LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment | Jiahuan Long et al. | [2505.00980v1](http://arxiv.org/abs/2505.00980v1) | **NULL** |
-| **2025/05/01** | Towards Explainable Temporal User Profiling with LLMs | Milad Sabouri et al. | [2505.00886v1](http://arxiv.org/abs/2505.00886v1) | **NULL** |
-| **2025/05/01** | ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models | Jiarong Wei et al. | [2505.00586v1](http://arxiv.org/abs/2505.00586v1) | **NULL** |
-| **2025/05/01** | Toward Automated Regulatory Decision-Making: Trustworthy Medical Device Risk Classification with Multimodal Transformers and Self-Training | Yu Han et al. | [2505.00422v1](http://arxiv.org/abs/2505.00422v1) | **NULL** |
-| **2025/05/01** | DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions | Jinhui Yi et al. | [2505.00402v1](http://arxiv.org/abs/2505.00402v1) | **NULL** |
+| **2025/05/02** | Design description of Wisdom Computing Persperctive | TianYi Yu | [2505.03800v1](http://arxiv.org/abs/2505.03800v1) | **NULL** |
 
 ## 背景差分
 
