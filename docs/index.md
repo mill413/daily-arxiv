@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/09 09:08:47
+> Updated on 2025/05/10 09:06:01
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/08** | Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It | Marvin F. da Silva et al. | [2505.05409v1](http://arxiv.org/abs/2505.05409v1) | **NULL** |
+| **2025/05/08** | Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting | Kazi Ashik Islam et al. | [2505.05381v1](http://arxiv.org/abs/2505.05381v1) | **NULL** |
+| **2025/05/08** | T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction | Kun Peng et al. | [2505.05271v1](http://arxiv.org/abs/2505.05271v1) | **NULL** |
+| **2025/05/08** | Research on Anomaly Detection Methods Based on Diffusion Models | Yi Chen | [2505.05137v1](http://arxiv.org/abs/2505.05137v1) | **NULL** |
+| **2025/05/08** | USPR: Learning a Unified Solver for Profiled Routing | Chuanbo Hua et al. | [2505.05119v1](http://arxiv.org/abs/2505.05119v1) | **NULL** |
+| **2025/05/08** | MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models | Hongyang Zhu et al. | [2505.05101v1](http://arxiv.org/abs/2505.05101v1) | **NULL** |
+| **2025/05/08** | FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration | Ying Zhang et al. | [2505.04938v1](http://arxiv.org/abs/2505.04938v1) | **NULL** |
+| **2025/05/07** | Integrated Image Reconstruction and Target Recognition based on Deep Learning Technique | Cien Zhang et al. | [2505.04836v1](http://arxiv.org/abs/2505.04836v1) | **NULL** |
 | **2025/05/07** | Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC | Yongcheng Wu et al. | [2505.04496v1](http://arxiv.org/abs/2505.04496v1) | **NULL** |
 | **2025/05/07** | Multi-Granular Attention based Heterogeneous Hypergraph Neural Network | Hong Jin et al. | [2505.04340v1](http://arxiv.org/abs/2505.04340v1) | **NULL** |
 | **2025/05/07** | Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections | Taoyuan Yu et al. | [2505.04231v1](http://arxiv.org/abs/2505.04231v1) | **NULL** |
 | **2025/05/07** | Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection | Athulya Ratnayake et al. | [2505.04199v1](http://arxiv.org/abs/2505.04199v1) | [**link**](https://github.com/Buddhi19/SCanNet) |
+| **2025/05/07** | Personalized Risks and Regulatory Strategies of Large Language Models in Digital Advertising | Haoyang Feng et al. | [2505.04665v1](http://arxiv.org/abs/2505.04665v1) | **NULL** |
 | **2025/05/07** | SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking | Shang Zhang et al. | [2505.04088v1](http://arxiv.org/abs/2505.04088v1) | **NULL** |
 | **2025/05/07** | Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks | Xuyang Wang et al. | [2505.04046v1](http://arxiv.org/abs/2505.04046v1) | **NULL** |
 | **2025/05/06** | NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation | Baharul Islam et al. | [2505.03711v1](http://arxiv.org/abs/2505.03711v1) | **NULL** |
@@ -67,22 +76,13 @@ layout: default
 | **2025/05/06** | SD-VSum: A Method and Dataset for Script-Driven Video Summarization | Manolis Mylonas et al. | [2505.03319v1](http://arxiv.org/abs/2505.03319v1) | [**link**](https://github.com/idt-iti/sd-vsum) |
 | **2025/05/06** | IAFormer: Interaction-Aware Transformer network for collider data analysis | W. Esmail et al. | [2505.03258v1](http://arxiv.org/abs/2505.03258v1) | **NULL** |
 | **2025/05/05** | GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation | Kangsheng Wang et al. | [2505.03846v1](http://arxiv.org/abs/2505.03846v1) | **NULL** |
-| **2025/05/05** | FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization | Hongze Li et al. | [2505.02515v1](http://arxiv.org/abs/2505.02515v1) | **NULL** |
-| **2025/05/05** | Token Coordinated Prompt Attention is Needed for Visual Prompting | Zichen Liu et al. | [2505.02406v2](http://arxiv.org/abs/2505.02406v2) | **NULL** |
+| **2025/05/05** | FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization | Hongze Li et al. | [2505.02515v1](http://arxiv.org/abs/2505.02515v1) | [**link**](https://github.com/pizzareapers/fedsdaf) |
+| **2025/05/05** | Token Coordinated Prompt Attention is Needed for Visual Prompting | Zichen Liu et al. | [2505.02406v2](http://arxiv.org/abs/2505.02406v2) | [**link**](https://github.com/zhoujiahuan1991/icml2025-tcpa) |
 | **2025/05/05** | Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques | Jie Kong et al. | [2505.02351v1](http://arxiv.org/abs/2505.02351v1) | **NULL** |
+| **2025/05/05** | Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture | Nischal Mandal et al. | [2505.04642v1](http://arxiv.org/abs/2505.04642v1) | **NULL** |
 | **2025/05/04** | Minimally Supervised Hierarchical Domain Intent Learning for CRS | Safikureshi Mondal et al. | [2505.02209v1](http://arxiv.org/abs/2505.02209v1) | **NULL** |
 | **2025/05/04** | Focus What Matters: Matchability-Based Reweighting for Local Feature Matching | Dongyue Li | [2505.02161v1](http://arxiv.org/abs/2505.02161v1) | **NULL** |
 | **2025/05/04** | Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data | Zhong Guan et al. | [2505.02130v1](http://arxiv.org/abs/2505.02130v1) | [**link**](https://github.com/millioniron/llm_exploration) |
-| **2025/05/04** | CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting | Minhyuk Lee et al. | [2505.02011v1](http://arxiv.org/abs/2505.02011v1) | [**link**](https://github.com/lmh9507/casa) |
-| **2025/05/04** | Always Skip Attention | Yiping Ji et al. | [2505.01996v1](http://arxiv.org/abs/2505.01996v1) | **NULL** |
-| **2025/05/03** | Positional Attention for Efficient BERT-Based Named Entity Recognition | Mo Sun et al. | [2505.01868v1](http://arxiv.org/abs/2505.01868v1) | **NULL** |
-| **2025/05/03** | CVVNet: A Cross-Vertical-View Network for Gait Recognition | Xiangru Li et al. | [2505.01837v1](http://arxiv.org/abs/2505.01837v1) | **NULL** |
-| **2025/05/03** | Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement | Haofan Wu et al. | [2505.01831v1](http://arxiv.org/abs/2505.01831v1) | **NULL** |
-| **2025/05/03** | Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion | Xingqun Qi et al. | [2505.01746v1](http://arxiv.org/abs/2505.01746v1) | **NULL** |
-| **2025/05/03** | PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems | Han Wan et al. | [2505.01736v1](http://arxiv.org/abs/2505.01736v1) | **NULL** |
-| **2025/05/02** | Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation | Jaehong Oh | [2505.03815v1](http://arxiv.org/abs/2505.03815v1) | **NULL** |
-| **2025/05/02** | 2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables | Yajuan Zhang et al. | [2505.01286v1](http://arxiv.org/abs/2505.01286v1) | [**link**](https://github.com/jseaj/2dxformer) |
-| **2025/05/02** | Design description of Wisdom Computing Persperctive | TianYi Yu | [2505.03800v1](http://arxiv.org/abs/2505.03800v1) | **NULL** |
 
 ## 背景差分
 
