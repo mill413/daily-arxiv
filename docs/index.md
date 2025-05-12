@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/11 09:13:20
+> Updated on 2025/05/12 09:11:42
 
 <summary>Table of Contents</summary>
 
@@ -59,7 +59,7 @@ layout: default
 | **2025/05/08** | Research on Anomaly Detection Methods Based on Diffusion Models | Yi Chen | [2505.05137v1](http://arxiv.org/abs/2505.05137v1) | **NULL** |
 | **2025/05/08** | USPR: Learning a Unified Solver for Profiled Routing | Chuanbo Hua et al. | [2505.05119v1](http://arxiv.org/abs/2505.05119v1) | **NULL** |
 | **2025/05/08** | MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models | Hongyang Zhu et al. | [2505.05101v1](http://arxiv.org/abs/2505.05101v1) | **NULL** |
-| **2025/05/08** | FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration | Ying Zhang et al. | [2505.04938v1](http://arxiv.org/abs/2505.04938v1) | **NULL** |
+| **2025/05/08** | FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration | Ying Zhang et al. | [2505.04938v2](http://arxiv.org/abs/2505.04938v2) | **NULL** |
 | **2025/05/07** | Integrated Image Reconstruction and Target Recognition based on Deep Learning Technique | Cien Zhang et al. | [2505.04836v1](http://arxiv.org/abs/2505.04836v1) | **NULL** |
 | **2025/05/07** | Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC | Yongcheng Wu et al. | [2505.04496v1](http://arxiv.org/abs/2505.04496v1) | **NULL** |
 | **2025/05/07** | Multi-Granular Attention based Heterogeneous Hypergraph Neural Network | Hong Jin et al. | [2505.04340v1](http://arxiv.org/abs/2505.04340v1) | **NULL** |
