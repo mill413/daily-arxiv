@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/12 09:11:42
+> Updated on 2025/05/13 09:10:03
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v1](http://arxiv.org/abs/2505.05741v1) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
@@ -47,42 +48,41 @@ layout: default
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 | **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
-| **2024/10/29** | PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices | Ming Kang et al. | [2410.21822v2](http://arxiv.org/abs/2410.21822v2) | [**link**](https://github.com/mkang315/pk-yolo) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/09** | Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies | Xu Han et al. | [2505.06145v1](http://arxiv.org/abs/2505.06145v1) | **NULL** |
+| **2025/05/09** | Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks | Hongye Zheng et al. | [2505.05989v1](http://arxiv.org/abs/2505.05989v1) | **NULL** |
+| **2025/05/09** | Achieving 3D Attention via Triplet Squeeze and Excitation Block | Maan Alhazmi et al. | [2505.05943v1](http://arxiv.org/abs/2505.05943v1) | **NULL** |
+| **2025/05/09** | Attention-Enhanced Reservoir Computing as a Multiple Dynamical System Approximator | Felix Köster et al. | [2505.05852v1](http://arxiv.org/abs/2505.05852v1) | **NULL** |
+| **2025/05/09** | A novel Neural-ODE model for the state of health estimation of lithium-ion battery using charging curve | Yiming Li et al. | [2505.05803v1](http://arxiv.org/abs/2505.05803v1) | **NULL** |
+| **2025/05/09** | DeepSync: A Learning Framework for Pervasive Localization using Code Synchronization on Compressed Cellular Spectrum | Aritrik Ghosh et al. | [2505.05783v1](http://arxiv.org/abs/2505.05783v1) | **NULL** |
+| **2025/05/08** | Trading Under Uncertainty: A Distribution-Based Strategy for Futures Markets Using FutureQuant Transformer | Wenhao Guo et al. | [2505.05595v1](http://arxiv.org/abs/2505.05595v1) | **NULL** |
+| **2025/05/08** | Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models | Mikhail Chaichuk et al. | [2505.05573v1](http://arxiv.org/abs/2505.05573v1) | [**link**](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team) |
 | **2025/05/08** | Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It | Marvin F. da Silva et al. | [2505.05409v1](http://arxiv.org/abs/2505.05409v1) | **NULL** |
+| **2025/05/08** | Cardioformer: Advancing AI in ECG Analysis with Multi-Granularity Patching and ResNet | Md Kamrujjaman Mobin et al. | [2505.05538v1](http://arxiv.org/abs/2505.05538v1) | [**link**](https://github.com/kmobin555/cardioformer) |
 | **2025/05/08** | Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting | Kazi Ashik Islam et al. | [2505.05381v1](http://arxiv.org/abs/2505.05381v1) | **NULL** |
 | **2025/05/08** | T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction | Kun Peng et al. | [2505.05271v1](http://arxiv.org/abs/2505.05271v1) | **NULL** |
 | **2025/05/08** | Research on Anomaly Detection Methods Based on Diffusion Models | Yi Chen | [2505.05137v1](http://arxiv.org/abs/2505.05137v1) | **NULL** |
 | **2025/05/08** | USPR: Learning a Unified Solver for Profiled Routing | Chuanbo Hua et al. | [2505.05119v1](http://arxiv.org/abs/2505.05119v1) | **NULL** |
-| **2025/05/08** | MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models | Hongyang Zhu et al. | [2505.05101v1](http://arxiv.org/abs/2505.05101v1) | **NULL** |
+| **2025/05/08** | MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models | Hongyang Zhu et al. | [2505.05101v2](http://arxiv.org/abs/2505.05101v2) | **NULL** |
 | **2025/05/08** | FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration | Ying Zhang et al. | [2505.04938v2](http://arxiv.org/abs/2505.04938v2) | **NULL** |
 | **2025/05/07** | Integrated Image Reconstruction and Target Recognition based on Deep Learning Technique | Cien Zhang et al. | [2505.04836v1](http://arxiv.org/abs/2505.04836v1) | **NULL** |
 | **2025/05/07** | Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC | Yongcheng Wu et al. | [2505.04496v1](http://arxiv.org/abs/2505.04496v1) | **NULL** |
 | **2025/05/07** | Multi-Granular Attention based Heterogeneous Hypergraph Neural Network | Hong Jin et al. | [2505.04340v1](http://arxiv.org/abs/2505.04340v1) | **NULL** |
+| **2025/05/07** | StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation | Yi Liu et al. | [2505.05509v1](http://arxiv.org/abs/2505.05509v1) | **NULL** |
 | **2025/05/07** | Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections | Taoyuan Yu et al. | [2505.04231v1](http://arxiv.org/abs/2505.04231v1) | **NULL** |
 | **2025/05/07** | Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection | Athulya Ratnayake et al. | [2505.04199v1](http://arxiv.org/abs/2505.04199v1) | [**link**](https://github.com/Buddhi19/SCanNet) |
 | **2025/05/07** | Personalized Risks and Regulatory Strategies of Large Language Models in Digital Advertising | Haoyang Feng et al. | [2505.04665v1](http://arxiv.org/abs/2505.04665v1) | **NULL** |
-| **2025/05/07** | SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking | Shang Zhang et al. | [2505.04088v1](http://arxiv.org/abs/2505.04088v1) | **NULL** |
+| **2025/05/07** | SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking | Shang Zhang et al. | [2505.04088v2](http://arxiv.org/abs/2505.04088v2) | **NULL** |
 | **2025/05/07** | Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks | Xuyang Wang et al. | [2505.04046v1](http://arxiv.org/abs/2505.04046v1) | **NULL** |
 | **2025/05/06** | NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation | Baharul Islam et al. | [2505.03711v1](http://arxiv.org/abs/2505.03711v1) | **NULL** |
 | **2025/05/06** | Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration | Shiqi Li et al. | [2505.03692v1](http://arxiv.org/abs/2505.03692v1) | [**link**](https://github.com/shi-qi-li/mdgd) |
 | **2025/05/06** | Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection | Fangling Jiang et al. | [2505.03610v1](http://arxiv.org/abs/2505.03610v1) | **NULL** |
 | **2025/05/06** | UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion | Zhanyuan Jia et al. | [2505.03494v1](http://arxiv.org/abs/2505.03494v1) | [**link**](https://github.com/chenzhao2023/upmad_net_brainseg) |
 | **2025/05/06** | STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation | Maolin Wang et al. | [2505.03484v1](http://arxiv.org/abs/2505.03484v1) | **NULL** |
-| **2025/05/06** | SD-VSum: A Method and Dataset for Script-Driven Video Summarization | Manolis Mylonas et al. | [2505.03319v1](http://arxiv.org/abs/2505.03319v1) | [**link**](https://github.com/idt-iti/sd-vsum) |
-| **2025/05/06** | IAFormer: Interaction-Aware Transformer network for collider data analysis | W. Esmail et al. | [2505.03258v1](http://arxiv.org/abs/2505.03258v1) | **NULL** |
-| **2025/05/05** | GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation | Kangsheng Wang et al. | [2505.03846v1](http://arxiv.org/abs/2505.03846v1) | **NULL** |
-| **2025/05/05** | FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization | Hongze Li et al. | [2505.02515v1](http://arxiv.org/abs/2505.02515v1) | [**link**](https://github.com/pizzareapers/fedsdaf) |
-| **2025/05/05** | Token Coordinated Prompt Attention is Needed for Visual Prompting | Zichen Liu et al. | [2505.02406v2](http://arxiv.org/abs/2505.02406v2) | [**link**](https://github.com/zhoujiahuan1991/icml2025-tcpa) |
-| **2025/05/05** | Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques | Jie Kong et al. | [2505.02351v1](http://arxiv.org/abs/2505.02351v1) | **NULL** |
-| **2025/05/05** | Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture | Nischal Mandal et al. | [2505.04642v1](http://arxiv.org/abs/2505.04642v1) | **NULL** |
-| **2025/05/04** | Minimally Supervised Hierarchical Domain Intent Learning for CRS | Safikureshi Mondal et al. | [2505.02209v1](http://arxiv.org/abs/2505.02209v1) | **NULL** |
-| **2025/05/04** | Focus What Matters: Matchability-Based Reweighting for Local Feature Matching | Dongyue Li | [2505.02161v1](http://arxiv.org/abs/2505.02161v1) | **NULL** |
-| **2025/05/04** | Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data | Zhong Guan et al. | [2505.02130v1](http://arxiv.org/abs/2505.02130v1) | [**link**](https://github.com/millioniron/llm_exploration) |
 
 ## 背景差分
 
