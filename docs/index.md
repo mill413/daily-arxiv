@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/13 09:10:03
+> Updated on 2025/05/14 09:08:58
 
 <summary>Table of Contents</summary>
 
@@ -53,14 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/12** | SEReDeEP: Hallucination Detection in Retrieval-Augmented Models via Semantic Entropy and Context-Parameter Fusion | Lei Wang | [2505.07528v1](http://arxiv.org/abs/2505.07528v1) | **NULL** |
+| **2025/05/12** | MAIS: Memory-Attention for Interactive Segmentation | Mauricio Orbes-Arteaga et al. | [2505.07511v1](http://arxiv.org/abs/2505.07511v1) | **NULL** |
+| **2025/05/12** | UMoE: Unifying Attention and FFN with Shared Experts | Yuanhang Yang et al. | [2505.07260v1](http://arxiv.org/abs/2505.07260v1) | **NULL** |
+| **2025/05/12** | Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning | Chiqiang Liu et al. | [2505.07207v1](http://arxiv.org/abs/2505.07207v1) | **NULL** |
+| **2025/05/11** | Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures | Francesco Cagnetta et al. | [2505.07070v1](http://arxiv.org/abs/2505.07070v1) | **NULL** |
+| **2025/05/11** | Explainable Artificial Intelligence Techniques for Software Development Lifecycle: A Phase-specific Survey | Lakshit Arora et al. | [2505.07058v1](http://arxiv.org/abs/2505.07058v1) | **NULL** |
+| **2025/05/11** | Efficient and Robust Multidimensional Attention in Remote Physiological Sensing through Target Signal Constrained Factorization | Jitesh Joshi et al. | [2505.07013v1](http://arxiv.org/abs/2505.07013v1) | **NULL** |
+| **2025/05/11** | A systematic review of challenges and proposed solutions in modeling multimodal data | Maryam Farhadizadeh et al. | [2505.06945v1](http://arxiv.org/abs/2505.06945v1) | **NULL** |
+| **2025/05/11** | Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism | Yuqi Xiong et al. | [2505.06917v1](http://arxiv.org/abs/2505.06917v1) | [**link**](https://github.com/YukiBear426/AEFIN) |
+| **2025/05/11** | Neuromodulation via Krotov-Hopfield Improves Accuracy and Robustness of RBMs | Başer Tambaş et al. | [2505.06902v1](http://arxiv.org/abs/2505.06902v1) | **NULL** |
+| **2025/05/10** | Symbolic Rule Extraction from Attention-Guided Sparse Representations in Vision Transformers | Parth Padalkar et al. | [2505.06745v1](http://arxiv.org/abs/2505.06745v1) | **NULL** |
+| **2025/05/10** | TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition | Feng Liu et al. | [2505.06536v1](http://arxiv.org/abs/2505.06536v1) | [**link**](https://github.com/shuzihuaiyu/tacfn) |
+| **2025/05/10** | Attention Mechanisms in Dynamical Systems: A Case Study with Predator-Prey Models | David Balaban | [2505.06503v1](http://arxiv.org/abs/2505.06503v1) | **NULL** |
 | **2025/05/09** | Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies | Xu Han et al. | [2505.06145v1](http://arxiv.org/abs/2505.06145v1) | **NULL** |
 | **2025/05/09** | Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks | Hongye Zheng et al. | [2505.05989v1](http://arxiv.org/abs/2505.05989v1) | **NULL** |
 | **2025/05/09** | Achieving 3D Attention via Triplet Squeeze and Excitation Block | Maan Alhazmi et al. | [2505.05943v1](http://arxiv.org/abs/2505.05943v1) | **NULL** |
 | **2025/05/09** | Attention-Enhanced Reservoir Computing as a Multiple Dynamical System Approximator | Felix Köster et al. | [2505.05852v1](http://arxiv.org/abs/2505.05852v1) | **NULL** |
 | **2025/05/09** | A novel Neural-ODE model for the state of health estimation of lithium-ion battery using charging curve | Yiming Li et al. | [2505.05803v1](http://arxiv.org/abs/2505.05803v1) | **NULL** |
 | **2025/05/09** | DeepSync: A Learning Framework for Pervasive Localization using Code Synchronization on Compressed Cellular Spectrum | Aritrik Ghosh et al. | [2505.05783v1](http://arxiv.org/abs/2505.05783v1) | **NULL** |
+| **2025/05/09** | Document Attribution: Examining Citation Relationships using Large Language Models | Vipula Rawte et al. | [2505.06324v1](http://arxiv.org/abs/2505.06324v1) | **NULL** |
 | **2025/05/08** | Trading Under Uncertainty: A Distribution-Based Strategy for Futures Markets Using FutureQuant Transformer | Wenhao Guo et al. | [2505.05595v1](http://arxiv.org/abs/2505.05595v1) | **NULL** |
-| **2025/05/08** | Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models | Mikhail Chaichuk et al. | [2505.05573v1](http://arxiv.org/abs/2505.05573v1) | [**link**](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team) |
+| **2025/05/08** | Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models | Mikhail Chaichuk et al. | [2505.05573v2](http://arxiv.org/abs/2505.05573v2) | [**link**](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team) |
 | **2025/05/08** | Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It | Marvin F. da Silva et al. | [2505.05409v1](http://arxiv.org/abs/2505.05409v1) | **NULL** |
 | **2025/05/08** | Cardioformer: Advancing AI in ECG Analysis with Multi-Granularity Patching and ResNet | Md Kamrujjaman Mobin et al. | [2505.05538v1](http://arxiv.org/abs/2505.05538v1) | [**link**](https://github.com/kmobin555/cardioformer) |
 | **2025/05/08** | Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting | Kazi Ashik Islam et al. | [2505.05381v1](http://arxiv.org/abs/2505.05381v1) | **NULL** |
@@ -69,25 +83,12 @@ layout: default
 | **2025/05/08** | USPR: Learning a Unified Solver for Profiled Routing | Chuanbo Hua et al. | [2505.05119v1](http://arxiv.org/abs/2505.05119v1) | **NULL** |
 | **2025/05/08** | MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models | Hongyang Zhu et al. | [2505.05101v2](http://arxiv.org/abs/2505.05101v2) | **NULL** |
 | **2025/05/08** | FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration | Ying Zhang et al. | [2505.04938v2](http://arxiv.org/abs/2505.04938v2) | **NULL** |
-| **2025/05/07** | Integrated Image Reconstruction and Target Recognition based on Deep Learning Technique | Cien Zhang et al. | [2505.04836v1](http://arxiv.org/abs/2505.04836v1) | **NULL** |
-| **2025/05/07** | Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC | Yongcheng Wu et al. | [2505.04496v1](http://arxiv.org/abs/2505.04496v1) | **NULL** |
-| **2025/05/07** | Multi-Granular Attention based Heterogeneous Hypergraph Neural Network | Hong Jin et al. | [2505.04340v1](http://arxiv.org/abs/2505.04340v1) | **NULL** |
-| **2025/05/07** | StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation | Yi Liu et al. | [2505.05509v1](http://arxiv.org/abs/2505.05509v1) | **NULL** |
-| **2025/05/07** | Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections | Taoyuan Yu et al. | [2505.04231v1](http://arxiv.org/abs/2505.04231v1) | **NULL** |
-| **2025/05/07** | Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection | Athulya Ratnayake et al. | [2505.04199v1](http://arxiv.org/abs/2505.04199v1) | [**link**](https://github.com/Buddhi19/SCanNet) |
-| **2025/05/07** | Personalized Risks and Regulatory Strategies of Large Language Models in Digital Advertising | Haoyang Feng et al. | [2505.04665v1](http://arxiv.org/abs/2505.04665v1) | **NULL** |
-| **2025/05/07** | SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking | Shang Zhang et al. | [2505.04088v2](http://arxiv.org/abs/2505.04088v2) | **NULL** |
-| **2025/05/07** | Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks | Xuyang Wang et al. | [2505.04046v1](http://arxiv.org/abs/2505.04046v1) | **NULL** |
-| **2025/05/06** | NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation | Baharul Islam et al. | [2505.03711v1](http://arxiv.org/abs/2505.03711v1) | **NULL** |
-| **2025/05/06** | Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration | Shiqi Li et al. | [2505.03692v1](http://arxiv.org/abs/2505.03692v1) | [**link**](https://github.com/shi-qi-li/mdgd) |
-| **2025/05/06** | Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection | Fangling Jiang et al. | [2505.03610v1](http://arxiv.org/abs/2505.03610v1) | **NULL** |
-| **2025/05/06** | UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion | Zhanyuan Jia et al. | [2505.03494v1](http://arxiv.org/abs/2505.03494v1) | [**link**](https://github.com/chenzhao2023/upmad_net_brainseg) |
-| **2025/05/06** | STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation | Maolin Wang et al. | [2505.03484v1](http://arxiv.org/abs/2505.03484v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
 | **2025/04/30** | Higher derivative corrections to Kerr-AdS black hole thermodynamics | Wei Guo et al. | [2504.21724v1](http://arxiv.org/abs/2504.21724v1) | **NULL** |
 | **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
 | **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
 | **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v5](http://arxiv.org/abs/2405.12570v5) | **NULL** |
-| **2024/04/09** | JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields | Francesco D'Eugenio et al. | [2404.06531v1](http://arxiv.org/abs/2404.06531v1) | **NULL** |
