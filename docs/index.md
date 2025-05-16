@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/15 09:06:31
+> Updated on 2025/05/16 09:10:13
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/14** | Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra | Kangyu Ji et al. | [2505.09536v1](http://arxiv.org/abs/2505.09536v1) | **NULL** |
+| **2025/05/14** | Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing | Yingjie Ma et al. | [2505.09484v1](http://arxiv.org/abs/2505.09484v1) | **NULL** |
+| **2025/05/14** | Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits | Subrit Dikshit et al. | [2505.09407v1](http://arxiv.org/abs/2505.09407v1) | **NULL** |
+| **2025/05/14** | Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis | Pengli Zhu et al. | [2505.09323v1](http://arxiv.org/abs/2505.09323v1) | **NULL** |
+| **2025/05/14** | BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression | Wei Jiang et al. | [2505.09193v2](http://arxiv.org/abs/2505.09193v2) | **NULL** |
+| **2025/05/14** | Sequential Treatment Effect Estimation with Unmeasured Confounders | Yingrong Wang et al. | [2505.09113v1](http://arxiv.org/abs/2505.09113v1) | **NULL** |
+| **2025/05/14** | AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation | Berkay Guler et al. | [2505.09076v1](http://arxiv.org/abs/2505.09076v1) | [**link**](https://github.com/berkiguler/adafortitran) |
+| **2025/05/13** | DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update | Bizhan Alipour Pijan et al. | [2505.09017v1](http://arxiv.org/abs/2505.09017v1) | **NULL** |
 | **2025/05/13** | SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models | Suhan Guo et al. | [2505.08768v1](http://arxiv.org/abs/2505.08768v1) | **NULL** |
 | **2025/05/13** | TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series | Xiaolei Qin et al. | [2505.08723v1](http://arxiv.org/abs/2505.08723v1) | [**link**](https://github.com/mililab/timo) |
 | **2025/05/13** | Controllable Image Colorization with Instance-aware Texts and Masks | Yanru An et al. | [2505.08705v1](http://arxiv.org/abs/2505.08705v1) | **NULL** |
@@ -63,6 +71,7 @@ layout: default
 | **2025/05/13** | GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI | Lei Su | [2505.08430v1](http://arxiv.org/abs/2505.08430v1) | **NULL** |
 | **2025/05/13** | DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation | Franko Šikić et al. | [2505.08426v1](http://arxiv.org/abs/2505.08426v1) | **NULL** |
 | **2025/05/13** | Skeleton-Guided Diffusion Model for Accurate Foot X-ray Synthesis in Hallux Valgus Diagnosis | Midi Wan et al. | [2505.08247v1](http://arxiv.org/abs/2505.08247v1) | [**link**](https://github.com/midisec/sccdm) |
+| **2025/05/12** | A Comparative Study of Transformer-Based Models for Multi-Horizon Blood Glucose Prediction | Meryem Altin Karagoz et al. | [2505.08821v1](http://arxiv.org/abs/2505.08821v1) | [**link**](https://github.com/Center-for-Diabetes-Technology/TransformerBasedBGPrediction) |
 | **2025/05/12** | RDD: Robust Feature Detector and Descriptor using Deformable Transformer | Gonglin Chen et al. | [2505.08013v1](http://arxiv.org/abs/2505.08013v1) | **NULL** |
 | **2025/05/12** | Task-Adaptive Semantic Communications with Controllable Diffusion-based Data Regeneration | Fupei Guo et al. | [2505.07980v1](http://arxiv.org/abs/2505.07980v1) | **NULL** |
 | **2025/05/12** | SEReDeEP: Hallucination Detection in Retrieval-Augmented Models via Semantic Entropy and Context-Parameter Fusion | Lei Wang | [2505.07528v1](http://arxiv.org/abs/2505.07528v1) | **NULL** |
@@ -70,19 +79,10 @@ layout: default
 | **2025/05/12** | Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based Multi-Task Learning Approach | Ruikun Hou et al. | [2505.07902v1](http://arxiv.org/abs/2505.07902v1) | **NULL** |
 | **2025/05/12** | UMoE: Unifying Attention and FFN with Shared Experts | Yuanhang Yang et al. | [2505.07260v1](http://arxiv.org/abs/2505.07260v1) | **NULL** |
 | **2025/05/12** | Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning | Chiqiang Liu et al. | [2505.07207v1](http://arxiv.org/abs/2505.07207v1) | **NULL** |
-| **2025/05/12** | Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks | Jiafan Li et al. | [2505.07895v1](http://arxiv.org/abs/2505.07895v1) | **NULL** |
+| **2025/05/12** | Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks | Jiafan Li et al. | [2505.07895v1](http://arxiv.org/abs/2505.07895v1) | [**link**](https://github.com/jiafan-ucas/hgnn-ima) |
 | **2025/05/11** | Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures | Francesco Cagnetta et al. | [2505.07070v1](http://arxiv.org/abs/2505.07070v1) | **NULL** |
 | **2025/05/11** | Explainable Artificial Intelligence Techniques for Software Development Lifecycle: A Phase-specific Survey | Lakshit Arora et al. | [2505.07058v1](http://arxiv.org/abs/2505.07058v1) | **NULL** |
 | **2025/05/11** | Efficient and Robust Multidimensional Attention in Remote Physiological Sensing through Target Signal Constrained Factorization | Jitesh Joshi et al. | [2505.07013v1](http://arxiv.org/abs/2505.07013v1) | **NULL** |
-| **2025/05/11** | TSLFormer: A Lightweight Transformer Model for Turkish Sign Language Recognition Using Skeletal Landmarks | Kutay Ertürk et al. | [2505.07890v2](http://arxiv.org/abs/2505.07890v2) | **NULL** |
-| **2025/05/11** | A systematic review of challenges and proposed solutions in modeling multimodal data | Maryam Farhadizadeh et al. | [2505.06945v1](http://arxiv.org/abs/2505.06945v1) | **NULL** |
-| **2025/05/11** | Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism | Yuqi Xiong et al. | [2505.06917v1](http://arxiv.org/abs/2505.06917v1) | [**link**](https://github.com/YukiBear426/AEFIN) |
-| **2025/05/11** | Neuromodulation via Krotov-Hopfield Improves Accuracy and Robustness of RBMs | Başer Tambaş et al. | [2505.06902v1](http://arxiv.org/abs/2505.06902v1) | **NULL** |
-| **2025/05/10** | Symbolic Rule Extraction from Attention-Guided Sparse Representations in Vision Transformers | Parth Padalkar et al. | [2505.06745v1](http://arxiv.org/abs/2505.06745v1) | **NULL** |
-| **2025/05/10** | TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition | Feng Liu et al. | [2505.06536v1](http://arxiv.org/abs/2505.06536v1) | [**link**](https://github.com/shuzihuaiyu/tacfn) |
-| **2025/05/10** | Attention Mechanisms in Dynamical Systems: A Case Study with Predator-Prey Models | David Balaban | [2505.06503v1](http://arxiv.org/abs/2505.06503v1) | **NULL** |
-| **2025/05/09** | Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies | Xu Han et al. | [2505.06145v1](http://arxiv.org/abs/2505.06145v1) | **NULL** |
-| **2025/05/09** | Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks | Hongye Zheng et al. | [2505.05989v1](http://arxiv.org/abs/2505.05989v1) | **NULL** |
 
 ## 背景差分
 
