@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/16 09:10:13
+> Updated on 2025/05/17 09:08:27
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v1](http://arxiv.org/abs/2505.10016v1) | **NULL** |
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v1](http://arxiv.org/abs/2505.05741v1) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
@@ -47,12 +48,20 @@ layout: default
 | **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v3](http://arxiv.org/abs/2411.11477v3) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
 | **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
-| **2024/11/01** | LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO | Yuchen Zheng et al. | [2411.00485v1](http://arxiv.org/abs/2411.00485v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/15** | ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection | Cunhang Fan et al. | [2505.10348v1](http://arxiv.org/abs/2505.10348v1) | **NULL** |
+| **2025/05/15** | Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning | Jiaju Qi et al. | [2505.10296v1](http://arxiv.org/abs/2505.10296v1) | **NULL** |
+| **2025/05/15** | AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons | Hexu Li et al. | [2505.10273v1](http://arxiv.org/abs/2505.10273v1) | **NULL** |
+| **2025/05/15** | ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention | Jintian Shao et al. | [2505.10222v1](http://arxiv.org/abs/2505.10222v1) | **NULL** |
+| **2025/05/15** | Does Scaling Law Apply in Time Series Forecasting? | Zeyan Li et al. | [2505.10172v1](http://arxiv.org/abs/2505.10172v1) | **NULL** |
+| **2025/05/15** | TKFNet: Learning Texture Key Factor Driven Feature for Facial Expression Recognition | Liqian Deng | [2505.09967v1](http://arxiv.org/abs/2505.09967v1) | **NULL** |
+| **2025/05/15** | VRU-CIPI: Crossing Intention Prediction at Intersections for Improving Vulnerable Road Users Safety | Ahmed S. Abdelrahman et al. | [2505.09935v1](http://arxiv.org/abs/2505.09935v1) | **NULL** |
+| **2025/05/15** | Avocado Price Prediction Using a Hybrid Deep Learning Model: TCN-MLP-Attention Architecture | Linwei Zhang et al. | [2505.09907v1](http://arxiv.org/abs/2505.09907v1) | **NULL** |
+| **2025/05/14** | Dyadic Mamba: Long-term Dyadic Human Motion Synthesis | Julian Tanke et al. | [2505.09827v1](http://arxiv.org/abs/2505.09827v1) | **NULL** |
 | **2025/05/14** | Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra | Kangyu Ji et al. | [2505.09536v1](http://arxiv.org/abs/2505.09536v1) | **NULL** |
 | **2025/05/14** | Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing | Yingjie Ma et al. | [2505.09484v1](http://arxiv.org/abs/2505.09484v1) | **NULL** |
 | **2025/05/14** | Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits | Subrit Dikshit et al. | [2505.09407v1](http://arxiv.org/abs/2505.09407v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/05/12** | A Comparative Study of Transformer-Based Models for Multi-Horizon Blood Glucose Prediction | Meryem Altin Karagoz et al. | [2505.08821v1](http://arxiv.org/abs/2505.08821v1) | [**link**](https://github.com/Center-for-Diabetes-Technology/TransformerBasedBGPrediction) |
 | **2025/05/12** | RDD: Robust Feature Detector and Descriptor using Deformable Transformer | Gonglin Chen et al. | [2505.08013v1](http://arxiv.org/abs/2505.08013v1) | **NULL** |
 | **2025/05/12** | Task-Adaptive Semantic Communications with Controllable Diffusion-based Data Regeneration | Fupei Guo et al. | [2505.07980v1](http://arxiv.org/abs/2505.07980v1) | **NULL** |
-| **2025/05/12** | SEReDeEP: Hallucination Detection in Retrieval-Augmented Models via Semantic Entropy and Context-Parameter Fusion | Lei Wang | [2505.07528v1](http://arxiv.org/abs/2505.07528v1) | **NULL** |
-| **2025/05/12** | MAIS: Memory-Attention for Interactive Segmentation | Mauricio Orbes-Arteaga et al. | [2505.07511v1](http://arxiv.org/abs/2505.07511v1) | **NULL** |
-| **2025/05/12** | Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based Multi-Task Learning Approach | Ruikun Hou et al. | [2505.07902v1](http://arxiv.org/abs/2505.07902v1) | **NULL** |
-| **2025/05/12** | UMoE: Unifying Attention and FFN with Shared Experts | Yuanhang Yang et al. | [2505.07260v1](http://arxiv.org/abs/2505.07260v1) | **NULL** |
-| **2025/05/12** | Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning | Chiqiang Liu et al. | [2505.07207v1](http://arxiv.org/abs/2505.07207v1) | **NULL** |
-| **2025/05/12** | Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks | Jiafan Li et al. | [2505.07895v1](http://arxiv.org/abs/2505.07895v1) | [**link**](https://github.com/jiafan-ucas/hgnn-ima) |
-| **2025/05/11** | Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures | Francesco Cagnetta et al. | [2505.07070v1](http://arxiv.org/abs/2505.07070v1) | **NULL** |
-| **2025/05/11** | Explainable Artificial Intelligence Techniques for Software Development Lifecycle: A Phase-specific Survey | Lakshit Arora et al. | [2505.07058v1](http://arxiv.org/abs/2505.07058v1) | **NULL** |
-| **2025/05/11** | Efficient and Robust Multidimensional Attention in Remote Physiological Sensing through Target Signal Constrained Factorization | Jitesh Joshi et al. | [2505.07013v1](http://arxiv.org/abs/2505.07013v1) | **NULL** |
 
 ## 背景差分
 
