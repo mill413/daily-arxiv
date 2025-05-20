@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/19 09:12:57
+> Updated on 2025/05/20 09:10:42
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/16** | Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction | Jeffrey Willette et al. | [2505.11254v1](http://arxiv.org/abs/2505.11254v1) | **NULL** |
+| **2025/05/16** | NoPE: The Counting Power of Transformers with No Positional Encodings | Chris Köcher et al. | [2505.11199v1](http://arxiv.org/abs/2505.11199v1) | **NULL** |
+| **2025/05/16** | DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling | Yuang Ai et al. | [2505.11196v1](http://arxiv.org/abs/2505.11196v1) | **NULL** |
+| **2025/05/16** | CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer | Xinran Li et al. | [2505.11168v1](http://arxiv.org/abs/2505.11168v1) | **NULL** |
+| **2025/05/16** | Attention on the Sphere | Boris Bonev et al. | [2505.11157v1](http://arxiv.org/abs/2505.11157v1) | **NULL** |
+| **2025/05/16** | GraphOracle: A Foundation Model for Knowledge Graph Reasoning | Enjun Du et al. | [2505.11125v1](http://arxiv.org/abs/2505.11125v1) | **NULL** |
+| **2025/05/16** | Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing | Mathis Jürgen Adler et al. | [2505.11121v1](http://arxiv.org/abs/2505.11121v1) | **NULL** |
+| **2025/05/16** | Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation | Guangqiang Li et al. | [2505.11083v1](http://arxiv.org/abs/2505.11083v1) | **NULL** |
+| **2025/05/16** | Efficient Attention via Pre-Scoring: Prioritizing Informative Keys in Transformers | Zhexiang Li et al. | [2505.11040v1](http://arxiv.org/abs/2505.11040v1) | **NULL** |
+| **2025/05/16** | RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects | Jaeguk Kim et al. | [2505.10841v1](http://arxiv.org/abs/2505.10841v1) | **NULL** |
+| **2025/05/16** | Attention-Based Reward Shaping for Sparse and Delayed Rewards | Ian Holmes et al. | [2505.10802v1](http://arxiv.org/abs/2505.10802v1) | **NULL** |
+| **2025/05/15** | GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention | Lingjun Zhao et al. | [2505.10685v1](http://arxiv.org/abs/2505.10685v1) | **NULL** |
+| **2025/05/15** | Seasonal Forecasting of Pan-Arctic Sea Ice with State Space Model | Wei Wang et al. | [2505.10665v1](http://arxiv.org/abs/2505.10665v1) | **NULL** |
 | **2025/05/15** | ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection | Cunhang Fan et al. | [2505.10348v1](http://arxiv.org/abs/2505.10348v1) | [**link**](https://github.com/fchest/listennet) |
 | **2025/05/15** | Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning | Jiaju Qi et al. | [2505.10296v1](http://arxiv.org/abs/2505.10296v1) | **NULL** |
 | **2025/05/15** | AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons | Hexu Li et al. | [2505.10273v1](http://arxiv.org/abs/2505.10273v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2025/05/14** | Sequential Treatment Effect Estimation with Unmeasured Confounders | Yingrong Wang et al. | [2505.09113v1](http://arxiv.org/abs/2505.09113v1) | **NULL** |
 | **2025/05/14** | AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation | Berkay Guler et al. | [2505.09076v1](http://arxiv.org/abs/2505.09076v1) | [**link**](https://github.com/berkiguler/adafortitran) |
 | **2025/05/13** | DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update | Bizhan Alipour Pijan et al. | [2505.09017v1](http://arxiv.org/abs/2505.09017v1) | **NULL** |
-| **2025/05/13** | SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models | Suhan Guo et al. | [2505.08768v1](http://arxiv.org/abs/2505.08768v1) | **NULL** |
-| **2025/05/13** | TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series | Xiaolei Qin et al. | [2505.08723v1](http://arxiv.org/abs/2505.08723v1) | [**link**](https://github.com/mililab/timo) |
-| **2025/05/13** | Controllable Image Colorization with Instance-aware Texts and Masks | Yanru An et al. | [2505.08705v1](http://arxiv.org/abs/2505.08705v1) | **NULL** |
-| **2025/05/13** | AC-PKAN: Attention-Enhanced and Chebyshev Polynomial-Based Physics-Informed Kolmogorov-Arnold Networks | Hangwei Zhang et al. | [2505.08687v1](http://arxiv.org/abs/2505.08687v1) | **NULL** |
-| **2025/05/13** | Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections | Xiao Ni et al. | [2505.08568v2](http://arxiv.org/abs/2505.08568v2) | [**link**](https://github.com/leon2014dresden/yolo-thermal) |
-| **2025/05/13** | The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News | Yuhan Liu et al. | [2505.08532v1](http://arxiv.org/abs/2505.08532v1) | **NULL** |
-| **2025/05/13** | Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain | Hyowon Wi et al. | [2505.08516v1](http://arxiv.org/abs/2505.08516v1) | **NULL** |
-| **2025/05/13** | GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI | Lei Su | [2505.08430v1](http://arxiv.org/abs/2505.08430v1) | **NULL** |
-| **2025/05/13** | DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation | Franko Šikić et al. | [2505.08426v1](http://arxiv.org/abs/2505.08426v1) | **NULL** |
-| **2025/05/13** | Skeleton-Guided Diffusion Model for Accurate Foot X-ray Synthesis in Hallux Valgus Diagnosis | Midi Wan et al. | [2505.08247v1](http://arxiv.org/abs/2505.08247v1) | [**link**](https://github.com/midisec/sccdm) |
-| **2025/05/12** | A Comparative Study of Transformer-Based Models for Multi-Horizon Blood Glucose Prediction | Meryem Altin Karagoz et al. | [2505.08821v1](http://arxiv.org/abs/2505.08821v1) | [**link**](https://github.com/Center-for-Diabetes-Technology/TransformerBasedBGPrediction) |
-| **2025/05/12** | RDD: Robust Feature Detector and Descriptor using Deformable Transformer | Gonglin Chen et al. | [2505.08013v1](http://arxiv.org/abs/2505.08013v1) | **NULL** |
-| **2025/05/12** | Task-Adaptive Semantic Communications with Controllable Diffusion-based Data Regeneration | Fupei Guo et al. | [2505.07980v1](http://arxiv.org/abs/2505.07980v1) | **NULL** |
 
 ## 背景差分
 
