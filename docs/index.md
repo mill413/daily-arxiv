@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/21 09:09:56
+> Updated on 2025/05/22 09:09:48
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/20** | Energy-Efficient Deep Reinforcement Learning with Spiking Transformers | Mohammad Irfan Uddin et al. | [2505.14533v1](http://arxiv.org/abs/2505.14533v1) | **NULL** |
+| **2025/05/20** | Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales | Jun Cao et al. | [2505.14499v1](http://arxiv.org/abs/2505.14499v1) | **NULL** |
+| **2025/05/20** | Low-Cost FlashAttention with Fused Exponential and Multiplication Hardware Operators | Kosmas Alexandridis et al. | [2505.14314v1](http://arxiv.org/abs/2505.14314v1) | **NULL** |
+| **2025/05/20** | Embedded Mean Field Reinforcement Learning for Perimeter-defense Game | Li Wang et al. | [2505.14209v1](http://arxiv.org/abs/2505.14209v1) | **NULL** |
+| **2025/05/20** | FLASH-D: FlashAttention with Hidden Softmax Division | Kosmas Alexandridis et al. | [2505.14201v1](http://arxiv.org/abs/2505.14201v1) | **NULL** |
+| **2025/05/20** | AI-empowered Channel Estimation for Block-based Active IRS-enhanced Hybrid-field IoT Network | Yan Wang et al. | [2505.14098v1](http://arxiv.org/abs/2505.14098v1) | **NULL** |
+| **2025/05/20** | Place Recognition: A Comprehensive Review, Current Challenges and Future Directions | Zhenyu Li et al. | [2505.14068v1](http://arxiv.org/abs/2505.14068v1) | [**link**](https://github.com/cv4ra/sota-place-recognitioner) |
+| **2025/05/20** | CSAGC-IDS: A Dual-Module Deep Learning Network Intrusion Detection Model for Complex and Imbalanced Data | Yifan Zeng | [2505.14027v1](http://arxiv.org/abs/2505.14027v1) | **NULL** |
+| **2025/05/20** | Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer | Tian Sun et al. | [2505.13857v1](http://arxiv.org/abs/2505.13857v1) | **NULL** |
+| **2025/05/20** | Exploring Image Quality Assessment from a New Perspective: Pupil Size | Yixuan Gao et al. | [2505.13841v1](http://arxiv.org/abs/2505.13841v1) | **NULL** |
 | **2025/05/19** | Swin DiT: Diffusion Transformer using Pseudo Shifted Windows | Jiafu Wu et al. | [2505.13219v2](http://arxiv.org/abs/2505.13219v2) | **NULL** |
 | **2025/05/19** | Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast | Ji Qi et al. | [2505.13102v1](http://arxiv.org/abs/2505.13102v1) | [**link**](https://github.com/singularityundefined/unrolling-gsp-stforecast) |
 | **2025/05/19** | Time-Frequency-Based Attention Cache Memory Model for Real-Time Speech Separation | Guo Chen et al. | [2505.13094v1](http://arxiv.org/abs/2505.13094v1) | **NULL** |
@@ -60,6 +70,7 @@ layout: default
 | **2025/05/19** | CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs | Jan Hagnberger et al. | [2505.12944v1](http://arxiv.org/abs/2505.12944v1) | [**link**](https://github.com/jhagnberger/calm-pde) |
 | **2025/05/19** | Temporal Query Network for Efficient Multivariate Time Series Forecasting | Shengsheng Lin et al. | [2505.12917v1](http://arxiv.org/abs/2505.12917v1) | [**link**](https://github.com/ACAT-SCUT/TQNet) |
 | **2025/05/19** | HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion | Le Cheng et al. | [2505.12894v1](http://arxiv.org/abs/2505.12894v1) | **NULL** |
+| **2025/05/19** | CATS: Clustering-Aggregated and Time Series for Business Customer Purchase Intention Prediction | Yingjie Kuang et al. | [2505.13558v1](http://arxiv.org/abs/2505.13558v1) | **NULL** |
 | **2025/05/19** | Enhancing Transformers Through Conditioned Embedded Tokens | Hemanth Saratchandran et al. | [2505.12789v1](http://arxiv.org/abs/2505.12789v1) | **NULL** |
 | **2025/05/19** | FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture | Tenglong Li et al. | [2505.12771v1](http://arxiv.org/abs/2505.12771v1) | **NULL** |
 | **2025/05/19** | Enhancing Channel-Independent Time Series Forecasting via Cross-Variate Patch Embedding | Donghwa Shin et al. | [2505.12761v2](http://arxiv.org/abs/2505.12761v2) | **NULL** |
@@ -71,18 +82,7 @@ layout: default
 | **2025/05/18** | Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction | Sijie Zhao et al. | [2505.12280v1](http://arxiv.org/abs/2505.12280v1) | [**link**](https://github.com/walking-shadow/official_tssun) |
 | **2025/05/18** | SchoenbAt: Rethinking Attention with Polynomial basis | Yuhan Guo et al. | [2505.12252v1](http://arxiv.org/abs/2505.12252v1) | [**link**](https://github.com/1911416-GuoYuhan/SchoenbAt) |
 | **2025/05/18** | CTLformer: A Hybrid Denoising Model Combining Convolutional Layers and Self-Attention for Enhanced CT Image Reconstruction | Zhiting Zheng et al. | [2505.12203v1](http://arxiv.org/abs/2505.12203v1) | **NULL** |
-| **2025/05/17** | Learning to Dissipate Energy in Oscillatory State-Space Models | Jared Boyer et al. | [2505.12171v1](http://arxiv.org/abs/2505.12171v1) | **NULL** |
-| **2025/05/17** | Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting | Xiao Wang et al. | [2505.12136v1](http://arxiv.org/abs/2505.12136v1) | **NULL** |
-| **2025/05/17** | Enhanced Multimodal Hate Video Detection via Channel-wise and Modality-wise Fusion | Yinghui Zhang et al. | [2505.12051v1](http://arxiv.org/abs/2505.12051v1) | [**link**](https://github.com/evelynz10/cmfusion) |
-| **2025/05/17** | FlashBias: Fast Computation of Attention with Bias | Haixu Wu et al. | [2505.12044v1](http://arxiv.org/abs/2505.12044v1) | **NULL** |
-| **2025/05/17** | SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations | Songchun Zhang et al. | [2505.11992v1](http://arxiv.org/abs/2505.11992v1) | **NULL** |
-| **2025/05/17** | AdaptMol: Adaptive Fusion from Sequence String to Topological Structure for Few-shot Drug Discovery | Yifan Dai et al. | [2505.11878v1](http://arxiv.org/abs/2505.11878v1) | **NULL** |
-| **2025/05/16** | Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction | Jeffrey Willette et al. | [2505.11254v1](http://arxiv.org/abs/2505.11254v1) | **NULL** |
-| **2025/05/16** | NoPE: The Counting Power of Transformers with No Positional Encodings | Chris Köcher et al. | [2505.11199v1](http://arxiv.org/abs/2505.11199v1) | **NULL** |
-| **2025/05/16** | DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling | Yuang Ai et al. | [2505.11196v1](http://arxiv.org/abs/2505.11196v1) | **NULL** |
-| **2025/05/16** | CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer | Xinran Li et al. | [2505.11168v1](http://arxiv.org/abs/2505.11168v1) | **NULL** |
-| **2025/05/16** | Attention on the Sphere | Boris Bonev et al. | [2505.11157v1](http://arxiv.org/abs/2505.11157v1) | **NULL** |
-| **2025/05/16** | GraphOracle: A Foundation Model for Knowledge Graph Reasoning | Enjun Du et al. | [2505.11125v1](http://arxiv.org/abs/2505.11125v1) | **NULL** |
+| **2025/05/17** | Learning to Dissipate Energy in Oscillatory State-Space Models | Jared Boyer et al. | [2505.12171v1](http://arxiv.org/abs/2505.12171v1) | [**link**](https://github.com/jaredbmit/damped-linoss) |
 
 ## 背景差分
 
