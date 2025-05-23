@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/22 09:09:48
+> Updated on 2025/05/23 09:09:41
 
 <summary>Table of Contents</summary>
 
@@ -53,17 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/21** | HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning | Xiaodong Mei et al. | [2505.15703v1](http://arxiv.org/abs/2505.15703v1) | **NULL** |
+| **2025/05/21** | Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field | Chang Liu | [2505.15533v1](http://arxiv.org/abs/2505.15533v1) | **NULL** |
+| **2025/05/21** | RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection | Yiming Huang et al. | [2505.15386v1](http://arxiv.org/abs/2505.15386v1) | **NULL** |
+| **2025/05/21** | MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection | Lu Li et al. | [2505.15364v1](http://arxiv.org/abs/2505.15364v1) | **NULL** |
+| **2025/05/21** | Leveraging Foundation Models for Multimodal Graph-Based Action Recognition | Fatemeh Ziaeetabar et al. | [2505.15192v1](http://arxiv.org/abs/2505.15192v1) | **NULL** |
+| **2025/05/21** | MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models | Yifan Liu et al. | [2505.15185v1](http://arxiv.org/abs/2505.15185v1) | [**link**](https://github.com/cuhk-aim-group/monosplat) |
+| **2025/05/21** | Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis | Badhan Mazumder et al. | [2505.15139v1](http://arxiv.org/abs/2505.15139v1) | **NULL** |
+| **2025/05/21** | Seeing the Trees for the Forest: Rethinking Weakly-Supervised Medical Visual Grounding | Ta Duc Huy et al. | [2505.15123v1](http://arxiv.org/abs/2505.15123v1) | **NULL** |
+| **2025/05/21** | SUS backprop: linear backpropagation algorithm for long inputs in transformers | Sergey Pankov et al. | [2505.15080v1](http://arxiv.org/abs/2505.15080v1) | **NULL** |
+| **2025/05/20** | Multi-Channel Swin Transformer Framework for Bearing Remaining Useful Life Prediction | Ali Mohajerzarrinkelk et al. | [2505.14897v1](http://arxiv.org/abs/2505.14897v1) | **NULL** |
 | **2025/05/20** | Energy-Efficient Deep Reinforcement Learning with Spiking Transformers | Mohammad Irfan Uddin et al. | [2505.14533v1](http://arxiv.org/abs/2505.14533v1) | **NULL** |
 | **2025/05/20** | Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales | Jun Cao et al. | [2505.14499v1](http://arxiv.org/abs/2505.14499v1) | **NULL** |
 | **2025/05/20** | Low-Cost FlashAttention with Fused Exponential and Multiplication Hardware Operators | Kosmas Alexandridis et al. | [2505.14314v1](http://arxiv.org/abs/2505.14314v1) | **NULL** |
 | **2025/05/20** | Embedded Mean Field Reinforcement Learning for Perimeter-defense Game | Li Wang et al. | [2505.14209v1](http://arxiv.org/abs/2505.14209v1) | **NULL** |
 | **2025/05/20** | FLASH-D: FlashAttention with Hidden Softmax Division | Kosmas Alexandridis et al. | [2505.14201v1](http://arxiv.org/abs/2505.14201v1) | **NULL** |
 | **2025/05/20** | AI-empowered Channel Estimation for Block-based Active IRS-enhanced Hybrid-field IoT Network | Yan Wang et al. | [2505.14098v1](http://arxiv.org/abs/2505.14098v1) | **NULL** |
-| **2025/05/20** | Place Recognition: A Comprehensive Review, Current Challenges and Future Directions | Zhenyu Li et al. | [2505.14068v1](http://arxiv.org/abs/2505.14068v1) | [**link**](https://github.com/cv4ra/sota-place-recognitioner) |
+| **2025/05/20** | Place Recognition: A Comprehensive Review, Current Challenges and Future Directions | Zhenyu Li et al. | [2505.14068v2](http://arxiv.org/abs/2505.14068v2) | [**link**](https://github.com/cv4ra/sota-place-recognitioner) |
 | **2025/05/20** | CSAGC-IDS: A Dual-Module Deep Learning Network Intrusion Detection Model for Complex and Imbalanced Data | Yifan Zeng | [2505.14027v1](http://arxiv.org/abs/2505.14027v1) | **NULL** |
 | **2025/05/20** | Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer | Tian Sun et al. | [2505.13857v1](http://arxiv.org/abs/2505.13857v1) | **NULL** |
 | **2025/05/20** | Exploring Image Quality Assessment from a New Perspective: Pupil Size | Yixuan Gao et al. | [2505.13841v1](http://arxiv.org/abs/2505.13841v1) | **NULL** |
 | **2025/05/19** | Swin DiT: Diffusion Transformer using Pseudo Shifted Windows | Jiafu Wu et al. | [2505.13219v2](http://arxiv.org/abs/2505.13219v2) | **NULL** |
+| **2025/05/19** | MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion | Wei Hua et al. | [2505.14719v1](http://arxiv.org/abs/2505.14719v1) | **NULL** |
 | **2025/05/19** | Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast | Ji Qi et al. | [2505.13102v1](http://arxiv.org/abs/2505.13102v1) | [**link**](https://github.com/singularityundefined/unrolling-gsp-stforecast) |
 | **2025/05/19** | Time-Frequency-Based Attention Cache Memory Model for Real-Time Speech Separation | Guo Chen et al. | [2505.13094v1](http://arxiv.org/abs/2505.13094v1) | **NULL** |
 | **2025/05/19** | A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation | Vinkle Srivastav et al. | [2505.12998v1](http://arxiv.org/abs/2505.12998v1) | [**link**](https://github.com/camma-public/tfuscapes) |
@@ -72,22 +83,12 @@ layout: default
 | **2025/05/19** | HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion | Le Cheng et al. | [2505.12894v1](http://arxiv.org/abs/2505.12894v1) | **NULL** |
 | **2025/05/19** | CATS: Clustering-Aggregated and Time Series for Business Customer Purchase Intention Prediction | Yingjie Kuang et al. | [2505.13558v1](http://arxiv.org/abs/2505.13558v1) | **NULL** |
 | **2025/05/19** | Enhancing Transformers Through Conditioned Embedded Tokens | Hemanth Saratchandran et al. | [2505.12789v1](http://arxiv.org/abs/2505.12789v1) | **NULL** |
-| **2025/05/19** | FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture | Tenglong Li et al. | [2505.12771v1](http://arxiv.org/abs/2505.12771v1) | **NULL** |
-| **2025/05/19** | Enhancing Channel-Independent Time Series Forecasting via Cross-Variate Patch Embedding | Donghwa Shin et al. | [2505.12761v2](http://arxiv.org/abs/2505.12761v2) | **NULL** |
-| **2025/05/19** | TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning | Lihong Chen et al. | [2505.12670v1](http://arxiv.org/abs/2505.12670v1) | **NULL** |
-| **2025/05/19** | Single Image Reflection Removal via inter-layer Complementarity | Yue Huang et al. | [2505.12641v1](http://arxiv.org/abs/2505.12641v1) | **NULL** |
-| **2025/05/19** | Enhancing Latent Computation in Transformers with Latent Tokens | Yuchang Sun et al. | [2505.12629v1](http://arxiv.org/abs/2505.12629v1) | **NULL** |
-| **2025/05/19** | Dual-Agent Reinforcement Learning for Automated Feature Generation | Wanfu Gao et al. | [2505.12628v1](http://arxiv.org/abs/2505.12628v1) | [**link**](https://github.com/extess0/darl) |
-| **2025/05/18** | Attention-Enhanced U-Net for Accurate Segmentation of COVID-19 Infected Lung Regions in CT Scans | Amal Lahchim et al. | [2505.12298v1](http://arxiv.org/abs/2505.12298v1) | **NULL** |
-| **2025/05/18** | Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction | Sijie Zhao et al. | [2505.12280v1](http://arxiv.org/abs/2505.12280v1) | [**link**](https://github.com/walking-shadow/official_tssun) |
-| **2025/05/18** | SchoenbAt: Rethinking Attention with Polynomial basis | Yuhan Guo et al. | [2505.12252v1](http://arxiv.org/abs/2505.12252v1) | [**link**](https://github.com/1911416-GuoYuhan/SchoenbAt) |
-| **2025/05/18** | CTLformer: A Hybrid Denoising Model Combining Convolutional Layers and Self-Attention for Enhanced CT Image Reconstruction | Zhiting Zheng et al. | [2505.12203v1](http://arxiv.org/abs/2505.12203v1) | **NULL** |
-| **2025/05/17** | Learning to Dissipate Energy in Oscillatory State-Space Models | Jared Boyer et al. | [2505.12171v1](http://arxiv.org/abs/2505.12171v1) | [**link**](https://github.com/jaredbmit/damped-linoss) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/21** | A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains | Sébastien Piérard et al. | [2505.15595v1](http://arxiv.org/abs/2505.15595v1) | **NULL** |
 | **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
 | **2025/04/30** | Higher derivative corrections to Kerr-AdS black hole thermodynamics | Wei Guo et al. | [2504.21724v1](http://arxiv.org/abs/2504.21724v1) | **NULL** |
 | **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
 | **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
 | **2024/05/24** | SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multi-band Imaging | Stacey Alberts et al. | [2405.15972v1](http://arxiv.org/abs/2405.15972v1) | **NULL** |
-| **2024/05/21** | Monte Carlos for tau lepton -- Standard Model and New Physics signatures | Z. Was | [2405.12570v5](http://arxiv.org/abs/2405.12570v5) | **NULL** |
