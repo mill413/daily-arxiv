@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/23 09:09:41
+> Updated on 2025/05/24 09:06:48
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/22** | MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection | Yichen Li et al. | [2505.16442v1](http://arxiv.org/abs/2505.16442v1) | **NULL** |
 | **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v1](http://arxiv.org/abs/2505.10016v1) | **NULL** |
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v1](http://arxiv.org/abs/2505.05741v1) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
@@ -47,12 +48,20 @@ layout: default
 | **2024/11/28** | Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection | Junwei Feng et al. | [2411.19071v1](http://arxiv.org/abs/2411.19071v1) | **NULL** |
 | **2024/11/18** | SL-YOLO: A Stronger and Lighter Drone Target Detection Model | Defan Chen et al. | [2411.11477v3](http://arxiv.org/abs/2411.11477v3) | **NULL** |
 | **2024/11/15** | Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions | Xumin Gao et al. | [2411.10357v1](http://arxiv.org/abs/2411.10357v1) | **NULL** |
-| **2024/11/14** | Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration | Yifan Shao | [2411.09604v1](http://arxiv.org/abs/2411.09604v1) | [**link**](https://github.com/ziyueqingwan/localglobalattention) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/22** | CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms | Shilin Yan et al. | [2505.17020v1](http://arxiv.org/abs/2505.17020v1) | **NULL** |
+| **2025/05/22** | Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction | Dong Li et al. | [2505.16980v1](http://arxiv.org/abs/2505.16980v1) | **NULL** |
+| **2025/05/22** | Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks | Hongyuan Tao et al. | [2505.16901v1](http://arxiv.org/abs/2505.16901v1) | **NULL** |
+| **2025/05/22** | Training-Free Efficient Video Generation via Dynamic Token Carving | Yuechen Zhang et al. | [2505.16864v1](http://arxiv.org/abs/2505.16864v1) | **NULL** |
+| **2025/05/22** | Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation | Hao Guo et al. | [2505.16752v1](http://arxiv.org/abs/2505.16752v1) | **NULL** |
+| **2025/05/22** | Temporal Object Captioning for Street Scene Videos from LiDAR Tracks | Vignesh Gopinathan et al. | [2505.16594v1](http://arxiv.org/abs/2505.16594v1) | **NULL** |
+| **2025/05/22** | PaTH Attention: Position Encoding via Accumulating Householder Transformations | Songlin Yang et al. | [2505.16381v1](http://arxiv.org/abs/2505.16381v1) | **NULL** |
+| **2025/05/22** | Only Large Weights (And Not Skip Connections) Can Prevent the Perils of Rank Collapse | Josh Alman et al. | [2505.16284v1](http://arxiv.org/abs/2505.16284v1) | **NULL** |
+| **2025/05/22** | LINEA: Fast and Accurate Line Detection Using Scalable Transformers | Sebastian Janampa et al. | [2505.16264v1](http://arxiv.org/abs/2505.16264v1) | [**link**](https://github.com/SebastianJanampa/LINEA) |
 | **2025/05/21** | HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning | Xiaodong Mei et al. | [2505.15703v1](http://arxiv.org/abs/2505.15703v1) | **NULL** |
 | **2025/05/21** | Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field | Chang Liu | [2505.15533v1](http://arxiv.org/abs/2505.15533v1) | **NULL** |
 | **2025/05/21** | RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection | Yiming Huang et al. | [2505.15386v1](http://arxiv.org/abs/2505.15386v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/05/20** | Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer | Tian Sun et al. | [2505.13857v1](http://arxiv.org/abs/2505.13857v1) | **NULL** |
 | **2025/05/20** | Exploring Image Quality Assessment from a New Perspective: Pupil Size | Yixuan Gao et al. | [2505.13841v1](http://arxiv.org/abs/2505.13841v1) | **NULL** |
 | **2025/05/19** | Swin DiT: Diffusion Transformer using Pseudo Shifted Windows | Jiafu Wu et al. | [2505.13219v2](http://arxiv.org/abs/2505.13219v2) | **NULL** |
-| **2025/05/19** | MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion | Wei Hua et al. | [2505.14719v1](http://arxiv.org/abs/2505.14719v1) | **NULL** |
-| **2025/05/19** | Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast | Ji Qi et al. | [2505.13102v1](http://arxiv.org/abs/2505.13102v1) | [**link**](https://github.com/singularityundefined/unrolling-gsp-stforecast) |
-| **2025/05/19** | Time-Frequency-Based Attention Cache Memory Model for Real-Time Speech Separation | Guo Chen et al. | [2505.13094v1](http://arxiv.org/abs/2505.13094v1) | **NULL** |
-| **2025/05/19** | A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation | Vinkle Srivastav et al. | [2505.12998v1](http://arxiv.org/abs/2505.12998v1) | [**link**](https://github.com/camma-public/tfuscapes) |
-| **2025/05/19** | CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs | Jan Hagnberger et al. | [2505.12944v1](http://arxiv.org/abs/2505.12944v1) | [**link**](https://github.com/jhagnberger/calm-pde) |
-| **2025/05/19** | Temporal Query Network for Efficient Multivariate Time Series Forecasting | Shengsheng Lin et al. | [2505.12917v1](http://arxiv.org/abs/2505.12917v1) | [**link**](https://github.com/ACAT-SCUT/TQNet) |
-| **2025/05/19** | HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion | Le Cheng et al. | [2505.12894v1](http://arxiv.org/abs/2505.12894v1) | **NULL** |
-| **2025/05/19** | CATS: Clustering-Aggregated and Time Series for Business Customer Purchase Intention Prediction | Yingjie Kuang et al. | [2505.13558v1](http://arxiv.org/abs/2505.13558v1) | **NULL** |
-| **2025/05/19** | Enhancing Transformers Through Conditioned Embedded Tokens | Hemanth Saratchandran et al. | [2505.12789v1](http://arxiv.org/abs/2505.12789v1) | **NULL** |
 
 ## 背景差分
 
