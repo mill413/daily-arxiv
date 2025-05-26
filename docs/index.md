@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/25 09:15:49
+> Updated on 2025/05/26 09:11:39
 
 <summary>Table of Contents</summary>
 
@@ -53,10 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/05/22** | CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms | Shilin Yan et al. | [2505.17020v1](http://arxiv.org/abs/2505.17020v1) | **NULL** |
+| **2025/05/22** | CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms | Shilin Yan et al. | [2505.17020v1](http://arxiv.org/abs/2505.17020v1) | [**link**](https://github.com/shilinyan99/crosslmm) |
 | **2025/05/22** | Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction | Dong Li et al. | [2505.16980v1](http://arxiv.org/abs/2505.16980v1) | **NULL** |
 | **2025/05/22** | Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks | Hongyuan Tao et al. | [2505.16901v1](http://arxiv.org/abs/2505.16901v1) | **NULL** |
-| **2025/05/22** | Training-Free Efficient Video Generation via Dynamic Token Carving | Yuechen Zhang et al. | [2505.16864v1](http://arxiv.org/abs/2505.16864v1) | **NULL** |
+| **2025/05/22** | Training-Free Efficient Video Generation via Dynamic Token Carving | Yuechen Zhang et al. | [2505.16864v1](http://arxiv.org/abs/2505.16864v1) | [**link**](https://github.com/dvlab-research/jenga) |
 | **2025/05/22** | Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation | Hao Guo et al. | [2505.16752v1](http://arxiv.org/abs/2505.16752v1) | **NULL** |
 | **2025/05/22** | Temporal Object Captioning for Street Scene Videos from LiDAR Tracks | Vignesh Gopinathan et al. | [2505.16594v1](http://arxiv.org/abs/2505.16594v1) | **NULL** |
 | **2025/05/22** | PaTH Attention: Position Encoding via Accumulating Householder Transformations | Songlin Yang et al. | [2505.16381v1](http://arxiv.org/abs/2505.16381v1) | **NULL** |
@@ -65,7 +65,7 @@ layout: default
 | **2025/05/21** | HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning | Xiaodong Mei et al. | [2505.15703v1](http://arxiv.org/abs/2505.15703v1) | **NULL** |
 | **2025/05/21** | Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field | Chang Liu | [2505.15533v1](http://arxiv.org/abs/2505.15533v1) | **NULL** |
 | **2025/05/21** | RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection | Yiming Huang et al. | [2505.15386v1](http://arxiv.org/abs/2505.15386v1) | **NULL** |
-| **2025/05/21** | MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection | Lu Li et al. | [2505.15364v1](http://arxiv.org/abs/2505.15364v1) | **NULL** |
+| **2025/05/21** | MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection | Lu Li et al. | [2505.15364v1](http://arxiv.org/abs/2505.15364v1) | [**link**](https://github.com/fchest/mhanet) |
 | **2025/05/21** | Leveraging Foundation Models for Multimodal Graph-Based Action Recognition | Fatemeh Ziaeetabar et al. | [2505.15192v1](http://arxiv.org/abs/2505.15192v1) | **NULL** |
 | **2025/05/21** | MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models | Yifan Liu et al. | [2505.15185v1](http://arxiv.org/abs/2505.15185v1) | [**link**](https://github.com/cuhk-aim-group/monosplat) |
 | **2025/05/21** | Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis | Badhan Mazumder et al. | [2505.15139v1](http://arxiv.org/abs/2505.15139v1) | **NULL** |
@@ -80,7 +80,7 @@ layout: default
 | **2025/05/20** | AI-empowered Channel Estimation for Block-based Active IRS-enhanced Hybrid-field IoT Network | Yan Wang et al. | [2505.14098v1](http://arxiv.org/abs/2505.14098v1) | **NULL** |
 | **2025/05/20** | Place Recognition: A Comprehensive Review, Current Challenges and Future Directions | Zhenyu Li et al. | [2505.14068v2](http://arxiv.org/abs/2505.14068v2) | [**link**](https://github.com/cv4ra/sota-place-recognitioner) |
 | **2025/05/20** | CSAGC-IDS: A Dual-Module Deep Learning Network Intrusion Detection Model for Complex and Imbalanced Data | Yifan Zeng | [2505.14027v1](http://arxiv.org/abs/2505.14027v1) | **NULL** |
-| **2025/05/20** | Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer | Tian Sun et al. | [2505.13857v1](http://arxiv.org/abs/2505.13857v1) | **NULL** |
+| **2025/05/20** | Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer | Tian Sun et al. | [2505.13857v1](http://arxiv.org/abs/2505.13857v1) | [**link**](https://github.com/ysygmhdxw/tedtrajrec) |
 | **2025/05/20** | Exploring Image Quality Assessment from a New Perspective: Pupil Size | Yixuan Gao et al. | [2505.13841v1](http://arxiv.org/abs/2505.13841v1) | **NULL** |
 | **2025/05/19** | Swin DiT: Diffusion Transformer using Pseudo Shifted Windows | Jiafu Wu et al. | [2505.13219v2](http://arxiv.org/abs/2505.13219v2) | **NULL** |
 
