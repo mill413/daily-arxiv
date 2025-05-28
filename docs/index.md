@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/27 09:09:05
+> Updated on 2025/05/28 09:10:22
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/26** | Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases | Cheng-Yu Tai et al. | [2505.20149v1](http://arxiv.org/abs/2505.20149v1) | **NULL** |
+| **2025/05/26** | Transformers in Protein: A Survey | Xiaowen Ling et al. | [2505.20098v2](http://arxiv.org/abs/2505.20098v2) | **NULL** |
+| **2025/05/26** | CA3D: Convolutional-Attentional 3D Nets for Efficient Video Activity Recognition on the Edge | Gabriele Lagani et al. | [2505.19928v1](http://arxiv.org/abs/2505.19928v1) | **NULL** |
+| **2025/05/26** | One Model to Rank Them All: Unifying Online Advertising with End-to-End Learning | Junyan Qiu et al. | [2505.19755v1](http://arxiv.org/abs/2505.19755v1) | **NULL** |
+| **2025/05/26** | Burst Image Super-Resolution via Multi-Cross Attention Encoding and Multi-Scan State-Space Decoding | Tengda Huang et al. | [2505.19668v1](http://arxiv.org/abs/2505.19668v1) | **NULL** |
+| **2025/05/26** | Accelerating Prefilling for Long-Context LLMs via Sparse Pattern Sharing | Dan Peng et al. | [2505.19578v1](http://arxiv.org/abs/2505.19578v1) | **NULL** |
+| **2025/05/26** | Few-Shot Class-Incremental Learning For Efficient SAR Automatic Target Recognition | George Karantaidis et al. | [2505.19565v1](http://arxiv.org/abs/2505.19565v1) | **NULL** |
+| **2025/05/26** | Minimalist Softmax Attention Provably Learns Constrained Boolean Functions | Jerry Yao-Chieh Hu et al. | [2505.19531v1](http://arxiv.org/abs/2505.19531v1) | **NULL** |
+| **2025/05/26** | DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy | Rui Zhao et al. | [2505.19516v1](http://arxiv.org/abs/2505.19516v1) | **NULL** |
+| **2025/05/26** | Structure Disruption: Subverting Malicious Diffusion-Based Inpainting via Self-Attention Query Perturbation | Yuhao He et al. | [2505.19425v1](http://arxiv.org/abs/2505.19425v1) | **NULL** |
+| **2025/05/25** | Communication-Efficient Multi-Device Inference Acceleration for Transformer Models | Xiao Liu et al. | [2505.19342v1](http://arxiv.org/abs/2505.19342v1) | **NULL** |
+| **2025/05/25** | ADGSyn: Dual-Stream Learning for Efficient Anticancer Drug Synergy Prediction | Yuxuan Nie et al. | [2505.19144v1](http://arxiv.org/abs/2505.19144v1) | [**link**](https://github.com/Echo-Nie/ADGSyn) |
+| **2025/05/25** | Co-AttenDWG: Co-Attentive Dimension-Wise Gating and Expert Fusion for Multi-Modal Offensive Content Detection | Md. Mithun Hossain et al. | [2505.19010v1](http://arxiv.org/abs/2505.19010v1) | **NULL** |
+| **2025/05/25** | Kernel Space Diffusion Model for Efficient Remote Sensing Pansharpening | Hancong Jin et al. | [2505.18991v1](http://arxiv.org/abs/2505.18991v1) | **NULL** |
+| **2025/05/24** | MSLAU-Net: A Hybird CNN-Transformer Network for Medical Image Segmentation | Libin Lan et al. | [2505.18823v1](http://arxiv.org/abs/2505.18823v1) | **NULL** |
+| **2025/05/24** | VORTA: Efficient Video Diffusion via Routing Sparse Attention | Wenhao Sun et al. | [2505.18809v1](http://arxiv.org/abs/2505.18809v1) | **NULL** |
+| **2025/05/24** | Season-Independent PV Disaggregation Using Multi-Scale Net Load Temporal Feature Extraction and Weather Factor Fusion | Xiaolu Chen et al. | [2505.18747v1](http://arxiv.org/abs/2505.18747v1) | **NULL** |
+| **2025/05/24** | MonarchAttention: Zero-Shot Conversion to Fast, Hardware-Aware Structured Attention | Can Yaras et al. | [2505.18698v1](http://arxiv.org/abs/2505.18698v1) | **NULL** |
+| **2025/05/24** | HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection | Pavan C Shekar et al. | [2505.18587v1](http://arxiv.org/abs/2505.18587v1) | **NULL** |
+| **2025/05/24** | How Does Sequence Modeling Architecture Influence Base Capabilities of Pre-trained Language Models? Exploring Key Architecture Design Principles to Avoid Base Capabilities Degradation | Xin Lu et al. | [2505.18522v1](http://arxiv.org/abs/2505.18522v1) | **NULL** |
+| **2025/05/23** | Small Models, Smarter Learning: The Power of Joint Task Training | Csaba Both et al. | [2505.18369v1](http://arxiv.org/abs/2505.18369v1) | **NULL** |
 | **2025/05/23** | AFD-STA: Adaptive Filtering Denoising with Spatiotemporal Attention for Chaotic System Prediction | Chunlin Gong et al. | [2505.18080v1](http://arxiv.org/abs/2505.18080v1) | **NULL** |
 | **2025/05/23** | RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration | Sudarshan Rajagopalan et al. | [2505.18047v1](http://arxiv.org/abs/2505.18047v1) | **NULL** |
 | **2025/05/23** | CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention | Naseem Khan et al. | [2505.18035v1](http://arxiv.org/abs/2505.18035v1) | **NULL** |
 | **2025/05/23** | Sec5GLoc: Securing 5G Indoor Localization via Adversary-Resilient Deep Learning Architecture | Ildi Alla et al. | [2505.17776v1](http://arxiv.org/abs/2505.17776v1) | **NULL** |
 | **2025/05/23** | R-Genie: Reasoning-Guided Generative Image Editing | Dong Zhang et al. | [2505.17768v1](http://arxiv.org/abs/2505.17768v1) | **NULL** |
+| **2025/05/23** | Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality | Zhenglun Kong et al. | [2505.18227v1](http://arxiv.org/abs/2505.18227v1) | **NULL** |
 | **2025/05/23** | Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH Detection | Dan Yuan et al. | [2505.17683v1](http://arxiv.org/abs/2505.17683v1) | **NULL** |
 | **2025/05/23** | DAM-GT: Dual Positional Encoding-Based Attention Masking Graph Transformer for Node Classification | Chenyang Li et al. | [2505.17660v1](http://arxiv.org/abs/2505.17660v1) | **NULL** |
 | **2025/05/23** | GIM: Improved Interpretability for Large Language Models | Joakim Edin et al. | [2505.17630v1](http://arxiv.org/abs/2505.17630v1) | **NULL** |
-| **2025/05/23** | DECT-based Space-Squeeze Method for Multi-Class Classification of Metastatic Lymph Nodes in Breast Cancer | Hai Jiang et al. | [2505.17528v1](http://arxiv.org/abs/2505.17528v1) | **NULL** |
-| **2025/05/23** | Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention | Shuang Wu et al. | [2505.17412v1](http://arxiv.org/abs/2505.17412v1) | **NULL** |
-| **2025/05/23** | Graph Attention Neural Network for Botnet Detection: Evaluating Autoencoder, VAE and PCA-Based Dimension Reduction | Hassan Wasswa et al. | [2505.17357v1](http://arxiv.org/abs/2505.17357v1) | **NULL** |
-| **2025/05/22** | A Multi-Head Attention Soft Random Forest for Interpretable Patient No-Show Prediction | Ninda Nurseha Amalina et al. | [2505.17344v1](http://arxiv.org/abs/2505.17344v1) | **NULL** |
-| **2025/05/22** | Transformer brain encoders explain human high-level visual responses | Hossein Adeli et al. | [2505.17329v1](http://arxiv.org/abs/2505.17329v1) | **NULL** |
-| **2025/05/22** | From Compression to Expansion: A Layerwise Analysis of In-Context Learning | Jiachen Jiang et al. | [2505.17322v1](http://arxiv.org/abs/2505.17322v1) | **NULL** |
-| **2025/05/22** | CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms | Shilin Yan et al. | [2505.17020v1](http://arxiv.org/abs/2505.17020v1) | [**link**](https://github.com/shilinyan99/crosslmm) |
-| **2025/05/22** | Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction | Dong Li et al. | [2505.16980v1](http://arxiv.org/abs/2505.16980v1) | **NULL** |
-| **2025/05/22** | Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks | Hongyuan Tao et al. | [2505.16901v1](http://arxiv.org/abs/2505.16901v1) | **NULL** |
-| **2025/05/22** | Training-Free Efficient Video Generation via Dynamic Token Carving | Yuechen Zhang et al. | [2505.16864v1](http://arxiv.org/abs/2505.16864v1) | [**link**](https://github.com/dvlab-research/jenga) |
-| **2025/05/22** | Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation | Hao Guo et al. | [2505.16752v2](http://arxiv.org/abs/2505.16752v2) | **NULL** |
-| **2025/05/22** | Temporal Object Captioning for Street Scene Videos from LiDAR Tracks | Vignesh Gopinathan et al. | [2505.16594v1](http://arxiv.org/abs/2505.16594v1) | **NULL** |
-| **2025/05/22** | PaTH Attention: Position Encoding via Accumulating Householder Transformations | Songlin Yang et al. | [2505.16381v1](http://arxiv.org/abs/2505.16381v1) | **NULL** |
-| **2025/05/22** | Only Large Weights (And Not Skip Connections) Can Prevent the Perils of Rank Collapse | Josh Alman et al. | [2505.16284v1](http://arxiv.org/abs/2505.16284v1) | **NULL** |
-| **2025/05/22** | LINEA: Fast and Accurate Line Detection Using Scalable Transformers | Sebastian Janampa et al. | [2505.16264v1](http://arxiv.org/abs/2505.16264v1) | [**link**](https://github.com/SebastianJanampa/LINEA) |
-| **2025/05/21** | HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning | Xiaodong Mei et al. | [2505.15703v1](http://arxiv.org/abs/2505.15703v1) | **NULL** |
-| **2025/05/21** | Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field | Chang Liu | [2505.15533v1](http://arxiv.org/abs/2505.15533v1) | **NULL** |
-| **2025/05/21** | RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection | Yiming Huang et al. | [2505.15386v1](http://arxiv.org/abs/2505.15386v1) | **NULL** |
-| **2025/05/21** | MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection | Lu Li et al. | [2505.15364v1](http://arxiv.org/abs/2505.15364v1) | [**link**](https://github.com/fchest/mhanet) |
-| **2025/05/21** | Leveraging Foundation Models for Multimodal Graph-Based Action Recognition | Fatemeh Ziaeetabar et al. | [2505.15192v1](http://arxiv.org/abs/2505.15192v1) | **NULL** |
-| **2025/05/21** | MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models | Yifan Liu et al. | [2505.15185v1](http://arxiv.org/abs/2505.15185v1) | [**link**](https://github.com/cuhk-aim-group/monosplat) |
-| **2025/05/21** | Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis | Badhan Mazumder et al. | [2505.15139v1](http://arxiv.org/abs/2505.15139v1) | **NULL** |
 
 ## 背景差分
 
