@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/05/30 09:08:11
+> Updated on 2025/05/31 09:08:33
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/29** | AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity | Yu Zhang et al. | [2505.23520v1](http://arxiv.org/abs/2505.23520v1) | **NULL** |
+| **2025/05/29** | Bridging Geometric and Semantic Foundation Models for Generalized Monocular Depth Estimation | Sanggyun Ma et al. | [2505.23400v1](http://arxiv.org/abs/2505.23400v1) | **NULL** |
+| **2025/05/29** | MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification | Yang Qiao et al. | [2505.23365v1](http://arxiv.org/abs/2505.23365v1) | **NULL** |
+| **2025/05/29** | HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image | Junyi Guo et al. | [2505.23186v1](http://arxiv.org/abs/2505.23186v1) | **NULL** |
+| **2025/05/29** | Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing | Tongtong Su et al. | [2505.23134v1](http://arxiv.org/abs/2505.23134v1) | **NULL** |
+| **2025/05/29** | Neural Interpretable PDEs: Harmonizing Fourier Insights with Attention for Scalable and Interpretable Physics Discovery | Ning Liu et al. | [2505.23106v1](http://arxiv.org/abs/2505.23106v1) | **NULL** |
+| **2025/05/29** | LeMoRe: Learn More Details for Lightweight Semantic Segmentation | Mian Muhammad Naeem Abid et al. | [2505.23093v1](http://arxiv.org/abs/2505.23093v1) | **NULL** |
+| **2025/05/29** | MOVi: Training-free Text-conditioned Multi-Object Video Generation | Aimon Rahman et al. | [2505.22980v1](http://arxiv.org/abs/2505.22980v1) | **NULL** |
+| **2025/05/28** | Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape | Ruichen Chen et al. | [2505.22918v1](http://arxiv.org/abs/2505.22918v1) | **NULL** |
+| **2025/05/28** | Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation | Arthur S. Bianchessi et al. | [2505.22842v1](http://arxiv.org/abs/2505.22842v1) | [**link**](https://github.com/ArthurSBianchessi/BAM) |
 | **2025/05/28** | ObjectClear: Complete Object Removal via Object-Effect Attention | Jixin Zhao et al. | [2505.22636v1](http://arxiv.org/abs/2505.22636v1) | **NULL** |
 | **2025/05/28** | Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part III: Modeling The Next Generation Surveys | Yijie Zhu et al. | [2505.22574v1](http://arxiv.org/abs/2505.22574v1) | **NULL** |
 | **2025/05/28** | MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism | Yanyi Qu et al. | [2505.22555v1](http://arxiv.org/abs/2505.22555v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/05/27** | Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models | Whenty Ariyanti et al. | [2505.21356v2](http://arxiv.org/abs/2505.21356v2) | **NULL** |
 | **2025/05/27** | Efficient Leaf Disease Classification and Segmentation using Midpoint Normalization Technique and Attention Mechanism | Enam Ahmed Taufik et al. | [2505.21316v1](http://arxiv.org/abs/2505.21316v1) | **NULL** |
 | **2025/05/27** | DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution | M. Akin Yilmaz et al. | [2505.21262v1](http://arxiv.org/abs/2505.21262v1) | **NULL** |
-| **2025/05/27** | LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners | Yu He et al. | [2505.21239v1](http://arxiv.org/abs/2505.21239v1) | **NULL** |
-| **2025/05/27** | A Representation Level Analysis of NMT Model Robustness to Grammatical Errors | Abderrahmane Issam et al. | [2505.21224v1](http://arxiv.org/abs/2505.21224v1) | **NULL** |
-| **2025/05/27** | Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals | Davide Lobba et al. | [2505.21062v1](http://arxiv.org/abs/2505.21062v1) | **NULL** |
-| **2025/05/27** | Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning | Nikos Giannakakis et al. | [2505.20962v1](http://arxiv.org/abs/2505.20962v1) | **NULL** |
-| **2025/05/27** | Geometry-Editable and Appearance-Preserving Object Compositon | Jianman Lin et al. | [2505.20914v1](http://arxiv.org/abs/2505.20914v1) | **NULL** |
-| **2025/05/27** | HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion | Guanghu Xie et al. | [2505.20904v2](http://arxiv.org/abs/2505.20904v2) | **NULL** |
-| **2025/05/27** | DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition | Marius Bock et al. | [2505.20894v1](http://arxiv.org/abs/2505.20894v1) | **NULL** |
-| **2025/05/27** | G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments | Zhefeng Cao et al. | [2505.20857v1](http://arxiv.org/abs/2505.20857v1) | **NULL** |
-| **2025/05/27** | Frame-Level Captions for Long Video Generation with Complex Multi Scenes | Guangcong Zheng et al. | [2505.20827v1](http://arxiv.org/abs/2505.20827v1) | **NULL** |
-| **2025/05/27** | Leaner Transformers: More Heads, Less Depth | Hemanth Saratchandran et al. | [2505.20802v1](http://arxiv.org/abs/2505.20802v1) | **NULL** |
 
 ## 背景差分
 
