@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/02 09:13:14
+> Updated on 2025/06/03 09:11:33
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/05/30** | Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification | Xinliu Zhong et al. | [2505.24792v1](http://arxiv.org/abs/2505.24792v1) | **NULL** |
+| **2025/05/30** | RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement | Raman Jha et al. | [2505.24705v1](http://arxiv.org/abs/2505.24705v1) | **NULL** |
+| **2025/05/30** | Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models | Zahid Hassan Tushar et al. | [2505.24638v1](http://arxiv.org/abs/2505.24638v1) | **NULL** |
+| **2025/05/30** | Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution | Ivan Pereira-Sánchez et al. | [2505.24605v1](http://arxiv.org/abs/2505.24605v1) | **NULL** |
+| **2025/05/30** | Transformers Are Universally Consistent | Sagar Ghosh et al. | [2505.24531v1](http://arxiv.org/abs/2505.24531v1) | **NULL** |
+| **2025/05/30** | Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing | Anasse Boutayeb et al. | [2505.24489v1](http://arxiv.org/abs/2505.24489v1) | **NULL** |
+| **2025/05/30** | S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification | Xianheng Ma et al. | [2505.24401v1](http://arxiv.org/abs/2505.24401v1) | **NULL** |
+| **2025/05/30** | ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration | Xianglong Yan et al. | [2505.24357v1](http://arxiv.org/abs/2505.24357v1) | **NULL** |
+| **2025/05/30** | Mamba Knockout for Unraveling Factual Information Flow | Nir Endy et al. | [2505.24244v1](http://arxiv.org/abs/2505.24244v1) | **NULL** |
+| **2025/05/30** | Rydberg Atomic Receivers for Multi-Band Communications and Sensing | Mingyao Cui et al. | [2505.24168v1](http://arxiv.org/abs/2505.24168v1) | **NULL** |
+| **2025/05/29** | MaskAdapt: Unsupervised Geometry-Aware Domain Adaptation Using Multimodal Contextual Learning and RGB-Depth Masking | Numair Nadeem et al. | [2505.24026v1](http://arxiv.org/abs/2505.24026v1) | **NULL** |
+| **2025/05/29** | MangoLeafViT: Leveraging Lightweight Vision Transformer with Runtime Augmentation for Efficient Mango Leaf Disease Classification | Rafi Hassan Chowdhury et al. | [2505.23961v1](http://arxiv.org/abs/2505.23961v1) | **NULL** |
+| **2025/05/29** | Generating Fit Check Videos with a Handheld Camera | Bowei Chen et al. | [2505.23886v1](http://arxiv.org/abs/2505.23886v1) | **NULL** |
 | **2025/05/29** | AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity | Yu Zhang et al. | [2505.23520v1](http://arxiv.org/abs/2505.23520v1) | [**link**](https://github.com/yuzhouzhang9/anchor-attention) |
 | **2025/05/29** | Bridging Geometric and Semantic Foundation Models for Generalized Monocular Depth Estimation | Sanggyun Ma et al. | [2505.23400v1](http://arxiv.org/abs/2505.23400v1) | **NULL** |
+| **2025/05/29** | Parameter-Free Bio-Inspired Channel Attention for Enhanced Cardiac MRI Reconstruction | Anam Hashmi et al. | [2505.23872v1](http://arxiv.org/abs/2505.23872v1) | **NULL** |
 | **2025/05/29** | MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification | Yang Qiao et al. | [2505.23365v1](http://arxiv.org/abs/2505.23365v1) | **NULL** |
 | **2025/05/29** | HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image | Junyi Guo et al. | [2505.23186v1](http://arxiv.org/abs/2505.23186v1) | **NULL** |
 | **2025/05/29** | Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing | Tongtong Su et al. | [2505.23134v1](http://arxiv.org/abs/2505.23134v1) | [**link**](https://github.com/tonniia/zero2hero) |
@@ -69,20 +83,6 @@ layout: default
 | **2025/05/28** | On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation | Liyao Tang et al. | [2505.22444v1](http://arxiv.org/abs/2505.22444v1) | **NULL** |
 | **2025/05/28** | RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network | Van-Tin Luu et al. | [2505.22427v1](http://arxiv.org/abs/2505.22427v1) | **NULL** |
 | **2025/05/28** | S2AFormer: Strip Self-Attention for Efficient Vision Transformer | Guoan Xu et al. | [2505.22195v1](http://arxiv.org/abs/2505.22195v1) | **NULL** |
-| **2025/05/28** | Attention-Enhanced Prompt Decision Transformers for UAV-Assisted Communications with AoI | Chi Lu et al. | [2505.22170v1](http://arxiv.org/abs/2505.22170v1) | **NULL** |
-| **2025/05/28** | Curse of High Dimensionality Issue in Transformer for Long-context Modeling | Shuhai Zhang et al. | [2505.22107v1](http://arxiv.org/abs/2505.22107v1) | **NULL** |
-| **2025/05/28** | Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired | Ruxiao Chen et al. | [2505.22087v1](http://arxiv.org/abs/2505.22087v1) | **NULL** |
-| **2025/05/28** | Two-Stage Feature Generation with Transformer and Reinforcement Learning | Wanfu Gao et al. | [2505.21978v1](http://arxiv.org/abs/2505.21978v1) | **NULL** |
-| **2025/05/28** | Towards Structure-aware Model for Multi-modal Knowledge Graph Completion | Linyu Li et al. | [2505.21973v1](http://arxiv.org/abs/2505.21973v1) | [**link**](https://github.com/2391134843/TSAM) |
-| **2025/05/28** | AlignGen: Boosting Personalized Image Generation with Cross-Modality Prior Alignment | Yiheng Lin et al. | [2505.21911v1](http://arxiv.org/abs/2505.21911v1) | **NULL** |
-| **2025/05/28** | HydraNet: Momentum-Driven State Space Duality for Multi-Granularity Tennis Tournaments Analysis | Ruijie Li et al. | [2505.21882v2](http://arxiv.org/abs/2505.21882v2) | [**link**](https://github.com/reyjerry/hydranet) |
-| **2025/05/28** | Towards Scalable Language-Image Pre-training for 3D Medical Imaging | Chenhui Zhao et al. | [2505.21862v1](http://arxiv.org/abs/2505.21862v1) | **NULL** |
-| **2025/05/28** | FPAN: Mitigating Replication in Diffusion Models through the Fine-Grained Probabilistic Addition of Noise to Token Embeddings | Jingqi Xu et al. | [2505.21848v1](http://arxiv.org/abs/2505.21848v1) | **NULL** |
-| **2025/05/27** | Beyond 1D: Vision Transformers and Multichannel Signal Images for PPG-to-ECG Reconstruction | Xiaoyan Li et al. | [2505.21767v1](http://arxiv.org/abs/2505.21767v1) | **NULL** |
-| **2025/05/27** | Towards Better Instruction Following Retrieval Models | Yuchen Zhuang et al. | [2505.21439v1](http://arxiv.org/abs/2505.21439v1) | **NULL** |
-| **2025/05/27** | Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations | Whenty Ariyanti et al. | [2505.21356v3](http://arxiv.org/abs/2505.21356v3) | **NULL** |
-| **2025/05/27** | Efficient Leaf Disease Classification and Segmentation using Midpoint Normalization Technique and Attention Mechanism | Enam Ahmed Taufik et al. | [2505.21316v1](http://arxiv.org/abs/2505.21316v1) | **NULL** |
-| **2025/05/27** | DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution | M. Akin Yilmaz et al. | [2505.21262v1](http://arxiv.org/abs/2505.21262v1) | [**link**](https://github.com/makinyilmaz/dimosr) |
 
 ## 背景差分
 
