@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/05 09:10:28
+> Updated on 2025/06/06 09:10:40
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/04** | Sounding that Object: Interactive Object-Aware Image to Audio Generation | Tingle Li et al. | [2506.04214v1](http://arxiv.org/abs/2506.04214v1) | **NULL** |
+| **2025/06/04** | AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models | Yifeng Gu et al. | [2506.03762v1](http://arxiv.org/abs/2506.03762v1) | **NULL** |
+| **2025/06/04** | ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices | Hao Yu et al. | [2506.03737v1](http://arxiv.org/abs/2506.03737v1) | **NULL** |
+| **2025/06/04** | MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection | Xiaochun Lei et al. | [2506.03654v2](http://arxiv.org/abs/2506.03654v2) | **NULL** |
+| **2025/06/04** | WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion | Tianpei Zhang et al. | [2506.03555v1](http://arxiv.org/abs/2506.03555v1) | **NULL** |
+| **2025/06/03** | SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports | Dheeraj Khanna et al. | [2506.03335v1](http://arxiv.org/abs/2506.03335v1) | **NULL** |
 | **2025/06/03** | Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers | Pengtao Chen et al. | [2506.03065v1](http://arxiv.org/abs/2506.03065v1) | **NULL** |
 | **2025/06/03** | QKV Projections Require a Fraction of Their Memory | Malik Khalaf et al. | [2506.02939v1](http://arxiv.org/abs/2506.02939v1) | **NULL** |
 | **2025/06/03** | Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings | Amal S. Perera et al. | [2506.02868v1](http://arxiv.org/abs/2506.02868v1) | **NULL** |
@@ -77,17 +83,13 @@ layout: default
 | **2025/06/01** | PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation | Linhan Xia et al. | [2506.00968v1](http://arxiv.org/abs/2506.00968v1) | **NULL** |
 | **2025/06/01** | GIA-MIC: Multimodal Emotion Recognition with Gated Interactive Attention and Modality-Invariant Learning Constraints | Jiajun He et al. | [2506.00865v1](http://arxiv.org/abs/2506.00865v1) | **NULL** |
 | **2025/05/31** | A Foundation Model for Non-Destructive Defect Identification from Vibrational Spectra | Mouyang Cheng et al. | [2506.00725v1](http://arxiv.org/abs/2506.00725v1) | **NULL** |
-| **2025/05/31** | Optimizing Sensory Neurons: Nonlinear Attention Mechanisms for Accelerated Convergence in Permutation-Invariant Neural Networks for Reinforcement Learning | Junaid Muzaffar et al. | [2506.00691v2](http://arxiv.org/abs/2506.00691v2) | **NULL** |
-| **2025/05/31** | SatDreamer360: Geometry Consistent Street-View Video Generation from Satellite Imagery | Xianghui Ze et al. | [2506.00600v1](http://arxiv.org/abs/2506.00600v1) | **NULL** |
-| **2025/05/31** | Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach | Mehdi Bejani et al. | [2506.00545v1](http://arxiv.org/abs/2506.00545v1) | **NULL** |
-| **2025/05/31** | TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer | Jie Peng et al. | [2506.00431v1](http://arxiv.org/abs/2506.00431v1) | **NULL** |
-| **2025/05/31** | Channel-Imposed Fusion: A Simple yet Effective Method for Medical Time Series Classification | Ming Hu et al. | [2506.00337v1](http://arxiv.org/abs/2506.00337v1) | **NULL** |
-| **2025/05/30** | Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification | Xinliu Zhong et al. | [2505.24792v1](http://arxiv.org/abs/2505.24792v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/03** | COSMOS-Web: MIRI Data Reduction and Number Counts at 7.7$μ$m using JWST | Santosh Harish et al. | [2506.03306v1](http://arxiv.org/abs/2506.03306v1) | **NULL** |
+| **2025/06/03** | COSMOS-Web: Comprehensive Data Reduction for Wide-Area JWST NIRCam Imaging | Maximilien Franco et al. | [2506.03256v1](http://arxiv.org/abs/2506.03256v1) | **NULL** |
 | **2025/05/23** | A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance | Pedro Jose Bauza-Ruiz et al. | [2505.17996v1](http://arxiv.org/abs/2505.17996v1) | **NULL** |
 | **2025/05/21** | A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains | Sébastien Piérard et al. | [2505.15595v1](http://arxiv.org/abs/2505.15595v1) | **NULL** |
 | **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
@@ -116,5 +118,3 @@ layout: default
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
 | **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
-| **2024/06/25** | Realizing the potential of the Dragonfly Spectral Line Mapper: Calibration methods and on-sky performance | Deborah M. Lokhorst et al. | [2406.17979v1](http://arxiv.org/abs/2406.17979v1) | **NULL** |
-| **2024/05/28** | Improving mid-infrared thermal background subtraction with Principal Component Analysis | Hélène Rousseau et al. | [2405.18043v1](http://arxiv.org/abs/2405.18043v1) | **NULL** |
