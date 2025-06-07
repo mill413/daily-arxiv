@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/06 09:10:40
+> Updated on 2025/06/07 09:09:54
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/05** | SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs | Jiahui Wang et al. | [2506.05344v1](http://arxiv.org/abs/2506.05344v1) | **NULL** |
+| **2025/06/05** | VideoMolmo: Spatio-Temporal Grounding Meets Pointing | Ghazi Shazan Ahmad et al. | [2506.05336v1](http://arxiv.org/abs/2506.05336v1) | **NULL** |
+| **2025/06/05** | SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training | Jianyi Wang et al. | [2506.05301v1](http://arxiv.org/abs/2506.05301v1) | **NULL** |
+| **2025/06/05** | On the Convergence of Gradient Descent on Learning Transformers with Residual Connections | Zhen Qin et al. | [2506.05249v1](http://arxiv.org/abs/2506.05249v1) | **NULL** |
+| **2025/06/05** | Associative Memory and Generative Diffusion in the Zero-noise Limit | Joshua Hess et al. | [2506.05178v1](http://arxiv.org/abs/2506.05178v1) | **NULL** |
+| **2025/06/05** | Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics | HaoTian Lan | [2506.05087v1](http://arxiv.org/abs/2506.05087v1) | **NULL** |
+| **2025/06/05** | DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution | Usman Muhammad et al. | [2506.05041v1](http://arxiv.org/abs/2506.05041v1) | **NULL** |
+| **2025/06/05** | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation | Huihan Wang et al. | [2506.04956v1](http://arxiv.org/abs/2506.04956v1) | **NULL** |
+| **2025/06/05** | DualX-VSR: Dual Axial Spatial$\times$Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation | Shuo Cao et al. | [2506.04830v1](http://arxiv.org/abs/2506.04830v1) | **NULL** |
+| **2025/06/05** | OpenGT: A Comprehensive Benchmark For Graph Transformers | Jiachen Tang et al. | [2506.04765v1](http://arxiv.org/abs/2506.04765v1) | **NULL** |
+| **2025/06/05** | Log-Linear Attention | Han Guo et al. | [2506.04761v1](http://arxiv.org/abs/2506.04761v1) | **NULL** |
+| **2025/06/05** | Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets | Mikhail Kennerley et al. | [2506.04737v1](http://arxiv.org/abs/2506.04737v1) | **NULL** |
+| **2025/06/05** | FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion | Akide Liu et al. | [2506.04648v1](http://arxiv.org/abs/2506.04648v1) | **NULL** |
+| **2025/06/05** | EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention | Shuo Zhang | [2506.04526v1](http://arxiv.org/abs/2506.04526v1) | **NULL** |
 | **2025/06/04** | Sounding that Object: Interactive Object-Aware Image to Audio Generation | Tingle Li et al. | [2506.04214v1](http://arxiv.org/abs/2506.04214v1) | **NULL** |
 | **2025/06/04** | AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models | Yifeng Gu et al. | [2506.03762v1](http://arxiv.org/abs/2506.03762v1) | **NULL** |
 | **2025/06/04** | ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices | Hao Yu et al. | [2506.03737v1](http://arxiv.org/abs/2506.03737v1) | **NULL** |
@@ -69,20 +83,6 @@ layout: default
 | **2025/06/03** | HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference | Ping Gong et al. | [2506.02572v1](http://arxiv.org/abs/2506.02572v1) | **NULL** |
 | **2025/06/03** | Multi-modal brain MRI synthesis based on SwinUNETR | Haowen Pang et al. | [2506.02467v1](http://arxiv.org/abs/2506.02467v1) | **NULL** |
 | **2025/06/03** | A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer | Liang Li et al. | [2506.02364v1](http://arxiv.org/abs/2506.02364v1) | **NULL** |
-| **2025/06/02** | Are Mamba-based Audio Foundation Models the Best Fit for Non-Verbal Emotion Recognition? | Mohd Mujtaba Akhtar et al. | [2506.02258v1](http://arxiv.org/abs/2506.02258v1) | **NULL** |
-| **2025/06/02** | MoDA: Modulation Adapter for Fine-Grained Visual Grounding in Instructional MLLMs | Wayner Barrios et al. | [2506.01850v1](http://arxiv.org/abs/2506.01850v1) | **NULL** |
-| **2025/06/02** | MVAN: Multi-View Attention Networks for Fake News Detection on Social Media | Shiwen Ni et al. | [2506.01627v1](http://arxiv.org/abs/2506.01627v1) | **NULL** |
-| **2025/06/02** | G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models | Tianjiao Zhang et al. | [2506.01539v1](http://arxiv.org/abs/2506.01539v1) | **NULL** |
-| **2025/06/02** | CLIP-driven rain perception: Adaptive deraining with pattern-aware network routing and mask-guided cross-attention | Cong Guan et al. | [2506.01366v1](http://arxiv.org/abs/2506.01366v1) | **NULL** |
-| **2025/06/01** | Humanoid World Models: Open World Foundation Models for Humanoid Robotics | Muhammad Qasim Ali et al. | [2506.01182v1](http://arxiv.org/abs/2506.01182v1) | **NULL** |
-| **2025/06/01** | Towards Fusion of Neural Audio Codec-based Representations with Spectral for Heart Murmur Classification via Bandit-based Cross-Attention Mechanism | Orchid Chetia Phukan et al. | [2506.01148v1](http://arxiv.org/abs/2506.01148v1) | **NULL** |
-| **2025/06/01** | Attention Retrieves, MLP Memorizes: Disentangling Trainable Components in the Transformer | Yihe Dong et al. | [2506.01115v1](http://arxiv.org/abs/2506.01115v1) | **NULL** |
-| **2025/06/01** | TRUST -- Transformer-Driven U-Net for Sparse Target Recovery | Di An et al. | [2506.01112v1](http://arxiv.org/abs/2506.01112v1) | **NULL** |
-| **2025/06/01** | TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans | Yueqian Guo et al. | [2506.01077v1](http://arxiv.org/abs/2506.01077v1) | **NULL** |
-| **2025/06/01** | Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution | Shijun Shi et al. | [2506.01037v1](http://arxiv.org/abs/2506.01037v1) | **NULL** |
-| **2025/06/01** | PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation | Linhan Xia et al. | [2506.00968v1](http://arxiv.org/abs/2506.00968v1) | **NULL** |
-| **2025/06/01** | GIA-MIC: Multimodal Emotion Recognition with Gated Interactive Attention and Modality-Invariant Learning Constraints | Jiajun He et al. | [2506.00865v1](http://arxiv.org/abs/2506.00865v1) | **NULL** |
-| **2025/05/31** | A Foundation Model for Non-Destructive Defect Identification from Vibrational Spectra | Mouyang Cheng et al. | [2506.00725v1](http://arxiv.org/abs/2506.00725v1) | **NULL** |
 
 ## 背景差分
 
