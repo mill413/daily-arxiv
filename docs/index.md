@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/07 09:09:54
+> Updated on 2025/06/09 09:14:37
 
 <summary>Table of Contents</summary>
 
@@ -64,8 +64,8 @@ layout: default
 | **2025/06/05** | DualX-VSR: Dual Axial Spatial$\times$Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation | Shuo Cao et al. | [2506.04830v1](http://arxiv.org/abs/2506.04830v1) | **NULL** |
 | **2025/06/05** | OpenGT: A Comprehensive Benchmark For Graph Transformers | Jiachen Tang et al. | [2506.04765v1](http://arxiv.org/abs/2506.04765v1) | **NULL** |
 | **2025/06/05** | Log-Linear Attention | Han Guo et al. | [2506.04761v1](http://arxiv.org/abs/2506.04761v1) | **NULL** |
-| **2025/06/05** | Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets | Mikhail Kennerley et al. | [2506.04737v1](http://arxiv.org/abs/2506.04737v1) | **NULL** |
-| **2025/06/05** | FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion | Akide Liu et al. | [2506.04648v1](http://arxiv.org/abs/2506.04648v1) | **NULL** |
+| **2025/06/05** | Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets | Mikhail Kennerley et al. | [2506.04737v2](http://arxiv.org/abs/2506.04737v2) | **NULL** |
+| **2025/06/05** | FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion | Akide Liu et al. | [2506.04648v2](http://arxiv.org/abs/2506.04648v2) | **NULL** |
 | **2025/06/05** | EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention | Shuo Zhang | [2506.04526v1](http://arxiv.org/abs/2506.04526v1) | **NULL** |
 | **2025/06/04** | Sounding that Object: Interactive Object-Aware Image to Audio Generation | Tingle Li et al. | [2506.04214v1](http://arxiv.org/abs/2506.04214v1) | **NULL** |
 | **2025/06/04** | AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models | Yifeng Gu et al. | [2506.03762v1](http://arxiv.org/abs/2506.03762v1) | **NULL** |
