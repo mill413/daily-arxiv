@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/09 09:14:37
+> Updated on 2025/06/10 09:12:21
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/06** | ENMA: Tokenwise Autoregression for Generative Neural PDE Operators | Armand Kassaï Koupaï et al. | [2506.06158v1](http://arxiv.org/abs/2506.06158v1) | **NULL** |
+| **2025/06/06** | CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting | Peter Lengyel | [2506.06128v1](http://arxiv.org/abs/2506.06128v1) | **NULL** |
+| **2025/06/06** | Flow-Attentional Graph Neural Networks | Pascal Plettenberg et al. | [2506.06127v1](http://arxiv.org/abs/2506.06127v1) | **NULL** |
+| **2025/06/06** | FPDANet: A Multi-Section Classification Model for Intelligent Screening of Fetal Ultrasound | Minglang Chen et al. | [2506.06054v1](http://arxiv.org/abs/2506.06054v1) | **NULL** |
+| **2025/06/06** | Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation | Xin Zhang et al. | [2506.05897v1](http://arxiv.org/abs/2506.05897v1) | **NULL** |
+| **2025/06/06** | ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On | Jinjuan Wang et al. | [2506.05858v1](http://arxiv.org/abs/2506.05858v1) | **NULL** |
+| **2025/06/05** | Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs | Ananth Muppidi et al. | [2506.05629v1](http://arxiv.org/abs/2506.05629v1) | **NULL** |
+| **2025/06/05** | TabFlex: Scaling Tabular Learning to Millions with Linear Attention | Yuchen Zeng et al. | [2506.05584v1](http://arxiv.org/abs/2506.05584v1) | **NULL** |
+| **2025/06/05** | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | Yuchen Lin et al. | [2506.05573v1](http://arxiv.org/abs/2506.05573v1) | **NULL** |
+| **2025/06/05** | Sentiment Analysis in Learning Management Systems Understanding Student Feedback at Scale | Mohammed Almutairi | [2506.05490v1](http://arxiv.org/abs/2506.05490v1) | **NULL** |
 | **2025/06/05** | SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs | Jiahui Wang et al. | [2506.05344v1](http://arxiv.org/abs/2506.05344v1) | **NULL** |
 | **2025/06/05** | VideoMolmo: Spatio-Temporal Grounding Meets Pointing | Ghazi Shazan Ahmad et al. | [2506.05336v1](http://arxiv.org/abs/2506.05336v1) | **NULL** |
 | **2025/06/05** | SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training | Jianyi Wang et al. | [2506.05301v1](http://arxiv.org/abs/2506.05301v1) | **NULL** |
@@ -68,21 +78,11 @@ layout: default
 | **2025/06/05** | FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion | Akide Liu et al. | [2506.04648v2](http://arxiv.org/abs/2506.04648v2) | **NULL** |
 | **2025/06/05** | EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention | Shuo Zhang | [2506.04526v1](http://arxiv.org/abs/2506.04526v1) | **NULL** |
 | **2025/06/04** | Sounding that Object: Interactive Object-Aware Image to Audio Generation | Tingle Li et al. | [2506.04214v1](http://arxiv.org/abs/2506.04214v1) | **NULL** |
+| **2025/06/04** | Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs | Wanyun Cui et al. | [2506.05410v1](http://arxiv.org/abs/2506.05410v1) | **NULL** |
 | **2025/06/04** | AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models | Yifeng Gu et al. | [2506.03762v1](http://arxiv.org/abs/2506.03762v1) | **NULL** |
 | **2025/06/04** | ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices | Hao Yu et al. | [2506.03737v1](http://arxiv.org/abs/2506.03737v1) | **NULL** |
 | **2025/06/04** | MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection | Xiaochun Lei et al. | [2506.03654v2](http://arxiv.org/abs/2506.03654v2) | **NULL** |
 | **2025/06/04** | WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion | Tianpei Zhang et al. | [2506.03555v1](http://arxiv.org/abs/2506.03555v1) | **NULL** |
-| **2025/06/03** | SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports | Dheeraj Khanna et al. | [2506.03335v1](http://arxiv.org/abs/2506.03335v1) | **NULL** |
-| **2025/06/03** | Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers | Pengtao Chen et al. | [2506.03065v1](http://arxiv.org/abs/2506.03065v1) | **NULL** |
-| **2025/06/03** | QKV Projections Require a Fraction of Their Memory | Malik Khalaf et al. | [2506.02939v1](http://arxiv.org/abs/2506.02939v1) | **NULL** |
-| **2025/06/03** | Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings | Amal S. Perera et al. | [2506.02868v1](http://arxiv.org/abs/2506.02868v1) | **NULL** |
-| **2025/06/03** | Enhancing Abnormality Identification: Robust Out-of-Distribution Strategies for Deepfake Detection | Luca Maiano et al. | [2506.02857v1](http://arxiv.org/abs/2506.02857v1) | **NULL** |
-| **2025/06/03** | AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers | Linya Fu et al. | [2506.02773v1](http://arxiv.org/abs/2506.02773v1) | **NULL** |
-| **2025/06/03** | A Dynamic Transformer Network for Vehicle Detection | Chunwei Tian et al. | [2506.02765v1](http://arxiv.org/abs/2506.02765v1) | **NULL** |
-| **2025/06/03** | XicorAttention: Time Series Transformer Using Attention with Nonlinear Correlation | Daichi Kimura et al. | [2506.02694v1](http://arxiv.org/abs/2506.02694v1) | **NULL** |
-| **2025/06/03** | HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference | Ping Gong et al. | [2506.02572v1](http://arxiv.org/abs/2506.02572v1) | **NULL** |
-| **2025/06/03** | Multi-modal brain MRI synthesis based on SwinUNETR | Haowen Pang et al. | [2506.02467v1](http://arxiv.org/abs/2506.02467v1) | **NULL** |
-| **2025/06/03** | A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer | Liang Li et al. | [2506.02364v1](http://arxiv.org/abs/2506.02364v1) | **NULL** |
 
 ## 背景差分
 
