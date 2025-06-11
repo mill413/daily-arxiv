@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/10 09:12:21
+> Updated on 2025/06/11 09:11:51
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/09** | StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets | Anh-Quan Cao et al. | [2506.08013v1](http://arxiv.org/abs/2506.08013v1) | **NULL** |
+| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v1](http://arxiv.org/abs/2506.07986v1) | **NULL** |
+| **2025/06/09** | Quantum Graph Transformer for NLP Sentiment Classification | Shamminuj Aktar et al. | [2506.07937v1](http://arxiv.org/abs/2506.07937v1) | **NULL** |
+| **2025/06/09** | Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions | Lev V. Utkin et al. | [2506.07933v1](http://arxiv.org/abs/2506.07933v1) | **NULL** |
+| **2025/06/09** | MiniCPM4: Ultra-Efficient LLMs on End Devices | MiniCPM Team et al. | [2506.07900v1](http://arxiv.org/abs/2506.07900v1) | **NULL** |
+| **2025/06/09** | Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models? | Sigma Jahan et al. | [2506.07871v1](http://arxiv.org/abs/2506.07871v1) | **NULL** |
+| **2025/06/09** | Lightweight Sequential Transformers for Blood Glucose Level Prediction in Type-1 Diabetes | Mirko Paolo Barbato et al. | [2506.07864v1](http://arxiv.org/abs/2506.07864v1) | **NULL** |
+| **2025/06/09** | Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations | Weilei Wen et al. | [2506.07705v1](http://arxiv.org/abs/2506.07705v1) | **NULL** |
+| **2025/06/09** | NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation | Yuxiao Yang et al. | [2506.07698v1](http://arxiv.org/abs/2506.07698v1) | **NULL** |
+| **2025/06/09** | A Unified Anti-Jamming Design in Complex Environments Based on Cross-Modal Fusion and Intelligent Decision-Making | Huake Wang et al. | [2506.07532v1](http://arxiv.org/abs/2506.07532v1) | **NULL** |
+| **2025/06/09** | Leveraging Historical and Current Interests for Continual Sequential Recommendation | Gyuseok Lee et al. | [2506.07466v1](http://arxiv.org/abs/2506.07466v1) | **NULL** |
+| **2025/06/09** | RiemannFormer: A Framework for Attention in Curved Spaces | Zhongping Ji | [2506.07405v1](http://arxiv.org/abs/2506.07405v1) | **NULL** |
+| **2025/06/09** | CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms | Satvik Praveen et al. | [2506.07357v1](http://arxiv.org/abs/2506.07357v1) | **NULL** |
+| **2025/06/08** | Representation Decomposition for Learning Similarity and Contrastness Across Modalities for Affective Computing | Yuanhe Tian et al. | [2506.07086v1](http://arxiv.org/abs/2506.07086v1) | **NULL** |
+| **2025/06/08** | Harmony-Aware Music-driven Motion Synthesis with Perceptual Constraint on UGC Datasets | Xinyi Wu et al. | [2506.07076v1](http://arxiv.org/abs/2506.07076v1) | **NULL** |
+| **2025/06/08** | LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer | Ying Shen et al. | [2506.06952v1](http://arxiv.org/abs/2506.06952v1) | **NULL** |
+| **2025/06/07** | Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models | Naibin Gu et al. | [2506.06844v1](http://arxiv.org/abs/2506.06844v1) | **NULL** |
+| **2025/06/07** | Learning quantum phase transition in parametrized quantum circuits with an attention mechanism | Li Xin et al. | [2506.06678v1](http://arxiv.org/abs/2506.06678v1) | **NULL** |
+| **2025/06/07** | Spark Transformer: Reactivating Sparsity in FFN and Attention | Chong You et al. | [2506.06644v1](http://arxiv.org/abs/2506.06644v1) | **NULL** |
+| **2025/06/07** | GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales | Yubin Xiao et al. | [2506.06634v1](http://arxiv.org/abs/2506.06634v1) | **NULL** |
 | **2025/06/06** | ENMA: Tokenwise Autoregression for Generative Neural PDE Operators | Armand Kassaï Koupaï et al. | [2506.06158v1](http://arxiv.org/abs/2506.06158v1) | **NULL** |
 | **2025/06/06** | CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting | Peter Lengyel | [2506.06128v1](http://arxiv.org/abs/2506.06128v1) | **NULL** |
 | **2025/06/06** | Flow-Attentional Graph Neural Networks | Pascal Plettenberg et al. | [2506.06127v1](http://arxiv.org/abs/2506.06127v1) | **NULL** |
@@ -63,26 +83,6 @@ layout: default
 | **2025/06/05** | TabFlex: Scaling Tabular Learning to Millions with Linear Attention | Yuchen Zeng et al. | [2506.05584v1](http://arxiv.org/abs/2506.05584v1) | **NULL** |
 | **2025/06/05** | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | Yuchen Lin et al. | [2506.05573v1](http://arxiv.org/abs/2506.05573v1) | **NULL** |
 | **2025/06/05** | Sentiment Analysis in Learning Management Systems Understanding Student Feedback at Scale | Mohammed Almutairi | [2506.05490v1](http://arxiv.org/abs/2506.05490v1) | **NULL** |
-| **2025/06/05** | SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs | Jiahui Wang et al. | [2506.05344v1](http://arxiv.org/abs/2506.05344v1) | **NULL** |
-| **2025/06/05** | VideoMolmo: Spatio-Temporal Grounding Meets Pointing | Ghazi Shazan Ahmad et al. | [2506.05336v1](http://arxiv.org/abs/2506.05336v1) | **NULL** |
-| **2025/06/05** | SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training | Jianyi Wang et al. | [2506.05301v1](http://arxiv.org/abs/2506.05301v1) | **NULL** |
-| **2025/06/05** | On the Convergence of Gradient Descent on Learning Transformers with Residual Connections | Zhen Qin et al. | [2506.05249v1](http://arxiv.org/abs/2506.05249v1) | **NULL** |
-| **2025/06/05** | Associative Memory and Generative Diffusion in the Zero-noise Limit | Joshua Hess et al. | [2506.05178v1](http://arxiv.org/abs/2506.05178v1) | **NULL** |
-| **2025/06/05** | Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics | HaoTian Lan | [2506.05087v1](http://arxiv.org/abs/2506.05087v1) | **NULL** |
-| **2025/06/05** | DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution | Usman Muhammad et al. | [2506.05041v1](http://arxiv.org/abs/2506.05041v1) | **NULL** |
-| **2025/06/05** | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation | Huihan Wang et al. | [2506.04956v1](http://arxiv.org/abs/2506.04956v1) | **NULL** |
-| **2025/06/05** | DualX-VSR: Dual Axial Spatial$\times$Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation | Shuo Cao et al. | [2506.04830v1](http://arxiv.org/abs/2506.04830v1) | **NULL** |
-| **2025/06/05** | OpenGT: A Comprehensive Benchmark For Graph Transformers | Jiachen Tang et al. | [2506.04765v1](http://arxiv.org/abs/2506.04765v1) | **NULL** |
-| **2025/06/05** | Log-Linear Attention | Han Guo et al. | [2506.04761v1](http://arxiv.org/abs/2506.04761v1) | **NULL** |
-| **2025/06/05** | Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets | Mikhail Kennerley et al. | [2506.04737v2](http://arxiv.org/abs/2506.04737v2) | **NULL** |
-| **2025/06/05** | FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion | Akide Liu et al. | [2506.04648v2](http://arxiv.org/abs/2506.04648v2) | **NULL** |
-| **2025/06/05** | EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention | Shuo Zhang | [2506.04526v1](http://arxiv.org/abs/2506.04526v1) | **NULL** |
-| **2025/06/04** | Sounding that Object: Interactive Object-Aware Image to Audio Generation | Tingle Li et al. | [2506.04214v1](http://arxiv.org/abs/2506.04214v1) | **NULL** |
-| **2025/06/04** | Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs | Wanyun Cui et al. | [2506.05410v1](http://arxiv.org/abs/2506.05410v1) | **NULL** |
-| **2025/06/04** | AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models | Yifeng Gu et al. | [2506.03762v1](http://arxiv.org/abs/2506.03762v1) | **NULL** |
-| **2025/06/04** | ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices | Hao Yu et al. | [2506.03737v1](http://arxiv.org/abs/2506.03737v1) | **NULL** |
-| **2025/06/04** | MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection | Xiaochun Lei et al. | [2506.03654v2](http://arxiv.org/abs/2506.03654v2) | **NULL** |
-| **2025/06/04** | WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion | Tianpei Zhang et al. | [2506.03555v1](http://arxiv.org/abs/2506.03555v1) | **NULL** |
 
 ## 背景差分
 
