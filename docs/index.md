@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/11 09:11:51
+> Updated on 2025/06/13 09:12:01
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/11** | CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects | Tao Liu et al. | [2506.09897v1](http://arxiv.org/abs/2506.09897v1) | **NULL** |
 | **2025/05/28** | Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection | Guiping Cao et al. | [2505.21868v1](http://arxiv.org/abs/2505.21868v1) | **NULL** |
 | **2025/05/27** | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | Muzhi Zhu et al. | [2505.21457v1](http://arxiv.org/abs/2505.21457v1) | **NULL** |
 | **2025/05/27** | Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing | Dehao Wang et al. | [2505.21049v1](http://arxiv.org/abs/2505.21049v1) | **NULL** |
@@ -47,17 +48,25 @@ layout: default
 | **2024/12/12** | Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach | Kailas PS et al. | [2412.10453v1](http://arxiv.org/abs/2412.10453v1) | **NULL** |
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
 | **2024/12/06** | YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery | Sindhu Boddu et al. | [2412.05394v2](http://arxiv.org/abs/2412.05394v2) | **NULL** |
-| **2024/11/28** | GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks | Muhammad Sohail Danish et al. | [2411.19325v2](http://arxiv.org/abs/2411.19325v2) | [**link**](https://github.com/the-ai-alliance/geo-bench-vlm) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/11** | How attention simplifies mental representations for planning | Jason da Silva Castanheira et al. | [2506.09520v1](http://arxiv.org/abs/2506.09520v1) | **NULL** |
+| **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | **NULL** |
+| **2025/06/10** | LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Yilin Zhuang et al. | [2506.09193v1](http://arxiv.org/abs/2506.09193v1) | [**link**](https://github.com/tonyzyl/ladcast) |
+| **2025/06/10** | CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model | Jingying Ma et al. | [2506.09110v1](http://arxiv.org/abs/2506.09110v1) | **NULL** |
+| **2025/06/10** | JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset | Mahesh Godavarti | [2506.08652v1](http://arxiv.org/abs/2506.08652v1) | **NULL** |
+| **2025/06/10** | Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems | Guyang Zhang et al. | [2506.08596v1](http://arxiv.org/abs/2506.08596v1) | **NULL** |
+| **2025/06/10** | Attention-based Learning for 3D Informative Path Planning | Rui Zhao et al. | [2506.08434v1](http://arxiv.org/abs/2506.08434v1) | **NULL** |
+| **2025/06/10** | NAM: A Normalization Attention Model for Personalized Product Search In Fliggy | Shui Liu et al. | [2506.08382v1](http://arxiv.org/abs/2506.08382v1) | **NULL** |
+| **2025/06/10** | Learnable Spatial-Temporal Positional Encoding for Link Prediction | Katherine Tieu et al. | [2506.08309v2](http://arxiv.org/abs/2506.08309v2) | **NULL** |
 | **2025/06/09** | StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets | Anh-Quan Cao et al. | [2506.08013v1](http://arxiv.org/abs/2506.08013v1) | **NULL** |
-| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v1](http://arxiv.org/abs/2506.07986v1) | **NULL** |
+| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v2](http://arxiv.org/abs/2506.07986v2) | **NULL** |
 | **2025/06/09** | Quantum Graph Transformer for NLP Sentiment Classification | Shamminuj Aktar et al. | [2506.07937v1](http://arxiv.org/abs/2506.07937v1) | **NULL** |
 | **2025/06/09** | Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions | Lev V. Utkin et al. | [2506.07933v1](http://arxiv.org/abs/2506.07933v1) | **NULL** |
-| **2025/06/09** | MiniCPM4: Ultra-Efficient LLMs on End Devices | MiniCPM Team et al. | [2506.07900v1](http://arxiv.org/abs/2506.07900v1) | **NULL** |
+| **2025/06/09** | MiniCPM4: Ultra-Efficient LLMs on End Devices | MiniCPM Team et al. | [2506.07900v1](http://arxiv.org/abs/2506.07900v1) | [**link**](https://github.com/openbmb/minicpm) |
 | **2025/06/09** | Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models? | Sigma Jahan et al. | [2506.07871v1](http://arxiv.org/abs/2506.07871v1) | **NULL** |
 | **2025/06/09** | Lightweight Sequential Transformers for Blood Glucose Level Prediction in Type-1 Diabetes | Mirko Paolo Barbato et al. | [2506.07864v1](http://arxiv.org/abs/2506.07864v1) | **NULL** |
 | **2025/06/09** | Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations | Weilei Wen et al. | [2506.07705v1](http://arxiv.org/abs/2506.07705v1) | **NULL** |
@@ -74,20 +83,12 @@ layout: default
 | **2025/06/07** | Spark Transformer: Reactivating Sparsity in FFN and Attention | Chong You et al. | [2506.06644v1](http://arxiv.org/abs/2506.06644v1) | **NULL** |
 | **2025/06/07** | GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales | Yubin Xiao et al. | [2506.06634v1](http://arxiv.org/abs/2506.06634v1) | **NULL** |
 | **2025/06/06** | ENMA: Tokenwise Autoregression for Generative Neural PDE Operators | Armand Kassaï Koupaï et al. | [2506.06158v1](http://arxiv.org/abs/2506.06158v1) | **NULL** |
-| **2025/06/06** | CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting | Peter Lengyel | [2506.06128v1](http://arxiv.org/abs/2506.06128v1) | **NULL** |
-| **2025/06/06** | Flow-Attentional Graph Neural Networks | Pascal Plettenberg et al. | [2506.06127v1](http://arxiv.org/abs/2506.06127v1) | **NULL** |
-| **2025/06/06** | FPDANet: A Multi-Section Classification Model for Intelligent Screening of Fetal Ultrasound | Minglang Chen et al. | [2506.06054v1](http://arxiv.org/abs/2506.06054v1) | **NULL** |
-| **2025/06/06** | Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation | Xin Zhang et al. | [2506.05897v1](http://arxiv.org/abs/2506.05897v1) | **NULL** |
-| **2025/06/06** | ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On | Jinjuan Wang et al. | [2506.05858v1](http://arxiv.org/abs/2506.05858v1) | **NULL** |
-| **2025/06/05** | Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs | Ananth Muppidi et al. | [2506.05629v1](http://arxiv.org/abs/2506.05629v1) | **NULL** |
-| **2025/06/05** | TabFlex: Scaling Tabular Learning to Millions with Linear Attention | Yuchen Zeng et al. | [2506.05584v1](http://arxiv.org/abs/2506.05584v1) | **NULL** |
-| **2025/06/05** | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | Yuchen Lin et al. | [2506.05573v1](http://arxiv.org/abs/2506.05573v1) | **NULL** |
-| **2025/06/05** | Sentiment Analysis in Learning Management Systems Understanding Student Feedback at Scale | Mohammed Almutairi | [2506.05490v1](http://arxiv.org/abs/2506.05490v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/09** | Optical tweezers as a tool for quantitative imaging | Ilya M Beskin et al. | [2506.08186v1](http://arxiv.org/abs/2506.08186v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: MIRI Data Reduction and Number Counts at 7.7$μ$m using JWST | Santosh Harish et al. | [2506.03306v1](http://arxiv.org/abs/2506.03306v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: Comprehensive Data Reduction for Wide-Area JWST NIRCam Imaging | Maximilien Franco et al. | [2506.03256v1](http://arxiv.org/abs/2506.03256v1) | **NULL** |
 | **2025/05/23** | A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance | Pedro Jose Bauza-Ruiz et al. | [2505.17996v1](http://arxiv.org/abs/2505.17996v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
 | **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
-| **2024/07/05** | Beam Maps of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Measured with a Drone | Will Tyndall et al. | [2407.04848v1](http://arxiv.org/abs/2407.04848v1) | **NULL** |
