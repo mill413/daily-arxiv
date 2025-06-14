@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/13 09:12:01
+> Updated on 2025/06/14 09:09:04
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/12** | Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods | Zhaiming Shen et al. | [2506.10959v1](http://arxiv.org/abs/2506.10959v1) | **NULL** |
+| **2025/06/12** | Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation | Narges Nemati et al. | [2506.10658v1](http://arxiv.org/abs/2506.10658v1) | **NULL** |
+| **2025/06/12** | DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers | Lizhen Wang et al. | [2506.10568v1](http://arxiv.org/abs/2506.10568v1) | **NULL** |
+| **2025/06/12** | Revisiting Transformers with Insights from Image Filtering | Laziz U. Abdullaev et al. | [2506.10371v1](http://arxiv.org/abs/2506.10371v1) | **NULL** |
+| **2025/06/12** | FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion | Tianpei Zhang et al. | [2506.10366v1](http://arxiv.org/abs/2506.10366v1) | **NULL** |
+| **2025/06/12** | History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials | Binyao Guo et al. | [2506.10352v1](http://arxiv.org/abs/2506.10352v1) | **NULL** |
+| **2025/06/12** | LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture | Yanhui Li et al. | [2506.10347v1](http://arxiv.org/abs/2506.10347v1) | **NULL** |
+| **2025/06/12** | PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting | Lintao Xiang et al. | [2506.10335v1](http://arxiv.org/abs/2506.10335v1) | **NULL** |
+| **2025/06/12** | Context-Adaptive Graph Neural Networks for Next POI Recommendation | Yu Lei et al. | [2506.10329v1](http://arxiv.org/abs/2506.10329v1) | **NULL** |
+| **2025/06/11** | Attention, Please! Revisiting Attentive Probing for Masked Image Modeling | Bill Psomas et al. | [2506.10178v1](http://arxiv.org/abs/2506.10178v1) | **NULL** |
+| **2025/06/11** | DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding | Shubham Srivastava et al. | [2506.10166v1](http://arxiv.org/abs/2506.10166v1) | **NULL** |
+| **2025/06/11** | Survival Analysis as Imprecise Classification with Trainable Kernels | Andrei V. Konstantinov et al. | [2506.10140v1](http://arxiv.org/abs/2506.10140v1) | **NULL** |
 | **2025/06/11** | How attention simplifies mental representations for planning | Jason da Silva Castanheira et al. | [2506.09520v1](http://arxiv.org/abs/2506.09520v1) | **NULL** |
 | **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | **NULL** |
 | **2025/06/10** | LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Yilin Zhuang et al. | [2506.09193v1](http://arxiv.org/abs/2506.09193v1) | [**link**](https://github.com/tonyzyl/ladcast) |
@@ -71,18 +83,6 @@ layout: default
 | **2025/06/09** | Lightweight Sequential Transformers for Blood Glucose Level Prediction in Type-1 Diabetes | Mirko Paolo Barbato et al. | [2506.07864v1](http://arxiv.org/abs/2506.07864v1) | **NULL** |
 | **2025/06/09** | Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations | Weilei Wen et al. | [2506.07705v1](http://arxiv.org/abs/2506.07705v1) | **NULL** |
 | **2025/06/09** | NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation | Yuxiao Yang et al. | [2506.07698v1](http://arxiv.org/abs/2506.07698v1) | **NULL** |
-| **2025/06/09** | A Unified Anti-Jamming Design in Complex Environments Based on Cross-Modal Fusion and Intelligent Decision-Making | Huake Wang et al. | [2506.07532v1](http://arxiv.org/abs/2506.07532v1) | **NULL** |
-| **2025/06/09** | Leveraging Historical and Current Interests for Continual Sequential Recommendation | Gyuseok Lee et al. | [2506.07466v1](http://arxiv.org/abs/2506.07466v1) | **NULL** |
-| **2025/06/09** | RiemannFormer: A Framework for Attention in Curved Spaces | Zhongping Ji | [2506.07405v1](http://arxiv.org/abs/2506.07405v1) | **NULL** |
-| **2025/06/09** | CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms | Satvik Praveen et al. | [2506.07357v1](http://arxiv.org/abs/2506.07357v1) | **NULL** |
-| **2025/06/08** | Representation Decomposition for Learning Similarity and Contrastness Across Modalities for Affective Computing | Yuanhe Tian et al. | [2506.07086v1](http://arxiv.org/abs/2506.07086v1) | **NULL** |
-| **2025/06/08** | Harmony-Aware Music-driven Motion Synthesis with Perceptual Constraint on UGC Datasets | Xinyi Wu et al. | [2506.07076v1](http://arxiv.org/abs/2506.07076v1) | **NULL** |
-| **2025/06/08** | LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer | Ying Shen et al. | [2506.06952v1](http://arxiv.org/abs/2506.06952v1) | **NULL** |
-| **2025/06/07** | Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models | Naibin Gu et al. | [2506.06844v1](http://arxiv.org/abs/2506.06844v1) | **NULL** |
-| **2025/06/07** | Learning quantum phase transition in parametrized quantum circuits with an attention mechanism | Li Xin et al. | [2506.06678v1](http://arxiv.org/abs/2506.06678v1) | **NULL** |
-| **2025/06/07** | Spark Transformer: Reactivating Sparsity in FFN and Attention | Chong You et al. | [2506.06644v1](http://arxiv.org/abs/2506.06644v1) | **NULL** |
-| **2025/06/07** | GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales | Yubin Xiao et al. | [2506.06634v1](http://arxiv.org/abs/2506.06634v1) | **NULL** |
-| **2025/06/06** | ENMA: Tokenwise Autoregression for Generative Neural PDE Operators | Armand Kassaï Koupaï et al. | [2506.06158v1](http://arxiv.org/abs/2506.06158v1) | **NULL** |
 
 ## 背景差分
 
@@ -114,7 +114,7 @@ layout: default
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
+| **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
 | **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v2](http://arxiv.org/abs/2410.17334v2) | **NULL** |
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
 | **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
-| **2024/07/23** | Dark Photon Dark Matter and Low-Frequency Gravitational Wave Detection with Gaia-like Astrometry | Haipeng An et al. | [2407.16488v2](http://arxiv.org/abs/2407.16488v2) | **NULL** |
