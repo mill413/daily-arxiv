@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/14 09:09:04
+> Updated on 2025/06/15 09:19:07
 
 <summary>Table of Contents</summary>
 
@@ -66,7 +66,7 @@ layout: default
 | **2025/06/11** | DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding | Shubham Srivastava et al. | [2506.10166v1](http://arxiv.org/abs/2506.10166v1) | **NULL** |
 | **2025/06/11** | Survival Analysis as Imprecise Classification with Trainable Kernels | Andrei V. Konstantinov et al. | [2506.10140v1](http://arxiv.org/abs/2506.10140v1) | **NULL** |
 | **2025/06/11** | How attention simplifies mental representations for planning | Jason da Silva Castanheira et al. | [2506.09520v1](http://arxiv.org/abs/2506.09520v1) | **NULL** |
-| **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | **NULL** |
+| **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | [**link**](https://github.com/rohban-lab/patchgaurd) |
 | **2025/06/10** | LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Yilin Zhuang et al. | [2506.09193v1](http://arxiv.org/abs/2506.09193v1) | [**link**](https://github.com/tonyzyl/ladcast) |
 | **2025/06/10** | CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model | Jingying Ma et al. | [2506.09110v1](http://arxiv.org/abs/2506.09110v1) | **NULL** |
 | **2025/06/10** | JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset | Mahesh Godavarti | [2506.08652v1](http://arxiv.org/abs/2506.08652v1) | **NULL** |
@@ -74,8 +74,8 @@ layout: default
 | **2025/06/10** | Attention-based Learning for 3D Informative Path Planning | Rui Zhao et al. | [2506.08434v1](http://arxiv.org/abs/2506.08434v1) | **NULL** |
 | **2025/06/10** | NAM: A Normalization Attention Model for Personalized Product Search In Fliggy | Shui Liu et al. | [2506.08382v1](http://arxiv.org/abs/2506.08382v1) | **NULL** |
 | **2025/06/10** | Learnable Spatial-Temporal Positional Encoding for Link Prediction | Katherine Tieu et al. | [2506.08309v2](http://arxiv.org/abs/2506.08309v2) | **NULL** |
-| **2025/06/09** | StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets | Anh-Quan Cao et al. | [2506.08013v1](http://arxiv.org/abs/2506.08013v1) | **NULL** |
-| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v2](http://arxiv.org/abs/2506.07986v2) | **NULL** |
+| **2025/06/09** | StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets | Anh-Quan Cao et al. | [2506.08013v1](http://arxiv.org/abs/2506.08013v1) | [**link**](https://github.com/astra-vision/stablemtl) |
+| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v2](http://arxiv.org/abs/2506.07986v2) | [**link**](https://github.com/vchitect/taca) |
 | **2025/06/09** | Quantum Graph Transformer for NLP Sentiment Classification | Shamminuj Aktar et al. | [2506.07937v1](http://arxiv.org/abs/2506.07937v1) | **NULL** |
 | **2025/06/09** | Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions | Lev V. Utkin et al. | [2506.07933v1](http://arxiv.org/abs/2506.07933v1) | **NULL** |
 | **2025/06/09** | MiniCPM4: Ultra-Efficient LLMs on End Devices | MiniCPM Team et al. | [2506.07900v1](http://arxiv.org/abs/2506.07900v1) | [**link**](https://github.com/openbmb/minicpm) |
