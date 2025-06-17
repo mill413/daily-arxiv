@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/16 09:14:01
+> Updated on 2025/06/17 09:11:43
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/13** | An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing | Haochen Sun et al. | [2506.11882v1](http://arxiv.org/abs/2506.11882v1) | **NULL** |
+| **2025/06/13** | Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution | Zhangkai Ni et al. | [2506.11823v1](http://arxiv.org/abs/2506.11823v1) | **NULL** |
+| **2025/06/13** | FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior | Panqi Chen et al. | [2506.11629v1](http://arxiv.org/abs/2506.11629v1) | **NULL** |
+| **2025/06/13** | SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation | Xu Wang et al. | [2506.11621v1](http://arxiv.org/abs/2506.11621v1) | **NULL** |
+| **2025/06/13** | Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness | Ruobei Zhang et al. | [2506.11616v1](http://arxiv.org/abs/2506.11616v1) | **NULL** |
+| **2025/06/13** | FAME: A Lightweight Spatio-Temporal Network for Model Attribution of Face-Swap Deepfakes | Wasim Ahmad et al. | [2506.11477v1](http://arxiv.org/abs/2506.11477v1) | [**link**](https://github.com/wasim004/FAME) |
+| **2025/06/13** | RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer | Haotian Ni et al. | [2506.11465v1](http://arxiv.org/abs/2506.11465v1) | **NULL** |
+| **2025/06/13** | FAD-Net: Frequency-Domain Attention-Guided Diffusion Network for Coronary Artery Segmentation using Invasive Coronary Angiography | Nan Mu et al. | [2506.11454v1](http://arxiv.org/abs/2506.11454v1) | **NULL** |
+| **2025/06/13** | AbsenceBench: Language Models Can't Tell What's Missing | Harvey Yiyun Fu et al. | [2506.11440v1](http://arxiv.org/abs/2506.11440v1) | **NULL** |
+| **2025/06/13** | Dynamic Double Space Tower | Weikai Sun et al. | [2506.11394v1](http://arxiv.org/abs/2506.11394v1) | **NULL** |
+| **2025/06/12** | An Attention-based Spatio-Temporal Neural Operator for Evolving Physics | Vispi Karkaria et al. | [2506.11328v1](http://arxiv.org/abs/2506.11328v1) | **NULL** |
+| **2025/06/12** | Don't Pay Attention | Mohammad Hammoud et al. | [2506.11305v1](http://arxiv.org/abs/2506.11305v1) | **NULL** |
 | **2025/06/12** | Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods | Zhaiming Shen et al. | [2506.10959v1](http://arxiv.org/abs/2506.10959v1) | **NULL** |
+| **2025/06/12** | Brain2Vec: A Deep Learning Framework for EEG-Based Stress Detection Using CNN-LSTM-Attention | Md Mynoddin et al. | [2506.11179v1](http://arxiv.org/abs/2506.11179v1) | **NULL** |
 | **2025/06/12** | Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation | Narges Nemati et al. | [2506.10658v1](http://arxiv.org/abs/2506.10658v1) | **NULL** |
 | **2025/06/12** | DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers | Lizhen Wang et al. | [2506.10568v1](http://arxiv.org/abs/2506.10568v1) | **NULL** |
 | **2025/06/12** | Revisiting Transformers with Insights from Image Filtering | Laziz U. Abdullaev et al. | [2506.10371v1](http://arxiv.org/abs/2506.10371v1) | **NULL** |
-| **2025/06/12** | FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion | Tianpei Zhang et al. | [2506.10366v1](http://arxiv.org/abs/2506.10366v1) | **NULL** |
+| **2025/06/12** | FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion | Tianpei Zhang et al. | [2506.10366v1](http://arxiv.org/abs/2506.10366v1) | [**link**](https://github.com/lmmh058/fsatfusion) |
 | **2025/06/12** | History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials | Binyao Guo et al. | [2506.10352v1](http://arxiv.org/abs/2506.10352v1) | **NULL** |
-| **2025/06/12** | LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture | Yanhui Li et al. | [2506.10347v1](http://arxiv.org/abs/2506.10347v1) | **NULL** |
+| **2025/06/12** | LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture | Yanhui Li et al. | [2506.10347v1](http://arxiv.org/abs/2506.10347v1) | [**link**](https://github.com/1371149/lightkg) |
 | **2025/06/12** | PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting | Lintao Xiang et al. | [2506.10335v1](http://arxiv.org/abs/2506.10335v1) | **NULL** |
 | **2025/06/12** | Context-Adaptive Graph Neural Networks for Next POI Recommendation | Yu Lei et al. | [2506.10329v1](http://arxiv.org/abs/2506.10329v1) | **NULL** |
-| **2025/06/11** | Attention, Please! Revisiting Attentive Probing for Masked Image Modeling | Bill Psomas et al. | [2506.10178v1](http://arxiv.org/abs/2506.10178v1) | **NULL** |
+| **2025/06/11** | Attention, Please! Revisiting Attentive Probing for Masked Image Modeling | Bill Psomas et al. | [2506.10178v1](http://arxiv.org/abs/2506.10178v1) | [**link**](https://github.com/billpsomas/efficient-probing) |
 | **2025/06/11** | DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding | Shubham Srivastava et al. | [2506.10166v1](http://arxiv.org/abs/2506.10166v1) | **NULL** |
 | **2025/06/11** | Survival Analysis as Imprecise Classification with Trainable Kernels | Andrei V. Konstantinov et al. | [2506.10140v1](http://arxiv.org/abs/2506.10140v1) | **NULL** |
 | **2025/06/11** | How attention simplifies mental representations for planning | Jason da Silva Castanheira et al. | [2506.09520v1](http://arxiv.org/abs/2506.09520v1) | **NULL** |
 | **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | [**link**](https://github.com/rohban-lab/patchgaurd) |
 | **2025/06/10** | LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Yilin Zhuang et al. | [2506.09193v1](http://arxiv.org/abs/2506.09193v1) | [**link**](https://github.com/tonyzyl/ladcast) |
 | **2025/06/10** | CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model | Jingying Ma et al. | [2506.09110v1](http://arxiv.org/abs/2506.09110v1) | **NULL** |
-| **2025/06/10** | JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset | Mahesh Godavarti | [2506.08652v1](http://arxiv.org/abs/2506.08652v1) | **NULL** |
-| **2025/06/10** | Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems | Guyang Zhang et al. | [2506.08596v1](http://arxiv.org/abs/2506.08596v1) | **NULL** |
-| **2025/06/10** | Attention-based Learning for 3D Informative Path Planning | Rui Zhao et al. | [2506.08434v1](http://arxiv.org/abs/2506.08434v1) | **NULL** |
-| **2025/06/10** | NAM: A Normalization Attention Model for Personalized Product Search In Fliggy | Shui Liu et al. | [2506.08382v1](http://arxiv.org/abs/2506.08382v1) | **NULL** |
-| **2025/06/10** | Learnable Spatial-Temporal Positional Encoding for Link Prediction | Katherine Tieu et al. | [2506.08309v2](http://arxiv.org/abs/2506.08309v2) | **NULL** |
-| **2025/06/09** | StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets | Anh-Quan Cao et al. | [2506.08013v1](http://arxiv.org/abs/2506.08013v1) | [**link**](https://github.com/astra-vision/stablemtl) |
-| **2025/06/09** | Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers | Zhengyao Lv et al. | [2506.07986v2](http://arxiv.org/abs/2506.07986v2) | [**link**](https://github.com/vchitect/taca) |
-| **2025/06/09** | Quantum Graph Transformer for NLP Sentiment Classification | Shamminuj Aktar et al. | [2506.07937v1](http://arxiv.org/abs/2506.07937v1) | **NULL** |
-| **2025/06/09** | Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions | Lev V. Utkin et al. | [2506.07933v1](http://arxiv.org/abs/2506.07933v1) | **NULL** |
-| **2025/06/09** | MiniCPM4: Ultra-Efficient LLMs on End Devices | MiniCPM Team et al. | [2506.07900v1](http://arxiv.org/abs/2506.07900v1) | [**link**](https://github.com/openbmb/minicpm) |
-| **2025/06/09** | Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models? | Sigma Jahan et al. | [2506.07871v1](http://arxiv.org/abs/2506.07871v1) | **NULL** |
-| **2025/06/09** | Lightweight Sequential Transformers for Blood Glucose Level Prediction in Type-1 Diabetes | Mirko Paolo Barbato et al. | [2506.07864v1](http://arxiv.org/abs/2506.07864v1) | **NULL** |
-| **2025/06/09** | Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations | Weilei Wen et al. | [2506.07705v1](http://arxiv.org/abs/2506.07705v1) | **NULL** |
-| **2025/06/09** | NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation | Yuxiao Yang et al. | [2506.07698v1](http://arxiv.org/abs/2506.07698v1) | **NULL** |
+| **2025/06/10** | JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset | Mahesh Godavarti | [2506.08652v1](http://arxiv.org/abs/2506.08652v1) | [**link**](https://github.com/mahesh-godavarti/joformer) |
 
 ## 背景差分
 
