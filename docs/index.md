@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/17 09:11:43
+> Updated on 2025/06/18 09:11:30
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/15** | MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection | Yuxiang Wang et al. | [2506.12697v1](http://arxiv.org/abs/2506.12697v1) | **NULL** |
 | **2025/06/11** | CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects | Tao Liu et al. | [2506.09897v1](http://arxiv.org/abs/2506.09897v1) | **NULL** |
 | **2025/05/28** | Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection | Guiping Cao et al. | [2505.21868v1](http://arxiv.org/abs/2505.21868v1) | **NULL** |
 | **2025/05/27** | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | Muzhi Zhu et al. | [2505.21457v1](http://arxiv.org/abs/2505.21457v1) | **NULL** |
@@ -47,12 +48,21 @@ layout: default
 | **2024/12/13** | RemDet: Rethinking Efficient Model Design for UAV Object Detection | Chen Li et al. | [2412.10040v2](http://arxiv.org/abs/2412.10040v2) | [**link**](https://github.com/hzai-zjnu/remdet) |
 | **2024/12/12** | Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach | Kailas PS et al. | [2412.10453v1](http://arxiv.org/abs/2412.10453v1) | **NULL** |
 | **2024/12/08** | Tiny Object Detection with Single Point Supervision | Haoran Zhu et al. | [2412.05837v1](http://arxiv.org/abs/2412.05837v1) | **NULL** |
-| **2024/12/06** | YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery | Sindhu Boddu et al. | [2412.05394v2](http://arxiv.org/abs/2412.05394v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/16** | MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention | MiniMax et al. | [2506.13585v1](http://arxiv.org/abs/2506.13585v1) | **NULL** |
+| **2025/06/16** | HELENA: High-Efficiency Learning-based channel Estimation using dual Neural Attention | Miguel Camelo Botero et al. | [2506.13408v1](http://arxiv.org/abs/2506.13408v1) | **NULL** |
+| **2025/06/16** | Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation | Juntao Hu et al. | [2506.13315v1](http://arxiv.org/abs/2506.13315v1) | **NULL** |
+| **2025/06/16** | AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing | Biao Yang et al. | [2506.13301v1](http://arxiv.org/abs/2506.13301v1) | **NULL** |
+| **2025/06/16** | Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection | Ziqing Zhou et al. | [2506.13097v1](http://arxiv.org/abs/2506.13097v1) | **NULL** |
+| **2025/06/16** | C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation | Siqi Liang et al. | [2506.13021v1](http://arxiv.org/abs/2506.13021v1) | **NULL** |
+| **2025/06/15** | DuoFormer: Leveraging Hierarchical Representations by Local and Global Attention Vision Transformer | Xiaoya Tang et al. | [2506.12982v1](http://arxiv.org/abs/2506.12982v1) | **NULL** |
+| **2025/06/14** | BSA: Ball Sparse Attention for Large-scale Geometries | Catalin E. Brita et al. | [2506.12541v1](http://arxiv.org/abs/2506.12541v1) | **NULL** |
+| **2025/06/14** | MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation | Caixu Xu et al. | [2506.12441v1](http://arxiv.org/abs/2506.12441v1) | **NULL** |
+| **2025/06/14** | UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers | Yuantao Wang et al. | [2506.12324v1](http://arxiv.org/abs/2506.12324v1) | **NULL** |
 | **2025/06/13** | An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing | Haochen Sun et al. | [2506.11882v1](http://arxiv.org/abs/2506.11882v1) | **NULL** |
 | **2025/06/13** | Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution | Zhangkai Ni et al. | [2506.11823v1](http://arxiv.org/abs/2506.11823v1) | **NULL** |
 | **2025/06/13** | FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior | Panqi Chen et al. | [2506.11629v1](http://arxiv.org/abs/2506.11629v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/06/12** | FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion | Tianpei Zhang et al. | [2506.10366v1](http://arxiv.org/abs/2506.10366v1) | [**link**](https://github.com/lmmh058/fsatfusion) |
 | **2025/06/12** | History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials | Binyao Guo et al. | [2506.10352v1](http://arxiv.org/abs/2506.10352v1) | **NULL** |
 | **2025/06/12** | LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture | Yanhui Li et al. | [2506.10347v1](http://arxiv.org/abs/2506.10347v1) | [**link**](https://github.com/1371149/lightkg) |
-| **2025/06/12** | PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting | Lintao Xiang et al. | [2506.10335v1](http://arxiv.org/abs/2506.10335v1) | **NULL** |
-| **2025/06/12** | Context-Adaptive Graph Neural Networks for Next POI Recommendation | Yu Lei et al. | [2506.10329v1](http://arxiv.org/abs/2506.10329v1) | **NULL** |
-| **2025/06/11** | Attention, Please! Revisiting Attentive Probing for Masked Image Modeling | Bill Psomas et al. | [2506.10178v1](http://arxiv.org/abs/2506.10178v1) | [**link**](https://github.com/billpsomas/efficient-probing) |
-| **2025/06/11** | DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding | Shubham Srivastava et al. | [2506.10166v1](http://arxiv.org/abs/2506.10166v1) | **NULL** |
-| **2025/06/11** | Survival Analysis as Imprecise Classification with Trainable Kernels | Andrei V. Konstantinov et al. | [2506.10140v1](http://arxiv.org/abs/2506.10140v1) | **NULL** |
-| **2025/06/11** | How attention simplifies mental representations for planning | Jason da Silva Castanheira et al. | [2506.09520v1](http://arxiv.org/abs/2506.09520v1) | **NULL** |
-| **2025/06/10** | PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies | Mojtaba Nafez et al. | [2506.09237v1](http://arxiv.org/abs/2506.09237v1) | [**link**](https://github.com/rohban-lab/patchgaurd) |
-| **2025/06/10** | LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Yilin Zhuang et al. | [2506.09193v1](http://arxiv.org/abs/2506.09193v1) | [**link**](https://github.com/tonyzyl/ladcast) |
-| **2025/06/10** | CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model | Jingying Ma et al. | [2506.09110v1](http://arxiv.org/abs/2506.09110v1) | **NULL** |
-| **2025/06/10** | JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset | Mahesh Godavarti | [2506.08652v1](http://arxiv.org/abs/2506.08652v1) | [**link**](https://github.com/mahesh-godavarti/joformer) |
 
 ## 背景差分
 
