@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/18 09:11:30
+> Updated on 2025/06/19 09:11:44
 
 <summary>Table of Contents</summary>
 
@@ -53,11 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/17** | ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM | Yujun Wang et al. | [2506.14766v1](http://arxiv.org/abs/2506.14766v1) | **NULL** |
+| **2025/06/17** | DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning | Kunal Swami et al. | [2506.14709v1](http://arxiv.org/abs/2506.14709v1) | **NULL** |
+| **2025/06/17** | GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion | Huan Kang et al. | [2506.14384v1](http://arxiv.org/abs/2506.14384v1) | **NULL** |
+| **2025/06/17** | CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs | Tianming Zhang et al. | [2506.14122v1](http://arxiv.org/abs/2506.14122v1) | **NULL** |
+| **2025/06/17** | Transformers Learn Faster with Semantic Focus | Parikshit Ram et al. | [2506.14095v2](http://arxiv.org/abs/2506.14095v2) | **NULL** |
+| **2025/06/16** | Scaling Algorithm Distillation for Continuous Control with Mamba | Samuel Beaussant et al. | [2506.13892v1](http://arxiv.org/abs/2506.13892v1) | **NULL** |
 | **2025/06/16** | MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention | MiniMax et al. | [2506.13585v1](http://arxiv.org/abs/2506.13585v1) | **NULL** |
 | **2025/06/16** | HELENA: High-Efficiency Learning-based channel Estimation using dual Neural Attention | Miguel Camelo Botero et al. | [2506.13408v1](http://arxiv.org/abs/2506.13408v1) | **NULL** |
 | **2025/06/16** | Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation | Juntao Hu et al. | [2506.13315v1](http://arxiv.org/abs/2506.13315v1) | **NULL** |
 | **2025/06/16** | AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing | Biao Yang et al. | [2506.13301v1](http://arxiv.org/abs/2506.13301v1) | **NULL** |
-| **2025/06/16** | Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection | Ziqing Zhou et al. | [2506.13097v1](http://arxiv.org/abs/2506.13097v1) | **NULL** |
+| **2025/06/16** | Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection | Ziqing Zhou et al. | [2506.13097v2](http://arxiv.org/abs/2506.13097v2) | **NULL** |
 | **2025/06/16** | C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation | Siqi Liang et al. | [2506.13021v1](http://arxiv.org/abs/2506.13021v1) | **NULL** |
 | **2025/06/15** | DuoFormer: Leveraging Hierarchical Representations by Local and Global Attention Vision Transformer | Xiaoya Tang et al. | [2506.12982v1](http://arxiv.org/abs/2506.12982v1) | **NULL** |
 | **2025/06/14** | BSA: Ball Sparse Attention for Large-scale Geometries | Catalin E. Brita et al. | [2506.12541v1](http://arxiv.org/abs/2506.12541v1) | **NULL** |
@@ -77,17 +83,12 @@ layout: default
 | **2025/06/12** | Don't Pay Attention | Mohammad Hammoud et al. | [2506.11305v1](http://arxiv.org/abs/2506.11305v1) | **NULL** |
 | **2025/06/12** | Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods | Zhaiming Shen et al. | [2506.10959v1](http://arxiv.org/abs/2506.10959v1) | **NULL** |
 | **2025/06/12** | Brain2Vec: A Deep Learning Framework for EEG-Based Stress Detection Using CNN-LSTM-Attention | Md Mynoddin et al. | [2506.11179v1](http://arxiv.org/abs/2506.11179v1) | **NULL** |
-| **2025/06/12** | Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation | Narges Nemati et al. | [2506.10658v1](http://arxiv.org/abs/2506.10658v1) | **NULL** |
-| **2025/06/12** | DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers | Lizhen Wang et al. | [2506.10568v1](http://arxiv.org/abs/2506.10568v1) | **NULL** |
-| **2025/06/12** | Revisiting Transformers with Insights from Image Filtering | Laziz U. Abdullaev et al. | [2506.10371v1](http://arxiv.org/abs/2506.10371v1) | **NULL** |
-| **2025/06/12** | FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion | Tianpei Zhang et al. | [2506.10366v1](http://arxiv.org/abs/2506.10366v1) | [**link**](https://github.com/lmmh058/fsatfusion) |
-| **2025/06/12** | History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials | Binyao Guo et al. | [2506.10352v1](http://arxiv.org/abs/2506.10352v1) | **NULL** |
-| **2025/06/12** | LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture | Yanhui Li et al. | [2506.10347v1](http://arxiv.org/abs/2506.10347v1) | [**link**](https://github.com/1371149/lightkg) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/17** | Comparison of Two Methods for Stationary Incident Detection Based on Background Image | Deepak Ghimire et al. | [2506.14256v1](http://arxiv.org/abs/2506.14256v1) | **NULL** |
 | **2025/06/09** | Optical tweezers as a tool for quantitative imaging | Ilya M Beskin et al. | [2506.08186v1](http://arxiv.org/abs/2506.08186v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: MIRI Data Reduction and Number Counts at 7.7$μ$m using JWST | Santosh Harish et al. | [2506.03306v1](http://arxiv.org/abs/2506.03306v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: Comprehensive Data Reduction for Wide-Area JWST NIRCam Imaging | Maximilien Franco et al. | [2506.03256v1](http://arxiv.org/abs/2506.03256v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
 | **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v2](http://arxiv.org/abs/2410.17334v2) | **NULL** |
 | **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
-| **2024/08/06** | Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies | Francine R. Marleau et al. | [2408.03311v1](http://arxiv.org/abs/2408.03311v1) | **NULL** |
