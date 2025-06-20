@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/19 09:11:44
+> Updated on 2025/06/20 09:11:03
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/18** | RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models | Bailin Wang et al. | [2506.15545v1](http://arxiv.org/abs/2506.15545v1) | **NULL** |
+| **2025/06/18** | Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity | Oluwadamilola Fasina et al. | [2506.15541v1](http://arxiv.org/abs/2506.15541v1) | **NULL** |
+| **2025/06/18** | Sampling 3D Molecular Conformers with Diffusion Transformers | J. Thorben Frank et al. | [2506.15378v1](http://arxiv.org/abs/2506.15378v1) | **NULL** |
+| **2025/06/18** | SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes | Jinglong Luo et al. | [2506.15307v1](http://arxiv.org/abs/2506.15307v1) | **NULL** |
+| **2025/06/18** | Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer? | Gary Song Yan et al. | [2506.15033v1](http://arxiv.org/abs/2506.15033v1) | **NULL** |
+| **2025/06/17** | CrEst: Credibility Estimation for Contexts in LLMs via Weak Supervision | Dyah Adila et al. | [2506.14912v1](http://arxiv.org/abs/2506.14912v1) | **NULL** |
 | **2025/06/17** | ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM | Yujun Wang et al. | [2506.14766v1](http://arxiv.org/abs/2506.14766v1) | **NULL** |
 | **2025/06/17** | DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning | Kunal Swami et al. | [2506.14709v1](http://arxiv.org/abs/2506.14709v1) | **NULL** |
 | **2025/06/17** | GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion | Huan Kang et al. | [2506.14384v1](http://arxiv.org/abs/2506.14384v1) | **NULL** |
@@ -60,29 +66,23 @@ layout: default
 | **2025/06/17** | Transformers Learn Faster with Semantic Focus | Parikshit Ram et al. | [2506.14095v2](http://arxiv.org/abs/2506.14095v2) | **NULL** |
 | **2025/06/16** | Scaling Algorithm Distillation for Continuous Control with Mamba | Samuel Beaussant et al. | [2506.13892v1](http://arxiv.org/abs/2506.13892v1) | **NULL** |
 | **2025/06/16** | MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention | MiniMax et al. | [2506.13585v1](http://arxiv.org/abs/2506.13585v1) | **NULL** |
-| **2025/06/16** | HELENA: High-Efficiency Learning-based channel Estimation using dual Neural Attention | Miguel Camelo Botero et al. | [2506.13408v1](http://arxiv.org/abs/2506.13408v1) | **NULL** |
+| **2025/06/16** | HELENA: High-Efficiency Learning-based channel Estimation using dual Neural Attention | Miguel Camelo Botero et al. | [2506.13408v1](http://arxiv.org/abs/2506.13408v1) | [**link**](https://github.com/miguelhdo/helena_channel_estimation) |
 | **2025/06/16** | Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation | Juntao Hu et al. | [2506.13315v1](http://arxiv.org/abs/2506.13315v1) | **NULL** |
 | **2025/06/16** | AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing | Biao Yang et al. | [2506.13301v1](http://arxiv.org/abs/2506.13301v1) | **NULL** |
 | **2025/06/16** | Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection | Ziqing Zhou et al. | [2506.13097v2](http://arxiv.org/abs/2506.13097v2) | **NULL** |
 | **2025/06/16** | C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation | Siqi Liang et al. | [2506.13021v1](http://arxiv.org/abs/2506.13021v1) | **NULL** |
 | **2025/06/15** | DuoFormer: Leveraging Hierarchical Representations by Local and Global Attention Vision Transformer | Xiaoya Tang et al. | [2506.12982v1](http://arxiv.org/abs/2506.12982v1) | **NULL** |
-| **2025/06/14** | BSA: Ball Sparse Attention for Large-scale Geometries | Catalin E. Brita et al. | [2506.12541v1](http://arxiv.org/abs/2506.12541v1) | **NULL** |
+| **2025/06/14** | BSA: Ball Sparse Attention for Large-scale Geometries | Catalin E. Brita et al. | [2506.12541v1](http://arxiv.org/abs/2506.12541v1) | [**link**](https://github.com/britacatalin/bsa) |
+| **2025/06/14** | MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation | Kiet Dang Vu et al. | [2506.14835v1](http://arxiv.org/abs/2506.14835v1) | **NULL** |
 | **2025/06/14** | MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation | Caixu Xu et al. | [2506.12441v1](http://arxiv.org/abs/2506.12441v1) | **NULL** |
 | **2025/06/14** | UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers | Yuantao Wang et al. | [2506.12324v1](http://arxiv.org/abs/2506.12324v1) | **NULL** |
+| **2025/06/13** | Optimization of bi-directional gated loop cell based on multi-head attention mechanism for SSD health state classification model | Zhizhao Wen et al. | [2506.14830v1](http://arxiv.org/abs/2506.14830v1) | **NULL** |
 | **2025/06/13** | An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing | Haochen Sun et al. | [2506.11882v1](http://arxiv.org/abs/2506.11882v1) | **NULL** |
 | **2025/06/13** | Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution | Zhangkai Ni et al. | [2506.11823v1](http://arxiv.org/abs/2506.11823v1) | **NULL** |
 | **2025/06/13** | FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior | Panqi Chen et al. | [2506.11629v1](http://arxiv.org/abs/2506.11629v1) | **NULL** |
 | **2025/06/13** | SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation | Xu Wang et al. | [2506.11621v1](http://arxiv.org/abs/2506.11621v1) | **NULL** |
 | **2025/06/13** | Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness | Ruobei Zhang et al. | [2506.11616v1](http://arxiv.org/abs/2506.11616v1) | **NULL** |
 | **2025/06/13** | FAME: A Lightweight Spatio-Temporal Network for Model Attribution of Face-Swap Deepfakes | Wasim Ahmad et al. | [2506.11477v1](http://arxiv.org/abs/2506.11477v1) | [**link**](https://github.com/wasim004/FAME) |
-| **2025/06/13** | RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer | Haotian Ni et al. | [2506.11465v1](http://arxiv.org/abs/2506.11465v1) | **NULL** |
-| **2025/06/13** | FAD-Net: Frequency-Domain Attention-Guided Diffusion Network for Coronary Artery Segmentation using Invasive Coronary Angiography | Nan Mu et al. | [2506.11454v1](http://arxiv.org/abs/2506.11454v1) | **NULL** |
-| **2025/06/13** | AbsenceBench: Language Models Can't Tell What's Missing | Harvey Yiyun Fu et al. | [2506.11440v1](http://arxiv.org/abs/2506.11440v1) | **NULL** |
-| **2025/06/13** | Dynamic Double Space Tower | Weikai Sun et al. | [2506.11394v1](http://arxiv.org/abs/2506.11394v1) | **NULL** |
-| **2025/06/12** | An Attention-based Spatio-Temporal Neural Operator for Evolving Physics | Vispi Karkaria et al. | [2506.11328v1](http://arxiv.org/abs/2506.11328v1) | **NULL** |
-| **2025/06/12** | Don't Pay Attention | Mohammad Hammoud et al. | [2506.11305v1](http://arxiv.org/abs/2506.11305v1) | **NULL** |
-| **2025/06/12** | Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods | Zhaiming Shen et al. | [2506.10959v1](http://arxiv.org/abs/2506.10959v1) | **NULL** |
-| **2025/06/12** | Brain2Vec: A Deep Learning Framework for EEG-Based Stress Detection Using CNN-LSTM-Attention | Md Mynoddin et al. | [2506.11179v1](http://arxiv.org/abs/2506.11179v1) | **NULL** |
 
 ## 背景差分
 
