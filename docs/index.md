@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/24 09:12:13
+> Updated on 2025/06/25 09:12:32
 
 <summary>Table of Contents</summary>
 
@@ -53,41 +53,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/23** | CommVQ: Commutative Vector Quantization for KV Cache Compression | Junyan Li et al. | [2506.18879v1](http://arxiv.org/abs/2506.18879v1) | **NULL** |
+| **2025/06/23** | A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction | Xin An et al. | [2506.18797v1](http://arxiv.org/abs/2506.18797v1) | **NULL** |
+| **2025/06/23** | Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers | Suyash Gaurav et al. | [2506.18791v1](http://arxiv.org/abs/2506.18791v1) | **NULL** |
+| **2025/06/23** | On the Existence of Universal Simulators of Attention | Debanjan Dutta et al. | [2506.18739v1](http://arxiv.org/abs/2506.18739v1) | **NULL** |
+| **2025/06/23** | A Random Matrix Analysis of In-context Memorization for Nonlinear Attention | Zhenyu Liao et al. | [2506.18656v1](http://arxiv.org/abs/2506.18656v1) | **NULL** |
+| **2025/06/23** | Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry | Jan Michalczyk et al. | [2506.18580v1](http://arxiv.org/abs/2506.18580v1) | **NULL** |
+| **2025/06/23** | Enhancing Image Restoration Transformer via Adaptive Translation Equivariance | JiaKui Hu et al. | [2506.18520v1](http://arxiv.org/abs/2506.18520v1) | **NULL** |
+| **2025/06/23** | CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing | Dinh-Khoi Vo et al. | [2506.18438v1](http://arxiv.org/abs/2506.18438v1) | **NULL** |
+| **2025/06/23** | Frequency-Domain Fusion Transformer for Image Inpainting | Sijin He et al. | [2506.18437v1](http://arxiv.org/abs/2506.18437v1) | **NULL** |
+| **2025/06/23** | AE-PINNs: Attention-enhanced physics-informed neural networks for solving elliptic interface problems | Jiachun Zheng et al. | [2506.18332v1](http://arxiv.org/abs/2506.18332v1) | **NULL** |
+| **2025/06/23** | Learning Causal Graphs at Scale: A Foundation Model Approach | Naiyu Yin et al. | [2506.18285v1](http://arxiv.org/abs/2506.18285v1) | **NULL** |
+| **2025/06/23** | Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation | Xunzhi Xiang et al. | [2506.18226v1](http://arxiv.org/abs/2506.18226v1) | **NULL** |
+| **2025/06/22** | Multimodal Fusion SLAM with Fourier Attention | Youjie Zhou et al. | [2506.18204v2](http://arxiv.org/abs/2506.18204v2) | **NULL** |
+| **2025/06/22** | STACT-Time: Spatio-Temporal Cross Attention for Cine Thyroid Ultrasound Time Series Classification | Irsyad Adam et al. | [2506.18172v1](http://arxiv.org/abs/2506.18172v1) | **NULL** |
+| **2025/06/22** | LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2506.17966v1](http://arxiv.org/abs/2506.17966v1) | **NULL** |
+| **2025/06/22** | Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms | Cheng Ji et al. | [2506.17900v1](http://arxiv.org/abs/2506.17900v1) | **NULL** |
+| **2025/06/22** | Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation | Jiahao Lu et al. | [2506.17891v1](http://arxiv.org/abs/2506.17891v1) | **NULL** |
+| **2025/06/22** | StainPIDR: A Pathological Image Decouplingand Reconstruction Method for StainNormalization Based on Color VectorQuantization and Structure Restaining | Zheng Chen | [2506.17879v1](http://arxiv.org/abs/2506.17879v1) | **NULL** |
+| **2025/06/21** | YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception | Mengqi Lei et al. | [2506.17733v1](http://arxiv.org/abs/2506.17733v1) | **NULL** |
+| **2025/06/21** | CSDN: A Context-Gated Self-Adaptive Detection Network for Real-Time Object Detection | Wei Haolin | [2506.17679v1](http://arxiv.org/abs/2506.17679v1) | **NULL** |
+| **2025/06/21** | TPTT: Transforming Pretrained Transformer into Titans | Fabien Furfaro | [2506.17671v1](http://arxiv.org/abs/2506.17671v1) | **NULL** |
+| **2025/06/21** | MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization | Tingting Liu et al. | [2506.17540v1](http://arxiv.org/abs/2506.17540v1) | **NULL** |
+| **2025/06/20** | Adaptive Control Attention Network for Underwater Acoustic Localization and Domain Adaptation | Quoc Thinh Vo et al. | [2506.17409v1](http://arxiv.org/abs/2506.17409v1) | **NULL** |
 | **2025/06/20** | Emergent Temporal Correspondences from Video Diffusion Transformers | Jisu Nam et al. | [2506.17220v2](http://arxiv.org/abs/2506.17220v2) | [**link**](https://github.com/cvlab-kaist/DiffTrack) |
 | **2025/06/20** | From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers | Jingtong Su et al. | [2506.17052v1](http://arxiv.org/abs/2506.17052v1) | **NULL** |
 | **2025/06/20** | Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept | Ryan James Campbell et al. | [2506.16810v1](http://arxiv.org/abs/2506.16810v1) | **NULL** |
-| **2025/06/20** | Mesh-Informed Neural Operator : A Transformer Generative Approach | Yaozhong Shi et al. | [2506.16656v1](http://arxiv.org/abs/2506.16656v1) | **NULL** |
-| **2025/06/19** | Long-Context Generalization with Sparse Attention | Pavlo Vasylenko et al. | [2506.16640v1](http://arxiv.org/abs/2506.16640v1) | **NULL** |
-| **2025/06/19** | Revela: Dense Retriever Learning via Language Modeling | Fengyu Cai et al. | [2506.16552v1](http://arxiv.org/abs/2506.16552v1) | **NULL** |
+| **2025/06/20** | Mesh-Informed Neural Operator : A Transformer Generative Approach | Yaozhong Shi et al. | [2506.16656v1](http://arxiv.org/abs/2506.16656v1) | [**link**](https://github.com/yzshi5/mino) |
+| **2025/06/19** | Long-Context Generalization with Sparse Attention | Pavlo Vasylenko et al. | [2506.16640v2](http://arxiv.org/abs/2506.16640v2) | **NULL** |
+| **2025/06/19** | Revela: Dense Retriever Learning via Language Modeling | Fengyu Cai et al. | [2506.16552v1](http://arxiv.org/abs/2506.16552v1) | [**link**](https://github.com/trumancfy/revela) |
 | **2025/06/19** | A Free Probabilistic Framework for Analyzing the Transformer-based Language Models | Swagatam Das | [2506.16550v1](http://arxiv.org/abs/2506.16550v1) | **NULL** |
-| **2025/06/19** | Improvement of Nuclide Detection through Graph Spectroscopic Analysis Framework and its Application to Nuclear Facility Upset Detection | Pedro Rodríguez Fernández et al. | [2506.16522v1](http://arxiv.org/abs/2506.16522v1) | **NULL** |
-| **2025/06/19** | EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems | Dian Meng et al. | [2506.16428v1](http://arxiv.org/abs/2506.16428v1) | **NULL** |
-| **2025/06/19** | Generating Directed Graphs with Dual Attention and Asymmetric Encoding | Alba Carballo-Castro et al. | [2506.16404v1](http://arxiv.org/abs/2506.16404v1) | **NULL** |
-| **2025/06/19** | Category-based Galaxy Image Generation via Diffusion Models | Xingzhong Fan et al. | [2506.16255v1](http://arxiv.org/abs/2506.16255v1) | **NULL** |
-| **2025/06/19** | CRIA: A Cross-View Interaction and Instance-Adapted Pre-training Framework for Generalizable EEG Representations | Puchun Liu et al. | [2506.16056v1](http://arxiv.org/abs/2506.16056v1) | **NULL** |
-| **2025/06/19** | PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models | Tianchen Zhao et al. | [2506.16054v1](http://arxiv.org/abs/2506.16054v1) | **NULL** |
-| **2025/06/19** | AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction | Qianru Zhang et al. | [2506.16001v1](http://arxiv.org/abs/2506.16001v1) | **NULL** |
-| **2025/06/19** | Polyline Path Masked Attention for Vision Transformer | Zhongchen Zhao et al. | [2506.15940v1](http://arxiv.org/abs/2506.15940v1) | **NULL** |
-| **2025/06/18** | Early Attentive Sparsification Accelerates Neural Speech Transcription | Zifei Xu et al. | [2506.15912v1](http://arxiv.org/abs/2506.15912v1) | **NULL** |
-| **2025/06/18** | T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders | Alexey Yermakov et al. | [2506.15881v1](http://arxiv.org/abs/2506.15881v1) | **NULL** |
-| **2025/06/18** | RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models | Bailin Wang et al. | [2506.15545v1](http://arxiv.org/abs/2506.15545v1) | **NULL** |
-| **2025/06/18** | Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity | Oluwadamilola Fasina et al. | [2506.15541v1](http://arxiv.org/abs/2506.15541v1) | **NULL** |
-| **2025/06/18** | Sampling 3D Molecular Conformers with Diffusion Transformers | J. Thorben Frank et al. | [2506.15378v1](http://arxiv.org/abs/2506.15378v1) | [**link**](https://github.com/ml4molsim/dit_mc) |
-| **2025/06/18** | SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes | Jinglong Luo et al. | [2506.15307v1](http://arxiv.org/abs/2506.15307v1) | **NULL** |
-| **2025/06/18** | Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer? | Gary Song Yan et al. | [2506.15033v1](http://arxiv.org/abs/2506.15033v1) | **NULL** |
-| **2025/06/17** | CrEst: Credibility Estimation for Contexts in LLMs via Weak Supervision | Dyah Adila et al. | [2506.14912v1](http://arxiv.org/abs/2506.14912v1) | **NULL** |
-| **2025/06/17** | ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM | Yujun Wang et al. | [2506.14766v1](http://arxiv.org/abs/2506.14766v1) | **NULL** |
-| **2025/06/17** | DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning | Kunal Swami et al. | [2506.14709v1](http://arxiv.org/abs/2506.14709v1) | **NULL** |
-| **2025/06/17** | GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion | Huan Kang et al. | [2506.14384v1](http://arxiv.org/abs/2506.14384v1) | **NULL** |
-| **2025/06/17** | CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs | Tianming Zhang et al. | [2506.14122v1](http://arxiv.org/abs/2506.14122v1) | **NULL** |
-| **2025/06/17** | Transformers Learn Faster with Semantic Focus | Parikshit Ram et al. | [2506.14095v2](http://arxiv.org/abs/2506.14095v2) | **NULL** |
-| **2025/06/16** | Scaling Algorithm Distillation for Continuous Control with Mamba | Samuel Beaussant et al. | [2506.13892v1](http://arxiv.org/abs/2506.13892v1) | **NULL** |
-| **2025/06/16** | MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention | MiniMax et al. | [2506.13585v1](http://arxiv.org/abs/2506.13585v1) | [**link**](https://github.com/minimax-ai/minimax-m1) |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/22** | In pursuit of the low-energy Solar neutron flux | Prithish Halder et al. | [2506.17985v1](http://arxiv.org/abs/2506.17985v1) | **NULL** |
 | **2025/06/17** | Comparison of Two Methods for Stationary Incident Detection Based on Background Image | Deepak Ghimire et al. | [2506.14256v1](http://arxiv.org/abs/2506.14256v1) | **NULL** |
 | **2025/06/09** | Optical tweezers as a tool for quantitative imaging | Ilya M Beskin et al. | [2506.08186v1](http://arxiv.org/abs/2506.08186v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: MIRI Data Reduction and Number Counts at 7.7$μ$m using JWST | Santosh Harish et al. | [2506.03306v1](http://arxiv.org/abs/2506.03306v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
 | **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
 | **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v2](http://arxiv.org/abs/2410.17334v2) | **NULL** |
-| **2024/09/03** | New results on the gamma-ray burst variability-luminosity relation | C. Guidorzi et al. | [2409.01644v2](http://arxiv.org/abs/2409.01644v2) | **NULL** |
