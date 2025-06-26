@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/25 09:12:32
+> Updated on 2025/06/26 09:11:47
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/24** | Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation | Xingyang Li et al. | [2506.19852v1](http://arxiv.org/abs/2506.19852v1) | **NULL** |
+| **2025/06/24** | A Comparative Study of NAFNet Baselines for Image Restoration | Vladislav Esaulov et al. | [2506.19845v1](http://arxiv.org/abs/2506.19845v1) | **NULL** |
+| **2025/06/24** | PEVLM: Parallel Encoding for Vision-Language Models | Letian Kang et al. | [2506.19651v1](http://arxiv.org/abs/2506.19651v1) | **NULL** |
+| **2025/06/24** | Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications | Lujun Li et al. | [2506.19591v1](http://arxiv.org/abs/2506.19591v1) | **NULL** |
+| **2025/06/24** | HMSViT: A Hierarchical Masked Self-Supervised Vision Transformer for Corneal Nerve Segmentation and Diabetic Neuropathy Diagnosis | Xin Zhang et al. | [2506.19474v1](http://arxiv.org/abs/2506.19474v1) | **NULL** |
+| **2025/06/24** | A Global-Local Cross-Attention Network for Ultra-high Resolution Remote Sensing Image Semantic Segmentation | Chen Yi et al. | [2506.19406v1](http://arxiv.org/abs/2506.19406v1) | **NULL** |
+| **2025/06/24** | NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs | Khuram Naveed et al. | [2506.19387v1](http://arxiv.org/abs/2506.19387v1) | **NULL** |
+| **2025/06/24** | Airway Skill Assessment with Spatiotemporal Attention Mechanisms Using Human Gaze | Jean-Paul Ainam et al. | [2506.19306v1](http://arxiv.org/abs/2506.19306v1) | **NULL** |
+| **2025/06/24** | Personality Prediction from Life Stories using Language Models | Rasiq Hussain et al. | [2506.19258v1](http://arxiv.org/abs/2506.19258v1) | **NULL** |
 | **2025/06/23** | CommVQ: Commutative Vector Quantization for KV Cache Compression | Junyan Li et al. | [2506.18879v1](http://arxiv.org/abs/2506.18879v1) | **NULL** |
 | **2025/06/23** | A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction | Xin An et al. | [2506.18797v1](http://arxiv.org/abs/2506.18797v1) | **NULL** |
 | **2025/06/23** | Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers | Suyash Gaurav et al. | [2506.18791v1](http://arxiv.org/abs/2506.18791v1) | **NULL** |
@@ -62,27 +71,18 @@ layout: default
 | **2025/06/23** | Enhancing Image Restoration Transformer via Adaptive Translation Equivariance | JiaKui Hu et al. | [2506.18520v1](http://arxiv.org/abs/2506.18520v1) | **NULL** |
 | **2025/06/23** | CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing | Dinh-Khoi Vo et al. | [2506.18438v1](http://arxiv.org/abs/2506.18438v1) | **NULL** |
 | **2025/06/23** | Frequency-Domain Fusion Transformer for Image Inpainting | Sijin He et al. | [2506.18437v1](http://arxiv.org/abs/2506.18437v1) | **NULL** |
+| **2025/06/23** | Online high-precision prediction method for injection molding product weight by integrating time series/non-time series mixed features and feature attention mechanism | Maoyuan Li et al. | [2506.18950v1](http://arxiv.org/abs/2506.18950v1) | **NULL** |
 | **2025/06/23** | AE-PINNs: Attention-enhanced physics-informed neural networks for solving elliptic interface problems | Jiachun Zheng et al. | [2506.18332v1](http://arxiv.org/abs/2506.18332v1) | **NULL** |
 | **2025/06/23** | Learning Causal Graphs at Scale: A Foundation Model Approach | Naiyu Yin et al. | [2506.18285v1](http://arxiv.org/abs/2506.18285v1) | **NULL** |
 | **2025/06/23** | Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation | Xunzhi Xiang et al. | [2506.18226v1](http://arxiv.org/abs/2506.18226v1) | **NULL** |
 | **2025/06/22** | Multimodal Fusion SLAM with Fourier Attention | Youjie Zhou et al. | [2506.18204v2](http://arxiv.org/abs/2506.18204v2) | **NULL** |
 | **2025/06/22** | STACT-Time: Spatio-Temporal Cross Attention for Cine Thyroid Ultrasound Time Series Classification | Irsyad Adam et al. | [2506.18172v1](http://arxiv.org/abs/2506.18172v1) | **NULL** |
+| **2025/06/22** | eccDNAMamba: A Pre-Trained Model for Ultra-Long eccDNA Sequence Analysis | Zhenke Liu et al. | [2506.18940v1](http://arxiv.org/abs/2506.18940v1) | **NULL** |
 | **2025/06/22** | LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2506.17966v1](http://arxiv.org/abs/2506.17966v1) | **NULL** |
 | **2025/06/22** | Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms | Cheng Ji et al. | [2506.17900v1](http://arxiv.org/abs/2506.17900v1) | **NULL** |
 | **2025/06/22** | Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation | Jiahao Lu et al. | [2506.17891v1](http://arxiv.org/abs/2506.17891v1) | **NULL** |
-| **2025/06/22** | StainPIDR: A Pathological Image Decouplingand Reconstruction Method for StainNormalization Based on Color VectorQuantization and Structure Restaining | Zheng Chen | [2506.17879v1](http://arxiv.org/abs/2506.17879v1) | **NULL** |
+| **2025/06/22** | StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining | Zheng Chen | [2506.17879v1](http://arxiv.org/abs/2506.17879v1) | **NULL** |
 | **2025/06/21** | YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception | Mengqi Lei et al. | [2506.17733v1](http://arxiv.org/abs/2506.17733v1) | **NULL** |
-| **2025/06/21** | CSDN: A Context-Gated Self-Adaptive Detection Network for Real-Time Object Detection | Wei Haolin | [2506.17679v1](http://arxiv.org/abs/2506.17679v1) | **NULL** |
-| **2025/06/21** | TPTT: Transforming Pretrained Transformer into Titans | Fabien Furfaro | [2506.17671v1](http://arxiv.org/abs/2506.17671v1) | **NULL** |
-| **2025/06/21** | MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization | Tingting Liu et al. | [2506.17540v1](http://arxiv.org/abs/2506.17540v1) | **NULL** |
-| **2025/06/20** | Adaptive Control Attention Network for Underwater Acoustic Localization and Domain Adaptation | Quoc Thinh Vo et al. | [2506.17409v1](http://arxiv.org/abs/2506.17409v1) | **NULL** |
-| **2025/06/20** | Emergent Temporal Correspondences from Video Diffusion Transformers | Jisu Nam et al. | [2506.17220v2](http://arxiv.org/abs/2506.17220v2) | [**link**](https://github.com/cvlab-kaist/DiffTrack) |
-| **2025/06/20** | From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers | Jingtong Su et al. | [2506.17052v1](http://arxiv.org/abs/2506.17052v1) | **NULL** |
-| **2025/06/20** | Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept | Ryan James Campbell et al. | [2506.16810v1](http://arxiv.org/abs/2506.16810v1) | **NULL** |
-| **2025/06/20** | Mesh-Informed Neural Operator : A Transformer Generative Approach | Yaozhong Shi et al. | [2506.16656v1](http://arxiv.org/abs/2506.16656v1) | [**link**](https://github.com/yzshi5/mino) |
-| **2025/06/19** | Long-Context Generalization with Sparse Attention | Pavlo Vasylenko et al. | [2506.16640v2](http://arxiv.org/abs/2506.16640v2) | **NULL** |
-| **2025/06/19** | Revela: Dense Retriever Learning via Language Modeling | Fengyu Cai et al. | [2506.16552v1](http://arxiv.org/abs/2506.16552v1) | [**link**](https://github.com/trumancfy/revela) |
-| **2025/06/19** | A Free Probabilistic Framework for Analyzing the Transformer-based Language Models | Swagatam Das | [2506.16550v1](http://arxiv.org/abs/2506.16550v1) | **NULL** |
 
 ## 背景差分
 
