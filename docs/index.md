@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/26 09:11:47
+> Updated on 2025/06/27 09:12:41
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/25** | Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization | Zhiwang Zhang et al. | [2506.20567v1](http://arxiv.org/abs/2506.20567v1) | **NULL** |
+| **2025/06/25** | Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks | Manyi Li et al. | [2506.20548v1](http://arxiv.org/abs/2506.20548v1) | **NULL** |
+| **2025/06/25** | A foundation model with multi-variate parallel attention to generate neuronal activity | Francesco Carzaniga et al. | [2506.20354v1](http://arxiv.org/abs/2506.20354v1) | **NULL** |
+| **2025/06/25** | MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment | Siqiao Li et al. | [2506.20200v1](http://arxiv.org/abs/2506.20200v1) | **NULL** |
+| **2025/06/24** | MILAAP: Mobile Link Allocation via Attention-based Prediction | Yung-Fu Chen et al. | [2506.19947v1](http://arxiv.org/abs/2506.19947v1) | **NULL** |
 | **2025/06/24** | Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation | Xingyang Li et al. | [2506.19852v1](http://arxiv.org/abs/2506.19852v1) | **NULL** |
 | **2025/06/24** | A Comparative Study of NAFNet Baselines for Image Restoration | Vladislav Esaulov et al. | [2506.19845v1](http://arxiv.org/abs/2506.19845v1) | **NULL** |
 | **2025/06/24** | PEVLM: Parallel Encoding for Vision-Language Models | Letian Kang et al. | [2506.19651v1](http://arxiv.org/abs/2506.19651v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/06/22** | Multimodal Fusion SLAM with Fourier Attention | Youjie Zhou et al. | [2506.18204v2](http://arxiv.org/abs/2506.18204v2) | **NULL** |
 | **2025/06/22** | STACT-Time: Spatio-Temporal Cross Attention for Cine Thyroid Ultrasound Time Series Classification | Irsyad Adam et al. | [2506.18172v1](http://arxiv.org/abs/2506.18172v1) | **NULL** |
 | **2025/06/22** | eccDNAMamba: A Pre-Trained Model for Ultra-Long eccDNA Sequence Analysis | Zhenke Liu et al. | [2506.18940v1](http://arxiv.org/abs/2506.18940v1) | **NULL** |
-| **2025/06/22** | LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation | Wangyu Wu et al. | [2506.17966v1](http://arxiv.org/abs/2506.17966v1) | **NULL** |
-| **2025/06/22** | Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms | Cheng Ji et al. | [2506.17900v1](http://arxiv.org/abs/2506.17900v1) | **NULL** |
-| **2025/06/22** | Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation | Jiahao Lu et al. | [2506.17891v1](http://arxiv.org/abs/2506.17891v1) | **NULL** |
-| **2025/06/22** | StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining | Zheng Chen | [2506.17879v1](http://arxiv.org/abs/2506.17879v1) | **NULL** |
-| **2025/06/21** | YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception | Mengqi Lei et al. | [2506.17733v1](http://arxiv.org/abs/2506.17733v1) | **NULL** |
 
 ## 背景差分
 
