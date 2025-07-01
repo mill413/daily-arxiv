@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/06/30 09:16:29
+> Updated on 2025/07/01 09:20:13
 
 <summary>Table of Contents</summary>
 
@@ -36,7 +36,7 @@ layout: default
 | **2025/03/29** | Context in object detection: a systematic literature review | Mahtab Jamali et al. | [2503.23249v1](http://arxiv.org/abs/2503.23249v1) | **NULL** |
 | **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
-| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v2](http://arxiv.org/abs/2503.13883v2) | **NULL** |
+| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v3](http://arxiv.org/abs/2503.13883v3) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | [**link**](https://github.com/wish44165/ReynoldsFlow) |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/06/27** | Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems | Abdulmomen Ghalkha et al. | [2506.22374v1](http://arxiv.org/abs/2506.22374v1) | **NULL** |
+| **2025/06/27** | Transformers are Graph Neural Networks | Chaitanya K. Joshi | [2506.22084v1](http://arxiv.org/abs/2506.22084v1) | **NULL** |
+| **2025/06/27** | Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy | Bohan Li et al. | [2506.22023v1](http://arxiv.org/abs/2506.22023v1) | **NULL** |
+| **2025/06/27** | 3D-Telepathy: Reconstructing 3D Objects from EEG Signals | Yuxiang Ge et al. | [2506.21843v1](http://arxiv.org/abs/2506.21843v1) | **NULL** |
+| **2025/06/26** | CaloHadronic: a diffusion model for the generation of hadronic showers | Thorsten Buss et al. | [2506.21720v1](http://arxiv.org/abs/2506.21720v1) | **NULL** |
+| **2025/06/26** | CAST: Cross-Attentive Spatio-Temporal feature fusion for Deepfake detection | Aryan Thakre et al. | [2506.21711v1](http://arxiv.org/abs/2506.21711v1) | **NULL** |
 | **2025/06/26** | Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection | Zhi Zheng et al. | [2506.21382v1](http://arxiv.org/abs/2506.21382v1) | **NULL** |
 | **2025/06/26** | Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models | Haoyang Wu et al. | [2506.21330v1](http://arxiv.org/abs/2506.21330v1) | **NULL** |
 | **2025/06/26** | Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou | Pengfei Fan et al. | [2506.21269v1](http://arxiv.org/abs/2506.21269v1) | **NULL** |
@@ -62,9 +68,10 @@ layout: default
 | **2025/06/26** | Interpretable Hierarchical Concept Reasoning through Attention-Guided Graph Learning | David Debot et al. | [2506.21102v1](http://arxiv.org/abs/2506.21102v1) | **NULL** |
 | **2025/06/26** | Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features | Shangbo Wu et al. | [2506.21046v1](http://arxiv.org/abs/2506.21046v1) | **NULL** |
 | **2025/06/26** | TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation | Chade Li et al. | [2506.20991v1](http://arxiv.org/abs/2506.20991v1) | **NULL** |
-| **2025/06/26** | CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models | Haoxuan Li et al. | [2506.20926v1](http://arxiv.org/abs/2506.20926v1) | **NULL** |
+| **2025/06/26** | Towards Generalized and Stealthy Watermarking for Generative Code Models | Haoxuan Li et al. | [2506.20926v2](http://arxiv.org/abs/2506.20926v2) | **NULL** |
 | **2025/06/26** | The Role of Cyclopean-Eye in Stereo Vision | Sherlon Almeida da Silva et al. | [2506.20900v1](http://arxiv.org/abs/2506.20900v1) | **NULL** |
 | **2025/06/25** | 3DGH: 3D Head Generation with Composable Hair and Face | Chengan He et al. | [2506.20875v1](http://arxiv.org/abs/2506.20875v1) | **NULL** |
+| **2025/06/25** | Quantum Variational Transformer Model for Enhanced Cancer Classification | Don Roosan et al. | [2506.21641v1](http://arxiv.org/abs/2506.21641v1) | **NULL** |
 | **2025/06/25** | Multiple Streams of Relation Extraction: Enriching and Recalling in Transformers | Todd Nief et al. | [2506.20746v1](http://arxiv.org/abs/2506.20746v1) | **NULL** |
 | **2025/06/25** | Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization | Zhiwang Zhang et al. | [2506.20567v1](http://arxiv.org/abs/2506.20567v1) | **NULL** |
 | **2025/06/25** | Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks | Manyi Li et al. | [2506.20548v1](http://arxiv.org/abs/2506.20548v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2025/06/24** | A Comparative Study of NAFNet Baselines for Image Restoration | Vladislav Esaulov et al. | [2506.19845v1](http://arxiv.org/abs/2506.19845v1) | **NULL** |
 | **2025/06/24** | PEVLM: Parallel Encoding for Vision-Language Models | Letian Kang et al. | [2506.19651v1](http://arxiv.org/abs/2506.19651v1) | **NULL** |
 | **2025/06/24** | Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications | Lujun Li et al. | [2506.19591v1](http://arxiv.org/abs/2506.19591v1) | **NULL** |
-| **2025/06/24** | HMSViT: A Hierarchical Masked Self-Supervised Vision Transformer for Corneal Nerve Segmentation and Diabetic Neuropathy Diagnosis | Xin Zhang et al. | [2506.19474v1](http://arxiv.org/abs/2506.19474v1) | **NULL** |
-| **2025/06/24** | A Global-Local Cross-Attention Network for Ultra-high Resolution Remote Sensing Image Semantic Segmentation | Chen Yi et al. | [2506.19406v1](http://arxiv.org/abs/2506.19406v1) | **NULL** |
-| **2025/06/24** | NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs | Khuram Naveed et al. | [2506.19387v1](http://arxiv.org/abs/2506.19387v1) | **NULL** |
-| **2025/06/24** | Airway Skill Assessment with Spatiotemporal Attention Mechanisms Using Human Gaze | Jean-Paul Ainam et al. | [2506.19306v1](http://arxiv.org/abs/2506.19306v1) | **NULL** |
-| **2025/06/24** | Personality Prediction from Life Stories using Language Models | Rasiq Hussain et al. | [2506.19258v1](http://arxiv.org/abs/2506.19258v1) | **NULL** |
-| **2025/06/23** | CommVQ: Commutative Vector Quantization for KV Cache Compression | Junyan Li et al. | [2506.18879v1](http://arxiv.org/abs/2506.18879v1) | **NULL** |
-| **2025/06/23** | A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction | Xin An et al. | [2506.18797v1](http://arxiv.org/abs/2506.18797v1) | **NULL** |
 
 ## 背景差分
 
