@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/03 09:12:22
+> Updated on 2025/07/04 09:11:49
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/01** | High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery | Hongxing Peng et al. | [2507.00825v1](http://arxiv.org/abs/2507.00825v1) | **NULL** |
 | **2025/06/30** | Event-based Tiny Object Detection: A Benchmark Dataset and Baseline | Nuo Chen et al. | [2506.23575v1](http://arxiv.org/abs/2506.23575v1) | **NULL** |
 | **2025/06/15** | MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection | Yuxiang Wang et al. | [2506.12697v1](http://arxiv.org/abs/2506.12697v1) | **NULL** |
 | **2025/06/11** | CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects | Tao Liu et al. | [2506.09897v1](http://arxiv.org/abs/2506.09897v1) | **NULL** |
@@ -47,17 +48,30 @@ layout: default
 | **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
 | **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v3](http://arxiv.org/abs/2412.10116v3) | **NULL** |
 | **2024/12/13** | RemDet: Rethinking Efficient Model Design for UAV Object Detection | Chen Li et al. | [2412.10040v2](http://arxiv.org/abs/2412.10040v2) | [**link**](https://github.com/hzai-zjnu/remdet) |
-| **2024/12/12** | Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach | Kailas PS et al. | [2412.10453v1](http://arxiv.org/abs/2412.10453v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/02** | IC-Custom: Diverse Image Customization via In-Context Learning | Yaowei Li et al. | [2507.01926v1](http://arxiv.org/abs/2507.01926v1) | **NULL** |
+| **2025/07/02** | MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices | Hailong Yan et al. | [2507.01838v1](http://arxiv.org/abs/2507.01838v1) | **NULL** |
+| **2025/07/02** | Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging | Montasir Shams et al. | [2507.01788v1](http://arxiv.org/abs/2507.01788v1) | **NULL** |
+| **2025/07/02** | Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective | Yuxin Mao et al. | [2507.01652v1](http://arxiv.org/abs/2507.01652v1) | **NULL** |
+| **2025/07/02** | Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction | Ting Xu et al. | [2507.01437v1](http://arxiv.org/abs/2507.01437v1) | **NULL** |
+| **2025/07/02** | SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations | Zhican Wang et al. | [2507.01309v1](http://arxiv.org/abs/2507.01309v1) | **NULL** |
+| **2025/07/02** | Learning an Ensemble Token from Task-driven Priors in Facial Analysis | Sunyong Seo et al. | [2507.01290v1](http://arxiv.org/abs/2507.01290v1) | **NULL** |
+| **2025/07/02** | Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing | Chengxu Liu et al. | [2507.01275v1](http://arxiv.org/abs/2507.01275v1) | **NULL** |
+| **2025/07/01** | ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention | Yuhong Chou et al. | [2507.01004v2](http://arxiv.org/abs/2507.01004v2) | **NULL** |
+| **2025/07/01** | Template-Fitting Meets Deep Learning: Redshift Estimation Using Physics-Guided Neural Networks | Jonas Chris Ferrao et al. | [2507.00866v1](http://arxiv.org/abs/2507.00866v1) | **NULL** |
+| **2025/07/01** | SCAWaveNet: A Spatial-Channel Attention-based Network for Global Significant Wave Height Retrieval | Chong Zhang et al. | [2507.00701v1](http://arxiv.org/abs/2507.00701v1) | **NULL** |
+| **2025/07/01** | Testing the spin-bath view of self-attention: A Hamiltonian analysis of GPT-2 Transformer | Satadeep Bhattacharjee et al. | [2507.00683v1](http://arxiv.org/abs/2507.00683v1) | **NULL** |
+| **2025/07/01** | LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs | Haoran Lou et al. | [2507.00505v2](http://arxiv.org/abs/2507.00505v2) | **NULL** |
 | **2025/06/30** | MotionGPT3: Human Motion as a Second Modality | Bingfan Zhu et al. | [2506.24086v1](http://arxiv.org/abs/2506.24086v1) | **NULL** |
 | **2025/06/30** | VMoBA: Mixture-of-Block Attention for Video Diffusion Models | Jianzong Wu et al. | [2506.23858v1](http://arxiv.org/abs/2506.23858v1) | **NULL** |
 | **2025/06/30** | MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation | Peiting Tian et al. | [2506.23700v1](http://arxiv.org/abs/2506.23700v1) | **NULL** |
 | **2025/06/30** | A unified framework on the universal approximation of transformer-type architectures | Jingpu Cheng et al. | [2506.23551v1](http://arxiv.org/abs/2506.23551v1) | **NULL** |
 | **2025/06/30** | ViewPoint: Panoramic Video Generation with Pretrained Diffusion Models | Zixun Fang et al. | [2506.23513v1](http://arxiv.org/abs/2506.23513v1) | **NULL** |
+| **2025/06/30** | Strategic Counterfactual Modeling of Deep-Target Airstrike Systems via Intervention-Aware Spatio-Causal Graph Networks | Wei Meng | [2507.00083v1](http://arxiv.org/abs/2507.00083v1) | **NULL** |
 | **2025/06/30** | Can We Predict the Unpredictable? Leveraging DisasterNet-LLM for Multimodal Disaster Classification | Manaswi Kulahara et al. | [2506.23462v1](http://arxiv.org/abs/2506.23462v1) | **NULL** |
 | **2025/06/29** | FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method | Quang-Huy Che et al. | [2506.23323v1](http://arxiv.org/abs/2506.23323v1) | **NULL** |
 | **2025/06/29** | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans | Chia-Wen Huang et al. | [2506.23209v1](http://arxiv.org/abs/2506.23209v1) | **NULL** |
@@ -69,25 +83,12 @@ layout: default
 | **2025/06/28** | STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing | Junsung Lee et al. | [2506.22868v1](http://arxiv.org/abs/2506.22868v1) | **NULL** |
 | **2025/06/28** | FOCUS: Fine-grained Optimization with Semantic Guided Understanding for Pedestrian Attributes Recognition | Hongyan An et al. | [2506.22836v1](http://arxiv.org/abs/2506.22836v1) | **NULL** |
 | **2025/06/28** | ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models | Jianxin Yan et al. | [2506.22791v1](http://arxiv.org/abs/2506.22791v1) | **NULL** |
-| **2025/06/27** | Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems | Abdulmomen Ghalkha et al. | [2506.22374v1](http://arxiv.org/abs/2506.22374v1) | **NULL** |
-| **2025/06/27** | Transformers are Graph Neural Networks | Chaitanya K. Joshi | [2506.22084v1](http://arxiv.org/abs/2506.22084v1) | **NULL** |
-| **2025/06/27** | Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy | Bohan Li et al. | [2506.22023v1](http://arxiv.org/abs/2506.22023v1) | **NULL** |
-| **2025/06/27** | 3D-Telepathy: Reconstructing 3D Objects from EEG Signals | Yuxiang Ge et al. | [2506.21843v1](http://arxiv.org/abs/2506.21843v1) | **NULL** |
-| **2025/06/26** | CaloHadronic: a diffusion model for the generation of hadronic showers | Thorsten Buss et al. | [2506.21720v1](http://arxiv.org/abs/2506.21720v1) | **NULL** |
-| **2025/06/26** | CAST: Cross-Attentive Spatio-Temporal feature fusion for Deepfake detection | Aryan Thakre et al. | [2506.21711v1](http://arxiv.org/abs/2506.21711v1) | **NULL** |
-| **2025/06/26** | Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection | Zhi Zheng et al. | [2506.21382v1](http://arxiv.org/abs/2506.21382v1) | **NULL** |
-| **2025/06/26** | Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models | Haoyang Wu et al. | [2506.21330v1](http://arxiv.org/abs/2506.21330v1) | **NULL** |
-| **2025/06/26** | Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou | Pengfei Fan et al. | [2506.21269v1](http://arxiv.org/abs/2506.21269v1) | **NULL** |
-| **2025/06/26** | ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation | Xiwei Xuan et al. | [2506.21233v2](http://arxiv.org/abs/2506.21233v2) | **NULL** |
-| **2025/06/26** | NaLaFormer: Norm-Aware Linear Attention for Transformer Models | Weikang Meng et al. | [2506.21137v1](http://arxiv.org/abs/2506.21137v1) | **NULL** |
-| **2025/06/26** | Learning to Skip the Middle Layers of Transformers | Tim Lawson et al. | [2506.21103v1](http://arxiv.org/abs/2506.21103v1) | **NULL** |
-| **2025/06/26** | Interpretable Hierarchical Concept Reasoning through Attention-Guided Graph Learning | David Debot et al. | [2506.21102v1](http://arxiv.org/abs/2506.21102v1) | **NULL** |
-| **2025/06/26** | Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features | Shangbo Wu et al. | [2506.21046v1](http://arxiv.org/abs/2506.21046v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/02** | Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems | Katarzyna Gas et al. | [2507.01385v1](http://arxiv.org/abs/2507.01385v1) | **NULL** |
 | **2025/06/22** | In pursuit of the low-energy Solar neutron flux | Prithish Halder et al. | [2506.17985v1](http://arxiv.org/abs/2506.17985v1) | **NULL** |
 | **2025/06/17** | Comparison of Two Methods for Stationary Incident Detection Based on Background Image | Deepak Ghimire et al. | [2506.14256v1](http://arxiv.org/abs/2506.14256v1) | **NULL** |
 | **2025/06/09** | Optical tweezers as a tool for quantitative imaging | Ilya M Beskin et al. | [2506.08186v1](http://arxiv.org/abs/2506.08186v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
 | **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
-| **2024/10/22** | 3-D CMZ I: Central Molecular Zone Overview | Cara Battersby et al. | [2410.17334v2](http://arxiv.org/abs/2410.17334v2) | **NULL** |
