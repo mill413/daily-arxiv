@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/04 09:11:49
+> Updated on 2025/07/05 09:09:22
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/03** | USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network | Ying Yu et al. | [2507.02827v1](http://arxiv.org/abs/2507.02827v1) | **NULL** |
+| **2025/07/03** | Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics | Alex Colagrande et al. | [2507.02748v1](http://arxiv.org/abs/2507.02748v1) | **NULL** |
+| **2025/07/03** | Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT | Wenqi Zeng et al. | [2507.02734v1](http://arxiv.org/abs/2507.02734v1) | **NULL** |
+| **2025/07/03** | ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning | Junyu Wang et al. | [2507.02666v1](http://arxiv.org/abs/2507.02666v1) | **NULL** |
+| **2025/07/03** | Red grape detection with accelerated artificial neural networks in the FPGA's programmable logic | Sandro Costa Magalhães et al. | [2507.02443v1](http://arxiv.org/abs/2507.02443v1) | **NULL** |
+| **2025/07/03** | When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently? | Jia Guo et al. | [2507.02427v1](http://arxiv.org/abs/2507.02427v1) | **NULL** |
+| **2025/07/03** | Lightweight Shrimp Disease Detection Research Based on YOLOv8n | Fei Yuhuan et al. | [2507.02354v1](http://arxiv.org/abs/2507.02354v1) | **NULL** |
+| **2025/07/03** | Transformer-based EEG Decoding: A Survey | Haodong Zhang et al. | [2507.02320v1](http://arxiv.org/abs/2507.02320v1) | **NULL** |
+| **2025/07/03** | Multi-Label Classification Framework for Hurricane Damage Assessment | Zhangding Liu et al. | [2507.02265v1](http://arxiv.org/abs/2507.02265v1) | **NULL** |
 | **2025/07/02** | IC-Custom: Diverse Image Customization via In-Context Learning | Yaowei Li et al. | [2507.01926v1](http://arxiv.org/abs/2507.01926v1) | **NULL** |
 | **2025/07/02** | MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices | Hailong Yan et al. | [2507.01838v1](http://arxiv.org/abs/2507.01838v1) | **NULL** |
 | **2025/07/02** | Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging | Montasir Shams et al. | [2507.01788v1](http://arxiv.org/abs/2507.01788v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/06/30** | Strategic Counterfactual Modeling of Deep-Target Airstrike Systems via Intervention-Aware Spatio-Causal Graph Networks | Wei Meng | [2507.00083v1](http://arxiv.org/abs/2507.00083v1) | **NULL** |
 | **2025/06/30** | Can We Predict the Unpredictable? Leveraging DisasterNet-LLM for Multimodal Disaster Classification | Manaswi Kulahara et al. | [2506.23462v1](http://arxiv.org/abs/2506.23462v1) | **NULL** |
 | **2025/06/29** | FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method | Quang-Huy Che et al. | [2506.23323v1](http://arxiv.org/abs/2506.23323v1) | **NULL** |
-| **2025/06/29** | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans | Chia-Wen Huang et al. | [2506.23209v1](http://arxiv.org/abs/2506.23209v1) | **NULL** |
-| **2025/06/29** | Transformer-Based Person Search with High-Frequency Augmentation and Multi-Wave Mixing | Qilin Shu et al. | [2506.23202v1](http://arxiv.org/abs/2506.23202v1) | **NULL** |
-| **2025/06/29** | Multi-task Offline Reinforcement Learning for Online Advertising in Recommender Systems | Langming Liu et al. | [2506.23090v1](http://arxiv.org/abs/2506.23090v1) | **NULL** |
-| **2025/06/29** | Where, What, Why: Towards Explainable Driver Attention Prediction | Yuchen Zhou et al. | [2506.23088v1](http://arxiv.org/abs/2506.23088v1) | **NULL** |
-| **2025/06/28** | Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models | Atharv Mittal et al. | [2506.22982v1](http://arxiv.org/abs/2506.22982v1) | **NULL** |
-| **2025/06/28** | Missing-Modality-Aware Graph Neural Network for Cancer Classification | Sina Tabakhi et al. | [2506.22901v1](http://arxiv.org/abs/2506.22901v1) | **NULL** |
-| **2025/06/28** | STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing | Junsung Lee et al. | [2506.22868v1](http://arxiv.org/abs/2506.22868v1) | **NULL** |
-| **2025/06/28** | FOCUS: Fine-grained Optimization with Semantic Guided Understanding for Pedestrian Attributes Recognition | Hongyan An et al. | [2506.22836v1](http://arxiv.org/abs/2506.22836v1) | **NULL** |
-| **2025/06/28** | ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models | Jianxin Yan et al. | [2506.22791v1](http://arxiv.org/abs/2506.22791v1) | **NULL** |
 
 ## 背景差分
 
