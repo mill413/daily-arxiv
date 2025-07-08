@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/07 09:16:33
+> Updated on 2025/07/08 09:12:56
 
 <summary>Table of Contents</summary>
 
@@ -73,8 +73,8 @@ layout: default
 | **2025/07/01** | ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention | Yuhong Chou et al. | [2507.01004v2](http://arxiv.org/abs/2507.01004v2) | **NULL** |
 | **2025/07/01** | Template-Fitting Meets Deep Learning: Redshift Estimation Using Physics-Guided Neural Networks | Jonas Chris Ferrao et al. | [2507.00866v1](http://arxiv.org/abs/2507.00866v1) | **NULL** |
 | **2025/07/01** | SCAWaveNet: A Spatial-Channel Attention-based Network for Global Significant Wave Height Retrieval | Chong Zhang et al. | [2507.00701v1](http://arxiv.org/abs/2507.00701v1) | **NULL** |
-| **2025/07/01** | Testing the spin-bath view of self-attention: A Hamiltonian analysis of GPT-2 Transformer | Satadeep Bhattacharjee et al. | [2507.00683v1](http://arxiv.org/abs/2507.00683v1) | **NULL** |
-| **2025/07/01** | LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs | Haoran Lou et al. | [2507.00505v2](http://arxiv.org/abs/2507.00505v2) | **NULL** |
+| **2025/07/01** | Testing the spin-bath view of self-attention: A Hamiltonian analysis of GPT-2 Transformer | Satadeep Bhattacharjee et al. | [2507.00683v2](http://arxiv.org/abs/2507.00683v2) | **NULL** |
+| **2025/07/01** | LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs | Haoran Lou et al. | [2507.00505v3](http://arxiv.org/abs/2507.00505v3) | **NULL** |
 | **2025/06/30** | MotionGPT3: Human Motion as a Second Modality | Bingfan Zhu et al. | [2506.24086v1](http://arxiv.org/abs/2506.24086v1) | **NULL** |
 | **2025/06/30** | VMoBA: Mixture-of-Block Attention for Video Diffusion Models | Jianzong Wu et al. | [2506.23858v1](http://arxiv.org/abs/2506.23858v1) | **NULL** |
 | **2025/06/30** | MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation | Peiting Tian et al. | [2506.23700v1](http://arxiv.org/abs/2506.23700v1) | **NULL** |
@@ -115,6 +115,6 @@ layout: default
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v3](http://arxiv.org/abs/2501.08214v3) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
-| **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v1](http://arxiv.org/abs/2412.06466v1) | **NULL** |
+| **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v2](http://arxiv.org/abs/2412.06466v2) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
 | **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
