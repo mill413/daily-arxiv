@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/09 09:13:37
+> Updated on 2025/07/10 09:13:39
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/08** | TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision | Syeda Anshrah Gillani et al. | [2507.06033v1](http://arxiv.org/abs/2507.06033v1) | **NULL** |
+| **2025/07/08** | Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | Zhenghao Zhang et al. | [2507.05963v2](http://arxiv.org/abs/2507.05963v2) | **NULL** |
+| **2025/07/08** | Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection | Robert Leppich et al. | [2507.05891v1](http://arxiv.org/abs/2507.05891v1) | **NULL** |
+| **2025/07/08** | When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs | Kechen Liu | [2507.05733v1](http://arxiv.org/abs/2507.05733v1) | **NULL** |
+| **2025/07/08** | Non-Intrusive Binaural Speech Intelligibility Prediction Using Mamba for Hearing-Impaired Listeners | Katsuhiko Yamamoto et al. | [2507.05729v1](http://arxiv.org/abs/2507.05729v1) | **NULL** |
+| **2025/07/08** | LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion | Yisu Zhang et al. | [2507.05678v1](http://arxiv.org/abs/2507.05678v1) | **NULL** |
+| **2025/07/08** | LLMs are Introvert | Litian Zhang et al. | [2507.05638v1](http://arxiv.org/abs/2507.05638v1) | **NULL** |
+| **2025/07/07** | MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials | Bowen Hou et al. | [2507.05480v1](http://arxiv.org/abs/2507.05480v1) | **NULL** |
+| **2025/07/07** | YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries | Aquino Joctum et al. | [2507.05376v1](http://arxiv.org/abs/2507.05376v1) | **NULL** |
 | **2025/07/07** | Differential Attention for Multimodal Crisis Event Analysis | Nusrat Munia et al. | [2507.05165v1](http://arxiv.org/abs/2507.05165v1) | **NULL** |
 | **2025/07/07** | MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation | Yucheng Wang et al. | [2507.05092v1](http://arxiv.org/abs/2507.05092v1) | **NULL** |
-| **2025/07/07** | Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning | Ruihao Zhang et al. | [2507.04981v2](http://arxiv.org/abs/2507.04981v2) | **NULL** |
+| **2025/07/07** | Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning | Ruihao Zhang et al. | [2507.04981v3](http://arxiv.org/abs/2507.04981v3) | **NULL** |
+| **2025/07/07** | Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation | Daniel Cieślak et al. | [2507.05314v1](http://arxiv.org/abs/2507.05314v1) | **NULL** |
+| **2025/07/07** | High Order Collaboration-Oriented Federated Graph Neural Network for Accurate QoS Prediction | Zehuan Chen et al. | [2507.05308v1](http://arxiv.org/abs/2507.05308v1) | **NULL** |
 | **2025/07/07** | MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding | Zhicheng Zhang et al. | [2507.04635v1](http://arxiv.org/abs/2507.04635v1) | **NULL** |
 | **2025/07/07** | LTMSformer: A Local Trend-Aware Attention and Motion State Encoding Transformer for Multi-Agent Trajectory Prediction | Yixin Yan et al. | [2507.04634v1](http://arxiv.org/abs/2507.04634v1) | **NULL** |
 | **2025/07/06** | Unveiling the Potential of Diffusion Large Language Model in Controllable Generation | Zhen Xiong et al. | [2507.04504v1](http://arxiv.org/abs/2507.04504v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/07/04** | Efficient and Effective Query Context-Aware Learning-to-Rank Model for Sequential Recommendation | Andrii Dzhoha et al. | [2507.03789v1](http://arxiv.org/abs/2507.03789v1) | **NULL** |
 | **2025/07/04** | Plugging Attention into Power Grids: Towards Transparent Forecasting | Eloi Campagne et al. | [2507.03690v1](http://arxiv.org/abs/2507.03690v1) | **NULL** |
 | **2025/07/04** | Multimodal Alignment with Cross-Attentive GRUs for Fine-Grained Video Understanding | Namho Kim et al. | [2507.03531v1](http://arxiv.org/abs/2507.03531v1) | **NULL** |
-| **2025/07/04** | Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach | Leyan Xue et al. | [2507.03458v1](http://arxiv.org/abs/2507.03458v1) | **NULL** |
-| **2025/07/04** | Degrees of Freedom for Linear Attention: Distilling Softmax Attention with Optimal Feature Efficiency | Naoki Nishikawa et al. | [2507.03340v1](http://arxiv.org/abs/2507.03340v1) | **NULL** |
-| **2025/07/04** | Sequential Neural Operator Transformer for High-Fidelity Surrogates of Time-Dependent Non-linear Partial Differential Equations | Qibang Liu et al. | [2507.03272v1](http://arxiv.org/abs/2507.03272v1) | **NULL** |
-| **2025/07/04** | Toward Efficient Speech Emotion Recognition via Spectral Learning and Attention | HyeYoung Lee et al. | [2507.03251v1](http://arxiv.org/abs/2507.03251v1) | **NULL** |
-| **2025/07/03** | Quantifying Cross-Attention Interaction in Transformers for Interpreting TCR-pMHC Binding | Jiarui Li et al. | [2507.03197v1](http://arxiv.org/abs/2507.03197v1) | **NULL** |
-| **2025/07/03** | HGCA: Hybrid GPU-CPU Attention for Long Context LLM Inference | Weishu Deng et al. | [2507.03153v1](http://arxiv.org/abs/2507.03153v1) | **NULL** |
-| **2025/07/03** | USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network | Ying Yu et al. | [2507.02827v1](http://arxiv.org/abs/2507.02827v1) | **NULL** |
-| **2025/07/03** | Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics | Alex Colagrande et al. | [2507.02748v1](http://arxiv.org/abs/2507.02748v1) | **NULL** |
-| **2025/07/03** | Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT | Wenqi Zeng et al. | [2507.02734v1](http://arxiv.org/abs/2507.02734v1) | **NULL** |
-| **2025/07/03** | ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning | Junyu Wang et al. | [2507.02666v1](http://arxiv.org/abs/2507.02666v1) | **NULL** |
-| **2025/07/03** | Counterfactual Tuning for Temporal Sensitivity Enhancement in Large Language Model-based Recommendation | Yutian Liu et al. | [2507.03047v1](http://arxiv.org/abs/2507.03047v1) | **NULL** |
 
 ## 背景差分
 
