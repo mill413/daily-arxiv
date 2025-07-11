@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/10 09:13:39
+> Updated on 2025/07/11 09:14:22
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/09** | A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level | Johanna Orsholm et al. | [2507.06972v1](http://arxiv.org/abs/2507.06972v1) | **NULL** |
 | **2025/07/01** | High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery | Hongxing Peng et al. | [2507.00825v2](http://arxiv.org/abs/2507.00825v2) | **NULL** |
 | **2025/06/30** | Event-based Tiny Object Detection: A Benchmark Dataset and Baseline | Nuo Chen et al. | [2506.23575v1](http://arxiv.org/abs/2506.23575v1) | **NULL** |
 | **2025/06/15** | MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection | Yuxiang Wang et al. | [2506.12697v1](http://arxiv.org/abs/2506.12697v1) | **NULL** |
@@ -47,12 +48,17 @@ layout: default
 | **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
 | **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
 | **2024/12/13** | HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection | Zican Shi et al. | [2412.10116v3](http://arxiv.org/abs/2412.10116v3) | **NULL** |
-| **2024/12/13** | RemDet: Rethinking Efficient Model Design for UAV Object Detection | Chen Li et al. | [2412.10040v2](http://arxiv.org/abs/2412.10040v2) | [**link**](https://github.com/hzai-zjnu/remdet) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/09** | GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning | S M Taslim Uddin Raju et al. | [2507.07006v1](http://arxiv.org/abs/2507.07006v1) | **NULL** |
+| **2025/07/09** | HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning | Chuhang Zheng et al. | [2507.06821v2](http://arxiv.org/abs/2507.06821v2) | **NULL** |
+| **2025/07/09** | Graph Learning for Cooperative Cell-Free ISAC Systems: From Optimization to Estimation | Peng Jiang et al. | [2507.06612v1](http://arxiv.org/abs/2507.06612v1) | **NULL** |
+| **2025/07/09** | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation | Qing Zhang et al. | [2507.06606v1](http://arxiv.org/abs/2507.06606v1) | **NULL** |
+| **2025/07/08** | A Systematic Analysis of Hybrid Linear Attention | Dustin Wang et al. | [2507.06457v1](http://arxiv.org/abs/2507.06457v1) | **NULL** |
+| **2025/07/08** | Attention-Enhanced Deep Learning Ensemble for Breast Density Classification in Mammography | Peyman Sharifian et al. | [2507.06410v2](http://arxiv.org/abs/2507.06410v2) | **NULL** |
 | **2025/07/08** | TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision | Syeda Anshrah Gillani et al. | [2507.06033v1](http://arxiv.org/abs/2507.06033v1) | **NULL** |
 | **2025/07/08** | Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | Zhenghao Zhang et al. | [2507.05963v2](http://arxiv.org/abs/2507.05963v2) | **NULL** |
 | **2025/07/08** | Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection | Robert Leppich et al. | [2507.05891v1](http://arxiv.org/abs/2507.05891v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2025/07/06** | ViTaL: A Multimodality Dataset and Benchmark for Multi-pathological Ovarian Tumor Recognition | You Zhou et al. | [2507.04383v1](http://arxiv.org/abs/2507.04383v1) | **NULL** |
 | **2025/07/06** | DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting | Bing Fan et al. | [2507.04381v1](http://arxiv.org/abs/2507.04381v1) | **NULL** |
 | **2025/07/05** | Relational inductive biases on attention mechanisms | Víctor Mijangos et al. | [2507.04117v1](http://arxiv.org/abs/2507.04117v1) | **NULL** |
-| **2025/07/05** | OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference | Seungjun Shin et al. | [2507.03865v1](http://arxiv.org/abs/2507.03865v1) | **NULL** |
-| **2025/07/05** | Transformer with Koopman-Enhanced Graph Convolutional Network for Spatiotemporal Dynamics Forecasting | Zekai Wang et al. | [2507.03855v1](http://arxiv.org/abs/2507.03855v1) | **NULL** |
-| **2025/07/04** | Zero Memory Overhead Approach for Protecting Vision Transformer Parameters | Fereshteh Baradaran et al. | [2507.03816v1](http://arxiv.org/abs/2507.03816v1) | **NULL** |
-| **2025/07/04** | Efficient and Effective Query Context-Aware Learning-to-Rank Model for Sequential Recommendation | Andrii Dzhoha et al. | [2507.03789v1](http://arxiv.org/abs/2507.03789v1) | **NULL** |
-| **2025/07/04** | Plugging Attention into Power Grids: Towards Transparent Forecasting | Eloi Campagne et al. | [2507.03690v1](http://arxiv.org/abs/2507.03690v1) | **NULL** |
-| **2025/07/04** | Multimodal Alignment with Cross-Attentive GRUs for Fine-Grained Video Understanding | Namho Kim et al. | [2507.03531v1](http://arxiv.org/abs/2507.03531v1) | **NULL** |
 
 ## 背景差分
 
