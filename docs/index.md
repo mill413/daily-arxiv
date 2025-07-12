@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/11 09:14:22
+> Updated on 2025/07/12 09:15:55
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/10** | Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images | Achraf Ait Laydi et al. | [2507.07800v1](http://arxiv.org/abs/2507.07800v1) | **NULL** |
+| **2025/07/10** | Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios | Kang Cen et al. | [2507.07795v1](http://arxiv.org/abs/2507.07795v1) | **NULL** |
+| **2025/07/10** | When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance | Peizhang Shao et al. | [2507.07748v1](http://arxiv.org/abs/2507.07748v1) | **NULL** |
+| **2025/07/10** | SAS: Simulated Attention Score | Chuanyang Zheng et al. | [2507.07694v1](http://arxiv.org/abs/2507.07694v1) | **NULL** |
+| **2025/07/10** | Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation | Qin Zhou et al. | [2507.07568v1](http://arxiv.org/abs/2507.07568v1) | **NULL** |
+| **2025/07/10** | DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction | Cunhang Fan et al. | [2507.07526v1](http://arxiv.org/abs/2507.07526v1) | **NULL** |
+| **2025/07/10** | Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles | Jiaxu Wan et al. | [2507.07487v1](http://arxiv.org/abs/2507.07487v1) | **NULL** |
+| **2025/07/10** | ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction | Zesheng Liu et al. | [2507.07389v1](http://arxiv.org/abs/2507.07389v1) | **NULL** |
+| **2025/07/10** | GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction | Zesheng Liu et al. | [2507.07388v1](http://arxiv.org/abs/2507.07388v1) | **NULL** |
+| **2025/07/10** | VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching | Yu Chen et al. | [2507.07384v1](http://arxiv.org/abs/2507.07384v1) | **NULL** |
+| **2025/07/09** | Attentions Under the Microscope: A Comparative Study of Resource Utilization for Variants of Self-Attention | Zhengyu Tian et al. | [2507.07247v1](http://arxiv.org/abs/2507.07247v1) | **NULL** |
 | **2025/07/09** | GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning | S M Taslim Uddin Raju et al. | [2507.07006v1](http://arxiv.org/abs/2507.07006v1) | **NULL** |
 | **2025/07/09** | HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning | Chuhang Zheng et al. | [2507.06821v2](http://arxiv.org/abs/2507.06821v2) | **NULL** |
 | **2025/07/09** | Graph Learning for Cooperative Cell-Free ISAC Systems: From Optimization to Estimation | Peng Jiang et al. | [2507.06612v1](http://arxiv.org/abs/2507.06612v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/07/07** | MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation | Yucheng Wang et al. | [2507.05092v1](http://arxiv.org/abs/2507.05092v1) | **NULL** |
 | **2025/07/07** | Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning | Ruihao Zhang et al. | [2507.04981v3](http://arxiv.org/abs/2507.04981v3) | **NULL** |
 | **2025/07/07** | Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation | Daniel Cieślak et al. | [2507.05314v1](http://arxiv.org/abs/2507.05314v1) | **NULL** |
-| **2025/07/07** | High Order Collaboration-Oriented Federated Graph Neural Network for Accurate QoS Prediction | Zehuan Chen et al. | [2507.05308v1](http://arxiv.org/abs/2507.05308v1) | **NULL** |
-| **2025/07/07** | MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding | Zhicheng Zhang et al. | [2507.04635v1](http://arxiv.org/abs/2507.04635v1) | **NULL** |
-| **2025/07/07** | LTMSformer: A Local Trend-Aware Attention and Motion State Encoding Transformer for Multi-Agent Trajectory Prediction | Yixin Yan et al. | [2507.04634v1](http://arxiv.org/abs/2507.04634v1) | **NULL** |
-| **2025/07/06** | Unveiling the Potential of Diffusion Large Language Model in Controllable Generation | Zhen Xiong et al. | [2507.04504v1](http://arxiv.org/abs/2507.04504v1) | **NULL** |
-| **2025/07/06** | CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step | Zheyuan Liu et al. | [2507.04451v1](http://arxiv.org/abs/2507.04451v1) | **NULL** |
-| **2025/07/06** | DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge | Wenyao Zhang et al. | [2507.04447v1](http://arxiv.org/abs/2507.04447v1) | **NULL** |
-| **2025/07/06** | Context-Aware Deep Learning for Robust Channel Extrapolation in Fluid Antenna Systems | Yanliang Jin et al. | [2507.04435v1](http://arxiv.org/abs/2507.04435v1) | **NULL** |
-| **2025/07/06** | RAT: Bridging RNN Efficiency and Attention Accuracy in Language Modeling | Xiuying Wei et al. | [2507.04416v1](http://arxiv.org/abs/2507.04416v1) | **NULL** |
-| **2025/07/06** | ViTaL: A Multimodality Dataset and Benchmark for Multi-pathological Ovarian Tumor Recognition | You Zhou et al. | [2507.04383v1](http://arxiv.org/abs/2507.04383v1) | **NULL** |
-| **2025/07/06** | DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting | Bing Fan et al. | [2507.04381v1](http://arxiv.org/abs/2507.04381v1) | **NULL** |
-| **2025/07/05** | Relational inductive biases on attention mechanisms | Víctor Mijangos et al. | [2507.04117v1](http://arxiv.org/abs/2507.04117v1) | **NULL** |
 
 ## 背景差分
 
