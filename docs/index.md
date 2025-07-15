@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/14 09:17:38
+> Updated on 2025/07/15 09:17:45
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/11** | KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation | Songlin Zhai et al. | [2507.08704v1](http://arxiv.org/abs/2507.08704v1) | **NULL** |
+| **2025/07/11** | Scaling Attention to Very Long Sequences in Linear Time with Wavelet-Enhanced Random Spectral Attention (WERSA) | Vincenzo Dentamaro | [2507.08637v1](http://arxiv.org/abs/2507.08637v1) | **NULL** |
+| **2025/07/11** | DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures | Benno Uthayasooriyar et al. | [2507.08606v1](http://arxiv.org/abs/2507.08606v1) | **NULL** |
+| **2025/07/11** | A Multi-Modal Fusion Framework for Brain Tumor Segmentation Based on 3D Spatial-Language-Vision Integration and Bidirectional Interactive Attention Mechanism | Mingda Zhang et al. | [2507.08574v1](http://arxiv.org/abs/2507.08574v1) | **NULL** |
+| **2025/07/10** | EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification | Zhuodong Jiang et al. | [2507.08184v1](http://arxiv.org/abs/2507.08184v1) | **NULL** |
 | **2025/07/10** | Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images | Achraf Ait Laydi et al. | [2507.07800v1](http://arxiv.org/abs/2507.07800v1) | **NULL** |
 | **2025/07/10** | Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios | Kang Cen et al. | [2507.07795v1](http://arxiv.org/abs/2507.07795v1) | **NULL** |
 | **2025/07/10** | When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance | Peizhang Shao et al. | [2507.07748v1](http://arxiv.org/abs/2507.07748v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/07/08** | LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion | Yisu Zhang et al. | [2507.05678v1](http://arxiv.org/abs/2507.05678v1) | **NULL** |
 | **2025/07/08** | LLMs are Introvert | Litian Zhang et al. | [2507.05638v1](http://arxiv.org/abs/2507.05638v1) | **NULL** |
 | **2025/07/07** | MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials | Bowen Hou et al. | [2507.05480v1](http://arxiv.org/abs/2507.05480v1) | **NULL** |
-| **2025/07/07** | YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries | Aquino Joctum et al. | [2507.05376v1](http://arxiv.org/abs/2507.05376v1) | **NULL** |
-| **2025/07/07** | Differential Attention for Multimodal Crisis Event Analysis | Nusrat Munia et al. | [2507.05165v1](http://arxiv.org/abs/2507.05165v1) | **NULL** |
-| **2025/07/07** | MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation | Yucheng Wang et al. | [2507.05092v1](http://arxiv.org/abs/2507.05092v1) | **NULL** |
-| **2025/07/07** | Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning | Ruihao Zhang et al. | [2507.04981v3](http://arxiv.org/abs/2507.04981v3) | **NULL** |
-| **2025/07/07** | Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation | Daniel Cieślak et al. | [2507.05314v1](http://arxiv.org/abs/2507.05314v1) | **NULL** |
 
 ## 背景差分
 
