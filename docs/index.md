@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/15 09:17:45
+> Updated on 2025/07/16 09:16:03
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/14** | RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening | Tao Tang et al. | [2507.10461v1](http://arxiv.org/abs/2507.10461v1) | **NULL** |
+| **2025/07/14** | Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration | Wenkang Han et al. | [2507.10293v1](http://arxiv.org/abs/2507.10293v1) | **NULL** |
+| **2025/07/14** | FTCFormer: Fuzzy Token Clustering Transformer for Image Classification | Muyi Bao et al. | [2507.10283v1](http://arxiv.org/abs/2507.10283v1) | **NULL** |
+| **2025/07/14** | DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis | Wenjie Tian et al. | [2507.10109v1](http://arxiv.org/abs/2507.10109v1) | **NULL** |
+| **2025/07/14** | Learning-Aided Iterative Receiver for Superimposed Pilots: Design and Experimental Evaluation | Xinjie Li et al. | [2507.10074v1](http://arxiv.org/abs/2507.10074v1) | **NULL** |
+| **2025/07/14** | A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion | Mingda Zhang | [2507.09966v1](http://arxiv.org/abs/2507.09966v1) | **NULL** |
+| **2025/07/14** | ASTAR-NTU solution to AudioMOS Challenge 2025 Track1 | Fabian Ritter-Gutierrez et al. | [2507.09904v1](http://arxiv.org/abs/2507.09904v1) | **NULL** |
+| **2025/07/14** | MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention | Zhanjiang Yang et al. | [2507.09885v1](http://arxiv.org/abs/2507.09885v1) | **NULL** |
+| **2025/07/13** | Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights | Mohamadreza Akbari Pour et al. | [2507.09766v1](http://arxiv.org/abs/2507.09766v1) | **NULL** |
+| **2025/07/13** | WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending | Zhe Wang et al. | [2507.09573v1](http://arxiv.org/abs/2507.09573v1) | **NULL** |
+| **2025/07/13** | Novel Physics-Aware Attention-Based Machine Learning Approach for Mutual Coupling Modeling | Can Wang et al. | [2507.09561v1](http://arxiv.org/abs/2507.09561v1) | **NULL** |
+| **2025/07/13** | SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation | Zhihan Kang et al. | [2507.09459v1](http://arxiv.org/abs/2507.09459v1) | **NULL** |
+| **2025/07/13** | Dynamic Sparse Causal-Attention Temporal Networks for Interpretable Causality Discovery in Multivariate Time Series | Meriem Zerkouk et al. | [2507.09439v1](http://arxiv.org/abs/2507.09439v1) | **NULL** |
+| **2025/07/12** | Context-Aware Regularization with Markovian Integration for Attention-Based Nucleotide Analysis | Mohammadsaleh Refahi et al. | [2507.09378v1](http://arxiv.org/abs/2507.09378v1) | **NULL** |
+| **2025/07/12** | POIFormer: A Transformer-Based Framework for Accurate and Scalable Point-of-Interest Attribution | Nripsuta Ani Saxena et al. | [2507.09137v1](http://arxiv.org/abs/2507.09137v1) | **NULL** |
+| **2025/07/12** | Hybrid Autoregressive-Diffusion Model for Real-Time Streaming Sign Language Production | Maoxiao Ye et al. | [2507.09105v1](http://arxiv.org/abs/2507.09105v1) | **NULL** |
+| **2025/07/12** | Transformer based Collaborative Reinforcement Learning for Fluid Antenna System (FAS)-enabled 3D UAV Positioning | Xiaoren Xu et al. | [2507.09094v1](http://arxiv.org/abs/2507.09094v1) | **NULL** |
+| **2025/07/11** | Towards Extracting Software Requirements from App Reviews using Seq2seq Framework | Aakash Sorathiya et al. | [2507.09039v1](http://arxiv.org/abs/2507.09039v1) | **NULL** |
+| **2025/07/11** | Lizard: An Efficient Linearization Framework for Large Language Models | Chien Van Nguyen et al. | [2507.09025v1](http://arxiv.org/abs/2507.09025v1) | **NULL** |
 | **2025/07/11** | KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation | Songlin Zhai et al. | [2507.08704v1](http://arxiv.org/abs/2507.08704v1) | **NULL** |
 | **2025/07/11** | Scaling Attention to Very Long Sequences in Linear Time with Wavelet-Enhanced Random Spectral Attention (WERSA) | Vincenzo Dentamaro | [2507.08637v1](http://arxiv.org/abs/2507.08637v1) | **NULL** |
-| **2025/07/11** | DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures | Benno Uthayasooriyar et al. | [2507.08606v1](http://arxiv.org/abs/2507.08606v1) | **NULL** |
+| **2025/07/11** | DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures | Benno Uthayasooriyar et al. | [2507.08606v2](http://arxiv.org/abs/2507.08606v2) | **NULL** |
 | **2025/07/11** | A Multi-Modal Fusion Framework for Brain Tumor Segmentation Based on 3D Spatial-Language-Vision Integration and Bidirectional Interactive Attention Mechanism | Mingda Zhang et al. | [2507.08574v1](http://arxiv.org/abs/2507.08574v1) | **NULL** |
 | **2025/07/10** | EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification | Zhuodong Jiang et al. | [2507.08184v1](http://arxiv.org/abs/2507.08184v1) | **NULL** |
 | **2025/07/10** | Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images | Achraf Ait Laydi et al. | [2507.07800v1](http://arxiv.org/abs/2507.07800v1) | **NULL** |
@@ -64,25 +83,6 @@ layout: default
 | **2025/07/10** | SAS: Simulated Attention Score | Chuanyang Zheng et al. | [2507.07694v1](http://arxiv.org/abs/2507.07694v1) | **NULL** |
 | **2025/07/10** | Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation | Qin Zhou et al. | [2507.07568v1](http://arxiv.org/abs/2507.07568v1) | **NULL** |
 | **2025/07/10** | DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction | Cunhang Fan et al. | [2507.07526v1](http://arxiv.org/abs/2507.07526v1) | **NULL** |
-| **2025/07/10** | Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles | Jiaxu Wan et al. | [2507.07487v1](http://arxiv.org/abs/2507.07487v1) | **NULL** |
-| **2025/07/10** | ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction | Zesheng Liu et al. | [2507.07389v1](http://arxiv.org/abs/2507.07389v1) | **NULL** |
-| **2025/07/10** | GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction | Zesheng Liu et al. | [2507.07388v1](http://arxiv.org/abs/2507.07388v1) | **NULL** |
-| **2025/07/10** | VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching | Yu Chen et al. | [2507.07384v1](http://arxiv.org/abs/2507.07384v1) | **NULL** |
-| **2025/07/09** | Attentions Under the Microscope: A Comparative Study of Resource Utilization for Variants of Self-Attention | Zhengyu Tian et al. | [2507.07247v1](http://arxiv.org/abs/2507.07247v1) | **NULL** |
-| **2025/07/09** | GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning | S M Taslim Uddin Raju et al. | [2507.07006v1](http://arxiv.org/abs/2507.07006v1) | **NULL** |
-| **2025/07/09** | HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning | Chuhang Zheng et al. | [2507.06821v2](http://arxiv.org/abs/2507.06821v2) | **NULL** |
-| **2025/07/09** | Graph Learning for Cooperative Cell-Free ISAC Systems: From Optimization to Estimation | Peng Jiang et al. | [2507.06612v1](http://arxiv.org/abs/2507.06612v1) | **NULL** |
-| **2025/07/09** | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation | Qing Zhang et al. | [2507.06606v1](http://arxiv.org/abs/2507.06606v1) | **NULL** |
-| **2025/07/08** | A Systematic Analysis of Hybrid Linear Attention | Dustin Wang et al. | [2507.06457v1](http://arxiv.org/abs/2507.06457v1) | **NULL** |
-| **2025/07/08** | Attention-Enhanced Deep Learning Ensemble for Breast Density Classification in Mammography | Peyman Sharifian et al. | [2507.06410v2](http://arxiv.org/abs/2507.06410v2) | **NULL** |
-| **2025/07/08** | TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision | Syeda Anshrah Gillani et al. | [2507.06033v1](http://arxiv.org/abs/2507.06033v1) | **NULL** |
-| **2025/07/08** | Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation | Zhenghao Zhang et al. | [2507.05963v2](http://arxiv.org/abs/2507.05963v2) | **NULL** |
-| **2025/07/08** | Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection | Robert Leppich et al. | [2507.05891v1](http://arxiv.org/abs/2507.05891v1) | **NULL** |
-| **2025/07/08** | When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs | Kechen Liu | [2507.05733v1](http://arxiv.org/abs/2507.05733v1) | **NULL** |
-| **2025/07/08** | Non-Intrusive Binaural Speech Intelligibility Prediction Using Mamba for Hearing-Impaired Listeners | Katsuhiko Yamamoto et al. | [2507.05729v1](http://arxiv.org/abs/2507.05729v1) | **NULL** |
-| **2025/07/08** | LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion | Yisu Zhang et al. | [2507.05678v1](http://arxiv.org/abs/2507.05678v1) | **NULL** |
-| **2025/07/08** | LLMs are Introvert | Litian Zhang et al. | [2507.05638v1](http://arxiv.org/abs/2507.05638v1) | **NULL** |
-| **2025/07/07** | MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials | Bowen Hou et al. | [2507.05480v1](http://arxiv.org/abs/2507.05480v1) | **NULL** |
 
 ## 背景差分
 
