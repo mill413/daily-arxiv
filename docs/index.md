@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/16 09:16:03
+> Updated on 2025/07/17 09:16:13
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/15** | MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network | Jianfei Jiang et al. | [2507.11333v1](http://arxiv.org/abs/2507.11333v1) | **NULL** |
+| **2025/07/15** | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | Huilin Xu et al. | [2507.11296v1](http://arxiv.org/abs/2507.11296v1) | **NULL** |
+| **2025/07/15** | Quantum Adaptive Excitation Network with Variational Quantum Circuits for Channel Attention | Yu-Chao Hsu et al. | [2507.11217v1](http://arxiv.org/abs/2507.11217v1) | **NULL** |
+| **2025/07/15** | EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing | Vassilis Sioros et al. | [2507.11096v1](http://arxiv.org/abs/2507.11096v1) | **NULL** |
 | **2025/07/14** | RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening | Tao Tang et al. | [2507.10461v1](http://arxiv.org/abs/2507.10461v1) | **NULL** |
+| **2025/07/14** | SENSOR: An ML-Enhanced Online Annotation Tool to Uncover Privacy Concerns from User Reviews in Social-Media Applications | Labiba Farah et al. | [2507.10640v1](http://arxiv.org/abs/2507.10640v1) | **NULL** |
 | **2025/07/14** | Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration | Wenkang Han et al. | [2507.10293v1](http://arxiv.org/abs/2507.10293v1) | **NULL** |
 | **2025/07/14** | FTCFormer: Fuzzy Token Clustering Transformer for Image Classification | Muyi Bao et al. | [2507.10283v1](http://arxiv.org/abs/2507.10283v1) | **NULL** |
+| **2025/07/14** | GeoHopNet: Hopfield-Augmented Sparse Spatial Attention for Dynamic UAV Site Location Problem | Jianing Zhi et al. | [2507.10636v1](http://arxiv.org/abs/2507.10636v1) | **NULL** |
 | **2025/07/14** | DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis | Wenjie Tian et al. | [2507.10109v1](http://arxiv.org/abs/2507.10109v1) | **NULL** |
 | **2025/07/14** | Learning-Aided Iterative Receiver for Superimposed Pilots: Design and Experimental Evaluation | Xinjie Li et al. | [2507.10074v1](http://arxiv.org/abs/2507.10074v1) | **NULL** |
 | **2025/07/14** | A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion | Mingda Zhang | [2507.09966v1](http://arxiv.org/abs/2507.09966v1) | **NULL** |
@@ -76,18 +82,13 @@ layout: default
 | **2025/07/11** | Scaling Attention to Very Long Sequences in Linear Time with Wavelet-Enhanced Random Spectral Attention (WERSA) | Vincenzo Dentamaro | [2507.08637v1](http://arxiv.org/abs/2507.08637v1) | **NULL** |
 | **2025/07/11** | DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures | Benno Uthayasooriyar et al. | [2507.08606v2](http://arxiv.org/abs/2507.08606v2) | **NULL** |
 | **2025/07/11** | A Multi-Modal Fusion Framework for Brain Tumor Segmentation Based on 3D Spatial-Language-Vision Integration and Bidirectional Interactive Attention Mechanism | Mingda Zhang et al. | [2507.08574v1](http://arxiv.org/abs/2507.08574v1) | **NULL** |
-| **2025/07/10** | EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification | Zhuodong Jiang et al. | [2507.08184v1](http://arxiv.org/abs/2507.08184v1) | **NULL** |
-| **2025/07/10** | Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images | Achraf Ait Laydi et al. | [2507.07800v1](http://arxiv.org/abs/2507.07800v1) | **NULL** |
-| **2025/07/10** | Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios | Kang Cen et al. | [2507.07795v1](http://arxiv.org/abs/2507.07795v1) | **NULL** |
-| **2025/07/10** | When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance | Peizhang Shao et al. | [2507.07748v1](http://arxiv.org/abs/2507.07748v1) | **NULL** |
-| **2025/07/10** | SAS: Simulated Attention Score | Chuanyang Zheng et al. | [2507.07694v1](http://arxiv.org/abs/2507.07694v1) | **NULL** |
-| **2025/07/10** | Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation | Qin Zhou et al. | [2507.07568v1](http://arxiv.org/abs/2507.07568v1) | **NULL** |
-| **2025/07/10** | DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction | Cunhang Fan et al. | [2507.07526v1](http://arxiv.org/abs/2507.07526v1) | **NULL** |
+| **2025/07/11** | Universal Approximation Theorem for a Single-Layer Transformer | Esmail Gumaan | [2507.10581v1](http://arxiv.org/abs/2507.10581v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/14** | Global sky background images for JWST/NIRISS Wide-Field Slitless Spectroscopy | Gaël Noirot | [2507.10650v1](http://arxiv.org/abs/2507.10650v1) | **NULL** |
 | **2025/07/02** | Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems | Katarzyna Gas et al. | [2507.01385v1](http://arxiv.org/abs/2507.01385v1) | **NULL** |
 | **2025/06/22** | In pursuit of the low-energy Solar neutron flux | Prithish Halder et al. | [2506.17985v1](http://arxiv.org/abs/2506.17985v1) | **NULL** |
 | **2025/06/17** | Comparison of Two Methods for Stationary Incident Detection Based on Background Image | Deepak Ghimire et al. | [2506.14256v1](http://arxiv.org/abs/2506.14256v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
 | **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v2](http://arxiv.org/abs/2412.06466v2) | **NULL** |
 | **2024/12/02** | Radiative neutron capture cross section of $^{242}$Pu measured at n_TOF-EAR1 in the unresolved resonance region up to 600 keV | J. Lerendegui-Marco et al. | [2412.01332v1](http://arxiv.org/abs/2412.01332v1) | **NULL** |
-| **2024/11/14** | Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios | Roy A. Lacey | [2411.09139v3](http://arxiv.org/abs/2411.09139v3) | **NULL** |
