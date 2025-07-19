@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/18 09:15:33
+> Updated on 2025/07/19 09:13:36
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v1](http://arxiv.org/abs/2507.13120v1) | **NULL** |
+| **2025/07/17** | SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery | Peijun Wang et al. | [2507.12727v1](http://arxiv.org/abs/2507.12727v1) | **NULL** |
 | **2025/07/16** | InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization | Haoyuan Liu et al. | [2507.12420v1](http://arxiv.org/abs/2507.12420v1) | **NULL** |
 | **2025/07/09** | A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level | Johanna Orsholm et al. | [2507.06972v1](http://arxiv.org/abs/2507.06972v1) | **NULL** |
 | **2025/07/01** | High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery | Hongxing Peng et al. | [2507.00825v2](http://arxiv.org/abs/2507.00825v2) | **NULL** |
@@ -46,17 +48,26 @@ layout: default
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
 | **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
-| **2024/12/16** | Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning | Chang Xu et al. | [2412.11582v1](http://arxiv.org/abs/2412.11582v1) | **NULL** |
-| **2024/12/13** | PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation | Lojze Žust et al. | [2412.10589v1](http://arxiv.org/abs/2412.10589v1) | [**link**](https://github.com/lojzezust/pansr) |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/17** | The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting | Lefei Shen et al. | [2507.13043v1](http://arxiv.org/abs/2507.13043v1) | **NULL** |
+| **2025/07/17** | SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs | Kossi Amouzouvi et al. | [2507.13001v1](http://arxiv.org/abs/2507.13001v1) | **NULL** |
+| **2025/07/17** | FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers | Qiang Wang et al. | [2507.12956v1](http://arxiv.org/abs/2507.12956v1) | **NULL** |
+| **2025/07/17** | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion | Caixia Dong et al. | [2507.12938v1](http://arxiv.org/abs/2507.12938v1) | **NULL** |
+| **2025/07/17** | Semantic-guided Fine-tuning of Foundation Model for Long-tailed Visual Recognition | Yufei Peng et al. | [2507.12807v1](http://arxiv.org/abs/2507.12807v1) | **NULL** |
+| **2025/07/17** | Local Representative Token Guided Merging for Text-to-Image Generation | Min-Jeong Lee et al. | [2507.12771v1](http://arxiv.org/abs/2507.12771v1) | **NULL** |
+| **2025/07/17** | AdaptiSent: Context-Aware Adaptive Attention for Multimodal Aspect-Based Sentiment Analysis | S M Rafiuddin et al. | [2507.12695v1](http://arxiv.org/abs/2507.12695v1) | **NULL** |
+| **2025/07/16** | A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis | Mohammed Guhdar et al. | [2507.12645v1](http://arxiv.org/abs/2507.12645v1) | **NULL** |
+| **2025/07/16** | Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection | Sandipan Sarma et al. | [2507.12628v1](http://arxiv.org/abs/2507.12628v1) | **NULL** |
+| **2025/07/16** | HairFormer: Transformer-Based Dynamic Neural Hair Simulation | Joy Xiaoji Zhang et al. | [2507.12600v1](http://arxiv.org/abs/2507.12600v1) | **NULL** |
 | **2025/07/16** | Catching Bid-rigging Cartels with Graph Attention Neural Networks | David Imhof et al. | [2507.12369v2](http://arxiv.org/abs/2507.12369v2) | **NULL** |
 | **2025/07/16** | Wavelet-based Decoupling Framework for low-light Stereo Image Enhancement | Shuangli Du et al. | [2507.12188v1](http://arxiv.org/abs/2507.12188v1) | **NULL** |
 | **2025/07/16** | PRISM: Distributed Inference for Foundation Models at Edge | Muhammad Azlan Qazi et al. | [2507.12145v1](http://arxiv.org/abs/2507.12145v1) | **NULL** |
 | **2025/07/16** | Frequency-Dynamic Attention Modulation for Dense Prediction | Linwei Chen et al. | [2507.12006v1](http://arxiv.org/abs/2507.12006v1) | **NULL** |
+| **2025/07/16** | GLOMIA-Pro: A Generalizable Longitudinal Medical Image Analysis Framework for Disease Progression Prediction | Shuaitong Zhang et al. | [2507.12500v1](http://arxiv.org/abs/2507.12500v1) | **NULL** |
 | **2025/07/16** | A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction | Wei Huang et al. | [2507.11812v1](http://arxiv.org/abs/2507.11812v1) | **NULL** |
 | **2025/07/15** | STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics | Joao F. Rocha et al. | [2507.11660v1](http://arxiv.org/abs/2507.11660v1) | **NULL** |
 | **2025/07/15** | MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network | Jianfei Jiang et al. | [2507.11333v1](http://arxiv.org/abs/2507.11333v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/07/14** | DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis | Wenjie Tian et al. | [2507.10109v1](http://arxiv.org/abs/2507.10109v1) | **NULL** |
 | **2025/07/14** | Learning-Aided Iterative Receiver for Superimposed Pilots: Design and Experimental Evaluation | Xinjie Li et al. | [2507.10074v1](http://arxiv.org/abs/2507.10074v1) | **NULL** |
 | **2025/07/14** | A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion | Mingda Zhang | [2507.09966v2](http://arxiv.org/abs/2507.09966v2) | **NULL** |
-| **2025/07/14** | 3D Wavelet Latent Diffusion Model for Whole-Body MR-to-CT Modality Translation | Jiaxu Zheng et al. | [2507.11557v1](http://arxiv.org/abs/2507.11557v1) | **NULL** |
-| **2025/07/14** | ASTAR-NTU solution to AudioMOS Challenge 2025 Track1 | Fabian Ritter-Gutierrez et al. | [2507.09904v1](http://arxiv.org/abs/2507.09904v1) | **NULL** |
-| **2025/07/14** | MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention | Zhanjiang Yang et al. | [2507.09885v1](http://arxiv.org/abs/2507.09885v1) | **NULL** |
-| **2025/07/13** | Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights | Mohamadreza Akbari Pour et al. | [2507.09766v1](http://arxiv.org/abs/2507.09766v1) | **NULL** |
-| **2025/07/13** | WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending | Zhe Wang et al. | [2507.09573v1](http://arxiv.org/abs/2507.09573v1) | **NULL** |
-| **2025/07/13** | Novel Physics-Aware Attention-Based Machine Learning Approach for Mutual Coupling Modeling | Can Wang et al. | [2507.09561v1](http://arxiv.org/abs/2507.09561v1) | **NULL** |
-| **2025/07/13** | SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation | Zhihan Kang et al. | [2507.09459v1](http://arxiv.org/abs/2507.09459v1) | **NULL** |
-| **2025/07/13** | Dynamic Sparse Causal-Attention Temporal Networks for Interpretable Causality Discovery in Multivariate Time Series | Meriem Zerkouk et al. | [2507.09439v1](http://arxiv.org/abs/2507.09439v1) | **NULL** |
-| **2025/07/12** | Context-Aware Regularization with Markovian Integration for Attention-Based Nucleotide Analysis | Mohammadsaleh Refahi et al. | [2507.09378v1](http://arxiv.org/abs/2507.09378v1) | **NULL** |
-| **2025/07/12** | POIFormer: A Transformer-Based Framework for Accurate and Scalable Point-of-Interest Attribution | Nripsuta Ani Saxena et al. | [2507.09137v1](http://arxiv.org/abs/2507.09137v1) | **NULL** |
-| **2025/07/12** | Hybrid Autoregressive-Diffusion Model for Real-Time Streaming Sign Language Production | Maoxiao Ye et al. | [2507.09105v1](http://arxiv.org/abs/2507.09105v1) | **NULL** |
 
 ## 背景差分
 
