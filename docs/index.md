@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/21 09:19:55
+> Updated on 2025/07/22 09:16:08
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/18** | Machine Learning-aided Optimal Control of a noisy qubit | Riccardo Cantone et al. | [2507.14085v1](http://arxiv.org/abs/2507.14085v1) | **NULL** |
+| **2025/07/18** | Training-free Token Reduction for Vision Mamba | Qiankun Ma et al. | [2507.14042v1](http://arxiv.org/abs/2507.14042v1) | **NULL** |
+| **2025/07/18** | Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model | Ji-Yan Wu et al. | [2507.14013v1](http://arxiv.org/abs/2507.14013v1) | **NULL** |
+| **2025/07/18** | ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies | Itay Katav et al. | [2507.13998v1](http://arxiv.org/abs/2507.13998v1) | **NULL** |
+| **2025/07/18** | Reframing attention as a reinforcement learning problem for causal discovery | Turan Orujlu et al. | [2507.13920v1](http://arxiv.org/abs/2507.13920v1) | **NULL** |
+| **2025/07/18** | PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement | Sofia Jamil et al. | [2507.13708v1](http://arxiv.org/abs/2507.13708v1) | **NULL** |
+| **2025/07/18** | Learning Deformable Body Interactions With Adaptive Spatial Tokenization | Hao Wang et al. | [2507.13707v1](http://arxiv.org/abs/2507.13707v1) | **NULL** |
+| **2025/07/18** | Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration | Xingyu Jiang et al. | [2507.13663v1](http://arxiv.org/abs/2507.13663v1) | **NULL** |
+| **2025/07/17** | $\nabla$NABLA: Neighborhood Adaptive Block-Level Attention | Dmitrii Mikhailov et al. | [2507.13546v1](http://arxiv.org/abs/2507.13546v1) | **NULL** |
+| **2025/07/17** | Acoustic Index: A Novel AI-Driven Parameter for Cardiac Disease Risk Stratification Using Echocardiography | Beka Begiashvili et al. | [2507.13542v1](http://arxiv.org/abs/2507.13542v1) | **NULL** |
 | **2025/07/17** | The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting | Lefei Shen et al. | [2507.13043v1](http://arxiv.org/abs/2507.13043v1) | **NULL** |
 | **2025/07/17** | SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs | Kossi Amouzouvi et al. | [2507.13001v1](http://arxiv.org/abs/2507.13001v1) | **NULL** |
 | **2025/07/17** | FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers | Qiang Wang et al. | [2507.12956v1](http://arxiv.org/abs/2507.12956v1) | **NULL** |
@@ -73,21 +83,12 @@ layout: default
 | **2025/07/15** | MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network | Jianfei Jiang et al. | [2507.11333v1](http://arxiv.org/abs/2507.11333v1) | **NULL** |
 | **2025/07/15** | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | Huilin Xu et al. | [2507.11296v1](http://arxiv.org/abs/2507.11296v1) | **NULL** |
 | **2025/07/15** | Quantum Adaptive Excitation Network with Variational Quantum Circuits for Channel Attention | Yu-Chao Hsu et al. | [2507.11217v1](http://arxiv.org/abs/2507.11217v1) | **NULL** |
-| **2025/07/15** | EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing | Vassilis Sioros et al. | [2507.11096v1](http://arxiv.org/abs/2507.11096v1) | **NULL** |
-| **2025/07/15** | SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable Length of Stay Prediction After Spine Surgery | Ha Na Cho et al. | [2507.11570v1](http://arxiv.org/abs/2507.11570v1) | **NULL** |
-| **2025/07/14** | RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening | Tao Tang et al. | [2507.10461v1](http://arxiv.org/abs/2507.10461v1) | **NULL** |
-| **2025/07/14** | SENSOR: An ML-Enhanced Online Annotation Tool to Uncover Privacy Concerns from User Reviews in Social-Media Applications | Labiba Farah et al. | [2507.10640v1](http://arxiv.org/abs/2507.10640v1) | **NULL** |
-| **2025/07/14** | Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration | Wenkang Han et al. | [2507.10293v1](http://arxiv.org/abs/2507.10293v1) | **NULL** |
-| **2025/07/14** | FTCFormer: Fuzzy Token Clustering Transformer for Image Classification | Muyi Bao et al. | [2507.10283v1](http://arxiv.org/abs/2507.10283v1) | **NULL** |
-| **2025/07/14** | GeoHopNet: Hopfield-Augmented Sparse Spatial Attention for Dynamic UAV Site Location Problem | Jianing Zhi et al. | [2507.10636v1](http://arxiv.org/abs/2507.10636v1) | **NULL** |
-| **2025/07/14** | DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis | Wenjie Tian et al. | [2507.10109v1](http://arxiv.org/abs/2507.10109v1) | **NULL** |
-| **2025/07/14** | Learning-Aided Iterative Receiver for Superimposed Pilots: Design and Experimental Evaluation | Xinjie Li et al. | [2507.10074v1](http://arxiv.org/abs/2507.10074v1) | **NULL** |
-| **2025/07/14** | A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion | Mingda Zhang | [2507.09966v2](http://arxiv.org/abs/2507.09966v2) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/18** | Deep Image Reconstruction for Background Subtraction in Heavy-Ion Collisions | Umar Sohail Qureshi et al. | [2507.14036v1](http://arxiv.org/abs/2507.14036v1) | **NULL** |
 | **2025/07/16** | Frequency-responsive RCS characteristics and scaling implications for ISAC development | Saúl Fenollosa et al. | [2507.12235v1](http://arxiv.org/abs/2507.12235v1) | **NULL** |
 | **2025/07/14** | Global sky background images for JWST/NIRISS Wide-Field Slitless Spectroscopy | Gaël Noirot | [2507.10650v1](http://arxiv.org/abs/2507.10650v1) | **NULL** |
 | **2025/07/02** | Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems | Katarzyna Gas et al. | [2507.01385v1](http://arxiv.org/abs/2507.01385v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v3](http://arxiv.org/abs/2501.08214v3) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
 | **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
-| **2024/12/09** | Jet momentum reconstruction in the QGP background with machine learning | Ran Li et al. | [2412.06466v2](http://arxiv.org/abs/2412.06466v2) | **NULL** |
