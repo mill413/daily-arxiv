@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/22 09:16:08
+> Updated on 2025/07/23 09:17:11
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/21** | Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction | Shiyang Li | [2507.15832v1](http://arxiv.org/abs/2507.15832v1) | **NULL** |
+| **2025/07/21** | Reservoir Computing as a Language Model | Felix Köster et al. | [2507.15779v1](http://arxiv.org/abs/2507.15779v1) | **NULL** |
+| **2025/07/21** | Multichannel Keyword Spotting for Noisy Conditions | Dzmitry Saladukha et al. | [2507.15558v1](http://arxiv.org/abs/2507.15558v1) | **NULL** |
+| **2025/07/21** | Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images | JunYing Huang et al. | [2507.15496v1](http://arxiv.org/abs/2507.15496v1) | **NULL** |
+| **2025/07/21** | BEAM-Net: A Deep Learning Framework with Bone Enhancement Attention Mechanism for High Resolution High Frame Rate Ultrasound Beamforming | Midhila Madhusoodanan et al. | [2507.15306v1](http://arxiv.org/abs/2507.15306v1) | **NULL** |
+| **2025/07/21** | RepILN: Reparameterized Inertial Localization Network | Shanshan Zhang et al. | [2507.15293v1](http://arxiv.org/abs/2507.15293v1) | **NULL** |
+| **2025/07/21** | Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks | Rabia Latief Bhat et al. | [2507.15246v1](http://arxiv.org/abs/2507.15246v1) | **NULL** |
+| **2025/07/20** | ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model | Bing He et al. | [2507.15067v1](http://arxiv.org/abs/2507.15067v1) | **NULL** |
+| **2025/07/20** | Latent-attention Based Transformer for Near ML Polar Decoding in Short-code Regime | Hongzhi Zhu et al. | [2507.14951v1](http://arxiv.org/abs/2507.14951v1) | **NULL** |
+| **2025/07/20** | Probabilistic smooth attention for deep multiple instance learning in medical imaging | Francisco M. Castro-Macías et al. | [2507.14932v1](http://arxiv.org/abs/2507.14932v1) | **NULL** |
+| **2025/07/20** | Semantic-Aware Representation Learning for Multi-label Image Classification | Ren-Dong Xie et al. | [2507.14918v1](http://arxiv.org/abs/2507.14918v1) | **NULL** |
+| **2025/07/20** | Partial Symmetry Enforced Attention Decomposition (PSEAD): A Group-Theoretic Framework for Equivariant Transformers in Biological Systems | Daniel Ayomide Olanrewaju | [2507.14908v1](http://arxiv.org/abs/2507.14908v1) | **NULL** |
+| **2025/07/20** | Time-Aware Attention for Enhanced Electronic Health Records Modeling | Junhan Yu et al. | [2507.14847v1](http://arxiv.org/abs/2507.14847v1) | **NULL** |
+| **2025/07/19** | Fraud is Not Just Rarity: A Causal Prototype Attention Approach to Realistic Synthetic Oversampling | Claudio Giusti et al. | [2507.14706v1](http://arxiv.org/abs/2507.14706v1) | **NULL** |
+| **2025/07/19** | Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition | Xuetao Lin et al. | [2507.14698v1](http://arxiv.org/abs/2507.14698v1) | **NULL** |
+| **2025/07/19** | The Origin of Self-Attention: From Pairwise Affinity Matrices to Transformers | Giorgio Roffo | [2507.14560v1](http://arxiv.org/abs/2507.14560v1) | **NULL** |
+| **2025/07/19** | GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration | Weikang Gu et al. | [2507.14452v1](http://arxiv.org/abs/2507.14452v1) | **NULL** |
+| **2025/07/18** | RaMen: Multi-Strategy Multi-Modal Learning for Bundle Construction | Huy-Son Nguyen et al. | [2507.14361v1](http://arxiv.org/abs/2507.14361v1) | **NULL** |
 | **2025/07/18** | Machine Learning-aided Optimal Control of a noisy qubit | Riccardo Cantone et al. | [2507.14085v1](http://arxiv.org/abs/2507.14085v1) | **NULL** |
 | **2025/07/18** | Training-free Token Reduction for Vision Mamba | Qiankun Ma et al. | [2507.14042v1](http://arxiv.org/abs/2507.14042v1) | **NULL** |
 | **2025/07/18** | Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model | Ji-Yan Wu et al. | [2507.14013v1](http://arxiv.org/abs/2507.14013v1) | **NULL** |
@@ -65,24 +83,6 @@ layout: default
 | **2025/07/17** | Acoustic Index: A Novel AI-Driven Parameter for Cardiac Disease Risk Stratification Using Echocardiography | Beka Begiashvili et al. | [2507.13542v1](http://arxiv.org/abs/2507.13542v1) | **NULL** |
 | **2025/07/17** | The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting | Lefei Shen et al. | [2507.13043v1](http://arxiv.org/abs/2507.13043v1) | **NULL** |
 | **2025/07/17** | SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs | Kossi Amouzouvi et al. | [2507.13001v1](http://arxiv.org/abs/2507.13001v1) | **NULL** |
-| **2025/07/17** | FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers | Qiang Wang et al. | [2507.12956v1](http://arxiv.org/abs/2507.12956v1) | **NULL** |
-| **2025/07/17** | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion | Caixia Dong et al. | [2507.12938v1](http://arxiv.org/abs/2507.12938v1) | **NULL** |
-| **2025/07/17** | Semantic-guided Fine-tuning of Foundation Model for Long-tailed Visual Recognition | Yufei Peng et al. | [2507.12807v1](http://arxiv.org/abs/2507.12807v1) | **NULL** |
-| **2025/07/17** | Local Representative Token Guided Merging for Text-to-Image Generation | Min-Jeong Lee et al. | [2507.12771v1](http://arxiv.org/abs/2507.12771v1) | **NULL** |
-| **2025/07/17** | AdaptiSent: Context-Aware Adaptive Attention for Multimodal Aspect-Based Sentiment Analysis | S M Rafiuddin et al. | [2507.12695v1](http://arxiv.org/abs/2507.12695v1) | **NULL** |
-| **2025/07/16** | A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis | Mohammed Guhdar et al. | [2507.12645v1](http://arxiv.org/abs/2507.12645v1) | **NULL** |
-| **2025/07/16** | Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection | Sandipan Sarma et al. | [2507.12628v1](http://arxiv.org/abs/2507.12628v1) | **NULL** |
-| **2025/07/16** | HairFormer: Transformer-Based Dynamic Neural Hair Simulation | Joy Xiaoji Zhang et al. | [2507.12600v1](http://arxiv.org/abs/2507.12600v1) | **NULL** |
-| **2025/07/16** | Catching Bid-rigging Cartels with Graph Attention Neural Networks | David Imhof et al. | [2507.12369v2](http://arxiv.org/abs/2507.12369v2) | **NULL** |
-| **2025/07/16** | Wavelet-based Decoupling Framework for low-light Stereo Image Enhancement | Shuangli Du et al. | [2507.12188v1](http://arxiv.org/abs/2507.12188v1) | **NULL** |
-| **2025/07/16** | PRISM: Distributed Inference for Foundation Models at Edge | Muhammad Azlan Qazi et al. | [2507.12145v1](http://arxiv.org/abs/2507.12145v1) | **NULL** |
-| **2025/07/16** | Frequency-Dynamic Attention Modulation for Dense Prediction | Linwei Chen et al. | [2507.12006v1](http://arxiv.org/abs/2507.12006v1) | **NULL** |
-| **2025/07/16** | GLOMIA-Pro: A Generalizable Longitudinal Medical Image Analysis Framework for Disease Progression Prediction | Shuaitong Zhang et al. | [2507.12500v1](http://arxiv.org/abs/2507.12500v1) | **NULL** |
-| **2025/07/16** | A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction | Wei Huang et al. | [2507.11812v1](http://arxiv.org/abs/2507.11812v1) | **NULL** |
-| **2025/07/15** | STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics | Joao F. Rocha et al. | [2507.11660v1](http://arxiv.org/abs/2507.11660v1) | **NULL** |
-| **2025/07/15** | MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network | Jianfei Jiang et al. | [2507.11333v1](http://arxiv.org/abs/2507.11333v1) | **NULL** |
-| **2025/07/15** | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | Huilin Xu et al. | [2507.11296v1](http://arxiv.org/abs/2507.11296v1) | **NULL** |
-| **2025/07/15** | Quantum Adaptive Excitation Network with Variational Quantum Circuits for Channel Attention | Yu-Chao Hsu et al. | [2507.11217v1](http://arxiv.org/abs/2507.11217v1) | **NULL** |
 
 ## 背景差分
 
