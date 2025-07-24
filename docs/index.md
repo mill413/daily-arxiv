@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/23 09:17:11
+> Updated on 2025/07/24 09:16:09
 
 <summary>Table of Contents</summary>
 
@@ -30,7 +30,7 @@ layout: default
 | **2025/05/27** | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | Muzhi Zhu et al. | [2505.21457v1](http://arxiv.org/abs/2505.21457v1) | **NULL** |
 | **2025/05/27** | Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing | Dehao Wang et al. | [2505.21049v1](http://arxiv.org/abs/2505.21049v1) | **NULL** |
 | **2025/05/22** | MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection | Yichen Li et al. | [2505.16442v1](http://arxiv.org/abs/2505.16442v1) | **NULL** |
-| **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v1](http://arxiv.org/abs/2505.10016v1) | **NULL** |
+| **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v2](http://arxiv.org/abs/2505.10016v2) | **NULL** |
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v1](http://arxiv.org/abs/2505.05741v1) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
@@ -53,9 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/22** | Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models | Yuxi Lin et al. | [2507.16801v1](http://arxiv.org/abs/2507.16801v1) | **NULL** |
+| **2025/07/22** | HarmonPaint: Harmonized Training-Free Diffusion Inpainting | Ying Li et al. | [2507.16732v1](http://arxiv.org/abs/2507.16732v1) | **NULL** |
+| **2025/07/22** | Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers | Vasileios Titopoulos et al. | [2507.16676v1](http://arxiv.org/abs/2507.16676v1) | **NULL** |
+| **2025/07/22** | GASPnet: Global Agreement to Synchronize Phases | Andrea Alamiaa et al. | [2507.16674v1](http://arxiv.org/abs/2507.16674v1) | **NULL** |
+| **2025/07/22** | Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks | Radowanul Haque et al. | [2507.16540v1](http://arxiv.org/abs/2507.16540v1) | **NULL** |
+| **2025/07/22** | Combining Language and Topic Models for Hierarchical Text Classification | Jaco du Toit et al. | [2507.16490v1](http://arxiv.org/abs/2507.16490v1) | **NULL** |
+| **2025/07/22** | Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts | Ardhendu Sekhar et al. | [2507.16476v1](http://arxiv.org/abs/2507.16476v1) | **NULL** |
+| **2025/07/22** | HoliTracer: Holistic Vectorization of Geographic Objects from Large-Size Remote Sensing Imagery | Yu Wang et al. | [2507.16251v1](http://arxiv.org/abs/2507.16251v1) | **NULL** |
+| **2025/07/22** | DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling | Shanshan Zhang et al. | [2507.16121v1](http://arxiv.org/abs/2507.16121v1) | **NULL** |
+| **2025/07/21** | Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network | Xi Yang et al. | [2507.16020v1](http://arxiv.org/abs/2507.16020v1) | **NULL** |
+| **2025/07/21** | Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers | Andrew Lu et al. | [2507.16018v1](http://arxiv.org/abs/2507.16018v1) | **NULL** |
 | **2025/07/21** | Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction | Shiyang Li | [2507.15832v1](http://arxiv.org/abs/2507.15832v1) | **NULL** |
 | **2025/07/21** | Reservoir Computing as a Language Model | Felix Köster et al. | [2507.15779v1](http://arxiv.org/abs/2507.15779v1) | **NULL** |
 | **2025/07/21** | Multichannel Keyword Spotting for Noisy Conditions | Dzmitry Saladukha et al. | [2507.15558v1](http://arxiv.org/abs/2507.15558v1) | **NULL** |
+| **2025/07/21** | Foundation Models and Transformers for Anomaly Detection: A Survey | Mouïn Ben Ammar et al. | [2507.15905v1](http://arxiv.org/abs/2507.15905v1) | **NULL** |
 | **2025/07/21** | Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images | JunYing Huang et al. | [2507.15496v1](http://arxiv.org/abs/2507.15496v1) | **NULL** |
 | **2025/07/21** | BEAM-Net: A Deep Learning Framework with Bone Enhancement Attention Mechanism for High Resolution High Frame Rate Ultrasound Beamforming | Midhila Madhusoodanan et al. | [2507.15306v1](http://arxiv.org/abs/2507.15306v1) | **NULL** |
 | **2025/07/21** | RepILN: Reparameterized Inertial Localization Network | Shanshan Zhang et al. | [2507.15293v1](http://arxiv.org/abs/2507.15293v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/07/19** | The Origin of Self-Attention: From Pairwise Affinity Matrices to Transformers | Giorgio Roffo | [2507.14560v1](http://arxiv.org/abs/2507.14560v1) | **NULL** |
 | **2025/07/19** | GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration | Weikang Gu et al. | [2507.14452v1](http://arxiv.org/abs/2507.14452v1) | **NULL** |
 | **2025/07/18** | RaMen: Multi-Strategy Multi-Modal Learning for Bundle Construction | Huy-Son Nguyen et al. | [2507.14361v1](http://arxiv.org/abs/2507.14361v1) | **NULL** |
-| **2025/07/18** | Machine Learning-aided Optimal Control of a noisy qubit | Riccardo Cantone et al. | [2507.14085v1](http://arxiv.org/abs/2507.14085v1) | **NULL** |
-| **2025/07/18** | Training-free Token Reduction for Vision Mamba | Qiankun Ma et al. | [2507.14042v1](http://arxiv.org/abs/2507.14042v1) | **NULL** |
-| **2025/07/18** | Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model | Ji-Yan Wu et al. | [2507.14013v1](http://arxiv.org/abs/2507.14013v1) | **NULL** |
-| **2025/07/18** | ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies | Itay Katav et al. | [2507.13998v1](http://arxiv.org/abs/2507.13998v1) | **NULL** |
-| **2025/07/18** | Reframing attention as a reinforcement learning problem for causal discovery | Turan Orujlu et al. | [2507.13920v1](http://arxiv.org/abs/2507.13920v1) | **NULL** |
-| **2025/07/18** | PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement | Sofia Jamil et al. | [2507.13708v1](http://arxiv.org/abs/2507.13708v1) | **NULL** |
-| **2025/07/18** | Learning Deformable Body Interactions With Adaptive Spatial Tokenization | Hao Wang et al. | [2507.13707v1](http://arxiv.org/abs/2507.13707v1) | **NULL** |
-| **2025/07/18** | Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration | Xingyu Jiang et al. | [2507.13663v1](http://arxiv.org/abs/2507.13663v1) | **NULL** |
-| **2025/07/17** | $\nabla$NABLA: Neighborhood Adaptive Block-Level Attention | Dmitrii Mikhailov et al. | [2507.13546v1](http://arxiv.org/abs/2507.13546v1) | **NULL** |
-| **2025/07/17** | Acoustic Index: A Novel AI-Driven Parameter for Cardiac Disease Risk Stratification Using Echocardiography | Beka Begiashvili et al. | [2507.13542v1](http://arxiv.org/abs/2507.13542v1) | **NULL** |
-| **2025/07/17** | The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting | Lefei Shen et al. | [2507.13043v1](http://arxiv.org/abs/2507.13043v1) | **NULL** |
-| **2025/07/17** | SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs | Kossi Amouzouvi et al. | [2507.13001v1](http://arxiv.org/abs/2507.13001v1) | **NULL** |
 
 ## 背景差分
 
