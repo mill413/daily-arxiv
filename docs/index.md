@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/24 09:16:09
+> Updated on 2025/07/25 09:16:15
 
 <summary>Table of Contents</summary>
 
@@ -44,7 +44,7 @@ layout: default
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
 | **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v3](http://arxiv.org/abs/2503.13883v3) | **NULL** |
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
-| **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | [**link**](https://github.com/wish44165/ReynoldsFlow) |
+| **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
 | **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 | **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/23** | Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users | Weixin Chen et al. | [2507.17749v1](http://arxiv.org/abs/2507.17749v1) | **NULL** |
+| **2025/07/23** | Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention | Yiwen Chen et al. | [2507.17745v1](http://arxiv.org/abs/2507.17745v1) | **NULL** |
+| **2025/07/23** | Vision Transformer attention alignment with human visual perception in aesthetic object evaluation | Miguel Carrasco et al. | [2507.17616v1](http://arxiv.org/abs/2507.17616v1) | **NULL** |
+| **2025/07/23** | Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection | Francesco Tonini et al. | [2507.17456v1](http://arxiv.org/abs/2507.17456v1) | **NULL** |
+| **2025/07/23** | A Conditional Probability Framework for Compositional Zero-shot Learning | Peng Wu et al. | [2507.17377v1](http://arxiv.org/abs/2507.17377v1) | **NULL** |
+| **2025/07/23** | SFUOD: Source-Free Unknown Object Detection | Keon-Hee Park et al. | [2507.17373v1](http://arxiv.org/abs/2507.17373v1) | **NULL** |
+| **2025/07/23** | CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance | Peiqi Chen et al. | [2507.17312v1](http://arxiv.org/abs/2507.17312v1) | **NULL** |
+| **2025/07/23** | DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs | Haolin Jin et al. | [2507.17245v1](http://arxiv.org/abs/2507.17245v1) | **NULL** |
+| **2025/07/23** | Met$^2$Net: A Decoupled Two-Stage Spatio-Temporal Forecasting Model for Complex Meteorological Systems | Shaohan Li et al. | [2507.17189v1](http://arxiv.org/abs/2507.17189v1) | **NULL** |
 | **2025/07/22** | Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models | Yuxi Lin et al. | [2507.16801v1](http://arxiv.org/abs/2507.16801v1) | **NULL** |
 | **2025/07/22** | HarmonPaint: Harmonized Training-Free Diffusion Inpainting | Ying Li et al. | [2507.16732v1](http://arxiv.org/abs/2507.16732v1) | **NULL** |
 | **2025/07/22** | Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers | Vasileios Titopoulos et al. | [2507.16676v1](http://arxiv.org/abs/2507.16676v1) | **NULL** |
@@ -64,6 +73,7 @@ layout: default
 | **2025/07/22** | DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling | Shanshan Zhang et al. | [2507.16121v1](http://arxiv.org/abs/2507.16121v1) | **NULL** |
 | **2025/07/21** | Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network | Xi Yang et al. | [2507.16020v1](http://arxiv.org/abs/2507.16020v1) | **NULL** |
 | **2025/07/21** | Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers | Andrew Lu et al. | [2507.16018v1](http://arxiv.org/abs/2507.16018v1) | **NULL** |
+| **2025/07/21** | Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection | Xiang Li | [2507.16861v1](http://arxiv.org/abs/2507.16861v1) | **NULL** |
 | **2025/07/21** | Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction | Shiyang Li | [2507.15832v1](http://arxiv.org/abs/2507.15832v1) | **NULL** |
 | **2025/07/21** | Reservoir Computing as a Language Model | Felix Köster et al. | [2507.15779v1](http://arxiv.org/abs/2507.15779v1) | **NULL** |
 | **2025/07/21** | Multichannel Keyword Spotting for Noisy Conditions | Dzmitry Saladukha et al. | [2507.15558v1](http://arxiv.org/abs/2507.15558v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/07/21** | RepILN: Reparameterized Inertial Localization Network | Shanshan Zhang et al. | [2507.15293v1](http://arxiv.org/abs/2507.15293v1) | **NULL** |
 | **2025/07/21** | Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks | Rabia Latief Bhat et al. | [2507.15246v1](http://arxiv.org/abs/2507.15246v1) | **NULL** |
 | **2025/07/20** | ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model | Bing He et al. | [2507.15067v1](http://arxiv.org/abs/2507.15067v1) | **NULL** |
-| **2025/07/20** | Latent-attention Based Transformer for Near ML Polar Decoding in Short-code Regime | Hongzhi Zhu et al. | [2507.14951v1](http://arxiv.org/abs/2507.14951v1) | **NULL** |
-| **2025/07/20** | Probabilistic smooth attention for deep multiple instance learning in medical imaging | Francisco M. Castro-Macías et al. | [2507.14932v1](http://arxiv.org/abs/2507.14932v1) | **NULL** |
-| **2025/07/20** | Semantic-Aware Representation Learning for Multi-label Image Classification | Ren-Dong Xie et al. | [2507.14918v1](http://arxiv.org/abs/2507.14918v1) | **NULL** |
-| **2025/07/20** | Partial Symmetry Enforced Attention Decomposition (PSEAD): A Group-Theoretic Framework for Equivariant Transformers in Biological Systems | Daniel Ayomide Olanrewaju | [2507.14908v1](http://arxiv.org/abs/2507.14908v1) | **NULL** |
-| **2025/07/20** | Time-Aware Attention for Enhanced Electronic Health Records Modeling | Junhan Yu et al. | [2507.14847v1](http://arxiv.org/abs/2507.14847v1) | **NULL** |
-| **2025/07/19** | Fraud is Not Just Rarity: A Causal Prototype Attention Approach to Realistic Synthetic Oversampling | Claudio Giusti et al. | [2507.14706v1](http://arxiv.org/abs/2507.14706v1) | **NULL** |
-| **2025/07/19** | Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition | Xuetao Lin et al. | [2507.14698v1](http://arxiv.org/abs/2507.14698v1) | **NULL** |
-| **2025/07/19** | The Origin of Self-Attention: From Pairwise Affinity Matrices to Transformers | Giorgio Roffo | [2507.14560v1](http://arxiv.org/abs/2507.14560v1) | **NULL** |
-| **2025/07/19** | GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration | Weikang Gu et al. | [2507.14452v1](http://arxiv.org/abs/2507.14452v1) | **NULL** |
-| **2025/07/18** | RaMen: Multi-Strategy Multi-Modal Learning for Bundle Construction | Huy-Son Nguyen et al. | [2507.14361v1](http://arxiv.org/abs/2507.14361v1) | **NULL** |
 
 ## 背景差分
 
@@ -108,10 +108,10 @@ layout: default
 | **2025/03/14** | Black Hole Action in Einstein's other Gravity | Michal Stano | [2503.11746v1](http://arxiv.org/abs/2503.11746v1) | **NULL** |
 | **2025/03/10** | Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes | Lei Xiang et al. | [2503.07921v1](http://arxiv.org/abs/2503.07921v1) | **NULL** |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
-| **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | [**link**](https://github.com/weathon/Lang-Gas) |
-| **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | [**link**](https://github.com/q-viper/contour-based-writing) |
+| **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | **NULL** |
+| **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | **NULL** |
 | **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
-| **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v2](http://arxiv.org/abs/2503.00370v2) | [**link**](https://github.com/nepfaff/scalable-real2sim) |
+| **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v2](http://arxiv.org/abs/2503.00370v2) | **NULL** |
 | **2025/02/21** | Equivariant localization in supergravity in odd dimensions | Edoardo Colombo et al. | [2502.15624v1](http://arxiv.org/abs/2502.15624v1) | **NULL** |
 | **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
