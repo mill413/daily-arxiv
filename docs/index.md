@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/25 09:16:15
+> Updated on 2025/07/26 09:14:31
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/24** | HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation | Xinyu Wang et al. | [2507.18575v1](http://arxiv.org/abs/2507.18575v1) | **NULL** |
+| **2025/07/24** | Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models | Zheyu Zhang et al. | [2507.18504v1](http://arxiv.org/abs/2507.18504v1) | **NULL** |
+| **2025/07/24** | ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference | Tianyu Xie et al. | [2507.18380v1](http://arxiv.org/abs/2507.18380v1) | **NULL** |
+| **2025/07/24** | State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer | Janak M. Patel et al. | [2507.18320v1](http://arxiv.org/abs/2507.18320v1) | **NULL** |
+| **2025/07/24** | WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection | Haodong Zhu et al. | [2507.18173v1](http://arxiv.org/abs/2507.18173v1) | **NULL** |
+| **2025/07/24** | A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli | Qianyi He et al. | [2507.18104v1](http://arxiv.org/abs/2507.18104v1) | **NULL** |
+| **2025/07/23** | Resnet-conformer network with shared weights and attention mechanism for sound event localization, detection, and distance estimation | Quoc Thinh Vo et al. | [2507.17941v1](http://arxiv.org/abs/2507.17941v1) | **NULL** |
+| **2025/07/23** | DiNAT-IR: Exploring Dilated Neighborhood Attention for High-Quality Image Restoration | Hanzhou Liu et al. | [2507.17892v1](http://arxiv.org/abs/2507.17892v1) | **NULL** |
+| **2025/07/23** | Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models | Lifeng Chen et al. | [2507.17853v1](http://arxiv.org/abs/2507.17853v1) | **NULL** |
 | **2025/07/23** | Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users | Weixin Chen et al. | [2507.17749v1](http://arxiv.org/abs/2507.17749v1) | **NULL** |
 | **2025/07/23** | Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention | Yiwen Chen et al. | [2507.17745v1](http://arxiv.org/abs/2507.17745v1) | **NULL** |
 | **2025/07/23** | Vision Transformer attention alignment with human visual perception in aesthetic object evaluation | Miguel Carrasco et al. | [2507.17616v1](http://arxiv.org/abs/2507.17616v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/07/21** | Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network | Xi Yang et al. | [2507.16020v1](http://arxiv.org/abs/2507.16020v1) | **NULL** |
 | **2025/07/21** | Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers | Andrew Lu et al. | [2507.16018v1](http://arxiv.org/abs/2507.16018v1) | **NULL** |
 | **2025/07/21** | Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection | Xiang Li | [2507.16861v1](http://arxiv.org/abs/2507.16861v1) | **NULL** |
-| **2025/07/21** | Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction | Shiyang Li | [2507.15832v1](http://arxiv.org/abs/2507.15832v1) | **NULL** |
-| **2025/07/21** | Reservoir Computing as a Language Model | Felix Köster et al. | [2507.15779v1](http://arxiv.org/abs/2507.15779v1) | **NULL** |
-| **2025/07/21** | Multichannel Keyword Spotting for Noisy Conditions | Dzmitry Saladukha et al. | [2507.15558v1](http://arxiv.org/abs/2507.15558v1) | **NULL** |
-| **2025/07/21** | Foundation Models and Transformers for Anomaly Detection: A Survey | Mouïn Ben Ammar et al. | [2507.15905v1](http://arxiv.org/abs/2507.15905v1) | **NULL** |
-| **2025/07/21** | Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images | JunYing Huang et al. | [2507.15496v1](http://arxiv.org/abs/2507.15496v1) | **NULL** |
-| **2025/07/21** | BEAM-Net: A Deep Learning Framework with Bone Enhancement Attention Mechanism for High Resolution High Frame Rate Ultrasound Beamforming | Midhila Madhusoodanan et al. | [2507.15306v1](http://arxiv.org/abs/2507.15306v1) | **NULL** |
-| **2025/07/21** | RepILN: Reparameterized Inertial Localization Network | Shanshan Zhang et al. | [2507.15293v1](http://arxiv.org/abs/2507.15293v1) | **NULL** |
-| **2025/07/21** | Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks | Rabia Latief Bhat et al. | [2507.15246v1](http://arxiv.org/abs/2507.15246v1) | **NULL** |
-| **2025/07/20** | ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model | Bing He et al. | [2507.15067v1](http://arxiv.org/abs/2507.15067v1) | **NULL** |
 
 ## 背景差分
 
