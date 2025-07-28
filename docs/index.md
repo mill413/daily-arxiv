@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/27 09:23:30
+> Updated on 2025/07/28 09:21:43
 
 <summary>Table of Contents</summary>
 
@@ -58,7 +58,7 @@ layout: default
 | **2025/07/24** | ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference | Tianyu Xie et al. | [2507.18380v1](http://arxiv.org/abs/2507.18380v1) | **NULL** |
 | **2025/07/24** | State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer | Janak M. Patel et al. | [2507.18320v1](http://arxiv.org/abs/2507.18320v1) | **NULL** |
 | **2025/07/24** | WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection | Haodong Zhu et al. | [2507.18173v1](http://arxiv.org/abs/2507.18173v1) | **NULL** |
-| **2025/07/24** | A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli | Qianyi He et al. | [2507.18104v1](http://arxiv.org/abs/2507.18104v1) | **NULL** |
+| **2025/07/24** | A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli | Qianyi He et al. | [2507.18104v2](http://arxiv.org/abs/2507.18104v2) | **NULL** |
 | **2025/07/23** | Resnet-conformer network with shared weights and attention mechanism for sound event localization, detection, and distance estimation | Quoc Thinh Vo et al. | [2507.17941v1](http://arxiv.org/abs/2507.17941v1) | **NULL** |
 | **2025/07/23** | DiNAT-IR: Exploring Dilated Neighborhood Attention for High-Quality Image Restoration | Hanzhou Liu et al. | [2507.17892v1](http://arxiv.org/abs/2507.17892v1) | **NULL** |
 | **2025/07/23** | Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models | Lifeng Chen et al. | [2507.17853v1](http://arxiv.org/abs/2507.17853v1) | **NULL** |
