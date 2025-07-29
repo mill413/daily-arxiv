@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/28 09:21:43
+> Updated on 2025/07/29 09:25:14
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
 | **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v1](http://arxiv.org/abs/2507.13120v1) | **NULL** |
 | **2025/07/17** | SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery | Peijun Wang et al. | [2507.12727v1](http://arxiv.org/abs/2507.12727v1) | **NULL** |
 | **2025/07/16** | InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization | Haoyuan Liu et al. | [2507.12420v1](http://arxiv.org/abs/2507.12420v1) | **NULL** |
@@ -47,12 +48,18 @@ layout: default
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
 | **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
-| **2024/12/24** | Multi-Point Positional Insertion Tuning for Small Object Detection | Kanoko Goto et al. | [2412.18090v1](http://arxiv.org/abs/2412.18090v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/25** | Modality Agnostic Efficient Long Range Encoder | Toufiq Parag et al. | [2507.19409v1](http://arxiv.org/abs/2507.19409v1) | **NULL** |
+| **2025/07/25** | TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling | Qirong Yang et al. | [2507.19229v1](http://arxiv.org/abs/2507.19229v1) | **NULL** |
+| **2025/07/25** | Enhancing Diabetic Retinopathy Classification Accuracy through Dual Attention Mechanism in Deep Learning | Abdul Hannan et al. | [2507.19199v1](http://arxiv.org/abs/2507.19199v1) | **NULL** |
+| **2025/07/25** | PGKET: A Photonic Gaussian Kernel Enhanced Transformer | Ren-Xin Zhao | [2507.19041v1](http://arxiv.org/abs/2507.19041v1) | **NULL** |
+| **2025/07/25** | MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition | Jian Chen et al. | [2507.18929v1](http://arxiv.org/abs/2507.18929v1) | **NULL** |
+| **2025/07/24** | Equivariant Volumetric Grasping | Pinhao Song et al. | [2507.18847v1](http://arxiv.org/abs/2507.18847v1) | **NULL** |
+| **2025/07/24** | Tell Me What You See: An Iterative Deep Learning Framework for Image Captioning | Hitesh Kumar Gupta | [2507.18788v1](http://arxiv.org/abs/2507.18788v1) | **NULL** |
 | **2025/07/24** | HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation | Xinyu Wang et al. | [2507.18575v1](http://arxiv.org/abs/2507.18575v1) | **NULL** |
 | **2025/07/24** | Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models | Zheyu Zhang et al. | [2507.18504v1](http://arxiv.org/abs/2507.18504v1) | **NULL** |
 | **2025/07/24** | ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference | Tianyu Xie et al. | [2507.18380v1](http://arxiv.org/abs/2507.18380v1) | **NULL** |
@@ -74,15 +81,8 @@ layout: default
 | **2025/07/22** | Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models | Yuxi Lin et al. | [2507.16801v1](http://arxiv.org/abs/2507.16801v1) | **NULL** |
 | **2025/07/22** | HarmonPaint: Harmonized Training-Free Diffusion Inpainting | Ying Li et al. | [2507.16732v1](http://arxiv.org/abs/2507.16732v1) | **NULL** |
 | **2025/07/22** | Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers | Vasileios Titopoulos et al. | [2507.16676v1](http://arxiv.org/abs/2507.16676v1) | **NULL** |
-| **2025/07/22** | GASPnet: Global Agreement to Synchronize Phases | Andrea Alamiaa et al. | [2507.16674v1](http://arxiv.org/abs/2507.16674v1) | **NULL** |
+| **2025/07/22** | GASPnet: Global Agreement to Synchronize Phases | Andrea Alamia et al. | [2507.16674v2](http://arxiv.org/abs/2507.16674v2) | **NULL** |
 | **2025/07/22** | Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks | Radowanul Haque et al. | [2507.16540v1](http://arxiv.org/abs/2507.16540v1) | **NULL** |
-| **2025/07/22** | Combining Language and Topic Models for Hierarchical Text Classification | Jaco du Toit et al. | [2507.16490v1](http://arxiv.org/abs/2507.16490v1) | **NULL** |
-| **2025/07/22** | Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts | Ardhendu Sekhar et al. | [2507.16476v1](http://arxiv.org/abs/2507.16476v1) | **NULL** |
-| **2025/07/22** | HoliTracer: Holistic Vectorization of Geographic Objects from Large-Size Remote Sensing Imagery | Yu Wang et al. | [2507.16251v1](http://arxiv.org/abs/2507.16251v1) | **NULL** |
-| **2025/07/22** | DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling | Shanshan Zhang et al. | [2507.16121v1](http://arxiv.org/abs/2507.16121v1) | **NULL** |
-| **2025/07/21** | Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network | Xi Yang et al. | [2507.16020v1](http://arxiv.org/abs/2507.16020v1) | **NULL** |
-| **2025/07/21** | Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers | Andrew Lu et al. | [2507.16018v1](http://arxiv.org/abs/2507.16018v1) | **NULL** |
-| **2025/07/21** | Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection | Xiang Li | [2507.16861v1](http://arxiv.org/abs/2507.16861v1) | **NULL** |
 
 ## 背景差分
 
