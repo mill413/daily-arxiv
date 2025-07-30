@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/29 09:25:14
+> Updated on 2025/07/30 09:17:56
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/28** | An Improved YOLOv8 Approach for Small Target Detection of Rice Spikelet Flowering in Field Environments | Beizhang Chen et al. | [2507.20506v1](http://arxiv.org/abs/2507.20506v1) | **NULL** |
 | **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
 | **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v1](http://arxiv.org/abs/2507.13120v1) | **NULL** |
 | **2025/07/17** | SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery | Peijun Wang et al. | [2507.12727v1](http://arxiv.org/abs/2507.12727v1) | **NULL** |
@@ -47,42 +48,41 @@ layout: default
 | **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 | **2025/03/06** | ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem | Yu-Hsi Chen et al. | [2503.04500v2](http://arxiv.org/abs/2503.04500v2) | **NULL** |
 | **2025/02/05** | An Empirical Study of Methods for Small Object Detection from Satellite Imagery | Xiaohui Yuan et al. | [2502.03674v1](http://arxiv.org/abs/2502.03674v1) | **NULL** |
-| **2025/01/30** | Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios | David El-Chai Ben-Ezra et al. | [2501.18788v1](http://arxiv.org/abs/2501.18788v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/07/25** | Modality Agnostic Efficient Long Range Encoder | Toufiq Parag et al. | [2507.19409v1](http://arxiv.org/abs/2507.19409v1) | **NULL** |
-| **2025/07/25** | TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling | Qirong Yang et al. | [2507.19229v1](http://arxiv.org/abs/2507.19229v1) | **NULL** |
-| **2025/07/25** | Enhancing Diabetic Retinopathy Classification Accuracy through Dual Attention Mechanism in Deep Learning | Abdul Hannan et al. | [2507.19199v1](http://arxiv.org/abs/2507.19199v1) | **NULL** |
-| **2025/07/25** | PGKET: A Photonic Gaussian Kernel Enhanced Transformer | Ren-Xin Zhao | [2507.19041v1](http://arxiv.org/abs/2507.19041v1) | **NULL** |
-| **2025/07/25** | MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition | Jian Chen et al. | [2507.18929v1](http://arxiv.org/abs/2507.18929v1) | **NULL** |
-| **2025/07/24** | Equivariant Volumetric Grasping | Pinhao Song et al. | [2507.18847v1](http://arxiv.org/abs/2507.18847v1) | **NULL** |
-| **2025/07/24** | Tell Me What You See: An Iterative Deep Learning Framework for Image Captioning | Hitesh Kumar Gupta | [2507.18788v1](http://arxiv.org/abs/2507.18788v1) | **NULL** |
-| **2025/07/24** | HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation | Xinyu Wang et al. | [2507.18575v1](http://arxiv.org/abs/2507.18575v1) | **NULL** |
-| **2025/07/24** | Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models | Zheyu Zhang et al. | [2507.18504v1](http://arxiv.org/abs/2507.18504v1) | **NULL** |
-| **2025/07/24** | ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference | Tianyu Xie et al. | [2507.18380v1](http://arxiv.org/abs/2507.18380v1) | **NULL** |
-| **2025/07/24** | State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer | Janak M. Patel et al. | [2507.18320v1](http://arxiv.org/abs/2507.18320v1) | **NULL** |
-| **2025/07/24** | WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection | Haodong Zhu et al. | [2507.18173v1](http://arxiv.org/abs/2507.18173v1) | **NULL** |
-| **2025/07/24** | A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli | Qianyi He et al. | [2507.18104v2](http://arxiv.org/abs/2507.18104v2) | **NULL** |
-| **2025/07/23** | Resnet-conformer network with shared weights and attention mechanism for sound event localization, detection, and distance estimation | Quoc Thinh Vo et al. | [2507.17941v1](http://arxiv.org/abs/2507.17941v1) | **NULL** |
-| **2025/07/23** | DiNAT-IR: Exploring Dilated Neighborhood Attention for High-Quality Image Restoration | Hanzhou Liu et al. | [2507.17892v1](http://arxiv.org/abs/2507.17892v1) | **NULL** |
-| **2025/07/23** | Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models | Lifeng Chen et al. | [2507.17853v1](http://arxiv.org/abs/2507.17853v1) | **NULL** |
-| **2025/07/23** | Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users | Weixin Chen et al. | [2507.17749v1](http://arxiv.org/abs/2507.17749v1) | **NULL** |
-| **2025/07/23** | Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention | Yiwen Chen et al. | [2507.17745v1](http://arxiv.org/abs/2507.17745v1) | **NULL** |
-| **2025/07/23** | Vision Transformer attention alignment with human visual perception in aesthetic object evaluation | Miguel Carrasco et al. | [2507.17616v1](http://arxiv.org/abs/2507.17616v1) | **NULL** |
-| **2025/07/23** | Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection | Francesco Tonini et al. | [2507.17456v1](http://arxiv.org/abs/2507.17456v1) | **NULL** |
-| **2025/07/23** | A Conditional Probability Framework for Compositional Zero-shot Learning | Peng Wu et al. | [2507.17377v1](http://arxiv.org/abs/2507.17377v1) | **NULL** |
-| **2025/07/23** | SFUOD: Source-Free Unknown Object Detection | Keon-Hee Park et al. | [2507.17373v1](http://arxiv.org/abs/2507.17373v1) | **NULL** |
-| **2025/07/23** | CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance | Peiqi Chen et al. | [2507.17312v1](http://arxiv.org/abs/2507.17312v1) | **NULL** |
-| **2025/07/23** | DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs | Haolin Jin et al. | [2507.17245v1](http://arxiv.org/abs/2507.17245v1) | **NULL** |
-| **2025/07/23** | Met$^2$Net: A Decoupled Two-Stage Spatio-Temporal Forecasting Model for Complex Meteorological Systems | Shaohan Li et al. | [2507.17189v1](http://arxiv.org/abs/2507.17189v1) | **NULL** |
-| **2025/07/22** | Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models | Yuxi Lin et al. | [2507.16801v1](http://arxiv.org/abs/2507.16801v1) | **NULL** |
-| **2025/07/22** | HarmonPaint: Harmonized Training-Free Diffusion Inpainting | Ying Li et al. | [2507.16732v1](http://arxiv.org/abs/2507.16732v1) | **NULL** |
-| **2025/07/22** | Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers | Vasileios Titopoulos et al. | [2507.16676v1](http://arxiv.org/abs/2507.16676v1) | **NULL** |
-| **2025/07/22** | GASPnet: Global Agreement to Synchronize Phases | Andrea Alamia et al. | [2507.16674v2](http://arxiv.org/abs/2507.16674v2) | **NULL** |
-| **2025/07/22** | Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks | Radowanul Haque et al. | [2507.16540v1](http://arxiv.org/abs/2507.16540v1) | **NULL** |
+| **2025/07/28** | SmallThinker: A Family of Efficient Large Language Models Natively Trained for Local Deployment | Yixin Song et al. | [2507.20984v1](http://arxiv.org/abs/2507.20984v1) | **NULL** |
+| **2025/07/28** | \textit{FedABC}: Attention-Based Client Selection for Federated Learning with Long-Term View | Wenxuan Ye et al. | [2507.20871v1](http://arxiv.org/abs/2507.20871v1) | **NULL** |
+| **2025/07/28** | A Novel Post-Quantum Secure Digital Signature Scheme Based on Neural Network | Satish Kumar et al. | [2507.20676v1](http://arxiv.org/abs/2507.20676v1) | **NULL** |
+| **2025/07/28** | A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games | Jonas Peche et al. | [2507.20670v1](http://arxiv.org/abs/2507.20670v1) | **NULL** |
+| **2025/07/28** | DAMS:Dual-Branch Adaptive Multiscale Spatiotemporal Framework for Video Anomaly Detection | Dezhi An et al. | [2507.20629v1](http://arxiv.org/abs/2507.20629v1) | **NULL** |
+| **2025/07/28** | Controllable Video-to-Music Generation with Multiple Time-Varying Conditions | Junxian Wu et al. | [2507.20627v1](http://arxiv.org/abs/2507.20627v1) | **NULL** |
+| **2025/07/28** | Predicting Chemically Accurate Adsorption Energy Using an Interpretable Deep Learning Model Pretrained by GGA Calculation Data | Zhihao Zhang et al. | [2507.20496v1](http://arxiv.org/abs/2507.20496v1) | **NULL** |
+| **2025/07/28** | Your Attention Matters: to Improve Model Robustness to Noise and Spurious Correlations | Camilo Tamayo-Rousseau et al. | [2507.20453v1](http://arxiv.org/abs/2507.20453v1) | **NULL** |
+| **2025/07/28** | STARN-GAT: A Multi-Modal Spatio-Temporal Graph Attention Network for Accident Severity Prediction | Pritom Ray Nobin et al. | [2507.20451v1](http://arxiv.org/abs/2507.20451v1) | **NULL** |
+| **2025/07/27** | Length Representations in Large Language Models | Sangjun Moon et al. | [2507.20398v1](http://arxiv.org/abs/2507.20398v1) | **NULL** |
+| **2025/07/27** | ModalFormer: Multimodal Transformer for Low-Light Image Enhancement | Alexandru Brateanu et al. | [2507.20388v1](http://arxiv.org/abs/2507.20388v1) | **NULL** |
+| **2025/07/27** | WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks | Kiymet Kaya et al. | [2507.20373v1](http://arxiv.org/abs/2507.20373v1) | **NULL** |
+| **2025/07/27** | MIPS: a Multimodal Infinite Polymer Sequence Pre-training Framework for Polymer Property Prediction | Jiaxi Wang et al. | [2507.20326v1](http://arxiv.org/abs/2507.20326v1) | **NULL** |
+| **2025/07/27** | Multi-Attention Stacked Ensemble for Lung Cancer Detection in CT Scans | Uzzal Saha et al. | [2507.20221v1](http://arxiv.org/abs/2507.20221v1) | **NULL** |
+| **2025/07/27** | When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios | Kele Shao et al. | [2507.20198v2](http://arxiv.org/abs/2507.20198v2) | **NULL** |
+| **2025/07/27** | MoCTEFuse: Illumination-Gated Mixture of Chiral Transformer Experts for Multi-Level Infrared and Visible Image Fusion | Li Jinfu et al. | [2507.20180v1](http://arxiv.org/abs/2507.20180v1) | **NULL** |
+| **2025/07/27** | Towards Universal Modal Tracking with Online Dense Temporal Token Learning | Yaozong Zheng et al. | [2507.20177v1](http://arxiv.org/abs/2507.20177v1) | **NULL** |
+| **2025/07/27** | PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks | Clinton Ansun Mo et al. | [2507.20170v1](http://arxiv.org/abs/2507.20170v1) | **NULL** |
+| **2025/07/27** | Diffusion-based Symbolic Music Generation with Structured State Space Models | Shenghua Yuan et al. | [2507.20128v1](http://arxiv.org/abs/2507.20128v1) | **NULL** |
+| **2025/07/27** | Graded Transformers: A Symbolic-Geometric Approach to Structured Learning | Tony Shaska Sr | [2507.20108v1](http://arxiv.org/abs/2507.20108v1) | **NULL** |
+| **2025/07/27** | EcoTransformer: Attention without Multiplication | Xin Gao et al. | [2507.20096v1](http://arxiv.org/abs/2507.20096v1) | **NULL** |
+| **2025/07/26** | Improving Deep Learning-based Respiratory Sound Analysis with Frequency Selection and Attention Mechanism | Nouhaila Fraihi et al. | [2507.20052v1](http://arxiv.org/abs/2507.20052v1) | **NULL** |
+| **2025/07/26** | Efficient Vocal-Conditioned Music Generation via Soft Alignment Attention and Latent Diffusion | Hei Shing Cheung et al. | [2507.19991v1](http://arxiv.org/abs/2507.19991v1) | **NULL** |
+| **2025/07/26** | KLAAD: Refining Attention Mechanisms to Reduce Societal Bias in Generative Language Models | Seorin Kim et al. | [2507.19962v1](http://arxiv.org/abs/2507.19962v1) | **NULL** |
+| **2025/07/26** | MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation | Qing Xu et al. | [2507.19931v1](http://arxiv.org/abs/2507.19931v1) | **NULL** |
+| **2025/07/26** | SeeDiff: Off-the-Shelf Seeded Mask Generation from Diffusion Models | Joon Hyun Park et al. | [2507.19808v1](http://arxiv.org/abs/2507.19808v1) | **NULL** |
+| **2025/07/26** | DS-Det: Single-Query Paradigm and Attention Disentangled Learning for Flexible Object Detection | Guiping Cao et al. | [2507.19807v1](http://arxiv.org/abs/2507.19807v1) | **NULL** |
+| **2025/07/26** | HydraMamba: Multi-Head State Space Model for Global Point Cloud Learning | Kanglin Qu et al. | [2507.19778v1](http://arxiv.org/abs/2507.19778v1) | **NULL** |
+| **2025/07/25** | DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference | Jiawen Qi et al. | [2507.19608v1](http://arxiv.org/abs/2507.19608v1) | **NULL** |
+| **2025/07/25** | Efficient Attention Mechanisms for Large Language Models: A Survey | Yutao Sun et al. | [2507.19595v1](http://arxiv.org/abs/2507.19595v1) | **NULL** |
 
 ## 背景差分
 
