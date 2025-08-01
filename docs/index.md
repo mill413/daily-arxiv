@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/07/31 09:17:25
+> Updated on 2025/08/01 09:25:09
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/30** | PAF-Net: Phase-Aligned Frequency Decoupling Network for Multi-Process Manufacturing Quality Prediction | Yang Luo et al. | [2507.22840v1](http://arxiv.org/abs/2507.22840v1) | **NULL** |
+| **2025/07/30** | Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies | Hugo Garrido-Lestache et al. | [2507.22782v2](http://arxiv.org/abs/2507.22782v2) | **NULL** |
+| **2025/07/30** | UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation | Weijie Xi et al. | [2507.22653v2](http://arxiv.org/abs/2507.22653v2) | **NULL** |
+| **2025/07/30** | Adaptive Duration Model for Text Speech Alignment | Junjie Cao | [2507.22612v1](http://arxiv.org/abs/2507.22612v1) | **NULL** |
+| **2025/07/30** | Robust Adverse Weather Removal via Spectral-based Spatial Grouping | Yuhwan Jeong et al. | [2507.22498v2](http://arxiv.org/abs/2507.22498v2) | **NULL** |
+| **2025/07/30** | Efficient Spatial-Temporal Modeling for Real-Time Video Analysis: A Unified Framework for Action Recognition and Object Tracking | Shahla John | [2507.22421v1](http://arxiv.org/abs/2507.22421v1) | **NULL** |
+| **2025/07/30** | Whole-brain Transferable Representations from Large-Scale fMRI Data Improve Task-Evoked Brain Activity Decoding | Yueh-Po Peng et al. | [2507.22378v1](http://arxiv.org/abs/2507.22378v1) | **NULL** |
+| **2025/07/30** | SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection | Lei Yu et al. | [2507.22371v1](http://arxiv.org/abs/2507.22371v1) | **NULL** |
 | **2025/07/29** | EIFNet: Leveraging Event-Image Fusion for Robust Semantic Segmentation | Zhijiang Li et al. | [2507.21971v1](http://arxiv.org/abs/2507.21971v1) | **NULL** |
 | **2025/07/29** | SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention | Peiran Gu et al. | [2507.21922v1](http://arxiv.org/abs/2507.21922v1) | **NULL** |
 | **2025/07/29** | TriangleMix: A Lossless and Efficient Attention Pattern for Long Context Prefilling | Zhiyuan He et al. | [2507.21526v1](http://arxiv.org/abs/2507.21526v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2025/07/27** | Multi-Attention Stacked Ensemble for Lung Cancer Detection in CT Scans | Uzzal Saha et al. | [2507.20221v1](http://arxiv.org/abs/2507.20221v1) | **NULL** |
 | **2025/07/27** | When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios | Kele Shao et al. | [2507.20198v3](http://arxiv.org/abs/2507.20198v3) | **NULL** |
 | **2025/07/27** | MoCTEFuse: Illumination-Gated Mixture of Chiral Transformer Experts for Multi-Level Infrared and Visible Image Fusion | Li Jinfu et al. | [2507.20180v1](http://arxiv.org/abs/2507.20180v1) | **NULL** |
-| **2025/07/27** | Towards Universal Modal Tracking with Online Dense Temporal Token Learning | Yaozong Zheng et al. | [2507.20177v1](http://arxiv.org/abs/2507.20177v1) | **NULL** |
-| **2025/07/27** | PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks | Clinton Ansun Mo et al. | [2507.20170v1](http://arxiv.org/abs/2507.20170v1) | **NULL** |
-| **2025/07/27** | Diffusion-based Symbolic Music Generation with Structured State Space Models | Shenghua Yuan et al. | [2507.20128v1](http://arxiv.org/abs/2507.20128v1) | **NULL** |
-| **2025/07/27** | Graded Transformers: A Symbolic-Geometric Approach to Structured Learning | Tony Shaska Sr | [2507.20108v1](http://arxiv.org/abs/2507.20108v1) | **NULL** |
-| **2025/07/27** | EcoTransformer: Attention without Multiplication | Xin Gao et al. | [2507.20096v1](http://arxiv.org/abs/2507.20096v1) | **NULL** |
-| **2025/07/26** | Improving Deep Learning-based Respiratory Sound Analysis with Frequency Selection and Attention Mechanism | Nouhaila Fraihi et al. | [2507.20052v1](http://arxiv.org/abs/2507.20052v1) | **NULL** |
-| **2025/07/26** | Efficient Vocal-Conditioned Music Generation via Soft Alignment Attention and Latent Diffusion | Hei Shing Cheung et al. | [2507.19991v1](http://arxiv.org/abs/2507.19991v1) | **NULL** |
-| **2025/07/26** | KLAAD: Refining Attention Mechanisms to Reduce Societal Bias in Generative Language Models | Seorin Kim et al. | [2507.19962v1](http://arxiv.org/abs/2507.19962v1) | **NULL** |
 
 ## 背景差分
 
