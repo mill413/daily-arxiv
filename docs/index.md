@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/01 09:25:09
+> Updated on 2025/08/02 09:14:23
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/31** | Efficient Masked Attention Transformer for Few-Shot Classification and Segmentation | Dustin Carrión-Ojeda et al. | [2507.23642v1](http://arxiv.org/abs/2507.23642v1) | **NULL** |
+| **2025/07/31** | Deep Learning-based Prediction of Clinical Trial Enrollment with Uncertainty Estimates | Tien Huu Do et al. | [2507.23607v1](http://arxiv.org/abs/2507.23607v1) | **NULL** |
+| **2025/07/31** | DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation | Yuchen Zhou et al. | [2507.23599v1](http://arxiv.org/abs/2507.23599v1) | **NULL** |
+| **2025/07/31** | DiffLoRA: Differential Low-Rank Adapters for Large Language Models | Alexandre Misrahi et al. | [2507.23588v1](http://arxiv.org/abs/2507.23588v1) | **NULL** |
+| **2025/07/31** | VMatcher: State-Space Semi-Dense Local Feature Matching | Ali Youssef | [2507.23371v1](http://arxiv.org/abs/2507.23371v1) | **NULL** |
+| **2025/07/31** | PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving | Xuewei Tang et al. | [2507.23309v1](http://arxiv.org/abs/2507.23309v1) | **NULL** |
+| **2025/07/31** | BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks | Zhuoyin Dai et al. | [2507.23236v1](http://arxiv.org/abs/2507.23236v1) | **NULL** |
+| **2025/07/31** | YOLO-ROC: A High-Precision and Ultra-Lightweight Model for Real-Time Road Damage Detection | Zicheng Lin et al. | [2507.23225v1](http://arxiv.org/abs/2507.23225v1) | **NULL** |
+| **2025/07/30** | Context-aware Rotary Position Embedding | Ali Veisi et al. | [2507.23083v1](http://arxiv.org/abs/2507.23083v1) | **NULL** |
 | **2025/07/30** | PAF-Net: Phase-Aligned Frequency Decoupling Network for Multi-Process Manufacturing Quality Prediction | Yang Luo et al. | [2507.22840v1](http://arxiv.org/abs/2507.22840v1) | **NULL** |
 | **2025/07/30** | Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies | Hugo Garrido-Lestache et al. | [2507.22782v2](http://arxiv.org/abs/2507.22782v2) | **NULL** |
 | **2025/07/30** | UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation | Weijie Xi et al. | [2507.22653v2](http://arxiv.org/abs/2507.22653v2) | **NULL** |
 | **2025/07/30** | Adaptive Duration Model for Text Speech Alignment | Junjie Cao | [2507.22612v1](http://arxiv.org/abs/2507.22612v1) | **NULL** |
 | **2025/07/30** | Robust Adverse Weather Removal via Spectral-based Spatial Grouping | Yuhwan Jeong et al. | [2507.22498v2](http://arxiv.org/abs/2507.22498v2) | **NULL** |
 | **2025/07/30** | Efficient Spatial-Temporal Modeling for Real-Time Video Analysis: A Unified Framework for Action Recognition and Object Tracking | Shahla John | [2507.22421v1](http://arxiv.org/abs/2507.22421v1) | **NULL** |
+| **2025/07/30** | Multi-Hazard Early Warning Systems for Agriculture with Featural-Temporal Explanations | Boyuan Zheng et al. | [2507.22962v1](http://arxiv.org/abs/2507.22962v1) | **NULL** |
 | **2025/07/30** | Whole-brain Transferable Representations from Large-Scale fMRI Data Improve Task-Evoked Brain Activity Decoding | Yueh-Po Peng et al. | [2507.22378v1](http://arxiv.org/abs/2507.22378v1) | **NULL** |
 | **2025/07/30** | SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection | Lei Yu et al. | [2507.22371v1](http://arxiv.org/abs/2507.22371v1) | **NULL** |
 | **2025/07/29** | EIFNet: Leveraging Event-Image Fusion for Robust Semantic Segmentation | Zhijiang Li et al. | [2507.21971v1](http://arxiv.org/abs/2507.21971v1) | **NULL** |
@@ -73,21 +83,12 @@ layout: default
 | **2025/07/28** | A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games | Jonas Peche et al. | [2507.20670v1](http://arxiv.org/abs/2507.20670v1) | **NULL** |
 | **2025/07/28** | DAMS:Dual-Branch Adaptive Multiscale Spatiotemporal Framework for Video Anomaly Detection | Dezhi An et al. | [2507.20629v1](http://arxiv.org/abs/2507.20629v1) | **NULL** |
 | **2025/07/28** | Controllable Video-to-Music Generation with Multiple Time-Varying Conditions | Junxian Wu et al. | [2507.20627v1](http://arxiv.org/abs/2507.20627v1) | **NULL** |
-| **2025/07/28** | Predicting Chemically Accurate Adsorption Energy Using an Interpretable Deep Learning Model Pretrained by GGA Calculation Data | Zhihao Zhang et al. | [2507.20496v1](http://arxiv.org/abs/2507.20496v1) | **NULL** |
-| **2025/07/28** | Your Attention Matters: to Improve Model Robustness to Noise and Spurious Correlations | Camilo Tamayo-Rousseau et al. | [2507.20453v1](http://arxiv.org/abs/2507.20453v1) | **NULL** |
-| **2025/07/28** | STARN-GAT: A Multi-Modal Spatio-Temporal Graph Attention Network for Accident Severity Prediction | Pritom Ray Nobin et al. | [2507.20451v1](http://arxiv.org/abs/2507.20451v1) | **NULL** |
-| **2025/07/27** | Length Representations in Large Language Models | Sangjun Moon et al. | [2507.20398v1](http://arxiv.org/abs/2507.20398v1) | **NULL** |
-| **2025/07/27** | ModalFormer: Multimodal Transformer for Low-Light Image Enhancement | Alexandru Brateanu et al. | [2507.20388v1](http://arxiv.org/abs/2507.20388v1) | **NULL** |
-| **2025/07/27** | WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks | Kiymet Kaya et al. | [2507.20373v1](http://arxiv.org/abs/2507.20373v1) | **NULL** |
-| **2025/07/27** | MIPS: a Multimodal Infinite Polymer Sequence Pre-training Framework for Polymer Property Prediction | Jiaxi Wang et al. | [2507.20326v1](http://arxiv.org/abs/2507.20326v1) | **NULL** |
-| **2025/07/27** | Multi-Attention Stacked Ensemble for Lung Cancer Detection in CT Scans | Uzzal Saha et al. | [2507.20221v1](http://arxiv.org/abs/2507.20221v1) | **NULL** |
-| **2025/07/27** | When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios | Kele Shao et al. | [2507.20198v3](http://arxiv.org/abs/2507.20198v3) | **NULL** |
-| **2025/07/27** | MoCTEFuse: Illumination-Gated Mixture of Chiral Transformer Experts for Multi-Level Infrared and Visible Image Fusion | Li Jinfu et al. | [2507.20180v1](http://arxiv.org/abs/2507.20180v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/07/31** | Quantum-enhanced dark matter detection using Schrödinger cat states | Pan Zheng et al. | [2507.23538v1](http://arxiv.org/abs/2507.23538v1) | **NULL** |
 | **2025/07/18** | Deep Image Reconstruction for Background Subtraction in Heavy-Ion Collisions | Umar Sohail Qureshi et al. | [2507.14036v1](http://arxiv.org/abs/2507.14036v1) | **NULL** |
 | **2025/07/16** | Frequency-responsive RCS characteristics and scaling implications for ISAC development | Saúl Fenollosa et al. | [2507.12235v1](http://arxiv.org/abs/2507.12235v1) | **NULL** |
 | **2025/07/14** | Global sky background images for JWST/NIRISS Wide-Field Slitless Spectroscopy | Gaël Noirot | [2507.10650v1](http://arxiv.org/abs/2507.10650v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v3](http://arxiv.org/abs/2501.08214v3) | **NULL** |
 | **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
-| **2024/12/31** | Deeply Learned Robust Matrix Completion for Large-scale Low-rank Data Recovery | HanQin Cai et al. | [2501.00677v1](http://arxiv.org/abs/2501.00677v1) | **NULL** |
