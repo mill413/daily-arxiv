@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/04 09:22:53
+> Updated on 2025/08/05 09:19:18
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/01** | MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations | Qiyao Xue et al. | [2508.00760v1](http://arxiv.org/abs/2508.00760v1) | **NULL** |
+| **2025/08/01** | AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation | Le Wang et al. | [2508.00733v2](http://arxiv.org/abs/2508.00733v2) | **NULL** |
+| **2025/08/01** | Learning Network Dismantling without Handcrafted Inputs | Haozhe Tian et al. | [2508.00706v1](http://arxiv.org/abs/2508.00706v1) | **NULL** |
+| **2025/08/01** | Similarity-Based Self-Construct Graph Model for Predicting Patient Criticalness Using Graph Neural Networks and EHR Data | Mukesh Kumar Sahu et al. | [2508.00615v1](http://arxiv.org/abs/2508.00615v1) | **NULL** |
+| **2025/08/01** | EPANet: Efficient Path Aggregation Network for Underwater Fish Detection | Jinsong Yang et al. | [2508.00528v1](http://arxiv.org/abs/2508.00528v1) | **NULL** |
+| **2025/08/01** | LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer | Yuzhuo Chen et al. | [2508.00477v1](http://arxiv.org/abs/2508.00477v1) | **NULL** |
+| **2025/08/01** | SDMatte: Grafting Diffusion Models for Interactive Matting | Longfei Huang et al. | [2508.00443v1](http://arxiv.org/abs/2508.00443v1) | **NULL** |
+| **2025/08/01** | Invariant Graph Transformer for Out-of-Distribution Generalization | Tianyin Liao et al. | [2508.00304v1](http://arxiv.org/abs/2508.00304v1) | **NULL** |
 | **2025/07/31** | Efficient Masked Attention Transformer for Few-Shot Classification and Segmentation | Dustin Carrión-Ojeda et al. | [2507.23642v1](http://arxiv.org/abs/2507.23642v1) | **NULL** |
 | **2025/07/31** | Deep Learning-based Prediction of Clinical Trial Enrollment with Uncertainty Estimates | Tien Huu Do et al. | [2507.23607v1](http://arxiv.org/abs/2507.23607v1) | **NULL** |
 | **2025/07/31** | DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation | Yuchen Zhou et al. | [2507.23599v1](http://arxiv.org/abs/2507.23599v1) | **NULL** |
 | **2025/07/31** | DiffLoRA: Differential Low-Rank Adapters for Large Language Models | Alexandre Misrahi et al. | [2507.23588v1](http://arxiv.org/abs/2507.23588v1) | **NULL** |
 | **2025/07/31** | VMatcher: State-Space Semi-Dense Local Feature Matching | Ali Youssef | [2507.23371v1](http://arxiv.org/abs/2507.23371v1) | **NULL** |
-| **2025/07/31** | PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving | Xuewei Tang et al. | [2507.23309v1](http://arxiv.org/abs/2507.23309v1) | **NULL** |
+| **2025/07/31** | PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving | Xuewei Tang et al. | [2507.23309v2](http://arxiv.org/abs/2507.23309v2) | **NULL** |
 | **2025/07/31** | BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks | Zhuoyin Dai et al. | [2507.23236v1](http://arxiv.org/abs/2507.23236v1) | **NULL** |
 | **2025/07/31** | YOLO-ROC: A High-Precision and Ultra-Lightweight Model for Real-Time Road Damage Detection | Zicheng Lin et al. | [2507.23225v1](http://arxiv.org/abs/2507.23225v1) | **NULL** |
 | **2025/07/30** | Context-aware Rotary Position Embedding | Ali Veisi et al. | [2507.23083v1](http://arxiv.org/abs/2507.23083v1) | **NULL** |
@@ -75,19 +83,12 @@ layout: default
 | **2025/07/29** | SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention | Peiran Gu et al. | [2507.21922v1](http://arxiv.org/abs/2507.21922v1) | **NULL** |
 | **2025/07/29** | TriangleMix: A Lossless and Efficient Attention Pattern for Long Context Prefilling | Zhiyuan He et al. | [2507.21526v1](http://arxiv.org/abs/2507.21526v1) | **NULL** |
 | **2025/07/29** | LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments | Junhao Chen et al. | [2507.21517v1](http://arxiv.org/abs/2507.21517v1) | **NULL** |
-| **2025/07/28** | Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem | Xuan Wu et al. | [2507.21386v1](http://arxiv.org/abs/2507.21386v1) | **NULL** |
-| **2025/07/28** | A Deep Learning Automatic Speech Recognition Model for Shona Language | Leslie Wellington Sirora et al. | [2507.21331v1](http://arxiv.org/abs/2507.21331v1) | **NULL** |
-| **2025/07/28** | SmallThinker: A Family of Efficient Large Language Models Natively Trained for Local Deployment | Yixin Song et al. | [2507.20984v2](http://arxiv.org/abs/2507.20984v2) | **NULL** |
-| **2025/07/28** | \textit{FedABC}: Attention-Based Client Selection for Federated Learning with Long-Term View | Wenxuan Ye et al. | [2507.20871v1](http://arxiv.org/abs/2507.20871v1) | **NULL** |
-| **2025/07/28** | A Novel Post-Quantum Secure Digital Signature Scheme Based on Neural Network | Satish Kumar et al. | [2507.20676v1](http://arxiv.org/abs/2507.20676v1) | **NULL** |
-| **2025/07/28** | A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games | Jonas Peche et al. | [2507.20670v1](http://arxiv.org/abs/2507.20670v1) | **NULL** |
-| **2025/07/28** | DAMS:Dual-Branch Adaptive Multiscale Spatiotemporal Framework for Video Anomaly Detection | Dezhi An et al. | [2507.20629v1](http://arxiv.org/abs/2507.20629v1) | **NULL** |
-| **2025/07/28** | Controllable Video-to-Music Generation with Multiple Time-Varying Conditions | Junxian Wu et al. | [2507.20627v1](http://arxiv.org/abs/2507.20627v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/01** | Noise Reduction Method for Radio Astronomy Single Station Observation Based on Wavelet Transform and Mathematical Morphology | Ming-wei Qin et al. | [2508.00386v1](http://arxiv.org/abs/2508.00386v1) | **NULL** |
 | **2025/07/31** | Quantum-enhanced dark matter detection using Schrödinger cat states | Pan Zheng et al. | [2507.23538v1](http://arxiv.org/abs/2507.23538v1) | **NULL** |
 | **2025/07/18** | Deep Image Reconstruction for Background Subtraction in Heavy-Ion Collisions | Umar Sohail Qureshi et al. | [2507.14036v1](http://arxiv.org/abs/2507.14036v1) | **NULL** |
 | **2025/07/16** | Frequency-responsive RCS characteristics and scaling implications for ISAC development | Saúl Fenollosa et al. | [2507.12235v1](http://arxiv.org/abs/2507.12235v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
 | **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v3](http://arxiv.org/abs/2501.08214v3) | **NULL** |
-| **2025/01/06** | Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions | Zhong Yang et al. | [2501.03419v2](http://arxiv.org/abs/2501.03419v2) | **NULL** |
