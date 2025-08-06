@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/05 09:19:18
+> Updated on 2025/08/06 09:18:11
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/04** | Pointer: Linear-Complexity Long-Range Modeling without Pre-training | Zixi Li | [2508.02631v1](http://arxiv.org/abs/2508.02631v1) | **NULL** |
+| **2025/08/04** | Mitigating Attention Hacking in Preference-Based Reward Modeling via Interaction Distillation | Jianxiang Zang et al. | [2508.02618v1](http://arxiv.org/abs/2508.02618v1) | **NULL** |
+| **2025/08/04** | ReMoMask: Retrieval-Augmented Masked Motion Generation | Zhengdao Li et al. | [2508.02605v1](http://arxiv.org/abs/2508.02605v1) | **NULL** |
+| **2025/08/04** | Guess or Recall? Training CNNs to Classify and Localize Memorization in LLMs | Jérémie Dentan et al. | [2508.02573v1](http://arxiv.org/abs/2508.02573v1) | **NULL** |
+| **2025/08/04** | RL-U$^2$Net: A Dual-Branch UNet with Reinforcement Learning-Assisted Multimodal Feature Fusion for Accurate 3D Whole-Heart Segmentation | Jierui Qu et al. | [2508.02557v1](http://arxiv.org/abs/2508.02557v1) | **NULL** |
+| **2025/08/04** | What are you sinking? A geometric approach on attention sink | Valeria Ruscio et al. | [2508.02546v1](http://arxiv.org/abs/2508.02546v1) | **NULL** |
+| **2025/08/04** | QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots | Sheng Wu et al. | [2508.02512v1](http://arxiv.org/abs/2508.02512v1) | **NULL** |
+| **2025/08/04** | LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training | Sikui Zhang et al. | [2508.02308v2](http://arxiv.org/abs/2508.02308v2) | **NULL** |
+| **2025/08/04** | Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning | Wenbo Xu et al. | [2508.02179v1](http://arxiv.org/abs/2508.02179v1) | **NULL** |
+| **2025/08/04** | Trainable Dynamic Mask Sparse Attention | Jingze Shi et al. | [2508.02124v1](http://arxiv.org/abs/2508.02124v1) | **NULL** |
+| **2025/08/04** | Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation | Yuli Liu et al. | [2508.02050v1](http://arxiv.org/abs/2508.02050v1) | **NULL** |
+| **2025/08/04** | Conditional Diffusion Model with Anatomical-Dose Dual Constraints for End-to-End Multi-Tumor Dose Prediction | Hui Xie et al. | [2508.02043v1](http://arxiv.org/abs/2508.02043v1) | **NULL** |
+| **2025/08/04** | Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention | Kyungmin Jo et al. | [2508.02004v1](http://arxiv.org/abs/2508.02004v1) | **NULL** |
+| **2025/08/04** | Convolutions are Competitive with Transformers for Encrypted Traffic Classification with Pre-training | Chungang Lin et al. | [2508.02001v1](http://arxiv.org/abs/2508.02001v1) | **NULL** |
+| **2025/08/04** | Deeply Dual Supervised learning for melanoma recognition | Rujosh Polma et al. | [2508.01994v1](http://arxiv.org/abs/2508.01994v1) | **NULL** |
+| **2025/08/03** | Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation | Andrea Dosi et al. | [2508.01941v1](http://arxiv.org/abs/2508.01941v1) | **NULL** |
+| **2025/08/03** | Drift-aware Collaborative Assistance Mixture of Experts for Heterogeneous Multistream Learning | En Yu et al. | [2508.01598v1](http://arxiv.org/abs/2508.01598v1) | **NULL** |
+| **2025/08/02** | Lightweight Backbone Networks Only Require Adaptive Lightweight Self-Attention Mechanisms | Fengyun Li et al. | [2508.01385v1](http://arxiv.org/abs/2508.01385v1) | **NULL** |
+| **2025/08/02** | Graph-based Interaction Augmentation Network for Robust Multimodal Sentiment Analysis | Hu Zhangfeng et al. | [2508.01168v1](http://arxiv.org/abs/2508.01168v1) | **NULL** |
+| **2025/08/02** | Personalized Safety Alignment for Text-to-Image Diffusion Models | Yu Lei et al. | [2508.01151v1](http://arxiv.org/abs/2508.01151v1) | **NULL** |
+| **2025/08/01** | Connectivity Management in Satellite-Aided Vehicular Networks with Multi-Head Attention-Based State Estimation | Ibrahim Althamary et al. | [2508.01060v1](http://arxiv.org/abs/2508.01060v1) | **NULL** |
 | **2025/08/01** | MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations | Qiyao Xue et al. | [2508.00760v1](http://arxiv.org/abs/2508.00760v1) | **NULL** |
-| **2025/08/01** | AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation | Le Wang et al. | [2508.00733v2](http://arxiv.org/abs/2508.00733v2) | **NULL** |
+| **2025/08/01** | AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation | Le Wang et al. | [2508.00733v3](http://arxiv.org/abs/2508.00733v3) | **NULL** |
 | **2025/08/01** | Learning Network Dismantling without Handcrafted Inputs | Haozhe Tian et al. | [2508.00706v1](http://arxiv.org/abs/2508.00706v1) | **NULL** |
 | **2025/08/01** | Similarity-Based Self-Construct Graph Model for Predicting Patient Criticalness Using Graph Neural Networks and EHR Data | Mukesh Kumar Sahu et al. | [2508.00615v1](http://arxiv.org/abs/2508.00615v1) | **NULL** |
 | **2025/08/01** | EPANet: Efficient Path Aggregation Network for Underwater Fish Detection | Jinsong Yang et al. | [2508.00528v1](http://arxiv.org/abs/2508.00528v1) | **NULL** |
 | **2025/08/01** | LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer | Yuzhuo Chen et al. | [2508.00477v1](http://arxiv.org/abs/2508.00477v1) | **NULL** |
-| **2025/08/01** | SDMatte: Grafting Diffusion Models for Interactive Matting | Longfei Huang et al. | [2508.00443v1](http://arxiv.org/abs/2508.00443v1) | **NULL** |
+| **2025/08/01** | SDMatte: Grafting Diffusion Models for Interactive Matting | Longfei Huang et al. | [2508.00443v2](http://arxiv.org/abs/2508.00443v2) | **NULL** |
 | **2025/08/01** | Invariant Graph Transformer for Out-of-Distribution Generalization | Tianyin Liao et al. | [2508.00304v1](http://arxiv.org/abs/2508.00304v1) | **NULL** |
-| **2025/07/31** | Efficient Masked Attention Transformer for Few-Shot Classification and Segmentation | Dustin Carrión-Ojeda et al. | [2507.23642v1](http://arxiv.org/abs/2507.23642v1) | **NULL** |
-| **2025/07/31** | Deep Learning-based Prediction of Clinical Trial Enrollment with Uncertainty Estimates | Tien Huu Do et al. | [2507.23607v1](http://arxiv.org/abs/2507.23607v1) | **NULL** |
-| **2025/07/31** | DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation | Yuchen Zhou et al. | [2507.23599v1](http://arxiv.org/abs/2507.23599v1) | **NULL** |
-| **2025/07/31** | DiffLoRA: Differential Low-Rank Adapters for Large Language Models | Alexandre Misrahi et al. | [2507.23588v1](http://arxiv.org/abs/2507.23588v1) | **NULL** |
-| **2025/07/31** | VMatcher: State-Space Semi-Dense Local Feature Matching | Ali Youssef | [2507.23371v1](http://arxiv.org/abs/2507.23371v1) | **NULL** |
-| **2025/07/31** | PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving | Xuewei Tang et al. | [2507.23309v2](http://arxiv.org/abs/2507.23309v2) | **NULL** |
-| **2025/07/31** | BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks | Zhuoyin Dai et al. | [2507.23236v1](http://arxiv.org/abs/2507.23236v1) | **NULL** |
-| **2025/07/31** | YOLO-ROC: A High-Precision and Ultra-Lightweight Model for Real-Time Road Damage Detection | Zicheng Lin et al. | [2507.23225v1](http://arxiv.org/abs/2507.23225v1) | **NULL** |
-| **2025/07/30** | Context-aware Rotary Position Embedding | Ali Veisi et al. | [2507.23083v1](http://arxiv.org/abs/2507.23083v1) | **NULL** |
-| **2025/07/30** | PAF-Net: Phase-Aligned Frequency Decoupling Network for Multi-Process Manufacturing Quality Prediction | Yang Luo et al. | [2507.22840v1](http://arxiv.org/abs/2507.22840v1) | **NULL** |
-| **2025/07/30** | Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies | Hugo Garrido-Lestache et al. | [2507.22782v2](http://arxiv.org/abs/2507.22782v2) | **NULL** |
-| **2025/07/30** | UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation | Weijie Xi et al. | [2507.22653v2](http://arxiv.org/abs/2507.22653v2) | **NULL** |
-| **2025/07/30** | Adaptive Duration Model for Text Speech Alignment | Junjie Cao | [2507.22612v1](http://arxiv.org/abs/2507.22612v1) | **NULL** |
-| **2025/07/30** | Robust Adverse Weather Removal via Spectral-based Spatial Grouping | Yuhwan Jeong et al. | [2507.22498v2](http://arxiv.org/abs/2507.22498v2) | **NULL** |
-| **2025/07/30** | Efficient Spatial-Temporal Modeling for Real-Time Video Analysis: A Unified Framework for Action Recognition and Object Tracking | Shahla John | [2507.22421v1](http://arxiv.org/abs/2507.22421v1) | **NULL** |
-| **2025/07/30** | Multi-Hazard Early Warning Systems for Agriculture with Featural-Temporal Explanations | Boyuan Zheng et al. | [2507.22962v1](http://arxiv.org/abs/2507.22962v1) | **NULL** |
-| **2025/07/30** | Whole-brain Transferable Representations from Large-Scale fMRI Data Improve Task-Evoked Brain Activity Decoding | Yueh-Po Peng et al. | [2507.22378v1](http://arxiv.org/abs/2507.22378v1) | **NULL** |
-| **2025/07/30** | SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection | Lei Yu et al. | [2507.22371v1](http://arxiv.org/abs/2507.22371v1) | **NULL** |
-| **2025/07/29** | EIFNet: Leveraging Event-Image Fusion for Robust Semantic Segmentation | Zhijiang Li et al. | [2507.21971v1](http://arxiv.org/abs/2507.21971v1) | **NULL** |
-| **2025/07/29** | SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention | Peiran Gu et al. | [2507.21922v1](http://arxiv.org/abs/2507.21922v1) | **NULL** |
-| **2025/07/29** | TriangleMix: A Lossless and Efficient Attention Pattern for Long Context Prefilling | Zhiyuan He et al. | [2507.21526v1](http://arxiv.org/abs/2507.21526v1) | **NULL** |
-| **2025/07/29** | LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments | Junhao Chen et al. | [2507.21517v1](http://arxiv.org/abs/2507.21517v1) | **NULL** |
+| **2025/07/31** | Optimizing Vision-Language Consistency via Cross-Layer Regional Attention Alignment | Yifan Wang et al. | [2508.00945v1](http://arxiv.org/abs/2508.00945v1) | **NULL** |
 
 ## 背景差分
 
