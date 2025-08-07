@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/06 09:18:11
+> Updated on 2025/08/07 09:18:29
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/05** | AttZoom: Attention Zoom for Better Visual Features | Daniel DeAlcala et al. | [2508.03625v1](http://arxiv.org/abs/2508.03625v1) | **NULL** |
+| **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
+| **2025/08/05** | VideoGuard: Protecting Video Content from Unauthorized Editing | Junjie Cao et al. | [2508.03480v1](http://arxiv.org/abs/2508.03480v1) | **NULL** |
+| **2025/08/05** | IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models | Jiabing Yang et al. | [2508.03469v1](http://arxiv.org/abs/2508.03469v1) | **NULL** |
+| **2025/08/05** | LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing | Liangyang Ouyang et al. | [2508.03144v1](http://arxiv.org/abs/2508.03144v1) | **NULL** |
+| **2025/08/05** | Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning | Tianjiao Jiang et al. | [2508.03102v1](http://arxiv.org/abs/2508.03102v1) | **NULL** |
+| **2025/08/05** | MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention | Qi Xie et al. | [2508.03034v1](http://arxiv.org/abs/2508.03034v1) | **NULL** |
+| **2025/08/05** | Adversarial Attention Perturbations for Large Object Detection Transformers | Zachary Yahn et al. | [2508.02987v1](http://arxiv.org/abs/2508.02987v1) | **NULL** |
+| **2025/08/04** | PyCAT4: A Hierarchical Vision Transformer-based Framework for 3D Human Pose Estimation | Zongyou Yang et al. | [2508.02806v1](http://arxiv.org/abs/2508.02806v1) | **NULL** |
 | **2025/08/04** | Pointer: Linear-Complexity Long-Range Modeling without Pre-training | Zixi Li | [2508.02631v1](http://arxiv.org/abs/2508.02631v1) | **NULL** |
 | **2025/08/04** | Mitigating Attention Hacking in Preference-Based Reward Modeling via Interaction Distillation | Jianxiang Zang et al. | [2508.02618v1](http://arxiv.org/abs/2508.02618v1) | **NULL** |
 | **2025/08/04** | ReMoMask: Retrieval-Augmented Masked Motion Generation | Zhengdao Li et al. | [2508.02605v1](http://arxiv.org/abs/2508.02605v1) | **NULL** |
@@ -70,19 +79,10 @@ layout: default
 | **2025/08/04** | Deeply Dual Supervised learning for melanoma recognition | Rujosh Polma et al. | [2508.01994v1](http://arxiv.org/abs/2508.01994v1) | **NULL** |
 | **2025/08/03** | Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation | Andrea Dosi et al. | [2508.01941v1](http://arxiv.org/abs/2508.01941v1) | **NULL** |
 | **2025/08/03** | Drift-aware Collaborative Assistance Mixture of Experts for Heterogeneous Multistream Learning | En Yu et al. | [2508.01598v1](http://arxiv.org/abs/2508.01598v1) | **NULL** |
+| **2025/08/02** | SpectrumFM: A New Paradigm for Spectrum Cognition | Chunyu Liu et al. | [2508.02742v1](http://arxiv.org/abs/2508.02742v1) | **NULL** |
 | **2025/08/02** | Lightweight Backbone Networks Only Require Adaptive Lightweight Self-Attention Mechanisms | Fengyun Li et al. | [2508.01385v1](http://arxiv.org/abs/2508.01385v1) | **NULL** |
 | **2025/08/02** | Graph-based Interaction Augmentation Network for Robust Multimodal Sentiment Analysis | Hu Zhangfeng et al. | [2508.01168v1](http://arxiv.org/abs/2508.01168v1) | **NULL** |
 | **2025/08/02** | Personalized Safety Alignment for Text-to-Image Diffusion Models | Yu Lei et al. | [2508.01151v1](http://arxiv.org/abs/2508.01151v1) | **NULL** |
-| **2025/08/01** | Connectivity Management in Satellite-Aided Vehicular Networks with Multi-Head Attention-Based State Estimation | Ibrahim Althamary et al. | [2508.01060v1](http://arxiv.org/abs/2508.01060v1) | **NULL** |
-| **2025/08/01** | MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations | Qiyao Xue et al. | [2508.00760v1](http://arxiv.org/abs/2508.00760v1) | **NULL** |
-| **2025/08/01** | AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation | Le Wang et al. | [2508.00733v3](http://arxiv.org/abs/2508.00733v3) | **NULL** |
-| **2025/08/01** | Learning Network Dismantling without Handcrafted Inputs | Haozhe Tian et al. | [2508.00706v1](http://arxiv.org/abs/2508.00706v1) | **NULL** |
-| **2025/08/01** | Similarity-Based Self-Construct Graph Model for Predicting Patient Criticalness Using Graph Neural Networks and EHR Data | Mukesh Kumar Sahu et al. | [2508.00615v1](http://arxiv.org/abs/2508.00615v1) | **NULL** |
-| **2025/08/01** | EPANet: Efficient Path Aggregation Network for Underwater Fish Detection | Jinsong Yang et al. | [2508.00528v1](http://arxiv.org/abs/2508.00528v1) | **NULL** |
-| **2025/08/01** | LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer | Yuzhuo Chen et al. | [2508.00477v1](http://arxiv.org/abs/2508.00477v1) | **NULL** |
-| **2025/08/01** | SDMatte: Grafting Diffusion Models for Interactive Matting | Longfei Huang et al. | [2508.00443v2](http://arxiv.org/abs/2508.00443v2) | **NULL** |
-| **2025/08/01** | Invariant Graph Transformer for Out-of-Distribution Generalization | Tianyin Liao et al. | [2508.00304v1](http://arxiv.org/abs/2508.00304v1) | **NULL** |
-| **2025/07/31** | Optimizing Vision-Language Consistency via Cross-Layer Regional Attention Alignment | Yifan Wang et al. | [2508.00945v1](http://arxiv.org/abs/2508.00945v1) | **NULL** |
 
 ## 背景差分
 
