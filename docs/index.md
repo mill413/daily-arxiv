@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/07 09:18:29
+> Updated on 2025/08/08 09:18:06
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/06** | Small transformer architectures for task switching | Claudius Gros | [2508.04461v1](http://arxiv.org/abs/2508.04461v1) | **NULL** |
+| **2025/08/06** | Benchmarking Foundation Models for Mitotic Figure Classification | Jonas Ammeling et al. | [2508.04441v1](http://arxiv.org/abs/2508.04441v1) | **NULL** |
+| **2025/08/06** | Towards Globally Predictable k-Space Interpolation: A White-box Transformer Approach | Chen Luo et al. | [2508.04051v1](http://arxiv.org/abs/2508.04051v1) | **NULL** |
+| **2025/08/05** | Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes | Sanghun Jung et al. | [2508.03890v1](http://arxiv.org/abs/2508.03890v1) | **NULL** |
 | **2025/08/05** | AttZoom: Attention Zoom for Better Visual Features | Daniel DeAlcala et al. | [2508.03625v1](http://arxiv.org/abs/2508.03625v1) | **NULL** |
 | **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
 | **2025/08/05** | VideoGuard: Protecting Video Content from Unauthorized Editing | Junjie Cao et al. | [2508.03480v1](http://arxiv.org/abs/2508.03480v1) | **NULL** |
@@ -70,6 +74,7 @@ layout: default
 | **2025/08/04** | What are you sinking? A geometric approach on attention sink | Valeria Ruscio et al. | [2508.02546v1](http://arxiv.org/abs/2508.02546v1) | **NULL** |
 | **2025/08/04** | QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots | Sheng Wu et al. | [2508.02512v1](http://arxiv.org/abs/2508.02512v1) | **NULL** |
 | **2025/08/04** | LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training | Sikui Zhang et al. | [2508.02308v2](http://arxiv.org/abs/2508.02308v2) | **NULL** |
+| **2025/08/04** | FUTransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation | Akwasi Asare et al. | [2508.03758v1](http://arxiv.org/abs/2508.03758v1) | **NULL** |
 | **2025/08/04** | Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning | Wenbo Xu et al. | [2508.02179v1](http://arxiv.org/abs/2508.02179v1) | **NULL** |
 | **2025/08/04** | Trainable Dynamic Mask Sparse Attention | Jingze Shi et al. | [2508.02124v1](http://arxiv.org/abs/2508.02124v1) | **NULL** |
 | **2025/08/04** | Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation | Yuli Liu et al. | [2508.02050v1](http://arxiv.org/abs/2508.02050v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/08/04** | Convolutions are Competitive with Transformers for Encrypted Traffic Classification with Pre-training | Chungang Lin et al. | [2508.02001v1](http://arxiv.org/abs/2508.02001v1) | **NULL** |
 | **2025/08/04** | Deeply Dual Supervised learning for melanoma recognition | Rujosh Polma et al. | [2508.01994v1](http://arxiv.org/abs/2508.01994v1) | **NULL** |
 | **2025/08/03** | Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation | Andrea Dosi et al. | [2508.01941v1](http://arxiv.org/abs/2508.01941v1) | **NULL** |
-| **2025/08/03** | Drift-aware Collaborative Assistance Mixture of Experts for Heterogeneous Multistream Learning | En Yu et al. | [2508.01598v1](http://arxiv.org/abs/2508.01598v1) | **NULL** |
-| **2025/08/02** | SpectrumFM: A New Paradigm for Spectrum Cognition | Chunyu Liu et al. | [2508.02742v1](http://arxiv.org/abs/2508.02742v1) | **NULL** |
-| **2025/08/02** | Lightweight Backbone Networks Only Require Adaptive Lightweight Self-Attention Mechanisms | Fengyun Li et al. | [2508.01385v1](http://arxiv.org/abs/2508.01385v1) | **NULL** |
-| **2025/08/02** | Graph-based Interaction Augmentation Network for Robust Multimodal Sentiment Analysis | Hu Zhangfeng et al. | [2508.01168v1](http://arxiv.org/abs/2508.01168v1) | **NULL** |
-| **2025/08/02** | Personalized Safety Alignment for Text-to-Image Diffusion Models | Yu Lei et al. | [2508.01151v1](http://arxiv.org/abs/2508.01151v1) | **NULL** |
 
 ## 背景差分
 
