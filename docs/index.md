@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/08 09:18:06
+> Updated on 2025/08/09 09:11:54
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/07** | Discrepancy-Aware Contrastive Adaptation in Medical Time Series Analysis | Yifan Wang et al. | [2508.05572v1](http://arxiv.org/abs/2508.05572v1) | **NULL** |
+| **2025/08/07** | Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis | Mingxi Fu et al. | [2508.05382v1](http://arxiv.org/abs/2508.05382v1) | **NULL** |
+| **2025/08/07** | FDC-Net: Rethinking the association between EEG artifact removal and multi-dimensional affective computing | Wenjia Dong et al. | [2508.05231v1](http://arxiv.org/abs/2508.05231v1) | **NULL** |
+| **2025/08/07** | Advanced Hybrid Transformer LSTM Technique with Attention and TS Mixer for Drilling Rate of Penetration Prediction | Saddam Hussain Khan | [2508.05210v1](http://arxiv.org/abs/2508.05210v1) | **NULL** |
+| **2025/08/07** | RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer | Fangyu Du et al. | [2508.05115v1](http://arxiv.org/abs/2508.05115v1) | **NULL** |
+| **2025/08/07** | AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models | Yuxiang Xiao et al. | [2508.05084v1](http://arxiv.org/abs/2508.05084v1) | **NULL** |
+| **2025/08/07** | Disentangling Bias by Modeling Intra- and Inter-modal Causal Attention for Multimodal Sentiment Analysis | Menghua Jiang et al. | [2508.04999v1](http://arxiv.org/abs/2508.04999v1) | **NULL** |
+| **2025/08/06** | Taxonomy of Faults in Attention-Based Neural Networks | Sigma Jahan et al. | [2508.04925v1](http://arxiv.org/abs/2508.04925v1) | **NULL** |
+| **2025/08/06** | Keyword Spotting with Hyper-Matched Filters for Small Footprint Devices | Yael Segal-Feldman et al. | [2508.04857v1](http://arxiv.org/abs/2508.04857v1) | **NULL** |
 | **2025/08/06** | Small transformer architectures for task switching | Claudius Gros | [2508.04461v1](http://arxiv.org/abs/2508.04461v1) | **NULL** |
 | **2025/08/06** | Benchmarking Foundation Models for Mitotic Figure Classification | Jonas Ammeling et al. | [2508.04441v1](http://arxiv.org/abs/2508.04441v1) | **NULL** |
+| **2025/08/06** | PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting | Chanjuan Liu et al. | [2508.04750v1](http://arxiv.org/abs/2508.04750v1) | **NULL** |
 | **2025/08/06** | Towards Globally Predictable k-Space Interpolation: A White-box Transformer Approach | Chen Luo et al. | [2508.04051v1](http://arxiv.org/abs/2508.04051v1) | **NULL** |
+| **2025/08/05** | Super-Resolution of Sentinel-2 Images Using a Geometry-Guided Back-Projection Network with Self-Attention | Ivan Pereira-Sánchez et al. | [2508.04729v1](http://arxiv.org/abs/2508.04729v1) | **NULL** |
 | **2025/08/05** | Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes | Sanghun Jung et al. | [2508.03890v1](http://arxiv.org/abs/2508.03890v1) | **NULL** |
 | **2025/08/05** | AttZoom: Attention Zoom for Better Visual Features | Daniel DeAlcala et al. | [2508.03625v1](http://arxiv.org/abs/2508.03625v1) | **NULL** |
 | **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/08/04** | Guess or Recall? Training CNNs to Classify and Localize Memorization in LLMs | Jérémie Dentan et al. | [2508.02573v1](http://arxiv.org/abs/2508.02573v1) | **NULL** |
 | **2025/08/04** | RL-U$^2$Net: A Dual-Branch UNet with Reinforcement Learning-Assisted Multimodal Feature Fusion for Accurate 3D Whole-Heart Segmentation | Jierui Qu et al. | [2508.02557v1](http://arxiv.org/abs/2508.02557v1) | **NULL** |
 | **2025/08/04** | What are you sinking? A geometric approach on attention sink | Valeria Ruscio et al. | [2508.02546v1](http://arxiv.org/abs/2508.02546v1) | **NULL** |
-| **2025/08/04** | QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots | Sheng Wu et al. | [2508.02512v1](http://arxiv.org/abs/2508.02512v1) | **NULL** |
-| **2025/08/04** | LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training | Sikui Zhang et al. | [2508.02308v2](http://arxiv.org/abs/2508.02308v2) | **NULL** |
-| **2025/08/04** | FUTransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation | Akwasi Asare et al. | [2508.03758v1](http://arxiv.org/abs/2508.03758v1) | **NULL** |
-| **2025/08/04** | Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning | Wenbo Xu et al. | [2508.02179v1](http://arxiv.org/abs/2508.02179v1) | **NULL** |
-| **2025/08/04** | Trainable Dynamic Mask Sparse Attention | Jingze Shi et al. | [2508.02124v1](http://arxiv.org/abs/2508.02124v1) | **NULL** |
-| **2025/08/04** | Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation | Yuli Liu et al. | [2508.02050v1](http://arxiv.org/abs/2508.02050v1) | **NULL** |
-| **2025/08/04** | Conditional Diffusion Model with Anatomical-Dose Dual Constraints for End-to-End Multi-Tumor Dose Prediction | Hui Xie et al. | [2508.02043v1](http://arxiv.org/abs/2508.02043v1) | **NULL** |
-| **2025/08/04** | Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention | Kyungmin Jo et al. | [2508.02004v1](http://arxiv.org/abs/2508.02004v1) | **NULL** |
-| **2025/08/04** | Convolutions are Competitive with Transformers for Encrypted Traffic Classification with Pre-training | Chungang Lin et al. | [2508.02001v1](http://arxiv.org/abs/2508.02001v1) | **NULL** |
-| **2025/08/04** | Deeply Dual Supervised learning for melanoma recognition | Rujosh Polma et al. | [2508.01994v1](http://arxiv.org/abs/2508.01994v1) | **NULL** |
-| **2025/08/03** | Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation | Andrea Dosi et al. | [2508.01941v1](http://arxiv.org/abs/2508.01941v1) | **NULL** |
 
 ## 背景差分
 
