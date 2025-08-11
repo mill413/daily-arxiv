@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/10 09:22:15
+> Updated on 2025/08/11 09:18:51
 
 <summary>Table of Contents</summary>
 
@@ -34,7 +34,7 @@ layout: default
 | **2025/05/27** | Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing | Dehao Wang et al. | [2505.21049v1](http://arxiv.org/abs/2505.21049v1) | **NULL** |
 | **2025/05/22** | MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection | Yichen Li et al. | [2505.16442v1](http://arxiv.org/abs/2505.16442v1) | **NULL** |
 | **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v2](http://arxiv.org/abs/2505.10016v2) | **NULL** |
-| **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v1](http://arxiv.org/abs/2505.05741v1) | **NULL** |
+| **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v2](http://arxiv.org/abs/2505.05741v2) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
@@ -67,7 +67,7 @@ layout: default
 | **2025/08/06** | PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting | Chanjuan Liu et al. | [2508.04750v1](http://arxiv.org/abs/2508.04750v1) | **NULL** |
 | **2025/08/06** | Towards Globally Predictable k-Space Interpolation: A White-box Transformer Approach | Chen Luo et al. | [2508.04051v1](http://arxiv.org/abs/2508.04051v1) | **NULL** |
 | **2025/08/05** | Super-Resolution of Sentinel-2 Images Using a Geometry-Guided Back-Projection Network with Self-Attention | Ivan Pereira-Sánchez et al. | [2508.04729v1](http://arxiv.org/abs/2508.04729v1) | **NULL** |
-| **2025/08/05** | Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes | Sanghun Jung et al. | [2508.03890v1](http://arxiv.org/abs/2508.03890v1) | **NULL** |
+| **2025/08/05** | Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes | Sanghun Jung et al. | [2508.03890v2](http://arxiv.org/abs/2508.03890v2) | **NULL** |
 | **2025/08/05** | AttZoom: Attention Zoom for Better Visual Features | Daniel DeAlcala et al. | [2508.03625v1](http://arxiv.org/abs/2508.03625v1) | **NULL** |
 | **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
 | **2025/08/05** | VideoGuard: Protecting Video Content from Unauthorized Editing | Junjie Cao et al. | [2508.03480v1](http://arxiv.org/abs/2508.03480v1) | **NULL** |
