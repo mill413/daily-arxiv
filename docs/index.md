@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/11 09:18:51
+> Updated on 2025/08/12 09:11:16
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/08** | WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface Temperature Estimation via Spatio-Temporal Fusion | Sofiane Bouaziz et al. | [2508.06485v1](http://arxiv.org/abs/2508.06485v1) | **NULL** |
+| **2025/08/08** | MotionSwap | Om Patil et al. | [2508.06430v1](http://arxiv.org/abs/2508.06430v1) | **NULL** |
+| **2025/08/08** | Automatic Semantic Alignment of Flow Pattern Representations for Exploration with Large Language Models | Weihan Zhang et al. | [2508.06300v1](http://arxiv.org/abs/2508.06300v1) | **NULL** |
+| **2025/08/08** | An Interpretable Multi-Plane Fusion Framework With Kolmogorov-Arnold Network Guided Attention Enhancement for Alzheimer's Disease Diagnosis | Xiaoxiao Yang et al. | [2508.06157v1](http://arxiv.org/abs/2508.06157v1) | **NULL** |
+| **2025/08/08** | Mask & Match: Learning to Recognize Handwritten Math with Self-Supervised Attention | Shree Mitra et al. | [2508.06107v1](http://arxiv.org/abs/2508.06107v1) | **NULL** |
+| **2025/08/08** | Adaptive Heterogeneous Graph Neural Networks: Bridging Heterophily and Heterogeneity | Qin Chen et al. | [2508.06034v1](http://arxiv.org/abs/2508.06034v1) | **NULL** |
+| **2025/08/08** | Crisp Attention: Regularizing Transformers via Structured Sparsity | Sagar Gandhi et al. | [2508.06016v1](http://arxiv.org/abs/2508.06016v1) | **NULL** |
+| **2025/08/08** | ECMF: Enhanced Cross-Modal Fusion for Multimodal Emotion Recognition in MER-SEMI Challenge | Juewen Hu et al. | [2508.05991v1](http://arxiv.org/abs/2508.05991v1) | **NULL** |
+| **2025/08/08** | DAFMSVC: One-Shot Singing Voice Conversion with Dual Attention Mechanism and Flow Matching | Wei Chen et al. | [2508.05978v1](http://arxiv.org/abs/2508.05978v1) | **NULL** |
+| **2025/08/07** | Temporal Cluster Assignment for Efficient Real-Time Video Segmentation | Ka-Wai Yung et al. | [2508.05851v1](http://arxiv.org/abs/2508.05851v1) | **NULL** |
+| **2025/08/07** | An Effective Approach for Node Classification in Textual Graphs | Rituparna Datta et al. | [2508.05836v1](http://arxiv.org/abs/2508.05836v1) | **NULL** |
 | **2025/08/07** | Discrepancy-Aware Contrastive Adaptation in Medical Time Series Analysis | Yifan Wang et al. | [2508.05572v1](http://arxiv.org/abs/2508.05572v1) | **NULL** |
 | **2025/08/07** | Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis | Mingxi Fu et al. | [2508.05382v1](http://arxiv.org/abs/2508.05382v1) | **NULL** |
 | **2025/08/07** | FDC-Net: Rethinking the association between EEG artifact removal and multi-dimensional affective computing | Wenjia Dong et al. | [2508.05231v1](http://arxiv.org/abs/2508.05231v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
 | **2025/08/05** | VideoGuard: Protecting Video Content from Unauthorized Editing | Junjie Cao et al. | [2508.03480v1](http://arxiv.org/abs/2508.03480v1) | **NULL** |
 | **2025/08/05** | IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models | Jiabing Yang et al. | [2508.03469v1](http://arxiv.org/abs/2508.03469v1) | **NULL** |
-| **2025/08/05** | LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing | Liangyang Ouyang et al. | [2508.03144v1](http://arxiv.org/abs/2508.03144v1) | **NULL** |
-| **2025/08/05** | Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning | Tianjiao Jiang et al. | [2508.03102v1](http://arxiv.org/abs/2508.03102v1) | **NULL** |
-| **2025/08/05** | MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention | Qi Xie et al. | [2508.03034v1](http://arxiv.org/abs/2508.03034v1) | **NULL** |
-| **2025/08/05** | Adversarial Attention Perturbations for Large Object Detection Transformers | Zachary Yahn et al. | [2508.02987v1](http://arxiv.org/abs/2508.02987v1) | **NULL** |
-| **2025/08/04** | PyCAT4: A Hierarchical Vision Transformer-based Framework for 3D Human Pose Estimation | Zongyou Yang et al. | [2508.02806v1](http://arxiv.org/abs/2508.02806v1) | **NULL** |
-| **2025/08/04** | Pointer: Linear-Complexity Long-Range Modeling without Pre-training | Zixi Li | [2508.02631v1](http://arxiv.org/abs/2508.02631v1) | **NULL** |
-| **2025/08/04** | Mitigating Attention Hacking in Preference-Based Reward Modeling via Interaction Distillation | Jianxiang Zang et al. | [2508.02618v1](http://arxiv.org/abs/2508.02618v1) | **NULL** |
-| **2025/08/04** | ReMoMask: Retrieval-Augmented Masked Motion Generation | Zhengdao Li et al. | [2508.02605v1](http://arxiv.org/abs/2508.02605v1) | **NULL** |
-| **2025/08/04** | Guess or Recall? Training CNNs to Classify and Localize Memorization in LLMs | Jérémie Dentan et al. | [2508.02573v1](http://arxiv.org/abs/2508.02573v1) | **NULL** |
-| **2025/08/04** | RL-U$^2$Net: A Dual-Branch UNet with Reinforcement Learning-Assisted Multimodal Feature Fusion for Accurate 3D Whole-Heart Segmentation | Jierui Qu et al. | [2508.02557v1](http://arxiv.org/abs/2508.02557v1) | **NULL** |
-| **2025/08/04** | What are you sinking? A geometric approach on attention sink | Valeria Ruscio et al. | [2508.02546v1](http://arxiv.org/abs/2508.02546v1) | **NULL** |
 
 ## 背景差分
 
