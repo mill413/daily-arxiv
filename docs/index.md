@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/12 09:11:16
+> Updated on 2025/08/13 09:12:35
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/11** | THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening | Hongkun Jin et al. | [2508.08183v1](http://arxiv.org/abs/2508.08183v1) | **NULL** |
+| **2025/08/11** | CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data | Chongke Bi et al. | [2508.08173v1](http://arxiv.org/abs/2508.08173v1) | **NULL** |
+| **2025/08/11** | Advancing Knowledge Tracing by Exploring Follow-up Performance Trends | Hengyu Liu et al. | [2508.08019v1](http://arxiv.org/abs/2508.08019v1) | **NULL** |
+| **2025/08/11** | A Physics-informed Deep Operator for Real-Time Freeway Traffic State Estimation | Hongxin Yu et al. | [2508.08002v1](http://arxiv.org/abs/2508.08002v1) | **NULL** |
+| **2025/08/11** | Learning Satellite Attitude Dynamics with Physics-Informed Normalising Flow | Carlo Cena et al. | [2508.07841v1](http://arxiv.org/abs/2508.07841v1) | **NULL** |
+| **2025/08/11** | DiTVR: Zero-Shot Diffusion Transformer for Video Restoration | Sicheng Gao et al. | [2508.07811v1](http://arxiv.org/abs/2508.07811v1) | **NULL** |
+| **2025/08/11** | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning | Runze Wang et al. | [2508.07788v1](http://arxiv.org/abs/2508.07788v1) | **NULL** |
+| **2025/08/11** | Voice Pathology Detection Using Phonation | Sri Raksha Siva et al. | [2508.07587v1](http://arxiv.org/abs/2508.07587v1) | **NULL** |
+| **2025/08/11** | Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing | Joonghyuk Shin et al. | [2508.07519v1](http://arxiv.org/abs/2508.07519v1) | **NULL** |
+| **2025/08/10** | Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers | Xin Ma et al. | [2508.07246v1](http://arxiv.org/abs/2508.07246v1) | **NULL** |
+| **2025/08/10** | Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model | Chaoqun Cui et al. | [2508.07209v1](http://arxiv.org/abs/2508.07209v1) | **NULL** |
+| **2025/08/10** | DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention | Kabir Khan et al. | [2508.07185v1](http://arxiv.org/abs/2508.07185v1) | **NULL** |
+| **2025/08/09** | Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning | Lijie Yang et al. | [2508.07101v1](http://arxiv.org/abs/2508.07101v1) | **NULL** |
+| **2025/08/09** | Structure-Preserving Digital Twins via Conditional Neural Whitney Forms | Brooks Kinch et al. | [2508.06981v1](http://arxiv.org/abs/2508.06981v1) | **NULL** |
+| **2025/08/09** | Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction | Hiba Najjar et al. | [2508.06939v1](http://arxiv.org/abs/2508.06939v1) | **NULL** |
+| **2025/08/08** | Early Detection of Pancreatic Cancer Using Multimodal Learning on Electronic Health Record | Mosbah Aouad et al. | [2508.06627v2](http://arxiv.org/abs/2508.06627v2) | **NULL** |
 | **2025/08/08** | WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface Temperature Estimation via Spatio-Temporal Fusion | Sofiane Bouaziz et al. | [2508.06485v1](http://arxiv.org/abs/2508.06485v1) | **NULL** |
 | **2025/08/08** | MotionSwap | Om Patil et al. | [2508.06430v1](http://arxiv.org/abs/2508.06430v1) | **NULL** |
 | **2025/08/08** | Automatic Semantic Alignment of Flow Pattern Representations for Exploration with Large Language Models | Weihan Zhang et al. | [2508.06300v1](http://arxiv.org/abs/2508.06300v1) | **NULL** |
@@ -66,23 +82,7 @@ layout: default
 | **2025/08/07** | An Effective Approach for Node Classification in Textual Graphs | Rituparna Datta et al. | [2508.05836v1](http://arxiv.org/abs/2508.05836v1) | **NULL** |
 | **2025/08/07** | Discrepancy-Aware Contrastive Adaptation in Medical Time Series Analysis | Yifan Wang et al. | [2508.05572v1](http://arxiv.org/abs/2508.05572v1) | **NULL** |
 | **2025/08/07** | Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis | Mingxi Fu et al. | [2508.05382v1](http://arxiv.org/abs/2508.05382v1) | **NULL** |
-| **2025/08/07** | FDC-Net: Rethinking the association between EEG artifact removal and multi-dimensional affective computing | Wenjia Dong et al. | [2508.05231v1](http://arxiv.org/abs/2508.05231v1) | **NULL** |
-| **2025/08/07** | Advanced Hybrid Transformer LSTM Technique with Attention and TS Mixer for Drilling Rate of Penetration Prediction | Saddam Hussain Khan | [2508.05210v1](http://arxiv.org/abs/2508.05210v1) | **NULL** |
-| **2025/08/07** | RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer | Fangyu Du et al. | [2508.05115v1](http://arxiv.org/abs/2508.05115v1) | **NULL** |
-| **2025/08/07** | AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models | Yuxiang Xiao et al. | [2508.05084v1](http://arxiv.org/abs/2508.05084v1) | **NULL** |
-| **2025/08/07** | Disentangling Bias by Modeling Intra- and Inter-modal Causal Attention for Multimodal Sentiment Analysis | Menghua Jiang et al. | [2508.04999v1](http://arxiv.org/abs/2508.04999v1) | **NULL** |
-| **2025/08/06** | Taxonomy of Faults in Attention-Based Neural Networks | Sigma Jahan et al. | [2508.04925v1](http://arxiv.org/abs/2508.04925v1) | **NULL** |
-| **2025/08/06** | Keyword Spotting with Hyper-Matched Filters for Small Footprint Devices | Yael Segal-Feldman et al. | [2508.04857v1](http://arxiv.org/abs/2508.04857v1) | **NULL** |
-| **2025/08/06** | Small transformer architectures for task switching | Claudius Gros | [2508.04461v1](http://arxiv.org/abs/2508.04461v1) | **NULL** |
-| **2025/08/06** | Benchmarking Foundation Models for Mitotic Figure Classification | Jonas Ammeling et al. | [2508.04441v1](http://arxiv.org/abs/2508.04441v1) | **NULL** |
-| **2025/08/06** | PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting | Chanjuan Liu et al. | [2508.04750v1](http://arxiv.org/abs/2508.04750v1) | **NULL** |
-| **2025/08/06** | Towards Globally Predictable k-Space Interpolation: A White-box Transformer Approach | Chen Luo et al. | [2508.04051v1](http://arxiv.org/abs/2508.04051v1) | **NULL** |
-| **2025/08/05** | Super-Resolution of Sentinel-2 Images Using a Geometry-Guided Back-Projection Network with Self-Attention | Ivan Pereira-Sánchez et al. | [2508.04729v1](http://arxiv.org/abs/2508.04729v1) | **NULL** |
-| **2025/08/05** | Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes | Sanghun Jung et al. | [2508.03890v2](http://arxiv.org/abs/2508.03890v2) | **NULL** |
-| **2025/08/05** | AttZoom: Attention Zoom for Better Visual Features | Daniel DeAlcala et al. | [2508.03625v1](http://arxiv.org/abs/2508.03625v1) | **NULL** |
-| **2025/08/05** | DyCAF-Net: Dynamic Class-Aware Fusion Network | Md Abrar Jahin et al. | [2508.03598v1](http://arxiv.org/abs/2508.03598v1) | **NULL** |
-| **2025/08/05** | VideoGuard: Protecting Video Content from Unauthorized Editing | Junjie Cao et al. | [2508.03480v1](http://arxiv.org/abs/2508.03480v1) | **NULL** |
-| **2025/08/05** | IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models | Jiabing Yang et al. | [2508.03469v1](http://arxiv.org/abs/2508.03469v1) | **NULL** |
+| **2025/08/07** | FDC-Net: Rethinking the association between EEG artifact removal and multi-dimensional affective computing | Wenjia Dong et al. | [2508.05231v2](http://arxiv.org/abs/2508.05231v2) | **NULL** |
 
 ## 背景差分
 
