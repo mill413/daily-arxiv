@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/13 09:12:35
+> Updated on 2025/08/14 09:13:07
 
 <summary>Table of Contents</summary>
 
@@ -27,7 +27,7 @@ layout: default
 | **2025/07/09** | A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level | Johanna Orsholm et al. | [2507.06972v1](http://arxiv.org/abs/2507.06972v1) | **NULL** |
 | **2025/07/01** | High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery | Hongxing Peng et al. | [2507.00825v2](http://arxiv.org/abs/2507.00825v2) | **NULL** |
 | **2025/06/30** | Event-based Tiny Object Detection: A Benchmark Dataset and Baseline | Nuo Chen et al. | [2506.23575v1](http://arxiv.org/abs/2506.23575v1) | **NULL** |
-| **2025/06/15** | MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection | Yuxiang Wang et al. | [2506.12697v1](http://arxiv.org/abs/2506.12697v1) | **NULL** |
+| **2025/06/15** | MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection | Yuxiang Wang et al. | [2506.12697v2](http://arxiv.org/abs/2506.12697v2) | **NULL** |
 | **2025/06/11** | CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects | Tao Liu et al. | [2506.09897v1](http://arxiv.org/abs/2506.09897v1) | **NULL** |
 | **2025/05/28** | Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection | Guiping Cao et al. | [2505.21868v1](http://arxiv.org/abs/2505.21868v1) | **NULL** |
 | **2025/05/27** | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | Muzhi Zhu et al. | [2505.21457v1](http://arxiv.org/abs/2505.21457v1) | **NULL** |
@@ -53,8 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/12** | Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer | Zixin Yin et al. | [2508.09131v2](http://arxiv.org/abs/2508.09131v2) | **NULL** |
+| **2025/08/12** | Urban-STA4CLC: Urban Theory-Informed Spatio-Temporal Attention Model for Predicting Post-Disaster Commercial Land Use Change | Ziyi Guo et al. | [2508.08976v1](http://arxiv.org/abs/2508.08976v1) | **NULL** |
+| **2025/08/12** | Integrating attention into explanation frameworks for language and vision transformers | Marte Eggen et al. | [2508.08966v1](http://arxiv.org/abs/2508.08966v1) | **NULL** |
+| **2025/08/12** | Geometry-Aware Global Feature Aggregation for Real-Time Indirect Illumination | Meng Gai et al. | [2508.08826v1](http://arxiv.org/abs/2508.08826v1) | **NULL** |
+| **2025/08/12** | MMIF-AMIN: Adaptive Loss-Driven Multi-Scale Invertible Dense Network for Multimodal Medical Image Fusion | Tao Luo et al. | [2508.08679v1](http://arxiv.org/abs/2508.08679v1) | **NULL** |
+| **2025/08/12** | Joint decoding method for controllable contextual speech recognition based on Speech LLM | Yangui Fang et al. | [2508.08585v1](http://arxiv.org/abs/2508.08585v1) | **NULL** |
+| **2025/08/12** | M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction | Guangyin Jin et al. | [2508.08543v1](http://arxiv.org/abs/2508.08543v1) | **NULL** |
+| **2025/08/11** | Playing Atari Space Invaders with Sparse Cosine Optimized Policy Evolution | Jim O'Connor et al. | [2508.08526v1](http://arxiv.org/abs/2508.08526v1) | **NULL** |
+| **2025/08/11** | Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations | Milad Sabouri et al. | [2508.08454v1](http://arxiv.org/abs/2508.08454v1) | **NULL** |
 | **2025/08/11** | THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening | Hongkun Jin et al. | [2508.08183v1](http://arxiv.org/abs/2508.08183v1) | **NULL** |
-| **2025/08/11** | CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data | Chongke Bi et al. | [2508.08173v1](http://arxiv.org/abs/2508.08173v1) | **NULL** |
+| **2025/08/11** | CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data | Chongke Bi et al. | [2508.08173v2](http://arxiv.org/abs/2508.08173v2) | **NULL** |
 | **2025/08/11** | Advancing Knowledge Tracing by Exploring Follow-up Performance Trends | Hengyu Liu et al. | [2508.08019v1](http://arxiv.org/abs/2508.08019v1) | **NULL** |
 | **2025/08/11** | A Physics-informed Deep Operator for Real-Time Freeway Traffic State Estimation | Hongxin Yu et al. | [2508.08002v1](http://arxiv.org/abs/2508.08002v1) | **NULL** |
 | **2025/08/11** | Learning Satellite Attitude Dynamics with Physics-Informed Normalising Flow | Carlo Cena et al. | [2508.07841v1](http://arxiv.org/abs/2508.07841v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/08/08** | Automatic Semantic Alignment of Flow Pattern Representations for Exploration with Large Language Models | Weihan Zhang et al. | [2508.06300v1](http://arxiv.org/abs/2508.06300v1) | **NULL** |
 | **2025/08/08** | An Interpretable Multi-Plane Fusion Framework With Kolmogorov-Arnold Network Guided Attention Enhancement for Alzheimer's Disease Diagnosis | Xiaoxiao Yang et al. | [2508.06157v1](http://arxiv.org/abs/2508.06157v1) | **NULL** |
 | **2025/08/08** | Mask & Match: Learning to Recognize Handwritten Math with Self-Supervised Attention | Shree Mitra et al. | [2508.06107v1](http://arxiv.org/abs/2508.06107v1) | **NULL** |
-| **2025/08/08** | Adaptive Heterogeneous Graph Neural Networks: Bridging Heterophily and Heterogeneity | Qin Chen et al. | [2508.06034v1](http://arxiv.org/abs/2508.06034v1) | **NULL** |
-| **2025/08/08** | Crisp Attention: Regularizing Transformers via Structured Sparsity | Sagar Gandhi et al. | [2508.06016v1](http://arxiv.org/abs/2508.06016v1) | **NULL** |
-| **2025/08/08** | ECMF: Enhanced Cross-Modal Fusion for Multimodal Emotion Recognition in MER-SEMI Challenge | Juewen Hu et al. | [2508.05991v1](http://arxiv.org/abs/2508.05991v1) | **NULL** |
-| **2025/08/08** | DAFMSVC: One-Shot Singing Voice Conversion with Dual Attention Mechanism and Flow Matching | Wei Chen et al. | [2508.05978v1](http://arxiv.org/abs/2508.05978v1) | **NULL** |
-| **2025/08/07** | Temporal Cluster Assignment for Efficient Real-Time Video Segmentation | Ka-Wai Yung et al. | [2508.05851v1](http://arxiv.org/abs/2508.05851v1) | **NULL** |
-| **2025/08/07** | An Effective Approach for Node Classification in Textual Graphs | Rituparna Datta et al. | [2508.05836v1](http://arxiv.org/abs/2508.05836v1) | **NULL** |
-| **2025/08/07** | Discrepancy-Aware Contrastive Adaptation in Medical Time Series Analysis | Yifan Wang et al. | [2508.05572v1](http://arxiv.org/abs/2508.05572v1) | **NULL** |
-| **2025/08/07** | Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis | Mingxi Fu et al. | [2508.05382v1](http://arxiv.org/abs/2508.05382v1) | **NULL** |
-| **2025/08/07** | FDC-Net: Rethinking the association between EEG artifact removal and multi-dimensional affective computing | Wenjia Dong et al. | [2508.05231v2](http://arxiv.org/abs/2508.05231v2) | **NULL** |
 
 ## 背景差分
 
