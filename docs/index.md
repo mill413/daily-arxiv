@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/15 09:13:06
+> Updated on 2025/08/16 09:09:37
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/14** | Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation | Youping Gu et al. | [2508.10774v1](http://arxiv.org/abs/2508.10774v1) | **NULL** |
+| **2025/08/14** | Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets | Nicolas Lapautre et al. | [2508.10758v1](http://arxiv.org/abs/2508.10758v1) | **NULL** |
+| **2025/08/14** | Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs | Xiangqi Jin et al. | [2508.10736v1](http://arxiv.org/abs/2508.10736v1) | **NULL** |
+| **2025/08/14** | A Transformer-Based Approach for DDoS Attack Detection in IoT Networks | Sandipan Dey et al. | [2508.10636v1](http://arxiv.org/abs/2508.10636v1) | **NULL** |
+| **2025/08/14** | FuXi-β: Towards a Lightweight and Fast Large-Scale Generative Recommendation Model | Yufei Ye et al. | [2508.10615v1](http://arxiv.org/abs/2508.10615v1) | **NULL** |
+| **2025/08/14** | Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies | Ayushman Sarkar et al. | [2508.10523v1](http://arxiv.org/abs/2508.10523v1) | **NULL** |
+| **2025/08/14** | Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text-to-Image Diffusion Models | Eunseo Koh et al. | [2508.10407v1](http://arxiv.org/abs/2508.10407v1) | **NULL** |
+| **2025/08/13** | MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning | Thanh-Dat Truong et al. | [2508.10133v1](http://arxiv.org/abs/2508.10133v1) | **NULL** |
 | **2025/08/13** | T-CACE: A Time-Conditioned Autoregressive Contrast Enhancement Multi-Task Framework for Contrast-Free Liver MRI Synthesis, Segmentation, and Diagnosis | Xiaojiao Xiao et al. | [2508.09919v1](http://arxiv.org/abs/2508.09919v1) | **NULL** |
 | **2025/08/13** | MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers | Qianru Qiu et al. | [2508.09709v1](http://arxiv.org/abs/2508.09709v1) | **NULL** |
 | **2025/08/13** | Slot Attention-based Feature Filtering for Few-Shot Learning | Javier Rodenas et al. | [2508.09699v1](http://arxiv.org/abs/2508.09699v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2025/08/11** | THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening | Hongkun Jin et al. | [2508.08183v1](http://arxiv.org/abs/2508.08183v1) | **NULL** |
 | **2025/08/11** | CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data | Chongke Bi et al. | [2508.08173v2](http://arxiv.org/abs/2508.08173v2) | **NULL** |
 | **2025/08/11** | Advancing Knowledge Tracing by Exploring Follow-up Performance Trends | Hengyu Liu et al. | [2508.08019v1](http://arxiv.org/abs/2508.08019v1) | **NULL** |
-| **2025/08/11** | A Physics-informed Deep Operator for Real-Time Freeway Traffic State Estimation | Hongxin Yu et al. | [2508.08002v1](http://arxiv.org/abs/2508.08002v1) | **NULL** |
-| **2025/08/11** | Learning Satellite Attitude Dynamics with Physics-Informed Normalising Flow | Carlo Cena et al. | [2508.07841v1](http://arxiv.org/abs/2508.07841v1) | **NULL** |
-| **2025/08/11** | DiTVR: Zero-Shot Diffusion Transformer for Video Restoration | Sicheng Gao et al. | [2508.07811v1](http://arxiv.org/abs/2508.07811v1) | **NULL** |
-| **2025/08/11** | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning | Runze Wang et al. | [2508.07788v1](http://arxiv.org/abs/2508.07788v1) | **NULL** |
-| **2025/08/11** | Voice Pathology Detection Using Phonation | Sri Raksha Siva et al. | [2508.07587v1](http://arxiv.org/abs/2508.07587v1) | **NULL** |
-| **2025/08/11** | Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing | Joonghyuk Shin et al. | [2508.07519v1](http://arxiv.org/abs/2508.07519v1) | **NULL** |
-| **2025/08/10** | Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers | Xin Ma et al. | [2508.07246v1](http://arxiv.org/abs/2508.07246v1) | **NULL** |
-| **2025/08/10** | Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model | Chaoqun Cui et al. | [2508.07209v1](http://arxiv.org/abs/2508.07209v1) | **NULL** |
 
 ## 背景差分
 
