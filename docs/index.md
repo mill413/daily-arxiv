@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/18 09:17:12
+> Updated on 2025/08/19 09:09:41
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
 | **2025/07/28** | Tracking Moose using Aerial Object Detection | Christopher Indris et al. | [2507.21256v1](http://arxiv.org/abs/2507.21256v1) | **NULL** |
 | **2025/07/28** | An Improved YOLOv8 Approach for Small Target Detection of Rice Spikelet Flowering in Field Environments | Beizhang Chen et al. | [2507.20506v1](http://arxiv.org/abs/2507.20506v1) | **NULL** |
@@ -47,19 +48,23 @@ layout: default
 | **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
 | **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v3](http://arxiv.org/abs/2503.13883v3) | **NULL** |
-| **2025/03/06** | DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO | Aditya Prashant Naidu et al. | [2503.04698v1](http://arxiv.org/abs/2503.04698v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/15** | CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion | Zhe Zhu et al. | [2508.11603v1](http://arxiv.org/abs/2508.11603v1) | **NULL** |
+| **2025/08/15** | INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems | Kaiyuan Li et al. | [2508.11565v1](http://arxiv.org/abs/2508.11565v1) | **NULL** |
+| **2025/08/15** | Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model | Zuo Zuo et al. | [2508.11550v1](http://arxiv.org/abs/2508.11550v1) | **NULL** |
+| **2025/08/15** | A Real-time Concrete Crack Detection and Segmentation Model Based on YOLOv11 | Shaoze Huang et al. | [2508.11517v1](http://arxiv.org/abs/2508.11517v1) | **NULL** |
+| **2025/08/14** | Hybrid-Hierarchical Fashion Graph Attention Network for Compatibility-Oriented and Personalized Outfit Recommendation | Sajjad Saed et al. | [2508.11105v1](http://arxiv.org/abs/2508.11105v1) | **NULL** |
 | **2025/08/14** | Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation | Youping Gu et al. | [2508.10774v1](http://arxiv.org/abs/2508.10774v1) | **NULL** |
 | **2025/08/14** | Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets | Nicolas Lapautre et al. | [2508.10758v1](http://arxiv.org/abs/2508.10758v1) | **NULL** |
 | **2025/08/14** | Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs | Xiangqi Jin et al. | [2508.10736v1](http://arxiv.org/abs/2508.10736v1) | **NULL** |
 | **2025/08/14** | A Transformer-Based Approach for DDoS Attack Detection in IoT Networks | Sandipan Dey et al. | [2508.10636v1](http://arxiv.org/abs/2508.10636v1) | **NULL** |
 | **2025/08/14** | FuXi-β: Towards a Lightweight and Fast Large-Scale Generative Recommendation Model | Yufei Ye et al. | [2508.10615v1](http://arxiv.org/abs/2508.10615v1) | **NULL** |
 | **2025/08/14** | Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies | Ayushman Sarkar et al. | [2508.10523v1](http://arxiv.org/abs/2508.10523v1) | **NULL** |
-| **2025/08/14** | Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text-to-Image Diffusion Models | Eunseo Koh et al. | [2508.10407v1](http://arxiv.org/abs/2508.10407v1) | **NULL** |
+| **2025/08/14** | Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text-to-Image Diffusion Models | Eunseo Koh et al. | [2508.10407v2](http://arxiv.org/abs/2508.10407v2) | **NULL** |
 | **2025/08/13** | MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning | Thanh-Dat Truong et al. | [2508.10133v1](http://arxiv.org/abs/2508.10133v1) | **NULL** |
 | **2025/08/13** | T-CACE: A Time-Conditioned Autoregressive Contrast Enhancement Multi-Task Framework for Contrast-Free Liver MRI Synthesis, Segmentation, and Diagnosis | Xiaojiao Xiao et al. | [2508.09919v1](http://arxiv.org/abs/2508.09919v1) | **NULL** |
 | **2025/08/13** | MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers | Qianru Qiu et al. | [2508.09709v1](http://arxiv.org/abs/2508.09709v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/08/12** | MMIF-AMIN: Adaptive Loss-Driven Multi-Scale Invertible Dense Network for Multimodal Medical Image Fusion | Tao Luo et al. | [2508.08679v1](http://arxiv.org/abs/2508.08679v1) | **NULL** |
 | **2025/08/12** | Joint decoding method for controllable contextual speech recognition based on Speech LLM | Yangui Fang et al. | [2508.08585v1](http://arxiv.org/abs/2508.08585v1) | **NULL** |
 | **2025/08/12** | M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction | Guangyin Jin et al. | [2508.08543v2](http://arxiv.org/abs/2508.08543v2) | **NULL** |
-| **2025/08/11** | Playing Atari Space Invaders with Sparse Cosine Optimized Policy Evolution | Jim O'Connor et al. | [2508.08526v1](http://arxiv.org/abs/2508.08526v1) | **NULL** |
-| **2025/08/11** | Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations | Milad Sabouri et al. | [2508.08454v1](http://arxiv.org/abs/2508.08454v1) | **NULL** |
-| **2025/08/11** | THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening | Hongkun Jin et al. | [2508.08183v1](http://arxiv.org/abs/2508.08183v1) | **NULL** |
-| **2025/08/11** | CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data | Chongke Bi et al. | [2508.08173v2](http://arxiv.org/abs/2508.08173v2) | **NULL** |
-| **2025/08/11** | Advancing Knowledge Tracing by Exploring Follow-up Performance Trends | Hengyu Liu et al. | [2508.08019v1](http://arxiv.org/abs/2508.08019v1) | **NULL** |
 
 ## 背景差分
 
