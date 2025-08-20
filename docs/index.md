@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/19 09:09:41
+> Updated on 2025/08/20 09:07:25
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/18** | Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation | Qirui Li et al. | [2508.12969v1](http://arxiv.org/abs/2508.12969v1) | **NULL** |
+| **2025/08/18** | FLARE: Fast Low-rank Attention Routing Engine | Vedant Puri et al. | [2508.12594v1](http://arxiv.org/abs/2508.12594v1) | **NULL** |
+| **2025/08/17** | Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping | Xuhui Zhan et al. | [2508.12466v1](http://arxiv.org/abs/2508.12466v1) | **NULL** |
+| **2025/08/17** | TiP4GEN: Text to Immersive Panorama 4D Scene Generation | Ke Xing et al. | [2508.12415v1](http://arxiv.org/abs/2508.12415v1) | **NULL** |
+| **2025/08/15** | Recent Advances in Transformer and Large Language Models for UAV Applications | Hamza Kheddar et al. | [2508.11834v1](http://arxiv.org/abs/2508.11834v1) | **NULL** |
 | **2025/08/15** | CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion | Zhe Zhu et al. | [2508.11603v1](http://arxiv.org/abs/2508.11603v1) | **NULL** |
 | **2025/08/15** | INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems | Kaiyuan Li et al. | [2508.11565v1](http://arxiv.org/abs/2508.11565v1) | **NULL** |
 | **2025/08/15** | Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model | Zuo Zuo et al. | [2508.11550v1](http://arxiv.org/abs/2508.11550v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/08/13** | Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment | Yue Yao et al. | [2508.09399v1](http://arxiv.org/abs/2508.09399v1) | **NULL** |
 | **2025/08/12** | Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer | Zixin Yin et al. | [2508.09131v2](http://arxiv.org/abs/2508.09131v2) | **NULL** |
 | **2025/08/12** | Urban-STA4CLC: Urban Theory-Informed Spatio-Temporal Attention Model for Predicting Post-Disaster Commercial Land Use Change | Ziyi Guo et al. | [2508.08976v1](http://arxiv.org/abs/2508.08976v1) | **NULL** |
-| **2025/08/12** | Integrating attention into explanation frameworks for language and vision transformers | Marte Eggen et al. | [2508.08966v1](http://arxiv.org/abs/2508.08966v1) | **NULL** |
-| **2025/08/12** | Geometry-Aware Global Feature Aggregation for Real-Time Indirect Illumination | Meng Gai et al. | [2508.08826v1](http://arxiv.org/abs/2508.08826v1) | **NULL** |
-| **2025/08/12** | MMIF-AMIN: Adaptive Loss-Driven Multi-Scale Invertible Dense Network for Multimodal Medical Image Fusion | Tao Luo et al. | [2508.08679v1](http://arxiv.org/abs/2508.08679v1) | **NULL** |
-| **2025/08/12** | Joint decoding method for controllable contextual speech recognition based on Speech LLM | Yangui Fang et al. | [2508.08585v1](http://arxiv.org/abs/2508.08585v1) | **NULL** |
-| **2025/08/12** | M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction | Guangyin Jin et al. | [2508.08543v2](http://arxiv.org/abs/2508.08543v2) | **NULL** |
 
 ## 背景差分
 
