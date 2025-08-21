@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/20 09:07:25
+> Updated on 2025/08/21 09:06:32
 
 <summary>Table of Contents</summary>
 
@@ -20,6 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
+| **2025/08/02** | SBP-YOLO:A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes | Chuanqi Liang et al. | [2508.01339v2](http://arxiv.org/abs/2508.01339v2) | **NULL** |
 | **2025/07/28** | Tracking Moose using Aerial Object Detection | Christopher Indris et al. | [2507.21256v1](http://arxiv.org/abs/2507.21256v1) | **NULL** |
 | **2025/07/28** | An Improved YOLOv8 Approach for Small Target Detection of Rice Spikelet Flowering in Field Environments | Beizhang Chen et al. | [2507.20506v1](http://arxiv.org/abs/2507.20506v1) | **NULL** |
 | **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
@@ -47,22 +48,30 @@ layout: default
 | **2025/03/29** | Context in object detection: a systematic literature review | Mahtab Jamali et al. | [2503.23249v1](http://arxiv.org/abs/2503.23249v1) | **NULL** |
 | **2025/03/26** | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | Mahya Nikouei et al. | [2503.20516v1](http://arxiv.org/abs/2503.20516v1) | **NULL** |
 | **2025/03/24** | LGI-DETR: Local-Global Interaction for UAV Object Detection | Zifa Chen | [2503.18785v1](http://arxiv.org/abs/2503.18785v1) | **NULL** |
-| **2025/03/18** | YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction | Ziyu Lin et al. | [2503.13883v3](http://arxiv.org/abs/2503.13883v3) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/19** | ASDFormer: A Transformer with Mixtures of Pooling-Classifier Experts for Robust Autism Diagnosis and Biomarker Discovery | Mohammad Izadi et al. | [2508.14005v1](http://arxiv.org/abs/2508.14005v1) | **NULL** |
+| **2025/08/19** | DIME-Net: A Dual-Illumination Adaptive Enhancement Network Based on Retinex and Mixture-of-Experts | Ziang Wang et al. | [2508.13921v1](http://arxiv.org/abs/2508.13921v1) | **NULL** |
+| **2025/08/19** | SCRNet: Spatial-Channel Regulation Network for Medical Ultrasound Image Segmentation | Weixin Xu et al. | [2508.13899v1](http://arxiv.org/abs/2508.13899v1) | **NULL** |
+| **2025/08/19** | PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting | Tian Sun et al. | [2508.13773v1](http://arxiv.org/abs/2508.13773v1) | **NULL** |
+| **2025/08/19** | Know Me by My Pulse: Toward Practical Continuous Authentication on Wearable Devices via Wrist-Worn PPG | Wei Shao et al. | [2508.13690v1](http://arxiv.org/abs/2508.13690v1) | **NULL** |
+| **2025/08/19** | V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task | Jikai Chen et al. | [2508.13634v1](http://arxiv.org/abs/2508.13634v1) | **NULL** |
+| **2025/08/19** | Text2Weight: Bridging Natural Language and Neural Network Weight Spaces | Bowen Tian et al. | [2508.13633v1](http://arxiv.org/abs/2508.13633v1) | **NULL** |
+| **2025/08/18** | A Dual-Attention Graph Network for fMRI Data Classification | Amirali Arbab et al. | [2508.13328v1](http://arxiv.org/abs/2508.13328v1) | **NULL** |
 | **2025/08/18** | Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation | Qirui Li et al. | [2508.12969v1](http://arxiv.org/abs/2508.12969v1) | **NULL** |
 | **2025/08/18** | FLARE: Fast Low-rank Attention Routing Engine | Vedant Puri et al. | [2508.12594v1](http://arxiv.org/abs/2508.12594v1) | **NULL** |
 | **2025/08/17** | Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping | Xuhui Zhan et al. | [2508.12466v1](http://arxiv.org/abs/2508.12466v1) | **NULL** |
 | **2025/08/17** | TiP4GEN: Text to Immersive Panorama 4D Scene Generation | Ke Xing et al. | [2508.12415v1](http://arxiv.org/abs/2508.12415v1) | **NULL** |
 | **2025/08/15** | Recent Advances in Transformer and Large Language Models for UAV Applications | Hamza Kheddar et al. | [2508.11834v1](http://arxiv.org/abs/2508.11834v1) | **NULL** |
+| **2025/08/15** | Contextual Attention-Based Multimodal Fusion of LLM and CNN for Sentiment Analysis | Meriem Zerkouk et al. | [2508.13196v1](http://arxiv.org/abs/2508.13196v1) | **NULL** |
 | **2025/08/15** | CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion | Zhe Zhu et al. | [2508.11603v1](http://arxiv.org/abs/2508.11603v1) | **NULL** |
 | **2025/08/15** | INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems | Kaiyuan Li et al. | [2508.11565v1](http://arxiv.org/abs/2508.11565v1) | **NULL** |
 | **2025/08/15** | Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model | Zuo Zuo et al. | [2508.11550v1](http://arxiv.org/abs/2508.11550v1) | **NULL** |
 | **2025/08/15** | A Real-time Concrete Crack Detection and Segmentation Model Based on YOLOv11 | Shaoze Huang et al. | [2508.11517v1](http://arxiv.org/abs/2508.11517v1) | **NULL** |
-| **2025/08/14** | Hybrid-Hierarchical Fashion Graph Attention Network for Compatibility-Oriented and Personalized Outfit Recommendation | Sajjad Saed et al. | [2508.11105v1](http://arxiv.org/abs/2508.11105v1) | **NULL** |
+| **2025/08/14** | Hybrid-Hierarchical Fashion Graph Attention Network for Compatibility-Oriented and Personalized Outfit Recommendation | Sajjad Saed et al. | [2508.11105v2](http://arxiv.org/abs/2508.11105v2) | **NULL** |
 | **2025/08/14** | Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation | Youping Gu et al. | [2508.10774v1](http://arxiv.org/abs/2508.10774v1) | **NULL** |
 | **2025/08/14** | Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets | Nicolas Lapautre et al. | [2508.10758v1](http://arxiv.org/abs/2508.10758v1) | **NULL** |
 | **2025/08/14** | Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs | Xiangqi Jin et al. | [2508.10736v1](http://arxiv.org/abs/2508.10736v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/08/13** | T-CACE: A Time-Conditioned Autoregressive Contrast Enhancement Multi-Task Framework for Contrast-Free Liver MRI Synthesis, Segmentation, and Diagnosis | Xiaojiao Xiao et al. | [2508.09919v1](http://arxiv.org/abs/2508.09919v1) | **NULL** |
 | **2025/08/13** | MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers | Qianru Qiu et al. | [2508.09709v1](http://arxiv.org/abs/2508.09709v1) | **NULL** |
 | **2025/08/13** | Slot Attention-based Feature Filtering for Few-Shot Learning | Javier Rodenas et al. | [2508.09699v1](http://arxiv.org/abs/2508.09699v1) | **NULL** |
-| **2025/08/13** | Multimodal Fusion And Sparse Attention-based Alignment Model for Long Sequential Recommendation | Yongrui Fu et al. | [2508.09664v1](http://arxiv.org/abs/2508.09664v1) | **NULL** |
-| **2025/08/13** | Multi-Contrast Fusion Module: An attention mechanism integrating multi-contrast features for fetal torso plane classification | Shengjun Zhu et al. | [2508.09644v1](http://arxiv.org/abs/2508.09644v1) | **NULL** |
-| **2025/08/13** | DualPhys-GS: Dual Physically-Guided 3D Gaussian Splatting for Underwater Scene Reconstruction | Jiachen Li et al. | [2508.09610v1](http://arxiv.org/abs/2508.09610v1) | **NULL** |
-| **2025/08/13** | Time-Aware and Transition-Semantic Graph Neural Networks for Interpretable Predictive Business Process Monitoring | Fang Wang et al. | [2508.09527v1](http://arxiv.org/abs/2508.09527v1) | **NULL** |
-| **2025/08/13** | Learning Spatial Decay for Vision Transformers | Yuxin Mao et al. | [2508.09525v1](http://arxiv.org/abs/2508.09525v1) | **NULL** |
-| **2025/08/13** | Open-Set Fault Diagnosis in Multimode Processes via Fine-Grained Deep Feature Representation | Guangqiang Li et al. | [2508.09462v1](http://arxiv.org/abs/2508.09462v1) | **NULL** |
-| **2025/08/13** | Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment | Yue Yao et al. | [2508.09399v1](http://arxiv.org/abs/2508.09399v1) | **NULL** |
-| **2025/08/12** | Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer | Zixin Yin et al. | [2508.09131v2](http://arxiv.org/abs/2508.09131v2) | **NULL** |
-| **2025/08/12** | Urban-STA4CLC: Urban Theory-Informed Spatio-Temporal Attention Model for Predicting Post-Disaster Commercial Land Use Change | Ziyi Guo et al. | [2508.08976v1](http://arxiv.org/abs/2508.08976v1) | **NULL** |
 
 ## 背景差分
 
