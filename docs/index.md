@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/22 09:07:29
+> Updated on 2025/08/23 09:05:15
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/21** | Tutorial on the Probabilistic Unification of Estimation Theory, Machine Learning, and Generative AI | Mohammed Elmusrati | [2508.15719v1](http://arxiv.org/abs/2508.15719v1) | **NULL** |
+| **2025/08/21** | Attention-Based Explainability for Structure-Property Relationships | Boris N. Slautin et al. | [2508.15493v1](http://arxiv.org/abs/2508.15493v1) | **NULL** |
+| **2025/08/21** | LGMSNet: Thinning a medical image segmentation model via dual-level multiscale fusion | Chengqi Dong et al. | [2508.15476v1](http://arxiv.org/abs/2508.15476v1) | **NULL** |
+| **2025/08/21** | Bladder Cancer Diagnosis with Deep Learning: A Multi-Task Framework and Online Platform | Jinliang Yu et al. | [2508.15379v1](http://arxiv.org/abs/2508.15379v1) | **NULL** |
+| **2025/08/20** | GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging | Toqi Tahamid Sarker et al. | [2508.15057v1](http://arxiv.org/abs/2508.15057v1) | **NULL** |
 | **2025/08/20** | EventSSEG: Event-driven Self-Supervised Segmentation with Probabilistic Attention | Lakshmi Annamalai et al. | [2508.14856v1](http://arxiv.org/abs/2508.14856v1) | **NULL** |
 | **2025/08/20** | Improving in-context learning with a better scoring function | Omar Naim et al. | [2508.14685v1](http://arxiv.org/abs/2508.14685v1) | **NULL** |
 | **2025/08/20** | EffiFusion-GAN: Efficient Fusion Generative Adversarial Network for Speech Enhancement | Bin Wen et al. | [2508.14525v1](http://arxiv.org/abs/2508.14525v1) | **NULL** |
@@ -78,16 +83,12 @@ layout: default
 | **2025/08/15** | Contextual Attention-Based Multimodal Fusion of LLM and CNN for Sentiment Analysis | Meriem Zerkouk et al. | [2508.13196v1](http://arxiv.org/abs/2508.13196v1) | **NULL** |
 | **2025/08/15** | CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion | Zhe Zhu et al. | [2508.11603v1](http://arxiv.org/abs/2508.11603v1) | **NULL** |
 | **2025/08/15** | INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems | Kaiyuan Li et al. | [2508.11565v1](http://arxiv.org/abs/2508.11565v1) | **NULL** |
-| **2025/08/15** | Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model | Zuo Zuo et al. | [2508.11550v1](http://arxiv.org/abs/2508.11550v1) | **NULL** |
-| **2025/08/15** | A Real-time Concrete Crack Detection and Segmentation Model Based on YOLOv11 | Shaoze Huang et al. | [2508.11517v1](http://arxiv.org/abs/2508.11517v1) | **NULL** |
-| **2025/08/14** | Hybrid-Hierarchical Fashion Graph Attention Network for Compatibility-Oriented and Personalized Outfit Recommendation | Sajjad Saed et al. | [2508.11105v2](http://arxiv.org/abs/2508.11105v2) | **NULL** |
-| **2025/08/14** | Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation | Youping Gu et al. | [2508.10774v1](http://arxiv.org/abs/2508.10774v1) | **NULL** |
-| **2025/08/14** | Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets | Nicolas Lapautre et al. | [2508.10758v1](http://arxiv.org/abs/2508.10758v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/21** | $\texttt{HostSub_GP}$: Precise Galaxy Background Subtraction in Transient Spectroscopy with Gaussian Processes | Chang Liu et al. | [2508.15278v1](http://arxiv.org/abs/2508.15278v1) | **NULL** |
 | **2025/08/01** | Noise Reduction Method for Radio Astronomy Single Station Observation Based on Wavelet Transform and Mathematical Morphology | Ming-wei Qin et al. | [2508.00386v1](http://arxiv.org/abs/2508.00386v1) | **NULL** |
 | **2025/07/31** | Quantum-enhanced dark matter detection using Schrödinger cat states | Pan Zheng et al. | [2507.23538v1](http://arxiv.org/abs/2507.23538v1) | **NULL** |
 | **2025/07/18** | Deep Image Reconstruction for Background Subtraction in Heavy-Ion Collisions | Umar Sohail Qureshi et al. | [2507.14036v1](http://arxiv.org/abs/2507.14036v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/02/21** | Equivariant localization in supergravity in odd dimensions | Edoardo Colombo et al. | [2502.15624v1](http://arxiv.org/abs/2502.15624v1) | **NULL** |
 | **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
 | **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
-| **2025/01/14** | Background subtraction method is not only much simpler, but also as applicable as covariant counterterm method | Wei Guo et al. | [2501.08214v3](http://arxiv.org/abs/2501.08214v3) | **NULL** |
