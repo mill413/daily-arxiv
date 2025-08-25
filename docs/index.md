@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/23 09:05:15
+> Updated on 2025/08/25 09:10:36
 
 <summary>Table of Contents</summary>
 
@@ -69,7 +69,7 @@ layout: default
 | **2025/08/19** | ASDFormer: A Transformer with Mixtures of Pooling-Classifier Experts for Robust Autism Diagnosis and Biomarker Discovery | Mohammad Izadi et al. | [2508.14005v1](http://arxiv.org/abs/2508.14005v1) | **NULL** |
 | **2025/08/19** | DIME-Net: A Dual-Illumination Adaptive Enhancement Network Based on Retinex and Mixture-of-Experts | Ziang Wang et al. | [2508.13921v1](http://arxiv.org/abs/2508.13921v1) | **NULL** |
 | **2025/08/19** | SCRNet: Spatial-Channel Regulation Network for Medical Ultrasound Image Segmentation | Weixin Xu et al. | [2508.13899v1](http://arxiv.org/abs/2508.13899v1) | **NULL** |
-| **2025/08/19** | PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting | Tian Sun et al. | [2508.13773v1](http://arxiv.org/abs/2508.13773v1) | **NULL** |
+| **2025/08/19** | PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting | Tian Sun et al. | [2508.13773v2](http://arxiv.org/abs/2508.13773v2) | **NULL** |
 | **2025/08/19** | Know Me by My Pulse: Toward Practical Continuous Authentication on Wearable Devices via Wrist-Worn PPG | Wei Shao et al. | [2508.13690v1](http://arxiv.org/abs/2508.13690v1) | **NULL** |
 | **2025/08/19** | V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task | Jikai Chen et al. | [2508.13634v1](http://arxiv.org/abs/2508.13634v1) | **NULL** |
 | **2025/08/19** | Text2Weight: Bridging Natural Language and Neural Network Weight Spaces | Bowen Tian et al. | [2508.13633v1](http://arxiv.org/abs/2508.13633v1) | **NULL** |
@@ -97,7 +97,7 @@ layout: default
 | **2025/07/02** | Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems | Katarzyna Gas et al. | [2507.01385v1](http://arxiv.org/abs/2507.01385v1) | **NULL** |
 | **2025/06/22** | In pursuit of the low-energy Solar neutron flux | Prithish Halder et al. | [2506.17985v1](http://arxiv.org/abs/2506.17985v1) | **NULL** |
 | **2025/06/17** | Comparison of Two Methods for Stationary Incident Detection Based on Background Image | Deepak Ghimire et al. | [2506.14256v1](http://arxiv.org/abs/2506.14256v1) | **NULL** |
-| **2025/06/09** | Optical tweezers as a tool for quantitative imaging | Ilya M Beskin et al. | [2506.08186v1](http://arxiv.org/abs/2506.08186v1) | **NULL** |
+| **2025/06/09** | Optical Tweezers as a Tool for Quantitative Imaging | Ilya M Beskin et al. | [2506.08186v2](http://arxiv.org/abs/2506.08186v2) | **NULL** |
 | **2025/06/03** | COSMOS-Web: MIRI Data Reduction and Number Counts at 7.7$μ$m using JWST | Santosh Harish et al. | [2506.03306v1](http://arxiv.org/abs/2506.03306v1) | **NULL** |
 | **2025/06/03** | COSMOS-Web: Comprehensive Data Reduction for Wide-Area JWST NIRCam Imaging | Maximilien Franco et al. | [2506.03256v1](http://arxiv.org/abs/2506.03256v1) | **NULL** |
 | **2025/05/23** | A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance | Pedro Jose Bauza-Ruiz et al. | [2505.17996v1](http://arxiv.org/abs/2505.17996v1) | **NULL** |
