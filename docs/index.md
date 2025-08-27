@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/25 09:10:36
+> Updated on 2025/08/27 09:05:59
 
 <summary>Table of Contents</summary>
 
@@ -53,41 +53,43 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/08/21** | Tutorial on the Probabilistic Unification of Estimation Theory, Machine Learning, and Generative AI | Mohammed Elmusrati | [2508.15719v1](http://arxiv.org/abs/2508.15719v1) | **NULL** |
-| **2025/08/21** | Attention-Based Explainability for Structure-Property Relationships | Boris N. Slautin et al. | [2508.15493v1](http://arxiv.org/abs/2508.15493v1) | **NULL** |
-| **2025/08/21** | LGMSNet: Thinning a medical image segmentation model via dual-level multiscale fusion | Chengqi Dong et al. | [2508.15476v1](http://arxiv.org/abs/2508.15476v1) | **NULL** |
-| **2025/08/21** | Bladder Cancer Diagnosis with Deep Learning: A Multi-Task Framework and Online Platform | Jinliang Yu et al. | [2508.15379v1](http://arxiv.org/abs/2508.15379v1) | **NULL** |
-| **2025/08/20** | GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging | Toqi Tahamid Sarker et al. | [2508.15057v1](http://arxiv.org/abs/2508.15057v1) | **NULL** |
-| **2025/08/20** | EventSSEG: Event-driven Self-Supervised Segmentation with Probabilistic Attention | Lakshmi Annamalai et al. | [2508.14856v1](http://arxiv.org/abs/2508.14856v1) | **NULL** |
-| **2025/08/20** | Improving in-context learning with a better scoring function | Omar Naim et al. | [2508.14685v1](http://arxiv.org/abs/2508.14685v1) | **NULL** |
-| **2025/08/20** | EffiFusion-GAN: Efficient Fusion Generative Adversarial Network for Speech Enhancement | Bin Wen et al. | [2508.14525v1](http://arxiv.org/abs/2508.14525v1) | **NULL** |
-| **2025/08/20** | Deep Skin Lesion Segmentation with Transformer-CNN Fusion: Toward Intelligent Skin Cancer Analysis | Xin Wang et al. | [2508.14509v1](http://arxiv.org/abs/2508.14509v1) | **NULL** |
-| **2025/08/20** | Artificial Intelligence-Based Multiscale Temporal Modeling for Anomaly Detection in Cloud Services | Lian Lian et al. | [2508.14503v1](http://arxiv.org/abs/2508.14503v1) | **NULL** |
-| **2025/08/20** | Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration | Haoran Bai et al. | [2508.14483v1](http://arxiv.org/abs/2508.14483v1) | **NULL** |
-| **2025/08/20** | Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting | Gyusam Chang et al. | [2508.14443v1](http://arxiv.org/abs/2508.14443v1) | **NULL** |
-| **2025/08/19** | OccluNet: Spatio-Temporal Deep Learning for Occlusion Detection on DSA | Anushka A. Kore et al. | [2508.14286v1](http://arxiv.org/abs/2508.14286v1) | **NULL** |
-| **2025/08/19** | ASDFormer: A Transformer with Mixtures of Pooling-Classifier Experts for Robust Autism Diagnosis and Biomarker Discovery | Mohammad Izadi et al. | [2508.14005v1](http://arxiv.org/abs/2508.14005v1) | **NULL** |
-| **2025/08/19** | DIME-Net: A Dual-Illumination Adaptive Enhancement Network Based on Retinex and Mixture-of-Experts | Ziang Wang et al. | [2508.13921v1](http://arxiv.org/abs/2508.13921v1) | **NULL** |
-| **2025/08/19** | SCRNet: Spatial-Channel Regulation Network for Medical Ultrasound Image Segmentation | Weixin Xu et al. | [2508.13899v1](http://arxiv.org/abs/2508.13899v1) | **NULL** |
-| **2025/08/19** | PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting | Tian Sun et al. | [2508.13773v2](http://arxiv.org/abs/2508.13773v2) | **NULL** |
-| **2025/08/19** | Know Me by My Pulse: Toward Practical Continuous Authentication on Wearable Devices via Wrist-Worn PPG | Wei Shao et al. | [2508.13690v1](http://arxiv.org/abs/2508.13690v1) | **NULL** |
-| **2025/08/19** | V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task | Jikai Chen et al. | [2508.13634v1](http://arxiv.org/abs/2508.13634v1) | **NULL** |
-| **2025/08/19** | Text2Weight: Bridging Natural Language and Neural Network Weight Spaces | Bowen Tian et al. | [2508.13633v1](http://arxiv.org/abs/2508.13633v1) | **NULL** |
-| **2025/08/18** | A Dual-Attention Graph Network for fMRI Data Classification | Amirali Arbab et al. | [2508.13328v1](http://arxiv.org/abs/2508.13328v1) | **NULL** |
-| **2025/08/18** | Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation | Qirui Li et al. | [2508.12969v1](http://arxiv.org/abs/2508.12969v1) | **NULL** |
-| **2025/08/18** | FLARE: Fast Low-rank Attention Routing Engine | Vedant Puri et al. | [2508.12594v1](http://arxiv.org/abs/2508.12594v1) | **NULL** |
-| **2025/08/17** | High-Throughput Low-Cost Segmentation of Brightfield Microscopy Live Cell Images | Surajit Das et al. | [2508.14106v1](http://arxiv.org/abs/2508.14106v1) | **NULL** |
-| **2025/08/17** | Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping | Xuhui Zhan et al. | [2508.12466v1](http://arxiv.org/abs/2508.12466v1) | **NULL** |
-| **2025/08/17** | TiP4GEN: Text to Immersive Panorama 4D Scene Generation | Ke Xing et al. | [2508.12415v2](http://arxiv.org/abs/2508.12415v2) | **NULL** |
-| **2025/08/15** | Recent Advances in Transformer and Large Language Models for UAV Applications | Hamza Kheddar et al. | [2508.11834v1](http://arxiv.org/abs/2508.11834v1) | **NULL** |
-| **2025/08/15** | Contextual Attention-Based Multimodal Fusion of LLM and CNN for Sentiment Analysis | Meriem Zerkouk et al. | [2508.13196v1](http://arxiv.org/abs/2508.13196v1) | **NULL** |
-| **2025/08/15** | CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion | Zhe Zhu et al. | [2508.11603v1](http://arxiv.org/abs/2508.11603v1) | **NULL** |
-| **2025/08/15** | INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems | Kaiyuan Li et al. | [2508.11565v1](http://arxiv.org/abs/2508.11565v1) | **NULL** |
+| **2025/08/25** | From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models | ZiqiZhang et al. | [2508.18253v1](http://arxiv.org/abs/2508.18253v1) | **NULL** |
+| **2025/08/25** | Flash Sparse Attention: An Alternative Efficient Implementation of Native Sparse Attention Kernel | Ran Yan et al. | [2508.18224v1](http://arxiv.org/abs/2508.18224v1) | **NULL** |
+| **2025/08/25** | Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding | Pu Feng et al. | [2508.17971v1](http://arxiv.org/abs/2508.17971v1) | **NULL** |
+| **2025/08/25** | Prompt-based Multimodal Semantic Communication for Multi-spectral Image Segmentation | Haoshuo Zhang et al. | [2508.17920v1](http://arxiv.org/abs/2508.17920v1) | **NULL** |
+| **2025/08/25** | Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks | Dan Wang et al. | [2508.17867v2](http://arxiv.org/abs/2508.17867v2) | **NULL** |
+| **2025/08/25** | Limitations of Normalization in Attention Mechanism | Timur Mudarisov et al. | [2508.17821v1](http://arxiv.org/abs/2508.17821v1) | **NULL** |
+| **2025/08/25** | Two-Timescale Learning for Pilot-Free ISAC Systems | Jian Xiao et al. | [2508.17749v1](http://arxiv.org/abs/2508.17749v1) | **NULL** |
+| **2025/08/25** | EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning | Yinda Chen et al. | [2508.17703v1](http://arxiv.org/abs/2508.17703v1) | **NULL** |
+| **2025/08/25** | Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing | Yogesh Kumar | [2508.17686v1](http://arxiv.org/abs/2508.17686v1) | **NULL** |
+| **2025/08/25** | Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning | An Ning et al. | [2508.17630v2](http://arxiv.org/abs/2508.17630v2) | **NULL** |
+| **2025/08/24** | TANDEM: Temporal Attention-guided Neural Differential Equations for Missingness in Time Series Classification | YongKyung Oh et al. | [2508.17519v1](http://arxiv.org/abs/2508.17519v1) | **NULL** |
+| **2025/08/24** | Multimodal Representation Learning Conditioned on Semantic Relations | Yang Qiao et al. | [2508.17497v1](http://arxiv.org/abs/2508.17497v1) | **NULL** |
+| **2025/08/24** | ResLink: A Novel Deep Learning Architecture for Brain Tumor Classification with Area Attention and Residual Connections | Sumedha Arya et al. | [2508.17259v1](http://arxiv.org/abs/2508.17259v1) | **NULL** |
+| **2025/08/24** | Scaling Graph Transformers: A Comparative Study of Sparse and Dense Attention | Leon Dimitrov | [2508.17175v1](http://arxiv.org/abs/2508.17175v1) | **NULL** |
+| **2025/08/23** | CE-RS-SBCIT A Novel Channel Enhanced Hybrid CNN Transformer with Residual, Spatial, and Boundary-Aware Learning for Brain Tumor MRI Analysis | Mirza Mumtaz Zahoor et al. | [2508.17128v1](http://arxiv.org/abs/2508.17128v1) | **NULL** |
+| **2025/08/23** | A Straightforward Pipeline for Targeted Entailment and Contradiction Detection | Antonin Sulc | [2508.17127v1](http://arxiv.org/abs/2508.17127v1) | **NULL** |
+| **2025/08/23** | Token Homogenization under Positional Bias | Viacheslav Yusupov et al. | [2508.17126v1](http://arxiv.org/abs/2508.17126v1) | **NULL** |
+| **2025/08/23** | Proximal Vision Transformer: Enhancing Feature Representation through Two-Stage Manifold Geometry | Haoyu Yun et al. | [2508.17081v1](http://arxiv.org/abs/2508.17081v1) | **NULL** |
+| **2025/08/23** | SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation | Peng Hu et al. | [2508.17062v1](http://arxiv.org/abs/2508.17062v1) | **NULL** |
+| **2025/08/23** | RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze | Ruicheng Zhang et al. | [2508.16956v1](http://arxiv.org/abs/2508.16956v1) | **NULL** |
+| **2025/08/23** | An Adaptive Environment-Aware Transformer Autoencoder for UAV-FSO with Dynamic Complexity Control | Han Zeng et al. | [2508.16918v2](http://arxiv.org/abs/2508.16918v2) | **NULL** |
+| **2025/08/23** | A Lightweight Convolution and Vision Transformer integrated model with Multi-scale Self-attention Mechanism | Yi Zhang et al. | [2508.16884v1](http://arxiv.org/abs/2508.16884v1) | **NULL** |
+| **2025/08/22** | Explainable AI in Deep Learning-Based Prediction of Solar Storms | Adam O. Rawashdeh et al. | [2508.16543v1](http://arxiv.org/abs/2508.16543v1) | **NULL** |
+| **2025/08/22** | Agentic AI Empowered Multi-UAV Trajectory Optimization in Low-Altitude Economy Networks | Feibo Jiang et al. | [2508.16379v1](http://arxiv.org/abs/2508.16379v1) | **NULL** |
+| **2025/08/22** | Attention Mechanism in Randomized Time Warping | Yutaro Hiraoka et al. | [2508.16366v1](http://arxiv.org/abs/2508.16366v1) | **NULL** |
+| **2025/08/22** | PromptFlare: Prompt-Generalized Defense via Cross-Attention Decoy in Diffusion-Based Inpainting | Hohyun Na et al. | [2508.16217v1](http://arxiv.org/abs/2508.16217v1) | **NULL** |
+| **2025/08/22** | RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution | Haodong He et al. | [2508.16158v1](http://arxiv.org/abs/2508.16158v1) | **NULL** |
+| **2025/08/22** | Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction | Ao Zhou et al. | [2508.16147v1](http://arxiv.org/abs/2508.16147v1) | **NULL** |
+| **2025/08/22** | Two-flow Feedback Multi-scale Progressive Generative Adversarial Network | Sun Weikai et al. | [2508.16089v1](http://arxiv.org/abs/2508.16089v1) | **NULL** |
+| **2025/08/21** | STGAtt: A Spatial-Temporal Unified Graph Attention Network for Traffic Flow Forecasting | Zhuding Liang et al. | [2508.16685v1](http://arxiv.org/abs/2508.16685v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/25** | Quadratic curvature corrections to 5-dimensional Kerr-AdS black hole thermodynamics by background subtraction method | Gerui Chen et al. | [2508.18171v2](http://arxiv.org/abs/2508.18171v2) | **NULL** |
+| **2025/08/22** | First observation of the charmless baryonic decay $B^+\to\barΛp\bar{p}p$ | LHCb collaboration et al. | [2508.16259v1](http://arxiv.org/abs/2508.16259v1) | **NULL** |
 | **2025/08/21** | $\texttt{HostSub_GP}$: Precise Galaxy Background Subtraction in Transient Spectroscopy with Gaussian Processes | Chang Liu et al. | [2508.15278v1](http://arxiv.org/abs/2508.15278v1) | **NULL** |
 | **2025/08/01** | Noise Reduction Method for Radio Astronomy Single Station Observation Based on Wavelet Transform and Mathematical Morphology | Ming-wei Qin et al. | [2508.00386v1](http://arxiv.org/abs/2508.00386v1) | **NULL** |
 | **2025/07/31** | Quantum-enhanced dark matter detection using Schrödinger cat states | Pan Zheng et al. | [2507.23538v1](http://arxiv.org/abs/2507.23538v1) | **NULL** |
@@ -116,5 +118,3 @@ layout: default
 | **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
 | **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v2](http://arxiv.org/abs/2503.00370v2) | **NULL** |
 | **2025/02/21** | Equivariant localization in supergravity in odd dimensions | Edoardo Colombo et al. | [2502.15624v1](http://arxiv.org/abs/2502.15624v1) | **NULL** |
-| **2025/02/13** | ALMA-IMF XVII -- Census and lifetime of high-mass prestellar cores in 14 massive protoclusters | M. Valeille-Manet et al. | [2502.09426v1](http://arxiv.org/abs/2502.09426v1) | **NULL** |
-| **2025/02/06** | Drone Beam Mapping of the TONE Radio Dish Array | Emily R. Kuhn et al. | [2502.03759v1](http://arxiv.org/abs/2502.03759v1) | **NULL** |
