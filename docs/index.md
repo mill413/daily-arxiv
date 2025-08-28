@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/27 09:05:59
+> Updated on 2025/08/28 09:05:36
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/26** | Saddle Hierarchy in Dense Associative Memory | Robin Thériault et al. | [2508.19151v1](http://arxiv.org/abs/2508.19151v1) | **NULL** |
+| **2025/08/26** | Is attention truly all we need? An empirical study of asset pricing in pretrained RNN sparse and global attention models | Shanyan Lai | [2508.19006v1](http://arxiv.org/abs/2508.19006v1) | **NULL** |
+| **2025/08/26** | HierCVAE: Hierarchical Attention-Driven Conditional Variational Autoencoders for Multi-Scale Temporal Modeling | Yao Wu | [2508.18922v1](http://arxiv.org/abs/2508.18922v1) | **NULL** |
+| **2025/08/26** | HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections | Mahmoud Dhimish | [2508.18912v1](http://arxiv.org/abs/2508.18912v1) | **NULL** |
+| **2025/08/26** | Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models | Yuexuan Xia et al. | [2508.18886v1](http://arxiv.org/abs/2508.18886v1) | **NULL** |
+| **2025/08/26** | Microscale optoelectronic synapses with switchable photocurrent from halide perovskite | Jeroen J. de Boer et al. | [2508.18869v1](http://arxiv.org/abs/2508.18869v1) | **NULL** |
+| **2025/08/26** | SFormer: SNR-guided Transformer for Underwater Image Enhancement from the Frequency Domain | Xin Tian et al. | [2508.18664v1](http://arxiv.org/abs/2508.18664v1) | **NULL** |
+| **2025/08/25** | From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology | Alireza Abbaszadeh et al. | [2508.18446v1](http://arxiv.org/abs/2508.18446v1) | **NULL** |
+| **2025/08/25** | Integral Transformer: Denoising Attention, Not Too Much Not Too Little | Ivan Kobyzev et al. | [2508.18387v1](http://arxiv.org/abs/2508.18387v1) | **NULL** |
 | **2025/08/25** | From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models | ZiqiZhang et al. | [2508.18253v1](http://arxiv.org/abs/2508.18253v1) | **NULL** |
 | **2025/08/25** | Flash Sparse Attention: An Alternative Efficient Implementation of Native Sparse Attention Kernel | Ran Yan et al. | [2508.18224v1](http://arxiv.org/abs/2508.18224v1) | **NULL** |
 | **2025/08/25** | Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding | Pu Feng et al. | [2508.17971v1](http://arxiv.org/abs/2508.17971v1) | **NULL** |
@@ -65,6 +74,7 @@ layout: default
 | **2025/08/25** | Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning | An Ning et al. | [2508.17630v2](http://arxiv.org/abs/2508.17630v2) | **NULL** |
 | **2025/08/24** | TANDEM: Temporal Attention-guided Neural Differential Equations for Missingness in Time Series Classification | YongKyung Oh et al. | [2508.17519v1](http://arxiv.org/abs/2508.17519v1) | **NULL** |
 | **2025/08/24** | Multimodal Representation Learning Conditioned on Semantic Relations | Yang Qiao et al. | [2508.17497v1](http://arxiv.org/abs/2508.17497v1) | **NULL** |
+| **2025/08/24** | Structures Meet Semantics: Multimodal Fusion via Graph Contrastive Learning | Jiangfeng Sun et al. | [2508.18322v1](http://arxiv.org/abs/2508.18322v1) | **NULL** |
 | **2025/08/24** | ResLink: A Novel Deep Learning Architecture for Brain Tumor Classification with Area Attention and Residual Connections | Sumedha Arya et al. | [2508.17259v1](http://arxiv.org/abs/2508.17259v1) | **NULL** |
 | **2025/08/24** | Scaling Graph Transformers: A Comparative Study of Sparse and Dense Attention | Leon Dimitrov | [2508.17175v1](http://arxiv.org/abs/2508.17175v1) | **NULL** |
 | **2025/08/23** | CE-RS-SBCIT A Novel Channel Enhanced Hybrid CNN Transformer with Residual, Spatial, and Boundary-Aware Learning for Brain Tumor MRI Analysis | Mirza Mumtaz Zahoor et al. | [2508.17128v1](http://arxiv.org/abs/2508.17128v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/08/23** | Proximal Vision Transformer: Enhancing Feature Representation through Two-Stage Manifold Geometry | Haoyu Yun et al. | [2508.17081v1](http://arxiv.org/abs/2508.17081v1) | **NULL** |
 | **2025/08/23** | SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation | Peng Hu et al. | [2508.17062v1](http://arxiv.org/abs/2508.17062v1) | **NULL** |
 | **2025/08/23** | RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze | Ruicheng Zhang et al. | [2508.16956v1](http://arxiv.org/abs/2508.16956v1) | **NULL** |
-| **2025/08/23** | An Adaptive Environment-Aware Transformer Autoencoder for UAV-FSO with Dynamic Complexity Control | Han Zeng et al. | [2508.16918v2](http://arxiv.org/abs/2508.16918v2) | **NULL** |
-| **2025/08/23** | A Lightweight Convolution and Vision Transformer integrated model with Multi-scale Self-attention Mechanism | Yi Zhang et al. | [2508.16884v1](http://arxiv.org/abs/2508.16884v1) | **NULL** |
-| **2025/08/22** | Explainable AI in Deep Learning-Based Prediction of Solar Storms | Adam O. Rawashdeh et al. | [2508.16543v1](http://arxiv.org/abs/2508.16543v1) | **NULL** |
-| **2025/08/22** | Agentic AI Empowered Multi-UAV Trajectory Optimization in Low-Altitude Economy Networks | Feibo Jiang et al. | [2508.16379v1](http://arxiv.org/abs/2508.16379v1) | **NULL** |
-| **2025/08/22** | Attention Mechanism in Randomized Time Warping | Yutaro Hiraoka et al. | [2508.16366v1](http://arxiv.org/abs/2508.16366v1) | **NULL** |
-| **2025/08/22** | PromptFlare: Prompt-Generalized Defense via Cross-Attention Decoy in Diffusion-Based Inpainting | Hohyun Na et al. | [2508.16217v1](http://arxiv.org/abs/2508.16217v1) | **NULL** |
-| **2025/08/22** | RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution | Haodong He et al. | [2508.16158v1](http://arxiv.org/abs/2508.16158v1) | **NULL** |
-| **2025/08/22** | Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction | Ao Zhou et al. | [2508.16147v1](http://arxiv.org/abs/2508.16147v1) | **NULL** |
-| **2025/08/22** | Two-flow Feedback Multi-scale Progressive Generative Adversarial Network | Sun Weikai et al. | [2508.16089v1](http://arxiv.org/abs/2508.16089v1) | **NULL** |
-| **2025/08/21** | STGAtt: A Spatial-Temporal Unified Graph Attention Network for Traffic Flow Forecasting | Zhuding Liang et al. | [2508.16685v1](http://arxiv.org/abs/2508.16685v1) | **NULL** |
 
 ## 背景差分
 
