@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/29 09:05:43
+> Updated on 2025/08/30 09:02:50
 
 <summary>Table of Contents</summary>
 
@@ -53,9 +53,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/28** | GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction | Jie Zhao et al. | [2508.20828v1](http://arxiv.org/abs/2508.20828v1) | **NULL** |
+| **2025/08/28** | Surfel-based 3D Registration with Equivariant SE(3) Features | Xueyang Kang et al. | [2508.20789v1](http://arxiv.org/abs/2508.20789v1) | **NULL** |
+| **2025/08/28** | SKGE-SWIN: End-To-End Autonomous Vehicle Waypoint Prediction and Navigation Using Skip Stage Swin Transformer | Fachri Najm Noer Kartiman et al. | [2508.20762v1](http://arxiv.org/abs/2508.20762v1) | **NULL** |
+| **2025/08/28** | "Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection | Anastasios Skoularikis et al. | [2508.20670v1](http://arxiv.org/abs/2508.20670v1) | **NULL** |
+| **2025/08/28** | Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music | Hongju Su et al. | [2508.20665v1](http://arxiv.org/abs/2508.20665v1) | **NULL** |
+| **2025/08/28** | CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models | Ayan Banerjee et al. | [2508.20640v1](http://arxiv.org/abs/2508.20640v1) | **NULL** |
+| **2025/08/28** | FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models | Zheng Chong et al. | [2508.20586v1](http://arxiv.org/abs/2508.20586v1) | **NULL** |
+| **2025/08/28** | A Spatial-Frequency Aware Multi-Scale Fusion Network for Real-Time Deepfake Detection | Libo Lv et al. | [2508.20449v1](http://arxiv.org/abs/2508.20449v1) | **NULL** |
+| **2025/08/28** | MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph | Zhiqiang Wang et al. | [2508.20412v1](http://arxiv.org/abs/2508.20412v1) | **NULL** |
+| **2025/08/28** | Rethinking Transformer Connectivity: TLinFormer, A Path to Exact, Full Context-Aware Linear Attention | Zhongpan Tang | [2508.20407v1](http://arxiv.org/abs/2508.20407v1) | **NULL** |
 | **2025/08/27** | ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation | Haoshuo Zhang et al. | [2508.20057v1](http://arxiv.org/abs/2508.20057v1) | **NULL** |
 | **2025/08/27** | WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution | Fayaz Ali et al. | [2508.19927v1](http://arxiv.org/abs/2508.19927v1) | **NULL** |
 | **2025/08/27** | TopoBind: Multi-Modal Prediction of Antibody-Antigen Binding Free Energy via Sequence Embeddings and Structural Topology | Ciyuan Yu et al. | [2508.19632v1](http://arxiv.org/abs/2508.19632v1) | **NULL** |
+| **2025/08/27** | Is the medical image segmentation problem solved? A survey of current developments and future directions | Guoping Xu et al. | [2508.20139v1](http://arxiv.org/abs/2508.20139v1) | **NULL** |
 | **2025/08/26** | DETNO: A Diffusion-Enhanced Transformer Neural Operator for Long-Term Traffic Forecasting | Owais Ahmad et al. | [2508.19389v1](http://arxiv.org/abs/2508.19389v1) | **NULL** |
 | **2025/08/26** | Saddle Hierarchy in Dense Associative Memory | Robin Thériault et al. | [2508.19151v1](http://arxiv.org/abs/2508.19151v1) | **NULL** |
 | **2025/08/26** | Is attention truly all we need? An empirical study of asset pricing in pretrained RNN sparse and global attention models | Shanyan Lai | [2508.19006v1](http://arxiv.org/abs/2508.19006v1) | **NULL** |
@@ -72,22 +83,12 @@ layout: default
 | **2025/08/25** | Flash Sparse Attention: An Alternative Efficient Implementation of Native Sparse Attention Kernel | Ran Yan et al. | [2508.18224v1](http://arxiv.org/abs/2508.18224v1) | **NULL** |
 | **2025/08/25** | Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding | Pu Feng et al. | [2508.17971v1](http://arxiv.org/abs/2508.17971v1) | **NULL** |
 | **2025/08/25** | Prompt-based Multimodal Semantic Communication for Multi-spectral Image Segmentation | Haoshuo Zhang et al. | [2508.17920v1](http://arxiv.org/abs/2508.17920v1) | **NULL** |
-| **2025/08/25** | Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks | Dan Wang et al. | [2508.17867v2](http://arxiv.org/abs/2508.17867v2) | **NULL** |
-| **2025/08/25** | Limitations of Normalization in Attention Mechanism | Timur Mudarisov et al. | [2508.17821v1](http://arxiv.org/abs/2508.17821v1) | **NULL** |
-| **2025/08/25** | Two-Timescale Learning for Pilot-Free ISAC Systems | Jian Xiao et al. | [2508.17749v1](http://arxiv.org/abs/2508.17749v1) | **NULL** |
-| **2025/08/25** | EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning | Yinda Chen et al. | [2508.17703v1](http://arxiv.org/abs/2508.17703v1) | **NULL** |
-| **2025/08/25** | Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing | Yogesh Kumar | [2508.17686v1](http://arxiv.org/abs/2508.17686v1) | **NULL** |
-| **2025/08/25** | Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning | An Ning et al. | [2508.17630v3](http://arxiv.org/abs/2508.17630v3) | **NULL** |
-| **2025/08/24** | TANDEM: Temporal Attention-guided Neural Differential Equations for Missingness in Time Series Classification | YongKyung Oh et al. | [2508.17519v1](http://arxiv.org/abs/2508.17519v1) | **NULL** |
-| **2025/08/24** | Multimodal Representation Learning Conditioned on Semantic Relations | Yang Qiao et al. | [2508.17497v1](http://arxiv.org/abs/2508.17497v1) | **NULL** |
-| **2025/08/24** | Structures Meet Semantics: Multimodal Fusion via Graph Contrastive Learning | Jiangfeng Sun et al. | [2508.18322v1](http://arxiv.org/abs/2508.18322v1) | **NULL** |
-| **2025/08/24** | ResLink: A Novel Deep Learning Architecture for Brain Tumor Classification with Area Attention and Residual Connections | Sumedha Arya et al. | [2508.17259v1](http://arxiv.org/abs/2508.17259v1) | **NULL** |
-| **2025/08/24** | Scaling Graph Transformers: A Comparative Study of Sparse and Dense Attention | Leon Dimitrov | [2508.17175v1](http://arxiv.org/abs/2508.17175v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/28** | Deep learning for jet modification in the presence of the QGP background | Ran Li et al. | [2508.20856v1](http://arxiv.org/abs/2508.20856v1) | **NULL** |
 | **2025/08/27** | Sky Background Building of Multi-objective Fiber spectra Based on Mutual Information Network | Hui Zhang et al. | [2508.19875v1](http://arxiv.org/abs/2508.19875v1) | **NULL** |
 | **2025/08/25** | Quadratic curvature corrections to 5-dimensional Kerr-AdS black hole thermodynamics by background subtraction method | Gerui Chen et al. | [2508.18171v2](http://arxiv.org/abs/2508.18171v2) | **NULL** |
 | **2025/08/22** | First observation of the charmless baryonic decay $B^+\to\barΛp\bar{p}p$ | LHCb collaboration et al. | [2508.16259v1](http://arxiv.org/abs/2508.16259v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | **NULL** |
 | **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | **NULL** |
 | **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
-| **2025/03/01** | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | Nicholas Pfaff et al. | [2503.00370v2](http://arxiv.org/abs/2503.00370v2) | **NULL** |
