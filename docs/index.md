@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/08/31 09:10:08
+> Updated on 2025/09/01 09:16:42
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v1](http://arxiv.org/abs/2508.19762v1) | **NULL** |
+| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v2](http://arxiv.org/abs/2508.19762v2) | **NULL** |
 | **2025/08/20** | Inter-Class Relational Loss for Small Object Detection: A Case Study on License Plates | Dian Ning et al. | [2508.14343v1](http://arxiv.org/abs/2508.14343v1) | **NULL** |
 | **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
@@ -28,7 +28,7 @@ layout: default
 | **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
 | **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v1](http://arxiv.org/abs/2507.13120v1) | **NULL** |
 | **2025/07/17** | SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery | Peijun Wang et al. | [2507.12727v1](http://arxiv.org/abs/2507.12727v1) | **NULL** |
-| **2025/07/16** | InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization | Haoyuan Liu et al. | [2507.12420v1](http://arxiv.org/abs/2507.12420v1) | **NULL** |
+| **2025/07/16** | InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization | Haoyuan Liu et al. | [2507.12420v2](http://arxiv.org/abs/2507.12420v2) | **NULL** |
 | **2025/07/09** | A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level | Johanna Orsholm et al. | [2507.06972v1](http://arxiv.org/abs/2507.06972v1) | **NULL** |
 | **2025/07/01** | High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery | Hongxing Peng et al. | [2507.00825v2](http://arxiv.org/abs/2507.00825v2) | **NULL** |
 | **2025/06/30** | Event-based Tiny Object Detection: A Benchmark Dataset and Baseline | Nuo Chen et al. | [2506.23575v1](http://arxiv.org/abs/2506.23575v1) | **NULL** |
