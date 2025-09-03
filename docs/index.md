@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/01 09:16:42
+> Updated on 2025/09/03 09:02:49
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/08/29** | One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist | Junha Song et al. | [2508.21451v1](http://arxiv.org/abs/2508.21451v1) | **NULL** |
+| **2025/08/29** | Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty | Haojie Bai et al. | [2508.21322v1](http://arxiv.org/abs/2508.21322v1) | **NULL** |
 | **2025/08/28** | GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction | Jie Zhao et al. | [2508.20828v1](http://arxiv.org/abs/2508.20828v1) | **NULL** |
 | **2025/08/28** | Surfel-based 3D Registration with Equivariant SE(3) Features | Xueyang Kang et al. | [2508.20789v1](http://arxiv.org/abs/2508.20789v1) | **NULL** |
 | **2025/08/28** | SKGE-SWIN: End-To-End Autonomous Vehicle Waypoint Prediction and Navigation Using Skip Stage Swin Transformer | Fachri Najm Noer Kartiman et al. | [2508.20762v1](http://arxiv.org/abs/2508.20762v1) | **NULL** |
@@ -81,8 +83,6 @@ layout: default
 | **2025/08/25** | Integral Transformer: Denoising Attention, Not Too Much Not Too Little | Ivan Kobyzev et al. | [2508.18387v1](http://arxiv.org/abs/2508.18387v1) | **NULL** |
 | **2025/08/25** | From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models | ZiqiZhang et al. | [2508.18253v1](http://arxiv.org/abs/2508.18253v1) | **NULL** |
 | **2025/08/25** | Flash Sparse Attention: An Alternative Efficient Implementation of Native Sparse Attention Kernel | Ran Yan et al. | [2508.18224v1](http://arxiv.org/abs/2508.18224v1) | **NULL** |
-| **2025/08/25** | Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding | Pu Feng et al. | [2508.17971v1](http://arxiv.org/abs/2508.17971v1) | **NULL** |
-| **2025/08/25** | Prompt-based Multimodal Semantic Communication for Multi-spectral Image Segmentation | Haoshuo Zhang et al. | [2508.17920v1](http://arxiv.org/abs/2508.17920v1) | **NULL** |
 
 ## 背景差分
 
