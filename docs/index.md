@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/04 09:02:29
+> Updated on 2025/09/05 09:04:04
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v2](http://arxiv.org/abs/2508.19762v2) | **NULL** |
+| **2025/09/03** | SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery | Chenhao Wang et al. | [2509.03002v1](http://arxiv.org/abs/2509.03002v1) | **NULL** |
+| **2025/09/03** | A Data-Driven RetinaNet Model for Small Object Detection in Aerial Images | Zhicheng Tang et al. | [2509.02928v1](http://arxiv.org/abs/2509.02928v1) | **NULL** |
+| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v3](http://arxiv.org/abs/2508.19762v3) | **NULL** |
 | **2025/08/20** | Inter-Class Relational Loss for Small Object Detection: A Case Study on License Plates | Dian Ning et al. | [2508.14343v1](http://arxiv.org/abs/2508.14343v1) | **NULL** |
 | **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
@@ -46,13 +48,32 @@ layout: default
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 | **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
 | **2025/04/14** | Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware | Muhammad Fasih Tariq et al. | [2504.09900v1](http://arxiv.org/abs/2504.09900v1) | **NULL** |
-| **2025/04/11** | SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection | Huaxiang Zhang et al. | [2504.11470v1](http://arxiv.org/abs/2504.11470v1) | **NULL** |
-| **2025/03/29** | Context in object detection: a systematic literature review | Mahtab Jamali et al. | [2503.23249v1](http://arxiv.org/abs/2503.23249v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/03** | EdgeAttNet: Towards Barb-Aware Filament Segmentation | Victor Solomon et al. | [2509.02964v1](http://arxiv.org/abs/2509.02964v1) | **NULL** |
+| **2025/09/02** | Multi-Scale Deep Learning for Colon Histopathology: A Hybrid Graph-Transformer Approach | Sadra Saremi et al. | [2509.02851v1](http://arxiv.org/abs/2509.02851v1) | **NULL** |
+| **2025/09/02** | Enhancing Fitness Movement Recognition with Attention Mechanism and Pre-Trained Feature Extractors | Shanjid Hasan Nishat et al. | [2509.02511v1](http://arxiv.org/abs/2509.02511v1) | **NULL** |
+| **2025/09/02** | ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting | Jiacheng Shi et al. | [2509.01997v1](http://arxiv.org/abs/2509.01997v1) | **NULL** |
+| **2025/09/01** | HodgeFormer: Transformers for Learnable Operators on Triangular Meshes through Data-Driven Hodge Matrices | Akis Nousias et al. | [2509.01839v2](http://arxiv.org/abs/2509.01839v2) | **NULL** |
+| **2025/09/01** | Deep Learning-Based Rock Particulate Classification Using Attention-Enhanced ConvNeXt | Anthony Amankwah et al. | [2509.01704v1](http://arxiv.org/abs/2509.01704v1) | **NULL** |
+| **2025/09/01** | Model Unmerging: Making Your Models Unmergeable for Secure Model Sharing | Zihao Wang et al. | [2509.01548v1](http://arxiv.org/abs/2509.01548v1) | **NULL** |
+| **2025/09/01** | CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models | Kairong Han et al. | [2509.01535v1](http://arxiv.org/abs/2509.01535v1) | **NULL** |
+| **2025/09/01** | InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information | Guohui Zhang et al. | [2509.01421v1](http://arxiv.org/abs/2509.01421v1) | **NULL** |
+| **2025/09/01** | Neural Scene Designer: Self-Styled Semantic Image Manipulation | Jianman Lin et al. | [2509.01405v1](http://arxiv.org/abs/2509.01405v1) | **NULL** |
+| **2025/09/01** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | Jiahao Li et al. | [2509.01275v2](http://arxiv.org/abs/2509.01275v2) | **NULL** |
+| **2025/09/01** | A Multimodal Deep Learning Framework for Early Diagnosis of Liver Cancer via Optimized BiLSTM-AM-VMD Architecture | Cheng Cheng et al. | [2509.01164v1](http://arxiv.org/abs/2509.01164v1) | **NULL** |
+| **2025/09/01** | MVTrajecter: Multi-View Pedestrian Tracking with Trajectory Motion Cost and Trajectory Appearance Cost | Taiga Yamane et al. | [2509.01157v1](http://arxiv.org/abs/2509.01157v1) | **NULL** |
+| **2025/08/31** | Diffusion-Based Image-to-Brain Signal Generation with Cross-Attention Mechanisms for Visual Prostheses | Ganxi Xu et al. | [2509.00787v1](http://arxiv.org/abs/2509.00787v1) | **NULL** |
+| **2025/08/31** | Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model | Yifei She et al. | [2509.00664v1](http://arxiv.org/abs/2509.00664v1) | **NULL** |
+| **2025/08/30** | Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling | Rishiraj Acharya | [2509.00605v1](http://arxiv.org/abs/2509.00605v1) | **NULL** |
+| **2025/08/30** | C-DiffDet+: Fusing Global Scene Context with Generative Denoising for High-Fidelity Object Detection | Abdellah Zakaria Sellam et al. | [2509.00578v2](http://arxiv.org/abs/2509.00578v2) | **NULL** |
+| **2025/08/30** | LatentEdit: Adaptive Latent Control for Consistent Semantic Editing | Siyi Liu et al. | [2509.00541v1](http://arxiv.org/abs/2509.00541v1) | **NULL** |
+| **2025/08/30** | HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization | Joohyun Chang et al. | [2509.00385v1](http://arxiv.org/abs/2509.00385v1) | **NULL** |
+| **2025/08/30** | Adaptive Point-Prompt Tuning: Fine-Tuning Heterogeneous Foundation Models for 3D Point Cloud Analysis | Mengke Li et al. | [2509.00374v1](http://arxiv.org/abs/2509.00374v1) | **NULL** |
+| **2025/08/29** | Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction | Stefan-Alexandru Jura et al. | [2509.00259v1](http://arxiv.org/abs/2509.00259v1) | **NULL** |
 | **2025/08/29** | One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist | Junha Song et al. | [2508.21451v1](http://arxiv.org/abs/2508.21451v1) | **NULL** |
 | **2025/08/29** | Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty | Haojie Bai et al. | [2508.21322v1](http://arxiv.org/abs/2508.21322v1) | **NULL** |
 | **2025/08/28** | GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction | Jie Zhao et al. | [2508.20828v1](http://arxiv.org/abs/2508.20828v1) | **NULL** |
@@ -62,27 +83,6 @@ layout: default
 | **2025/08/28** | Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music | Hongju Su et al. | [2508.20665v1](http://arxiv.org/abs/2508.20665v1) | **NULL** |
 | **2025/08/28** | CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models | Ayan Banerjee et al. | [2508.20640v1](http://arxiv.org/abs/2508.20640v1) | **NULL** |
 | **2025/08/28** | FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models | Zheng Chong et al. | [2508.20586v1](http://arxiv.org/abs/2508.20586v1) | **NULL** |
-| **2025/08/28** | A Spatial-Frequency Aware Multi-Scale Fusion Network for Real-Time Deepfake Detection | Libo Lv et al. | [2508.20449v1](http://arxiv.org/abs/2508.20449v1) | **NULL** |
-| **2025/08/28** | MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph | Zhiqiang Wang et al. | [2508.20412v1](http://arxiv.org/abs/2508.20412v1) | **NULL** |
-| **2025/08/28** | Rethinking Transformer Connectivity: TLinFormer, A Path to Exact, Full Context-Aware Linear Attention | Zhongpan Tang | [2508.20407v1](http://arxiv.org/abs/2508.20407v1) | **NULL** |
-| **2025/08/27** | ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation | Haoshuo Zhang et al. | [2508.20057v1](http://arxiv.org/abs/2508.20057v1) | **NULL** |
-| **2025/08/27** | WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution | Fayaz Ali et al. | [2508.19927v1](http://arxiv.org/abs/2508.19927v1) | **NULL** |
-| **2025/08/27** | TopoBind: Multi-Modal Prediction of Antibody-Antigen Binding Free Energy via Sequence Embeddings and Structural Topology | Ciyuan Yu et al. | [2508.19632v1](http://arxiv.org/abs/2508.19632v1) | **NULL** |
-| **2025/08/27** | Is the medical image segmentation problem solved? A survey of current developments and future directions | Guoping Xu et al. | [2508.20139v1](http://arxiv.org/abs/2508.20139v1) | **NULL** |
-| **2025/08/26** | DETNO: A Diffusion-Enhanced Transformer Neural Operator for Long-Term Traffic Forecasting | Owais Ahmad et al. | [2508.19389v1](http://arxiv.org/abs/2508.19389v1) | **NULL** |
-| **2025/08/26** | Saddle Hierarchy in Dense Associative Memory | Robin Thériault et al. | [2508.19151v1](http://arxiv.org/abs/2508.19151v1) | **NULL** |
-| **2025/08/26** | Is attention truly all we need? An empirical study of asset pricing in pretrained RNN sparse and global attention models | Shanyan Lai | [2508.19006v1](http://arxiv.org/abs/2508.19006v1) | **NULL** |
-| **2025/08/26** | HierCVAE: Hierarchical Attention-Driven Conditional Variational Autoencoders for Multi-Scale Temporal Modeling | Yao Wu | [2508.18922v1](http://arxiv.org/abs/2508.18922v1) | **NULL** |
-| **2025/08/26** | HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections | Mahmoud Dhimish | [2508.18912v1](http://arxiv.org/abs/2508.18912v1) | **NULL** |
-| **2025/08/26** | Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models | Yuexuan Xia et al. | [2508.18886v1](http://arxiv.org/abs/2508.18886v1) | **NULL** |
-| **2025/08/26** | Microscale optoelectronic synapses with switchable photocurrent from halide perovskite | Jeroen J. de Boer et al. | [2508.18869v1](http://arxiv.org/abs/2508.18869v1) | **NULL** |
-| **2025/08/26** | Identification of Strongly Lensed Gravitational Wave Events Using Squeeze-and-Excitation Multilayer Perceptron Data-efficient Image Transformer | Dejiang Li et al. | [2508.19311v1](http://arxiv.org/abs/2508.19311v1) | **NULL** |
-| **2025/08/26** | Infant Cry Detection In Noisy Environment Using Blueprint Separable Convolutions and Time-Frequency Recurrent Neural Network | Haolin Yu et al. | [2508.19308v1](http://arxiv.org/abs/2508.19308v1) | **NULL** |
-| **2025/08/26** | SFormer: SNR-guided Transformer for Underwater Image Enhancement from the Frequency Domain | Xin Tian et al. | [2508.18664v1](http://arxiv.org/abs/2508.18664v1) | **NULL** |
-| **2025/08/25** | From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology | Alireza Abbaszadeh et al. | [2508.18446v1](http://arxiv.org/abs/2508.18446v1) | **NULL** |
-| **2025/08/25** | Integral Transformer: Denoising Attention, Not Too Much Not Too Little | Ivan Kobyzev et al. | [2508.18387v1](http://arxiv.org/abs/2508.18387v1) | **NULL** |
-| **2025/08/25** | From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models | ZiqiZhang et al. | [2508.18253v1](http://arxiv.org/abs/2508.18253v1) | **NULL** |
-| **2025/08/25** | Flash Sparse Attention: An Alternative Efficient Implementation of Native Sparse Attention Kernel | Ran Yan et al. | [2508.18224v1](http://arxiv.org/abs/2508.18224v1) | **NULL** |
 
 ## 背景差分
 
