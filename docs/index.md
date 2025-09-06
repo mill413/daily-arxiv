@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/05 09:04:04
+> Updated on 2025/09/06 09:02:31
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v1](http://arxiv.org/abs/2509.04378v1) | **NULL** |
+| **2025/09/04** | Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer | Yin Huang et al. | [2509.04362v1](http://arxiv.org/abs/2509.04362v1) | **NULL** |
+| **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
+| **2025/09/04** | COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring | Zhengyang Shen et al. | [2509.04210v1](http://arxiv.org/abs/2509.04210v1) | **NULL** |
+| **2025/09/04** | Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations | Safa Mohammed Sali et al. | [2509.04162v1](http://arxiv.org/abs/2509.04162v1) | **NULL** |
+| **2025/09/04** | Attention as an Adaptive Filter | Peter Racioppo | [2509.04154v1](http://arxiv.org/abs/2509.04154v1) | **NULL** |
+| **2025/09/04** | TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering | Ayan Banerjee et al. | [2509.04123v1](http://arxiv.org/abs/2509.04123v1) | **NULL** |
+| **2025/09/04** | TEn-CATS: Text-Enriched Audio-Visual Video Parsing with Multi-Scale Category-Aware Temporal Graph | Yaru Chen et al. | [2509.04086v1](http://arxiv.org/abs/2509.04086v1) | **NULL** |
+| **2025/09/04** | Using Deep Learning to Identify Artificial Satellite Trails in Multi-band Photometric Astronomical Images | Hua-Jian Yu et al. | [2509.04081v1](http://arxiv.org/abs/2509.04081v1) | **NULL** |
+| **2025/09/04** | Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model | Phuoc-Nguyen Bui et al. | [2509.03895v1](http://arxiv.org/abs/2509.03895v1) | **NULL** |
+| **2025/09/03** | STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification | Zongsen Qiu | [2509.03754v1](http://arxiv.org/abs/2509.03754v1) | **NULL** |
 | **2025/09/03** | EdgeAttNet: Towards Barb-Aware Filament Segmentation | Victor Solomon et al. | [2509.02964v1](http://arxiv.org/abs/2509.02964v1) | **NULL** |
 | **2025/09/02** | Multi-Scale Deep Learning for Colon Histopathology: A Hybrid Graph-Transformer Approach | Sadra Saremi et al. | [2509.02851v1](http://arxiv.org/abs/2509.02851v1) | **NULL** |
 | **2025/09/02** | Enhancing Fitness Movement Recognition with Attention Mechanism and Pre-Trained Feature Extractors | Shanjid Hasan Nishat et al. | [2509.02511v1](http://arxiv.org/abs/2509.02511v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/08/30** | C-DiffDet+: Fusing Global Scene Context with Generative Denoising for High-Fidelity Object Detection | Abdellah Zakaria Sellam et al. | [2509.00578v2](http://arxiv.org/abs/2509.00578v2) | **NULL** |
 | **2025/08/30** | LatentEdit: Adaptive Latent Control for Consistent Semantic Editing | Siyi Liu et al. | [2509.00541v1](http://arxiv.org/abs/2509.00541v1) | **NULL** |
 | **2025/08/30** | HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization | Joohyun Chang et al. | [2509.00385v1](http://arxiv.org/abs/2509.00385v1) | **NULL** |
-| **2025/08/30** | Adaptive Point-Prompt Tuning: Fine-Tuning Heterogeneous Foundation Models for 3D Point Cloud Analysis | Mengke Li et al. | [2509.00374v1](http://arxiv.org/abs/2509.00374v1) | **NULL** |
-| **2025/08/29** | Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction | Stefan-Alexandru Jura et al. | [2509.00259v1](http://arxiv.org/abs/2509.00259v1) | **NULL** |
-| **2025/08/29** | One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist | Junha Song et al. | [2508.21451v1](http://arxiv.org/abs/2508.21451v1) | **NULL** |
-| **2025/08/29** | Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty | Haojie Bai et al. | [2508.21322v1](http://arxiv.org/abs/2508.21322v1) | **NULL** |
-| **2025/08/28** | GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction | Jie Zhao et al. | [2508.20828v1](http://arxiv.org/abs/2508.20828v1) | **NULL** |
-| **2025/08/28** | Surfel-based 3D Registration with Equivariant SE(3) Features | Xueyang Kang et al. | [2508.20789v1](http://arxiv.org/abs/2508.20789v1) | **NULL** |
-| **2025/08/28** | SKGE-SWIN: End-To-End Autonomous Vehicle Waypoint Prediction and Navigation Using Skip Stage Swin Transformer | Fachri Najm Noer Kartiman et al. | [2508.20762v1](http://arxiv.org/abs/2508.20762v1) | **NULL** |
-| **2025/08/28** | "Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection | Anastasios Skoularikis et al. | [2508.20670v1](http://arxiv.org/abs/2508.20670v1) | **NULL** |
-| **2025/08/28** | Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music | Hongju Su et al. | [2508.20665v1](http://arxiv.org/abs/2508.20665v1) | **NULL** |
-| **2025/08/28** | CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models | Ayan Banerjee et al. | [2508.20640v1](http://arxiv.org/abs/2508.20640v1) | **NULL** |
-| **2025/08/28** | FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models | Zheng Chong et al. | [2508.20586v1](http://arxiv.org/abs/2508.20586v1) | **NULL** |
 
 ## 背景差分
 
