@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/07 09:09:22
+> Updated on 2025/09/08 09:08:48
 
 <summary>Table of Contents</summary>
 
@@ -28,7 +28,7 @@ layout: default
 | **2025/07/28** | Tracking Moose using Aerial Object Detection | Christopher Indris et al. | [2507.21256v1](http://arxiv.org/abs/2507.21256v1) | **NULL** |
 | **2025/07/28** | An Improved YOLOv8 Approach for Small Target Detection of Rice Spikelet Flowering in Field Environments | Beizhang Chen et al. | [2507.20506v1](http://arxiv.org/abs/2507.20506v1) | **NULL** |
 | **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
-| **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v1](http://arxiv.org/abs/2507.13120v1) | **NULL** |
+| **2025/07/17** | RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images | Xiaozheng Jiang et al. | [2507.13120v2](http://arxiv.org/abs/2507.13120v2) | **NULL** |
 | **2025/07/17** | SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery | Peijun Wang et al. | [2507.12727v1](http://arxiv.org/abs/2507.12727v1) | **NULL** |
 | **2025/07/16** | InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization | Haoyuan Liu et al. | [2507.12420v2](http://arxiv.org/abs/2507.12420v2) | **NULL** |
 | **2025/07/09** | A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level | Johanna Orsholm et al. | [2507.06972v1](http://arxiv.org/abs/2507.06972v1) | **NULL** |
@@ -53,7 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v1](http://arxiv.org/abs/2509.04378v1) | **NULL** |
+| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v2](http://arxiv.org/abs/2509.04378v2) | **NULL** |
 | **2025/09/04** | Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer | Yin Huang et al. | [2509.04362v1](http://arxiv.org/abs/2509.04362v1) | **NULL** |
 | **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
 | **2025/09/04** | COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring | Zhengyang Shen et al. | [2509.04210v1](http://arxiv.org/abs/2509.04210v1) | **NULL** |
@@ -72,7 +72,7 @@ layout: default
 | **2025/09/01** | Deep Learning-Based Rock Particulate Classification Using Attention-Enhanced ConvNeXt | Anthony Amankwah et al. | [2509.01704v1](http://arxiv.org/abs/2509.01704v1) | **NULL** |
 | **2025/09/01** | Model Unmerging: Making Your Models Unmergeable for Secure Model Sharing | Zihao Wang et al. | [2509.01548v1](http://arxiv.org/abs/2509.01548v1) | **NULL** |
 | **2025/09/01** | CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models | Kairong Han et al. | [2509.01535v1](http://arxiv.org/abs/2509.01535v1) | **NULL** |
-| **2025/09/01** | InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information | Guohui Zhang et al. | [2509.01421v1](http://arxiv.org/abs/2509.01421v1) | **NULL** |
+| **2025/09/01** | InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information | Guohui Zhang et al. | [2509.01421v2](http://arxiv.org/abs/2509.01421v2) | **NULL** |
 | **2025/09/01** | Neural Scene Designer: Self-Styled Semantic Image Manipulation | Jianman Lin et al. | [2509.01405v1](http://arxiv.org/abs/2509.01405v1) | **NULL** |
 | **2025/09/01** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | Jiahao Li et al. | [2509.01275v2](http://arxiv.org/abs/2509.01275v2) | **NULL** |
 | **2025/09/01** | A Multimodal Deep Learning Framework for Early Diagnosis of Liver Cancer via Optimized BiLSTM-AM-VMD Architecture | Cheng Cheng et al. | [2509.01164v1](http://arxiv.org/abs/2509.01164v1) | **NULL** |
