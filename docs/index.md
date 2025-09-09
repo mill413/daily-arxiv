@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/08 09:08:48
+> Updated on 2025/09/09 09:05:28
 
 <summary>Table of Contents</summary>
 
@@ -53,8 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/05** | Elucidating the Design Space of Decay in Linear Attention | Zhen Qin et al. | [2509.05282v1](http://arxiv.org/abs/2509.05282v1) | **NULL** |
+| **2025/09/05** | Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction | Djamel Eddine Boukhari | [2509.05078v1](http://arxiv.org/abs/2509.05078v1) | **NULL** |
+| **2025/09/05** | An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data | Jianlu Wang et al. | [2509.04938v1](http://arxiv.org/abs/2509.04938v1) | **NULL** |
+| **2025/09/05** | UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features | Haowang Cui et al. | [2509.04932v1](http://arxiv.org/abs/2509.04932v1) | **NULL** |
+| **2025/09/05** | Identifying Exoplanets with Deep Learning: A CNN and RNN Classifier for Kepler DR25 and Candidate Vetting | Bibin Thomas et al. | [2509.04793v1](http://arxiv.org/abs/2509.04793v1) | **NULL** |
+| **2025/09/04** | Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems | Wei Xu et al. | [2509.04694v1](http://arxiv.org/abs/2509.04694v1) | **NULL** |
+| **2025/09/04** | Interpreting Transformer Architectures as Implicit Multinomial Regression | Jonas A. Actor et al. | [2509.04653v1](http://arxiv.org/abs/2509.04653v1) | **NULL** |
+| **2025/09/04** | Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety | Sharif Noor Zisad et al. | [2509.04650v1](http://arxiv.org/abs/2509.04650v1) | **NULL** |
 | **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v2](http://arxiv.org/abs/2509.04378v2) | **NULL** |
 | **2025/09/04** | Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer | Yin Huang et al. | [2509.04362v1](http://arxiv.org/abs/2509.04362v1) | **NULL** |
+| **2025/09/04** | Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control | Haruo Fujiwara et al. | [2509.05285v1](http://arxiv.org/abs/2509.05285v1) | **NULL** |
 | **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
 | **2025/09/04** | COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring | Zhengyang Shen et al. | [2509.04210v1](http://arxiv.org/abs/2509.04210v1) | **NULL** |
 | **2025/09/04** | Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations | Safa Mohammed Sali et al. | [2509.04162v1](http://arxiv.org/abs/2509.04162v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/09/01** | CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models | Kairong Han et al. | [2509.01535v1](http://arxiv.org/abs/2509.01535v1) | **NULL** |
 | **2025/09/01** | InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information | Guohui Zhang et al. | [2509.01421v2](http://arxiv.org/abs/2509.01421v2) | **NULL** |
 | **2025/09/01** | Neural Scene Designer: Self-Styled Semantic Image Manipulation | Jianman Lin et al. | [2509.01405v1](http://arxiv.org/abs/2509.01405v1) | **NULL** |
-| **2025/09/01** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | Jiahao Li et al. | [2509.01275v2](http://arxiv.org/abs/2509.01275v2) | **NULL** |
-| **2025/09/01** | A Multimodal Deep Learning Framework for Early Diagnosis of Liver Cancer via Optimized BiLSTM-AM-VMD Architecture | Cheng Cheng et al. | [2509.01164v1](http://arxiv.org/abs/2509.01164v1) | **NULL** |
-| **2025/09/01** | MVTrajecter: Multi-View Pedestrian Tracking with Trajectory Motion Cost and Trajectory Appearance Cost | Taiga Yamane et al. | [2509.01157v1](http://arxiv.org/abs/2509.01157v1) | **NULL** |
-| **2025/08/31** | Diffusion-Based Image-to-Brain Signal Generation with Cross-Attention Mechanisms for Visual Prostheses | Ganxi Xu et al. | [2509.00787v1](http://arxiv.org/abs/2509.00787v1) | **NULL** |
-| **2025/08/31** | Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model | Yifei She et al. | [2509.00664v1](http://arxiv.org/abs/2509.00664v1) | **NULL** |
-| **2025/08/30** | Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling | Rishiraj Acharya | [2509.00605v1](http://arxiv.org/abs/2509.00605v1) | **NULL** |
-| **2025/08/30** | C-DiffDet+: Fusing Global Scene Context with Generative Denoising for High-Fidelity Object Detection | Abdellah Zakaria Sellam et al. | [2509.00578v2](http://arxiv.org/abs/2509.00578v2) | **NULL** |
-| **2025/08/30** | LatentEdit: Adaptive Latent Control for Consistent Semantic Editing | Siyi Liu et al. | [2509.00541v1](http://arxiv.org/abs/2509.00541v1) | **NULL** |
-| **2025/08/30** | HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization | Joohyun Chang et al. | [2509.00385v1](http://arxiv.org/abs/2509.00385v1) | **NULL** |
 
 ## 背景差分
 
