@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/09 09:05:28
+> Updated on 2025/09/10 09:03:11
 
 <summary>Table of Contents</summary>
 
@@ -20,7 +20,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2025/09/03** | SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery | Chenhao Wang et al. | [2509.03002v1](http://arxiv.org/abs/2509.03002v1) | **NULL** |
 | **2025/09/03** | A Data-Driven RetinaNet Model for Small Object Detection in Aerial Images | Zhicheng Tang et al. | [2509.02928v1](http://arxiv.org/abs/2509.02928v1) | **NULL** |
-| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v3](http://arxiv.org/abs/2508.19762v3) | **NULL** |
+| **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v4](http://arxiv.org/abs/2508.19762v4) | **NULL** |
 | **2025/08/20** | Inter-Class Relational Loss for Small Object Detection: A Case Study on License Plates | Dian Ning et al. | [2508.14343v1](http://arxiv.org/abs/2508.14343v1) | **NULL** |
 | **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/08** | BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration | Cem Eteke et al. | [2509.06904v1](http://arxiv.org/abs/2509.06904v1) | **NULL** |
+| **2025/09/08** | Video-Based MPAA Rating Prediction: An Attention-Driven Hybrid Architecture Using Contrastive Learning | Dipta Neogi et al. | [2509.06826v1](http://arxiv.org/abs/2509.06826v1) | **NULL** |
+| **2025/09/08** | D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning | Sai Kartheek Reddy Kasu et al. | [2509.06771v1](http://arxiv.org/abs/2509.06771v1) | **NULL** |
+| **2025/09/08** | Cortex-Synth: Differentiable Topology-Aware 3D Skeleton Synthesis with Hierarchical Graph Attention | Mohamed Zayaan S | [2509.06705v1](http://arxiv.org/abs/2509.06705v1) | **NULL** |
+| **2025/09/08** | QualityFM: a Multimodal Physiological Signal Foundation Model with Self-Distillation for Signal Quality Challenges in Critically Ill Patients | Zongheng Guo et al. | [2509.06516v1](http://arxiv.org/abs/2509.06516v1) | **NULL** |
+| **2025/09/08** | Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning | Yuyao Ge et al. | [2509.06461v1](http://arxiv.org/abs/2509.06461v1) | **NULL** |
+| **2025/09/07** | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | Huy Le et al. | [2509.06165v1](http://arxiv.org/abs/2509.06165v1) | **NULL** |
+| **2025/09/06** | TreeGPT: A Novel Hybrid Architecture for Abstract Syntax Tree Processing with Global Parent-Child Aggregation | Zixi Li | [2509.05550v1](http://arxiv.org/abs/2509.05550v1) | **NULL** |
+| **2025/09/05** | Quaternion Approximation Networks for Enhanced Image Classification and Oriented Object Detection | Bryce Grant et al. | [2509.05512v1](http://arxiv.org/abs/2509.05512v1) | **NULL** |
 | **2025/09/05** | Elucidating the Design Space of Decay in Linear Attention | Zhen Qin et al. | [2509.05282v1](http://arxiv.org/abs/2509.05282v1) | **NULL** |
 | **2025/09/05** | Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction | Djamel Eddine Boukhari | [2509.05078v1](http://arxiv.org/abs/2509.05078v1) | **NULL** |
 | **2025/09/05** | An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data | Jianlu Wang et al. | [2509.04938v1](http://arxiv.org/abs/2509.04938v1) | **NULL** |
@@ -60,8 +69,8 @@ layout: default
 | **2025/09/05** | Identifying Exoplanets with Deep Learning: A CNN and RNN Classifier for Kepler DR25 and Candidate Vetting | Bibin Thomas et al. | [2509.04793v1](http://arxiv.org/abs/2509.04793v1) | **NULL** |
 | **2025/09/04** | Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems | Wei Xu et al. | [2509.04694v1](http://arxiv.org/abs/2509.04694v1) | **NULL** |
 | **2025/09/04** | Interpreting Transformer Architectures as Implicit Multinomial Regression | Jonas A. Actor et al. | [2509.04653v1](http://arxiv.org/abs/2509.04653v1) | **NULL** |
-| **2025/09/04** | Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety | Sharif Noor Zisad et al. | [2509.04650v1](http://arxiv.org/abs/2509.04650v1) | **NULL** |
-| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v2](http://arxiv.org/abs/2509.04378v2) | **NULL** |
+| **2025/09/04** | Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety | Sharif Noor Zisad et al. | [2509.04650v2](http://arxiv.org/abs/2509.04650v2) | **NULL** |
+| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v3](http://arxiv.org/abs/2509.04378v3) | **NULL** |
 | **2025/09/04** | Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer | Yin Huang et al. | [2509.04362v1](http://arxiv.org/abs/2509.04362v1) | **NULL** |
 | **2025/09/04** | Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control | Haruo Fujiwara et al. | [2509.05285v1](http://arxiv.org/abs/2509.05285v1) | **NULL** |
 | **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/09/04** | Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model | Phuoc-Nguyen Bui et al. | [2509.03895v1](http://arxiv.org/abs/2509.03895v1) | **NULL** |
 | **2025/09/03** | STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification | Zongsen Qiu | [2509.03754v1](http://arxiv.org/abs/2509.03754v1) | **NULL** |
 | **2025/09/03** | EdgeAttNet: Towards Barb-Aware Filament Segmentation | Victor Solomon et al. | [2509.02964v1](http://arxiv.org/abs/2509.02964v1) | **NULL** |
-| **2025/09/02** | Multi-Scale Deep Learning for Colon Histopathology: A Hybrid Graph-Transformer Approach | Sadra Saremi et al. | [2509.02851v1](http://arxiv.org/abs/2509.02851v1) | **NULL** |
-| **2025/09/02** | Enhancing Fitness Movement Recognition with Attention Mechanism and Pre-Trained Feature Extractors | Shanjid Hasan Nishat et al. | [2509.02511v1](http://arxiv.org/abs/2509.02511v1) | **NULL** |
-| **2025/09/02** | ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting | Jiacheng Shi et al. | [2509.01997v1](http://arxiv.org/abs/2509.01997v1) | **NULL** |
-| **2025/09/01** | HodgeFormer: Transformers for Learnable Operators on Triangular Meshes through Data-Driven Hodge Matrices | Akis Nousias et al. | [2509.01839v2](http://arxiv.org/abs/2509.01839v2) | **NULL** |
-| **2025/09/01** | Deep Learning-Based Rock Particulate Classification Using Attention-Enhanced ConvNeXt | Anthony Amankwah et al. | [2509.01704v1](http://arxiv.org/abs/2509.01704v1) | **NULL** |
-| **2025/09/01** | Model Unmerging: Making Your Models Unmergeable for Secure Model Sharing | Zihao Wang et al. | [2509.01548v1](http://arxiv.org/abs/2509.01548v1) | **NULL** |
-| **2025/09/01** | CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models | Kairong Han et al. | [2509.01535v1](http://arxiv.org/abs/2509.01535v1) | **NULL** |
-| **2025/09/01** | InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information | Guohui Zhang et al. | [2509.01421v2](http://arxiv.org/abs/2509.01421v2) | **NULL** |
-| **2025/09/01** | Neural Scene Designer: Self-Styled Semantic Image Manipulation | Jianman Lin et al. | [2509.01405v1](http://arxiv.org/abs/2509.01405v1) | **NULL** |
 
 ## 背景差分
 
