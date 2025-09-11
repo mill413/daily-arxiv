@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/10 09:03:11
+> Updated on 2025/09/11 09:04:54
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/09** | MoE-Compression: How the Compression Error of Experts Affects the Inference Accuracy of MoE Model? | Songkai Ma et al. | [2509.07727v1](http://arxiv.org/abs/2509.07727v1) | **NULL** |
+| **2025/09/09** | Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection | Guoyi Zhang et al. | [2509.07654v1](http://arxiv.org/abs/2509.07654v1) | **NULL** |
+| **2025/09/09** | Transformer-Based Approach to Optimal Sensor Placement for Structural Health Monitoring of Probe Cards | Mehdi Bejani et al. | [2509.07603v1](http://arxiv.org/abs/2509.07603v1) | **NULL** |
+| **2025/09/09** | Attention Maps in 3D Shape Classification for Dental Stage Estimation with Class Node Graph Attention Networks | Barkin Buyukcakir et al. | [2509.07581v1](http://arxiv.org/abs/2509.07581v1) | **NULL** |
+| **2025/09/09** | Water Demand Forecasting of District Metered Areas through Learned Consumer Representations | Adithya Ramachandran et al. | [2509.07515v1](http://arxiv.org/abs/2509.07515v1) | **NULL** |
+| **2025/09/09** | Mitigating Attention Localization in Small Scale: Self-Attention Refinement via One-step Belief Propagation | Nakyung Lee et al. | [2509.07324v1](http://arxiv.org/abs/2509.07324v1) | **NULL** |
+| **2025/09/09** | Causal Attention with Lookahead Keys | Zhuoqing Song et al. | [2509.07301v1](http://arxiv.org/abs/2509.07301v1) | **NULL** |
+| **2025/09/08** | Dimensionally Reduced Open-World Clustering: DROWCULA | Erencem Ozbey et al. | [2509.07184v1](http://arxiv.org/abs/2509.07184v1) | **NULL** |
 | **2025/09/08** | BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration | Cem Eteke et al. | [2509.06904v1](http://arxiv.org/abs/2509.06904v1) | **NULL** |
 | **2025/09/08** | Video-Based MPAA Rating Prediction: An Attention-Driven Hybrid Architecture Using Contrastive Learning | Dipta Neogi et al. | [2509.06826v1](http://arxiv.org/abs/2509.06826v1) | **NULL** |
 | **2025/09/08** | D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning | Sai Kartheek Reddy Kasu et al. | [2509.06771v1](http://arxiv.org/abs/2509.06771v1) | **NULL** |
@@ -75,19 +83,12 @@ layout: default
 | **2025/09/04** | Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control | Haruo Fujiwara et al. | [2509.05285v1](http://arxiv.org/abs/2509.05285v1) | **NULL** |
 | **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
 | **2025/09/04** | COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring | Zhengyang Shen et al. | [2509.04210v1](http://arxiv.org/abs/2509.04210v1) | **NULL** |
-| **2025/09/04** | Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations | Safa Mohammed Sali et al. | [2509.04162v1](http://arxiv.org/abs/2509.04162v1) | **NULL** |
-| **2025/09/04** | Attention as an Adaptive Filter | Peter Racioppo | [2509.04154v1](http://arxiv.org/abs/2509.04154v1) | **NULL** |
-| **2025/09/04** | TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering | Ayan Banerjee et al. | [2509.04123v1](http://arxiv.org/abs/2509.04123v1) | **NULL** |
-| **2025/09/04** | TEn-CATS: Text-Enriched Audio-Visual Video Parsing with Multi-Scale Category-Aware Temporal Graph | Yaru Chen et al. | [2509.04086v1](http://arxiv.org/abs/2509.04086v1) | **NULL** |
-| **2025/09/04** | Using Deep Learning to Identify Artificial Satellite Trails in Multi-band Photometric Astronomical Images | Hua-Jian Yu et al. | [2509.04081v1](http://arxiv.org/abs/2509.04081v1) | **NULL** |
-| **2025/09/04** | Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model | Phuoc-Nguyen Bui et al. | [2509.03895v1](http://arxiv.org/abs/2509.03895v1) | **NULL** |
-| **2025/09/03** | STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification | Zongsen Qiu | [2509.03754v1](http://arxiv.org/abs/2509.03754v1) | **NULL** |
-| **2025/09/03** | EdgeAttNet: Towards Barb-Aware Filament Segmentation | Victor Solomon et al. | [2509.02964v1](http://arxiv.org/abs/2509.02964v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/08** | An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging | Rachel Bowens-Rubin et al. | [2509.07138v1](http://arxiv.org/abs/2509.07138v1) | **NULL** |
 | **2025/08/28** | Deep learning for jet modification in the presence of the QGP background | Ran Li et al. | [2508.20856v1](http://arxiv.org/abs/2508.20856v1) | **NULL** |
 | **2025/08/27** | Sky Background Building of Multi-objective Fiber spectra Based on Mutual Information Network | Hui Zhang et al. | [2508.19875v1](http://arxiv.org/abs/2508.19875v1) | **NULL** |
 | **2025/08/25** | Quadratic curvature corrections to 5-dimensional Kerr-AdS black hole thermodynamics by background subtraction method | Gerui Chen et al. | [2508.18171v2](http://arxiv.org/abs/2508.18171v2) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
 | **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | **NULL** |
 | **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | **NULL** |
-| **2025/03/01** | Detection of Customer Interested Garments in Surveillance Video using Computer Vision | Earnest Paul Ijjina et al. | [2503.00442v1](http://arxiv.org/abs/2503.00442v1) | **NULL** |
