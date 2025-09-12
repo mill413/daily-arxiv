@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/11 09:04:54
+> Updated on 2025/09/12 09:02:22
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/10** | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | Edwine Nabahirwa et al. | [2509.08490v1](http://arxiv.org/abs/2509.08490v1) | **NULL** |
 | **2025/09/03** | SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery | Chenhao Wang et al. | [2509.03002v1](http://arxiv.org/abs/2509.03002v1) | **NULL** |
 | **2025/09/03** | A Data-Driven RetinaNet Model for Small Object Detection in Aerial Images | Zhicheng Tang et al. | [2509.02928v1](http://arxiv.org/abs/2509.02928v1) | **NULL** |
 | **2025/08/27** | BuzzSet v1.0: A Dataset for Pollinator Detection in Field Conditions | Ahmed Emam et al. | [2508.19762v4](http://arxiv.org/abs/2508.19762v4) | **NULL** |
@@ -47,12 +48,18 @@ layout: default
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 | **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
-| **2025/04/14** | Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware | Muhammad Fasih Tariq et al. | [2504.09900v1](http://arxiv.org/abs/2504.09900v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/10** | ADHDeepNet From Raw EEG to Diagnosis: Improving ADHD Diagnosis through Temporal-Spatial Processing, Adaptive Attention Mechanisms, and Explainability in Raw EEG Signals | Ali Amini et al. | [2509.08779v1](http://arxiv.org/abs/2509.08779v1) | **NULL** |
+| **2025/09/10** | CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization | Maryam Ansarifard et al. | [2509.08776v1](http://arxiv.org/abs/2509.08776v1) | **NULL** |
+| **2025/09/10** | MAESTRO: Multi-modal Adaptive Ensemble for Spectro-Temporal Robust Optimization | Hong Liu | [2509.08578v1](http://arxiv.org/abs/2509.08578v1) | **NULL** |
+| **2025/09/10** | Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18 | Peter Gänz et al. | [2509.08528v1](http://arxiv.org/abs/2509.08528v1) | **NULL** |
+| **2025/09/10** | InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection | Zhongyu Xia et al. | [2509.08374v1](http://arxiv.org/abs/2509.08374v1) | **NULL** |
+| **2025/09/10** | Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection | Jingjing Liu et al. | [2509.08205v1](http://arxiv.org/abs/2509.08205v1) | **NULL** |
+| **2025/09/09** | SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery | Fengyu She et al. | [2509.08032v1](http://arxiv.org/abs/2509.08032v1) | **NULL** |
 | **2025/09/09** | MoE-Compression: How the Compression Error of Experts Affects the Inference Accuracy of MoE Model? | Songkai Ma et al. | [2509.07727v1](http://arxiv.org/abs/2509.07727v1) | **NULL** |
 | **2025/09/09** | Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection | Guoyi Zhang et al. | [2509.07654v1](http://arxiv.org/abs/2509.07654v1) | **NULL** |
 | **2025/09/09** | Transformer-Based Approach to Optimal Sensor Placement for Structural Health Monitoring of Probe Cards | Mehdi Bejani et al. | [2509.07603v1](http://arxiv.org/abs/2509.07603v1) | **NULL** |
@@ -66,23 +73,16 @@ layout: default
 | **2025/09/08** | D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning | Sai Kartheek Reddy Kasu et al. | [2509.06771v1](http://arxiv.org/abs/2509.06771v1) | **NULL** |
 | **2025/09/08** | Cortex-Synth: Differentiable Topology-Aware 3D Skeleton Synthesis with Hierarchical Graph Attention | Mohamed Zayaan S | [2509.06705v1](http://arxiv.org/abs/2509.06705v1) | **NULL** |
 | **2025/09/08** | QualityFM: a Multimodal Physiological Signal Foundation Model with Self-Distillation for Signal Quality Challenges in Critically Ill Patients | Zongheng Guo et al. | [2509.06516v1](http://arxiv.org/abs/2509.06516v1) | **NULL** |
-| **2025/09/08** | Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning | Yuyao Ge et al. | [2509.06461v1](http://arxiv.org/abs/2509.06461v1) | **NULL** |
+| **2025/09/08** | Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning | Yuyao Ge et al. | [2509.06461v2](http://arxiv.org/abs/2509.06461v2) | **NULL** |
+| **2025/09/07** | An Explainable Deep Neural Network with Frequency-Aware Channel and Spatial Refinement for Flood Prediction in Sustainable Cities | Shahid Shafi Dar et al. | [2509.08003v1](http://arxiv.org/abs/2509.08003v1) | **NULL** |
 | **2025/09/07** | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | Huy Le et al. | [2509.06165v1](http://arxiv.org/abs/2509.06165v1) | **NULL** |
-| **2025/09/06** | TreeGPT: A Novel Hybrid Architecture for Abstract Syntax Tree Processing with Global Parent-Child Aggregation | Zixi Li | [2509.05550v1](http://arxiv.org/abs/2509.05550v1) | **NULL** |
+| **2025/09/06** | TreeGPT: Pure TreeFFN Encoder-Decoder Architecture for Structured Reasoning Without Attention Mechanisms | Zixi Li | [2509.05550v2](http://arxiv.org/abs/2509.05550v2) | **NULL** |
 | **2025/09/05** | Quaternion Approximation Networks for Enhanced Image Classification and Oriented Object Detection | Bryce Grant et al. | [2509.05512v1](http://arxiv.org/abs/2509.05512v1) | **NULL** |
 | **2025/09/05** | Elucidating the Design Space of Decay in Linear Attention | Zhen Qin et al. | [2509.05282v1](http://arxiv.org/abs/2509.05282v1) | **NULL** |
 | **2025/09/05** | Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction | Djamel Eddine Boukhari | [2509.05078v1](http://arxiv.org/abs/2509.05078v1) | **NULL** |
 | **2025/09/05** | An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data | Jianlu Wang et al. | [2509.04938v1](http://arxiv.org/abs/2509.04938v1) | **NULL** |
 | **2025/09/05** | UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features | Haowang Cui et al. | [2509.04932v1](http://arxiv.org/abs/2509.04932v1) | **NULL** |
 | **2025/09/05** | Identifying Exoplanets with Deep Learning: A CNN and RNN Classifier for Kepler DR25 and Candidate Vetting | Bibin Thomas et al. | [2509.04793v1](http://arxiv.org/abs/2509.04793v1) | **NULL** |
-| **2025/09/04** | Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems | Wei Xu et al. | [2509.04694v1](http://arxiv.org/abs/2509.04694v1) | **NULL** |
-| **2025/09/04** | Interpreting Transformer Architectures as Implicit Multinomial Regression | Jonas A. Actor et al. | [2509.04653v1](http://arxiv.org/abs/2509.04653v1) | **NULL** |
-| **2025/09/04** | Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety | Sharif Noor Zisad et al. | [2509.04650v2](http://arxiv.org/abs/2509.04650v2) | **NULL** |
-| **2025/09/04** | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao et al. | [2509.04378v3](http://arxiv.org/abs/2509.04378v3) | **NULL** |
-| **2025/09/04** | Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer | Yin Huang et al. | [2509.04362v1](http://arxiv.org/abs/2509.04362v1) | **NULL** |
-| **2025/09/04** | Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control | Haruo Fujiwara et al. | [2509.05285v1](http://arxiv.org/abs/2509.05285v1) | **NULL** |
-| **2025/09/04** | Rethinking the long-range dependency in Mamba/SSM and transformer models | Cong Ma et al. | [2509.04226v1](http://arxiv.org/abs/2509.04226v1) | **NULL** |
-| **2025/09/04** | COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring | Zhengyang Shen et al. | [2509.04210v1](http://arxiv.org/abs/2509.04210v1) | **NULL** |
 
 ## 背景差分
 
