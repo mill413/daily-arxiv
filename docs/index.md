@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/12 09:02:22
+> Updated on 2025/09/13 08:59:46
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/11** | Conditioning on PDE Parameters to Generalise Deep Learning Emulation of Stochastic and Chaotic Dynamics | Ira J. S. Shokar et al. | [2509.09599v1](http://arxiv.org/abs/2509.09599v1) | **NULL** |
+| **2025/09/11** | ENSI: Efficient Non-Interactive Secure Inference for Large Language Models | Zhiyu He et al. | [2509.09424v1](http://arxiv.org/abs/2509.09424v1) | **NULL** |
+| **2025/09/11** | Efficient Transformer-Based Piano Transcription With Sparse Attention Mechanisms | Weixing Wei et al. | [2509.09318v1](http://arxiv.org/abs/2509.09318v1) | **NULL** |
+| **2025/09/11** | CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification | Mustafa Yurdakul et al. | [2509.09242v1](http://arxiv.org/abs/2509.09242v1) | **NULL** |
+| **2025/09/10** | Fast attention mechanisms: a tale of parallelism | Jingwen Liu et al. | [2509.09001v1](http://arxiv.org/abs/2509.09001v1) | **NULL** |
 | **2025/09/10** | ADHDeepNet From Raw EEG to Diagnosis: Improving ADHD Diagnosis through Temporal-Spatial Processing, Adaptive Attention Mechanisms, and Explainability in Raw EEG Signals | Ali Amini et al. | [2509.08779v1](http://arxiv.org/abs/2509.08779v1) | **NULL** |
 | **2025/09/10** | CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization | Maryam Ansarifard et al. | [2509.08776v1](http://arxiv.org/abs/2509.08776v1) | **NULL** |
 | **2025/09/10** | MAESTRO: Multi-modal Adaptive Ensemble for Spectro-Temporal Robust Optimization | Hong Liu | [2509.08578v1](http://arxiv.org/abs/2509.08578v1) | **NULL** |
 | **2025/09/10** | Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18 | Peter Gänz et al. | [2509.08528v1](http://arxiv.org/abs/2509.08528v1) | **NULL** |
 | **2025/09/10** | InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection | Zhongyu Xia et al. | [2509.08374v1](http://arxiv.org/abs/2509.08374v1) | **NULL** |
 | **2025/09/10** | Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection | Jingjing Liu et al. | [2509.08205v1](http://arxiv.org/abs/2509.08205v1) | **NULL** |
+| **2025/09/09** | USEANet: Ultrasound-Specific Edge-Aware Multi-Branch Network for Lightweight Medical Image Segmentation | Jingyi Gao et al. | [2509.08860v1](http://arxiv.org/abs/2509.08860v1) | **NULL** |
 | **2025/09/09** | SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery | Fengyu She et al. | [2509.08032v1](http://arxiv.org/abs/2509.08032v1) | **NULL** |
 | **2025/09/09** | MoE-Compression: How the Compression Error of Experts Affects the Inference Accuracy of MoE Model? | Songkai Ma et al. | [2509.07727v1](http://arxiv.org/abs/2509.07727v1) | **NULL** |
 | **2025/09/09** | Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection | Guoyi Zhang et al. | [2509.07654v1](http://arxiv.org/abs/2509.07654v1) | **NULL** |
@@ -76,18 +82,13 @@ layout: default
 | **2025/09/08** | Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning | Yuyao Ge et al. | [2509.06461v2](http://arxiv.org/abs/2509.06461v2) | **NULL** |
 | **2025/09/07** | An Explainable Deep Neural Network with Frequency-Aware Channel and Spatial Refinement for Flood Prediction in Sustainable Cities | Shahid Shafi Dar et al. | [2509.08003v1](http://arxiv.org/abs/2509.08003v1) | **NULL** |
 | **2025/09/07** | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | Huy Le et al. | [2509.06165v1](http://arxiv.org/abs/2509.06165v1) | **NULL** |
-| **2025/09/06** | TreeGPT: Pure TreeFFN Encoder-Decoder Architecture for Structured Reasoning Without Attention Mechanisms | Zixi Li | [2509.05550v2](http://arxiv.org/abs/2509.05550v2) | **NULL** |
-| **2025/09/05** | Quaternion Approximation Networks for Enhanced Image Classification and Oriented Object Detection | Bryce Grant et al. | [2509.05512v1](http://arxiv.org/abs/2509.05512v1) | **NULL** |
-| **2025/09/05** | Elucidating the Design Space of Decay in Linear Attention | Zhen Qin et al. | [2509.05282v1](http://arxiv.org/abs/2509.05282v1) | **NULL** |
-| **2025/09/05** | Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction | Djamel Eddine Boukhari | [2509.05078v1](http://arxiv.org/abs/2509.05078v1) | **NULL** |
-| **2025/09/05** | An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data | Jianlu Wang et al. | [2509.04938v1](http://arxiv.org/abs/2509.04938v1) | **NULL** |
-| **2025/09/05** | UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features | Haowang Cui et al. | [2509.04932v1](http://arxiv.org/abs/2509.04932v1) | **NULL** |
-| **2025/09/05** | Identifying Exoplanets with Deep Learning: A CNN and RNN Classifier for Kepler DR25 and Candidate Vetting | Bibin Thomas et al. | [2509.04793v1](http://arxiv.org/abs/2509.04793v1) | **NULL** |
+| **2025/09/07** | TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery | Jiaming Cui et al. | [2509.06035v2](http://arxiv.org/abs/2509.06035v2) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/10** | Empirical Modeling of Zodiacal Backgrounds to Improve JWST NIRISS/SOSS Data Reduction | Tyler Baines et al. | [2509.08870v1](http://arxiv.org/abs/2509.08870v1) | **NULL** |
 | **2025/09/08** | An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging | Rachel Bowens-Rubin et al. | [2509.07138v1](http://arxiv.org/abs/2509.07138v1) | **NULL** |
 | **2025/08/28** | Deep learning for jet modification in the presence of the QGP background | Ran Li et al. | [2508.20856v1](http://arxiv.org/abs/2508.20856v1) | **NULL** |
 | **2025/08/27** | Sky Background Building of Multi-objective Fiber spectra Based on Mutual Information Network | Hui Zhang et al. | [2508.19875v1](http://arxiv.org/abs/2508.19875v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/03/10** | Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes | Lei Xiang et al. | [2503.07921v1](http://arxiv.org/abs/2503.07921v1) | **NULL** |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
 | **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | **NULL** |
-| **2025/03/03** | An Approach for Air Drawing Using Background Subtraction and Contour Extraction | Ramkrishna Acharya | [2503.01497v1](http://arxiv.org/abs/2503.01497v1) | **NULL** |
