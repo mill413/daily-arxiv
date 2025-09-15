@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/14 09:09:03
+> Updated on 2025/09/15 09:08:39
 
 <summary>Table of Contents</summary>
 
@@ -60,7 +60,7 @@ layout: default
 | **2025/09/10** | Fast attention mechanisms: a tale of parallelism | Jingwen Liu et al. | [2509.09001v1](http://arxiv.org/abs/2509.09001v1) | **NULL** |
 | **2025/09/10** | ADHDeepNet From Raw EEG to Diagnosis: Improving ADHD Diagnosis through Temporal-Spatial Processing, Adaptive Attention Mechanisms, and Explainability in Raw EEG Signals | Ali Amini et al. | [2509.08779v1](http://arxiv.org/abs/2509.08779v1) | **NULL** |
 | **2025/09/10** | CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization | Maryam Ansarifard et al. | [2509.08776v1](http://arxiv.org/abs/2509.08776v1) | **NULL** |
-| **2025/09/10** | MAESTRO: Multi-modal Adaptive Ensemble for Spectro-Temporal Robust Optimization | Hong Liu | [2509.08578v1](http://arxiv.org/abs/2509.08578v1) | **NULL** |
+| **2025/09/10** | MAESTRO: Multi-modal Adaptive Estimation for Temporal Respiratory Disease Outbreak | Hong Liu et al. | [2509.08578v2](http://arxiv.org/abs/2509.08578v2) | **NULL** |
 | **2025/09/10** | Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18 | Peter Gänz et al. | [2509.08528v1](http://arxiv.org/abs/2509.08528v1) | **NULL** |
 | **2025/09/10** | InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection | Zhongyu Xia et al. | [2509.08374v1](http://arxiv.org/abs/2509.08374v1) | **NULL** |
 | **2025/09/10** | Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection | Jingjing Liu et al. | [2509.08205v1](http://arxiv.org/abs/2509.08205v1) | **NULL** |
