@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/15 09:08:39
+> Updated on 2025/09/16 09:03:15
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/12** | Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining | Rupert Mitchell et al. | [2509.10406v1](http://arxiv.org/abs/2509.10406v1) | **NULL** |
+| **2025/09/12** | Physics-informed sensor coverage through structure preserving machine learning | Benjamin David Shaffer et al. | [2509.10363v1](http://arxiv.org/abs/2509.10363v1) | **NULL** |
+| **2025/09/12** | GAMMA: Generalizable Alignment via Multi-task and Manipulation-Augmented Training for AI-Generated Image Detection | Haozhen Yan et al. | [2509.10250v1](http://arxiv.org/abs/2509.10250v1) | **NULL** |
+| **2025/09/12** | Prototypical Contrastive Learning For Improved Few-Shot Audio Classification | Christos Sgouropoulos et al. | [2509.10074v1](http://arxiv.org/abs/2509.10074v1) | **NULL** |
+| **2025/09/12** | Hierarchical MLANet: Multi-level Attention for 3D Face Reconstruction From Single Images | Danling Cao | [2509.10024v1](http://arxiv.org/abs/2509.10024v1) | **NULL** |
+| **2025/09/11** | HGEN: Heterogeneous Graph Ensemble Networks | Jiajun Shen et al. | [2509.09843v1](http://arxiv.org/abs/2509.09843v1) | **NULL** |
+| **2025/09/11** | One Head, Many Models: Cross-Attention Routing for Cost-Aware LLM Selection | Roshini Pulishetty et al. | [2509.09782v1](http://arxiv.org/abs/2509.09782v1) | **NULL** |
 | **2025/09/11** | Conditioning on PDE Parameters to Generalise Deep Learning Emulation of Stochastic and Chaotic Dynamics | Ira J. S. Shokar et al. | [2509.09599v1](http://arxiv.org/abs/2509.09599v1) | **NULL** |
 | **2025/09/11** | ENSI: Efficient Non-Interactive Secure Inference for Large Language Models | Zhiyu He et al. | [2509.09424v1](http://arxiv.org/abs/2509.09424v1) | **NULL** |
 | **2025/09/11** | Efficient Transformer-Based Piano Transcription With Sparse Attention Mechanisms | Weixing Wei et al. | [2509.09318v1](http://arxiv.org/abs/2509.09318v1) | **NULL** |
@@ -60,7 +67,6 @@ layout: default
 | **2025/09/10** | Fast attention mechanisms: a tale of parallelism | Jingwen Liu et al. | [2509.09001v1](http://arxiv.org/abs/2509.09001v1) | **NULL** |
 | **2025/09/10** | ADHDeepNet From Raw EEG to Diagnosis: Improving ADHD Diagnosis through Temporal-Spatial Processing, Adaptive Attention Mechanisms, and Explainability in Raw EEG Signals | Ali Amini et al. | [2509.08779v1](http://arxiv.org/abs/2509.08779v1) | **NULL** |
 | **2025/09/10** | CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization | Maryam Ansarifard et al. | [2509.08776v1](http://arxiv.org/abs/2509.08776v1) | **NULL** |
-| **2025/09/10** | MAESTRO: Multi-modal Adaptive Estimation for Temporal Respiratory Disease Outbreak | Hong Liu et al. | [2509.08578v2](http://arxiv.org/abs/2509.08578v2) | **NULL** |
 | **2025/09/10** | Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18 | Peter Gänz et al. | [2509.08528v1](http://arxiv.org/abs/2509.08528v1) | **NULL** |
 | **2025/09/10** | InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection | Zhongyu Xia et al. | [2509.08374v1](http://arxiv.org/abs/2509.08374v1) | **NULL** |
 | **2025/09/10** | Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection | Jingjing Liu et al. | [2509.08205v1](http://arxiv.org/abs/2509.08205v1) | **NULL** |
@@ -77,17 +83,12 @@ layout: default
 | **2025/09/08** | BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration | Cem Eteke et al. | [2509.06904v1](http://arxiv.org/abs/2509.06904v1) | **NULL** |
 | **2025/09/08** | Video-Based MPAA Rating Prediction: An Attention-Driven Hybrid Architecture Using Contrastive Learning | Dipta Neogi et al. | [2509.06826v1](http://arxiv.org/abs/2509.06826v1) | **NULL** |
 | **2025/09/08** | D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning | Sai Kartheek Reddy Kasu et al. | [2509.06771v1](http://arxiv.org/abs/2509.06771v1) | **NULL** |
-| **2025/09/08** | Cortex-Synth: Differentiable Topology-Aware 3D Skeleton Synthesis with Hierarchical Graph Attention | Mohamed Zayaan S | [2509.06705v1](http://arxiv.org/abs/2509.06705v1) | **NULL** |
-| **2025/09/08** | QualityFM: a Multimodal Physiological Signal Foundation Model with Self-Distillation for Signal Quality Challenges in Critically Ill Patients | Zongheng Guo et al. | [2509.06516v1](http://arxiv.org/abs/2509.06516v1) | **NULL** |
-| **2025/09/08** | Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning | Yuyao Ge et al. | [2509.06461v2](http://arxiv.org/abs/2509.06461v2) | **NULL** |
-| **2025/09/07** | An Explainable Deep Neural Network with Frequency-Aware Channel and Spatial Refinement for Flood Prediction in Sustainable Cities | Shahid Shafi Dar et al. | [2509.08003v1](http://arxiv.org/abs/2509.08003v1) | **NULL** |
-| **2025/09/07** | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | Huy Le et al. | [2509.06165v1](http://arxiv.org/abs/2509.06165v1) | **NULL** |
-| **2025/09/07** | TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery | Jiaming Cui et al. | [2509.06035v2](http://arxiv.org/abs/2509.06035v2) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/12** | An ultraviolet burst oscillation candidate from the low-mass X-ray binary EXO 0748-676 | A. Miraval Zanon et al. | [2509.10115v1](http://arxiv.org/abs/2509.10115v1) | **NULL** |
 | **2025/09/10** | Empirical Modeling of Zodiacal Backgrounds to Improve JWST NIRISS/SOSS Data Reduction | Tyler Baines et al. | [2509.08870v1](http://arxiv.org/abs/2509.08870v1) | **NULL** |
 | **2025/09/08** | An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging | Rachel Bowens-Rubin et al. | [2509.07138v1](http://arxiv.org/abs/2509.07138v1) | **NULL** |
 | **2025/08/28** | Deep learning for jet modification in the presence of the QGP background | Ran Li et al. | [2508.20856v1](http://arxiv.org/abs/2508.20856v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/03/14** | Black Hole Action in Einstein's other Gravity | Michal Stano | [2503.11746v1](http://arxiv.org/abs/2503.11746v1) | **NULL** |
 | **2025/03/10** | Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes | Lei Xiang et al. | [2503.07921v1](http://arxiv.org/abs/2503.07921v1) | **NULL** |
 | **2025/03/04** | Quantitative exploration of the similarity of gamma-ray pulsar light curves | C. R. García et al. | [2503.02750v1](http://arxiv.org/abs/2503.02750v1) | **NULL** |
-| **2025/03/04** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset | Wenqi Guo et al. | [2503.02910v3](http://arxiv.org/abs/2503.02910v3) | **NULL** |
