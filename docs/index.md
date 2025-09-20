@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/19 09:05:23
+> Updated on 2025/09/20 09:01:55
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/18** | Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach | Taoyuan Yu et al. | [2509.15099v1](http://arxiv.org/abs/2509.15099v1) | **NULL** |
+| **2025/09/18** | Reinforcement Learning Agent for a 2D Shooter Game | Thomas Ackermann et al. | [2509.15042v1](http://arxiv.org/abs/2509.15042v1) | **NULL** |
+| **2025/09/18** | Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering | Xuanting Xie et al. | [2509.15024v1](http://arxiv.org/abs/2509.15024v1) | **NULL** |
+| **2025/09/18** | DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting | Qianyang Li et al. | [2509.14868v1](http://arxiv.org/abs/2509.14868v1) | **NULL** |
+| **2025/09/18** | Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study | Zhengwei Wang et al. | [2509.14863v1](http://arxiv.org/abs/2509.14863v1) | **NULL** |
+| **2025/09/18** | Stochastic Clock Attention for Aligning Continuous and Ordered Sequences | Hyungjoon Soh et al. | [2509.14678v1](http://arxiv.org/abs/2509.14678v1) | **NULL** |
+| **2025/09/18** | SpeechMLC: Speech Multi-label Classification | Miseul Kim et al. | [2509.14677v1](http://arxiv.org/abs/2509.14677v1) | **NULL** |
+| **2025/09/18** | Spatial Audio Motion Understanding and Reasoning | Arvind Krishna Sridhar et al. | [2509.14666v1](http://arxiv.org/abs/2509.14666v1) | **NULL** |
+| **2025/09/18** | Edge-Aware Normalized Attention for Efficient and Detail-Preserving Single Image Super-Resolution | Penghao Rao et al. | [2509.14550v1](http://arxiv.org/abs/2509.14550v1) | **NULL** |
 | **2025/09/17** | White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation | Jiyun Im et al. | [2509.13907v1](http://arxiv.org/abs/2509.13907v1) | **NULL** |
 | **2025/09/17** | How Fly Neural Perception Mechanisms Enhance Visuomotor Control of Micro Robots | Renyuan Liu et al. | [2509.13827v1](http://arxiv.org/abs/2509.13827v1) | **NULL** |
 | **2025/09/17** | Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval | Hao Yin et al. | [2509.13754v1](http://arxiv.org/abs/2509.13754v1) | **NULL** |
@@ -65,6 +74,7 @@ layout: default
 | **2025/09/16** | SAGA: Selective Adaptive Gating for Efficient and Expressive Linear Attention | Yuan Cao et al. | [2509.12817v1](http://arxiv.org/abs/2509.12817v1) | **NULL** |
 | **2025/09/16** | Double Helix Diffusion for Cross-Domain Anomaly Image Generation | Linchun Wu et al. | [2509.12787v1](http://arxiv.org/abs/2509.12787v1) | **NULL** |
 | **2025/09/16** | Modeling the Multivariate Relationship with Contextualized Representations for Effective Human-Object Interaction Detection | Zhehao Li et al. | [2509.12784v1](http://arxiv.org/abs/2509.12784v1) | **NULL** |
+| **2025/09/16** | HQCNN: A Hybrid Quantum-Classical Neural Network for Medical Image Classification | Shahjalal et al. | [2509.14277v1](http://arxiv.org/abs/2509.14277v1) | **NULL** |
 | **2025/09/16** | BATR-FST: Bi-Level Adaptive Token Refinement for Few-Shot Transformers | Mohammed Al-Habib et al. | [2509.12768v1](http://arxiv.org/abs/2509.12768v1) | **NULL** |
 | **2025/09/16** | Positional Encoding via Token-Aware Phase Attention | Yu Wang et al. | [2509.12635v1](http://arxiv.org/abs/2509.12635v1) | **NULL** |
 | **2025/09/15** | DinoAtten3D: Slice-Level Attention Aggregation of DinoV2 for 3D Brain MRI Anomaly Classification | Fazle Rafsani et al. | [2509.12512v1](http://arxiv.org/abs/2509.12512v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/09/15** | Explainable Unsupervised Multi-Anomaly Detection and Temporal Localization in Nuclear Times Series Data with a Dual Attention-Based Autoencoder | Konstantinos Vasili et al. | [2509.12372v1](http://arxiv.org/abs/2509.12372v1) | **NULL** |
 | **2025/09/15** | Integrating Attention-Enhanced LSTM and Particle Swarm Optimization for Dynamic Pricing and Replenishment Strategies in Fresh Food Supermarkets | Xianchen Liu et al. | [2509.12339v1](http://arxiv.org/abs/2509.12339v1) | **NULL** |
 | **2025/09/15** | Dynamic Relational Priming Improves Transformer in Multivariate Time Series | Hunjae Lee et al. | [2509.12196v1](http://arxiv.org/abs/2509.12196v1) | **NULL** |
-| **2025/09/15** | End-to-End 4D Heart Mesh Recovery Across Full-Stack and Sparse Cardiac MRI | Yihong Chen et al. | [2509.12090v1](http://arxiv.org/abs/2509.12090v1) | **NULL** |
-| **2025/09/15** | A Geometric Graph-Based Deep Learning Model for Drug-Target Affinity Prediction | Md Masud Rana et al. | [2509.13476v1](http://arxiv.org/abs/2509.13476v1) | **NULL** |
-| **2025/09/15** | Multimodal Regression for Enzyme Turnover Rates Prediction | Bozhen Hu et al. | [2509.11782v1](http://arxiv.org/abs/2509.11782v1) | **NULL** |
-| **2025/09/15** | Attention-Enhanced Learning for Sensing-Assisted Long-Term Beam Tracking in mmWave Communications | Mengyuan Ma et al. | [2509.11725v1](http://arxiv.org/abs/2509.11725v1) | **NULL** |
-| **2025/09/15** | Beyond Regularity: Modeling Chaotic Mobility Patterns for Next Location Prediction | Yuqian Wu et al. | [2509.11713v1](http://arxiv.org/abs/2509.11713v1) | **NULL** |
-| **2025/09/15** | Task Decoding based on Eye Movements using Synthetic Data Augmentation | Shanmuka Sadhu et al. | [2509.11547v1](http://arxiv.org/abs/2509.11547v1) | **NULL** |
-| **2025/09/15** | Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis | Wenhao Tang et al. | [2509.11526v1](http://arxiv.org/abs/2509.11526v1) | **NULL** |
-| **2025/09/14** | Modality-Aware Infrared and Visible Image Fusion with Target-Aware Supervision | Tianyao Sun et al. | [2509.11476v1](http://arxiv.org/abs/2509.11476v1) | **NULL** |
-| **2025/09/14** | CEMTM: Contextual Embedding-based Multimodal Topic Modeling | Amirhossein Abaskohi et al. | [2509.11465v1](http://arxiv.org/abs/2509.11465v1) | **NULL** |
-| **2025/09/14** | Quantum Graph Attention Networks: Trainable Quantum Encoders for Inductive Graph Learning | Arthur M. Faria et al. | [2509.11390v1](http://arxiv.org/abs/2509.11390v1) | **NULL** |
 
 ## 背景差分
 
