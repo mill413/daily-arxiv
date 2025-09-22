@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/21 09:10:01
+> Updated on 2025/09/22 09:09:39
 
 <summary>Table of Contents</summary>
 
@@ -56,7 +56,7 @@ layout: default
 | **2025/09/18** | Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach | Taoyuan Yu et al. | [2509.15099v1](http://arxiv.org/abs/2509.15099v1) | **NULL** |
 | **2025/09/18** | Reinforcement Learning Agent for a 2D Shooter Game | Thomas Ackermann et al. | [2509.15042v1](http://arxiv.org/abs/2509.15042v1) | **NULL** |
 | **2025/09/18** | Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering | Xuanting Xie et al. | [2509.15024v1](http://arxiv.org/abs/2509.15024v1) | **NULL** |
-| **2025/09/18** | DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting | Qianyang Li et al. | [2509.14868v1](http://arxiv.org/abs/2509.14868v1) | **NULL** |
+| **2025/09/18** | DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting | Qianyang Li et al. | [2509.14868v2](http://arxiv.org/abs/2509.14868v2) | **NULL** |
 | **2025/09/18** | Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study | Zhengwei Wang et al. | [2509.14863v1](http://arxiv.org/abs/2509.14863v1) | **NULL** |
 | **2025/09/18** | Stochastic Clock Attention for Aligning Continuous and Ordered Sequences | Hyungjoon Soh et al. | [2509.14678v1](http://arxiv.org/abs/2509.14678v1) | **NULL** |
 | **2025/09/18** | SpeechMLC: Speech Multi-label Classification | Miseul Kim et al. | [2509.14677v1](http://arxiv.org/abs/2509.14677v1) | **NULL** |
