@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/22 09:09:39
+> Updated on 2025/09/23 09:03:12
 
 <summary>Table of Contents</summary>
 
@@ -53,15 +53,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/19** | Are Multimodal Foundation Models All That Is Needed for Emofake Detection? | Mohd Mujtaba Akhtar et al. | [2509.16193v1](http://arxiv.org/abs/2509.16193v1) | **NULL** |
+| **2025/09/19** | Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers | Krati Saxena et al. | [2509.16058v1](http://arxiv.org/abs/2509.16058v1) | **NULL** |
+| **2025/09/19** | FMD-TransUNet: Abdominal Multi-Organ Segmentation Based on Frequency Domain Multi-Axis Representation Learning and Dual Attention Mechanisms | Fang Lu et al. | [2509.16044v1](http://arxiv.org/abs/2509.16044v1) | **NULL** |
+| **2025/09/19** | PAN: Pillars-Attention-Based Network for 3D Object Detection | Ruan Bispo et al. | [2509.15935v1](http://arxiv.org/abs/2509.15935v1) | **NULL** |
+| **2025/09/19** | Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance | Yuxuan Liang et al. | [2509.15704v1](http://arxiv.org/abs/2509.15704v1) | **NULL** |
+| **2025/09/19** | Interplay Between Belief Propagation and Transformer: Differential-Attention Message Passing Transformer | Chin Wa Lau et al. | [2509.15637v1](http://arxiv.org/abs/2509.15637v1) | **NULL** |
+| **2025/09/18** | Hierarchical Self-Attention: Generalizing Neural Attention Mechanics to Multi-Scale Problems | Saeed Amizadeh et al. | [2509.15448v1](http://arxiv.org/abs/2509.15448v1) | **NULL** |
+| **2025/09/18** | Region-Aware Deformable Convolutions | Abolfazl Saheban Maleki et al. | [2509.15436v1](http://arxiv.org/abs/2509.15436v1) | **NULL** |
+| **2025/09/18** | SPH-Net: A Co-Attention Hybrid Model for Accurate Stock Price Prediction | Yiyang Wu et al. | [2509.15414v1](http://arxiv.org/abs/2509.15414v1) | **NULL** |
 | **2025/09/18** | Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach | Taoyuan Yu et al. | [2509.15099v1](http://arxiv.org/abs/2509.15099v1) | **NULL** |
 | **2025/09/18** | Reinforcement Learning Agent for a 2D Shooter Game | Thomas Ackermann et al. | [2509.15042v1](http://arxiv.org/abs/2509.15042v1) | **NULL** |
 | **2025/09/18** | Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering | Xuanting Xie et al. | [2509.15024v1](http://arxiv.org/abs/2509.15024v1) | **NULL** |
-| **2025/09/18** | DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting | Qianyang Li et al. | [2509.14868v2](http://arxiv.org/abs/2509.14868v2) | **NULL** |
 | **2025/09/18** | Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study | Zhengwei Wang et al. | [2509.14863v1](http://arxiv.org/abs/2509.14863v1) | **NULL** |
+| **2025/09/18** | A Multi-Scale Graph Neural Process with Cross-Drug Co-Attention for Drug-Drug Interactions Prediction | Zimo Yan et al. | [2509.15256v1](http://arxiv.org/abs/2509.15256v1) | **NULL** |
 | **2025/09/18** | Stochastic Clock Attention for Aligning Continuous and Ordered Sequences | Hyungjoon Soh et al. | [2509.14678v1](http://arxiv.org/abs/2509.14678v1) | **NULL** |
 | **2025/09/18** | SpeechMLC: Speech Multi-label Classification | Miseul Kim et al. | [2509.14677v1](http://arxiv.org/abs/2509.14677v1) | **NULL** |
 | **2025/09/18** | Spatial Audio Motion Understanding and Reasoning | Arvind Krishna Sridhar et al. | [2509.14666v1](http://arxiv.org/abs/2509.14666v1) | **NULL** |
 | **2025/09/18** | Edge-Aware Normalized Attention for Efficient and Detail-Preserving Single Image Super-Resolution | Penghao Rao et al. | [2509.14550v1](http://arxiv.org/abs/2509.14550v1) | **NULL** |
+| **2025/09/17** | ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding | Jialiang Kang et al. | [2509.15235v1](http://arxiv.org/abs/2509.15235v1) | **NULL** |
 | **2025/09/17** | White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation | Jiyun Im et al. | [2509.13907v1](http://arxiv.org/abs/2509.13907v1) | **NULL** |
 | **2025/09/17** | How Fly Neural Perception Mechanisms Enhance Visuomotor Control of Micro Robots | Renyuan Liu et al. | [2509.13827v1](http://arxiv.org/abs/2509.13827v1) | **NULL** |
 | **2025/09/17** | Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval | Hao Yin et al. | [2509.13754v1](http://arxiv.org/abs/2509.13754v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/09/16** | DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval | Zechao Liu et al. | [2509.12824v2](http://arxiv.org/abs/2509.12824v2) | **NULL** |
 | **2025/09/16** | SAGA: Selective Adaptive Gating for Efficient and Expressive Linear Attention | Yuan Cao et al. | [2509.12817v1](http://arxiv.org/abs/2509.12817v1) | **NULL** |
 | **2025/09/16** | Double Helix Diffusion for Cross-Domain Anomaly Image Generation | Linchun Wu et al. | [2509.12787v1](http://arxiv.org/abs/2509.12787v1) | **NULL** |
-| **2025/09/16** | Modeling the Multivariate Relationship with Contextualized Representations for Effective Human-Object Interaction Detection | Zhehao Li et al. | [2509.12784v1](http://arxiv.org/abs/2509.12784v1) | **NULL** |
-| **2025/09/16** | HQCNN: A Hybrid Quantum-Classical Neural Network for Medical Image Classification | Shahjalal et al. | [2509.14277v1](http://arxiv.org/abs/2509.14277v1) | **NULL** |
-| **2025/09/16** | BATR-FST: Bi-Level Adaptive Token Refinement for Few-Shot Transformers | Mohammed Al-Habib et al. | [2509.12768v1](http://arxiv.org/abs/2509.12768v1) | **NULL** |
-| **2025/09/16** | Positional Encoding via Token-Aware Phase Attention | Yu Wang et al. | [2509.12635v1](http://arxiv.org/abs/2509.12635v1) | **NULL** |
-| **2025/09/15** | DinoAtten3D: Slice-Level Attention Aggregation of DinoV2 for 3D Brain MRI Anomaly Classification | Fazle Rafsani et al. | [2509.12512v1](http://arxiv.org/abs/2509.12512v1) | **NULL** |
-| **2025/09/15** | Digital Twin-Assisted Resilient Planning for mmWave IAB Networks via Graph Attention Networks | Jie Zhang et al. | [2509.12499v1](http://arxiv.org/abs/2509.12499v1) | **NULL** |
-| **2025/09/15** | Cott-ADNet: Lightweight Real-Time Cotton Boll and Flower Detection Under Field Conditions | Rui-Feng Wang et al. | [2509.12442v1](http://arxiv.org/abs/2509.12442v1) | **NULL** |
-| **2025/09/15** | Explainable Unsupervised Multi-Anomaly Detection and Temporal Localization in Nuclear Times Series Data with a Dual Attention-Based Autoencoder | Konstantinos Vasili et al. | [2509.12372v1](http://arxiv.org/abs/2509.12372v1) | **NULL** |
-| **2025/09/15** | Integrating Attention-Enhanced LSTM and Particle Swarm Optimization for Dynamic Pricing and Replenishment Strategies in Fresh Food Supermarkets | Xianchen Liu et al. | [2509.12339v1](http://arxiv.org/abs/2509.12339v1) | **NULL** |
-| **2025/09/15** | Dynamic Relational Priming Improves Transformer in Multivariate Time Series | Hunjae Lee et al. | [2509.12196v1](http://arxiv.org/abs/2509.12196v1) | **NULL** |
 
 ## 背景差分
 
