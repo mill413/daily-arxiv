@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/23 09:03:12
+> Updated on 2025/09/24 09:04:08
 
 <summary>Table of Contents</summary>
 
@@ -53,36 +53,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/22** | Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers | Chaehyun Kim et al. | [2509.18096v1](http://arxiv.org/abs/2509.18096v1) | **NULL** |
+| **2025/09/22** | Cross-Attention is Half Explanation in Speech-to-Text Models | Sara Papi et al. | [2509.18010v1](http://arxiv.org/abs/2509.18010v1) | **NULL** |
+| **2025/09/22** | M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer | Yanxin Zhang et al. | [2509.18005v1](http://arxiv.org/abs/2509.18005v1) | **NULL** |
+| **2025/09/22** | Training-free Truthfulness Detection via Value Vectors in LLMs | Runheng Liu et al. | [2509.17932v1](http://arxiv.org/abs/2509.17932v1) | **NULL** |
+| **2025/09/22** | Conv-like Scale-Fusion Time Series Transformer: A Multi-Scale Representation for Variable-Length Long Time Series | Kai Zhang et al. | [2509.17845v1](http://arxiv.org/abs/2509.17845v1) | **NULL** |
+| **2025/09/22** | MesoNet: A Fundamental Principle for Multi-Representation Learning in Complex Chemical Systems | Jinming Fan et al. | [2509.17810v2](http://arxiv.org/abs/2509.17810v2) | **NULL** |
+| **2025/09/22** | Automated Labeling of Intracranial Arteries with Uncertainty Quantification Using Deep Learning | Javier Bisbal et al. | [2509.17726v1](http://arxiv.org/abs/2509.17726v1) | **NULL** |
+| **2025/09/22** | Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data | Tianyi Chen et al. | [2509.17514v1](http://arxiv.org/abs/2509.17514v1) | **NULL** |
+| **2025/09/22** | AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation | Lvzhou Luo et al. | [2509.17486v1](http://arxiv.org/abs/2509.17486v1) | **NULL** |
+| **2025/09/22** | Stable Video-Driven Portraits | Mallikarjun B. R. et al. | [2509.17476v1](http://arxiv.org/abs/2509.17476v1) | **NULL** |
+| **2025/09/22** | Pre-Trained CNN Architecture for Transformer-Based Image Caption Generation Model | Amanuel Tafese Dufera | [2509.17365v1](http://arxiv.org/abs/2509.17365v1) | **NULL** |
+| **2025/09/22** | Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection | Jun Seo Kim et al. | [2509.17292v1](http://arxiv.org/abs/2509.17292v1) | **NULL** |
+| **2025/09/21** | SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views | Ranran Huang et al. | [2509.17246v1](http://arxiv.org/abs/2509.17246v1) | **NULL** |
+| **2025/09/21** | SynergyNet: Fusing Generative Priors and State-Space Models for Facial Beauty Prediction | Djamel Eddine Boukhari | [2509.17172v1](http://arxiv.org/abs/2509.17172v1) | **NULL** |
+| **2025/09/21** | ScenGAN: Attention-Intensive Generative Model for Uncertainty-Aware Renewable Scenario Forecasting | Yifei Wu et al. | [2509.17119v1](http://arxiv.org/abs/2509.17119v1) | **NULL** |
+| **2025/09/21** | Enhanced Detection of Tiny Objects in Aerial Images | Kihyun Kim et al. | [2509.17078v1](http://arxiv.org/abs/2509.17078v1) | **NULL** |
+| **2025/09/21** | Attentive AV-FusionNet: Audio-Visual Quality Prediction with Hybrid Attention | Ina Salaj et al. | [2509.16994v1](http://arxiv.org/abs/2509.16994v1) | **NULL** |
+| **2025/09/21** | Cross-Attention with Confidence Weighting for Multi-Channel Audio Alignment | Ragib Amin Nihal et al. | [2509.16926v1](http://arxiv.org/abs/2509.16926v1) | **NULL** |
+| **2025/09/21** | Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few | Qishuai Wen et al. | [2509.16875v2](http://arxiv.org/abs/2509.16875v2) | **NULL** |
+| **2025/09/20** | EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs | Zhengge Cai et al. | [2509.16686v1](http://arxiv.org/abs/2509.16686v1) | **NULL** |
+| **2025/09/20** | Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features | Kaichen Xu et al. | [2509.16629v1](http://arxiv.org/abs/2509.16629v1) | **NULL** |
+| **2025/09/20** | ViTCAE: ViT-based Class-conditioned Autoencoder | Vahid Jebraeeli et al. | [2509.16554v1](http://arxiv.org/abs/2509.16554v1) | **NULL** |
+| **2025/09/20** | ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting | Xiaoyang Yan et al. | [2509.16552v1](http://arxiv.org/abs/2509.16552v1) | **NULL** |
+| **2025/09/20** | FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers | Sankeerth Durvasula et al. | [2509.16518v1](http://arxiv.org/abs/2509.16518v1) | **NULL** |
+| **2025/09/20** | Thermal Imaging-based Real-time Fall Detection using Motion Flow and Attention-enhanced Convolutional Recurrent Architecture | Christopher Silver et al. | [2509.16479v1](http://arxiv.org/abs/2509.16479v1) | **NULL** |
 | **2025/09/19** | Are Multimodal Foundation Models All That Is Needed for Emofake Detection? | Mohd Mujtaba Akhtar et al. | [2509.16193v1](http://arxiv.org/abs/2509.16193v1) | **NULL** |
 | **2025/09/19** | Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers | Krati Saxena et al. | [2509.16058v1](http://arxiv.org/abs/2509.16058v1) | **NULL** |
 | **2025/09/19** | FMD-TransUNet: Abdominal Multi-Organ Segmentation Based on Frequency Domain Multi-Axis Representation Learning and Dual Attention Mechanisms | Fang Lu et al. | [2509.16044v1](http://arxiv.org/abs/2509.16044v1) | **NULL** |
 | **2025/09/19** | PAN: Pillars-Attention-Based Network for 3D Object Detection | Ruan Bispo et al. | [2509.15935v1](http://arxiv.org/abs/2509.15935v1) | **NULL** |
 | **2025/09/19** | Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance | Yuxuan Liang et al. | [2509.15704v1](http://arxiv.org/abs/2509.15704v1) | **NULL** |
-| **2025/09/19** | Interplay Between Belief Propagation and Transformer: Differential-Attention Message Passing Transformer | Chin Wa Lau et al. | [2509.15637v1](http://arxiv.org/abs/2509.15637v1) | **NULL** |
-| **2025/09/18** | Hierarchical Self-Attention: Generalizing Neural Attention Mechanics to Multi-Scale Problems | Saeed Amizadeh et al. | [2509.15448v1](http://arxiv.org/abs/2509.15448v1) | **NULL** |
-| **2025/09/18** | Region-Aware Deformable Convolutions | Abolfazl Saheban Maleki et al. | [2509.15436v1](http://arxiv.org/abs/2509.15436v1) | **NULL** |
-| **2025/09/18** | SPH-Net: A Co-Attention Hybrid Model for Accurate Stock Price Prediction | Yiyang Wu et al. | [2509.15414v1](http://arxiv.org/abs/2509.15414v1) | **NULL** |
-| **2025/09/18** | Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach | Taoyuan Yu et al. | [2509.15099v1](http://arxiv.org/abs/2509.15099v1) | **NULL** |
-| **2025/09/18** | Reinforcement Learning Agent for a 2D Shooter Game | Thomas Ackermann et al. | [2509.15042v1](http://arxiv.org/abs/2509.15042v1) | **NULL** |
-| **2025/09/18** | Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering | Xuanting Xie et al. | [2509.15024v1](http://arxiv.org/abs/2509.15024v1) | **NULL** |
-| **2025/09/18** | Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study | Zhengwei Wang et al. | [2509.14863v1](http://arxiv.org/abs/2509.14863v1) | **NULL** |
-| **2025/09/18** | A Multi-Scale Graph Neural Process with Cross-Drug Co-Attention for Drug-Drug Interactions Prediction | Zimo Yan et al. | [2509.15256v1](http://arxiv.org/abs/2509.15256v1) | **NULL** |
-| **2025/09/18** | Stochastic Clock Attention for Aligning Continuous and Ordered Sequences | Hyungjoon Soh et al. | [2509.14678v1](http://arxiv.org/abs/2509.14678v1) | **NULL** |
-| **2025/09/18** | SpeechMLC: Speech Multi-label Classification | Miseul Kim et al. | [2509.14677v1](http://arxiv.org/abs/2509.14677v1) | **NULL** |
-| **2025/09/18** | Spatial Audio Motion Understanding and Reasoning | Arvind Krishna Sridhar et al. | [2509.14666v1](http://arxiv.org/abs/2509.14666v1) | **NULL** |
-| **2025/09/18** | Edge-Aware Normalized Attention for Efficient and Detail-Preserving Single Image Super-Resolution | Penghao Rao et al. | [2509.14550v1](http://arxiv.org/abs/2509.14550v1) | **NULL** |
-| **2025/09/17** | ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding | Jialiang Kang et al. | [2509.15235v1](http://arxiv.org/abs/2509.15235v1) | **NULL** |
-| **2025/09/17** | White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation | Jiyun Im et al. | [2509.13907v1](http://arxiv.org/abs/2509.13907v1) | **NULL** |
-| **2025/09/17** | How Fly Neural Perception Mechanisms Enhance Visuomotor Control of Micro Robots | Renyuan Liu et al. | [2509.13827v1](http://arxiv.org/abs/2509.13827v1) | **NULL** |
-| **2025/09/17** | Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval | Hao Yin et al. | [2509.13754v1](http://arxiv.org/abs/2509.13754v1) | **NULL** |
-| **2025/09/17** | ST-LINK: Spatially-Aware Large Language Models for Spatio-Temporal Forecasting | Hyotaek Jeon et al. | [2509.13753v1](http://arxiv.org/abs/2509.13753v1) | **NULL** |
-| **2025/09/16** | Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization | Yujia Lin et al. | [2509.13474v1](http://arxiv.org/abs/2509.13474v1) | **NULL** |
-| **2025/09/16** | StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance | Zefan Qu et al. | [2509.13301v2](http://arxiv.org/abs/2509.13301v2) | **NULL** |
-| **2025/09/16** | Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance | Ligang Chang et al. | [2509.13210v1](http://arxiv.org/abs/2509.13210v1) | **NULL** |
-| **2025/09/16** | Discovering Mathematical Equations with Diffusion Language Model | Xiaoxu Han et al. | [2509.13136v1](http://arxiv.org/abs/2509.13136v1) | **NULL** |
-| **2025/09/16** | DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval | Zechao Liu et al. | [2509.12824v2](http://arxiv.org/abs/2509.12824v2) | **NULL** |
-| **2025/09/16** | SAGA: Selective Adaptive Gating for Efficient and Expressive Linear Attention | Yuan Cao et al. | [2509.12817v1](http://arxiv.org/abs/2509.12817v1) | **NULL** |
-| **2025/09/16** | Double Helix Diffusion for Cross-Domain Anomaly Image Generation | Linchun Wu et al. | [2509.12787v1](http://arxiv.org/abs/2509.12787v1) | **NULL** |
 
 ## 背景差分
 
