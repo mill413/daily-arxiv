@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/24 09:04:08
+> Updated on 2025/09/25 09:04:26
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/23** | Circuit Complexity From Physical Constraints: Scaling Limitations of Attention | Benjamin Prada et al. | [2509.19161v1](http://arxiv.org/abs/2509.19161v1) | **NULL** |
+| **2025/09/23** | BiGraspFormer: End-to-End Bimanual Grasp Transformer | Kangmin Kim et al. | [2509.19142v1](http://arxiv.org/abs/2509.19142v1) | **NULL** |
+| **2025/09/23** | Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model | Ioannis Sarafis et al. | [2509.19028v1](http://arxiv.org/abs/2509.19028v1) | **NULL** |
+| **2025/09/23** | Pay More Attention To Audio: Mitigating Imbalance of Cross-Modal Attention in Large Audio Language Models | Junyu Wang et al. | [2509.18816v1](http://arxiv.org/abs/2509.18816v1) | **NULL** |
+| **2025/09/23** | MOMEMTO: Patch-based Memory Gate Model in Time Series Foundation Model | Samuel Yoon et al. | [2509.18751v1](http://arxiv.org/abs/2509.18751v1) | **NULL** |
+| **2025/09/23** | Knowledge Transfer from Interaction Learning | Yilin Gao et al. | [2509.18733v1](http://arxiv.org/abs/2509.18733v1) | **NULL** |
+| **2025/09/23** | Lightweight Vision Transformer with Window and Spatial Attention for Food Image Classification | Xinle Gao et al. | [2509.18692v1](http://arxiv.org/abs/2509.18692v1) | **NULL** |
+| **2025/09/23** | MK-UNet: Multi-kernel Lightweight CNN for Medical Image Segmentation | Md Mostafijur Rahman et al. | [2509.18493v1](http://arxiv.org/abs/2509.18493v1) | **NULL** |
+| **2025/09/22** | GluMind: Multimodal Parallel Attention and Knowledge Retention for Robust Cross-Population Blood Glucose Forecasting | Ebrahim Farahmand et al. | [2509.18457v1](http://arxiv.org/abs/2509.18457v1) | **NULL** |
+| **2025/09/22** | BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking | Thomas Gossard et al. | [2509.18387v1](http://arxiv.org/abs/2509.18387v1) | **NULL** |
+| **2025/09/22** | A Graph-Neural-Network-Entropy model of vital node identification on network attack and propagation | Huaizhi Liao et al. | [2509.18325v1](http://arxiv.org/abs/2509.18325v1) | **NULL** |
 | **2025/09/22** | Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers | Chaehyun Kim et al. | [2509.18096v1](http://arxiv.org/abs/2509.18096v1) | **NULL** |
 | **2025/09/22** | Cross-Attention is Half Explanation in Speech-to-Text Models | Sara Papi et al. | [2509.18010v1](http://arxiv.org/abs/2509.18010v1) | **NULL** |
 | **2025/09/22** | M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer | Yanxin Zhang et al. | [2509.18005v1](http://arxiv.org/abs/2509.18005v1) | **NULL** |
@@ -64,6 +75,7 @@ layout: default
 | **2025/09/22** | AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation | Lvzhou Luo et al. | [2509.17486v1](http://arxiv.org/abs/2509.17486v1) | **NULL** |
 | **2025/09/22** | Stable Video-Driven Portraits | Mallikarjun B. R. et al. | [2509.17476v1](http://arxiv.org/abs/2509.17476v1) | **NULL** |
 | **2025/09/22** | Pre-Trained CNN Architecture for Transformer-Based Image Caption Generation Model | Amanuel Tafese Dufera | [2509.17365v1](http://arxiv.org/abs/2509.17365v1) | **NULL** |
+| **2025/09/22** | Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models | Dingxin Lu et al. | [2509.18221v1](http://arxiv.org/abs/2509.18221v1) | **NULL** |
 | **2025/09/22** | Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection | Jun Seo Kim et al. | [2509.17292v1](http://arxiv.org/abs/2509.17292v1) | **NULL** |
 | **2025/09/21** | SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views | Ranran Huang et al. | [2509.17246v1](http://arxiv.org/abs/2509.17246v1) | **NULL** |
 | **2025/09/21** | SynergyNet: Fusing Generative Priors and State-Space Models for Facial Beauty Prediction | Djamel Eddine Boukhari | [2509.17172v1](http://arxiv.org/abs/2509.17172v1) | **NULL** |
@@ -71,18 +83,6 @@ layout: default
 | **2025/09/21** | Enhanced Detection of Tiny Objects in Aerial Images | Kihyun Kim et al. | [2509.17078v1](http://arxiv.org/abs/2509.17078v1) | **NULL** |
 | **2025/09/21** | Attentive AV-FusionNet: Audio-Visual Quality Prediction with Hybrid Attention | Ina Salaj et al. | [2509.16994v1](http://arxiv.org/abs/2509.16994v1) | **NULL** |
 | **2025/09/21** | Cross-Attention with Confidence Weighting for Multi-Channel Audio Alignment | Ragib Amin Nihal et al. | [2509.16926v1](http://arxiv.org/abs/2509.16926v1) | **NULL** |
-| **2025/09/21** | Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few | Qishuai Wen et al. | [2509.16875v2](http://arxiv.org/abs/2509.16875v2) | **NULL** |
-| **2025/09/20** | EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs | Zhengge Cai et al. | [2509.16686v1](http://arxiv.org/abs/2509.16686v1) | **NULL** |
-| **2025/09/20** | Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features | Kaichen Xu et al. | [2509.16629v1](http://arxiv.org/abs/2509.16629v1) | **NULL** |
-| **2025/09/20** | ViTCAE: ViT-based Class-conditioned Autoencoder | Vahid Jebraeeli et al. | [2509.16554v1](http://arxiv.org/abs/2509.16554v1) | **NULL** |
-| **2025/09/20** | ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting | Xiaoyang Yan et al. | [2509.16552v1](http://arxiv.org/abs/2509.16552v1) | **NULL** |
-| **2025/09/20** | FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers | Sankeerth Durvasula et al. | [2509.16518v1](http://arxiv.org/abs/2509.16518v1) | **NULL** |
-| **2025/09/20** | Thermal Imaging-based Real-time Fall Detection using Motion Flow and Attention-enhanced Convolutional Recurrent Architecture | Christopher Silver et al. | [2509.16479v1](http://arxiv.org/abs/2509.16479v1) | **NULL** |
-| **2025/09/19** | Are Multimodal Foundation Models All That Is Needed for Emofake Detection? | Mohd Mujtaba Akhtar et al. | [2509.16193v1](http://arxiv.org/abs/2509.16193v1) | **NULL** |
-| **2025/09/19** | Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers | Krati Saxena et al. | [2509.16058v1](http://arxiv.org/abs/2509.16058v1) | **NULL** |
-| **2025/09/19** | FMD-TransUNet: Abdominal Multi-Organ Segmentation Based on Frequency Domain Multi-Axis Representation Learning and Dual Attention Mechanisms | Fang Lu et al. | [2509.16044v1](http://arxiv.org/abs/2509.16044v1) | **NULL** |
-| **2025/09/19** | PAN: Pillars-Attention-Based Network for 3D Object Detection | Ruan Bispo et al. | [2509.15935v1](http://arxiv.org/abs/2509.15935v1) | **NULL** |
-| **2025/09/19** | Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance | Yuxuan Liang et al. | [2509.15704v1](http://arxiv.org/abs/2509.15704v1) | **NULL** |
 
 ## 背景差分
 
