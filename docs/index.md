@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/25 09:04:26
+> Updated on 2025/09/26 09:04:22
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
 | **2025/09/10** | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | Edwine Nabahirwa et al. | [2509.08490v1](http://arxiv.org/abs/2509.08490v1) | **NULL** |
 | **2025/09/03** | SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery | Chenhao Wang et al. | [2509.03002v1](http://arxiv.org/abs/2509.03002v1) | **NULL** |
 | **2025/09/03** | A Data-Driven RetinaNet Model for Small Object Detection in Aerial Images | Zhicheng Tang et al. | [2509.02928v1](http://arxiv.org/abs/2509.02928v1) | **NULL** |
@@ -47,12 +48,17 @@ layout: default
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 | **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
-| **2025/04/18** | HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection | YangChen Zeng | [2504.13469v1](http://arxiv.org/abs/2504.13469v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/24** | Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement Learning | Umer Siddique et al. | [2509.20338v1](http://arxiv.org/abs/2509.20338v1) | **NULL** |
+| **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
+| **2025/09/24** | Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection | Sepehr Maleki et al. | [2509.19985v1](http://arxiv.org/abs/2509.19985v1) | **NULL** |
+| **2025/09/24** | Eliminating stability hallucinations in llm-based tts models via attention guidance | ShiMing Wang et al. | [2509.19852v1](http://arxiv.org/abs/2509.19852v1) | **NULL** |
+| **2025/09/24** | RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving | Carlo Bosio et al. | [2509.19789v1](http://arxiv.org/abs/2509.19789v1) | **NULL** |
+| **2025/09/23** | Mamba Modulation: On the Length Generalization of Mamba | Peng Lu et al. | [2509.19633v1](http://arxiv.org/abs/2509.19633v1) | **NULL** |
 | **2025/09/23** | Circuit Complexity From Physical Constraints: Scaling Limitations of Attention | Benjamin Prada et al. | [2509.19161v1](http://arxiv.org/abs/2509.19161v1) | **NULL** |
 | **2025/09/23** | BiGraspFormer: End-to-End Bimanual Grasp Transformer | Kangmin Kim et al. | [2509.19142v1](http://arxiv.org/abs/2509.19142v1) | **NULL** |
 | **2025/09/23** | Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model | Ioannis Sarafis et al. | [2509.19028v1](http://arxiv.org/abs/2509.19028v1) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2025/09/22** | Pre-Trained CNN Architecture for Transformer-Based Image Caption Generation Model | Amanuel Tafese Dufera | [2509.17365v1](http://arxiv.org/abs/2509.17365v1) | **NULL** |
 | **2025/09/22** | Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models | Dingxin Lu et al. | [2509.18221v1](http://arxiv.org/abs/2509.18221v1) | **NULL** |
 | **2025/09/22** | Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection | Jun Seo Kim et al. | [2509.17292v1](http://arxiv.org/abs/2509.17292v1) | **NULL** |
-| **2025/09/21** | SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views | Ranran Huang et al. | [2509.17246v1](http://arxiv.org/abs/2509.17246v1) | **NULL** |
-| **2025/09/21** | SynergyNet: Fusing Generative Priors and State-Space Models for Facial Beauty Prediction | Djamel Eddine Boukhari | [2509.17172v1](http://arxiv.org/abs/2509.17172v1) | **NULL** |
-| **2025/09/21** | ScenGAN: Attention-Intensive Generative Model for Uncertainty-Aware Renewable Scenario Forecasting | Yifei Wu et al. | [2509.17119v1](http://arxiv.org/abs/2509.17119v1) | **NULL** |
-| **2025/09/21** | Enhanced Detection of Tiny Objects in Aerial Images | Kihyun Kim et al. | [2509.17078v1](http://arxiv.org/abs/2509.17078v1) | **NULL** |
-| **2025/09/21** | Attentive AV-FusionNet: Audio-Visual Quality Prediction with Hybrid Attention | Ina Salaj et al. | [2509.16994v1](http://arxiv.org/abs/2509.16994v1) | **NULL** |
-| **2025/09/21** | Cross-Attention with Confidence Weighting for Multi-Channel Audio Alignment | Ragib Amin Nihal et al. | [2509.16926v1](http://arxiv.org/abs/2509.16926v1) | **NULL** |
 
 ## 背景差分
 
