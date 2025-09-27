@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/26 09:04:22
+> Updated on 2025/09/27 09:01:50
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/25** | Vision-Intelligence-Enabled Beam Tracking for Cross-Interface Water-Air Optical Wireless Communications | Tianqi Mao et al. | [2509.21290v1](http://arxiv.org/abs/2509.21290v1) | **NULL** |
+| **2025/09/25** | TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix | Ahmet Caner Yüzügüler et al. | [2509.21081v1](http://arxiv.org/abs/2509.21081v1) | **NULL** |
+| **2025/09/25** | Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting | Zida Liang et al. | [2509.20942v1](http://arxiv.org/abs/2509.20942v1) | **NULL** |
+| **2025/09/25** | Integrating Object Interaction Self-Attention and GAN-Based Debiasing for Visual Question Answering | Zhifei Li et al. | [2509.20884v1](http://arxiv.org/abs/2509.20884v1) | **NULL** |
+| **2025/09/25** | DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection | Jiayi Zuo et al. | [2509.20701v1](http://arxiv.org/abs/2509.20701v1) | **NULL** |
+| **2025/09/24** | SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations | Ayan Sar et al. | [2509.20567v1](http://arxiv.org/abs/2509.20567v1) | **NULL** |
 | **2025/09/24** | Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement Learning | Umer Siddique et al. | [2509.20338v1](http://arxiv.org/abs/2509.20338v1) | **NULL** |
+| **2025/09/24** | From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training | Tianqiao Liu et al. | [2509.20072v2](http://arxiv.org/abs/2509.20072v2) | **NULL** |
 | **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
 | **2025/09/24** | Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection | Sepehr Maleki et al. | [2509.19985v1](http://arxiv.org/abs/2509.19985v1) | **NULL** |
 | **2025/09/24** | Eliminating stability hallucinations in llm-based tts models via attention guidance | ShiMing Wang et al. | [2509.19852v1](http://arxiv.org/abs/2509.19852v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2025/09/22** | Training-free Truthfulness Detection via Value Vectors in LLMs | Runheng Liu et al. | [2509.17932v1](http://arxiv.org/abs/2509.17932v1) | **NULL** |
 | **2025/09/22** | Conv-like Scale-Fusion Time Series Transformer: A Multi-Scale Representation for Variable-Length Long Time Series | Kai Zhang et al. | [2509.17845v1](http://arxiv.org/abs/2509.17845v1) | **NULL** |
 | **2025/09/22** | MesoNet: A Fundamental Principle for Multi-Representation Learning in Complex Chemical Systems | Jinming Fan et al. | [2509.17810v2](http://arxiv.org/abs/2509.17810v2) | **NULL** |
-| **2025/09/22** | Automated Labeling of Intracranial Arteries with Uncertainty Quantification Using Deep Learning | Javier Bisbal et al. | [2509.17726v1](http://arxiv.org/abs/2509.17726v1) | **NULL** |
-| **2025/09/22** | Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data | Tianyi Chen et al. | [2509.17514v1](http://arxiv.org/abs/2509.17514v1) | **NULL** |
-| **2025/09/22** | AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation | Lvzhou Luo et al. | [2509.17486v1](http://arxiv.org/abs/2509.17486v1) | **NULL** |
-| **2025/09/22** | Stable Video-Driven Portraits | Mallikarjun B. R. et al. | [2509.17476v1](http://arxiv.org/abs/2509.17476v1) | **NULL** |
-| **2025/09/22** | Pre-Trained CNN Architecture for Transformer-Based Image Caption Generation Model | Amanuel Tafese Dufera | [2509.17365v1](http://arxiv.org/abs/2509.17365v1) | **NULL** |
-| **2025/09/22** | Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models | Dingxin Lu et al. | [2509.18221v1](http://arxiv.org/abs/2509.18221v1) | **NULL** |
-| **2025/09/22** | Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection | Jun Seo Kim et al. | [2509.17292v1](http://arxiv.org/abs/2509.17292v1) | **NULL** |
 
 ## 背景差分
 
