@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/29 09:06:14
+> Updated on 2025/09/30 09:05:33
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/26** | HierLight-YOLO: A Hierarchical and Lightweight Object Detection Network for UAV Photography | Defan Chen et al. | [2509.22365v1](http://arxiv.org/abs/2509.22365v1) | **NULL** |
 | **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
 | **2025/09/10** | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | Edwine Nabahirwa et al. | [2509.08490v1](http://arxiv.org/abs/2509.08490v1) | **NULL** |
 | **2025/09/03** | SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery | Chenhao Wang et al. | [2509.03002v1](http://arxiv.org/abs/2509.03002v1) | **NULL** |
@@ -47,12 +48,16 @@ layout: default
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 | **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
-| **2025/04/25** | MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View | Liugang Lu et al. | [2504.18136v1](http://arxiv.org/abs/2504.18136v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/26** | Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator | Changhun Kim et al. | [2509.22458v1](http://arxiv.org/abs/2509.22458v1) | **NULL** |
+| **2025/09/26** | Statistical Advantage of Softmax Attention: Insights from Single-Location Regression | O. Duranthon et al. | [2509.21936v1](http://arxiv.org/abs/2509.21936v1) | **NULL** |
+| **2025/09/26** | LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation | Yixiao Liu et al. | [2509.21894v1](http://arxiv.org/abs/2509.21894v1) | **NULL** |
+| **2025/09/26** | Zubov-Net: Adaptive Stability for Neural ODEs Reconciling Accuracy with Robustness | Chaoyang Luo et al. | [2509.21879v1](http://arxiv.org/abs/2509.21879v1) | **NULL** |
+| **2025/09/26** | SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation | Vianne R. Gao et al. | [2509.21777v1](http://arxiv.org/abs/2509.21777v1) | **NULL** |
 | **2025/09/25** | Vision-Intelligence-Enabled Beam Tracking for Cross-Interface Water-Air Optical Wireless Communications | Tianqi Mao et al. | [2509.21290v1](http://arxiv.org/abs/2509.21290v1) | **NULL** |
 | **2025/09/25** | TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix | Ahmet Caner Yüzügüler et al. | [2509.21081v1](http://arxiv.org/abs/2509.21081v1) | **NULL** |
 | **2025/09/25** | Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting | Zida Liang et al. | [2509.20942v1](http://arxiv.org/abs/2509.20942v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/09/22** | BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking | Thomas Gossard et al. | [2509.18387v1](http://arxiv.org/abs/2509.18387v1) | **NULL** |
 | **2025/09/22** | A Graph-Neural-Network-Entropy model of vital node identification on network attack and propagation | Huaizhi Liao et al. | [2509.18325v1](http://arxiv.org/abs/2509.18325v1) | **NULL** |
 | **2025/09/22** | Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers | Chaehyun Kim et al. | [2509.18096v1](http://arxiv.org/abs/2509.18096v1) | **NULL** |
-| **2025/09/22** | Cross-Attention is Half Explanation in Speech-to-Text Models | Sara Papi et al. | [2509.18010v1](http://arxiv.org/abs/2509.18010v1) | **NULL** |
-| **2025/09/22** | M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer | Yanxin Zhang et al. | [2509.18005v1](http://arxiv.org/abs/2509.18005v1) | **NULL** |
-| **2025/09/22** | Training-free Truthfulness Detection via Value Vectors in LLMs | Runheng Liu et al. | [2509.17932v1](http://arxiv.org/abs/2509.17932v1) | **NULL** |
-| **2025/09/22** | Conv-like Scale-Fusion Time Series Transformer: A Multi-Scale Representation for Variable-Length Long Time Series | Kai Zhang et al. | [2509.17845v1](http://arxiv.org/abs/2509.17845v1) | **NULL** |
-| **2025/09/22** | MesoNet: A Fundamental Principle for Multi-Representation Learning in Complex Chemical Systems | Jinming Fan et al. | [2509.17810v2](http://arxiv.org/abs/2509.17810v2) | **NULL** |
 
 ## 背景差分
 
