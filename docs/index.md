@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/09/30 09:05:33
+> Updated on 2025/10/01 09:12:19
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/09/27** | FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection | Ben Liang et al. | [2509.23056v1](http://arxiv.org/abs/2509.23056v1) | **NULL** |
 | **2025/09/26** | HierLight-YOLO: A Hierarchical and Lightweight Object Detection Network for UAV Photography | Defan Chen et al. | [2509.22365v1](http://arxiv.org/abs/2509.22365v1) | **NULL** |
 | **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
 | **2025/09/10** | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | Edwine Nabahirwa et al. | [2509.08490v1](http://arxiv.org/abs/2509.08490v1) | **NULL** |
@@ -47,42 +48,41 @@ layout: default
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v2](http://arxiv.org/abs/2505.05741v2) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 | **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
-| **2025/04/29** | Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection | Siwei Wang et al. | [2504.20602v1](http://arxiv.org/abs/2504.20602v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/09/26** | Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator | Changhun Kim et al. | [2509.22458v1](http://arxiv.org/abs/2509.22458v1) | **NULL** |
-| **2025/09/26** | Statistical Advantage of Softmax Attention: Insights from Single-Location Regression | O. Duranthon et al. | [2509.21936v1](http://arxiv.org/abs/2509.21936v1) | **NULL** |
-| **2025/09/26** | LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation | Yixiao Liu et al. | [2509.21894v1](http://arxiv.org/abs/2509.21894v1) | **NULL** |
-| **2025/09/26** | Zubov-Net: Adaptive Stability for Neural ODEs Reconciling Accuracy with Robustness | Chaoyang Luo et al. | [2509.21879v1](http://arxiv.org/abs/2509.21879v1) | **NULL** |
-| **2025/09/26** | SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation | Vianne R. Gao et al. | [2509.21777v1](http://arxiv.org/abs/2509.21777v1) | **NULL** |
-| **2025/09/25** | Vision-Intelligence-Enabled Beam Tracking for Cross-Interface Water-Air Optical Wireless Communications | Tianqi Mao et al. | [2509.21290v1](http://arxiv.org/abs/2509.21290v1) | **NULL** |
-| **2025/09/25** | TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix | Ahmet Caner Yüzügüler et al. | [2509.21081v1](http://arxiv.org/abs/2509.21081v1) | **NULL** |
-| **2025/09/25** | Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting | Zida Liang et al. | [2509.20942v1](http://arxiv.org/abs/2509.20942v1) | **NULL** |
-| **2025/09/25** | Integrating Object Interaction Self-Attention and GAN-Based Debiasing for Visual Question Answering | Zhifei Li et al. | [2509.20884v1](http://arxiv.org/abs/2509.20884v1) | **NULL** |
-| **2025/09/25** | DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection | Jiayi Zuo et al. | [2509.20701v1](http://arxiv.org/abs/2509.20701v1) | **NULL** |
-| **2025/09/24** | SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations | Ayan Sar et al. | [2509.20567v1](http://arxiv.org/abs/2509.20567v1) | **NULL** |
-| **2025/09/24** | Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement Learning | Umer Siddique et al. | [2509.20338v1](http://arxiv.org/abs/2509.20338v1) | **NULL** |
-| **2025/09/24** | From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training | Tianqiao Liu et al. | [2509.20072v2](http://arxiv.org/abs/2509.20072v2) | **NULL** |
-| **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
-| **2025/09/24** | Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection | Sepehr Maleki et al. | [2509.19985v1](http://arxiv.org/abs/2509.19985v1) | **NULL** |
-| **2025/09/24** | Eliminating stability hallucinations in llm-based tts models via attention guidance | ShiMing Wang et al. | [2509.19852v1](http://arxiv.org/abs/2509.19852v1) | **NULL** |
-| **2025/09/24** | RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving | Carlo Bosio et al. | [2509.19789v1](http://arxiv.org/abs/2509.19789v1) | **NULL** |
-| **2025/09/23** | Mamba Modulation: On the Length Generalization of Mamba | Peng Lu et al. | [2509.19633v1](http://arxiv.org/abs/2509.19633v1) | **NULL** |
-| **2025/09/23** | Circuit Complexity From Physical Constraints: Scaling Limitations of Attention | Benjamin Prada et al. | [2509.19161v1](http://arxiv.org/abs/2509.19161v1) | **NULL** |
-| **2025/09/23** | BiGraspFormer: End-to-End Bimanual Grasp Transformer | Kangmin Kim et al. | [2509.19142v1](http://arxiv.org/abs/2509.19142v1) | **NULL** |
-| **2025/09/23** | Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model | Ioannis Sarafis et al. | [2509.19028v1](http://arxiv.org/abs/2509.19028v1) | **NULL** |
-| **2025/09/23** | Pay More Attention To Audio: Mitigating Imbalance of Cross-Modal Attention in Large Audio Language Models | Junyu Wang et al. | [2509.18816v1](http://arxiv.org/abs/2509.18816v1) | **NULL** |
-| **2025/09/23** | MOMEMTO: Patch-based Memory Gate Model in Time Series Foundation Model | Samuel Yoon et al. | [2509.18751v1](http://arxiv.org/abs/2509.18751v1) | **NULL** |
-| **2025/09/23** | Knowledge Transfer from Interaction Learning | Yilin Gao et al. | [2509.18733v1](http://arxiv.org/abs/2509.18733v1) | **NULL** |
-| **2025/09/23** | Lightweight Vision Transformer with Window and Spatial Attention for Food Image Classification | Xinle Gao et al. | [2509.18692v1](http://arxiv.org/abs/2509.18692v1) | **NULL** |
-| **2025/09/23** | MK-UNet: Multi-kernel Lightweight CNN for Medical Image Segmentation | Md Mostafijur Rahman et al. | [2509.18493v1](http://arxiv.org/abs/2509.18493v1) | **NULL** |
-| **2025/09/22** | GluMind: Multimodal Parallel Attention and Knowledge Retention for Robust Cross-Population Blood Glucose Forecasting | Ebrahim Farahmand et al. | [2509.18457v1](http://arxiv.org/abs/2509.18457v1) | **NULL** |
-| **2025/09/22** | BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking | Thomas Gossard et al. | [2509.18387v1](http://arxiv.org/abs/2509.18387v1) | **NULL** |
-| **2025/09/22** | A Graph-Neural-Network-Entropy model of vital node identification on network attack and propagation | Huaizhi Liao et al. | [2509.18325v1](http://arxiv.org/abs/2509.18325v1) | **NULL** |
-| **2025/09/22** | Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers | Chaehyun Kim et al. | [2509.18096v1](http://arxiv.org/abs/2509.18096v1) | **NULL** |
+| **2025/09/29** | Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer | Mohsen Ghafoorian et al. | [2509.24899v1](http://arxiv.org/abs/2509.24899v1) | **NULL** |
+| **2025/09/29** | Expanding Computation Spaces of LLMs at Inference Time | Yoonna Jang et al. | [2509.24884v1](http://arxiv.org/abs/2509.24884v1) | **NULL** |
+| **2025/09/29** | ProxyAttn: Guided Sparse Attention via Representative Heads | Yixuan Wang et al. | [2509.24745v1](http://arxiv.org/abs/2509.24745v1) | **NULL** |
+| **2025/09/29** | Bundle Network: a Machine Learning-Based Bundle Method | Francesca Demelas et al. | [2509.24736v1](http://arxiv.org/abs/2509.24736v1) | **NULL** |
+| **2025/09/29** | InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation | Weilin Zhao et al. | [2509.24663v1](http://arxiv.org/abs/2509.24663v1) | **NULL** |
+| **2025/09/29** | Short window attention enables long-term memorization | Loïc Cabannes et al. | [2509.24552v1](http://arxiv.org/abs/2509.24552v1) | **NULL** |
+| **2025/09/29** | Multi-Item-Query Attention for Stable Sequential Recommendation | Mingshi Xu et al. | [2509.24424v1](http://arxiv.org/abs/2509.24424v1) | **NULL** |
+| **2025/09/29** | Walk the Talk: Is Your Log-based Software Reliability Maintenance System Really Reliable? | Minghua He et al. | [2509.24352v1](http://arxiv.org/abs/2509.24352v1) | **NULL** |
+| **2025/09/29** | LAMP-PRo: Label-aware Attention for Multi-label Prediction of DNA- and RNA-binding Proteins using Protein Language Models | Nimisha Ghosh et al. | [2509.24262v1](http://arxiv.org/abs/2509.24262v1) | **NULL** |
+| **2025/09/29** | BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation | Zelin Liu et al. | [2509.24204v1](http://arxiv.org/abs/2509.24204v1) | **NULL** |
+| **2025/09/28** | HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning | Md Mozaharul Mottalib et al. | [2509.24118v1](http://arxiv.org/abs/2509.24118v1) | **NULL** |
+| **2025/09/28** | Clebsch-Gordan Transformer: Fast and Global Equivariant Attention | Owen Lewis Howell et al. | [2509.24093v1](http://arxiv.org/abs/2509.24093v1) | **NULL** |
+| **2025/09/28** | High-Precision Climbing Robot Localization Using Planar Array UWB/GPS/IMU/Barometer Integration | Shuning Zhang et al. | [2509.23801v1](http://arxiv.org/abs/2509.23801v1) | **NULL** |
+| **2025/09/28** | ReLumix: Extending Image Relighting to Video via Video Diffusion Models | Lezhong Wang et al. | [2509.23769v1](http://arxiv.org/abs/2509.23769v1) | **NULL** |
+| **2025/09/28** | HieraTok: Multi-Scale Visual Tokenizer Improves Image Reconstruction and Generation | Cong Chen et al. | [2509.23736v1](http://arxiv.org/abs/2509.23736v1) | **NULL** |
+| **2025/09/28** | MSD-KMamba: Bidirectional Spatial-Aware Multi-Modal 3D Brain Segmentation via Multi-scale Self-Distilled Fusion Strategy | Dayu Tan et al. | [2509.23677v1](http://arxiv.org/abs/2509.23677v1) | **NULL** |
+| **2025/09/28** | EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification | Chengying She et al. | [2509.23640v1](http://arxiv.org/abs/2509.23640v1) | **NULL** |
+| **2025/09/28** | Channel, Trend and Periodic-Wise Representation Learning for Multivariate Long-term Time Series Forecasting | Zhangyao Song et al. | [2509.23583v1](http://arxiv.org/abs/2509.23583v1) | **NULL** |
+| **2025/09/28** | Towards Interpretable Visual Decoding with Attention to Brain Representations | Pinyuan Feng et al. | [2509.23566v1](http://arxiv.org/abs/2509.23566v1) | **NULL** |
+| **2025/09/28** | A Hierarchical Structure-Enhanced Personalized Recommendation Model for Traditional Chinese Medicine Formulas Based on KG Diffusion Guidance | ChaoBo Zhang et al. | [2509.23560v1](http://arxiv.org/abs/2509.23560v1) | **NULL** |
+| **2025/09/27** | Revisiting Multivariate Time Series Forecasting with Missing Values | Jie Yang et al. | [2509.23494v1](http://arxiv.org/abs/2509.23494v1) | **NULL** |
+| **2025/09/27** | 3DPCNet: Pose Canonicalization for Robust Viewpoint-Invariant 3D Kinematic Analysis from Monocular RGB cameras | Tharindu Ekanayake et al. | [2509.23455v1](http://arxiv.org/abs/2509.23455v1) | **NULL** |
+| **2025/09/27** | LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport | Ashkan Shahbazi et al. | [2509.23436v1](http://arxiv.org/abs/2509.23436v1) | **NULL** |
+| **2025/09/27** | FracDetNet: Advanced Fracture Detection via Dual-Focus Attention and Multi-scale Calibration in Medical X-ray Imaging | Yuyang Sun et al. | [2509.23416v1](http://arxiv.org/abs/2509.23416v1) | **NULL** |
+| **2025/09/27** | Balanced Diffusion-Guided Fusion for Multimodal Remote Sensing Classification | Hao Liu et al. | [2509.23310v1](http://arxiv.org/abs/2509.23310v1) | **NULL** |
+| **2025/09/27** | Vid-Freeze: Protecting Images from Malicious Image-to-Video Generation via Temporal Freezing | Rohit Chowdhury et al. | [2509.23279v1](http://arxiv.org/abs/2509.23279v1) | **NULL** |
+| **2025/09/27** | Patch Rebirth: Toward Fast and Transferable Model Inversion of Vision Transformers | Seongsoo Heo et al. | [2509.23235v1](http://arxiv.org/abs/2509.23235v1) | **NULL** |
+| **2025/09/27** | TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts | Xiaowen Ma et al. | [2509.23145v1](http://arxiv.org/abs/2509.23145v1) | **NULL** |
+| **2025/09/26** | Twin Peaks: Dual-Head Architecture for Structure-Free Prediction of Protein-Protein Binding Affinity and Mutation Effects | Supantha Dey et al. | [2509.22950v1](http://arxiv.org/abs/2509.22950v1) | **NULL** |
+| **2025/09/26** | Learning Temporal Saliency for Time Series Forecasting with Cross-Scale Attention | Ibrahim Delibasoglu et al. | [2509.22839v1](http://arxiv.org/abs/2509.22839v1) | **NULL** |
 
 ## 背景差分
 
