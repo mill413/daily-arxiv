@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/02 09:03:12
+> Updated on 2025/10/03 09:03:10
 
 <summary>Table of Contents</summary>
 
@@ -63,7 +63,7 @@ layout: default
 | **2025/09/30** | EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model | Ruixiao Dong et al. | [2509.26127v1](http://arxiv.org/abs/2509.26127v1) | **NULL** |
 | **2025/09/30** | Predicting Penalty Kick Direction Using Multi-Modal Deep Learning with Pose-Guided Attention | Pasindu Ranasinghe et al. | [2509.26088v1](http://arxiv.org/abs/2509.26088v1) | **NULL** |
 | **2025/09/30** | Indirect Attention: Turning Context Misalignment into a Feature | Bissmella Bahaduri et al. | [2509.26015v1](http://arxiv.org/abs/2509.26015v1) | **NULL** |
-| **2025/09/30** | VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing | Abdelilah Aitrouga et al. | [2509.25998v1](http://arxiv.org/abs/2509.25998v1) | **NULL** |
+| **2025/09/30** | VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing | Abdelilah Aitrouga et al. | [2509.25998v2](http://arxiv.org/abs/2509.25998v2) | **NULL** |
 | **2025/09/30** | EEG-based AI-BCI Wheelchair Advancement: Hybrid Deep Learning with Motor Imagery for Brain Computer Interface | Bipul Thapa et al. | [2509.25667v1](http://arxiv.org/abs/2509.25667v1) | **NULL** |
 | **2025/09/30** | Iterative Residual Cross-Attention Mechanism: An Integrated Approach for Audio-Visual Navigation Tasks | Hailong Zhang et al. | [2509.25652v1](http://arxiv.org/abs/2509.25652v1) | **NULL** |
 | **2025/09/29** | Multi-modal Spatio-Temporal Transformer for High-resolution Land Subsidence Prediction | Wendong Yao et al. | [2509.25393v2](http://arxiv.org/abs/2509.25393v2) | **NULL** |
