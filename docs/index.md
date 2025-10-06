@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/05 09:10:13
+> Updated on 2025/10/06 09:05:07
 
 <summary>Table of Contents</summary>
 
@@ -28,7 +28,7 @@ layout: default
 | **2025/08/20** | Inter-Class Relational Loss for Small Object Detection: A Case Study on License Plates | Dian Ning et al. | [2508.14343v1](http://arxiv.org/abs/2508.14343v1) | **NULL** |
 | **2025/08/15** | TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations | Xinyi Yin et al. | [2508.11478v1](http://arxiv.org/abs/2508.11478v1) | **NULL** |
 | **2025/08/13** | COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection | Peiran Peng et al. | [2508.09533v1](http://arxiv.org/abs/2508.09533v1) | **NULL** |
-| **2025/08/02** | SBP-YOLO:A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes | Chuanqi Liang et al. | [2508.01339v2](http://arxiv.org/abs/2508.01339v2) | **NULL** |
+| **2025/08/02** | SBP-YOLO:A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes toward Intelligent Vehicle Suspension Systems | Chuanqi Liang et al. | [2508.01339v3](http://arxiv.org/abs/2508.01339v3) | **NULL** |
 | **2025/07/28** | Tracking Moose using Aerial Object Detection | Christopher Indris et al. | [2507.21256v1](http://arxiv.org/abs/2507.21256v1) | **NULL** |
 | **2025/07/28** | An Improved YOLOv8 Approach for Small Target Detection of Rice Spikelet Flowering in Field Environments | Beizhang Chen et al. | [2507.20506v1](http://arxiv.org/abs/2507.20506v1) | **NULL** |
 | **2025/07/25** | Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization | Xiaocheng Fang et al. | [2507.19059v1](http://arxiv.org/abs/2507.19059v1) | **NULL** |
@@ -53,7 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2025/10/02** | C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems | Mertcan Cokbas et al. | [2510.02215v1](http://arxiv.org/abs/2510.02215v1) | **NULL** |
+| **2025/10/02** | C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems | Mertcan Cokbas et al. | [2510.02215v2](http://arxiv.org/abs/2510.02215v2) | **NULL** |
 | **2025/10/02** | Exploring Resolution-Wise Shared Attention in Hybrid Mamba-U-Nets for Improved Cross-Corpus Speech Enhancement | Nikolai Lund Kühne et al. | [2510.01958v1](http://arxiv.org/abs/2510.01958v1) | **NULL** |
 | **2025/10/02** | HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering | Xuyi Hu et al. | [2510.01891v1](http://arxiv.org/abs/2510.01891v1) | **NULL** |
 | **2025/10/02** | Sparse Query Attention (SQA): A Computationally Efficient Attention Mechanism with Query Heads Reduction | Adam Filipek | [2510.01817v1](http://arxiv.org/abs/2510.01817v1) | **NULL** |
