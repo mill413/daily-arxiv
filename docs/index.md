@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/06 09:05:07
+> Updated on 2025/10/07 09:04:03
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/03** | Neural Posterior Estimation with Autoregressive Tiling for Detecting Objects in Astronomical Images | Jeffrey Regier | [2510.03074v1](http://arxiv.org/abs/2510.03074v1) | **NULL** |
 | **2025/09/27** | FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection | Ben Liang et al. | [2509.23056v1](http://arxiv.org/abs/2509.23056v1) | **NULL** |
 | **2025/09/26** | HierLight-YOLO: A Hierarchical and Lightweight Object Detection Network for UAV Photography | Defan Chen et al. | [2509.22365v1](http://arxiv.org/abs/2509.22365v1) | **NULL** |
 | **2025/09/24** | SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments | Yihao Hu et al. | [2509.19990v1](http://arxiv.org/abs/2509.19990v1) | **NULL** |
@@ -47,13 +48,20 @@ layout: default
 | **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v2](http://arxiv.org/abs/2505.10016v2) | **NULL** |
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v2](http://arxiv.org/abs/2505.05741v2) | **NULL** |
 | **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
-| **2025/04/30** | Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors | Richard Schmit | [2505.00044v1](http://arxiv.org/abs/2505.00044v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/03** | Signature-Informed Transformer for Asset Allocation | Yoontae Hwang et al. | [2510.03129v1](http://arxiv.org/abs/2510.03129v1) | **NULL** |
+| **2025/10/03** | GCVAMD: A Modified CausalVAE Model for Causal Age-related Macular Degeneration Risk Factor Detection and Prediction | Daeyoung Kim | [2510.02781v1](http://arxiv.org/abs/2510.02781v1) | **NULL** |
+| **2025/10/03** | MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context | Junyu Shi et al. | [2510.02722v1](http://arxiv.org/abs/2510.02722v1) | **NULL** |
+| **2025/10/03** | CST-AFNet: A dual attention-based deep learning framework for intrusion detection in IoT networks | Waqas Ishtiaq et al. | [2510.02717v1](http://arxiv.org/abs/2510.02717v1) | **NULL** |
+| **2025/10/03** | A Novel Unified Lightweight Temporal-Spatial Transformer Approach for Intrusion Detection in Drone Networks | Tarun Kumar Biswas et al. | [2510.02711v1](http://arxiv.org/abs/2510.02711v1) | **NULL** |
+| **2025/10/03** | HyperAdaLoRA: Accelerating LoRA Rank Allocation During Training via Hypernetworks without Sacrificing Performance | Hao Zhang et al. | [2510.02630v1](http://arxiv.org/abs/2510.02630v1) | **NULL** |
+| **2025/10/02** | Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation | Beijia Lu et al. | [2510.02617v1](http://arxiv.org/abs/2510.02617v1) | **NULL** |
 | **2025/10/02** | C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems | Mertcan Cokbas et al. | [2510.02215v2](http://arxiv.org/abs/2510.02215v2) | **NULL** |
+| **2025/10/02** | RainSeer: Fine-Grained Rainfall Reconstruction via Physics-Guided Modeling | Lin Chen et al. | [2510.02414v1](http://arxiv.org/abs/2510.02414v1) | **NULL** |
 | **2025/10/02** | Exploring Resolution-Wise Shared Attention in Hybrid Mamba-U-Nets for Improved Cross-Corpus Speech Enhancement | Nikolai Lund Kühne et al. | [2510.01958v1](http://arxiv.org/abs/2510.01958v1) | **NULL** |
 | **2025/10/02** | HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering | Xuyi Hu et al. | [2510.01891v1](http://arxiv.org/abs/2510.01891v1) | **NULL** |
 | **2025/10/02** | Sparse Query Attention (SQA): A Computationally Efficient Attention Mechanism with Query Heads Reduction | Adam Filipek | [2510.01817v1](http://arxiv.org/abs/2510.01817v1) | **NULL** |
@@ -75,14 +83,6 @@ layout: default
 | **2025/09/30** | Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models | Shutong Wu et al. | [2510.00294v1](http://arxiv.org/abs/2510.00294v1) | **NULL** |
 | **2025/09/30** | Large Language Models Inference Engines based on Spiking Neural Networks | Adarsha Balaji et al. | [2510.00133v2](http://arxiv.org/abs/2510.00133v2) | **NULL** |
 | **2025/09/30** | TASP: Topology-aware Sequence Parallelism | Yida Wang et al. | [2509.26541v1](http://arxiv.org/abs/2509.26541v1) | **NULL** |
-| **2025/09/30** | HilbertA: Hilbert Attention for Image Generation with Diffusion Models | Shaoyi Zheng et al. | [2509.26538v1](http://arxiv.org/abs/2509.26538v1) | **NULL** |
-| **2025/09/30** | CBAM Integrated Attention Driven Model For Betel Leaf Diseases Classification With Explainable AI | Sumaiya Tabassum et al. | [2509.26484v1](http://arxiv.org/abs/2509.26484v1) | **NULL** |
-| **2025/09/30** | TrackFormers Part 2: Enhanced Transformer-Based Models for High-Energy Physics Track Reconstruction | Sascha Caron et al. | [2509.26411v1](http://arxiv.org/abs/2509.26411v1) | **NULL** |
-| **2025/09/30** | TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos | Ioannis Kontostathis et al. | [2509.26208v1](http://arxiv.org/abs/2509.26208v1) | **NULL** |
-| **2025/09/30** | The silence of the weights: an investigation of structural pruning strategies for attention-based audio signal architectures | Andrea Diecidue et al. | [2509.26207v1](http://arxiv.org/abs/2509.26207v1) | **NULL** |
-| **2025/09/30** | LMILAtt: A Deep Learning Model for Depression Detection from Social Media Users Enhanced by Multi-Instance Learning Based on Attention Mechanism | Yukun Yang | [2509.26145v1](http://arxiv.org/abs/2509.26145v1) | **NULL** |
-| **2025/09/30** | EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model | Ruixiao Dong et al. | [2509.26127v1](http://arxiv.org/abs/2509.26127v1) | **NULL** |
-| **2025/09/30** | Predicting Penalty Kick Direction Using Multi-Modal Deep Learning with Pose-Guided Attention | Pasindu Ranasinghe et al. | [2509.26088v1](http://arxiv.org/abs/2509.26088v1) | **NULL** |
 
 ## 背景差分
 
