@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/08 09:03:35
+> Updated on 2025/10/09 09:04:35
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/07** | Zeeman: A Deep Learning Regional Atmospheric Chemistry Transport Model | Mijie Pang et al. | [2510.06140v1](http://arxiv.org/abs/2510.06140v1) | **NULL** |
+| **2025/10/07** | $\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection | Yanran Zhang et al. | [2510.05891v1](http://arxiv.org/abs/2510.05891v1) | **NULL** |
+| **2025/10/07** | vAttention: Verified Sparse Attention | Aditya Desai et al. | [2510.05688v1](http://arxiv.org/abs/2510.05688v1) | **NULL** |
+| **2025/10/07** | Teleportraits: Training-Free People Insertion into Any Scene | Jialu Gao et al. | [2510.05660v1](http://arxiv.org/abs/2510.05660v1) | **NULL** |
+| **2025/10/07** | SD-MVSum: Script-Driven Multimodal Video Summarization Method and Datasets | Manolis Mylonas et al. | [2510.05652v1](http://arxiv.org/abs/2510.05652v1) | **NULL** |
+| **2025/10/07** | When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning | Arindam Chowdhury et al. | [2510.05583v1](http://arxiv.org/abs/2510.05583v1) | **NULL** |
+| **2025/10/07** | ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics | Luke Thompson et al. | [2510.05482v1](http://arxiv.org/abs/2510.05482v1) | **NULL** |
+| **2025/10/06** | KVLinC : KV Cache Quantization with Hadamard Rotation and Linear Correction | Utkarsh Saxena et al. | [2510.05373v1](http://arxiv.org/abs/2510.05373v1) | **NULL** |
+| **2025/10/06** | The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures | Alexander M. Fichtl et al. | [2510.05364v1](http://arxiv.org/abs/2510.05364v1) | **NULL** |
+| **2025/10/06** | AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement | M. Sajid et al. | [2510.05295v1](http://arxiv.org/abs/2510.05295v1) | **NULL** |
 | **2025/10/06** | Exploring the Efficacy of Modified Transfer Learning in Identifying Parkinson's Disease Through Drawn Image Patterns | Nabil Daiyan et al. | [2510.05015v1](http://arxiv.org/abs/2510.05015v1) | **NULL** |
 | **2025/10/06** | Bidirectional Mammogram View Translation with Column-Aware and Implicit 3D Conditional Diffusion | Xin Li et al. | [2510.04947v1](http://arxiv.org/abs/2510.04947v1) | **NULL** |
 | **2025/10/06** | On Structured State-Space Duality | Jerry Yao-Chieh Hu et al. | [2510.04944v1](http://arxiv.org/abs/2510.04944v1) | **NULL** |
@@ -62,6 +72,7 @@ layout: default
 | **2025/10/06** | SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection | Baber Jan et al. | [2510.04472v1](http://arxiv.org/abs/2510.04472v1) | **NULL** |
 | **2025/10/05** | Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention | Haiquan Qiu et al. | [2510.04212v1](http://arxiv.org/abs/2510.04212v1) | **NULL** |
 | **2025/10/05** | Attending on Multilevel Structure of Proteins enables Accurate Prediction of Cold-Start Drug-Target Interactions | Ziying Zhang et al. | [2510.04126v1](http://arxiv.org/abs/2510.04126v1) | **NULL** |
+| **2025/10/05** | Carbon Emission Prediction in China Considering New Quality Productive Forces Using a Deep & Corss Learning Modeling Framework | Haijin Xie et al. | [2510.05171v1](http://arxiv.org/abs/2510.05171v1) | **NULL** |
 | **2025/10/05** | Prompt-to-Prompt: Text-Based Image Editing Via Cross-Attention Mechanisms -- The Research of Hyperparameters and Novel Mechanisms to Enhance Existing Frameworks | Linn Bieske et al. | [2510.04034v1](http://arxiv.org/abs/2510.04034v1) | **NULL** |
 | **2025/10/05** | A Mathematical Explanation of Transformers for Large Language Models and GPTs | Xue-Cheng Tai et al. | [2510.03989v1](http://arxiv.org/abs/2510.03989v1) | **NULL** |
 | **2025/10/04** | Sliding Window Attention for Learned Video Compression | Alexander Kopte et al. | [2510.03926v1](http://arxiv.org/abs/2510.03926v1) | **NULL** |
@@ -72,17 +83,6 @@ layout: default
 | **2025/10/03** | Signature-Informed Transformer for Asset Allocation | Yoontae Hwang et al. | [2510.03129v1](http://arxiv.org/abs/2510.03129v1) | **NULL** |
 | **2025/10/03** | GCVAMD: A Modified CausalVAE Model for Causal Age-related Macular Degeneration Risk Factor Detection and Prediction | Daeyoung Kim | [2510.02781v1](http://arxiv.org/abs/2510.02781v1) | **NULL** |
 | **2025/10/03** | MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context | Junyu Shi et al. | [2510.02722v1](http://arxiv.org/abs/2510.02722v1) | **NULL** |
-| **2025/10/03** | CST-AFNet: A dual attention-based deep learning framework for intrusion detection in IoT networks | Waqas Ishtiaq et al. | [2510.02717v1](http://arxiv.org/abs/2510.02717v1) | **NULL** |
-| **2025/10/03** | A Novel Unified Lightweight Temporal-Spatial Transformer Approach for Intrusion Detection in Drone Networks | Tarun Kumar Biswas et al. | [2510.02711v1](http://arxiv.org/abs/2510.02711v1) | **NULL** |
-| **2025/10/03** | HyperAdaLoRA: Accelerating LoRA Rank Allocation During Training via Hypernetworks without Sacrificing Performance | Hao Zhang et al. | [2510.02630v1](http://arxiv.org/abs/2510.02630v1) | **NULL** |
-| **2025/10/02** | Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation | Beijia Lu et al. | [2510.02617v1](http://arxiv.org/abs/2510.02617v1) | **NULL** |
-| **2025/10/02** | C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems | Mertcan Cokbas et al. | [2510.02215v2](http://arxiv.org/abs/2510.02215v2) | **NULL** |
-| **2025/10/02** | RainSeer: Fine-Grained Rainfall Reconstruction via Physics-Guided Modeling | Lin Chen et al. | [2510.02414v2](http://arxiv.org/abs/2510.02414v2) | **NULL** |
-| **2025/10/02** | Exploring Resolution-Wise Shared Attention in Hybrid Mamba-U-Nets for Improved Cross-Corpus Speech Enhancement | Nikolai Lund Kühne et al. | [2510.01958v1](http://arxiv.org/abs/2510.01958v1) | **NULL** |
-| **2025/10/02** | Pool Me Wisely: On the Effect of Pooling in Transformer-Based Models | Sofiane Ennadir et al. | [2510.03339v1](http://arxiv.org/abs/2510.03339v1) | **NULL** |
-| **2025/10/02** | HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering | Xuyi Hu et al. | [2510.01891v1](http://arxiv.org/abs/2510.01891v1) | **NULL** |
-| **2025/10/02** | Error correction in multiclass image classification of facial emotion on unbalanced samples | Andrey A. Lebedev et al. | [2510.03337v1](http://arxiv.org/abs/2510.03337v1) | **NULL** |
-| **2025/10/02** | Sparse Query Attention (SQA): A Computationally Efficient Attention Mechanism with Query Heads Reduction | Adam Filipek | [2510.01817v1](http://arxiv.org/abs/2510.01817v1) | **NULL** |
 
 ## 背景差分
 
