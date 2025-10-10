@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/09 09:04:35
+> Updated on 2025/10/10 09:04:18
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/08** | DADO: A Depth-Attention framework for Object Discovery | Federico Gonzalez et al. | [2510.07089v1](http://arxiv.org/abs/2510.07089v1) | **NULL** |
+| **2025/10/08** | Grouped Differential Attention | Junghwan Lim et al. | [2510.06949v1](http://arxiv.org/abs/2510.06949v1) | **NULL** |
+| **2025/10/08** | Lung Infection Severity Prediction Using Transformers with Conditional TransMix Augmentation and Cross-Attention | Bouthaina Slika et al. | [2510.06887v1](http://arxiv.org/abs/2510.06887v1) | **NULL** |
+| **2025/10/08** | MoRE-GNN: Multi-omics Data Integration with a Heterogeneous Graph Autoencoder | Zhiyu Wang et al. | [2510.06880v1](http://arxiv.org/abs/2510.06880v1) | **NULL** |
+| **2025/10/08** | SID: Multi-LLM Debate Driven by Self Signals | Xuhang Chen et al. | [2510.06843v1](http://arxiv.org/abs/2510.06843v1) | **NULL** |
+| **2025/10/08** | TimeFormer: Transformer with Attention Modulation Empowered by Temporal Characteristics for Time Series Forecasting | Zhipeng Liu et al. | [2510.06680v1](http://arxiv.org/abs/2510.06680v1) | **NULL** |
+| **2025/10/08** | Rethinking Nonlinearity: Trainable Gaussian Mixture Modules for Modern Neural Architectures | Weiguo Lu et al. | [2510.06660v1](http://arxiv.org/abs/2510.06660v1) | **NULL** |
+| **2025/10/08** | HSNet: Heterogeneous Subgraph Network for Single Image Super-resolution | Qiongyang Hu et al. | [2510.06564v1](http://arxiv.org/abs/2510.06564v1) | **NULL** |
+| **2025/10/07** | Attention-Enhanced Reinforcement Learning for Dynamic Portfolio Optimization | Pei Xue et al. | [2510.06466v1](http://arxiv.org/abs/2510.06466v1) | **NULL** |
 | **2025/10/07** | Zeeman: A Deep Learning Regional Atmospheric Chemistry Transport Model | Mijie Pang et al. | [2510.06140v1](http://arxiv.org/abs/2510.06140v1) | **NULL** |
 | **2025/10/07** | $\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection | Yanran Zhang et al. | [2510.05891v1](http://arxiv.org/abs/2510.05891v1) | **NULL** |
 | **2025/10/07** | vAttention: Verified Sparse Attention | Aditya Desai et al. | [2510.05688v1](http://arxiv.org/abs/2510.05688v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/10/05** | Attending on Multilevel Structure of Proteins enables Accurate Prediction of Cold-Start Drug-Target Interactions | Ziying Zhang et al. | [2510.04126v1](http://arxiv.org/abs/2510.04126v1) | **NULL** |
 | **2025/10/05** | Carbon Emission Prediction in China Considering New Quality Productive Forces Using a Deep & Corss Learning Modeling Framework | Haijin Xie et al. | [2510.05171v1](http://arxiv.org/abs/2510.05171v1) | **NULL** |
 | **2025/10/05** | Prompt-to-Prompt: Text-Based Image Editing Via Cross-Attention Mechanisms -- The Research of Hyperparameters and Novel Mechanisms to Enhance Existing Frameworks | Linn Bieske et al. | [2510.04034v1](http://arxiv.org/abs/2510.04034v1) | **NULL** |
-| **2025/10/05** | A Mathematical Explanation of Transformers for Large Language Models and GPTs | Xue-Cheng Tai et al. | [2510.03989v1](http://arxiv.org/abs/2510.03989v1) | **NULL** |
-| **2025/10/04** | Sliding Window Attention for Learned Video Compression | Alexander Kopte et al. | [2510.03926v1](http://arxiv.org/abs/2510.03926v1) | **NULL** |
-| **2025/10/04** | Rare Text Semantics Were Always There in Your Diffusion Transformer | Seil Kang et al. | [2510.03886v1](http://arxiv.org/abs/2510.03886v1) | **NULL** |
-| **2025/10/04** | Artery-Vein Segmentation from Fundus Images using Deep Learning | Sharan SK et al. | [2510.03717v1](http://arxiv.org/abs/2510.03717v1) | **NULL** |
-| **2025/10/04** | Towards Sampling Data Structures for Tensor Products in Turnstile Streams | Zhao Song et al. | [2510.03678v1](http://arxiv.org/abs/2510.03678v1) | **NULL** |
-| **2025/10/04** | XG-Attention-WGAN PIC: Utilizing XGboost-Attention-WGAN for Photonics Integrated Circuit Design | Mahmood Hasani et al. | [2510.03651v1](http://arxiv.org/abs/2510.03651v1) | **NULL** |
-| **2025/10/03** | Signature-Informed Transformer for Asset Allocation | Yoontae Hwang et al. | [2510.03129v1](http://arxiv.org/abs/2510.03129v1) | **NULL** |
-| **2025/10/03** | GCVAMD: A Modified CausalVAE Model for Causal Age-related Macular Degeneration Risk Factor Detection and Prediction | Daeyoung Kim | [2510.02781v1](http://arxiv.org/abs/2510.02781v1) | **NULL** |
-| **2025/10/03** | MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context | Junyu Shi et al. | [2510.02722v1](http://arxiv.org/abs/2510.02722v1) | **NULL** |
 
 ## 背景差分
 
