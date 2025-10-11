@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/10 09:04:18
+> Updated on 2025/10/11 09:01:51
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/09** | In-Context Clustering with Large Language Models | Ying Wang et al. | [2510.08466v1](http://arxiv.org/abs/2510.08466v1) | **NULL** |
+| **2025/10/09** | Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning | Andrew Lee et al. | [2510.08442v1](http://arxiv.org/abs/2510.08442v1) | **NULL** |
+| **2025/10/09** | RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans | Bheeshm Sharma et al. | [2510.08052v1](http://arxiv.org/abs/2510.08052v1) | **NULL** |
+| **2025/10/09** | AILoRA: Function-Aware Asymmetric Initialization for Low-Rank Adaptation of Large Language Models | Xiaoshuang Ji et al. | [2510.08034v1](http://arxiv.org/abs/2510.08034v1) | **NULL** |
+| **2025/10/09** | Personality-Enhanced Multimodal Depression Detection in the Elderly | Honghong Wang et al. | [2510.08004v1](http://arxiv.org/abs/2510.08004v1) | **NULL** |
+| **2025/10/09** | RePainter: Empowering E-commerce Object Removal via Spatial-matting Reinforcement Learning | Zipeng Guo et al. | [2510.07721v1](http://arxiv.org/abs/2510.07721v1) | **NULL** |
+| **2025/10/08** | Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects | Sizhe Ma et al. | [2510.07606v1](http://arxiv.org/abs/2510.07606v1) | **NULL** |
+| **2025/10/08** | Attention to Order: Transformers Discover Phase Transitions via Learnability | Şener Özönder | [2510.07401v1](http://arxiv.org/abs/2510.07401v1) | **NULL** |
 | **2025/10/08** | DADO: A Depth-Attention framework for Object Discovery | Federico Gonzalez et al. | [2510.07089v1](http://arxiv.org/abs/2510.07089v1) | **NULL** |
 | **2025/10/08** | Grouped Differential Attention | Junghwan Lim et al. | [2510.06949v1](http://arxiv.org/abs/2510.06949v1) | **NULL** |
 | **2025/10/08** | Lung Infection Severity Prediction Using Transformers with Conditional TransMix Augmentation and Cross-Attention | Bouthaina Slika et al. | [2510.06887v1](http://arxiv.org/abs/2510.06887v1) | **NULL** |
@@ -75,19 +83,12 @@ layout: default
 | **2025/10/06** | Exploring the Efficacy of Modified Transfer Learning in Identifying Parkinson's Disease Through Drawn Image Patterns | Nabil Daiyan et al. | [2510.05015v1](http://arxiv.org/abs/2510.05015v1) | **NULL** |
 | **2025/10/06** | Bidirectional Mammogram View Translation with Column-Aware and Implicit 3D Conditional Diffusion | Xin Li et al. | [2510.04947v1](http://arxiv.org/abs/2510.04947v1) | **NULL** |
 | **2025/10/06** | On Structured State-Space Duality | Jerry Yao-Chieh Hu et al. | [2510.04944v1](http://arxiv.org/abs/2510.04944v1) | **NULL** |
-| **2025/10/06** | Hybrid Architectures for Language Models: Systematic Analysis and Design Insights | Sangmin Bae et al. | [2510.04800v1](http://arxiv.org/abs/2510.04800v1) | **NULL** |
-| **2025/10/06** | ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement | Habin Lim et al. | [2510.04668v1](http://arxiv.org/abs/2510.04668v1) | **NULL** |
-| **2025/10/06** | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models | Wenhao Guan et al. | [2510.04593v1](http://arxiv.org/abs/2510.04593v1) | **NULL** |
-| **2025/10/06** | SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection | Baber Jan et al. | [2510.04472v1](http://arxiv.org/abs/2510.04472v1) | **NULL** |
-| **2025/10/05** | Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention | Haiquan Qiu et al. | [2510.04212v1](http://arxiv.org/abs/2510.04212v1) | **NULL** |
-| **2025/10/05** | Attending on Multilevel Structure of Proteins enables Accurate Prediction of Cold-Start Drug-Target Interactions | Ziying Zhang et al. | [2510.04126v1](http://arxiv.org/abs/2510.04126v1) | **NULL** |
-| **2025/10/05** | Carbon Emission Prediction in China Considering New Quality Productive Forces Using a Deep & Corss Learning Modeling Framework | Haijin Xie et al. | [2510.05171v1](http://arxiv.org/abs/2510.05171v1) | **NULL** |
-| **2025/10/05** | Prompt-to-Prompt: Text-Based Image Editing Via Cross-Attention Mechanisms -- The Research of Hyperparameters and Novel Mechanisms to Enhance Existing Frameworks | Linn Bieske et al. | [2510.04034v1](http://arxiv.org/abs/2510.04034v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/09** | Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification | Nabeel Nisar Bhat et al. | [2510.08160v1](http://arxiv.org/abs/2510.08160v1) | **NULL** |
 | **2025/10/01** | JADES Data Release 4 -- Paper II: Data reduction, analysis and emission-line fluxes of the complete spectroscopic sample | J. Scholtz et al. | [2510.01034v1](http://arxiv.org/abs/2510.01034v1) | **NULL** |
 | **2025/09/16** | Euclid preparation. Using mock Low Surface Brightness dwarf galaxies to probe Wide Survey detection capabilities | Euclid Collaboration et al. | [2509.13163v1](http://arxiv.org/abs/2509.13163v1) | **NULL** |
 | **2025/09/12** | An ultraviolet burst oscillation candidate from the low-mass X-ray binary EXO 0748-676 | A. Miraval Zanon et al. | [2509.10115v1](http://arxiv.org/abs/2509.10115v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
 | **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
 | **2025/03/21** | UV LIGHTS. New tools for revealing the low surface brightness regime in the ultraviolet | Ignacio Ruiz Cejudo et al. | [2503.17446v1](http://arxiv.org/abs/2503.17446v1) | **NULL** |
-| **2025/03/14** | Black Hole Action in Einstein's other Gravity | Michal Stano | [2503.11746v1](http://arxiv.org/abs/2503.11746v1) | **NULL** |
