@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/12 09:07:34
+> Updated on 2025/10/14 09:04:24
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/10** | PRNet: Original Information Is All You Have | PeiHuang Zheng et al. | [2510.09531v1](http://arxiv.org/abs/2510.09531v1) | **NULL** |
 | **2025/10/03** | Neural Posterior Estimation with Autoregressive Tiling for Detecting Objects in Astronomical Images | Jeffrey Regier | [2510.03074v1](http://arxiv.org/abs/2510.03074v1) | **NULL** |
 | **2025/09/27** | FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection | Ben Liang et al. | [2509.23056v1](http://arxiv.org/abs/2509.23056v1) | **NULL** |
 | **2025/09/26** | HierLight-YOLO: A Hierarchical and Lightweight Object Detection Network for UAV Photography | Defan Chen et al. | [2509.22365v1](http://arxiv.org/abs/2509.22365v1) | **NULL** |
@@ -47,14 +48,17 @@ layout: default
 | **2025/05/22** | MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection | Yichen Li et al. | [2505.16442v1](http://arxiv.org/abs/2505.16442v1) | **NULL** |
 | **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v2](http://arxiv.org/abs/2505.10016v2) | **NULL** |
 | **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v2](http://arxiv.org/abs/2505.05741v2) | **NULL** |
-| **2025/05/05** | DPNet: Dynamic Pooling Network for Tiny Object Detection | Luqi Gong et al. | [2505.02797v1](http://arxiv.org/abs/2505.02797v1) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/10** | Localist LLMs -- A Mathematical Framework for Dynamic Locality Control | Joachim Diederich | [2510.09338v1](http://arxiv.org/abs/2510.09338v1) | **NULL** |
+| **2025/10/09** | Neptune: Advanced ML Operator Fusion for Locality and Parallelism on GPUs | Yifan Zhao et al. | [2510.08726v1](http://arxiv.org/abs/2510.08726v1) | **NULL** |
+| **2025/10/09** | In-Context Learning for Non-Stationary MIMO Equalization | Jiachen Jiang et al. | [2510.08711v1](http://arxiv.org/abs/2510.08711v1) | **NULL** |
 | **2025/10/09** | In-Context Clustering with Large Language Models | Ying Wang et al. | [2510.08466v1](http://arxiv.org/abs/2510.08466v1) | **NULL** |
 | **2025/10/09** | Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning | Andrew Lee et al. | [2510.08442v1](http://arxiv.org/abs/2510.08442v1) | **NULL** |
+| **2025/10/09** | DPCformer: An Interpretable Deep Learning Model for Genomic Prediction in Crops | Pengcheng Deng et al. | [2510.08662v1](http://arxiv.org/abs/2510.08662v1) | **NULL** |
 | **2025/10/09** | RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans | Bheeshm Sharma et al. | [2510.08052v1](http://arxiv.org/abs/2510.08052v1) | **NULL** |
 | **2025/10/09** | AILoRA: Function-Aware Asymmetric Initialization for Low-Rank Adaptation of Large Language Models | Xiaoshuang Ji et al. | [2510.08034v1](http://arxiv.org/abs/2510.08034v1) | **NULL** |
 | **2025/10/09** | Personality-Enhanced Multimodal Depression Detection in the Elderly | Honghong Wang et al. | [2510.08004v1](http://arxiv.org/abs/2510.08004v1) | **NULL** |
@@ -79,10 +83,6 @@ layout: default
 | **2025/10/07** | ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics | Luke Thompson et al. | [2510.05482v1](http://arxiv.org/abs/2510.05482v1) | **NULL** |
 | **2025/10/06** | KVLinC : KV Cache Quantization with Hadamard Rotation and Linear Correction | Utkarsh Saxena et al. | [2510.05373v1](http://arxiv.org/abs/2510.05373v1) | **NULL** |
 | **2025/10/06** | The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures | Alexander M. Fichtl et al. | [2510.05364v1](http://arxiv.org/abs/2510.05364v1) | **NULL** |
-| **2025/10/06** | AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement | M. Sajid et al. | [2510.05295v1](http://arxiv.org/abs/2510.05295v1) | **NULL** |
-| **2025/10/06** | Exploring the Efficacy of Modified Transfer Learning in Identifying Parkinson's Disease Through Drawn Image Patterns | Nabil Daiyan et al. | [2510.05015v1](http://arxiv.org/abs/2510.05015v1) | **NULL** |
-| **2025/10/06** | Bidirectional Mammogram View Translation with Column-Aware and Implicit 3D Conditional Diffusion | Xin Li et al. | [2510.04947v1](http://arxiv.org/abs/2510.04947v1) | **NULL** |
-| **2025/10/06** | On Structured State-Space Duality | Jerry Yao-Chieh Hu et al. | [2510.04944v1](http://arxiv.org/abs/2510.04944v1) | **NULL** |
 
 ## 背景差分
 
