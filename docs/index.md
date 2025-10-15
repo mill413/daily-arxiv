@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/14 09:04:24
+> Updated on 2025/10/15 09:06:21
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/13** | NV3D: Leveraging Spatial Shape Through Normal Vector-based 3D Object Detection | Krittin Chaowakarn et al. | [2510.11632v1](http://arxiv.org/abs/2510.11632v1) | **NULL** |
+| **2025/10/13** | Deconstructing Attention: Investigating Design Principles for Effective Language Modeling | Huiyin Xue et al. | [2510.11602v1](http://arxiv.org/abs/2510.11602v1) | **NULL** |
+| **2025/10/13** | REGENT: Relevance-Guided Attention for Entity-Aware Multi-Vector Neural Re-Ranking | Shubham Chatterjee | [2510.11592v1](http://arxiv.org/abs/2510.11592v1) | **NULL** |
+| **2025/10/13** | An AI dose engine for fast carbon ion treatment planning | Anastasiia Quarz et al. | [2510.11271v1](http://arxiv.org/abs/2510.11271v1) | **NULL** |
+| **2025/10/13** | Text-Enhanced Panoptic Symbol Spotting in CAD Drawings | Xianlin Liu et al. | [2510.11091v1](http://arxiv.org/abs/2510.11091v1) | **NULL** |
+| **2025/10/13** | Decoupled Multimodal Fusion for User Interest Modeling in Click-Through Rate Prediction | Alin Fan et al. | [2510.11066v1](http://arxiv.org/abs/2510.11066v1) | **NULL** |
+| **2025/10/13** | ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation | Ruihang Xu et al. | [2510.11000v1](http://arxiv.org/abs/2510.11000v1) | **NULL** |
+| **2025/10/13** | HatLLM: Hierarchical Attention Masking for Enhanced Collaborative Modeling in LLM-based Recommendation | Yu Cui et al. | [2510.10955v1](http://arxiv.org/abs/2510.10955v1) | **NULL** |
+| **2025/10/12** | Attention-Enhanced LSTM Modeling for Improved Temperature and Rainfall Forecasting in Bangladesh | Usman Gani Joy et al. | [2510.10702v1](http://arxiv.org/abs/2510.10702v1) | **NULL** |
+| **2025/10/12** | GraphTARIF: Linear Graph Transformer with Augmented Rank and Improved Focus | Zhaolin Hu et al. | [2510.10631v1](http://arxiv.org/abs/2510.10631v1) | **NULL** |
+| **2025/10/12** | dN/dx Reconstruction with Deep Learning for High-Granularity TPCs | Guang Zhao et al. | [2510.10628v2](http://arxiv.org/abs/2510.10628v2) | **NULL** |
+| **2025/10/12** | Dynamic Topic Evolution with Temporal Decay and Attention in Large Language Models | Di Wu abd Shuaidong Pan | [2510.10613v1](http://arxiv.org/abs/2510.10613v1) | **NULL** |
+| **2025/10/12** | CAPSim: A Fast CPU Performance Simulator Using Attention-based Predictor | Buqing Xu et al. | [2510.10484v1](http://arxiv.org/abs/2510.10484v1) | **NULL** |
+| **2025/10/12** | MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition | Deng Li et al. | [2510.10478v1](http://arxiv.org/abs/2510.10478v1) | **NULL** |
+| **2025/10/12** | DAGLFNet:Deep Attention-Guided Global-Local Feature Fusion for Pseudo-Image Point Cloud Segmentation | Chuang Chen et al. | [2510.10471v1](http://arxiv.org/abs/2510.10471v1) | **NULL** |
+| **2025/10/11** | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | Feng Xiao et al. | [2510.10194v1](http://arxiv.org/abs/2510.10194v1) | **NULL** |
+| **2025/10/11** | Multi Class Parkinsons Disease Detection Based on Finger Tapping Using Attention-Enhanced CNN BiLSTM | Abu Saleh Musa Miah et al. | [2510.10121v1](http://arxiv.org/abs/2510.10121v1) | **NULL** |
+| **2025/10/11** | Integrating Structure-Aware Attention and Knowledge Graphs in Explainable Recommendation Systems | Shuangquan Lyu et al. | [2510.10109v1](http://arxiv.org/abs/2510.10109v1) | **NULL** |
+| **2025/10/11** | Complementary and Contrastive Learning for Audio-Visual Segmentation | Sitong Gong et al. | [2510.10051v1](http://arxiv.org/abs/2510.10051v1) | **NULL** |
+| **2025/10/11** | Automated Glaucoma Report Generation via Dual-Attention Semantic Parallel-LSTM and Multimodal Clinical Data Integration | Cheng Huang et al. | [2510.10037v1](http://arxiv.org/abs/2510.10037v1) | **NULL** |
+| **2025/10/10** | DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning | Hossein Entezari Zarch et al. | [2510.09883v1](http://arxiv.org/abs/2510.09883v1) | **NULL** |
+| **2025/10/10** | HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network | Yifan Lu et al. | [2510.09767v1](http://arxiv.org/abs/2510.09767v1) | **NULL** |
 | **2025/10/10** | Localist LLMs -- A Mathematical Framework for Dynamic Locality Control | Joachim Diederich | [2510.09338v1](http://arxiv.org/abs/2510.09338v1) | **NULL** |
 | **2025/10/09** | Neptune: Advanced ML Operator Fusion for Locality and Parallelism on GPUs | Yifan Zhao et al. | [2510.08726v1](http://arxiv.org/abs/2510.08726v1) | **NULL** |
 | **2025/10/09** | In-Context Learning for Non-Stationary MIMO Equalization | Jiachen Jiang et al. | [2510.08711v1](http://arxiv.org/abs/2510.08711v1) | **NULL** |
@@ -61,33 +83,12 @@ layout: default
 | **2025/10/09** | DPCformer: An Interpretable Deep Learning Model for Genomic Prediction in Crops | Pengcheng Deng et al. | [2510.08662v1](http://arxiv.org/abs/2510.08662v1) | **NULL** |
 | **2025/10/09** | RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans | Bheeshm Sharma et al. | [2510.08052v1](http://arxiv.org/abs/2510.08052v1) | **NULL** |
 | **2025/10/09** | AILoRA: Function-Aware Asymmetric Initialization for Low-Rank Adaptation of Large Language Models | Xiaoshuang Ji et al. | [2510.08034v1](http://arxiv.org/abs/2510.08034v1) | **NULL** |
-| **2025/10/09** | Personality-Enhanced Multimodal Depression Detection in the Elderly | Honghong Wang et al. | [2510.08004v1](http://arxiv.org/abs/2510.08004v1) | **NULL** |
-| **2025/10/09** | RePainter: Empowering E-commerce Object Removal via Spatial-matting Reinforcement Learning | Zipeng Guo et al. | [2510.07721v1](http://arxiv.org/abs/2510.07721v1) | **NULL** |
-| **2025/10/08** | Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects | Sizhe Ma et al. | [2510.07606v1](http://arxiv.org/abs/2510.07606v1) | **NULL** |
-| **2025/10/08** | Attention to Order: Transformers Discover Phase Transitions via Learnability | Şener Özönder | [2510.07401v1](http://arxiv.org/abs/2510.07401v1) | **NULL** |
-| **2025/10/08** | DADO: A Depth-Attention framework for Object Discovery | Federico Gonzalez et al. | [2510.07089v1](http://arxiv.org/abs/2510.07089v1) | **NULL** |
-| **2025/10/08** | Grouped Differential Attention | Junghwan Lim et al. | [2510.06949v1](http://arxiv.org/abs/2510.06949v1) | **NULL** |
-| **2025/10/08** | Lung Infection Severity Prediction Using Transformers with Conditional TransMix Augmentation and Cross-Attention | Bouthaina Slika et al. | [2510.06887v1](http://arxiv.org/abs/2510.06887v1) | **NULL** |
-| **2025/10/08** | MoRE-GNN: Multi-omics Data Integration with a Heterogeneous Graph Autoencoder | Zhiyu Wang et al. | [2510.06880v1](http://arxiv.org/abs/2510.06880v1) | **NULL** |
-| **2025/10/08** | SID: Multi-LLM Debate Driven by Self Signals | Xuhang Chen et al. | [2510.06843v1](http://arxiv.org/abs/2510.06843v1) | **NULL** |
-| **2025/10/08** | TimeFormer: Transformer with Attention Modulation Empowered by Temporal Characteristics for Time Series Forecasting | Zhipeng Liu et al. | [2510.06680v1](http://arxiv.org/abs/2510.06680v1) | **NULL** |
-| **2025/10/08** | Rethinking Nonlinearity: Trainable Gaussian Mixture Modules for Modern Neural Architectures | Weiguo Lu et al. | [2510.06660v1](http://arxiv.org/abs/2510.06660v1) | **NULL** |
-| **2025/10/08** | HSNet: Heterogeneous Subgraph Network for Single Image Super-resolution | Qiongyang Hu et al. | [2510.06564v1](http://arxiv.org/abs/2510.06564v1) | **NULL** |
-| **2025/10/07** | Attention-Enhanced Reinforcement Learning for Dynamic Portfolio Optimization | Pei Xue et al. | [2510.06466v1](http://arxiv.org/abs/2510.06466v1) | **NULL** |
-| **2025/10/07** | Zeeman: A Deep Learning Regional Atmospheric Chemistry Transport Model | Mijie Pang et al. | [2510.06140v1](http://arxiv.org/abs/2510.06140v1) | **NULL** |
-| **2025/10/07** | $\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection | Yanran Zhang et al. | [2510.05891v1](http://arxiv.org/abs/2510.05891v1) | **NULL** |
-| **2025/10/07** | vAttention: Verified Sparse Attention | Aditya Desai et al. | [2510.05688v1](http://arxiv.org/abs/2510.05688v1) | **NULL** |
-| **2025/10/07** | Teleportraits: Training-Free People Insertion into Any Scene | Jialu Gao et al. | [2510.05660v1](http://arxiv.org/abs/2510.05660v1) | **NULL** |
-| **2025/10/07** | SD-MVSum: Script-Driven Multimodal Video Summarization Method and Datasets | Manolis Mylonas et al. | [2510.05652v1](http://arxiv.org/abs/2510.05652v1) | **NULL** |
-| **2025/10/07** | When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning | Arindam Chowdhury et al. | [2510.05583v1](http://arxiv.org/abs/2510.05583v1) | **NULL** |
-| **2025/10/07** | ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics | Luke Thompson et al. | [2510.05482v1](http://arxiv.org/abs/2510.05482v1) | **NULL** |
-| **2025/10/06** | KVLinC : KV Cache Quantization with Hadamard Rotation and Linear Correction | Utkarsh Saxena et al. | [2510.05373v1](http://arxiv.org/abs/2510.05373v1) | **NULL** |
-| **2025/10/06** | The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures | Alexander M. Fichtl et al. | [2510.05364v1](http://arxiv.org/abs/2510.05364v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/11** | Ordinal Scale Traffic Congestion Classification with Multi-Modal Vision-Language and Motion Analysis | Yu-Hsuan Lin | [2510.10342v1](http://arxiv.org/abs/2510.10342v1) | **NULL** |
 | **2025/10/09** | Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification | Nabeel Nisar Bhat et al. | [2510.08160v1](http://arxiv.org/abs/2510.08160v1) | **NULL** |
 | **2025/10/01** | JADES Data Release 4 -- Paper II: Data reduction, analysis and emission-line fluxes of the complete spectroscopic sample | J. Scholtz et al. | [2510.01034v1](http://arxiv.org/abs/2510.01034v1) | **NULL** |
 | **2025/09/16** | Euclid preparation. Using mock Low Surface Brightness dwarf galaxies to probe Wide Survey detection capabilities | Euclid Collaboration et al. | [2509.13163v1](http://arxiv.org/abs/2509.13163v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
 | **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
 | **2025/03/24** | The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope | Rupali Chandar et al. | [2503.18791v1](http://arxiv.org/abs/2503.18791v1) | **NULL** |
-| **2025/03/21** | UV LIGHTS. New tools for revealing the low surface brightness regime in the ultraviolet | Ignacio Ruiz Cejudo et al. | [2503.17446v1](http://arxiv.org/abs/2503.17446v1) | **NULL** |
