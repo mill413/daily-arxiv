@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/15 09:06:21
+> Updated on 2025/10/16 09:05:46
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/14** | Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing | Myles Foley et al. | [2510.12732v1](http://arxiv.org/abs/2510.12732v1) | **NULL** |
+| **2025/10/14** | Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis | Shelley Zixin Shu et al. | [2510.12704v1](http://arxiv.org/abs/2510.12704v1) | **NULL** |
+| **2025/10/14** | Learning Human Motion with Temporally Conditional Mamba | Quang Nguyen et al. | [2510.12573v1](http://arxiv.org/abs/2510.12573v1) | **NULL** |
+| **2025/10/14** | M3ST-DTI: A multi-task learning model for drug-target interactions based on multi-modal features and multi-stage alignment | Xiangyu Li et al. | [2510.12445v1](http://arxiv.org/abs/2510.12445v1) | **NULL** |
+| **2025/10/14** | Self-attention enabled quantum path analysis of high-harmonic generation in solids | Cong Zhao et al. | [2510.12443v2](http://arxiv.org/abs/2510.12443v2) | **NULL** |
+| **2025/10/14** | Biased-Attention Guided Risk Prediction for Safe Decision-Making at Unsignalized Intersections | Chengyang Dong et al. | [2510.12428v1](http://arxiv.org/abs/2510.12428v1) | **NULL** |
+| **2025/10/14** | Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand | Kiattikun Chobtham et al. | [2510.12328v2](http://arxiv.org/abs/2510.12328v2) | **NULL** |
+| **2025/10/14** | TFGA-Net: Temporal-Frequency Graph Attention Network for Brain-Controlled Speaker Extraction | Youhao Si et al. | [2510.12275v1](http://arxiv.org/abs/2510.12275v1) | **NULL** |
+| **2025/10/14** | A Deep Multi-Task Learning Approach to Impulsive Noise Parameter Estimation | Abdullahi Mohammad et al. | [2510.12179v1](http://arxiv.org/abs/2510.12179v1) | **NULL** |
+| **2025/10/14** | Credal Transformer: A Principled Approach for Quantifying and Mitigating Hallucinations in Large Language Models | Shihao Ji et al. | [2510.12137v1](http://arxiv.org/abs/2510.12137v1) | **NULL** |
+| **2025/10/13** | Evaluating the Explainability of Vision Transformers in Medical Imaging | Leili Barekatain et al. | [2510.12021v1](http://arxiv.org/abs/2510.12021v1) | **NULL** |
+| **2025/10/13** | WaveletDiff: Multilevel Wavelet Diffusion For Time Series Generation | Yu-Hsiang Wang et al. | [2510.11839v1](http://arxiv.org/abs/2510.11839v1) | **NULL** |
+| **2025/10/13** | Dimension-Free Minimax Rates for Learning Pairwise Interactions in Attention-Style Models | Shai Zucker et al. | [2510.11789v1](http://arxiv.org/abs/2510.11789v1) | **NULL** |
 | **2025/10/13** | NV3D: Leveraging Spatial Shape Through Normal Vector-based 3D Object Detection | Krittin Chaowakarn et al. | [2510.11632v1](http://arxiv.org/abs/2510.11632v1) | **NULL** |
 | **2025/10/13** | Deconstructing Attention: Investigating Design Principles for Effective Language Modeling | Huiyin Xue et al. | [2510.11602v1](http://arxiv.org/abs/2510.11602v1) | **NULL** |
 | **2025/10/13** | REGENT: Relevance-Guided Attention for Entity-Aware Multi-Vector Neural Re-Ranking | Shubham Chatterjee | [2510.11592v1](http://arxiv.org/abs/2510.11592v1) | **NULL** |
@@ -70,19 +83,6 @@ layout: default
 | **2025/10/12** | DAGLFNet:Deep Attention-Guided Global-Local Feature Fusion for Pseudo-Image Point Cloud Segmentation | Chuang Chen et al. | [2510.10471v1](http://arxiv.org/abs/2510.10471v1) | **NULL** |
 | **2025/10/11** | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | Feng Xiao et al. | [2510.10194v1](http://arxiv.org/abs/2510.10194v1) | **NULL** |
 | **2025/10/11** | Multi Class Parkinsons Disease Detection Based on Finger Tapping Using Attention-Enhanced CNN BiLSTM | Abu Saleh Musa Miah et al. | [2510.10121v1](http://arxiv.org/abs/2510.10121v1) | **NULL** |
-| **2025/10/11** | Integrating Structure-Aware Attention and Knowledge Graphs in Explainable Recommendation Systems | Shuangquan Lyu et al. | [2510.10109v1](http://arxiv.org/abs/2510.10109v1) | **NULL** |
-| **2025/10/11** | Complementary and Contrastive Learning for Audio-Visual Segmentation | Sitong Gong et al. | [2510.10051v1](http://arxiv.org/abs/2510.10051v1) | **NULL** |
-| **2025/10/11** | Automated Glaucoma Report Generation via Dual-Attention Semantic Parallel-LSTM and Multimodal Clinical Data Integration | Cheng Huang et al. | [2510.10037v1](http://arxiv.org/abs/2510.10037v1) | **NULL** |
-| **2025/10/10** | DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning | Hossein Entezari Zarch et al. | [2510.09883v1](http://arxiv.org/abs/2510.09883v1) | **NULL** |
-| **2025/10/10** | HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network | Yifan Lu et al. | [2510.09767v1](http://arxiv.org/abs/2510.09767v1) | **NULL** |
-| **2025/10/10** | Localist LLMs -- A Mathematical Framework for Dynamic Locality Control | Joachim Diederich | [2510.09338v1](http://arxiv.org/abs/2510.09338v1) | **NULL** |
-| **2025/10/09** | Neptune: Advanced ML Operator Fusion for Locality and Parallelism on GPUs | Yifan Zhao et al. | [2510.08726v1](http://arxiv.org/abs/2510.08726v1) | **NULL** |
-| **2025/10/09** | In-Context Learning for Non-Stationary MIMO Equalization | Jiachen Jiang et al. | [2510.08711v1](http://arxiv.org/abs/2510.08711v1) | **NULL** |
-| **2025/10/09** | In-Context Clustering with Large Language Models | Ying Wang et al. | [2510.08466v1](http://arxiv.org/abs/2510.08466v1) | **NULL** |
-| **2025/10/09** | Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning | Andrew Lee et al. | [2510.08442v1](http://arxiv.org/abs/2510.08442v1) | **NULL** |
-| **2025/10/09** | DPCformer: An Interpretable Deep Learning Model for Genomic Prediction in Crops | Pengcheng Deng et al. | [2510.08662v1](http://arxiv.org/abs/2510.08662v1) | **NULL** |
-| **2025/10/09** | RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans | Bheeshm Sharma et al. | [2510.08052v1](http://arxiv.org/abs/2510.08052v1) | **NULL** |
-| **2025/10/09** | AILoRA: Function-Aware Asymmetric Initialization for Low-Rank Adaptation of Large Language Models | Xiaoshuang Ji et al. | [2510.08034v1](http://arxiv.org/abs/2510.08034v1) | **NULL** |
 
 ## 背景差分
 
