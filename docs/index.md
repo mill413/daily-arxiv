@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/16 09:05:46
+> Updated on 2025/10/17 09:05:17
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/15** | T3former: Temporal Graph Classification with Topological Machine Learning | Md. Joshem Uddin et al. | [2510.13789v1](http://arxiv.org/abs/2510.13789v1) | **NULL** |
+| **2025/10/15** | Ultra High-Resolution Image Inpainting with Patch-Based Content Consistency Adapter | Jianhui Zhang et al. | [2510.13419v1](http://arxiv.org/abs/2510.13419v1) | **NULL** |
+| **2025/10/15** | Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment | Feng-Qi Cui et al. | [2510.13390v1](http://arxiv.org/abs/2510.13390v1) | **NULL** |
+| **2025/10/15** | Embedding-Based Context-Aware Reranker | Ye Yuan et al. | [2510.13329v1](http://arxiv.org/abs/2510.13329v1) | **NULL** |
+| **2025/10/15** | Reciprocal Space Attention for Learning Long-Range Interactions | Hariharan Ramasubramanian et al. | [2510.13055v1](http://arxiv.org/abs/2510.13055v1) | **NULL** |
 | **2025/10/14** | Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing | Myles Foley et al. | [2510.12732v1](http://arxiv.org/abs/2510.12732v1) | **NULL** |
 | **2025/10/14** | Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis | Shelley Zixin Shu et al. | [2510.12704v1](http://arxiv.org/abs/2510.12704v1) | **NULL** |
 | **2025/10/14** | Learning Human Motion with Temporally Conditional Mamba | Quang Nguyen et al. | [2510.12573v1](http://arxiv.org/abs/2510.12573v1) | **NULL** |
@@ -78,11 +83,6 @@ layout: default
 | **2025/10/12** | GraphTARIF: Linear Graph Transformer with Augmented Rank and Improved Focus | Zhaolin Hu et al. | [2510.10631v1](http://arxiv.org/abs/2510.10631v1) | **NULL** |
 | **2025/10/12** | dN/dx Reconstruction with Deep Learning for High-Granularity TPCs | Guang Zhao et al. | [2510.10628v2](http://arxiv.org/abs/2510.10628v2) | **NULL** |
 | **2025/10/12** | Dynamic Topic Evolution with Temporal Decay and Attention in Large Language Models | Di Wu abd Shuaidong Pan | [2510.10613v1](http://arxiv.org/abs/2510.10613v1) | **NULL** |
-| **2025/10/12** | CAPSim: A Fast CPU Performance Simulator Using Attention-based Predictor | Buqing Xu et al. | [2510.10484v1](http://arxiv.org/abs/2510.10484v1) | **NULL** |
-| **2025/10/12** | MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition | Deng Li et al. | [2510.10478v1](http://arxiv.org/abs/2510.10478v1) | **NULL** |
-| **2025/10/12** | DAGLFNet:Deep Attention-Guided Global-Local Feature Fusion for Pseudo-Image Point Cloud Segmentation | Chuang Chen et al. | [2510.10471v1](http://arxiv.org/abs/2510.10471v1) | **NULL** |
-| **2025/10/11** | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | Feng Xiao et al. | [2510.10194v1](http://arxiv.org/abs/2510.10194v1) | **NULL** |
-| **2025/10/11** | Multi Class Parkinsons Disease Detection Based on Finger Tapping Using Attention-Enhanced CNN BiLSTM | Abu Saleh Musa Miah et al. | [2510.10121v1](http://arxiv.org/abs/2510.10121v1) | **NULL** |
 
 ## 背景差分
 
