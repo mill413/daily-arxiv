@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/17 09:05:17
+> Updated on 2025/10/18 09:02:38
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/16** | RainDiff: End-to-end Precipitation Nowcasting Via Token-wise Attention Diffusion | Thao Nguyen et al. | [2510.14962v1](http://arxiv.org/abs/2510.14962v1) | **NULL** |
+| **2025/10/16** | A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems | Zixuan Liu et al. | [2510.14906v1](http://arxiv.org/abs/2510.14906v1) | **NULL** |
+| **2025/10/16** | Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift | Zhiyuan Zhao et al. | [2510.14814v1](http://arxiv.org/abs/2510.14814v1) | **NULL** |
+| **2025/10/16** | Cross-Layer Feature Self-Attention Module for Multi-Scale Object Detection | Dingzhou Xie et al. | [2510.14726v1](http://arxiv.org/abs/2510.14726v1) | **NULL** |
+| **2025/10/16** | Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models | Edward Sandra et al. | [2510.14615v1](http://arxiv.org/abs/2510.14615v1) | **NULL** |
+| **2025/10/16** | Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing | Hayato Nihei et al. | [2510.14287v1](http://arxiv.org/abs/2510.14287v1) | **NULL** |
+| **2025/10/16** | MatchAttention: Matching the Relative Positions for High-Resolution Cross-View Matching | Tingman Yan et al. | [2510.14260v1](http://arxiv.org/abs/2510.14260v1) | **NULL** |
+| **2025/10/15** | Context-Selective State Space Models: Feedback is All You Need | Riccardo Zattra et al. | [2510.14027v1](http://arxiv.org/abs/2510.14027v1) | **NULL** |
 | **2025/10/15** | T3former: Temporal Graph Classification with Topological Machine Learning | Md. Joshem Uddin et al. | [2510.13789v1](http://arxiv.org/abs/2510.13789v1) | **NULL** |
 | **2025/10/15** | Ultra High-Resolution Image Inpainting with Patch-Based Content Consistency Adapter | Jianhui Zhang et al. | [2510.13419v1](http://arxiv.org/abs/2510.13419v1) | **NULL** |
 | **2025/10/15** | Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment | Feng-Qi Cui et al. | [2510.13390v1](http://arxiv.org/abs/2510.13390v1) | **NULL** |
 | **2025/10/15** | Embedding-Based Context-Aware Reranker | Ye Yuan et al. | [2510.13329v1](http://arxiv.org/abs/2510.13329v1) | **NULL** |
 | **2025/10/15** | Reciprocal Space Attention for Learning Long-Range Interactions | Hariharan Ramasubramanian et al. | [2510.13055v1](http://arxiv.org/abs/2510.13055v1) | **NULL** |
 | **2025/10/14** | Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing | Myles Foley et al. | [2510.12732v1](http://arxiv.org/abs/2510.12732v1) | **NULL** |
+| **2025/10/14** | Dual-attention ResNet outperforms transformers in HER2 prediction on DCE-MRI | Naomi Fridman et al. | [2510.13897v1](http://arxiv.org/abs/2510.13897v1) | **NULL** |
 | **2025/10/14** | Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis | Shelley Zixin Shu et al. | [2510.12704v1](http://arxiv.org/abs/2510.12704v1) | **NULL** |
 | **2025/10/14** | Learning Human Motion with Temporally Conditional Mamba | Quang Nguyen et al. | [2510.12573v1](http://arxiv.org/abs/2510.12573v1) | **NULL** |
 | **2025/10/14** | M3ST-DTI: A multi-task learning model for drug-target interactions based on multi-modal features and multi-stage alignment | Xiangyu Li et al. | [2510.12445v1](http://arxiv.org/abs/2510.12445v1) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/10/13** | NV3D: Leveraging Spatial Shape Through Normal Vector-based 3D Object Detection | Krittin Chaowakarn et al. | [2510.11632v1](http://arxiv.org/abs/2510.11632v1) | **NULL** |
 | **2025/10/13** | Deconstructing Attention: Investigating Design Principles for Effective Language Modeling | Huiyin Xue et al. | [2510.11602v1](http://arxiv.org/abs/2510.11602v1) | **NULL** |
 | **2025/10/13** | REGENT: Relevance-Guided Attention for Entity-Aware Multi-Vector Neural Re-Ranking | Shubham Chatterjee | [2510.11592v1](http://arxiv.org/abs/2510.11592v1) | **NULL** |
-| **2025/10/13** | An AI dose engine for fast carbon ion treatment planning | Anastasiia Quarz et al. | [2510.11271v1](http://arxiv.org/abs/2510.11271v1) | **NULL** |
-| **2025/10/13** | Text-Enhanced Panoptic Symbol Spotting in CAD Drawings | Xianlin Liu et al. | [2510.11091v1](http://arxiv.org/abs/2510.11091v1) | **NULL** |
-| **2025/10/13** | Decoupled Multimodal Fusion for User Interest Modeling in Click-Through Rate Prediction | Alin Fan et al. | [2510.11066v1](http://arxiv.org/abs/2510.11066v1) | **NULL** |
-| **2025/10/13** | ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation | Ruihang Xu et al. | [2510.11000v1](http://arxiv.org/abs/2510.11000v1) | **NULL** |
-| **2025/10/13** | HatLLM: Hierarchical Attention Masking for Enhanced Collaborative Modeling in LLM-based Recommendation | Yu Cui et al. | [2510.10955v1](http://arxiv.org/abs/2510.10955v1) | **NULL** |
-| **2025/10/12** | Attention-Enhanced LSTM Modeling for Improved Temperature and Rainfall Forecasting in Bangladesh | Usman Gani Joy et al. | [2510.10702v1](http://arxiv.org/abs/2510.10702v1) | **NULL** |
-| **2025/10/12** | GraphTARIF: Linear Graph Transformer with Augmented Rank and Improved Focus | Zhaolin Hu et al. | [2510.10631v1](http://arxiv.org/abs/2510.10631v1) | **NULL** |
-| **2025/10/12** | dN/dx Reconstruction with Deep Learning for High-Granularity TPCs | Guang Zhao et al. | [2510.10628v2](http://arxiv.org/abs/2510.10628v2) | **NULL** |
-| **2025/10/12** | Dynamic Topic Evolution with Temporal Decay and Attention in Large Language Models | Di Wu abd Shuaidong Pan | [2510.10613v1](http://arxiv.org/abs/2510.10613v1) | **NULL** |
 
 ## 背景差分
 
