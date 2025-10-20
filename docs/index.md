@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/19 09:13:30
+> Updated on 2025/10/20 09:11:12
 
 <summary>Table of Contents</summary>
 
@@ -73,7 +73,7 @@ layout: default
 | **2025/10/14** | M3ST-DTI: A multi-task learning model for drug-target interactions based on multi-modal features and multi-stage alignment | Xiangyu Li et al. | [2510.12445v1](http://arxiv.org/abs/2510.12445v1) | **NULL** |
 | **2025/10/14** | Self-attention enabled quantum path analysis of high-harmonic generation in solids | Cong Zhao et al. | [2510.12443v2](http://arxiv.org/abs/2510.12443v2) | **NULL** |
 | **2025/10/14** | Biased-Attention Guided Risk Prediction for Safe Decision-Making at Unsignalized Intersections | Chengyang Dong et al. | [2510.12428v1](http://arxiv.org/abs/2510.12428v1) | **NULL** |
-| **2025/10/14** | Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand | Kiattikun Chobtham et al. | [2510.12328v2](http://arxiv.org/abs/2510.12328v2) | **NULL** |
+| **2025/10/14** | Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand | Kiattikun Chobtham et al. | [2510.12328v3](http://arxiv.org/abs/2510.12328v3) | **NULL** |
 | **2025/10/14** | TFGA-Net: Temporal-Frequency Graph Attention Network for Brain-Controlled Speaker Extraction | Youhao Si et al. | [2510.12275v1](http://arxiv.org/abs/2510.12275v1) | **NULL** |
 | **2025/10/14** | A Deep Multi-Task Learning Approach to Impulsive Noise Parameter Estimation | Abdullahi Mohammad et al. | [2510.12179v1](http://arxiv.org/abs/2510.12179v1) | **NULL** |
 | **2025/10/14** | Credal Transformer: A Principled Approach for Quantifying and Mitigating Hallucinations in Large Language Models | Shihao Ji et al. | [2510.12137v1](http://arxiv.org/abs/2510.12137v1) | **NULL** |
