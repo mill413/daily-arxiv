@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/21 09:07:50
+> Updated on 2025/10/22 09:09:07
 
 <summary>Table of Contents</summary>
 
@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/17** | StripRFNet: A Strip Receptive Field and Shape-Aware Network for Road Damage Detection | Jianhan Lin et al. | [2510.16115v1](http://arxiv.org/abs/2510.16115v1) | **NULL** |
 | **2025/10/10** | PRNet: Original Information Is All You Have | PeiHuang Zheng et al. | [2510.09531v1](http://arxiv.org/abs/2510.09531v1) | **NULL** |
 | **2025/10/03** | Neural Posterior Estimation with Autoregressive Tiling for Detecting Objects in Astronomical Images | Jeffrey Regier | [2510.03074v1](http://arxiv.org/abs/2510.03074v1) | **NULL** |
 | **2025/09/27** | FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection | Ben Liang et al. | [2509.23056v1](http://arxiv.org/abs/2509.23056v1) | **NULL** |
@@ -47,12 +48,27 @@ layout: default
 | **2025/05/27** | Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing | Dehao Wang et al. | [2505.21049v1](http://arxiv.org/abs/2505.21049v1) | **NULL** |
 | **2025/05/22** | MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection | Yichen Li et al. | [2505.16442v1](http://arxiv.org/abs/2505.16442v1) | **NULL** |
 | **2025/05/15** | Application of YOLOv8 in monocular downward multiple Car Target detection | Shijie Lyu | [2505.10016v2](http://arxiv.org/abs/2505.10016v2) | **NULL** |
-| **2025/05/09** | Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection | Zhangchi Hu et al. | [2505.05741v2](http://arxiv.org/abs/2505.05741v2) | **NULL** |
 
 ## 注意力机制
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/20** | ConsistEdit: Highly Consistent and Precise Training-free Visual Editing | Zixin Yin et al. | [2510.17803v1](http://arxiv.org/abs/2510.17803v1) | **NULL** |
+| **2025/10/20** | CrossStateECG: Multi-Scale Deep Convolutional Network with Attention for Rest-Exercise ECG Biometrics | Dan Zheng et al. | [2510.17467v1](http://arxiv.org/abs/2510.17467v1) | **NULL** |
+| **2025/10/20** | A Conditional Diffusion Model for Probabilistic Prediction of Battery Capacity Degradation | Hequn Li et al. | [2510.17414v1](http://arxiv.org/abs/2510.17414v1) | **NULL** |
+| **2025/10/20** | Localist LLMs with Recruitment Learning | Joachim Diederich | [2510.17358v1](http://arxiv.org/abs/2510.17358v1) | **NULL** |
+| **2025/10/20** | A Prototypical Network with an Attention-based Encoder for Drivers Identification Application | Wei-Hsun Lee et al. | [2510.17250v1](http://arxiv.org/abs/2510.17250v1) | **NULL** |
+| **2025/10/20** | Optimizing DINOv2 with Registers for Face Anti-Spoofing | Mika Feng et al. | [2510.17201v1](http://arxiv.org/abs/2510.17201v1) | **NULL** |
+| **2025/10/19** | UniGTE: Unified Graph-Text Encoding for Zero-Shot Generalization across Graph Tasks and Domains | Duo Wang et al. | [2510.16885v1](http://arxiv.org/abs/2510.16885v1) | **NULL** |
+| **2025/10/19** | ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning | Yingxu Wang et al. | [2510.16824v1](http://arxiv.org/abs/2510.16824v1) | **NULL** |
+| **2025/10/19** | Efficient High-Accuracy PDEs Solver with the Linear Attention Neural Operator | Ming Zhong et al. | [2510.16816v1](http://arxiv.org/abs/2510.16816v1) | **NULL** |
+| **2025/10/19** | EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation | Mingzheng Zhang et al. | [2510.16776v1](http://arxiv.org/abs/2510.16776v1) | **NULL** |
+| **2025/10/19** | ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion | Wei Huang et al. | [2510.16753v1](http://arxiv.org/abs/2510.16753v1) | **NULL** |
+| **2025/10/18** | ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials | Yijing Zhou et al. | [2510.16575v1](http://arxiv.org/abs/2510.16575v1) | **NULL** |
+| **2025/10/18** | Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection | Dongchan Cho et al. | [2510.16511v1](http://arxiv.org/abs/2510.16511v1) | **NULL** |
+| **2025/10/18** | SCALAR: Self-Calibrating Adaptive Latent Attention Representation Learning | Farwa Abbas et al. | [2510.16474v1](http://arxiv.org/abs/2510.16474v1) | **NULL** |
+| **2025/10/18** | HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars | Haocheng Tang et al. | [2510.16463v1](http://arxiv.org/abs/2510.16463v1) | **NULL** |
+| **2025/10/18** | RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba | Kunyu Peng et al. | [2510.16444v1](http://arxiv.org/abs/2510.16444v1) | **NULL** |
 | **2025/10/17** | Chronos-2: From Univariate to Universal Forecasting | Abdul Fatir Ansari et al. | [2510.15821v1](http://arxiv.org/abs/2510.15821v1) | **NULL** |
 | **2025/10/17** | Magnitude and Phase-based Feature Fusion Using Co-attention Mechanism for Speaker recognition | Rongfeng Su et al. | [2510.15659v1](http://arxiv.org/abs/2510.15659v1) | **NULL** |
 | **2025/10/17** | Attn-JGNN: Attention Enhanced Join-Graph Neural Networks | Jixin Zhang et al. | [2510.15583v1](http://arxiv.org/abs/2510.15583v1) | **NULL** |
@@ -67,28 +83,14 @@ layout: default
 | **2025/10/16** | Cross-Layer Feature Self-Attention Module for Multi-Scale Object Detection | Dingzhou Xie et al. | [2510.14726v1](http://arxiv.org/abs/2510.14726v1) | **NULL** |
 | **2025/10/16** | A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis | Nayan Kumar Singh | [2510.15750v1](http://arxiv.org/abs/2510.15750v1) | **NULL** |
 | **2025/10/16** | Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models | Edward Sandra et al. | [2510.14615v1](http://arxiv.org/abs/2510.14615v1) | **NULL** |
-| **2025/10/16** | Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing | Hayato Nihei et al. | [2510.14287v1](http://arxiv.org/abs/2510.14287v1) | **NULL** |
-| **2025/10/16** | MatchAttention: Matching the Relative Positions for High-Resolution Cross-View Matching | Tingman Yan et al. | [2510.14260v1](http://arxiv.org/abs/2510.14260v1) | **NULL** |
-| **2025/10/15** | Context-Selective State Space Models: Feedback is All You Need | Riccardo Zattra et al. | [2510.14027v1](http://arxiv.org/abs/2510.14027v1) | **NULL** |
-| **2025/10/15** | T3former: Temporal Graph Classification with Topological Machine Learning | Md. Joshem Uddin et al. | [2510.13789v1](http://arxiv.org/abs/2510.13789v1) | **NULL** |
-| **2025/10/15** | Ultra High-Resolution Image Inpainting with Patch-Based Content Consistency Adapter | Jianhui Zhang et al. | [2510.13419v1](http://arxiv.org/abs/2510.13419v1) | **NULL** |
-| **2025/10/15** | Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment | Feng-Qi Cui et al. | [2510.13390v1](http://arxiv.org/abs/2510.13390v1) | **NULL** |
-| **2025/10/15** | Embedding-Based Context-Aware Reranker | Ye Yuan et al. | [2510.13329v1](http://arxiv.org/abs/2510.13329v1) | **NULL** |
-| **2025/10/15** | Reciprocal Space Attention for Learning Long-Range Interactions | Hariharan Ramasubramanian et al. | [2510.13055v1](http://arxiv.org/abs/2510.13055v1) | **NULL** |
-| **2025/10/14** | Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing | Myles Foley et al. | [2510.12732v1](http://arxiv.org/abs/2510.12732v1) | **NULL** |
-| **2025/10/14** | Dual-attention ResNet outperforms transformers in HER2 prediction on DCE-MRI | Naomi Fridman et al. | [2510.13897v1](http://arxiv.org/abs/2510.13897v1) | **NULL** |
-| **2025/10/14** | Hybrid Explanation-Guided Learning for Transformer-Based Chest X-Ray Diagnosis | Shelley Zixin Shu et al. | [2510.12704v1](http://arxiv.org/abs/2510.12704v1) | **NULL** |
-| **2025/10/14** | Learning Human Motion with Temporally Conditional Mamba | Quang Nguyen et al. | [2510.12573v1](http://arxiv.org/abs/2510.12573v1) | **NULL** |
-| **2025/10/14** | M3ST-DTI: A multi-task learning model for drug-target interactions based on multi-modal features and multi-stage alignment | Xiangyu Li et al. | [2510.12445v1](http://arxiv.org/abs/2510.12445v1) | **NULL** |
-| **2025/10/14** | Self-attention enabled quantum path analysis of high-harmonic generation in solids | Cong Zhao et al. | [2510.12443v2](http://arxiv.org/abs/2510.12443v2) | **NULL** |
-| **2025/10/14** | Biased-Attention Guided Risk Prediction for Safe Decision-Making at Unsignalized Intersections | Chengyang Dong et al. | [2510.12428v1](http://arxiv.org/abs/2510.12428v1) | **NULL** |
-| **2025/10/14** | Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand | Kiattikun Chobtham et al. | [2510.12328v3](http://arxiv.org/abs/2510.12328v3) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/17** | The ALPINE-CRISTAL-JWST Survey: NIRSpec IFU Data Processing and Spatially-resolved Views of Chemical Enrichment in Normal Galaxies at z=4-6 | Seiji Fujimoto et al. | [2510.16116v1](http://arxiv.org/abs/2510.16116v1) | **NULL** |
 | **2025/10/16** | What is the True HI Gas Content in Massive Quiescent Galaxies in the Local Universe? | Xiao Li et al. | [2510.15145v1](http://arxiv.org/abs/2510.15145v1) | **NULL** |
+| **2025/10/14** | CE$ν$NS Search with Cryogenic Sapphire Detectors at MINER: Results from the TRIGA reactor data and Future Sensitivity at HFIR | D. Mondal et al. | [2510.15999v1](http://arxiv.org/abs/2510.15999v1) | **NULL** |
 | **2025/10/11** | Ordinal Scale Traffic Congestion Classification with Multi-Modal Vision-Language and Motion Analysis | Yu-Hsuan Lin | [2510.10342v1](http://arxiv.org/abs/2510.10342v1) | **NULL** |
 | **2025/10/09** | Beyond Sub-6 GHz: Leveraging mmWave Wi-Fi for Gait-Based Person Identification | Nabeel Nisar Bhat et al. | [2510.08160v1](http://arxiv.org/abs/2510.08160v1) | **NULL** |
 | **2025/10/01** | JADES Data Release 4 -- Paper II: Data reduction, analysis and emission-line fluxes of the complete spectroscopic sample | J. Scholtz et al. | [2510.01034v1](http://arxiv.org/abs/2510.01034v1) | **NULL** |
@@ -116,5 +118,3 @@ layout: default
 | **2025/05/21** | A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains | Sébastien Piérard et al. | [2505.15595v1](http://arxiv.org/abs/2505.15595v1) | **NULL** |
 | **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
 | **2025/04/30** | Higher derivative corrections to Kerr-AdS black hole thermodynamics | Wei Guo et al. | [2504.21724v2](http://arxiv.org/abs/2504.21724v2) | **NULL** |
-| **2025/04/25** | Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation | Yangyang Xu et al. | [2504.18323v1](http://arxiv.org/abs/2504.18323v1) | **NULL** |
-| **2025/03/24** | MEGA Mass Assembly with JWST: The MIRI EGS Galaxy and AGN Survey | Bren E. Backhaus et al. | [2503.19078v2](http://arxiv.org/abs/2503.19078v2) | **NULL** |
