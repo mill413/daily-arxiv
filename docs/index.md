@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/22 09:09:07
+> Updated on 2025/10/23 09:06:57
 
 <summary>Table of Contents</summary>
 
@@ -53,7 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/21** | MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training | Wenxuan Li et al. | [2510.18830v1](http://arxiv.org/abs/2510.18830v1) | **NULL** |
+| **2025/10/21** | UltraGen: High-Resolution Video Generation with Hierarchical Attention | Teng Hu et al. | [2510.18775v1](http://arxiv.org/abs/2510.18775v1) | **NULL** |
+| **2025/10/21** | Simple and Efficient Heterogeneous Temporal Graph Neural Network | Yili Wang et al. | [2510.18467v1](http://arxiv.org/abs/2510.18467v1) | **NULL** |
+| **2025/10/21** | AWSPNet: Attention-based Dual-Tree Wavelet Scattering Prototypical Network for MIMO Radar Target Recognition and Jamming Suppression | Yizhen Jia et al. | [2510.18422v1](http://arxiv.org/abs/2510.18422v1) | **NULL** |
+| **2025/10/21** | Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference | Siyuan Yan et al. | [2510.18413v1](http://arxiv.org/abs/2510.18413v1) | **NULL** |
+| **2025/10/21** | Learning Human-Object Interaction as Groups | Jiajun Hong et al. | [2510.18357v1](http://arxiv.org/abs/2510.18357v1) | **NULL** |
+| **2025/10/21** | Latent-Info and Low-Dimensional Learning for Human Mesh Recovery and Parallel Optimization | Xiang Zhang et al. | [2510.18267v1](http://arxiv.org/abs/2510.18267v1) | **NULL** |
+| **2025/10/21** | LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling | Yunjiang Jiang et al. | [2510.18239v1](http://arxiv.org/abs/2510.18239v1) | **NULL** |
 | **2025/10/20** | ConsistEdit: Highly Consistent and Precise Training-free Visual Editing | Zixin Yin et al. | [2510.17803v1](http://arxiv.org/abs/2510.17803v1) | **NULL** |
+| **2025/10/20** | AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM | Haoyu Huang et al. | [2510.17934v1](http://arxiv.org/abs/2510.17934v1) | **NULL** |
 | **2025/10/20** | CrossStateECG: Multi-Scale Deep Convolutional Network with Attention for Rest-Exercise ECG Biometrics | Dan Zheng et al. | [2510.17467v1](http://arxiv.org/abs/2510.17467v1) | **NULL** |
 | **2025/10/20** | A Conditional Diffusion Model for Probabilistic Prediction of Battery Capacity Degradation | Hequn Li et al. | [2510.17414v1](http://arxiv.org/abs/2510.17414v1) | **NULL** |
 | **2025/10/20** | Localist LLMs with Recruitment Learning | Joachim Diederich | [2510.17358v1](http://arxiv.org/abs/2510.17358v1) | **NULL** |
@@ -64,6 +73,7 @@ layout: default
 | **2025/10/19** | Efficient High-Accuracy PDEs Solver with the Linear Attention Neural Operator | Ming Zhong et al. | [2510.16816v1](http://arxiv.org/abs/2510.16816v1) | **NULL** |
 | **2025/10/19** | EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation | Mingzheng Zhang et al. | [2510.16776v1](http://arxiv.org/abs/2510.16776v1) | **NULL** |
 | **2025/10/19** | ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion | Wei Huang et al. | [2510.16753v1](http://arxiv.org/abs/2510.16753v1) | **NULL** |
+| **2025/10/19** | Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism | Tao Bu et al. | [2510.17896v1](http://arxiv.org/abs/2510.17896v1) | **NULL** |
 | **2025/10/18** | ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials | Yijing Zhou et al. | [2510.16575v1](http://arxiv.org/abs/2510.16575v1) | **NULL** |
 | **2025/10/18** | Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection | Dongchan Cho et al. | [2510.16511v1](http://arxiv.org/abs/2510.16511v1) | **NULL** |
 | **2025/10/18** | SCALAR: Self-Calibrating Adaptive Latent Attention Representation Learning | Farwa Abbas et al. | [2510.16474v1](http://arxiv.org/abs/2510.16474v1) | **NULL** |
@@ -73,16 +83,6 @@ layout: default
 | **2025/10/17** | Magnitude and Phase-based Feature Fusion Using Co-attention Mechanism for Speaker recognition | Rongfeng Su et al. | [2510.15659v1](http://arxiv.org/abs/2510.15659v1) | **NULL** |
 | **2025/10/17** | Attn-JGNN: Attention Enhanced Join-Graph Neural Networks | Jixin Zhang et al. | [2510.15583v1](http://arxiv.org/abs/2510.15583v1) | **NULL** |
 | **2025/10/17** | Balanced Multi-Task Attention for Satellite Image Classification: A Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without Pre-Training | Aditya Vir | [2510.15527v1](http://arxiv.org/abs/2510.15527v1) | **NULL** |
-| **2025/10/17** | FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers | Haisheng Su et al. | [2510.15385v1](http://arxiv.org/abs/2510.15385v1) | **NULL** |
-| **2025/10/17** | TraceCoder: Towards Traceable ICD Coding via Multi-Source Knowledge Integration | Mucheng Ren et al. | [2510.15267v1](http://arxiv.org/abs/2510.15267v1) | **NULL** |
-| **2025/10/17** | Structural Generalization for Microservice Routing Using Graph Neural Networks | Chenrui Hu et al. | [2510.15210v1](http://arxiv.org/abs/2510.15210v1) | **NULL** |
-| **2025/10/17** | CARDIUM: Congenital Anomaly Recognition with Diagnostic Images and Unified Medical records | Daniela Vega et al. | [2510.15208v2](http://arxiv.org/abs/2510.15208v2) | **NULL** |
-| **2025/10/16** | RainDiff: End-to-end Precipitation Nowcasting Via Token-wise Attention Diffusion | Thao Nguyen et al. | [2510.14962v1](http://arxiv.org/abs/2510.14962v1) | **NULL** |
-| **2025/10/16** | A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems | Zixuan Liu et al. | [2510.14906v1](http://arxiv.org/abs/2510.14906v1) | **NULL** |
-| **2025/10/16** | Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift | Zhiyuan Zhao et al. | [2510.14814v1](http://arxiv.org/abs/2510.14814v1) | **NULL** |
-| **2025/10/16** | Cross-Layer Feature Self-Attention Module for Multi-Scale Object Detection | Dingzhou Xie et al. | [2510.14726v1](http://arxiv.org/abs/2510.14726v1) | **NULL** |
-| **2025/10/16** | A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis | Nayan Kumar Singh | [2510.15750v1](http://arxiv.org/abs/2510.15750v1) | **NULL** |
-| **2025/10/16** | Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models | Edward Sandra et al. | [2510.14615v1](http://arxiv.org/abs/2510.14615v1) | **NULL** |
 
 ## 背景差分
 
