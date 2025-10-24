@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/23 09:06:57
+> Updated on 2025/10/24 09:03:09
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/22** | CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion | Xiangyu Li et al. | [2510.19520v1](http://arxiv.org/abs/2510.19520v1) | **NULL** |
+| **2025/10/22** | PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation | Zhuoyang Xie et al. | [2510.19475v1](http://arxiv.org/abs/2510.19475v1) | **NULL** |
+| **2025/10/22** | Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning | Ling Team et al. | [2510.19338v2](http://arxiv.org/abs/2510.19338v2) | **NULL** |
+| **2025/10/22** | Online Handwritten Signature Verification Based on Temporal-Spatial Graph Attention Transformer | Hai-jie Yuan et al. | [2510.19321v1](http://arxiv.org/abs/2510.19321v1) | **NULL** |
+| **2025/10/22** | MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation | Zhang Nengbo et al. | [2510.19273v1](http://arxiv.org/abs/2510.19273v1) | **NULL** |
+| **2025/10/21** | A Novel Approach to Breast Cancer Segmentation using U-Net Model with Attention Mechanisms and FedProx | Eyad Gad et al. | [2510.19118v1](http://arxiv.org/abs/2510.19118v1) | **NULL** |
+| **2025/10/21** | Advancing Brain Tumor Segmentation via Attention-based 3D U-Net Architecture and Digital Image Processing | Eyad Gad et al. | [2510.19109v1](http://arxiv.org/abs/2510.19109v1) | **NULL** |
 | **2025/10/21** | MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training | Wenxuan Li et al. | [2510.18830v1](http://arxiv.org/abs/2510.18830v1) | **NULL** |
 | **2025/10/21** | UltraGen: High-Resolution Video Generation with Hierarchical Attention | Teng Hu et al. | [2510.18775v1](http://arxiv.org/abs/2510.18775v1) | **NULL** |
 | **2025/10/21** | Simple and Efficient Heterogeneous Temporal Graph Neural Network | Yili Wang et al. | [2510.18467v1](http://arxiv.org/abs/2510.18467v1) | **NULL** |
@@ -76,13 +83,6 @@ layout: default
 | **2025/10/19** | Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism | Tao Bu et al. | [2510.17896v1](http://arxiv.org/abs/2510.17896v1) | **NULL** |
 | **2025/10/18** | ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials | Yijing Zhou et al. | [2510.16575v1](http://arxiv.org/abs/2510.16575v1) | **NULL** |
 | **2025/10/18** | Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection | Dongchan Cho et al. | [2510.16511v1](http://arxiv.org/abs/2510.16511v1) | **NULL** |
-| **2025/10/18** | SCALAR: Self-Calibrating Adaptive Latent Attention Representation Learning | Farwa Abbas et al. | [2510.16474v1](http://arxiv.org/abs/2510.16474v1) | **NULL** |
-| **2025/10/18** | HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars | Haocheng Tang et al. | [2510.16463v1](http://arxiv.org/abs/2510.16463v1) | **NULL** |
-| **2025/10/18** | RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba | Kunyu Peng et al. | [2510.16444v1](http://arxiv.org/abs/2510.16444v1) | **NULL** |
-| **2025/10/17** | Chronos-2: From Univariate to Universal Forecasting | Abdul Fatir Ansari et al. | [2510.15821v1](http://arxiv.org/abs/2510.15821v1) | **NULL** |
-| **2025/10/17** | Magnitude and Phase-based Feature Fusion Using Co-attention Mechanism for Speaker recognition | Rongfeng Su et al. | [2510.15659v1](http://arxiv.org/abs/2510.15659v1) | **NULL** |
-| **2025/10/17** | Attn-JGNN: Attention Enhanced Join-Graph Neural Networks | Jixin Zhang et al. | [2510.15583v1](http://arxiv.org/abs/2510.15583v1) | **NULL** |
-| **2025/10/17** | Balanced Multi-Task Attention for Satellite Image Classification: A Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without Pre-Training | Aditya Vir | [2510.15527v1](http://arxiv.org/abs/2510.15527v1) | **NULL** |
 
 ## 背景差分
 
