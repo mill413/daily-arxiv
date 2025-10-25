@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/24 09:03:09
+> Updated on 2025/10/25 09:05:01
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/23** | HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives | Yihao Meng et al. | [2510.20822v1](http://arxiv.org/abs/2510.20822v1) | **NULL** |
+| **2025/10/23** | Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction | Mutian He et al. | [2510.20787v1](http://arxiv.org/abs/2510.20787v1) | **NULL** |
+| **2025/10/23** | DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion | Noam Issachar et al. | [2510.20766v1](http://arxiv.org/abs/2510.20766v1) | **NULL** |
+| **2025/10/23** | Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems | Fiza Hussain et al. | [2510.20640v1](http://arxiv.org/abs/2510.20640v1) | **NULL** |
+| **2025/10/23** | A Transformer Inspired AI-based MIMO receiver | András Rácz et al. | [2510.20363v1](http://arxiv.org/abs/2510.20363v1) | **NULL** |
+| **2025/10/23** | A Location-Aware Hybrid Deep Learning Framework for Dynamic Near-Far Field Channel Estimation in Low-Altitude UAV Communications | Wenli Yuan et al. | [2510.20277v1](http://arxiv.org/abs/2510.20277v1) | **NULL** |
 | **2025/10/22** | CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion | Xiangyu Li et al. | [2510.19520v1](http://arxiv.org/abs/2510.19520v1) | **NULL** |
 | **2025/10/22** | PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation | Zhuoyang Xie et al. | [2510.19475v1](http://arxiv.org/abs/2510.19475v1) | **NULL** |
 | **2025/10/22** | Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning | Ling Team et al. | [2510.19338v2](http://arxiv.org/abs/2510.19338v2) | **NULL** |
@@ -77,12 +83,6 @@ layout: default
 | **2025/10/20** | Optimizing DINOv2 with Registers for Face Anti-Spoofing | Mika Feng et al. | [2510.17201v1](http://arxiv.org/abs/2510.17201v1) | **NULL** |
 | **2025/10/19** | UniGTE: Unified Graph-Text Encoding for Zero-Shot Generalization across Graph Tasks and Domains | Duo Wang et al. | [2510.16885v1](http://arxiv.org/abs/2510.16885v1) | **NULL** |
 | **2025/10/19** | ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning | Yingxu Wang et al. | [2510.16824v1](http://arxiv.org/abs/2510.16824v1) | **NULL** |
-| **2025/10/19** | Efficient High-Accuracy PDEs Solver with the Linear Attention Neural Operator | Ming Zhong et al. | [2510.16816v1](http://arxiv.org/abs/2510.16816v1) | **NULL** |
-| **2025/10/19** | EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation | Mingzheng Zhang et al. | [2510.16776v1](http://arxiv.org/abs/2510.16776v1) | **NULL** |
-| **2025/10/19** | ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion | Wei Huang et al. | [2510.16753v1](http://arxiv.org/abs/2510.16753v1) | **NULL** |
-| **2025/10/19** | Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism | Tao Bu et al. | [2510.17896v1](http://arxiv.org/abs/2510.17896v1) | **NULL** |
-| **2025/10/18** | ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials | Yijing Zhou et al. | [2510.16575v1](http://arxiv.org/abs/2510.16575v1) | **NULL** |
-| **2025/10/18** | Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection | Dongchan Cho et al. | [2510.16511v1](http://arxiv.org/abs/2510.16511v1) | **NULL** |
 
 ## 背景差分
 
