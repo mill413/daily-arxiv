@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/26 09:11:48
+> Updated on 2025/10/28 09:05:45
 
 <summary>Table of Contents</summary>
 
@@ -53,12 +53,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/24** | BachVid: Training-Free Video Generation with Consistent Background and Character | Han Yan et al. | [2510.21696v1](http://arxiv.org/abs/2510.21696v1) | **NULL** |
+| **2025/10/24** | An Automatic Detection Method for Hematoma Features in Placental Abruption Ultrasound Images Based on Few-Shot Learning | Xiaoqing Liu et al. | [2510.21495v1](http://arxiv.org/abs/2510.21495v1) | **NULL** |
+| **2025/10/24** | Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding | Anupam Pani et al. | [2510.21356v1](http://arxiv.org/abs/2510.21356v1) | **NULL** |
+| **2025/10/24** | CausalRec: A CausalBoost Attention Model for Sequential Recommendation | Yunbo Hou et al. | [2510.21333v1](http://arxiv.org/abs/2510.21333v1) | **NULL** |
+| **2025/10/24** | Sparser Block-Sparse Attention via Token Permutation | Xinghao Wang et al. | [2510.21270v1](http://arxiv.org/abs/2510.21270v1) | **NULL** |
+| **2025/10/24** | Quantum Neural Network Architectures for Multivariate Time-Series Forecasting | Sandra Ranilla-Cortina et al. | [2510.21168v1](http://arxiv.org/abs/2510.21168v1) | **NULL** |
+| **2025/10/24** | In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain | Ethan Hwang et al. | [2510.21142v1](http://arxiv.org/abs/2510.21142v1) | **NULL** |
+| **2025/10/23** | Focal Modulation and Bidirectional Feature Fusion Network for Medical Image Segmentation | Moin Safdar et al. | [2510.20933v1](http://arxiv.org/abs/2510.20933v1) | **NULL** |
 | **2025/10/23** | HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives | Yihao Meng et al. | [2510.20822v1](http://arxiv.org/abs/2510.20822v1) | **NULL** |
-| **2025/10/23** | Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction | Mutian He et al. | [2510.20787v1](http://arxiv.org/abs/2510.20787v1) | **NULL** |
+| **2025/10/23** | Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction | Mutian He et al. | [2510.20787v2](http://arxiv.org/abs/2510.20787v2) | **NULL** |
 | **2025/10/23** | DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion | Noam Issachar et al. | [2510.20766v1](http://arxiv.org/abs/2510.20766v1) | **NULL** |
 | **2025/10/23** | Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems | Fiza Hussain et al. | [2510.20640v1](http://arxiv.org/abs/2510.20640v1) | **NULL** |
 | **2025/10/23** | A Transformer Inspired AI-based MIMO receiver | András Rácz et al. | [2510.20363v1](http://arxiv.org/abs/2510.20363v1) | **NULL** |
 | **2025/10/23** | A Location-Aware Hybrid Deep Learning Framework for Dynamic Near-Far Field Channel Estimation in Low-Altitude UAV Communications | Wenli Yuan et al. | [2510.20277v1](http://arxiv.org/abs/2510.20277v1) | **NULL** |
+| **2025/10/23** | Crisis-Resilient Portfolio Management via Graph-based Spatio-Temporal Learning | Zan Li et al. | [2510.20868v1](http://arxiv.org/abs/2510.20868v1) | **NULL** |
 | **2025/10/22** | CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion | Xiangyu Li et al. | [2510.19520v1](http://arxiv.org/abs/2510.19520v1) | **NULL** |
 | **2025/10/22** | PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation | Zhuoyang Xie et al. | [2510.19475v1](http://arxiv.org/abs/2510.19475v1) | **NULL** |
 | **2025/10/22** | Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning | Ling Team et al. | [2510.19338v2](http://arxiv.org/abs/2510.19338v2) | **NULL** |
@@ -74,15 +83,6 @@ layout: default
 | **2025/10/21** | Learning Human-Object Interaction as Groups | Jiajun Hong et al. | [2510.18357v1](http://arxiv.org/abs/2510.18357v1) | **NULL** |
 | **2025/10/21** | Latent-Info and Low-Dimensional Learning for Human Mesh Recovery and Parallel Optimization | Xiang Zhang et al. | [2510.18267v1](http://arxiv.org/abs/2510.18267v1) | **NULL** |
 | **2025/10/21** | LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling | Yunjiang Jiang et al. | [2510.18239v1](http://arxiv.org/abs/2510.18239v1) | **NULL** |
-| **2025/10/20** | ConsistEdit: Highly Consistent and Precise Training-free Visual Editing | Zixin Yin et al. | [2510.17803v1](http://arxiv.org/abs/2510.17803v1) | **NULL** |
-| **2025/10/20** | AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM | Haoyu Huang et al. | [2510.17934v1](http://arxiv.org/abs/2510.17934v1) | **NULL** |
-| **2025/10/20** | CrossStateECG: Multi-Scale Deep Convolutional Network with Attention for Rest-Exercise ECG Biometrics | Dan Zheng et al. | [2510.17467v1](http://arxiv.org/abs/2510.17467v1) | **NULL** |
-| **2025/10/20** | A Conditional Diffusion Model for Probabilistic Prediction of Battery Capacity Degradation | Hequn Li et al. | [2510.17414v1](http://arxiv.org/abs/2510.17414v1) | **NULL** |
-| **2025/10/20** | Localist LLMs with Recruitment Learning | Joachim Diederich | [2510.17358v1](http://arxiv.org/abs/2510.17358v1) | **NULL** |
-| **2025/10/20** | A Prototypical Network with an Attention-based Encoder for Drivers Identification Application | Wei-Hsun Lee et al. | [2510.17250v1](http://arxiv.org/abs/2510.17250v1) | **NULL** |
-| **2025/10/20** | Optimizing DINOv2 with Registers for Face Anti-Spoofing | Mika Feng et al. | [2510.17201v1](http://arxiv.org/abs/2510.17201v1) | **NULL** |
-| **2025/10/19** | UniGTE: Unified Graph-Text Encoding for Zero-Shot Generalization across Graph Tasks and Domains | Duo Wang et al. | [2510.16885v1](http://arxiv.org/abs/2510.16885v1) | **NULL** |
-| **2025/10/19** | ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning | Yingxu Wang et al. | [2510.16824v1](http://arxiv.org/abs/2510.16824v1) | **NULL** |
 
 ## 背景差分
 
