@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/28 09:05:45
+> Updated on 2025/10/29 09:10:27
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/27** | Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens | Jiahao Ji et al. | [2510.23410v1](http://arxiv.org/abs/2510.23410v1) | **NULL** |
+| **2025/10/27** | AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes | Sixian Liu et al. | [2510.23151v1](http://arxiv.org/abs/2510.23151v1) | **NULL** |
+| **2025/10/27** | DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios | Ziyu Wang et al. | [2510.23144v1](http://arxiv.org/abs/2510.23144v1) | **NULL** |
+| **2025/10/27** | Awakening Facial Emotional Expressions in Human-Robot | Yongtong Zhu et al. | [2510.23059v1](http://arxiv.org/abs/2510.23059v1) | **NULL** |
+| **2025/10/27** | Knocking-Heads Attention | Zhanchao Zhou et al. | [2510.23052v1](http://arxiv.org/abs/2510.23052v1) | **NULL** |
+| **2025/10/27** | Softmax is $1/2$-Lipschitz: A tight bound across all $\ell_p$ norms | Pravin Nair | [2510.23012v1](http://arxiv.org/abs/2510.23012v1) | **NULL** |
+| **2025/10/27** | QoSGMAA: A Robust Multi-Order Graph Attention and Adversarial Framework for Sparse QoS Prediction | Guanchen Du et al. | [2510.22982v1](http://arxiv.org/abs/2510.22982v1) | **NULL** |
+| **2025/10/26** | Air Quality Prediction Using LOESS-ARIMA and Multi-Scale CNN-BiLSTM with Residual-Gated Attention | Soham Pahari et al. | [2510.22818v1](http://arxiv.org/abs/2510.22818v1) | **NULL** |
+| **2025/10/26** | ConMatFormer: A Multi-attention and Transformer Integrated ConvNext based Deep Learning Model for Enhanced Diabetic Foot Ulcer Classification | Raihan Ahamed Rifat et al. | [2510.22743v1](http://arxiv.org/abs/2510.22743v1) | **NULL** |
+| **2025/10/26** | Scalable Neural Decoders for Practical Real-Time Quantum Error Correction | Changwon Lee et al. | [2510.22724v1](http://arxiv.org/abs/2510.22724v1) | **NULL** |
+| **2025/10/26** | AesCrop: Aesthetic-driven Cropping Guided by Composition | Yen-Hong Wong et al. | [2510.22528v1](http://arxiv.org/abs/2510.22528v1) | **NULL** |
+| **2025/10/25** | Attention Residual Fusion Network with Contrast for Source-free Domain Adaptation | Renrong Shao et al. | [2510.22142v1](http://arxiv.org/abs/2510.22142v1) | **NULL** |
+| **2025/10/24** | Transformer Based Linear Attention with Optimized GPU Kernel Implementation | Armin Gerami et al. | [2510.21956v1](http://arxiv.org/abs/2510.21956v1) | **NULL** |
 | **2025/10/24** | BachVid: Training-Free Video Generation with Consistent Background and Character | Han Yan et al. | [2510.21696v1](http://arxiv.org/abs/2510.21696v1) | **NULL** |
 | **2025/10/24** | An Automatic Detection Method for Hematoma Features in Placental Abruption Ultrasound Images Based on Few-Shot Learning | Xiaoqing Liu et al. | [2510.21495v1](http://arxiv.org/abs/2510.21495v1) | **NULL** |
 | **2025/10/24** | Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding | Anupam Pani et al. | [2510.21356v1](http://arxiv.org/abs/2510.21356v1) | **NULL** |
@@ -70,24 +83,12 @@ layout: default
 | **2025/10/23** | Crisis-Resilient Portfolio Management via Graph-based Spatio-Temporal Learning | Zan Li et al. | [2510.20868v1](http://arxiv.org/abs/2510.20868v1) | **NULL** |
 | **2025/10/22** | CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion | Xiangyu Li et al. | [2510.19520v1](http://arxiv.org/abs/2510.19520v1) | **NULL** |
 | **2025/10/22** | PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation | Zhuoyang Xie et al. | [2510.19475v1](http://arxiv.org/abs/2510.19475v1) | **NULL** |
-| **2025/10/22** | Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning | Ling Team et al. | [2510.19338v2](http://arxiv.org/abs/2510.19338v2) | **NULL** |
-| **2025/10/22** | Online Handwritten Signature Verification Based on Temporal-Spatial Graph Attention Transformer | Hai-jie Yuan et al. | [2510.19321v1](http://arxiv.org/abs/2510.19321v1) | **NULL** |
-| **2025/10/22** | MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation | Zhang Nengbo et al. | [2510.19273v1](http://arxiv.org/abs/2510.19273v1) | **NULL** |
-| **2025/10/21** | A Novel Approach to Breast Cancer Segmentation using U-Net Model with Attention Mechanisms and FedProx | Eyad Gad et al. | [2510.19118v1](http://arxiv.org/abs/2510.19118v1) | **NULL** |
-| **2025/10/21** | Advancing Brain Tumor Segmentation via Attention-based 3D U-Net Architecture and Digital Image Processing | Eyad Gad et al. | [2510.19109v1](http://arxiv.org/abs/2510.19109v1) | **NULL** |
-| **2025/10/21** | MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training | Wenxuan Li et al. | [2510.18830v1](http://arxiv.org/abs/2510.18830v1) | **NULL** |
-| **2025/10/21** | UltraGen: High-Resolution Video Generation with Hierarchical Attention | Teng Hu et al. | [2510.18775v1](http://arxiv.org/abs/2510.18775v1) | **NULL** |
-| **2025/10/21** | Simple and Efficient Heterogeneous Temporal Graph Neural Network | Yili Wang et al. | [2510.18467v1](http://arxiv.org/abs/2510.18467v1) | **NULL** |
-| **2025/10/21** | AWSPNet: Attention-based Dual-Tree Wavelet Scattering Prototypical Network for MIMO Radar Target Recognition and Jamming Suppression | Yizhen Jia et al. | [2510.18422v1](http://arxiv.org/abs/2510.18422v1) | **NULL** |
-| **2025/10/21** | Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference | Siyuan Yan et al. | [2510.18413v1](http://arxiv.org/abs/2510.18413v1) | **NULL** |
-| **2025/10/21** | Learning Human-Object Interaction as Groups | Jiajun Hong et al. | [2510.18357v1](http://arxiv.org/abs/2510.18357v1) | **NULL** |
-| **2025/10/21** | Latent-Info and Low-Dimensional Learning for Human Mesh Recovery and Parallel Optimization | Xiang Zhang et al. | [2510.18267v1](http://arxiv.org/abs/2510.18267v1) | **NULL** |
-| **2025/10/21** | LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling | Yunjiang Jiang et al. | [2510.18239v1](http://arxiv.org/abs/2510.18239v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/25** | A Fully Interpretable Statistical Approach for Roadside LiDAR Background Subtraction | Aitor Iglesias et al. | [2510.22390v1](http://arxiv.org/abs/2510.22390v1) | **NULL** |
 | **2025/10/17** | The ALPINE-CRISTAL-JWST Survey: NIRSpec IFU Data Processing and Spatially-resolved Views of Chemical Enrichment in Normal Galaxies at z=4-6 | Seiji Fujimoto et al. | [2510.16116v1](http://arxiv.org/abs/2510.16116v1) | **NULL** |
 | **2025/10/16** | What is the True HI Gas Content in Massive Quiescent Galaxies in the Local Universe? | Xiao Li et al. | [2510.15145v1](http://arxiv.org/abs/2510.15145v1) | **NULL** |
 | **2025/10/14** | CE$ν$NS Search with Cryogenic Sapphire Detectors at MINER: Results from the TRIGA reactor data and Future Sensitivity at HFIR | D. Mondal et al. | [2510.15999v1](http://arxiv.org/abs/2510.15999v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/05/23** | A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance | Pedro Jose Bauza-Ruiz et al. | [2505.17996v1](http://arxiv.org/abs/2505.17996v1) | **NULL** |
 | **2025/05/21** | A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains | Sébastien Piérard et al. | [2505.15595v1](http://arxiv.org/abs/2505.15595v1) | **NULL** |
 | **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
-| **2025/04/30** | Higher derivative corrections to Kerr-AdS black hole thermodynamics | Wei Guo et al. | [2504.21724v2](http://arxiv.org/abs/2504.21724v2) | **NULL** |
