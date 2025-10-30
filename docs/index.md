@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2025/10/29 09:10:27
+> Updated on 2025/10/30 09:10:11
 
 <summary>Table of Contents</summary>
 
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/28** | Group Relative Attention Guidance for Image Editing | Xuanpu Zhang et al. | [2510.24657v1](http://arxiv.org/abs/2510.24657v1) | **NULL** |
+| **2025/10/28** | MAGNET: A Multi-Graph Attentional Network for Code Clone Detection | Zixian Zhang et al. | [2510.24241v1](http://arxiv.org/abs/2510.24241v1) | **NULL** |
+| **2025/10/28** | EddyFormer: Accelerated Neural Simulations of Three-Dimensional Turbulence at Scale | Yiheng Du et al. | [2510.24173v1](http://arxiv.org/abs/2510.24173v1) | **NULL** |
+| **2025/10/28** | MSRANetV2: An Explainable Deep Learning Architecture for Multi-class Classification of Colorectal Histopathological Images | Ovi Sarkar et al. | [2510.24136v1](http://arxiv.org/abs/2510.24136v1) | **NULL** |
+| **2025/10/28** | OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation | Agus Gunawan et al. | [2510.24093v1](http://arxiv.org/abs/2510.24093v1) | **NULL** |
+| **2025/10/27** | Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Decoder-Only Transformers | Marko Karbevski et al. | [2510.23912v1](http://arxiv.org/abs/2510.23912v1) | **NULL** |
+| **2025/10/27** | Galactic Alchemy: Deep Learning Map-to-Map Translation in Hydrodynamical Simulations | Philipp Denzel et al. | [2510.23768v1](http://arxiv.org/abs/2510.23768v1) | **NULL** |
 | **2025/10/27** | Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens | Jiahao Ji et al. | [2510.23410v1](http://arxiv.org/abs/2510.23410v1) | **NULL** |
 | **2025/10/27** | AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes | Sixian Liu et al. | [2510.23151v1](http://arxiv.org/abs/2510.23151v1) | **NULL** |
 | **2025/10/27** | DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios | Ziyu Wang et al. | [2510.23144v1](http://arxiv.org/abs/2510.23144v1) | **NULL** |
@@ -76,18 +83,12 @@ layout: default
 | **2025/10/23** | Focal Modulation and Bidirectional Feature Fusion Network for Medical Image Segmentation | Moin Safdar et al. | [2510.20933v1](http://arxiv.org/abs/2510.20933v1) | **NULL** |
 | **2025/10/23** | HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives | Yihao Meng et al. | [2510.20822v1](http://arxiv.org/abs/2510.20822v1) | **NULL** |
 | **2025/10/23** | Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction | Mutian He et al. | [2510.20787v2](http://arxiv.org/abs/2510.20787v2) | **NULL** |
-| **2025/10/23** | DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion | Noam Issachar et al. | [2510.20766v1](http://arxiv.org/abs/2510.20766v1) | **NULL** |
-| **2025/10/23** | Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems | Fiza Hussain et al. | [2510.20640v1](http://arxiv.org/abs/2510.20640v1) | **NULL** |
-| **2025/10/23** | A Transformer Inspired AI-based MIMO receiver | András Rácz et al. | [2510.20363v1](http://arxiv.org/abs/2510.20363v1) | **NULL** |
-| **2025/10/23** | A Location-Aware Hybrid Deep Learning Framework for Dynamic Near-Far Field Channel Estimation in Low-Altitude UAV Communications | Wenli Yuan et al. | [2510.20277v1](http://arxiv.org/abs/2510.20277v1) | **NULL** |
-| **2025/10/23** | Crisis-Resilient Portfolio Management via Graph-based Spatio-Temporal Learning | Zan Li et al. | [2510.20868v1](http://arxiv.org/abs/2510.20868v1) | **NULL** |
-| **2025/10/22** | CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion | Xiangyu Li et al. | [2510.19520v1](http://arxiv.org/abs/2510.19520v1) | **NULL** |
-| **2025/10/22** | PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation | Zhuoyang Xie et al. | [2510.19475v1](http://arxiv.org/abs/2510.19475v1) | **NULL** |
 
 ## 背景差分
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2025/10/27** | Robust and Generalizable Background Subtraction on Images of Calorimeter Jets using Unsupervised Generative Learning | Yeonju Go et al. | [2510.23717v1](http://arxiv.org/abs/2510.23717v1) | **NULL** |
 | **2025/10/25** | A Fully Interpretable Statistical Approach for Roadside LiDAR Background Subtraction | Aitor Iglesias et al. | [2510.22390v1](http://arxiv.org/abs/2510.22390v1) | **NULL** |
 | **2025/10/17** | The ALPINE-CRISTAL-JWST Survey: NIRSpec IFU Data Processing and Spatially-resolved Views of Chemical Enrichment in Normal Galaxies at z=4-6 | Seiji Fujimoto et al. | [2510.16116v1](http://arxiv.org/abs/2510.16116v1) | **NULL** |
 | **2025/10/16** | What is the True HI Gas Content in Massive Quiescent Galaxies in the Local Universe? | Xiao Li et al. | [2510.15145v1](http://arxiv.org/abs/2510.15145v1) | **NULL** |
@@ -117,4 +118,3 @@ layout: default
 | **2025/06/03** | COSMOS-Web: Comprehensive Data Reduction for Wide-Area JWST NIRCam Imaging | Maximilien Franco et al. | [2506.03256v1](http://arxiv.org/abs/2506.03256v1) | **NULL** |
 | **2025/05/23** | A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance | Pedro Jose Bauza-Ruiz et al. | [2505.17996v1](http://arxiv.org/abs/2505.17996v1) | **NULL** |
 | **2025/05/21** | A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains | Sébastien Piérard et al. | [2505.15595v1](http://arxiv.org/abs/2505.15595v1) | **NULL** |
-| **2025/05/12** | SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction | Zhixuan Zhang et al. | [2505.07336v1](http://arxiv.org/abs/2505.07336v1) | **NULL** |
