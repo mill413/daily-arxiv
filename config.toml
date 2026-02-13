@@ -2,14 +2,18 @@ max_results = 30
 
 file_path = "./docs/index.md"
 
-[[topics]]
-name = "小目标"
-filters = ["small object detect", "sod", "tiny object detect", "tod"]
+# [[topics]]
+# name = "小目标"
+# filters = ["small object detect", "sod", "tiny object detect", "tod"]
+
+# [[topics]]
+# name = "注意力机制"
+# filters = ["Attention Mechanism"]
+
+# [[topics]]
+# name = "背景差分"
+# filters = ["Background Subtraction"]
 
 [[topics]]
-name = "注意力机制"
-filters = ["Attention Mechanism"]
-
-[[topics]]
-name = "背景差分"
-filters = ["Background Subtraction"]
+name = "石墨烯"
+filters = ["sers", "graphene"]
