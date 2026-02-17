@@ -15,5 +15,9 @@ file_path = "./docs/index.md"
 # filters = ["Background Subtraction"]
 
 [[topics]]
-name = "石墨烯"
-filters = ["sers", "graphene"]
+name = "sers"
+filters = ["sers"]
+
+[[topics]]
+name = "graphene"
+filters = ["graphene"]
