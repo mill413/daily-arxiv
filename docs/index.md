@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/18 10:27:10
+> Updated on 2026/02/19 10:26:12
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
 | **2026/02/16** | Pollyanna and Polynomially \c{hi}-Bounded Graph Classes | Narjes Rahimi et al. | [2602.14542v1](http://arxiv.org/abs/2602.14542v1) | **NULL** |
 | **2026/02/15** | The strong fractional choice number of triangle-free planar graphs | Xiaolan Hu et al. | [2602.13970v1](http://arxiv.org/abs/2602.13970v1) | **NULL** |
 | **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
@@ -46,12 +47,16 @@ layout: default
 | **2026/01/05** | A Faber--Krahn inequality for trees | Huiqiu Lin et al. | [2601.01859v1](http://arxiv.org/abs/2601.01859v1) | **NULL** |
 | **2025/12/29** | Distilled HuBERT for Mobile Speech Emotion Recognition: A Cross-Corpus Validation Study | Saifelden M. Ismail | [2512.23435v2](http://arxiv.org/abs/2512.23435v2) | **NULL** |
 | **2025/12/23** | CORINOS IV: Quantifying Baseline-Fitting Uncertainties in SO$_2$ Ice Measurements with JWST/MIRI | Rachel E. Gross et al. | [2512.20820v1](http://arxiv.org/abs/2512.20820v1) | **NULL** |
-| **2025/12/22** | Structured Event Representation and Stock Return Predictability | Gang Li et al. | [2512.19484v1](http://arxiv.org/abs/2512.19484v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/18** | Exceptional horns in $n$-root graphene and Lieb photonic ring lattices | A. M. Marques et al. | [2602.16670v1](http://arxiv.org/abs/2602.16670v1) | **NULL** |
+| **2026/02/18** | Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface | Zamin Mamiyev et al. | [2602.16451v1](http://arxiv.org/abs/2602.16451v1) | **NULL** |
+| **2026/02/18** | Stack of correlated insulating states in bilayer graphene kagome superlattice | Xinyu Cai et al. | [2602.16210v1](http://arxiv.org/abs/2602.16210v1) | **NULL** |
+| **2026/02/18** | Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity | John Crosby et al. | [2602.16121v1](http://arxiv.org/abs/2602.16121v1) | **NULL** |
+| **2026/02/17** | Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations | Alexander Bonacci et al. | [2602.16007v1](http://arxiv.org/abs/2602.16007v1) | **NULL** |
 | **2026/02/16** | Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics | Yi-Hsien Du | [2602.15016v1](http://arxiv.org/abs/2602.15016v1) | **NULL** |
 | **2026/02/16** | Practical and improved density functionals for computational catalysis on metal surfaces | Benjamin X. Shi et al. | [2602.14962v1](http://arxiv.org/abs/2602.14962v1) | **NULL** |
 | **2026/02/16** | Probing topological Floquet states in graphene with ultrafast terahertz scanning tunneling microscopy | Nils Jacobsen et al. | [2602.14875v1](http://arxiv.org/abs/2602.14875v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/02/08** | Macroscopic approximation of tight-binding models near spectral degeneracies and validity for wave packet propagation | Guillaume Bal et al. | [2602.08073v1](http://arxiv.org/abs/2602.08073v1) | **NULL** |
 | **2026/02/06** | Resonant absorption and linear photovoltaic effect in ferroelectric moiré heterostructures | V. V. Enaldiev et al. | [2602.06656v2](http://arxiv.org/abs/2602.06656v2) | **NULL** |
 | **2026/02/06** | Wavefront-Dislocation Evolution via Quadratic Band Touching Annihilation | Rasoul Ghadimi et al. | [2602.06397v1](http://arxiv.org/abs/2602.06397v1) | **NULL** |
-| **2026/02/05** | Vertical Nb Josephson junctions fabricated by direct metal deposition on both surfaces of freestanding graphene layers | Yoonkang Kim et al. | [2602.05170v1](http://arxiv.org/abs/2602.05170v1) | **NULL** |
-| **2026/02/04** | Potential-Induced Dynamic Coordination of Nonmetal Atoms Directly Bound to Metal Centers in Graphene-Embedded Single-Atom Catalysts and Its Implications | Jiahang Li et al. | [2602.04475v1](http://arxiv.org/abs/2602.04475v1) | **NULL** |
-| **2026/02/03** | Synthesis and guided assembly of niobium trisulfide nanowires and nanowire chains by chemical vapor deposition | Thang Pham et al. | [2602.03971v1](http://arxiv.org/abs/2602.03971v1) | **NULL** |
-| **2026/02/03** | Temperature dependence of electronic conductivity from ab initio thermal simulation | Ridwan Hussein et al. | [2602.06076v1](http://arxiv.org/abs/2602.06076v1) | **NULL** |
-| **2026/02/03** | Resolving Quantum Criticality in the Honeycomb Hubbard Model | Fo-Hong Wang et al. | [2602.03656v2](http://arxiv.org/abs/2602.03656v2) | **NULL** |
