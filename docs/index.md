@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/19 10:26:12
+> Updated on 2026/02/20 10:22:12
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/19** | Perturbative sensing of nanoscale materials with millimeter-wave photonic crystals | Kevin K. S. Multani et al. | [2602.17527v1](http://arxiv.org/abs/2602.17527v1) | **NULL** |
+| **2026/02/19** | Prediction of room-temperature two-dimensional $π$-electron half-metallic ferrimagnets | J. Phillips et al. | [2602.17489v1](http://arxiv.org/abs/2602.17489v1) | **NULL** |
+| **2026/02/19** | Charge and energy transport in graphene with smooth finite-range disorder | Juan A. Cañas et al. | [2602.17453v1](http://arxiv.org/abs/2602.17453v1) | **NULL** |
+| **2026/02/19** | Dissipative charging of tight-binding quantum batteries | Mingdi Xu et al. | [2602.17326v1](http://arxiv.org/abs/2602.17326v1) | **NULL** |
+| **2026/02/19** | Graphene FET Process and Analysis Optimization in 200 mm Pilot Line Environment | Anton Murros et al. | [2602.17135v1](http://arxiv.org/abs/2602.17135v1) | **NULL** |
+| **2026/02/18** | Electron viscosity and device-dependent variability in four-probe electrical transport in ultra-clean graphene field-effect transistors | Richa P. Madhogaria et al. | [2602.16847v1](http://arxiv.org/abs/2602.16847v1) | **NULL** |
+| **2026/02/18** | Neural Network Discovery of Paired Wigner Crystals in Artificial Graphene | Conor Smith et al. | [2602.16798v1](http://arxiv.org/abs/2602.16798v1) | **NULL** |
 | **2026/02/18** | Exceptional horns in $n$-root graphene and Lieb photonic ring lattices | A. M. Marques et al. | [2602.16670v1](http://arxiv.org/abs/2602.16670v1) | **NULL** |
 | **2026/02/18** | Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface | Zamin Mamiyev et al. | [2602.16451v1](http://arxiv.org/abs/2602.16451v1) | **NULL** |
 | **2026/02/18** | Stack of correlated insulating states in bilayer graphene kagome superlattice | Xinyu Cai et al. | [2602.16210v1](http://arxiv.org/abs/2602.16210v1) | **NULL** |
@@ -75,10 +82,3 @@ layout: default
 | **2026/02/11** | Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces | Anant Vaishnav et al. | [2602.11050v1](http://arxiv.org/abs/2602.11050v1) | **NULL** |
 | **2026/02/10** | Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials | Zekun Lou et al. | [2602.09938v1](http://arxiv.org/abs/2602.09938v1) | **NULL** |
 | **2026/02/10** | Three-dimensional real-space electron dynamics in graphene driven by strong laser fields | S. Li et al. | [2602.09440v1](http://arxiv.org/abs/2602.09440v1) | **NULL** |
-| **2026/02/10** | Interplay of Quantum Size Effect and Tensile Strain on Surface Morphology of Sn(100) Islands | Bing Xia et al. | [2602.09361v1](http://arxiv.org/abs/2602.09361v1) | **NULL** |
-| **2026/02/09** | Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach | Aline Oliveira Santos et al. | [2602.09184v1](http://arxiv.org/abs/2602.09184v1) | **NULL** |
-| **2026/02/09** | Hidden in-plane long-range order in an amorphized crystal | Yin Chen et al. | [2602.08551v1](http://arxiv.org/abs/2602.08551v1) | **NULL** |
-| **2026/02/09** | Highly Polarized and Long Range Dissipationless Spin Transport Due to Counterflowing Electron and Hole Edge Channels | Maxen Cosset-Chéneau et al. | [2602.08386v1](http://arxiv.org/abs/2602.08386v1) | **NULL** |
-| **2026/02/08** | Macroscopic approximation of tight-binding models near spectral degeneracies and validity for wave packet propagation | Guillaume Bal et al. | [2602.08073v1](http://arxiv.org/abs/2602.08073v1) | **NULL** |
-| **2026/02/06** | Resonant absorption and linear photovoltaic effect in ferroelectric moiré heterostructures | V. V. Enaldiev et al. | [2602.06656v2](http://arxiv.org/abs/2602.06656v2) | **NULL** |
-| **2026/02/06** | Wavefront-Dislocation Evolution via Quadratic Band Touching Annihilation | Rasoul Ghadimi et al. | [2602.06397v1](http://arxiv.org/abs/2602.06397v1) | **NULL** |
