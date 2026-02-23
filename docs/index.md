@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/22 10:26:38
+> Updated on 2026/02/23 10:27:24
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
 | **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
 | **2026/02/16** | Pollyanna and Polynomially \c{hi}-Bounded Graph Classes | Narjes Rahimi et al. | [2602.14542v1](http://arxiv.org/abs/2602.14542v1) | **NULL** |
 | **2026/02/15** | The strong fractional choice number of triangle-free planar graphs | Xiaolan Hu et al. | [2602.13970v1](http://arxiv.org/abs/2602.13970v1) | **NULL** |
@@ -46,12 +47,13 @@ layout: default
 | **2026/01/05** | Addressing intramolecular vibrational redistribution in a single molecule through pump and probe surface-enhanced vibrational spectroscopy | Aurelian Loirette-Pelous et al. | [2601.02117v2](http://arxiv.org/abs/2601.02117v2) | **NULL** |
 | **2026/01/05** | A Faber--Krahn inequality for trees | Huiqiu Lin et al. | [2601.01859v1](http://arxiv.org/abs/2601.01859v1) | **NULL** |
 | **2025/12/29** | Distilled HuBERT for Mobile Speech Emotion Recognition: A Cross-Corpus Validation Study | Saifelden M. Ismail | [2512.23435v2](http://arxiv.org/abs/2512.23435v2) | **NULL** |
-| **2025/12/23** | CORINOS IV: Quantifying Baseline-Fitting Uncertainties in SO$_2$ Ice Measurements with JWST/MIRI | Rachel E. Gross et al. | [2512.20820v1](http://arxiv.org/abs/2512.20820v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/20** | Ultrafast Band-Gap Renormalization in Bilayer Graphene | Eduard Moos et al. | [2602.18065v1](http://arxiv.org/abs/2602.18065v1) | **NULL** |
+| **2026/02/20** | Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States | Hongtao Yan et al. | [2602.17906v1](http://arxiv.org/abs/2602.17906v1) | **NULL** |
 | **2026/02/19** | Perturbative sensing of nanoscale materials with millimeter-wave photonic crystals | Kevin K. S. Multani et al. | [2602.17527v1](http://arxiv.org/abs/2602.17527v1) | **NULL** |
 | **2026/02/19** | Prediction of room-temperature two-dimensional $π$-electron half-metallic ferrimagnets | J. Phillips et al. | [2602.17489v1](http://arxiv.org/abs/2602.17489v1) | **NULL** |
 | **2026/02/19** | Charge and energy transport in graphene with smooth finite-range disorder | Juan A. Cañas et al. | [2602.17453v1](http://arxiv.org/abs/2602.17453v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/02/12** | Quantization Mapping on Dirac Dynamics via Voltage-Driven Charge Density in Monolayer Graphene: A Klein Paradox and Entropy-Ruled Wavevector Mechanics Study | Karuppuchamy Navamani | [2602.11604v1](http://arxiv.org/abs/2602.11604v1) | **NULL** |
 | **2026/02/11** | Floquet Control of Electron and Exciton Transport in Kekulé-Distorted Graphene | Sita Kandel et al. | [2602.11119v1](http://arxiv.org/abs/2602.11119v1) | **NULL** |
 | **2026/02/11** | Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces | Anant Vaishnav et al. | [2602.11050v1](http://arxiv.org/abs/2602.11050v1) | **NULL** |
-| **2026/02/10** | Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials | Zekun Lou et al. | [2602.09938v1](http://arxiv.org/abs/2602.09938v1) | **NULL** |
-| **2026/02/10** | Three-dimensional real-space electron dynamics in graphene driven by strong laser fields | S. Li et al. | [2602.09440v1](http://arxiv.org/abs/2602.09440v1) | **NULL** |
