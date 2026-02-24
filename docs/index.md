@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/23 10:27:24
+> Updated on 2026/02/24 10:23:57
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/22** | Some effective operators for graphene monolayer superlattices, from variational perturbation theory | Louis Garrigue | [2602.19185v1](http://arxiv.org/abs/2602.19185v1) | **NULL** |
+| **2026/02/21** | Atomistic substrate relaxation effects in the band gaps of graphene on hexagonal boron nitride | Jiaqi An et al. | [2602.18893v1](http://arxiv.org/abs/2602.18893v1) | **NULL** |
+| **2026/02/21** | Prediction of the atomistic Hubbard U interaction from moiré system STM-images using image recognition | Nachiket Tanksale et al. | [2602.18890v1](http://arxiv.org/abs/2602.18890v1) | **NULL** |
 | **2026/02/20** | Ultrafast Band-Gap Renormalization in Bilayer Graphene | Eduard Moos et al. | [2602.18065v1](http://arxiv.org/abs/2602.18065v1) | **NULL** |
 | **2026/02/20** | Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States | Hongtao Yan et al. | [2602.17906v1](http://arxiv.org/abs/2602.17906v1) | **NULL** |
 | **2026/02/19** | Perturbative sensing of nanoscale materials with millimeter-wave photonic crystals | Kevin K. S. Multani et al. | [2602.17527v1](http://arxiv.org/abs/2602.17527v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/02/13** | Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons | Ran Liu et al. | [2602.12582v1](http://arxiv.org/abs/2602.12582v1) | **NULL** |
 | **2026/02/12** | Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene | Francisco Munoz et al. | [2602.11932v1](http://arxiv.org/abs/2602.11932v1) | **NULL** |
 | **2026/02/12** | Ordered states of undoped AB bilayer graphene: bias induced cascade of transitions | A. V. Rozhkov et al. | [2602.11647v1](http://arxiv.org/abs/2602.11647v1) | **NULL** |
-| **2026/02/12** | Quantization Mapping on Dirac Dynamics via Voltage-Driven Charge Density in Monolayer Graphene: A Klein Paradox and Entropy-Ruled Wavevector Mechanics Study | Karuppuchamy Navamani | [2602.11604v1](http://arxiv.org/abs/2602.11604v1) | **NULL** |
-| **2026/02/11** | Floquet Control of Electron and Exciton Transport in Kekulé-Distorted Graphene | Sita Kandel et al. | [2602.11119v1](http://arxiv.org/abs/2602.11119v1) | **NULL** |
-| **2026/02/11** | Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces | Anant Vaishnav et al. | [2602.11050v1](http://arxiv.org/abs/2602.11050v1) | **NULL** |
