@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/24 10:23:57
+> Updated on 2026/02/25 10:25:05
 
 <summary>Table of Contents</summary>
 
@@ -17,10 +17,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
 | **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
 | **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
 | **2026/02/16** | Pollyanna and Polynomially \c{hi}-Bounded Graph Classes | Narjes Rahimi et al. | [2602.14542v1](http://arxiv.org/abs/2602.14542v1) | **NULL** |
 | **2026/02/15** | The strong fractional choice number of triangle-free planar graphs | Xiaolan Hu et al. | [2602.13970v1](http://arxiv.org/abs/2602.13970v1) | **NULL** |
+| **2026/02/13** | Data-Driven Deep MIMO Detection:Network Architectures and Generalization Analysis | Yongwei Yi et al. | [2602.20178v1](http://arxiv.org/abs/2602.20178v1) | **NULL** |
 | **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
 | **2026/02/06** | B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization | Yingying Gao et al. | [2602.06290v1](http://arxiv.org/abs/2602.06290v1) | **NULL** |
 | **2026/02/05** | Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods | Ali Shendabadi et al. | [2602.06000v1](http://arxiv.org/abs/2602.06000v1) | **NULL** |
@@ -45,13 +47,18 @@ layout: default
 | **2026/01/06** | Spectral-Efficient LoRa with Low Complexity Detection | Alireza Maleki et al. | [2601.03148v1](http://arxiv.org/abs/2601.03148v1) | **NULL** |
 | **2026/01/05** | Deciding Serializability in Network Systems | Guy Amir et al. | [2601.02251v4](http://arxiv.org/abs/2601.02251v4) | **NULL** |
 | **2026/01/05** | Addressing intramolecular vibrational redistribution in a single molecule through pump and probe surface-enhanced vibrational spectroscopy | Aurelian Loirette-Pelous et al. | [2601.02117v2](http://arxiv.org/abs/2601.02117v2) | **NULL** |
-| **2026/01/05** | A Faber--Krahn inequality for trees | Huiqiu Lin et al. | [2601.01859v1](http://arxiv.org/abs/2601.01859v1) | **NULL** |
-| **2025/12/29** | Distilled HuBERT for Mobile Speech Emotion Recognition: A Cross-Corpus Validation Study | Saifelden M. Ismail | [2512.23435v2](http://arxiv.org/abs/2512.23435v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/24** | Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics | Aleksander Bach Lorentzen et al. | [2602.20982v1](http://arxiv.org/abs/2602.20982v1) | **NULL** |
+| **2026/02/24** | Engineering of SnO2-Graphene Oxide Nano-Heterojunctions for Selective Room-temperature Chemical Sensing and Optoelectronic Devices | Eleonora Pargoletti et al. | [2602.20978v1](http://arxiv.org/abs/2602.20978v1) | **NULL** |
+| **2026/02/24** | Complex dispersion lines in gapped bilayer graphene: Analytical expressions and shear-displacement effects on monolayer--bilayer--monolayer junction conductance | Ryo Tamura | [2602.20589v1](http://arxiv.org/abs/2602.20589v1) | **NULL** |
+| **2026/02/24** | Photogalvanic effect in few layer graphene | Zhaohang Li et al. | [2602.20454v1](http://arxiv.org/abs/2602.20454v1) | **NULL** |
+| **2026/02/23** | Electromotive entrainment of charge and heat currents in graphene | E. Kirkinis et al. | [2602.20251v1](http://arxiv.org/abs/2602.20251v1) | **NULL** |
+| **2026/02/23** | Electronic structure of Graphene/Co interfaces | Daniela Pacilé et al. | [2602.19955v1](http://arxiv.org/abs/2602.19955v1) | **NULL** |
+| **2026/02/23** | Suppressed Rupture of Thin Metal Films via van der Waals Epitaxy | Wenxiang Wang et al. | [2602.19827v1](http://arxiv.org/abs/2602.19827v1) | **NULL** |
 | **2026/02/22** | Some effective operators for graphene monolayer superlattices, from variational perturbation theory | Louis Garrigue | [2602.19185v1](http://arxiv.org/abs/2602.19185v1) | **NULL** |
 | **2026/02/21** | Atomistic substrate relaxation effects in the band gaps of graphene on hexagonal boron nitride | Jiaqi An et al. | [2602.18893v1](http://arxiv.org/abs/2602.18893v1) | **NULL** |
 | **2026/02/21** | Prediction of the atomistic Hubbard U interaction from moiré system STM-images using image recognition | Nachiket Tanksale et al. | [2602.18890v1](http://arxiv.org/abs/2602.18890v1) | **NULL** |
@@ -75,10 +82,3 @@ layout: default
 | **2026/02/15** | Enhancement of mechanical properties of graphene oxide fibers via liquid crystalline phase formation and flake size optimization | M. Zhezhu et al. | [2602.14290v1](http://arxiv.org/abs/2602.14290v1) | **NULL** |
 | **2026/02/14** | Ballistic transport in nanodevices based on single-crystalline Cu thin film | Yongjin Cho et al. | [2602.13624v1](http://arxiv.org/abs/2602.13624v1) | **NULL** |
 | **2026/02/14** | Electronic Structure of Multilayer Graphene with Arbitrary Stackings | Fred Sun et al. | [2602.13599v1](http://arxiv.org/abs/2602.13599v1) | **NULL** |
-| **2026/02/13** | On the effect of Edge vs bulk effects in Graphene Nanoribbons | Colm Durkan et al. | [2602.12944v1](http://arxiv.org/abs/2602.12944v1) | **NULL** |
-| **2026/02/13** | Subcycle videography of lightwave-driven Landau-Zener-Majorana transitions in graphene | Vincent Eggers et al. | [2602.12844v1](http://arxiv.org/abs/2602.12844v1) | **NULL** |
-| **2026/02/13** | Quantum Anomalous Hall Effect in Rhombohedral Multilayer Graphene/hBN Moiré Superlattices | Jiannan Hua et al. | [2602.12737v1](http://arxiv.org/abs/2602.12737v1) | **NULL** |
-| **2026/02/13** | Gapped out-of-phase plasmon modes in alternating-twist multilayer graphene | Taehun Kim et al. | [2602.12625v1](http://arxiv.org/abs/2602.12625v1) | **NULL** |
-| **2026/02/13** | Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons | Ran Liu et al. | [2602.12582v1](http://arxiv.org/abs/2602.12582v1) | **NULL** |
-| **2026/02/12** | Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene | Francisco Munoz et al. | [2602.11932v1](http://arxiv.org/abs/2602.11932v1) | **NULL** |
-| **2026/02/12** | Ordered states of undoped AB bilayer graphene: bias induced cascade of transitions | A. V. Rozhkov et al. | [2602.11647v1](http://arxiv.org/abs/2602.11647v1) | **NULL** |
