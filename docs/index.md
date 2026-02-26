@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/25 10:25:05
+> Updated on 2026/02/26 10:21:14
 
 <summary>Table of Contents</summary>
 
@@ -52,8 +52,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/25** | Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing | Suman Roy et al. | [2602.21986v1](http://arxiv.org/abs/2602.21986v1) | **NULL** |
+| **2026/02/25** | Geometric oscillations of local Hall and Nernst effects in ballistic graphene at weak magnetic fields | Z. Z. Alisultanov et al. | [2602.21934v1](http://arxiv.org/abs/2602.21934v1) | **NULL** |
+| **2026/02/24** | Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores | Aaron H. Barajas-Aguilar et al. | [2602.21419v1](http://arxiv.org/abs/2602.21419v1) | **NULL** |
 | **2026/02/24** | Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics | Aleksander Bach Lorentzen et al. | [2602.20982v1](http://arxiv.org/abs/2602.20982v1) | **NULL** |
 | **2026/02/24** | Engineering of SnO2-Graphene Oxide Nano-Heterojunctions for Selective Room-temperature Chemical Sensing and Optoelectronic Devices | Eleonora Pargoletti et al. | [2602.20978v1](http://arxiv.org/abs/2602.20978v1) | **NULL** |
+| **2026/02/24** | Lorentz-Violating Wormhole Optics | Omar Mustafa et al. | [2602.21264v1](http://arxiv.org/abs/2602.21264v1) | **NULL** |
 | **2026/02/24** | Complex dispersion lines in gapped bilayer graphene: Analytical expressions and shear-displacement effects on monolayer--bilayer--monolayer junction conductance | Ryo Tamura | [2602.20589v1](http://arxiv.org/abs/2602.20589v1) | **NULL** |
 | **2026/02/24** | Photogalvanic effect in few layer graphene | Zhaohang Li et al. | [2602.20454v1](http://arxiv.org/abs/2602.20454v1) | **NULL** |
 | **2026/02/23** | Electromotive entrainment of charge and heat currents in graphene | E. Kirkinis et al. | [2602.20251v1](http://arxiv.org/abs/2602.20251v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/02/17** | Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations | Alexander Bonacci et al. | [2602.16007v1](http://arxiv.org/abs/2602.16007v1) | **NULL** |
 | **2026/02/16** | Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics | Yi-Hsien Du | [2602.15016v1](http://arxiv.org/abs/2602.15016v1) | **NULL** |
 | **2026/02/16** | Practical and improved density functionals for computational catalysis on metal surfaces | Benjamin X. Shi et al. | [2602.14962v1](http://arxiv.org/abs/2602.14962v1) | **NULL** |
-| **2026/02/16** | Probing topological Floquet states in graphene with ultrafast terahertz scanning tunneling microscopy | Nils Jacobsen et al. | [2602.14875v1](http://arxiv.org/abs/2602.14875v1) | **NULL** |
-| **2026/02/15** | Enhancement of mechanical properties of graphene oxide fibers via liquid crystalline phase formation and flake size optimization | M. Zhezhu et al. | [2602.14290v1](http://arxiv.org/abs/2602.14290v1) | **NULL** |
-| **2026/02/14** | Ballistic transport in nanodevices based on single-crystalline Cu thin film | Yongjin Cho et al. | [2602.13624v1](http://arxiv.org/abs/2602.13624v1) | **NULL** |
-| **2026/02/14** | Electronic Structure of Multilayer Graphene with Arbitrary Stackings | Fred Sun et al. | [2602.13599v1](http://arxiv.org/abs/2602.13599v1) | **NULL** |
