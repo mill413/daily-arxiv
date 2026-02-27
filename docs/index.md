@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/02/26 10:21:14
+> Updated on 2026/02/27 10:12:44
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/26** | Landau level spectroscopy in current solid state physics | Ana Akrap et al. | [2602.23129v1](http://arxiv.org/abs/2602.23129v1) | **NULL** |
+| **2026/02/26** | Machine Learning for Electron-phonon Interactions From Finite Difference | Zun Wang et al. | [2602.23084v1](http://arxiv.org/abs/2602.23084v1) | **NULL** |
 | **2026/02/25** | Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing | Suman Roy et al. | [2602.21986v1](http://arxiv.org/abs/2602.21986v1) | **NULL** |
 | **2026/02/25** | Geometric oscillations of local Hall and Nernst effects in ballistic graphene at weak magnetic fields | Z. Z. Alisultanov et al. | [2602.21934v1](http://arxiv.org/abs/2602.21934v1) | **NULL** |
 | **2026/02/24** | Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores | Aaron H. Barajas-Aguilar et al. | [2602.21419v1](http://arxiv.org/abs/2602.21419v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/02/18** | Stack of correlated insulating states in bilayer graphene kagome superlattice | Xinyu Cai et al. | [2602.16210v1](http://arxiv.org/abs/2602.16210v1) | **NULL** |
 | **2026/02/18** | Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity | John Crosby et al. | [2602.16121v1](http://arxiv.org/abs/2602.16121v1) | **NULL** |
 | **2026/02/17** | Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations | Alexander Bonacci et al. | [2602.16007v1](http://arxiv.org/abs/2602.16007v1) | **NULL** |
-| **2026/02/16** | Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics | Yi-Hsien Du | [2602.15016v1](http://arxiv.org/abs/2602.15016v1) | **NULL** |
-| **2026/02/16** | Practical and improved density functionals for computational catalysis on metal surfaces | Benjamin X. Shi et al. | [2602.14962v1](http://arxiv.org/abs/2602.14962v1) | **NULL** |
