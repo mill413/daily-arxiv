@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/01 10:33:04
+> Updated on 2026/03/02 10:23:27
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/27** | Spontaneous Fully Compensated Ferrimagnetism | Bingbing Wang et al. | [2602.24135v1](http://arxiv.org/abs/2602.24135v1) | **NULL** |
+| **2026/02/27** | Topological-Mass Control of an Emergent Kondo Scale in an Interacting SSH Chain | Ryosuke Yoshii et al. | [2602.23807v1](http://arxiv.org/abs/2602.23807v1) | **NULL** |
+| **2026/02/27** | Hidden in Plain Sight: Aromaticity of Hexagonal Boron Nitride | Suryakanti Debata et al. | [2602.23628v1](http://arxiv.org/abs/2602.23628v1) | **NULL** |
+| **2026/02/27** | Hierarchical symmetry breaking in Moiré graphene domain-wall networks | Xue Yan et al. | [2602.23570v1](http://arxiv.org/abs/2602.23570v1) | **NULL** |
 | **2026/02/26** | Landau level spectroscopy in current solid state physics | Ana Akrap et al. | [2602.23129v1](http://arxiv.org/abs/2602.23129v1) | **NULL** |
 | **2026/02/26** | Machine Learning for Electron-phonon Interactions From Finite Difference | Zun Wang et al. | [2602.23084v1](http://arxiv.org/abs/2602.23084v1) | **NULL** |
 | **2026/02/25** | Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing | Suman Roy et al. | [2602.21986v1](http://arxiv.org/abs/2602.21986v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/02/18** | Electron viscosity and device-dependent variability in four-probe electrical transport in ultra-clean graphene field-effect transistors | Richa P. Madhogaria et al. | [2602.16847v1](http://arxiv.org/abs/2602.16847v1) | **NULL** |
 | **2026/02/18** | Neural Network Discovery of Paired Wigner Crystals in Artificial Graphene | Conor Smith et al. | [2602.16798v1](http://arxiv.org/abs/2602.16798v1) | **NULL** |
 | **2026/02/18** | Exceptional horns in $n$-root graphene and Lieb photonic ring lattices | A. M. Marques et al. | [2602.16670v1](http://arxiv.org/abs/2602.16670v1) | **NULL** |
-| **2026/02/18** | Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface | Zamin Mamiyev et al. | [2602.16451v1](http://arxiv.org/abs/2602.16451v1) | **NULL** |
-| **2026/02/18** | Stack of correlated insulating states in bilayer graphene kagome superlattice | Xinyu Cai et al. | [2602.16210v1](http://arxiv.org/abs/2602.16210v1) | **NULL** |
-| **2026/02/18** | Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity | John Crosby et al. | [2602.16121v1](http://arxiv.org/abs/2602.16121v1) | **NULL** |
-| **2026/02/17** | Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations | Alexander Bonacci et al. | [2602.16007v1](http://arxiv.org/abs/2602.16007v1) | **NULL** |
