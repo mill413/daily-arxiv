@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/02 10:23:27
+> Updated on 2026/03/03 10:25:13
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
+| **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v1](http://arxiv.org/abs/2603.00428v1) | **NULL** |
 | **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
 | **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
 | **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
@@ -33,7 +35,7 @@ layout: default
 | **2026/01/30** | Bourin-type inequalities for $τ$-measurable operators in fully symmetric spaces | Teng Zhang | [2602.00358v1](http://arxiv.org/abs/2602.00358v1) | **NULL** |
 | **2026/01/30** | Topology-optimized distributed 3d anisotropic Raman emission | Ian M. Hammond et al. | [2602.00339v1](http://arxiv.org/abs/2602.00339v1) | **NULL** |
 | **2026/01/28** | Gen-SER: When the generative model meets speech emotion recognition | Taihui Wang et al. | [2601.20573v1](http://arxiv.org/abs/2601.20573v1) | **NULL** |
-| **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v2](http://arxiv.org/abs/2601.17901v2) | **NULL** |
+| **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v3](http://arxiv.org/abs/2601.17901v3) | **NULL** |
 | **2026/01/23** | Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration | Esther Sun et al. | [2601.17085v1](http://arxiv.org/abs/2601.17085v1) | **NULL** |
 | **2026/01/23** | Distinguishing Hot-Electron and Optomechanical Pathways at Metal-Molecule Interfaces | Bing Gao et al. | [2601.16445v1](http://arxiv.org/abs/2601.16445v1) | **NULL** |
 | **2026/01/22** | EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning | Dingdong Wang et al. | [2601.15668v1](http://arxiv.org/abs/2601.15668v1) | **NULL** |
@@ -45,13 +47,14 @@ layout: default
 | **2026/01/08** | When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict | Dawei Huang et al. | [2601.04564v1](http://arxiv.org/abs/2601.04564v1) | **NULL** |
 | **2026/01/07** | Enhanced-FQL($λ$), an Efficient and Interpretable RL with novel Fuzzy Eligibility Traces and Segmented Experience Replay | Mohsen Jalaeian-Farimani | [2601.04392v1](http://arxiv.org/abs/2601.04392v1) | **NULL** |
 | **2026/01/06** | Spectral-Efficient LoRa with Low Complexity Detection | Alireza Maleki et al. | [2601.03148v1](http://arxiv.org/abs/2601.03148v1) | **NULL** |
-| **2026/01/05** | Deciding Serializability in Network Systems | Guy Amir et al. | [2601.02251v4](http://arxiv.org/abs/2601.02251v4) | **NULL** |
-| **2026/01/05** | Addressing intramolecular vibrational redistribution in a single molecule through pump and probe surface-enhanced vibrational spectroscopy | Aurelian Loirette-Pelous et al. | [2601.02117v2](http://arxiv.org/abs/2601.02117v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/01** | Programmable Dirac masses in hybrid moiré--1D superlattices | Hanzhou Tan et al. | [2603.00862v1](http://arxiv.org/abs/2603.00862v1) | **NULL** |
+| **2026/02/28** | Non-equilibrium transport reveals energy level degeneracy | Artem O. Denisov et al. | [2603.00762v1](http://arxiv.org/abs/2603.00762v1) | **NULL** |
+| **2026/02/27** | Topology as a Design Variable for Multiproperty Engineering in Synthesized 4-5-6-8 Carbon Nanoribbons | Djardiel da S. Gomes et al. | [2603.00315v1](http://arxiv.org/abs/2603.00315v1) | **NULL** |
 | **2026/02/27** | Spontaneous Fully Compensated Ferrimagnetism | Bingbing Wang et al. | [2602.24135v1](http://arxiv.org/abs/2602.24135v1) | **NULL** |
 | **2026/02/27** | Topological-Mass Control of an Emergent Kondo Scale in an Interacting SSH Chain | Ryosuke Yoshii et al. | [2602.23807v1](http://arxiv.org/abs/2602.23807v1) | **NULL** |
 | **2026/02/27** | Hidden in Plain Sight: Aromaticity of Hexagonal Boron Nitride | Suryakanti Debata et al. | [2602.23628v1](http://arxiv.org/abs/2602.23628v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/02/19** | Charge and energy transport in graphene with smooth finite-range disorder | Juan A. Cañas et al. | [2602.17453v1](http://arxiv.org/abs/2602.17453v1) | **NULL** |
 | **2026/02/19** | Dissipative charging of tight-binding quantum batteries | Mingdi Xu et al. | [2602.17326v1](http://arxiv.org/abs/2602.17326v1) | **NULL** |
 | **2026/02/19** | Graphene FET Process and Analysis Optimization in 200 mm Pilot Line Environment | Anton Murros et al. | [2602.17135v1](http://arxiv.org/abs/2602.17135v1) | **NULL** |
-| **2026/02/18** | Electron viscosity and device-dependent variability in four-probe electrical transport in ultra-clean graphene field-effect transistors | Richa P. Madhogaria et al. | [2602.16847v1](http://arxiv.org/abs/2602.16847v1) | **NULL** |
-| **2026/02/18** | Neural Network Discovery of Paired Wigner Crystals in Artificial Graphene | Conor Smith et al. | [2602.16798v1](http://arxiv.org/abs/2602.16798v1) | **NULL** |
-| **2026/02/18** | Exceptional horns in $n$-root graphene and Lieb photonic ring lattices | A. M. Marques et al. | [2602.16670v1](http://arxiv.org/abs/2602.16670v1) | **NULL** |
