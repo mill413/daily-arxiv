@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/03 10:25:13
+> Updated on 2026/03/04 10:11:12
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/03** | Exploring stable long-lifetime plasmon excitations in the Lieb lattice | Andrii Iurov et al. | [2603.02523v1](http://arxiv.org/abs/2603.02523v1) | **NULL** |
+| **2026/03/02** | Graphene-capped bismuthene on SiC as a platform for correlated quantum spin Hall edge states | Huu Thoai Ngo et al. | [2603.02397v1](http://arxiv.org/abs/2603.02397v1) | **NULL** |
+| **2026/03/02** | Unveiling Davydov-Split Excitons in a Template-Engineered Molecular-Graphene Heterostructure | Jan Kunc et al. | [2603.02301v1](http://arxiv.org/abs/2603.02301v1) | **NULL** |
+| **2026/03/02** | Scalable tight-binding model for strained graphene | Ming-Hao Liu et al. | [2603.02077v1](http://arxiv.org/abs/2603.02077v1) | **NULL** |
+| **2026/03/02** | Layer-polarized Transport via Gate-defined 1D and 0D PN Junctions in Double Bilayer Graphene | Wei Ren et al. | [2603.01963v1](http://arxiv.org/abs/2603.01963v1) | **NULL** |
+| **2026/03/02** | Insulating Electronic States Near the Dirac Point Arising from Twisted Stacking and Curvature in 3D Nanoporous Graphene | Yoichi Tanabe et al. | [2603.01522v1](http://arxiv.org/abs/2603.01522v1) | **NULL** |
+| **2026/03/02** | Valleytronics in 2D Materials Roadmap | Kyle L. Seyler et al. | [2603.01427v1](http://arxiv.org/abs/2603.01427v1) | **NULL** |
+| **2026/03/01** | Sub-Sharvin conductance and Josephson effect in graphene | Adam Rycerz | [2603.01269v1](http://arxiv.org/abs/2603.01269v1) | **NULL** |
+| **2026/03/01** | Unfolding Bloch States in Disordered Systems | T. Thuy Hoang et al. | [2603.00966v1](http://arxiv.org/abs/2603.00966v1) | **NULL** |
 | **2026/03/01** | Programmable Dirac masses in hybrid moiré--1D superlattices | Hanzhou Tan et al. | [2603.00862v1](http://arxiv.org/abs/2603.00862v1) | **NULL** |
 | **2026/02/28** | Non-equilibrium transport reveals energy level degeneracy | Artem O. Denisov et al. | [2603.00762v1](http://arxiv.org/abs/2603.00762v1) | **NULL** |
 | **2026/02/27** | Topology as a Design Variable for Multiproperty Engineering in Synthesized 4-5-6-8 Carbon Nanoribbons | Djardiel da S. Gomes et al. | [2603.00315v1](http://arxiv.org/abs/2603.00315v1) | **NULL** |
@@ -72,13 +81,4 @@ layout: default
 | **2026/02/23** | Electromotive entrainment of charge and heat currents in graphene | E. Kirkinis et al. | [2602.20251v1](http://arxiv.org/abs/2602.20251v1) | **NULL** |
 | **2026/02/23** | Electronic structure of Graphene/Co interfaces | Daniela Pacilé et al. | [2602.19955v1](http://arxiv.org/abs/2602.19955v1) | **NULL** |
 | **2026/02/23** | Suppressed Rupture of Thin Metal Films via van der Waals Epitaxy | Wenxiang Wang et al. | [2602.19827v1](http://arxiv.org/abs/2602.19827v1) | **NULL** |
-| **2026/02/22** | Some effective operators for graphene monolayer superlattices, from variational perturbation theory | Louis Garrigue | [2602.19185v1](http://arxiv.org/abs/2602.19185v1) | **NULL** |
-| **2026/02/21** | Atomistic substrate relaxation effects in the band gaps of graphene on hexagonal boron nitride | Jiaqi An et al. | [2602.18893v1](http://arxiv.org/abs/2602.18893v1) | **NULL** |
-| **2026/02/21** | Prediction of the atomistic Hubbard U interaction from moiré system STM-images using image recognition | Nachiket Tanksale et al. | [2602.18890v1](http://arxiv.org/abs/2602.18890v1) | **NULL** |
-| **2026/02/20** | Ultrafast Band-Gap Renormalization in Bilayer Graphene | Eduard Moos et al. | [2602.18065v1](http://arxiv.org/abs/2602.18065v1) | **NULL** |
-| **2026/02/20** | Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States | Hongtao Yan et al. | [2602.17906v1](http://arxiv.org/abs/2602.17906v1) | **NULL** |
-| **2026/02/19** | Perturbative sensing of nanoscale materials with millimeter-wave photonic crystals | Kevin K. S. Multani et al. | [2602.17527v1](http://arxiv.org/abs/2602.17527v1) | **NULL** |
-| **2026/02/19** | Prediction of room-temperature two-dimensional $π$-electron half-metallic ferrimagnets | J. Phillips et al. | [2602.17489v1](http://arxiv.org/abs/2602.17489v1) | **NULL** |
-| **2026/02/19** | Charge and energy transport in graphene with smooth finite-range disorder | Juan A. Cañas et al. | [2602.17453v1](http://arxiv.org/abs/2602.17453v1) | **NULL** |
-| **2026/02/19** | Dissipative charging of tight-binding quantum batteries | Mingdi Xu et al. | [2602.17326v1](http://arxiv.org/abs/2602.17326v1) | **NULL** |
-| **2026/02/19** | Graphene FET Process and Analysis Optimization in 200 mm Pilot Line Environment | Anton Murros et al. | [2602.17135v1](http://arxiv.org/abs/2602.17135v1) | **NULL** |
+| **2026/02/23** | Spin-Orbit-Driven Topological Phase Transitions in Bipartite Nanoribbon Heterostructures | Hao-Ru Wu et al. | [2602.19568v2](http://arxiv.org/abs/2602.19568v2) | **NULL** |
