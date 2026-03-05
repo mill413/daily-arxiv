@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/04 10:11:12
+> Updated on 2026/03/05 10:22:22
 
 <summary>Table of Contents</summary>
 
@@ -18,7 +18,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
 | **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
-| **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v1](http://arxiv.org/abs/2603.00428v1) | **NULL** |
+| **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v2](http://arxiv.org/abs/2603.00428v2) | **NULL** |
 | **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
 | **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
 | **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/04** | Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2 | Mayank Joshi et al. | [2603.04082v1](http://arxiv.org/abs/2603.04082v1) | **NULL** |
+| **2026/03/04** | Contribution of remote bands to orbital magnetization in twisted bilayer graphene | Pinzhuo Li et al. | [2603.03702v1](http://arxiv.org/abs/2603.03702v1) | **NULL** |
+| **2026/03/03** | Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth | E. I. Titova et al. | [2603.03554v1](http://arxiv.org/abs/2603.03554v1) | **NULL** |
+| **2026/03/03** | Anomalous Klein tunnelling with magnetic barriers in strained graphene | Edgardo Marin-Colli et al. | [2603.03240v1](http://arxiv.org/abs/2603.03240v1) | **NULL** |
 | **2026/03/03** | Exploring stable long-lifetime plasmon excitations in the Lieb lattice | Andrii Iurov et al. | [2603.02523v1](http://arxiv.org/abs/2603.02523v1) | **NULL** |
 | **2026/03/02** | Graphene-capped bismuthene on SiC as a platform for correlated quantum spin Hall edge states | Huu Thoai Ngo et al. | [2603.02397v1](http://arxiv.org/abs/2603.02397v1) | **NULL** |
 | **2026/03/02** | Unveiling Davydov-Split Excitons in a Template-Engineered Molecular-Graphene Heterostructure | Jan Kunc et al. | [2603.02301v1](http://arxiv.org/abs/2603.02301v1) | **NULL** |
@@ -67,7 +71,7 @@ layout: default
 | **2026/02/27** | Spontaneous Fully Compensated Ferrimagnetism | Bingbing Wang et al. | [2602.24135v1](http://arxiv.org/abs/2602.24135v1) | **NULL** |
 | **2026/02/27** | Topological-Mass Control of an Emergent Kondo Scale in an Interacting SSH Chain | Ryosuke Yoshii et al. | [2602.23807v1](http://arxiv.org/abs/2602.23807v1) | **NULL** |
 | **2026/02/27** | Hidden in Plain Sight: Aromaticity of Hexagonal Boron Nitride | Suryakanti Debata et al. | [2602.23628v1](http://arxiv.org/abs/2602.23628v1) | **NULL** |
-| **2026/02/27** | Hierarchical symmetry breaking in Moiré graphene domain-wall networks | Xue Yan et al. | [2602.23570v1](http://arxiv.org/abs/2602.23570v1) | **NULL** |
+| **2026/02/27** | Hierarchical symmetry breaking in Moiré graphene domain-wall networks | Xue Yan et al. | [2602.23570v2](http://arxiv.org/abs/2602.23570v2) | **NULL** |
 | **2026/02/26** | Landau level spectroscopy in current solid state physics | Ana Akrap et al. | [2602.23129v1](http://arxiv.org/abs/2602.23129v1) | **NULL** |
 | **2026/02/26** | Machine Learning for Electron-phonon Interactions From Finite Difference | Zun Wang et al. | [2602.23084v1](http://arxiv.org/abs/2602.23084v1) | **NULL** |
 | **2026/02/25** | Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing | Suman Roy et al. | [2602.21986v1](http://arxiv.org/abs/2602.21986v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/02/24** | Lorentz-Violating Wormhole Optics | Omar Mustafa et al. | [2602.21264v1](http://arxiv.org/abs/2602.21264v1) | **NULL** |
 | **2026/02/24** | Complex dispersion lines in gapped bilayer graphene: Analytical expressions and shear-displacement effects on monolayer--bilayer--monolayer junction conductance | Ryo Tamura | [2602.20589v1](http://arxiv.org/abs/2602.20589v1) | **NULL** |
 | **2026/02/24** | Photogalvanic effect in few layer graphene | Zhaohang Li et al. | [2602.20454v1](http://arxiv.org/abs/2602.20454v1) | **NULL** |
-| **2026/02/23** | Electromotive entrainment of charge and heat currents in graphene | E. Kirkinis et al. | [2602.20251v1](http://arxiv.org/abs/2602.20251v1) | **NULL** |
-| **2026/02/23** | Electronic structure of Graphene/Co interfaces | Daniela Pacilé et al. | [2602.19955v1](http://arxiv.org/abs/2602.19955v1) | **NULL** |
-| **2026/02/23** | Suppressed Rupture of Thin Metal Films via van der Waals Epitaxy | Wenxiang Wang et al. | [2602.19827v1](http://arxiv.org/abs/2602.19827v1) | **NULL** |
-| **2026/02/23** | Spin-Orbit-Driven Topological Phase Transitions in Bipartite Nanoribbon Heterostructures | Hao-Ru Wu et al. | [2602.19568v2](http://arxiv.org/abs/2602.19568v2) | **NULL** |
