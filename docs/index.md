@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/05 10:22:22
+> Updated on 2026/03/07 10:06:46
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/05** | Real-Space Plasmon Imaging Reveals Modified Electronic Structure of Gold at the Monolayer Limit | Andrei Bylinkin et al. | [2603.05030v1](http://arxiv.org/abs/2603.05030v1) | **NULL** |
+| **2026/03/04** | Sub-wavelength mid-infrared imaging of locally driven photocurrents using diamond campanile probes | Rajasekhar Medapalli et al. | [2603.04318v1](http://arxiv.org/abs/2603.04318v1) | **NULL** |
+| **2026/03/04** | Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices | Josef Světlík et al. | [2603.04297v1](http://arxiv.org/abs/2603.04297v1) | **NULL** |
+| **2026/03/04** | Ab initio study of saddle-point excitons in monolayer SnS2 | Vinicius Alves Bastos et al. | [2603.04294v1](http://arxiv.org/abs/2603.04294v1) | **NULL** |
 | **2026/03/04** | Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2 | Mayank Joshi et al. | [2603.04082v1](http://arxiv.org/abs/2603.04082v1) | **NULL** |
 | **2026/03/04** | Contribution of remote bands to orbital magnetization in twisted bilayer graphene | Pinzhuo Li et al. | [2603.03702v1](http://arxiv.org/abs/2603.03702v1) | **NULL** |
 | **2026/03/03** | Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth | E. I. Titova et al. | [2603.03554v1](http://arxiv.org/abs/2603.03554v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/02/25** | Geometric oscillations of local Hall and Nernst effects in ballistic graphene at weak magnetic fields | Z. Z. Alisultanov et al. | [2602.21934v1](http://arxiv.org/abs/2602.21934v1) | **NULL** |
 | **2026/02/24** | Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores | Aaron H. Barajas-Aguilar et al. | [2602.21419v1](http://arxiv.org/abs/2602.21419v1) | **NULL** |
 | **2026/02/24** | Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics | Aleksander Bach Lorentzen et al. | [2602.20982v1](http://arxiv.org/abs/2602.20982v1) | **NULL** |
-| **2026/02/24** | Engineering of SnO2-Graphene Oxide Nano-Heterojunctions for Selective Room-temperature Chemical Sensing and Optoelectronic Devices | Eleonora Pargoletti et al. | [2602.20978v1](http://arxiv.org/abs/2602.20978v1) | **NULL** |
-| **2026/02/24** | Lorentz-Violating Wormhole Optics | Omar Mustafa et al. | [2602.21264v1](http://arxiv.org/abs/2602.21264v1) | **NULL** |
-| **2026/02/24** | Complex dispersion lines in gapped bilayer graphene: Analytical expressions and shear-displacement effects on monolayer--bilayer--monolayer junction conductance | Ryo Tamura | [2602.20589v1](http://arxiv.org/abs/2602.20589v1) | **NULL** |
-| **2026/02/24** | Photogalvanic effect in few layer graphene | Zhaohang Li et al. | [2602.20454v1](http://arxiv.org/abs/2602.20454v1) | **NULL** |
