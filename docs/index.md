@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/08 10:24:17
+> Updated on 2026/03/09 10:25:25
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/06** | Unifying description of competing chiral and nematic superconducting states in twisted bilayer graphene | Lucas Baldo et al. | [2603.06550v1](http://arxiv.org/abs/2603.06550v1) | **NULL** |
 | **2026/03/05** | Real-Space Plasmon Imaging Reveals Modified Electronic Structure of Gold at the Monolayer Limit | Andrei Bylinkin et al. | [2603.05030v1](http://arxiv.org/abs/2603.05030v1) | **NULL** |
 | **2026/03/04** | Sub-wavelength mid-infrared imaging of locally driven photocurrents using diamond campanile probes | Rajasekhar Medapalli et al. | [2603.04318v1](http://arxiv.org/abs/2603.04318v1) | **NULL** |
 | **2026/03/04** | Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices | Josef Světlík et al. | [2603.04297v1](http://arxiv.org/abs/2603.04297v1) | **NULL** |
@@ -81,4 +82,3 @@ layout: default
 | **2026/02/25** | Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing | Suman Roy et al. | [2602.21986v1](http://arxiv.org/abs/2602.21986v1) | **NULL** |
 | **2026/02/25** | Geometric oscillations of local Hall and Nernst effects in ballistic graphene at weak magnetic fields | Z. Z. Alisultanov et al. | [2602.21934v1](http://arxiv.org/abs/2602.21934v1) | **NULL** |
 | **2026/02/24** | Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores | Aaron H. Barajas-Aguilar et al. | [2602.21419v1](http://arxiv.org/abs/2602.21419v1) | **NULL** |
-| **2026/02/24** | Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics | Aleksander Bach Lorentzen et al. | [2602.20982v1](http://arxiv.org/abs/2602.20982v1) | **NULL** |
