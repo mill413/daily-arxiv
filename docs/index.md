@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/10 10:10:36
+> Updated on 2026/03/11 10:10:01
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
 | **2026/03/04** | Soft Equivariance Regularization for Invariant Self-Supervised Learning | Joohyung Lee et al. | [2603.06693v1](http://arxiv.org/abs/2603.06693v1) | **NULL** |
 | **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
 | **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v2](http://arxiv.org/abs/2603.00428v2) | **NULL** |
@@ -46,12 +47,15 @@ layout: default
 | **2026/01/18** | Magnetic field detections in massive systems at different stages of interaction | S. Hubrig et al. | [2601.12546v1](http://arxiv.org/abs/2601.12546v1) | **NULL** |
 | **2026/01/08** | Branch-width of connectivity functions is fixed-parameter tractable | Tuukka Korhonen et al. | [2601.04756v2](http://arxiv.org/abs/2601.04756v2) | **NULL** |
 | **2026/01/08** | When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict | Dawei Huang et al. | [2601.04564v1](http://arxiv.org/abs/2601.04564v1) | **NULL** |
-| **2026/01/07** | Enhanced-FQL($λ$), an Efficient and Interpretable RL with novel Fuzzy Eligibility Traces and Segmented Experience Replay | Mohsen Jalaeian-Farimani | [2601.04392v1](http://arxiv.org/abs/2601.04392v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/10** | Decoherence-free Behaviors of Quantum Emitters in Dissipative Photonic Graphene | Qing-Yang Qiu et al. | [2603.09700v1](http://arxiv.org/abs/2603.09700v1) | **NULL** |
+| **2026/03/10** | Interface Engineered Moiré Graphene Superlattices: Breaking the Auger Carrier Multiplication Limit for Infrared Single-Photon Detection | Sichao Du et al. | [2603.09366v1](http://arxiv.org/abs/2603.09366v1) | **NULL** |
+| **2026/03/10** | Structural and electronic signatures of strain-tunable marginally twisted bilayer graphene | Pei Ouyang et al. | [2603.09295v1](http://arxiv.org/abs/2603.09295v1) | **NULL** |
+| **2026/03/09** | Atomic-resolution imaging of gold species at organic liquid-solid interfaces | Sam Sullivan-Allsop et al. | [2603.08299v1](http://arxiv.org/abs/2603.08299v1) | **NULL** |
 | **2026/03/09** | All-in-plane image sensors free from readout integrated circuits | Kirill Kapralov et al. | [2603.08178v1](http://arxiv.org/abs/2603.08178v1) | **NULL** |
 | **2026/03/09** | Layer-Dependent Orbital Magnetization in Graphene-Haldane Heterostructures | Sovan Ghosh et al. | [2603.08170v1](http://arxiv.org/abs/2603.08170v1) | **NULL** |
 | **2026/03/08** | Optimizing quantum transport in multi-barrier graphene systems using differential evolution | Leon Browne et al. | [2603.07585v1](http://arxiv.org/abs/2603.07585v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/03/01** | Sub-Sharvin conductance and Josephson effect in graphene | Adam Rycerz | [2603.01269v1](http://arxiv.org/abs/2603.01269v1) | **NULL** |
 | **2026/03/01** | Unfolding Bloch States in Disordered Systems | T. Thuy Hoang et al. | [2603.00966v1](http://arxiv.org/abs/2603.00966v1) | **NULL** |
 | **2026/03/01** | Programmable Dirac masses in hybrid moiré--1D superlattices | Hanzhou Tan et al. | [2603.00862v1](http://arxiv.org/abs/2603.00862v1) | **NULL** |
-| **2026/02/28** | Non-equilibrium transport reveals energy level degeneracy | Artem O. Denisov et al. | [2603.00762v1](http://arxiv.org/abs/2603.00762v1) | **NULL** |
-| **2026/02/27** | Topology as a Design Variable for Multiproperty Engineering in Synthesized 4-5-6-8 Carbon Nanoribbons | Djardiel da S. Gomes et al. | [2603.00315v1](http://arxiv.org/abs/2603.00315v1) | **NULL** |
-| **2026/02/27** | Spontaneous Fully Compensated Ferrimagnetism | Bingbing Wang et al. | [2602.24135v1](http://arxiv.org/abs/2602.24135v1) | **NULL** |
-| **2026/02/27** | Topological-Mass Control of an Emergent Kondo Scale in an Interacting SSH Chain | Ryosuke Yoshii et al. | [2602.23807v1](http://arxiv.org/abs/2602.23807v1) | **NULL** |
