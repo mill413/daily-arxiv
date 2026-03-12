@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/11 10:10:01
+> Updated on 2026/03/12 10:23:05
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/11** | Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability | Quinn T. Campbell et al. | [2603.10968v1](http://arxiv.org/abs/2603.10968v1) | **NULL** |
+| **2026/03/11** | Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling | Jeyong Park et al. | [2603.10914v1](http://arxiv.org/abs/2603.10914v1) | **NULL** |
+| **2026/03/11** | Symmetry-directed electronic and optical properties in a two-dimensional square-lattice ZnPc-MOF | Zhonghui Han et al. | [2603.10482v1](http://arxiv.org/abs/2603.10482v1) | **NULL** |
+| **2026/03/11** | Do single-shot projective readouts necessarily estimate the $T_1$ lifetime ? | Aparajita Modak et al. | [2603.10447v1](http://arxiv.org/abs/2603.10447v1) | **NULL** |
+| **2026/03/11** | Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings | Raehyun Kim et al. | [2603.10433v1](http://arxiv.org/abs/2603.10433v1) | **NULL** |
 | **2026/03/10** | Decoherence-free Behaviors of Quantum Emitters in Dissipative Photonic Graphene | Qing-Yang Qiu et al. | [2603.09700v1](http://arxiv.org/abs/2603.09700v1) | **NULL** |
 | **2026/03/10** | Interface Engineered Moiré Graphene Superlattices: Breaking the Auger Carrier Multiplication Limit for Infrared Single-Photon Detection | Sichao Du et al. | [2603.09366v1](http://arxiv.org/abs/2603.09366v1) | **NULL** |
 | **2026/03/10** | Structural and electronic signatures of strain-tunable marginally twisted bilayer graphene | Pei Ouyang et al. | [2603.09295v1](http://arxiv.org/abs/2603.09295v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/03/02** | Unveiling Davydov-Split Excitons in a Template-Engineered Molecular-Graphene Heterostructure | Jan Kunc et al. | [2603.02301v1](http://arxiv.org/abs/2603.02301v1) | **NULL** |
 | **2026/03/02** | Scalable tight-binding model for strained graphene | Ming-Hao Liu et al. | [2603.02077v1](http://arxiv.org/abs/2603.02077v1) | **NULL** |
 | **2026/03/02** | Layer-polarized Transport via Gate-defined 1D and 0D PN Junctions in Double Bilayer Graphene | Wei Ren et al. | [2603.01963v1](http://arxiv.org/abs/2603.01963v1) | **NULL** |
-| **2026/03/02** | Insulating Electronic States Near the Dirac Point Arising from Twisted Stacking and Curvature in 3D Nanoporous Graphene | Yoichi Tanabe et al. | [2603.01522v1](http://arxiv.org/abs/2603.01522v1) | **NULL** |
-| **2026/03/02** | Valleytronics in 2D Materials Roadmap | Kyle L. Seyler et al. | [2603.01427v1](http://arxiv.org/abs/2603.01427v1) | **NULL** |
-| **2026/03/01** | Sub-Sharvin conductance and Josephson effect in graphene | Adam Rycerz | [2603.01269v1](http://arxiv.org/abs/2603.01269v1) | **NULL** |
-| **2026/03/01** | Unfolding Bloch States in Disordered Systems | T. Thuy Hoang et al. | [2603.00966v1](http://arxiv.org/abs/2603.00966v1) | **NULL** |
-| **2026/03/01** | Programmable Dirac masses in hybrid moiré--1D superlattices | Hanzhou Tan et al. | [2603.00862v1](http://arxiv.org/abs/2603.00862v1) | **NULL** |
