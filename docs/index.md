@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/15 10:37:20
+> Updated on 2026/03/16 10:38:02
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/13** | Every 3-connected $\{K_{1,4},K_{1,4}+e\}$-free split graph of order at least 13 is Hamilton-connected | Tao Tian et al. | [2603.12770v1](http://arxiv.org/abs/2603.12770v1) | **NULL** |
 | **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
 | **2026/03/04** | Soft Equivariance Regularization for Invariant Self-Supervised Learning | Joohyung Lee et al. | [2603.06693v1](http://arxiv.org/abs/2603.06693v1) | **NULL** |
 | **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
@@ -46,12 +47,13 @@ layout: default
 | **2026/01/19** | Sel-assembled Rhodium Nanoantennas for Single-Protein UV SERS | Yanqiu Zou et al. | [2601.13043v1](http://arxiv.org/abs/2601.13043v1) | **NULL** |
 | **2026/01/18** | Magnetic field detections in massive systems at different stages of interaction | S. Hubrig et al. | [2601.12546v1](http://arxiv.org/abs/2601.12546v1) | **NULL** |
 | **2026/01/08** | Branch-width of connectivity functions is fixed-parameter tractable | Tuukka Korhonen et al. | [2601.04756v2](http://arxiv.org/abs/2601.04756v2) | **NULL** |
-| **2026/01/08** | When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict | Dawei Huang et al. | [2601.04564v1](http://arxiv.org/abs/2601.04564v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/13** | Topological electric field-defined quantum dots in bilayer graphene: An atomistic approach | Wlodzimierz Jaskolski | [2603.13055v1](http://arxiv.org/abs/2603.13055v1) | **NULL** |
+| **2026/03/12** | Crystallizing electrons with artificially patterned lattices | Trevor G. Stanfill et al. | [2603.12489v1](http://arxiv.org/abs/2603.12489v1) | **NULL** |
 | **2026/03/12** | Rainbow Scattering from Graphene | Carolin Frank et al. | [2603.11672v1](http://arxiv.org/abs/2603.11672v1) | **NULL** |
 | **2026/03/12** | Primitive-cell-resolved Crystallography for Moiré Bilayers from Imaging | Zhidan Li et al. | [2603.11671v1](http://arxiv.org/abs/2603.11671v1) | **NULL** |
 | **2026/03/11** | Controlled localization of anyons in a graphene quantum Hall interferometer | Christina E. Henzinger et al. | [2603.11182v1](http://arxiv.org/abs/2603.11182v1) | **NULL** |
@@ -59,7 +61,7 @@ layout: default
 | **2026/03/11** | Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability | Quinn T. Campbell et al. | [2603.10968v1](http://arxiv.org/abs/2603.10968v1) | **NULL** |
 | **2026/03/11** | Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling | Jeyong Park et al. | [2603.10914v1](http://arxiv.org/abs/2603.10914v1) | **NULL** |
 | **2026/03/11** | Symmetry-directed electronic and optical properties in a two-dimensional square-lattice ZnPc-MOF | Zhonghui Han et al. | [2603.10482v1](http://arxiv.org/abs/2603.10482v1) | **NULL** |
-| **2026/03/11** | Do single-shot projective readouts necessarily estimate the $T_1$ lifetime ? | Aparajita Modak et al. | [2603.10447v1](http://arxiv.org/abs/2603.10447v1) | **NULL** |
+| **2026/03/11** | Do single-shot projective readouts necessarily estimate the $T_1$ lifetime ? | Aparajita Modak et al. | [2603.10447v2](http://arxiv.org/abs/2603.10447v2) | **NULL** |
 | **2026/03/11** | Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings | Raehyun Kim et al. | [2603.10433v1](http://arxiv.org/abs/2603.10433v1) | **NULL** |
 | **2026/03/10** | Decoherence-free Behaviors of Quantum Emitters in Dissipative Photonic Graphene | Qing-Yang Qiu et al. | [2603.09700v1](http://arxiv.org/abs/2603.09700v1) | **NULL** |
 | **2026/03/10** | Interface Engineered Moiré Graphene Superlattices: Breaking the Auger Carrier Multiplication Limit for Infrared Single-Photon Detection | Sichao Du et al. | [2603.09366v1](http://arxiv.org/abs/2603.09366v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/03/04** | Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2 | Mayank Joshi et al. | [2603.04082v1](http://arxiv.org/abs/2603.04082v1) | **NULL** |
 | **2026/03/04** | Contribution of remote bands to orbital magnetization in twisted bilayer graphene | Pinzhuo Li et al. | [2603.03702v1](http://arxiv.org/abs/2603.03702v1) | **NULL** |
 | **2026/03/03** | Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth | E. I. Titova et al. | [2603.03554v2](http://arxiv.org/abs/2603.03554v2) | **NULL** |
-| **2026/03/03** | Anomalous Klein tunnelling with magnetic barriers in strained graphene | Edgardo Marin-Colli et al. | [2603.03240v1](http://arxiv.org/abs/2603.03240v1) | **NULL** |
-| **2026/03/03** | Exploring stable long-lifetime plasmon excitations in the Lieb lattice | Andrii Iurov et al. | [2603.02523v1](http://arxiv.org/abs/2603.02523v1) | **NULL** |
