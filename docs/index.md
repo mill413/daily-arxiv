@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/16 10:38:02
+> Updated on 2026/03/17 10:23:24
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/16** | Hybrid Tribo/piezoelectic Electrospun Nanofibers for Energy Harvesting Enhancement in Flexible Electronics | Hao Zhang et al. | [2603.14857v1](http://arxiv.org/abs/2603.14857v1) | **NULL** |
+| **2026/03/16** | Predicting electron-phonon coupling and electronic transport at the moiré scale in twisted bilayer graphene | David J. Abramovitch et al. | [2603.14800v1](http://arxiv.org/abs/2603.14800v1) | **NULL** |
+| **2026/03/16** | Neural network backflow for ab-initio solid calculations | An-Jun Liu et al. | [2603.14775v1](http://arxiv.org/abs/2603.14775v1) | **NULL** |
+| **2026/03/15** | Gas sensing potential of stacked graphene/h-BN structures: a DFT-based investigation | Martin Siebel et al. | [2603.14530v1](http://arxiv.org/abs/2603.14530v1) | **NULL** |
+| **2026/03/14** | Vacuum Wannier Functions for First-Principles Scattering and Photoemission | Tyler Wu et al. | [2603.14105v1](http://arxiv.org/abs/2603.14105v1) | **NULL** |
+| **2026/03/13** | AI assisted optimization of integrated waveguide polarizers containing 2D reduced graphene oxide | Rong Wang et al. | [2603.13658v1](http://arxiv.org/abs/2603.13658v1) | **NULL** |
+| **2026/03/13** | Magnetic-field-induced superconductivity in hexalayer rhombohedral graphene | Jinghao Deng et al. | [2603.13498v1](http://arxiv.org/abs/2603.13498v1) | **NULL** |
+| **2026/03/13** | Ultrafast photo-thermoelectric currents in graphene junctions in the mid-infrared | Nina Pettinger et al. | [2603.13457v1](http://arxiv.org/abs/2603.13457v1) | **NULL** |
 | **2026/03/13** | Topological electric field-defined quantum dots in bilayer graphene: An atomistic approach | Wlodzimierz Jaskolski | [2603.13055v1](http://arxiv.org/abs/2603.13055v1) | **NULL** |
 | **2026/03/12** | Crystallizing electrons with artificially patterned lattices | Trevor G. Stanfill et al. | [2603.12489v1](http://arxiv.org/abs/2603.12489v1) | **NULL** |
 | **2026/03/12** | Rainbow Scattering from Graphene | Carolin Frank et al. | [2603.11672v1](http://arxiv.org/abs/2603.11672v1) | **NULL** |
@@ -74,11 +82,3 @@ layout: default
 | **2026/03/08** | AI based design of 2D material integrated optical polarizers | Rong Wang et al. | [2603.07410v1](http://arxiv.org/abs/2603.07410v1) | **NULL** |
 | **2026/03/07** | Hybrid light-matter excitations and spontaneous time-reversal symmetry breaking in two-dimensional Josephson Junctions | V. Varrica et al. | [2603.07256v1](http://arxiv.org/abs/2603.07256v1) | **NULL** |
 | **2026/03/07** | Thermal Properties of Gauge-Invariant Graphene in Noncommutative Phase-Space | Ilyas Haouam | [2603.07200v1](http://arxiv.org/abs/2603.07200v1) | **NULL** |
-| **2026/03/06** | Unifying description of competing chiral and nematic superconducting states in twisted bilayer graphene | Lucas Baldo et al. | [2603.06550v1](http://arxiv.org/abs/2603.06550v1) | **NULL** |
-| **2026/03/05** | Real-Space Plasmon Imaging Reveals Modified Electronic Structure of Gold at the Monolayer Limit | Andrei Bylinkin et al. | [2603.05030v1](http://arxiv.org/abs/2603.05030v1) | **NULL** |
-| **2026/03/04** | Sub-wavelength mid-infrared imaging of locally driven photocurrents using diamond campanile probes | Rajasekhar Medapalli et al. | [2603.04318v1](http://arxiv.org/abs/2603.04318v1) | **NULL** |
-| **2026/03/04** | Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices | Josef Světlík et al. | [2603.04297v1](http://arxiv.org/abs/2603.04297v1) | **NULL** |
-| **2026/03/04** | Ab initio study of saddle-point excitons in monolayer SnS2 | Vinicius Alves Bastos et al. | [2603.04294v1](http://arxiv.org/abs/2603.04294v1) | **NULL** |
-| **2026/03/04** | Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2 | Mayank Joshi et al. | [2603.04082v1](http://arxiv.org/abs/2603.04082v1) | **NULL** |
-| **2026/03/04** | Contribution of remote bands to orbital magnetization in twisted bilayer graphene | Pinzhuo Li et al. | [2603.03702v1](http://arxiv.org/abs/2603.03702v1) | **NULL** |
-| **2026/03/03** | Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth | E. I. Titova et al. | [2603.03554v2](http://arxiv.org/abs/2603.03554v2) | **NULL** |
