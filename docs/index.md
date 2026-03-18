@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/17 10:23:24
+> Updated on 2026/03/18 10:28:15
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
+| **2026/03/16** | How Attention Shapes Emotion: A Comparative Study of Attention Mechanisms for Speech Emotion Recognition | Marc Casals-Salvador et al. | [2603.15120v1](http://arxiv.org/abs/2603.15120v1) | **NULL** |
+| **2026/03/16** | Counting color-critical subgraphs under Nikiforov's condition | Longfei Fang et al. | [2603.14964v1](http://arxiv.org/abs/2603.14964v1) | **NULL** |
 | **2026/03/13** | Every 3-connected $\{K_{1,4},K_{1,4}+e\}$-free split graph of order at least 13 is Hamilton-connected | Tao Tian et al. | [2603.12770v1](http://arxiv.org/abs/2603.12770v1) | **NULL** |
 | **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
 | **2026/03/04** | Soft Equivariance Regularization for Invariant Self-Supervised Learning | Joohyung Lee et al. | [2603.06693v1](http://arxiv.org/abs/2603.06693v1) | **NULL** |
@@ -41,17 +44,22 @@ layout: default
 | **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v3](http://arxiv.org/abs/2601.17901v3) | **NULL** |
 | **2026/01/23** | Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration | Esther Sun et al. | [2601.17085v1](http://arxiv.org/abs/2601.17085v1) | **NULL** |
 | **2026/01/23** | Distinguishing Hot-Electron and Optomechanical Pathways at Metal-Molecule Interfaces | Bing Gao et al. | [2601.16445v1](http://arxiv.org/abs/2601.16445v1) | **NULL** |
-| **2026/01/22** | EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning | Dingdong Wang et al. | [2601.15668v1](http://arxiv.org/abs/2601.15668v1) | **NULL** |
+| **2026/01/22** | EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning | Dingdong Wang et al. | [2601.15668v2](http://arxiv.org/abs/2601.15668v2) | **NULL** |
 | **2026/01/21** | Test-Time Adaptation for Speech Emotion Recognition | Jiaheng Dong et al. | [2601.16240v1](http://arxiv.org/abs/2601.16240v1) | **NULL** |
 | **2026/01/21** | Alternative Shapes of Modulation Schemes Detailed Exposition and Simulation Methodology | Nipun Agarwal | [2601.15004v1](http://arxiv.org/abs/2601.15004v1) | **NULL** |
-| **2026/01/19** | Sel-assembled Rhodium Nanoantennas for Single-Protein UV SERS | Yanqiu Zou et al. | [2601.13043v1](http://arxiv.org/abs/2601.13043v1) | **NULL** |
-| **2026/01/18** | Magnetic field detections in massive systems at different stages of interaction | S. Hubrig et al. | [2601.12546v1](http://arxiv.org/abs/2601.12546v1) | **NULL** |
-| **2026/01/08** | Branch-width of connectivity functions is fixed-parameter tractable | Tuukka Korhonen et al. | [2601.04756v2](http://arxiv.org/abs/2601.04756v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/17** | Majorana Crystal in Rhombohedral Graphene | Chiho Yoon et al. | [2603.16828v1](http://arxiv.org/abs/2603.16828v1) | **NULL** |
+| **2026/03/17** | Low bending rigidity and large Young's modulus drive strong flexural phonon renormalization in two-dimensional monolayers | Navaneetha K Ravichandran | [2603.16717v1](http://arxiv.org/abs/2603.16717v1) | **NULL** |
+| **2026/03/17** | Correlated Quantum Phenomena in Confined Two-Dimensional Hexagonal Crystals | Xiang Liua et al. | [2603.16677v1](http://arxiv.org/abs/2603.16677v1) | **NULL** |
+| **2026/03/17** | Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures | Johannes Gradl et al. | [2603.16247v1](http://arxiv.org/abs/2603.16247v1) | **NULL** |
+| **2026/03/16** | Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study | Samayita Das et al. | [2603.15906v1](http://arxiv.org/abs/2603.15906v1) | **NULL** |
+| **2026/03/16** | Tailoring spontaneous symmetry breaking in engineered van der Waals superlattices | Keda Jin et al. | [2603.15787v1](http://arxiv.org/abs/2603.15787v1) | **NULL** |
+| **2026/03/16** | Flat-Band Generation in InAs/GaSb Quantum Wells through Vertically Engineered Heterostructures | Zachery A. Enderson et al. | [2603.15593v1](http://arxiv.org/abs/2603.15593v1) | **NULL** |
+| **2026/03/16** | Low-frequency noise as a probe of microscopic disorder in CVD-grown graphene | Jagadis Prasad Nayak et al. | [2603.15327v1](http://arxiv.org/abs/2603.15327v1) | **NULL** |
 | **2026/03/16** | Hybrid Tribo/piezoelectic Electrospun Nanofibers for Energy Harvesting Enhancement in Flexible Electronics | Hao Zhang et al. | [2603.14857v1](http://arxiv.org/abs/2603.14857v1) | **NULL** |
 | **2026/03/16** | Predicting electron-phonon coupling and electronic transport at the moiré scale in twisted bilayer graphene | David J. Abramovitch et al. | [2603.14800v1](http://arxiv.org/abs/2603.14800v1) | **NULL** |
 | **2026/03/16** | Neural network backflow for ab-initio solid calculations | An-Jun Liu et al. | [2603.14775v1](http://arxiv.org/abs/2603.14775v1) | **NULL** |
@@ -59,6 +67,7 @@ layout: default
 | **2026/03/14** | Vacuum Wannier Functions for First-Principles Scattering and Photoemission | Tyler Wu et al. | [2603.14105v1](http://arxiv.org/abs/2603.14105v1) | **NULL** |
 | **2026/03/13** | AI assisted optimization of integrated waveguide polarizers containing 2D reduced graphene oxide | Rong Wang et al. | [2603.13658v1](http://arxiv.org/abs/2603.13658v1) | **NULL** |
 | **2026/03/13** | Magnetic-field-induced superconductivity in hexalayer rhombohedral graphene | Jinghao Deng et al. | [2603.13498v1](http://arxiv.org/abs/2603.13498v1) | **NULL** |
+| **2026/03/13** | Production of Low-Density Aerogel Nuclear Fuels for Use in Fission Fragment Rockets and Novel Reactor Design | Noah D'Amico et al. | [2603.15673v1](http://arxiv.org/abs/2603.15673v1) | **NULL** |
 | **2026/03/13** | Ultrafast photo-thermoelectric currents in graphene junctions in the mid-infrared | Nina Pettinger et al. | [2603.13457v1](http://arxiv.org/abs/2603.13457v1) | **NULL** |
 | **2026/03/13** | Topological electric field-defined quantum dots in bilayer graphene: An atomistic approach | Wlodzimierz Jaskolski | [2603.13055v1](http://arxiv.org/abs/2603.13055v1) | **NULL** |
 | **2026/03/12** | Crystallizing electrons with artificially patterned lattices | Trevor G. Stanfill et al. | [2603.12489v1](http://arxiv.org/abs/2603.12489v1) | **NULL** |
@@ -73,12 +82,3 @@ layout: default
 | **2026/03/11** | Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings | Raehyun Kim et al. | [2603.10433v1](http://arxiv.org/abs/2603.10433v1) | **NULL** |
 | **2026/03/10** | Decoherence-free Behaviors of Quantum Emitters in Dissipative Photonic Graphene | Qing-Yang Qiu et al. | [2603.09700v1](http://arxiv.org/abs/2603.09700v1) | **NULL** |
 | **2026/03/10** | Interface Engineered Moiré Graphene Superlattices: Breaking the Auger Carrier Multiplication Limit for Infrared Single-Photon Detection | Sichao Du et al. | [2603.09366v1](http://arxiv.org/abs/2603.09366v1) | **NULL** |
-| **2026/03/10** | Structural and electronic signatures of strain-tunable marginally twisted bilayer graphene | Pei Ouyang et al. | [2603.09295v1](http://arxiv.org/abs/2603.09295v1) | **NULL** |
-| **2026/03/09** | Atomic-resolution imaging of gold species at organic liquid-solid interfaces | Sam Sullivan-Allsop et al. | [2603.08299v1](http://arxiv.org/abs/2603.08299v1) | **NULL** |
-| **2026/03/09** | All-in-plane image sensors free from readout integrated circuits | Kirill Kapralov et al. | [2603.08178v1](http://arxiv.org/abs/2603.08178v1) | **NULL** |
-| **2026/03/09** | Layer-Dependent Orbital Magnetization in Graphene-Haldane Heterostructures | Sovan Ghosh et al. | [2603.08170v1](http://arxiv.org/abs/2603.08170v1) | **NULL** |
-| **2026/03/08** | Optimizing quantum transport in multi-barrier graphene systems using differential evolution | Leon Browne et al. | [2603.07585v1](http://arxiv.org/abs/2603.07585v1) | **NULL** |
-| **2026/03/08** | Supercontinuum generation in 2D graphene oxide film coated SiN waveguides | David J. Moss | [2603.07440v1](http://arxiv.org/abs/2603.07440v1) | **NULL** |
-| **2026/03/08** | AI based design of 2D material integrated optical polarizers | Rong Wang et al. | [2603.07410v1](http://arxiv.org/abs/2603.07410v1) | **NULL** |
-| **2026/03/07** | Hybrid light-matter excitations and spontaneous time-reversal symmetry breaking in two-dimensional Josephson Junctions | V. Varrica et al. | [2603.07256v1](http://arxiv.org/abs/2603.07256v1) | **NULL** |
-| **2026/03/07** | Thermal Properties of Gauge-Invariant Graphene in Noncommutative Phase-Space | Ilyas Haouam | [2603.07200v1](http://arxiv.org/abs/2603.07200v1) | **NULL** |
