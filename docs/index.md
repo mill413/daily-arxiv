@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/19 10:29:18
+> Updated on 2026/03/20 10:22:10
 
 <summary>Table of Contents</summary>
 
@@ -17,7 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2026/03/18** | On the structures of \{diamond, bowtie\}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v1](http://arxiv.org/abs/2603.17645v1) | **NULL** |
+| **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v1](http://arxiv.org/abs/2603.18915v1) | **NULL** |
+| **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 | **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
 | **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
 | **2026/03/16** | How Attention Shapes Emotion: A Comparative Study of Attention Mechanisms for Speech Emotion Recognition | Marc Casals-Salvador et al. | [2603.15120v1](http://arxiv.org/abs/2603.15120v1) | **NULL** |
@@ -46,12 +47,13 @@ layout: default
 | **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v3](http://arxiv.org/abs/2601.17901v3) | **NULL** |
 | **2026/01/23** | Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration | Esther Sun et al. | [2601.17085v1](http://arxiv.org/abs/2601.17085v1) | **NULL** |
 | **2026/01/23** | Distinguishing Hot-Electron and Optomechanical Pathways at Metal-Molecule Interfaces | Bing Gao et al. | [2601.16445v1](http://arxiv.org/abs/2601.16445v1) | **NULL** |
-| **2026/01/22** | EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning | Dingdong Wang et al. | [2601.15668v2](http://arxiv.org/abs/2601.15668v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/19** | Longitudinal Nonreciprocal Charge Transport with Time Reversal Symmetry | Harsh Varshney et al. | [2603.18823v1](http://arxiv.org/abs/2603.18823v1) | **NULL** |
+| **2026/03/18** | In-plane magnetic response and Maki parameter of alternating-twist multilayers | Igor Vasilevskiy et al. | [2603.18194v1](http://arxiv.org/abs/2603.18194v1) | **NULL** |
 | **2026/03/18** | Angle-Resolved Berry Curvature via Nonlinear Hall Effect of Ballistic Electrons | Louis Primeau et al. | [2603.17972v1](http://arxiv.org/abs/2603.17972v1) | **NULL** |
 | **2026/03/18** | Non-Fermi-liquid behaviour of electrons coupled to gauge phonons | Rutvij Gholap et al. | [2603.17937v1](http://arxiv.org/abs/2603.17937v1) | **NULL** |
 | **2026/03/17** | Ultra-Thin Aluminum-Doped Silver for Transmissive Thermally Reconfigurable Visible Photonics | Hongyi Sun et al. | [2603.17042v1](http://arxiv.org/abs/2603.17042v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/03/11** | Controlled localization of anyons in a graphene quantum Hall interferometer | Christina E. Henzinger et al. | [2603.11182v1](http://arxiv.org/abs/2603.11182v1) | **NULL** |
 | **2026/03/11** | Imaging flat band electron hydrodynamics in biased bilayer graphene | Canxun Zhang et al. | [2603.11175v1](http://arxiv.org/abs/2603.11175v1) | **NULL** |
 | **2026/03/11** | Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability | Quinn T. Campbell et al. | [2603.10968v1](http://arxiv.org/abs/2603.10968v1) | **NULL** |
-| **2026/03/11** | Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling | Jeyong Park et al. | [2603.10914v1](http://arxiv.org/abs/2603.10914v1) | **NULL** |
-| **2026/03/11** | Symmetry-directed electronic and optical properties in a two-dimensional square-lattice ZnPc-MOF | Zhonghui Han et al. | [2603.10482v1](http://arxiv.org/abs/2603.10482v1) | **NULL** |
