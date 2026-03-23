@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/21 10:09:16
+> Updated on 2026/03/23 10:30:19
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/20** | Reply to: Comment on "Electric conductivity of graphene: Kubo model versus a nonlocal quantum field theory model" | Pablo Rodriguez-Lopez et al. | [2603.19982v1](http://arxiv.org/abs/2603.19982v1) | **NULL** |
+| **2026/03/20** | Interfacial Charge Transfer Driven Enhanced Transport and Thermal Stability in Graphene-MoS2 Vertical Heterostructure Field-Effect Transistors | Ashis Kumar Panigrahi et al. | [2603.19937v1](http://arxiv.org/abs/2603.19937v1) | **NULL** |
+| **2026/03/20** | Flying qubits Surfing on Plasmons | D. C. Glattli et al. | [2603.19720v1](http://arxiv.org/abs/2603.19720v1) | **NULL** |
+| **2026/03/20** | Commensurate moiré superlattices in anisotropically strained twisted bilayer graphene | Ayan Mondal et al. | [2603.19694v1](http://arxiv.org/abs/2603.19694v1) | **NULL** |
+| **2026/03/19** | Auxetic Response in Two-Dimensional MXenes with Atomically Defined Perforations | Hossein Darban | [2603.19436v1](http://arxiv.org/abs/2603.19436v1) | **NULL** |
 | **2026/03/19** | Longitudinal Nonreciprocal Charge Transport with Time Reversal Symmetry | Harsh Varshney et al. | [2603.18823v1](http://arxiv.org/abs/2603.18823v1) | **NULL** |
 | **2026/03/18** | In-plane magnetic response and Maki parameter of alternating-twist multilayers | Igor Vasilevskiy et al. | [2603.18194v1](http://arxiv.org/abs/2603.18194v1) | **NULL** |
 | **2026/03/18** | Angle-Resolved Berry Curvature via Nonlinear Hall Effect of Ballistic Electrons | Louis Primeau et al. | [2603.17972v1](http://arxiv.org/abs/2603.17972v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/03/13** | Ultrafast photo-thermoelectric currents in graphene junctions in the mid-infrared | Nina Pettinger et al. | [2603.13457v1](http://arxiv.org/abs/2603.13457v1) | **NULL** |
 | **2026/03/13** | Topological electric field-defined quantum dots in bilayer graphene: An atomistic approach | Wlodzimierz Jaskolski | [2603.13055v1](http://arxiv.org/abs/2603.13055v1) | **NULL** |
 | **2026/03/12** | Crystallizing electrons with artificially patterned lattices | Trevor G. Stanfill et al. | [2603.12489v1](http://arxiv.org/abs/2603.12489v1) | **NULL** |
-| **2026/03/12** | Rainbow Scattering from Graphene | Carolin Frank et al. | [2603.11672v1](http://arxiv.org/abs/2603.11672v1) | **NULL** |
-| **2026/03/12** | Primitive-cell-resolved Crystallography for Moiré Bilayers from Imaging | Zhidan Li et al. | [2603.11671v1](http://arxiv.org/abs/2603.11671v1) | **NULL** |
-| **2026/03/11** | Controlled localization of anyons in a graphene quantum Hall interferometer | Christina E. Henzinger et al. | [2603.11182v1](http://arxiv.org/abs/2603.11182v1) | **NULL** |
-| **2026/03/11** | Imaging flat band electron hydrodynamics in biased bilayer graphene | Canxun Zhang et al. | [2603.11175v1](http://arxiv.org/abs/2603.11175v1) | **NULL** |
-| **2026/03/11** | Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability | Quinn T. Campbell et al. | [2603.10968v1](http://arxiv.org/abs/2603.10968v1) | **NULL** |
