@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/23 10:30:19
+> Updated on 2026/03/24 10:22:34
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
 | **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v1](http://arxiv.org/abs/2603.18915v1) | **NULL** |
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 | **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
@@ -46,12 +47,21 @@ layout: default
 | **2026/01/28** | Gen-SER: When the generative model meets speech emotion recognition | Taihui Wang et al. | [2601.20573v1](http://arxiv.org/abs/2601.20573v1) | **NULL** |
 | **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v3](http://arxiv.org/abs/2601.17901v3) | **NULL** |
 | **2026/01/23** | Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration | Esther Sun et al. | [2601.17085v1](http://arxiv.org/abs/2601.17085v1) | **NULL** |
-| **2026/01/23** | Distinguishing Hot-Electron and Optomechanical Pathways at Metal-Molecule Interfaces | Bing Gao et al. | [2601.16445v1](http://arxiv.org/abs/2601.16445v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/23** | Electrically controllable valence-conduction band reversals in helical trilayer graphene | Matan Bocarsly et al. | [2603.21973v1](http://arxiv.org/abs/2603.21973v1) | **NULL** |
+| **2026/03/23** | Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates | Carmelo Civello et al. | [2603.21907v1](http://arxiv.org/abs/2603.21907v1) | **NULL** |
+| **2026/03/23** | A closed-loop platform for the design and nanoscale imaging of GHz acoustic metamaterials | Federico Maccagno et al. | [2603.21744v1](http://arxiv.org/abs/2603.21744v1) | **NULL** |
+| **2026/03/22** | Lossless propagation of PT graphene plasmons | Andrianos Sygrimis et al. | [2603.21274v1](http://arxiv.org/abs/2603.21274v1) | **NULL** |
+| **2026/03/21** | Super-Klein tunneling in 2D Lorentzian-type barriers in graphene | Alonso Contreras-Astorga et al. | [2603.20950v1](http://arxiv.org/abs/2603.20950v1) | **NULL** |
+| **2026/03/21** | Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm | Xiaoting Zhou et al. | [2603.20852v1](http://arxiv.org/abs/2603.20852v1) | **NULL** |
+| **2026/03/21** | Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands | Yi-Chun Hung et al. | [2603.20849v1](http://arxiv.org/abs/2603.20849v1) | **NULL** |
+| **2026/03/21** | Multiscale Violation of Onsager Reciprocity: Thermomechanical Proof, Atomic Evidence, and Graphene Predictions | Monty Dabas | [2603.20773v1](http://arxiv.org/abs/2603.20773v1) | **NULL** |
+| **2026/03/20** | A cellular automaton model for thermal transport in low-dimensional systems | Alejandra León | [2603.20522v1](http://arxiv.org/abs/2603.20522v1) | **NULL** |
+| **2026/03/20** | Gate-tunable synthetic antiferromagnetism with nonrelativistic spin splitting in a graphene/MnS/graphene heterostructure | Marko Milivojević et al. | [2603.20458v1](http://arxiv.org/abs/2603.20458v1) | **NULL** |
 | **2026/03/20** | Reply to: Comment on "Electric conductivity of graphene: Kubo model versus a nonlocal quantum field theory model" | Pablo Rodriguez-Lopez et al. | [2603.19982v1](http://arxiv.org/abs/2603.19982v1) | **NULL** |
 | **2026/03/20** | Interfacial Charge Transfer Driven Enhanced Transport and Thermal Stability in Graphene-MoS2 Vertical Heterostructure Field-Effect Transistors | Ashis Kumar Panigrahi et al. | [2603.19937v1](http://arxiv.org/abs/2603.19937v1) | **NULL** |
 | **2026/03/20** | Flying qubits Surfing on Plasmons | D. C. Glattli et al. | [2603.19720v1](http://arxiv.org/abs/2603.19720v1) | **NULL** |
@@ -72,13 +82,3 @@ layout: default
 | **2026/03/16** | Flat-Band Generation in InAs/GaSb Quantum Wells through Vertically Engineered Heterostructures | Zachery A. Enderson et al. | [2603.15593v1](http://arxiv.org/abs/2603.15593v1) | **NULL** |
 | **2026/03/16** | Low-frequency noise as a probe of microscopic disorder in CVD-grown graphene | Jagadis Prasad Nayak et al. | [2603.15327v1](http://arxiv.org/abs/2603.15327v1) | **NULL** |
 | **2026/03/16** | Hybrid Tribo/piezoelectic Electrospun Nanofibers for Energy Harvesting Enhancement in Flexible Electronics | Hao Zhang et al. | [2603.14857v1](http://arxiv.org/abs/2603.14857v1) | **NULL** |
-| **2026/03/16** | Predicting electron-phonon coupling and electronic transport at the moiré scale in twisted bilayer graphene | David J. Abramovitch et al. | [2603.14800v1](http://arxiv.org/abs/2603.14800v1) | **NULL** |
-| **2026/03/16** | Neural network backflow for ab-initio solid calculations | An-Jun Liu et al. | [2603.14775v1](http://arxiv.org/abs/2603.14775v1) | **NULL** |
-| **2026/03/15** | Gas sensing potential of stacked graphene/h-BN structures: a DFT-based investigation | Martin Siebel et al. | [2603.14530v1](http://arxiv.org/abs/2603.14530v1) | **NULL** |
-| **2026/03/14** | Vacuum Wannier Functions for First-Principles Scattering and Photoemission | Tyler Wu et al. | [2603.14105v1](http://arxiv.org/abs/2603.14105v1) | **NULL** |
-| **2026/03/13** | AI assisted optimization of integrated waveguide polarizers containing 2D reduced graphene oxide | Rong Wang et al. | [2603.13658v1](http://arxiv.org/abs/2603.13658v1) | **NULL** |
-| **2026/03/13** | Magnetic-field-induced superconductivity in hexalayer rhombohedral graphene | Jinghao Deng et al. | [2603.13498v1](http://arxiv.org/abs/2603.13498v1) | **NULL** |
-| **2026/03/13** | Production of Low-Density Aerogel Nuclear Fuels for Use in Fission Fragment Rockets and Novel Reactor Design | Noah D'Amico et al. | [2603.15673v1](http://arxiv.org/abs/2603.15673v1) | **NULL** |
-| **2026/03/13** | Ultrafast photo-thermoelectric currents in graphene junctions in the mid-infrared | Nina Pettinger et al. | [2603.13457v1](http://arxiv.org/abs/2603.13457v1) | **NULL** |
-| **2026/03/13** | Topological electric field-defined quantum dots in bilayer graphene: An atomistic approach | Wlodzimierz Jaskolski | [2603.13055v1](http://arxiv.org/abs/2603.13055v1) | **NULL** |
-| **2026/03/12** | Crystallizing electrons with artificially patterned lattices | Trevor G. Stanfill et al. | [2603.12489v1](http://arxiv.org/abs/2603.12489v1) | **NULL** |
