@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/24 10:22:34
+> Updated on 2026/03/25 10:27:29
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
+| **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
 | **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
 | **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v1](http://arxiv.org/abs/2603.18915v1) | **NULL** |
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
@@ -45,13 +47,16 @@ layout: default
 | **2026/01/30** | Bourin-type inequalities for $τ$-measurable operators in fully symmetric spaces | Teng Zhang | [2602.00358v1](http://arxiv.org/abs/2602.00358v1) | **NULL** |
 | **2026/01/30** | Topology-optimized distributed 3d anisotropic Raman emission | Ian M. Hammond et al. | [2602.00339v2](http://arxiv.org/abs/2602.00339v2) | **NULL** |
 | **2026/01/28** | Gen-SER: When the generative model meets speech emotion recognition | Taihui Wang et al. | [2601.20573v1](http://arxiv.org/abs/2601.20573v1) | **NULL** |
-| **2026/01/25** | Speech Emotion Recognition with ASR Integration | Yuanchao Li | [2601.17901v3](http://arxiv.org/abs/2601.17901v3) | **NULL** |
-| **2026/01/23** | Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration | Esther Sun et al. | [2601.17085v1](http://arxiv.org/abs/2601.17085v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/24** | Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials | Shuyu Bi et al. | [2603.22810v1](http://arxiv.org/abs/2603.22810v1) | **NULL** |
+| **2026/03/23** | Carbon Nitride Monolayer Nanosheets: Astrochemical Insights into the Fate of Interstellar Hydrogen | Dubois David et al. | [2603.22443v1](http://arxiv.org/abs/2603.22443v1) | **NULL** |
+| **2026/03/23** | Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning | Claudia Islas-Vargas et al. | [2603.22254v1](http://arxiv.org/abs/2603.22254v1) | **NULL** |
+| **2026/03/23** | Universal inverse-cube thickness scaling of projectile penetration energy in ultrathin films | Alessio Zaccone et al. | [2603.22207v1](http://arxiv.org/abs/2603.22207v1) | **NULL** |
+| **2026/03/23** | Landau-Level-Resolved Mode Mixing and Shot Noise in Gate-Defined Graphene Quantum Point Contacts | Shakthidhar Vilvanathan et al. | [2603.22111v1](http://arxiv.org/abs/2603.22111v1) | **NULL** |
 | **2026/03/23** | Electrically controllable valence-conduction band reversals in helical trilayer graphene | Matan Bocarsly et al. | [2603.21973v1](http://arxiv.org/abs/2603.21973v1) | **NULL** |
 | **2026/03/23** | Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates | Carmelo Civello et al. | [2603.21907v1](http://arxiv.org/abs/2603.21907v1) | **NULL** |
 | **2026/03/23** | A closed-loop platform for the design and nanoscale imaging of GHz acoustic metamaterials | Federico Maccagno et al. | [2603.21744v1](http://arxiv.org/abs/2603.21744v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/03/17** | Low bending rigidity and large Young's modulus drive strong flexural phonon renormalization in two-dimensional monolayers | Navaneetha K Ravichandran | [2603.16717v1](http://arxiv.org/abs/2603.16717v1) | **NULL** |
 | **2026/03/17** | Correlated Quantum Phenomena in Confined Two-Dimensional Hexagonal Crystals | Xiang Liua et al. | [2603.16677v1](http://arxiv.org/abs/2603.16677v1) | **NULL** |
 | **2026/03/17** | Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures | Johannes Gradl et al. | [2603.16247v1](http://arxiv.org/abs/2603.16247v1) | **NULL** |
-| **2026/03/16** | Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study | Samayita Das et al. | [2603.15906v1](http://arxiv.org/abs/2603.15906v1) | **NULL** |
-| **2026/03/16** | Tailoring spontaneous symmetry breaking in engineered van der Waals superlattices | Keda Jin et al. | [2603.15787v1](http://arxiv.org/abs/2603.15787v1) | **NULL** |
-| **2026/03/16** | Flat-Band Generation in InAs/GaSb Quantum Wells through Vertically Engineered Heterostructures | Zachery A. Enderson et al. | [2603.15593v1](http://arxiv.org/abs/2603.15593v1) | **NULL** |
-| **2026/03/16** | Low-frequency noise as a probe of microscopic disorder in CVD-grown graphene | Jagadis Prasad Nayak et al. | [2603.15327v1](http://arxiv.org/abs/2603.15327v1) | **NULL** |
-| **2026/03/16** | Hybrid Tribo/piezoelectic Electrospun Nanofibers for Energy Harvesting Enhancement in Flexible Electronics | Hao Zhang et al. | [2603.14857v1](http://arxiv.org/abs/2603.14857v1) | **NULL** |
