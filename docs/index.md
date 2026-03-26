@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/25 10:27:29
+> Updated on 2026/03/26 10:34:09
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
 | **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
 | **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/02/02** | Attention-weighted Centered Kernel Alignment for Knowledge Distillation in Large Audio-Language Models Applied to Speech Emotion Recognition | Qingran Yang et al. | [2602.01547v1](http://arxiv.org/abs/2602.01547v1) | **NULL** |
 | **2026/01/30** | Bourin-type inequalities for $τ$-measurable operators in fully symmetric spaces | Teng Zhang | [2602.00358v1](http://arxiv.org/abs/2602.00358v1) | **NULL** |
 | **2026/01/30** | Topology-optimized distributed 3d anisotropic Raman emission | Ian M. Hammond et al. | [2602.00339v2](http://arxiv.org/abs/2602.00339v2) | **NULL** |
-| **2026/01/28** | Gen-SER: When the generative model meets speech emotion recognition | Taihui Wang et al. | [2601.20573v1](http://arxiv.org/abs/2601.20573v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/25** | Energy-gap--controlled current oscillations in graphene under periodic driving | Hasna Chnafa et al. | [2603.24547v1](http://arxiv.org/abs/2603.24547v1) | **NULL** |
+| **2026/03/25** | Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves | Zi-Qian Zhou et al. | [2603.24102v1](http://arxiv.org/abs/2603.24102v1) | **NULL** |
+| **2026/03/24** | Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory | Djardiel da S. Gomes et al. | [2603.23712v1](http://arxiv.org/abs/2603.23712v1) | **NULL** |
 | **2026/03/24** | Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials | Shuyu Bi et al. | [2603.22810v1](http://arxiv.org/abs/2603.22810v1) | **NULL** |
 | **2026/03/23** | Carbon Nitride Monolayer Nanosheets: Astrochemical Insights into the Fate of Interstellar Hydrogen | Dubois David et al. | [2603.22443v1](http://arxiv.org/abs/2603.22443v1) | **NULL** |
 | **2026/03/23** | Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning | Claudia Islas-Vargas et al. | [2603.22254v1](http://arxiv.org/abs/2603.22254v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/03/17** | Ultra-Thin Aluminum-Doped Silver for Transmissive Thermally Reconfigurable Visible Photonics | Hongyi Sun et al. | [2603.17042v1](http://arxiv.org/abs/2603.17042v1) | **NULL** |
 | **2026/03/17** | Resonant field emission from noble-metal/graphene heterostructures | Maxim Trushin | [2603.16997v1](http://arxiv.org/abs/2603.16997v1) | **NULL** |
 | **2026/03/17** | Majorana Crystal in Rhombohedral Graphene | Chiho Yoon et al. | [2603.16828v1](http://arxiv.org/abs/2603.16828v1) | **NULL** |
-| **2026/03/17** | Low bending rigidity and large Young's modulus drive strong flexural phonon renormalization in two-dimensional monolayers | Navaneetha K Ravichandran | [2603.16717v1](http://arxiv.org/abs/2603.16717v1) | **NULL** |
-| **2026/03/17** | Correlated Quantum Phenomena in Confined Two-Dimensional Hexagonal Crystals | Xiang Liua et al. | [2603.16677v1](http://arxiv.org/abs/2603.16677v1) | **NULL** |
-| **2026/03/17** | Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures | Johannes Gradl et al. | [2603.16247v1](http://arxiv.org/abs/2603.16247v1) | **NULL** |
