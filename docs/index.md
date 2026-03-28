@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/26 10:34:09
+> Updated on 2026/03/28 10:26:37
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
 | **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/02/02** | Noncommutative Spherical Codes | K. Mahesh Krishna | [2602.01638v1](http://arxiv.org/abs/2602.01638v1) | **NULL** |
 | **2026/02/02** | Attention-weighted Centered Kernel Alignment for Knowledge Distillation in Large Audio-Language Models Applied to Speech Emotion Recognition | Qingran Yang et al. | [2602.01547v1](http://arxiv.org/abs/2602.01547v1) | **NULL** |
 | **2026/01/30** | Bourin-type inequalities for $τ$-measurable operators in fully symmetric spaces | Teng Zhang | [2602.00358v1](http://arxiv.org/abs/2602.00358v1) | **NULL** |
-| **2026/01/30** | Topology-optimized distributed 3d anisotropic Raman emission | Ian M. Hammond et al. | [2602.00339v2](http://arxiv.org/abs/2602.00339v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/26** | Low-Field Metal-Insulator Transition in AB-Stacked Bilayer Graphene | Amarnath Chakraborty et al. | [2603.24976v1](http://arxiv.org/abs/2603.24976v1) | **NULL** |
+| **2026/03/25** | Josephson effect in graphene Corbino disks | Adam Rycerz | [2603.24852v1](http://arxiv.org/abs/2603.24852v1) | **NULL** |
+| **2026/03/25** | Geometric superfluid stiffness of Kekulé superconductivity in magic-angle twisted bilayer graphene | Ke Wang et al. | [2603.24766v1](http://arxiv.org/abs/2603.24766v1) | **NULL** |
 | **2026/03/25** | Energy-gap--controlled current oscillations in graphene under periodic driving | Hasna Chnafa et al. | [2603.24547v1](http://arxiv.org/abs/2603.24547v1) | **NULL** |
 | **2026/03/25** | Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves | Zi-Qian Zhou et al. | [2603.24102v1](http://arxiv.org/abs/2603.24102v1) | **NULL** |
 | **2026/03/24** | Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory | Djardiel da S. Gomes et al. | [2603.23712v1](http://arxiv.org/abs/2603.23712v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/03/18** | In-plane magnetic response and Maki parameter of alternating-twist multilayers | Igor Vasilevskiy et al. | [2603.18194v1](http://arxiv.org/abs/2603.18194v1) | **NULL** |
 | **2026/03/18** | Angle-Resolved Berry Curvature via Nonlinear Hall Effect of Ballistic Electrons | Louis Primeau et al. | [2603.17972v1](http://arxiv.org/abs/2603.17972v1) | **NULL** |
 | **2026/03/18** | Non-Fermi-liquid behaviour of electrons coupled to gauge phonons | Rutvij Gholap et al. | [2603.17937v1](http://arxiv.org/abs/2603.17937v1) | **NULL** |
-| **2026/03/17** | Ultra-Thin Aluminum-Doped Silver for Transmissive Thermally Reconfigurable Visible Photonics | Hongyi Sun et al. | [2603.17042v1](http://arxiv.org/abs/2603.17042v1) | **NULL** |
-| **2026/03/17** | Resonant field emission from noble-metal/graphene heterostructures | Maxim Trushin | [2603.16997v1](http://arxiv.org/abs/2603.16997v1) | **NULL** |
-| **2026/03/17** | Majorana Crystal in Rhombohedral Graphene | Chiho Yoon et al. | [2603.16828v1](http://arxiv.org/abs/2603.16828v1) | **NULL** |
