@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/28 10:26:37
+> Updated on 2026/03/31 10:35:57
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
+| **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
+| **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
@@ -44,14 +47,20 @@ layout: default
 | **2026/02/05** | Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods | Ali Shendabadi et al. | [2602.06000v1](http://arxiv.org/abs/2602.06000v1) | **NULL** |
 | **2026/02/05** | A Chemistry-First Centered Icy Chemical Inventory of Protostellar Sources with JWST | Andrew M. Turner et al. | [2602.05383v1](http://arxiv.org/abs/2602.05383v1) | **NULL** |
 | **2026/02/03** | Learning Physiology-Informed Vocal Spectrotemporal Representations for Speech Emotion Recognition | Xu Zhang et al. | [2602.13259v1](http://arxiv.org/abs/2602.13259v1) | **NULL** |
-| **2026/02/02** | Noncommutative Spherical Codes | K. Mahesh Krishna | [2602.01638v1](http://arxiv.org/abs/2602.01638v1) | **NULL** |
-| **2026/02/02** | Attention-weighted Centered Kernel Alignment for Knowledge Distillation in Large Audio-Language Models Applied to Speech Emotion Recognition | Qingran Yang et al. | [2602.01547v1](http://arxiv.org/abs/2602.01547v1) | **NULL** |
-| **2026/01/30** | Bourin-type inequalities for $τ$-measurable operators in fully symmetric spaces | Teng Zhang | [2602.00358v1](http://arxiv.org/abs/2602.00358v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/30** | Bogoliubov flat bands in twisted layered materials | Keiji Yada et al. | [2603.28490v1](http://arxiv.org/abs/2603.28490v1) | **NULL** |
+| **2026/03/30** | Resonant-enhanced tunneling electroresistance in sliding ferroelectric tunnel junctions | Ruixue Wang et al. | [2603.28482v1](http://arxiv.org/abs/2603.28482v1) | **NULL** |
+| **2026/03/29** | Tailoring Quasi-Bound States in the Continuum for Infrared Photodetection in Black Phosphorus | Xiao Liu et al. | [2603.27740v1](http://arxiv.org/abs/2603.27740v1) | **NULL** |
+| **2026/03/29** | Pseudo-magnetism in a strained discrete honeycomb lattice | Xuenan Li et al. | [2603.27503v1](http://arxiv.org/abs/2603.27503v1) | **NULL** |
+| **2026/03/29** | Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene | Gen Fukuzawa et al. | [2603.27453v1](http://arxiv.org/abs/2603.27453v1) | **NULL** |
+| **2026/03/28** | Time Resolution of a Novel Ultra-fast Graphene-Optimized 4H-SiC PIN | Suyu Xiao et al. | [2603.27120v1](http://arxiv.org/abs/2603.27120v1) | **NULL** |
+| **2026/03/27** | Towards twisted, topological, and quantum graphene plasmonics | A. Octávio Soares et al. | [2603.26152v1](http://arxiv.org/abs/2603.26152v1) | **NULL** |
+| **2026/03/26** | Compositional Complexity-Induced Ultralow Friction in Medium-Entropy MXenes | Jiaoli Li et al. | [2603.25865v1](http://arxiv.org/abs/2603.25865v1) | **NULL** |
+| **2026/03/26** | Imaging the Meissner effect and local superfluid stiffness in a graphene superconductor | Ruoxi Zhang et al. | [2603.25807v1](http://arxiv.org/abs/2603.25807v1) | **NULL** |
 | **2026/03/26** | Low-Field Metal-Insulator Transition in AB-Stacked Bilayer Graphene | Amarnath Chakraborty et al. | [2603.24976v1](http://arxiv.org/abs/2603.24976v1) | **NULL** |
 | **2026/03/25** | Josephson effect in graphene Corbino disks | Adam Rycerz | [2603.24852v1](http://arxiv.org/abs/2603.24852v1) | **NULL** |
 | **2026/03/25** | Geometric superfluid stiffness of Kekulé superconductivity in magic-angle twisted bilayer graphene | Ke Wang et al. | [2603.24766v1](http://arxiv.org/abs/2603.24766v1) | **NULL** |
@@ -73,12 +82,3 @@ layout: default
 | **2026/03/21** | Multiscale Violation of Onsager Reciprocity: Thermomechanical Proof, Atomic Evidence, and Graphene Predictions | Monty Dabas | [2603.20773v1](http://arxiv.org/abs/2603.20773v1) | **NULL** |
 | **2026/03/20** | A cellular automaton model for thermal transport in low-dimensional systems | Alejandra León | [2603.20522v1](http://arxiv.org/abs/2603.20522v1) | **NULL** |
 | **2026/03/20** | Gate-tunable synthetic antiferromagnetism with nonrelativistic spin splitting in a graphene/MnS/graphene heterostructure | Marko Milivojević et al. | [2603.20458v1](http://arxiv.org/abs/2603.20458v1) | **NULL** |
-| **2026/03/20** | Reply to: Comment on "Electric conductivity of graphene: Kubo model versus a nonlocal quantum field theory model" | Pablo Rodriguez-Lopez et al. | [2603.19982v1](http://arxiv.org/abs/2603.19982v1) | **NULL** |
-| **2026/03/20** | Interfacial Charge Transfer Driven Enhanced Transport and Thermal Stability in Graphene-MoS2 Vertical Heterostructure Field-Effect Transistors | Ashis Kumar Panigrahi et al. | [2603.19937v1](http://arxiv.org/abs/2603.19937v1) | **NULL** |
-| **2026/03/20** | Flying qubits Surfing on Plasmons | D. C. Glattli et al. | [2603.19720v1](http://arxiv.org/abs/2603.19720v1) | **NULL** |
-| **2026/03/20** | Commensurate moiré superlattices in anisotropically strained twisted bilayer graphene | Ayan Mondal et al. | [2603.19694v1](http://arxiv.org/abs/2603.19694v1) | **NULL** |
-| **2026/03/19** | Auxetic Response in Two-Dimensional MXenes with Atomically Defined Perforations | Hossein Darban | [2603.19436v1](http://arxiv.org/abs/2603.19436v1) | **NULL** |
-| **2026/03/19** | Longitudinal Nonreciprocal Charge Transport with Time Reversal Symmetry | Harsh Varshney et al. | [2603.18823v1](http://arxiv.org/abs/2603.18823v1) | **NULL** |
-| **2026/03/18** | In-plane magnetic response and Maki parameter of alternating-twist multilayers | Igor Vasilevskiy et al. | [2603.18194v1](http://arxiv.org/abs/2603.18194v1) | **NULL** |
-| **2026/03/18** | Angle-Resolved Berry Curvature via Nonlinear Hall Effect of Ballistic Electrons | Louis Primeau et al. | [2603.17972v1](http://arxiv.org/abs/2603.17972v1) | **NULL** |
-| **2026/03/18** | Non-Fermi-liquid behaviour of electrons coupled to gauge phonons | Rutvij Gholap et al. | [2603.17937v1](http://arxiv.org/abs/2603.17937v1) | **NULL** |
