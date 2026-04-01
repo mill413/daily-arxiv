@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/03/31 10:35:57
+> Updated on 2026/04/01 10:47:57
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/03/31** | Deep-UV bleaching of charge disorder in encapsulated graphene | Daniil Domaretskiy et al. | [2603.29891v1](http://arxiv.org/abs/2603.29891v1) | **NULL** |
+| **2026/03/31** | Intrinsic Temporal Coherence Governs Heat Transport of Zone-Folded Phonons | Xiaoyu Huang et al. | [2603.29642v1](http://arxiv.org/abs/2603.29642v1) | **NULL** |
+| **2026/03/31** | Quantum transport reveals spin glass correlations in a 2D network of TbPc$_{2}$ single-molecule magnets grafted on graphene | Nianjheng Wu et al. | [2603.29456v1](http://arxiv.org/abs/2603.29456v1) | **NULL** |
+| **2026/03/31** | Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES | Yinan Wang et al. | [2603.29370v1](http://arxiv.org/abs/2603.29370v1) | **NULL** |
+| **2026/03/31** | Layer-selective hydrogenation and proton transport in twisted bilayer graphene | J. Tong et al. | [2603.29342v1](http://arxiv.org/abs/2603.29342v1) | **NULL** |
+| **2026/03/30** | Disorder-Driven Enhancement of Coulomb Repulsion Governs The Superconducting Dome in Ionic-Liquid-Gated Quasi-2D Materials | Giovanni Marini et al. | [2603.28920v1](http://arxiv.org/abs/2603.28920v1) | **NULL** |
+| **2026/03/30** | Observation of Floquet-induced gap in graphene | Fei Wang et al. | [2603.28725v1](http://arxiv.org/abs/2603.28725v1) | **NULL** |
 | **2026/03/30** | Bogoliubov flat bands in twisted layered materials | Keiji Yada et al. | [2603.28490v1](http://arxiv.org/abs/2603.28490v1) | **NULL** |
 | **2026/03/30** | Resonant-enhanced tunneling electroresistance in sliding ferroelectric tunnel junctions | Ruixue Wang et al. | [2603.28482v1](http://arxiv.org/abs/2603.28482v1) | **NULL** |
 | **2026/03/29** | Tailoring Quasi-Bound States in the Continuum for Infrared Photodetection in Black Phosphorus | Xiao Liu et al. | [2603.27740v1](http://arxiv.org/abs/2603.27740v1) | **NULL** |
@@ -75,10 +82,3 @@ layout: default
 | **2026/03/23** | Electrically controllable valence-conduction band reversals in helical trilayer graphene | Matan Bocarsly et al. | [2603.21973v1](http://arxiv.org/abs/2603.21973v1) | **NULL** |
 | **2026/03/23** | Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates | Carmelo Civello et al. | [2603.21907v1](http://arxiv.org/abs/2603.21907v1) | **NULL** |
 | **2026/03/23** | A closed-loop platform for the design and nanoscale imaging of GHz acoustic metamaterials | Federico Maccagno et al. | [2603.21744v1](http://arxiv.org/abs/2603.21744v1) | **NULL** |
-| **2026/03/22** | Lossless propagation of PT graphene plasmons | Andrianos Sygrimis et al. | [2603.21274v1](http://arxiv.org/abs/2603.21274v1) | **NULL** |
-| **2026/03/21** | Super-Klein tunneling in 2D Lorentzian-type barriers in graphene | Alonso Contreras-Astorga et al. | [2603.20950v1](http://arxiv.org/abs/2603.20950v1) | **NULL** |
-| **2026/03/21** | Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm | Xiaoting Zhou et al. | [2603.20852v1](http://arxiv.org/abs/2603.20852v1) | **NULL** |
-| **2026/03/21** | Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands | Yi-Chun Hung et al. | [2603.20849v1](http://arxiv.org/abs/2603.20849v1) | **NULL** |
-| **2026/03/21** | Multiscale Violation of Onsager Reciprocity: Thermomechanical Proof, Atomic Evidence, and Graphene Predictions | Monty Dabas | [2603.20773v1](http://arxiv.org/abs/2603.20773v1) | **NULL** |
-| **2026/03/20** | A cellular automaton model for thermal transport in low-dimensional systems | Alejandra León | [2603.20522v1](http://arxiv.org/abs/2603.20522v1) | **NULL** |
-| **2026/03/20** | Gate-tunable synthetic antiferromagnetism with nonrelativistic spin splitting in a graphene/MnS/graphene heterostructure | Marko Milivojević et al. | [2603.20458v1](http://arxiv.org/abs/2603.20458v1) | **NULL** |
