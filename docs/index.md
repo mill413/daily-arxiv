@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/01 10:47:57
+> Updated on 2026/04/02 10:32:22
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
@@ -25,7 +26,7 @@ layout: default
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
 | **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
 | **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
-| **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v1](http://arxiv.org/abs/2603.18915v1) | **NULL** |
+| **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v2](http://arxiv.org/abs/2603.18915v2) | **NULL** |
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 | **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
 | **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
@@ -46,12 +47,19 @@ layout: default
 | **2026/02/06** | B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization | Yingying Gao et al. | [2602.06290v1](http://arxiv.org/abs/2602.06290v1) | **NULL** |
 | **2026/02/05** | Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods | Ali Shendabadi et al. | [2602.06000v1](http://arxiv.org/abs/2602.06000v1) | **NULL** |
 | **2026/02/05** | A Chemistry-First Centered Icy Chemical Inventory of Protostellar Sources with JWST | Andrew M. Turner et al. | [2602.05383v1](http://arxiv.org/abs/2602.05383v1) | **NULL** |
-| **2026/02/03** | Learning Physiology-Informed Vocal Spectrotemporal Representations for Speech Emotion Recognition | Xu Zhang et al. | [2602.13259v1](http://arxiv.org/abs/2602.13259v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/01** | Stable Determinant Monte Carlo Simulations at Large Inverse Temperature $β$ | Thomas Luu et al. | [2604.00815v1](http://arxiv.org/abs/2604.00815v1) | **NULL** |
+| **2026/04/01** | Electronic transport in BN-encasulated graphene limited by remote phonon scattering | Khalid Dinar et al. | [2604.00678v1](http://arxiv.org/abs/2604.00678v1) | **NULL** |
+| **2026/04/01** | Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding | Yue Li et al. | [2604.00571v1](http://arxiv.org/abs/2604.00571v1) | **NULL** |
+| **2026/04/01** | Electronic Raman scattering from 2D metals with broken inversion symmetry | Mojdeh Saleh et al. | [2604.00486v1](http://arxiv.org/abs/2604.00486v1) | **NULL** |
+| **2026/04/01** | Gate-Tunable Photoresponse of Graphene Josephson Junctions at Terahertz Frequencies | X. Zhou et al. | [2604.00409v1](http://arxiv.org/abs/2604.00409v1) | **NULL** |
+| **2026/03/31** | Dielectric control of ultrafast carrier dynamics and transport in graphene | Hai I. Wang et al. | [2604.00217v1](http://arxiv.org/abs/2604.00217v1) | **NULL** |
+| **2026/03/31** | Crystals Caught Doping: Metallic Wigner Crystals in Rhombohedral Graphene | Junkai Dong et al. | [2604.00114v1](http://arxiv.org/abs/2604.00114v1) | **NULL** |
+| **2026/03/31** | Evidence of Metallic Wigner Crystal in Rhombohedral Graphene | Tonghang Han et al. | [2604.00113v1](http://arxiv.org/abs/2604.00113v1) | **NULL** |
 | **2026/03/31** | Deep-UV bleaching of charge disorder in encapsulated graphene | Daniil Domaretskiy et al. | [2603.29891v1](http://arxiv.org/abs/2603.29891v1) | **NULL** |
 | **2026/03/31** | Intrinsic Temporal Coherence Governs Heat Transport of Zone-Folded Phonons | Xiaoyu Huang et al. | [2603.29642v1](http://arxiv.org/abs/2603.29642v1) | **NULL** |
 | **2026/03/31** | Quantum transport reveals spin glass correlations in a 2D network of TbPc$_{2}$ single-molecule magnets grafted on graphene | Nianjheng Wu et al. | [2603.29456v1](http://arxiv.org/abs/2603.29456v1) | **NULL** |
@@ -74,11 +82,3 @@ layout: default
 | **2026/03/25** | Energy-gap--controlled current oscillations in graphene under periodic driving | Hasna Chnafa et al. | [2603.24547v1](http://arxiv.org/abs/2603.24547v1) | **NULL** |
 | **2026/03/25** | Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves | Zi-Qian Zhou et al. | [2603.24102v1](http://arxiv.org/abs/2603.24102v1) | **NULL** |
 | **2026/03/24** | Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory | Djardiel da S. Gomes et al. | [2603.23712v1](http://arxiv.org/abs/2603.23712v1) | **NULL** |
-| **2026/03/24** | Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials | Shuyu Bi et al. | [2603.22810v1](http://arxiv.org/abs/2603.22810v1) | **NULL** |
-| **2026/03/23** | Carbon Nitride Monolayer Nanosheets: Astrochemical Insights into the Fate of Interstellar Hydrogen | Dubois David et al. | [2603.22443v1](http://arxiv.org/abs/2603.22443v1) | **NULL** |
-| **2026/03/23** | Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning | Claudia Islas-Vargas et al. | [2603.22254v1](http://arxiv.org/abs/2603.22254v1) | **NULL** |
-| **2026/03/23** | Universal inverse-cube thickness scaling of projectile penetration energy in ultrathin films | Alessio Zaccone et al. | [2603.22207v1](http://arxiv.org/abs/2603.22207v1) | **NULL** |
-| **2026/03/23** | Landau-Level-Resolved Mode Mixing and Shot Noise in Gate-Defined Graphene Quantum Point Contacts | Shakthidhar Vilvanathan et al. | [2603.22111v1](http://arxiv.org/abs/2603.22111v1) | **NULL** |
-| **2026/03/23** | Electrically controllable valence-conduction band reversals in helical trilayer graphene | Matan Bocarsly et al. | [2603.21973v1](http://arxiv.org/abs/2603.21973v1) | **NULL** |
-| **2026/03/23** | Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates | Carmelo Civello et al. | [2603.21907v1](http://arxiv.org/abs/2603.21907v1) | **NULL** |
-| **2026/03/23** | A closed-loop platform for the design and nanoscale imaging of GHz acoustic metamaterials | Federico Maccagno et al. | [2603.21744v1](http://arxiv.org/abs/2603.21744v1) | **NULL** |
