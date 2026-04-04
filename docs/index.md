@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/02 10:32:22
+> Updated on 2026/04/04 10:25:42
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/02** | Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition | Truc Nguyen et al. | [2604.01711v1](http://arxiv.org/abs/2604.01711v1) | **NULL** |
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
 | **2026/02/06** | B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization | Yingying Gao et al. | [2602.06290v1](http://arxiv.org/abs/2602.06290v1) | **NULL** |
 | **2026/02/05** | Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods | Ali Shendabadi et al. | [2602.06000v1](http://arxiv.org/abs/2602.06000v1) | **NULL** |
-| **2026/02/05** | A Chemistry-First Centered Icy Chemical Inventory of Protostellar Sources with JWST | Andrew M. Turner et al. | [2602.05383v1](http://arxiv.org/abs/2602.05383v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/02** | Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model | Biplab Mahato et al. | [2604.02246v1](http://arxiv.org/abs/2604.02246v1) | **NULL** |
+| **2026/04/02** | Hydrodynamic Backflow for Easing the Fermion Sign in Finite-Temperature Electron Path Integral Simulations | Ingvars Vitenburgs et al. | [2604.01963v1](http://arxiv.org/abs/2604.01963v1) | **NULL** |
+| **2026/04/02** | Coupled dynamical Boltzmann transport equations with long-range electron-phonon and electron-electron interactions in 2D materials | Francesco Macheda et al. | [2604.01746v1](http://arxiv.org/abs/2604.01746v1) | **NULL** |
 | **2026/04/01** | Stable Determinant Monte Carlo Simulations at Large Inverse Temperature $β$ | Thomas Luu et al. | [2604.00815v1](http://arxiv.org/abs/2604.00815v1) | **NULL** |
 | **2026/04/01** | Electronic transport in BN-encasulated graphene limited by remote phonon scattering | Khalid Dinar et al. | [2604.00678v1](http://arxiv.org/abs/2604.00678v1) | **NULL** |
 | **2026/04/01** | Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding | Yue Li et al. | [2604.00571v1](http://arxiv.org/abs/2604.00571v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/03/26** | Low-Field Metal-Insulator Transition in AB-Stacked Bilayer Graphene | Amarnath Chakraborty et al. | [2603.24976v1](http://arxiv.org/abs/2603.24976v1) | **NULL** |
 | **2026/03/25** | Josephson effect in graphene Corbino disks | Adam Rycerz | [2603.24852v1](http://arxiv.org/abs/2603.24852v1) | **NULL** |
 | **2026/03/25** | Geometric superfluid stiffness of Kekulé superconductivity in magic-angle twisted bilayer graphene | Ke Wang et al. | [2603.24766v1](http://arxiv.org/abs/2603.24766v1) | **NULL** |
-| **2026/03/25** | Energy-gap--controlled current oscillations in graphene under periodic driving | Hasna Chnafa et al. | [2603.24547v1](http://arxiv.org/abs/2603.24547v1) | **NULL** |
-| **2026/03/25** | Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves | Zi-Qian Zhou et al. | [2603.24102v1](http://arxiv.org/abs/2603.24102v1) | **NULL** |
-| **2026/03/24** | Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory | Djardiel da S. Gomes et al. | [2603.23712v1](http://arxiv.org/abs/2603.23712v1) | **NULL** |
