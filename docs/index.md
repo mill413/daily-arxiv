@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/05 10:41:55
+> Updated on 2026/04/06 10:42:45
 
 <summary>Table of Contents</summary>
 
@@ -52,8 +52,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/03** | Wideband integrated high-speed graphene-silicon slot-waveguide electro-absorption modulator at 2 μm and 1.5 μm wavebands | Chao Luan et al. | [2604.03153v1](http://arxiv.org/abs/2604.03153v1) | **NULL** |
+| **2026/04/02** | CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks | Felipe Hawthorne et al. | [2604.02499v1](http://arxiv.org/abs/2604.02499v1) | **NULL** |
+| **2026/04/02** | Detection of spin- and valley-polarized states in van der Waals materials via thermoelectric and non-reciprocal transport | Oladunjoye A. Awoga et al. | [2604.02427v1](http://arxiv.org/abs/2604.02427v1) | **NULL** |
+| **2026/04/02** | Transport and Temperature 1: Exact spectrum and resistivity for the one-dimensional infinite-$U$ Hubbard model | Shuo Liu et al. | [2604.02426v1](http://arxiv.org/abs/2604.02426v1) | **NULL** |
 | **2026/04/02** | Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model | Biplab Mahato et al. | [2604.02246v1](http://arxiv.org/abs/2604.02246v1) | **NULL** |
-| **2026/04/02** | Hydrodynamic Backflow for Easing the Fermion Sign in Finite-Temperature Electron Path Integral Simulations | Ingvars Vitenburgs et al. | [2604.01963v1](http://arxiv.org/abs/2604.01963v1) | **NULL** |
+| **2026/04/02** | Hydrodynamic Backflow for Easing the Fermion Sign in Finite-Temperature Electron Path Integral Simulations | Ingvars Vitenburgs et al. | [2604.01963v2](http://arxiv.org/abs/2604.01963v2) | **NULL** |
 | **2026/04/02** | Coupled dynamical Boltzmann transport equations with long-range electron-phonon and electron-electron interactions in 2D materials | Francesco Macheda et al. | [2604.01746v1](http://arxiv.org/abs/2604.01746v1) | **NULL** |
 | **2026/04/01** | Stable Determinant Monte Carlo Simulations at Large Inverse Temperature $β$ | Thomas Luu et al. | [2604.00815v1](http://arxiv.org/abs/2604.00815v1) | **NULL** |
 | **2026/04/01** | Electronic transport in BN-encasulated graphene limited by remote phonon scattering | Khalid Dinar et al. | [2604.00678v1](http://arxiv.org/abs/2604.00678v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/03/28** | Time Resolution of a Novel Ultra-fast Graphene-Optimized 4H-SiC PIN | Suyu Xiao et al. | [2603.27120v1](http://arxiv.org/abs/2603.27120v1) | **NULL** |
 | **2026/03/27** | Towards twisted, topological, and quantum graphene plasmonics | A. Octávio Soares et al. | [2603.26152v1](http://arxiv.org/abs/2603.26152v1) | **NULL** |
 | **2026/03/26** | Compositional Complexity-Induced Ultralow Friction in Medium-Entropy MXenes | Jiaoli Li et al. | [2603.25865v1](http://arxiv.org/abs/2603.25865v1) | **NULL** |
-| **2026/03/26** | Imaging the Meissner effect and local superfluid stiffness in a graphene superconductor | Ruoxi Zhang et al. | [2603.25807v1](http://arxiv.org/abs/2603.25807v1) | **NULL** |
-| **2026/03/26** | Low-Field Metal-Insulator Transition in AB-Stacked Bilayer Graphene | Amarnath Chakraborty et al. | [2603.24976v1](http://arxiv.org/abs/2603.24976v1) | **NULL** |
-| **2026/03/25** | Josephson effect in graphene Corbino disks | Adam Rycerz | [2603.24852v1](http://arxiv.org/abs/2603.24852v1) | **NULL** |
-| **2026/03/25** | Geometric superfluid stiffness of Kekulé superconductivity in magic-angle twisted bilayer graphene | Ke Wang et al. | [2603.24766v1](http://arxiv.org/abs/2603.24766v1) | **NULL** |
