@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/06 10:42:45
+> Updated on 2026/04/07 10:37:03
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v1](http://arxiv.org/abs/2604.04631v1) | **NULL** |
+| **2026/04/05** | Elasticity reshapes heat flow in graphene | Navaneetha K. Ravichandran | [2604.03910v1](http://arxiv.org/abs/2604.03910v1) | **NULL** |
 | **2026/04/03** | Wideband integrated high-speed graphene-silicon slot-waveguide electro-absorption modulator at 2 μm and 1.5 μm wavebands | Chao Luan et al. | [2604.03153v1](http://arxiv.org/abs/2604.03153v1) | **NULL** |
 | **2026/04/02** | CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks | Felipe Hawthorne et al. | [2604.02499v1](http://arxiv.org/abs/2604.02499v1) | **NULL** |
 | **2026/04/02** | Detection of spin- and valley-polarized states in van der Waals materials via thermoelectric and non-reciprocal transport | Oladunjoye A. Awoga et al. | [2604.02427v1](http://arxiv.org/abs/2604.02427v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/03/29** | Pseudo-magnetism in a strained discrete honeycomb lattice | Xuenan Li et al. | [2603.27503v1](http://arxiv.org/abs/2603.27503v1) | **NULL** |
 | **2026/03/29** | Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene | Gen Fukuzawa et al. | [2603.27453v1](http://arxiv.org/abs/2603.27453v1) | **NULL** |
 | **2026/03/28** | Time Resolution of a Novel Ultra-fast Graphene-Optimized 4H-SiC PIN | Suyu Xiao et al. | [2603.27120v1](http://arxiv.org/abs/2603.27120v1) | **NULL** |
-| **2026/03/27** | Towards twisted, topological, and quantum graphene plasmonics | A. Octávio Soares et al. | [2603.26152v1](http://arxiv.org/abs/2603.26152v1) | **NULL** |
-| **2026/03/26** | Compositional Complexity-Induced Ultralow Friction in Medium-Entropy MXenes | Jiaoli Li et al. | [2603.25865v1](http://arxiv.org/abs/2603.25865v1) | **NULL** |
