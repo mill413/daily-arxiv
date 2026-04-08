@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/07 10:37:03
+> Updated on 2026/04/08 10:38:00
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/07** | Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions | Jian Zhou | [2604.05994v1](http://arxiv.org/abs/2604.05994v1) | **NULL** |
+| **2026/04/07** | Predicted DC current induced by propagating wave in gapless Dirac materials | Keisuke Kitayama et al. | [2604.05708v1](http://arxiv.org/abs/2604.05708v1) | **NULL** |
+| **2026/04/06** | Valley polarization of chiral excitonic bound states induced by band geometry | Archisman Panigrahi et al. | [2604.05222v1](http://arxiv.org/abs/2604.05222v1) | **NULL** |
 | **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v1](http://arxiv.org/abs/2604.04631v1) | **NULL** |
 | **2026/04/05** | Elasticity reshapes heat flow in graphene | Navaneetha K. Ravichandran | [2604.03910v1](http://arxiv.org/abs/2604.03910v1) | **NULL** |
 | **2026/04/03** | Wideband integrated high-speed graphene-silicon slot-waveguide electro-absorption modulator at 2 μm and 1.5 μm wavebands | Chao Luan et al. | [2604.03153v1](http://arxiv.org/abs/2604.03153v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/03/30** | Bogoliubov flat bands in twisted layered materials | Keiji Yada et al. | [2603.28490v1](http://arxiv.org/abs/2603.28490v1) | **NULL** |
 | **2026/03/30** | Resonant-enhanced tunneling electroresistance in sliding ferroelectric tunnel junctions | Ruixue Wang et al. | [2603.28482v1](http://arxiv.org/abs/2603.28482v1) | **NULL** |
 | **2026/03/29** | Tailoring Quasi-Bound States in the Continuum for Infrared Photodetection in Black Phosphorus | Xiao Liu et al. | [2603.27740v1](http://arxiv.org/abs/2603.27740v1) | **NULL** |
-| **2026/03/29** | Pseudo-magnetism in a strained discrete honeycomb lattice | Xuenan Li et al. | [2603.27503v1](http://arxiv.org/abs/2603.27503v1) | **NULL** |
-| **2026/03/29** | Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene | Gen Fukuzawa et al. | [2603.27453v1](http://arxiv.org/abs/2603.27453v1) | **NULL** |
-| **2026/03/28** | Time Resolution of a Novel Ultra-fast Graphene-Optimized 4H-SiC PIN | Suyu Xiao et al. | [2603.27120v1](http://arxiv.org/abs/2603.27120v1) | **NULL** |
