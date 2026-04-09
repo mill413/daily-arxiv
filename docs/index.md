@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/08 10:38:00
+> Updated on 2026/04/09 10:32:47
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/08** | Resolving Single-Peptide Phosphorylation Dynamics in Plasmonic Nanopores using Physics-Informed Bi-Path Model | Mulusew W. Yaltaye et al. | [2604.06743v1](http://arxiv.org/abs/2604.06743v1) | **NULL** |
 | **2026/04/02** | Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition | Truc Nguyen et al. | [2604.01711v1](http://arxiv.org/abs/2604.01711v1) | **NULL** |
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
@@ -46,16 +47,18 @@ layout: default
 | **2026/02/13** | Data-Driven Deep MIMO Detection:Network Architectures and Generalization Analysis | Yongwei Yi et al. | [2602.20178v1](http://arxiv.org/abs/2602.20178v1) | **NULL** |
 | **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
 | **2026/02/06** | B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization | Yingying Gao et al. | [2602.06290v1](http://arxiv.org/abs/2602.06290v1) | **NULL** |
-| **2026/02/05** | Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods | Ali Shendabadi et al. | [2602.06000v1](http://arxiv.org/abs/2602.06000v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/08** | Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images | Xiaojun Zhang et al. | [2604.07271v1](http://arxiv.org/abs/2604.07271v1) | **NULL** |
+| **2026/04/08** | Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D | Affan Safeer et al. | [2604.07245v1](http://arxiv.org/abs/2604.07245v1) | **NULL** |
+| **2026/04/08** | Towards viable H$_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo | Yasmine S. Al-Hamdani et al. | [2604.07110v1](http://arxiv.org/abs/2604.07110v1) | **NULL** |
 | **2026/04/07** | Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions | Jian Zhou | [2604.05994v1](http://arxiv.org/abs/2604.05994v1) | **NULL** |
 | **2026/04/07** | Predicted DC current induced by propagating wave in gapless Dirac materials | Keisuke Kitayama et al. | [2604.05708v1](http://arxiv.org/abs/2604.05708v1) | **NULL** |
 | **2026/04/06** | Valley polarization of chiral excitonic bound states induced by band geometry | Archisman Panigrahi et al. | [2604.05222v1](http://arxiv.org/abs/2604.05222v1) | **NULL** |
-| **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v1](http://arxiv.org/abs/2604.04631v1) | **NULL** |
+| **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v2](http://arxiv.org/abs/2604.04631v2) | **NULL** |
 | **2026/04/05** | Elasticity reshapes heat flow in graphene | Navaneetha K. Ravichandran | [2604.03910v1](http://arxiv.org/abs/2604.03910v1) | **NULL** |
 | **2026/04/03** | Wideband integrated high-speed graphene-silicon slot-waveguide electro-absorption modulator at 2 μm and 1.5 μm wavebands | Chao Luan et al. | [2604.03153v1](http://arxiv.org/abs/2604.03153v1) | **NULL** |
 | **2026/04/02** | CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks | Felipe Hawthorne et al. | [2604.02499v1](http://arxiv.org/abs/2604.02499v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/03/31** | Layer-selective hydrogenation and proton transport in twisted bilayer graphene | J. Tong et al. | [2603.29342v1](http://arxiv.org/abs/2603.29342v1) | **NULL** |
 | **2026/03/30** | Disorder-Driven Enhancement of Coulomb Repulsion Governs The Superconducting Dome in Ionic-Liquid-Gated Quasi-2D Materials | Giovanni Marini et al. | [2603.28920v1](http://arxiv.org/abs/2603.28920v1) | **NULL** |
 | **2026/03/30** | Observation of Floquet-induced gap in graphene | Fei Wang et al. | [2603.28725v1](http://arxiv.org/abs/2603.28725v1) | **NULL** |
-| **2026/03/30** | Bogoliubov flat bands in twisted layered materials | Keiji Yada et al. | [2603.28490v1](http://arxiv.org/abs/2603.28490v1) | **NULL** |
-| **2026/03/30** | Resonant-enhanced tunneling electroresistance in sliding ferroelectric tunnel junctions | Ruixue Wang et al. | [2603.28482v1](http://arxiv.org/abs/2603.28482v1) | **NULL** |
-| **2026/03/29** | Tailoring Quasi-Bound States in the Continuum for Infrared Photodetection in Black Phosphorus | Xiao Liu et al. | [2603.27740v1](http://arxiv.org/abs/2603.27740v1) | **NULL** |
