@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/09 10:32:47
+> Updated on 2026/04/10 10:43:42
 
 <summary>Table of Contents</summary>
 
@@ -21,6 +21,7 @@ layout: default
 | **2026/04/02** | Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition | Truc Nguyen et al. | [2604.01711v1](http://arxiv.org/abs/2604.01711v1) | **NULL** |
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
+| **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
@@ -46,12 +47,15 @@ layout: default
 | **2026/02/15** | The strong fractional choice number of triangle-free planar graphs | Xiaolan Hu et al. | [2602.13970v1](http://arxiv.org/abs/2602.13970v1) | **NULL** |
 | **2026/02/13** | Data-Driven Deep MIMO Detection:Network Architectures and Generalization Analysis | Yongwei Yi et al. | [2602.20178v1](http://arxiv.org/abs/2602.20178v1) | **NULL** |
 | **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
-| **2026/02/06** | B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization | Yingying Gao et al. | [2602.06290v1](http://arxiv.org/abs/2602.06290v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/09** | High-efficiency graphene-silicon slot-waveguide microring modulator at 1.5 μm and 2 μm wavelength bands | Chao Luan et al. | [2604.08472v1](http://arxiv.org/abs/2604.08472v1) | **NULL** |
+| **2026/04/09** | Interaction-driven transport in a non-degenerate mixture of Dirac and massive fermions at charge neutrality point | Yuping Huang et al. | [2604.07846v1](http://arxiv.org/abs/2604.07846v1) | **NULL** |
+| **2026/04/08** | Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles | Mykola Prodanov et al. | [2604.07646v1](http://arxiv.org/abs/2604.07646v1) | **NULL** |
+| **2026/04/08** | Mode-Resolved Multiband Ballistic Transport and Conductance Thresholds in Bilayer Graphene Junctions | Dan-Na Liu et al. | [2604.07504v1](http://arxiv.org/abs/2604.07504v1) | **NULL** |
 | **2026/04/08** | Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images | Xiaojun Zhang et al. | [2604.07271v1](http://arxiv.org/abs/2604.07271v1) | **NULL** |
 | **2026/04/08** | Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D | Affan Safeer et al. | [2604.07245v1](http://arxiv.org/abs/2604.07245v1) | **NULL** |
 | **2026/04/08** | Towards viable H$_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo | Yasmine S. Al-Hamdani et al. | [2604.07110v1](http://arxiv.org/abs/2604.07110v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/03/31** | Deep-UV bleaching of charge disorder in encapsulated graphene | Daniil Domaretskiy et al. | [2603.29891v1](http://arxiv.org/abs/2603.29891v1) | **NULL** |
 | **2026/03/31** | Intrinsic Temporal Coherence Governs Heat Transport of Zone-Folded Phonons | Xiaoyu Huang et al. | [2603.29642v1](http://arxiv.org/abs/2603.29642v1) | **NULL** |
 | **2026/03/31** | Quantum transport reveals spin glass correlations in a 2D network of TbPc$_{2}$ single-molecule magnets grafted on graphene | Nianjheng Wu et al. | [2603.29456v1](http://arxiv.org/abs/2603.29456v1) | **NULL** |
-| **2026/03/31** | Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES | Yinan Wang et al. | [2603.29370v1](http://arxiv.org/abs/2603.29370v1) | **NULL** |
-| **2026/03/31** | Layer-selective hydrogenation and proton transport in twisted bilayer graphene | J. Tong et al. | [2603.29342v1](http://arxiv.org/abs/2603.29342v1) | **NULL** |
-| **2026/03/30** | Disorder-Driven Enhancement of Coulomb Repulsion Governs The Superconducting Dome in Ionic-Liquid-Gated Quasi-2D Materials | Giovanni Marini et al. | [2603.28920v1](http://arxiv.org/abs/2603.28920v1) | **NULL** |
-| **2026/03/30** | Observation of Floquet-induced gap in graphene | Fei Wang et al. | [2603.28725v1](http://arxiv.org/abs/2603.28725v1) | **NULL** |
