@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/12 10:47:56
+> Updated on 2026/04/13 10:53:01
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/10** | Detecting crossed Andreev reflection in a quantum Hall interferometer with a superconducting beam splitter | Maxime Jamotte et al. | [2604.09463v1](http://arxiv.org/abs/2604.09463v1) | **NULL** |
+| **2026/04/10** | A scalable platform for nanometer-scale quantum confinement | Christina M. Spaegele et al. | [2604.08957v1](http://arxiv.org/abs/2604.08957v1) | **NULL** |
 | **2026/04/09** | High-efficiency graphene-silicon slot-waveguide microring modulator at 1.5 μm and 2 μm wavelength bands | Chao Luan et al. | [2604.08472v1](http://arxiv.org/abs/2604.08472v1) | **NULL** |
 | **2026/04/09** | Interaction-driven transport in a non-degenerate mixture of Dirac and massive fermions at charge neutrality point | Yuping Huang et al. | [2604.07846v1](http://arxiv.org/abs/2604.07846v1) | **NULL** |
 | **2026/04/08** | Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles | Mykola Prodanov et al. | [2604.07646v1](http://arxiv.org/abs/2604.07646v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/03/31** | Crystals Caught Doping: Metallic Wigner Crystals in Rhombohedral Graphene | Junkai Dong et al. | [2604.00114v1](http://arxiv.org/abs/2604.00114v1) | **NULL** |
 | **2026/03/31** | Evidence of Metallic Wigner Crystal in Rhombohedral Graphene | Tonghang Han et al. | [2604.00113v1](http://arxiv.org/abs/2604.00113v1) | **NULL** |
 | **2026/03/31** | Deep-UV bleaching of charge disorder in encapsulated graphene | Daniil Domaretskiy et al. | [2603.29891v1](http://arxiv.org/abs/2603.29891v1) | **NULL** |
-| **2026/03/31** | Intrinsic Temporal Coherence Governs Heat Transport of Zone-Folded Phonons | Xiaoyu Huang et al. | [2603.29642v1](http://arxiv.org/abs/2603.29642v1) | **NULL** |
-| **2026/03/31** | Quantum transport reveals spin glass correlations in a 2D network of TbPc$_{2}$ single-molecule magnets grafted on graphene | Nianjheng Wu et al. | [2603.29456v1](http://arxiv.org/abs/2603.29456v1) | **NULL** |
