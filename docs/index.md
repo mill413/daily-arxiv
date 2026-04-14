@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/13 10:53:01
+> Updated on 2026/04/14 10:45:15
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
+| **2026/04/13** | Ultrasensitive Nanoplastics Detection Leveraging Shrinking Surface Plasmonic Bubble | Yang Liu et al. | [2604.10871v1](http://arxiv.org/abs/2604.10871v1) | **NULL** |
+| **2026/04/12** | A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces | Hongbin Ni et al. | [2604.10798v1](http://arxiv.org/abs/2604.10798v1) | **NULL** |
+| **2026/04/12** | Enhancing Understandability and Transparency of Research Software: Tracing Research to Code | Adrian Bajraktari et al. | [2604.10793v1](http://arxiv.org/abs/2604.10793v1) | **NULL** |
 | **2026/04/08** | Resolving Single-Peptide Phosphorylation Dynamics in Plasmonic Nanopores using Physics-Informed Bi-Path Model | Mulusew W. Yaltaye et al. | [2604.06743v1](http://arxiv.org/abs/2604.06743v1) | **NULL** |
 | **2026/04/02** | Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition | Truc Nguyen et al. | [2604.01711v1](http://arxiv.org/abs/2604.01711v1) | **NULL** |
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
@@ -43,15 +47,13 @@ layout: default
 | **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
 | **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
 | **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
-| **2026/02/16** | Pollyanna and Polynomially \c{hi}-Bounded Graph Classes | Narjes Rahimi et al. | [2602.14542v1](http://arxiv.org/abs/2602.14542v1) | **NULL** |
-| **2026/02/15** | The strong fractional choice number of triangle-free planar graphs | Xiaolan Hu et al. | [2602.13970v1](http://arxiv.org/abs/2602.13970v1) | **NULL** |
-| **2026/02/13** | Data-Driven Deep MIMO Detection:Network Architectures and Generalization Analysis | Yongwei Yi et al. | [2602.20178v1](http://arxiv.org/abs/2602.20178v1) | **NULL** |
-| **2026/02/09** | PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition | Xun Su et al. | [2602.08240v1](http://arxiv.org/abs/2602.08240v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/13** | Strain-Induced Curvature in Monolayer Graphene: Effects on Electronic Structure, Phonon Dynamics, and Lattice Thermal Conductivity | M. C. Santos et al. | [2604.11367v1](http://arxiv.org/abs/2604.11367v1) | **NULL** |
+| **2026/04/10** | Self-doped Crystal from Preempted Band-inversion Transitions | Jiechao Feng et al. | [2604.09820v1](http://arxiv.org/abs/2604.09820v1) | **NULL** |
 | **2026/04/10** | Detecting crossed Andreev reflection in a quantum Hall interferometer with a superconducting beam splitter | Maxime Jamotte et al. | [2604.09463v1](http://arxiv.org/abs/2604.09463v1) | **NULL** |
 | **2026/04/10** | A scalable platform for nanometer-scale quantum confinement | Christina M. Spaegele et al. | [2604.08957v1](http://arxiv.org/abs/2604.08957v1) | **NULL** |
 | **2026/04/09** | High-efficiency graphene-silicon slot-waveguide microring modulator at 1.5 μm and 2 μm wavelength bands | Chao Luan et al. | [2604.08472v1](http://arxiv.org/abs/2604.08472v1) | **NULL** |
@@ -80,5 +82,3 @@ layout: default
 | **2026/04/01** | Gate-Tunable Photoresponse of Graphene Josephson Junctions at Terahertz Frequencies | X. Zhou et al. | [2604.00409v1](http://arxiv.org/abs/2604.00409v1) | **NULL** |
 | **2026/03/31** | Dielectric control of ultrafast carrier dynamics and transport in graphene | Hai I. Wang et al. | [2604.00217v1](http://arxiv.org/abs/2604.00217v1) | **NULL** |
 | **2026/03/31** | Crystals Caught Doping: Metallic Wigner Crystals in Rhombohedral Graphene | Junkai Dong et al. | [2604.00114v1](http://arxiv.org/abs/2604.00114v1) | **NULL** |
-| **2026/03/31** | Evidence of Metallic Wigner Crystal in Rhombohedral Graphene | Tonghang Han et al. | [2604.00113v1](http://arxiv.org/abs/2604.00113v1) | **NULL** |
-| **2026/03/31** | Deep-UV bleaching of charge disorder in encapsulated graphene | Daniil Domaretskiy et al. | [2603.29891v1](http://arxiv.org/abs/2603.29891v1) | **NULL** |
