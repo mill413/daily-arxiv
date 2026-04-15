@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/14 10:45:15
+> Updated on 2026/04/15 10:42:47
 
 <summary>Table of Contents</summary>
 
@@ -17,7 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v1](http://arxiv.org/abs/2604.12623v1) | **NULL** |
 | **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
+| **2026/04/13** | Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu) | Hao Jin et al. | [2604.11850v1](http://arxiv.org/abs/2604.11850v1) | **NULL** |
 | **2026/04/13** | Ultrasensitive Nanoplastics Detection Leveraging Shrinking Surface Plasmonic Bubble | Yang Liu et al. | [2604.10871v1](http://arxiv.org/abs/2604.10871v1) | **NULL** |
 | **2026/04/12** | A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces | Hongbin Ni et al. | [2604.10798v1](http://arxiv.org/abs/2604.10798v1) | **NULL** |
 | **2026/04/12** | Enhancing Understandability and Transparency of Research Software: Tracing Research to Code | Adrian Bajraktari et al. | [2604.10793v1](http://arxiv.org/abs/2604.10793v1) | **NULL** |
@@ -45,13 +47,15 @@ layout: default
 | **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
 | **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v2](http://arxiv.org/abs/2603.00428v2) | **NULL** |
 | **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
-| **2026/02/20** | The Turán number of Berge paths | Xin Cheng et al. | [2602.17946v1](http://arxiv.org/abs/2602.17946v1) | **NULL** |
-| **2026/02/18** | Color-based Emotion Representation for Speech Emotion Recognition | Ryotaro Nagase et al. | [2602.16256v1](http://arxiv.org/abs/2602.16256v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/14** | Relativistic Quantum Chaos in Neutrino Billiards | Barbara Dietz | [2604.13003v1](http://arxiv.org/abs/2604.13003v1) | **NULL** |
+| **2026/04/14** | Remote Moiré Modulation of Decoupled Dirac Subsystems in Twisted Trilayer Graphene | Dohun Kim et al. | [2604.12614v1](http://arxiv.org/abs/2604.12614v1) | **NULL** |
+| **2026/04/14** | Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping | Kacho Imtiyaz Ali Khan et al. | [2604.12571v1](http://arxiv.org/abs/2604.12571v1) | **NULL** |
+| **2026/04/13** | High-harmonic generation in systems with chiral Bloch states: application to rhombohedral graphene | Jessica O. de Almeida et al. | [2604.11984v1](http://arxiv.org/abs/2604.11984v1) | **NULL** |
 | **2026/04/13** | Strain-Induced Curvature in Monolayer Graphene: Effects on Electronic Structure, Phonon Dynamics, and Lattice Thermal Conductivity | M. C. Santos et al. | [2604.11367v1](http://arxiv.org/abs/2604.11367v1) | **NULL** |
 | **2026/04/10** | Self-doped Crystal from Preempted Band-inversion Transitions | Jiechao Feng et al. | [2604.09820v1](http://arxiv.org/abs/2604.09820v1) | **NULL** |
 | **2026/04/10** | Detecting crossed Andreev reflection in a quantum Hall interferometer with a superconducting beam splitter | Maxime Jamotte et al. | [2604.09463v1](http://arxiv.org/abs/2604.09463v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/04/01** | Stable Determinant Monte Carlo Simulations at Large Inverse Temperature $β$ | Thomas Luu et al. | [2604.00815v1](http://arxiv.org/abs/2604.00815v1) | **NULL** |
 | **2026/04/01** | Electronic transport in BN-encasulated graphene limited by remote phonon scattering | Khalid Dinar et al. | [2604.00678v1](http://arxiv.org/abs/2604.00678v1) | **NULL** |
 | **2026/04/01** | Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding | Yue Li et al. | [2604.00571v1](http://arxiv.org/abs/2604.00571v1) | **NULL** |
-| **2026/04/01** | Electronic Raman scattering from 2D metals with broken inversion symmetry | Mojdeh Saleh et al. | [2604.00486v1](http://arxiv.org/abs/2604.00486v1) | **NULL** |
-| **2026/04/01** | Gate-Tunable Photoresponse of Graphene Josephson Junctions at Terahertz Frequencies | X. Zhou et al. | [2604.00409v1](http://arxiv.org/abs/2604.00409v1) | **NULL** |
-| **2026/03/31** | Dielectric control of ultrafast carrier dynamics and transport in graphene | Hai I. Wang et al. | [2604.00217v1](http://arxiv.org/abs/2604.00217v1) | **NULL** |
-| **2026/03/31** | Crystals Caught Doping: Metallic Wigner Crystals in Rhombohedral Graphene | Junkai Dong et al. | [2604.00114v1](http://arxiv.org/abs/2604.00114v1) | **NULL** |
