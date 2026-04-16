@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/15 10:42:47
+> Updated on 2026/04/16 10:50:33
 
 <summary>Table of Contents</summary>
 
@@ -52,7 +52,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2026/04/14** | Relativistic Quantum Chaos in Neutrino Billiards | Barbara Dietz | [2604.13003v1](http://arxiv.org/abs/2604.13003v1) | **NULL** |
+| **2026/04/15** | Thermodynamic signatures of non-Hermiticity in Dirac materials via quantum capacitance | Juan Pablo Esparza et al. | [2604.14150v1](http://arxiv.org/abs/2604.14150v1) | **NULL** |
+| **2026/04/15** | Chiral Fermion Localization in Two-Kink Scalar Backgrounds: Tunable Brane Positioning and Universal Divergence at the Single-Kink Limit | H. P. Pinheiro et al. | [2604.14103v1](http://arxiv.org/abs/2604.14103v1) | **NULL** |
+| **2026/04/15** | Continuous correlated states and dual-flatness in a moiré heterostructure | Mohammed M. Al Ezzi et al. | [2604.13958v1](http://arxiv.org/abs/2604.13958v1) | **NULL** |
+| **2026/04/15** | Tuning light-matter interaction of near-infrared nanoplasmonic scintillators | Michał Makowski et al. | [2604.13775v1](http://arxiv.org/abs/2604.13775v1) | **NULL** |
+| **2026/04/15** | Sub-nm range momentum-dependent exciton transfer from a 2D semiconductor to graphene | Aditi Raman Moghe et al. | [2604.13445v1](http://arxiv.org/abs/2604.13445v1) | **NULL** |
+| **2026/04/14** | Relativistic Quantum Chaos in Neutrino Billiards | Barbara Dietz | [2604.13003v2](http://arxiv.org/abs/2604.13003v2) | **NULL** |
 | **2026/04/14** | Remote Moiré Modulation of Decoupled Dirac Subsystems in Twisted Trilayer Graphene | Dohun Kim et al. | [2604.12614v1](http://arxiv.org/abs/2604.12614v1) | **NULL** |
 | **2026/04/14** | Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping | Kacho Imtiyaz Ali Khan et al. | [2604.12571v1](http://arxiv.org/abs/2604.12571v1) | **NULL** |
 | **2026/04/13** | High-harmonic generation in systems with chiral Bloch states: application to rhombohedral graphene | Jessica O. de Almeida et al. | [2604.11984v1](http://arxiv.org/abs/2604.11984v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/04/02** | Detection of spin- and valley-polarized states in van der Waals materials via thermoelectric and non-reciprocal transport | Oladunjoye A. Awoga et al. | [2604.02427v1](http://arxiv.org/abs/2604.02427v1) | **NULL** |
 | **2026/04/02** | Transport and Temperature 1: Exact spectrum and resistivity for the one-dimensional infinite-$U$ Hubbard model | Shuo Liu et al. | [2604.02426v1](http://arxiv.org/abs/2604.02426v1) | **NULL** |
 | **2026/04/02** | Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model | Biplab Mahato et al. | [2604.02246v1](http://arxiv.org/abs/2604.02246v1) | **NULL** |
-| **2026/04/02** | Hydrodynamic Backflow for Easing the Fermion Sign in Finite-Temperature Electron Path Integral Simulations | Ingvars Vitenburgs et al. | [2604.01963v2](http://arxiv.org/abs/2604.01963v2) | **NULL** |
-| **2026/04/02** | Coupled dynamical Boltzmann transport equations with long-range electron-phonon and electron-electron interactions in 2D materials | Francesco Macheda et al. | [2604.01746v1](http://arxiv.org/abs/2604.01746v1) | **NULL** |
-| **2026/04/01** | Stable Determinant Monte Carlo Simulations at Large Inverse Temperature $β$ | Thomas Luu et al. | [2604.00815v1](http://arxiv.org/abs/2604.00815v1) | **NULL** |
-| **2026/04/01** | Electronic transport in BN-encasulated graphene limited by remote phonon scattering | Khalid Dinar et al. | [2604.00678v1](http://arxiv.org/abs/2604.00678v1) | **NULL** |
-| **2026/04/01** | Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding | Yue Li et al. | [2604.00571v1](http://arxiv.org/abs/2604.00571v1) | **NULL** |
