@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/16 10:50:33
+> Updated on 2026/04/17 10:46:08
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
+| **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
 | **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v1](http://arxiv.org/abs/2604.12623v1) | **NULL** |
 | **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
 | **2026/04/13** | Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu) | Hao Jin et al. | [2604.11850v1](http://arxiv.org/abs/2604.11850v1) | **NULL** |
@@ -26,6 +28,7 @@ layout: default
 | **2026/04/08** | Resolving Single-Peptide Phosphorylation Dynamics in Plasmonic Nanopores using Physics-Informed Bi-Path Model | Mulusew W. Yaltaye et al. | [2604.06743v1](http://arxiv.org/abs/2604.06743v1) | **NULL** |
 | **2026/04/02** | Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition | Truc Nguyen et al. | [2604.01711v1](http://arxiv.org/abs/2604.01711v1) | **NULL** |
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
+| **2026/03/31** | HARNESS: Lightweight Distilled Arabic Speech Foundation Models | Vrunda N. Sukhadia et al. | [2604.14186v1](http://arxiv.org/abs/2604.14186v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
 | **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
@@ -44,14 +47,17 @@ layout: default
 | **2026/03/13** | Every 3-connected $\{K_{1,4},K_{1,4}+e\}$-free split graph of order at least 13 is Hamilton-connected | Tao Tian et al. | [2603.12770v1](http://arxiv.org/abs/2603.12770v1) | **NULL** |
 | **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
 | **2026/03/04** | Soft Equivariance Regularization for Invariant Self-Supervised Learning | Joohyung Lee et al. | [2603.06693v1](http://arxiv.org/abs/2603.06693v1) | **NULL** |
-| **2026/02/28** | SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion | Faria Ahmed et al. | [2603.00746v1](http://arxiv.org/abs/2603.00746v1) | **NULL** |
-| **2026/02/28** | Spectral Turán Problems for Expanded hypergraphs | Zhenyu Ni et al. | [2603.00428v2](http://arxiv.org/abs/2603.00428v2) | **NULL** |
-| **2026/02/23** | On automorphism group of the reduced finitary power monoid of the additive group of integers | Dein Wong et al. | [2602.19493v1](http://arxiv.org/abs/2602.19493v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/15** | Environment-dependent tight-binding models from ab initio pseudo-atomic orbital Hamiltonians | Marco Buongiorno Nardelli | [2604.14470v1](http://arxiv.org/abs/2604.14470v1) | **NULL** |
+| **2026/04/15** | Revisiting apparent ideal diamagnetism at ambient conditions in graphene-n-heptane-permalloy systems | Rajendra Dulal et al. | [2604.14395v1](http://arxiv.org/abs/2604.14395v1) | **NULL** |
+| **2026/04/15** | Lifetime and spectral function of topological heavy fermions | Nemin Wei et al. | [2604.14369v1](http://arxiv.org/abs/2604.14369v1) | **NULL** |
+| **2026/04/15** | Modal analysis of electromagnetic resonators: MAN software expansion to 2D materials and coupled systems | Thomas Christopoulos et al. | [2604.14328v1](http://arxiv.org/abs/2604.14328v1) | **NULL** |
+| **2026/04/15** | Twisted Bilayer Graphene Lifetimes At Integer Fillings: An Analytic Result | Haoyu Hu et al. | [2604.14303v1](http://arxiv.org/abs/2604.14303v1) | **NULL** |
+| **2026/04/15** | Controlled Loop Expansion for the Topological Heavy Fermion Model | Yaar Vituri et al. | [2604.14278v1](http://arxiv.org/abs/2604.14278v1) | **NULL** |
 | **2026/04/15** | Thermodynamic signatures of non-Hermiticity in Dirac materials via quantum capacitance | Juan Pablo Esparza et al. | [2604.14150v1](http://arxiv.org/abs/2604.14150v1) | **NULL** |
 | **2026/04/15** | Chiral Fermion Localization in Two-Kink Scalar Backgrounds: Tunable Brane Positioning and Universal Divergence at the Single-Kink Limit | H. P. Pinheiro et al. | [2604.14103v1](http://arxiv.org/abs/2604.14103v1) | **NULL** |
 | **2026/04/15** | Continuous correlated states and dual-flatness in a moiré heterostructure | Mohammed M. Al Ezzi et al. | [2604.13958v1](http://arxiv.org/abs/2604.13958v1) | **NULL** |
@@ -76,9 +82,3 @@ layout: default
 | **2026/04/07** | Predicted DC current induced by propagating wave in gapless Dirac materials | Keisuke Kitayama et al. | [2604.05708v1](http://arxiv.org/abs/2604.05708v1) | **NULL** |
 | **2026/04/06** | Valley polarization of chiral excitonic bound states induced by band geometry | Archisman Panigrahi et al. | [2604.05222v1](http://arxiv.org/abs/2604.05222v1) | **NULL** |
 | **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v2](http://arxiv.org/abs/2604.04631v2) | **NULL** |
-| **2026/04/05** | Elasticity reshapes heat flow in graphene | Navaneetha K. Ravichandran | [2604.03910v1](http://arxiv.org/abs/2604.03910v1) | **NULL** |
-| **2026/04/03** | Wideband integrated high-speed graphene-silicon slot-waveguide electro-absorption modulator at 2 μm and 1.5 μm wavebands | Chao Luan et al. | [2604.03153v1](http://arxiv.org/abs/2604.03153v1) | **NULL** |
-| **2026/04/02** | CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks | Felipe Hawthorne et al. | [2604.02499v1](http://arxiv.org/abs/2604.02499v1) | **NULL** |
-| **2026/04/02** | Detection of spin- and valley-polarized states in van der Waals materials via thermoelectric and non-reciprocal transport | Oladunjoye A. Awoga et al. | [2604.02427v1](http://arxiv.org/abs/2604.02427v1) | **NULL** |
-| **2026/04/02** | Transport and Temperature 1: Exact spectrum and resistivity for the one-dimensional infinite-$U$ Hubbard model | Shuo Liu et al. | [2604.02426v1](http://arxiv.org/abs/2604.02426v1) | **NULL** |
-| **2026/04/02** | Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model | Biplab Mahato et al. | [2604.02246v1](http://arxiv.org/abs/2604.02246v1) | **NULL** |
