@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/19 10:53:05
+> Updated on 2026/04/20 10:53:40
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
 | **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
 | **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v1](http://arxiv.org/abs/2604.12623v1) | **NULL** |
@@ -46,12 +47,15 @@ layout: default
 | **2026/03/16** | Counting color-critical subgraphs under Nikiforov's condition | Longfei Fang et al. | [2603.14964v1](http://arxiv.org/abs/2603.14964v1) | **NULL** |
 | **2026/03/13** | Every 3-connected $\{K_{1,4},K_{1,4}+e\}$-free split graph of order at least 13 is Hamilton-connected | Tao Tian et al. | [2603.12770v1](http://arxiv.org/abs/2603.12770v1) | **NULL** |
 | **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
-| **2026/03/04** | Soft Equivariance Regularization for Invariant Self-Supervised Learning | Joohyung Lee et al. | [2603.06693v1](http://arxiv.org/abs/2603.06693v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
+| **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
+| **2026/04/17** | Ultrafast Current Switching from Quantum Geometry in Semimetals | Youngjae Kim et al. | [2604.15924v1](http://arxiv.org/abs/2604.15924v1) | **NULL** |
+| **2026/04/17** | Facet-dependent Chemical Kinetics Governed Growth of Twisted Graphene Layers with Pre-designed Angles | Chaowu Xue et al. | [2604.15639v1](http://arxiv.org/abs/2604.15639v1) | **NULL** |
 | **2026/04/15** | Environment-dependent tight-binding models from ab initio pseudo-atomic orbital Hamiltonians | Marco Buongiorno Nardelli | [2604.14470v1](http://arxiv.org/abs/2604.14470v1) | **NULL** |
 | **2026/04/15** | Revisiting apparent ideal diamagnetism at ambient conditions in graphene-n-heptane-permalloy systems | Rajendra Dulal et al. | [2604.14395v1](http://arxiv.org/abs/2604.14395v1) | **NULL** |
 | **2026/04/15** | Lifetime and spectral function of topological heavy fermions | Nemin Wei et al. | [2604.14369v1](http://arxiv.org/abs/2604.14369v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/04/08** | Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images | Xiaojun Zhang et al. | [2604.07271v1](http://arxiv.org/abs/2604.07271v1) | **NULL** |
 | **2026/04/08** | Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D | Affan Safeer et al. | [2604.07245v1](http://arxiv.org/abs/2604.07245v1) | **NULL** |
 | **2026/04/08** | Towards viable H$_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo | Yasmine S. Al-Hamdani et al. | [2604.07110v1](http://arxiv.org/abs/2604.07110v1) | **NULL** |
-| **2026/04/07** | Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions | Jian Zhou | [2604.05994v1](http://arxiv.org/abs/2604.05994v1) | **NULL** |
-| **2026/04/07** | Predicted DC current induced by propagating wave in gapless Dirac materials | Keisuke Kitayama et al. | [2604.05708v1](http://arxiv.org/abs/2604.05708v1) | **NULL** |
-| **2026/04/06** | Valley polarization of chiral excitonic bound states induced by band geometry | Archisman Panigrahi et al. | [2604.05222v1](http://arxiv.org/abs/2604.05222v1) | **NULL** |
-| **2026/04/06** | Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study | Matthew Shu Liang et al. | [2604.04631v2](http://arxiv.org/abs/2604.04631v2) | **NULL** |
