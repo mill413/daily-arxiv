@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/20 10:53:40
+> Updated on 2026/04/21 10:46:51
 
 <summary>Table of Contents</summary>
 
@@ -17,10 +17,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v1](http://arxiv.org/abs/2604.17647v1) | **NULL** |
+| **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
 | **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
-| **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v1](http://arxiv.org/abs/2604.12623v1) | **NULL** |
+| **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v2](http://arxiv.org/abs/2604.12623v2) | **NULL** |
 | **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
 | **2026/04/13** | Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu) | Hao Jin et al. | [2604.11850v1](http://arxiv.org/abs/2604.11850v1) | **NULL** |
 | **2026/04/13** | Ultrasensitive Nanoplastics Detection Leveraging Shrinking Surface Plasmonic Bubble | Yang Liu et al. | [2604.10871v1](http://arxiv.org/abs/2604.10871v1) | **NULL** |
@@ -45,13 +47,12 @@ layout: default
 | **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
 | **2026/03/16** | How Attention Shapes Emotion: A Comparative Study of Attention Mechanisms for Speech Emotion Recognition | Marc Casals-Salvador et al. | [2603.15120v1](http://arxiv.org/abs/2603.15120v1) | **NULL** |
 | **2026/03/16** | Counting color-critical subgraphs under Nikiforov's condition | Longfei Fang et al. | [2603.14964v1](http://arxiv.org/abs/2603.14964v1) | **NULL** |
-| **2026/03/13** | Every 3-connected $\{K_{1,4},K_{1,4}+e\}$-free split graph of order at least 13 is Hamilton-connected | Tao Tian et al. | [2603.12770v1](http://arxiv.org/abs/2603.12770v1) | **NULL** |
-| **2026/03/09** | VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs | Hezhao Zhang et al. | [2603.08936v1](http://arxiv.org/abs/2603.08936v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
 | **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
 | **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
 | **2026/04/17** | Ultrafast Current Switching from Quantum Geometry in Semimetals | Youngjae Kim et al. | [2604.15924v1](http://arxiv.org/abs/2604.15924v1) | **NULL** |
@@ -81,4 +82,3 @@ layout: default
 | **2026/04/08** | Mode-Resolved Multiband Ballistic Transport and Conductance Thresholds in Bilayer Graphene Junctions | Dan-Na Liu et al. | [2604.07504v1](http://arxiv.org/abs/2604.07504v1) | **NULL** |
 | **2026/04/08** | Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images | Xiaojun Zhang et al. | [2604.07271v1](http://arxiv.org/abs/2604.07271v1) | **NULL** |
 | **2026/04/08** | Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D | Affan Safeer et al. | [2604.07245v1](http://arxiv.org/abs/2604.07245v1) | **NULL** |
-| **2026/04/08** | Towards viable H$_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo | Yasmine S. Al-Hamdani et al. | [2604.07110v1](http://arxiv.org/abs/2604.07110v1) | **NULL** |
