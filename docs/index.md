@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/21 10:46:51
+> Updated on 2026/04/22 10:45:13
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/20** | Warm-Start Quantum Approximate Optimization Algorithm for QAM MIMO Data Detection | Soumyadip Paul et al. | [2604.18479v1](http://arxiv.org/abs/2604.18479v1) | **NULL** |
+| **2026/04/20** | FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs | Yun Hong et al. | [2604.18159v1](http://arxiv.org/abs/2604.18159v1) | **NULL** |
 | **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v1](http://arxiv.org/abs/2604.17647v1) | **NULL** |
 | **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
@@ -45,17 +47,24 @@ layout: default
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 | **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
 | **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
-| **2026/03/16** | How Attention Shapes Emotion: A Comparative Study of Attention Mechanisms for Speech Emotion Recognition | Marc Casals-Salvador et al. | [2603.15120v1](http://arxiv.org/abs/2603.15120v1) | **NULL** |
-| **2026/03/16** | Counting color-critical subgraphs under Nikiforov's condition | Longfei Fang et al. | [2603.14964v1](http://arxiv.org/abs/2603.14964v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/21** | Intrinsic i-wave altermagnetism in 2D graphene superlattices | Cuiju Yu et al. | [2604.19661v1](http://arxiv.org/abs/2604.19661v1) | **NULL** |
+| **2026/04/21** | Supermoiré domain-resolved effective Hamiltonians and valley topology in helical multilayer graphene | Kyungjin Shin et al. | [2604.19608v1](http://arxiv.org/abs/2604.19608v1) | **NULL** |
+| **2026/04/21** | Hydrodynamics of the viscous electron fluid in cadmium | Xiaodong Guo et al. | [2604.19416v1](http://arxiv.org/abs/2604.19416v1) | **NULL** |
+| **2026/04/21** | Quantum transport in gapped graphene under strain and laser--electrostatic barriers | Hasna Chnafa et al. | [2604.19297v1](http://arxiv.org/abs/2604.19297v1) | **NULL** |
+| **2026/04/21** | Rippled graphene pores as fluidic memristive devices with synaptic and neuromorphic functionalities | Wenzhe Zhou et al. | [2604.19228v1](http://arxiv.org/abs/2604.19228v1) | **NULL** |
+| **2026/04/21** | Discovery of Graphene Sheets and C-Rich Micro-Oval structure in Stingless Bee Hive; Leading to an Emergent Material with Debut of Blue Emission | Manas Kumar Dalai et al. | [2604.19096v1](http://arxiv.org/abs/2604.19096v1) | **NULL** |
+| **2026/04/20** | Landau levels and magneto-optics in 30$^\circ$ quasi-periodic twisted bilayer graphene | Masaru Hitomi et al. | [2604.18854v1](http://arxiv.org/abs/2604.18854v1) | **NULL** |
+| **2026/04/20** | Extracting Dark-Matter Mass from Angular Scanning | Daeyeong Jeong et al. | [2604.18704v1](http://arxiv.org/abs/2604.18704v1) | **NULL** |
+| **2026/04/20** | Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering | Tigran Zalinyan et al. | [2604.18517v1](http://arxiv.org/abs/2604.18517v1) | **NULL** |
 | **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
 | **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
 | **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
-| **2026/04/17** | Ultrafast Current Switching from Quantum Geometry in Semimetals | Youngjae Kim et al. | [2604.15924v1](http://arxiv.org/abs/2604.15924v1) | **NULL** |
+| **2026/04/17** | Ultrafast Current Switching from Quantum Geometry in Semimetals | Youngjae Kim et al. | [2604.15924v2](http://arxiv.org/abs/2604.15924v2) | **NULL** |
 | **2026/04/17** | Facet-dependent Chemical Kinetics Governed Growth of Twisted Graphene Layers with Pre-designed Angles | Chaowu Xue et al. | [2604.15639v1](http://arxiv.org/abs/2604.15639v1) | **NULL** |
 | **2026/04/15** | Environment-dependent tight-binding models from ab initio pseudo-atomic orbital Hamiltonians | Marco Buongiorno Nardelli | [2604.14470v1](http://arxiv.org/abs/2604.14470v1) | **NULL** |
 | **2026/04/15** | Revisiting apparent ideal diamagnetism at ambient conditions in graphene-n-heptane-permalloy systems | Rajendra Dulal et al. | [2604.14395v1](http://arxiv.org/abs/2604.14395v1) | **NULL** |
@@ -73,12 +82,3 @@ layout: default
 | **2026/04/14** | Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping | Kacho Imtiyaz Ali Khan et al. | [2604.12571v1](http://arxiv.org/abs/2604.12571v1) | **NULL** |
 | **2026/04/13** | High-harmonic generation in systems with chiral Bloch states: application to rhombohedral graphene | Jessica O. de Almeida et al. | [2604.11984v1](http://arxiv.org/abs/2604.11984v1) | **NULL** |
 | **2026/04/13** | Strain-Induced Curvature in Monolayer Graphene: Effects on Electronic Structure, Phonon Dynamics, and Lattice Thermal Conductivity | M. C. Santos et al. | [2604.11367v1](http://arxiv.org/abs/2604.11367v1) | **NULL** |
-| **2026/04/10** | Self-doped Crystal from Preempted Band-inversion Transitions | Jiechao Feng et al. | [2604.09820v1](http://arxiv.org/abs/2604.09820v1) | **NULL** |
-| **2026/04/10** | Detecting crossed Andreev reflection in a quantum Hall interferometer with a superconducting beam splitter | Maxime Jamotte et al. | [2604.09463v1](http://arxiv.org/abs/2604.09463v1) | **NULL** |
-| **2026/04/10** | A scalable platform for nanometer-scale quantum confinement | Christina M. Spaegele et al. | [2604.08957v1](http://arxiv.org/abs/2604.08957v1) | **NULL** |
-| **2026/04/09** | High-efficiency graphene-silicon slot-waveguide microring modulator at 1.5 μm and 2 μm wavelength bands | Chao Luan et al. | [2604.08472v1](http://arxiv.org/abs/2604.08472v1) | **NULL** |
-| **2026/04/09** | Interaction-driven transport in a non-degenerate mixture of Dirac and massive fermions at charge neutrality point | Yuping Huang et al. | [2604.07846v1](http://arxiv.org/abs/2604.07846v1) | **NULL** |
-| **2026/04/08** | Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles | Mykola Prodanov et al. | [2604.07646v1](http://arxiv.org/abs/2604.07646v1) | **NULL** |
-| **2026/04/08** | Mode-Resolved Multiband Ballistic Transport and Conductance Thresholds in Bilayer Graphene Junctions | Dan-Na Liu et al. | [2604.07504v1](http://arxiv.org/abs/2604.07504v1) | **NULL** |
-| **2026/04/08** | Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images | Xiaojun Zhang et al. | [2604.07271v1](http://arxiv.org/abs/2604.07271v1) | **NULL** |
-| **2026/04/08** | Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D | Affan Safeer et al. | [2604.07245v1](http://arxiv.org/abs/2604.07245v1) | **NULL** |
