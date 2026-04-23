@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/22 10:45:13
+> Updated on 2026/04/23 10:48:21
 
 <summary>Table of Contents</summary>
 
@@ -38,6 +38,7 @@ layout: default
 | **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
+| **2026/03/26** | Explainable Speech Emotion Recognition: Weighted Attribute Fairness to Model Demographic Contributions to Social Bias | Tomisin Ogunnubi et al. | [2604.19763v1](http://arxiv.org/abs/2604.19763v1) | **NULL** |
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v2](http://arxiv.org/abs/2603.18915v2) | **NULL** |
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 | **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
-| **2026/03/17** | On the Emotion Understanding of Synthesized Speech | Yuan Ge et al. | [2603.16483v1](http://arxiv.org/abs/2603.16483v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/22** | Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry | Sunit Das et al. | [2604.20249v1](http://arxiv.org/abs/2604.20249v1) | **NULL** |
+| **2026/04/22** | Stability of Charge Collection Efficiency and Time Resolution in a Novel Ultra-fast Graphene-Optimized Silicon Carbide Detector Under X-ray Irradiation | Zhenyu Jiang et al. | [2604.20194v1](http://arxiv.org/abs/2604.20194v1) | **NULL** |
+| **2026/04/21** | Probing bilayer topological order with layer-resolved transport | Hongquan Liu et al. | [2604.19955v1](http://arxiv.org/abs/2604.19955v1) | **NULL** |
 | **2026/04/21** | Intrinsic i-wave altermagnetism in 2D graphene superlattices | Cuiju Yu et al. | [2604.19661v1](http://arxiv.org/abs/2604.19661v1) | **NULL** |
 | **2026/04/21** | Supermoiré domain-resolved effective Hamiltonians and valley topology in helical multilayer graphene | Kyungjin Shin et al. | [2604.19608v1](http://arxiv.org/abs/2604.19608v1) | **NULL** |
 | **2026/04/21** | Hydrodynamics of the viscous electron fluid in cadmium | Xiaodong Guo et al. | [2604.19416v1](http://arxiv.org/abs/2604.19416v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/04/15** | Sub-nm range momentum-dependent exciton transfer from a 2D semiconductor to graphene | Aditi Raman Moghe et al. | [2604.13445v1](http://arxiv.org/abs/2604.13445v1) | **NULL** |
 | **2026/04/14** | Relativistic Quantum Chaos in Neutrino Billiards | Barbara Dietz | [2604.13003v2](http://arxiv.org/abs/2604.13003v2) | **NULL** |
 | **2026/04/14** | Remote Moiré Modulation of Decoupled Dirac Subsystems in Twisted Trilayer Graphene | Dohun Kim et al. | [2604.12614v1](http://arxiv.org/abs/2604.12614v1) | **NULL** |
-| **2026/04/14** | Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping | Kacho Imtiyaz Ali Khan et al. | [2604.12571v1](http://arxiv.org/abs/2604.12571v1) | **NULL** |
-| **2026/04/13** | High-harmonic generation in systems with chiral Bloch states: application to rhombohedral graphene | Jessica O. de Almeida et al. | [2604.11984v1](http://arxiv.org/abs/2604.11984v1) | **NULL** |
-| **2026/04/13** | Strain-Induced Curvature in Monolayer Graphene: Effects on Electronic Structure, Phonon Dynamics, and Lattice Thermal Conductivity | M. C. Santos et al. | [2604.11367v1](http://arxiv.org/abs/2604.11367v1) | **NULL** |
