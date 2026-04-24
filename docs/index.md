@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/23 10:48:21
+> Updated on 2026/04/24 10:49:35
 
 <summary>Table of Contents</summary>
 
@@ -19,7 +19,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **2026/04/20** | Warm-Start Quantum Approximate Optimization Algorithm for QAM MIMO Data Detection | Soumyadip Paul et al. | [2604.18479v1](http://arxiv.org/abs/2604.18479v1) | **NULL** |
 | **2026/04/20** | FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs | Yun Hong et al. | [2604.18159v1](http://arxiv.org/abs/2604.18159v1) | **NULL** |
-| **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v1](http://arxiv.org/abs/2604.17647v1) | **NULL** |
+| **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v2](http://arxiv.org/abs/2604.17647v2) | **NULL** |
 | **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/23** | Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics | Ludwig Holleis et al. | [2604.21912v1](http://arxiv.org/abs/2604.21912v1) | **NULL** |
+| **2026/04/23** | Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons | Xuanchen Li et al. | [2604.21796v1](http://arxiv.org/abs/2604.21796v1) | **NULL** |
+| **2026/04/23** | Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures | Ylea Vlamidis et al. | [2604.21739v1](http://arxiv.org/abs/2604.21739v1) | **NULL** |
+| **2026/04/23** | Emergence of a non-bulk hexagonal Fe$_2$S$_2$ single layer via phase transformation | Affan Safeer et al. | [2604.21613v1](http://arxiv.org/abs/2604.21613v1) | **NULL** |
+| **2026/04/23** | Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks | Aleksander Szewczyk et al. | [2604.21494v1](http://arxiv.org/abs/2604.21494v1) | **NULL** |
 | **2026/04/22** | Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry | Sunit Das et al. | [2604.20249v1](http://arxiv.org/abs/2604.20249v1) | **NULL** |
 | **2026/04/22** | Stability of Charge Collection Efficiency and Time Resolution in a Novel Ultra-fast Graphene-Optimized Silicon Carbide Detector Under X-ray Irradiation | Zhenyu Jiang et al. | [2604.20194v1](http://arxiv.org/abs/2604.20194v1) | **NULL** |
 | **2026/04/21** | Probing bilayer topological order with layer-resolved transport | Hongquan Liu et al. | [2604.19955v1](http://arxiv.org/abs/2604.19955v1) | **NULL** |
@@ -63,7 +68,7 @@ layout: default
 | **2026/04/21** | Discovery of Graphene Sheets and C-Rich Micro-Oval structure in Stingless Bee Hive; Leading to an Emergent Material with Debut of Blue Emission | Manas Kumar Dalai et al. | [2604.19096v1](http://arxiv.org/abs/2604.19096v1) | **NULL** |
 | **2026/04/20** | Landau levels and magneto-optics in 30$^\circ$ quasi-periodic twisted bilayer graphene | Masaru Hitomi et al. | [2604.18854v1](http://arxiv.org/abs/2604.18854v1) | **NULL** |
 | **2026/04/20** | Extracting Dark-Matter Mass from Angular Scanning | Daeyeong Jeong et al. | [2604.18704v1](http://arxiv.org/abs/2604.18704v1) | **NULL** |
-| **2026/04/20** | Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering | Tigran Zalinyan et al. | [2604.18517v1](http://arxiv.org/abs/2604.18517v1) | **NULL** |
+| **2026/04/20** | Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering | Tigran Zalinyan et al. | [2604.18517v2](http://arxiv.org/abs/2604.18517v2) | **NULL** |
 | **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
 | **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
 | **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/04/15** | Controlled Loop Expansion for the Topological Heavy Fermion Model | Yaar Vituri et al. | [2604.14278v1](http://arxiv.org/abs/2604.14278v1) | **NULL** |
 | **2026/04/15** | Thermodynamic signatures of non-Hermiticity in Dirac materials via quantum capacitance | Juan Pablo Esparza et al. | [2604.14150v1](http://arxiv.org/abs/2604.14150v1) | **NULL** |
 | **2026/04/15** | Chiral Fermion Localization in Two-Kink Scalar Backgrounds: Tunable Brane Positioning and Universal Divergence at the Single-Kink Limit | H. P. Pinheiro et al. | [2604.14103v1](http://arxiv.org/abs/2604.14103v1) | **NULL** |
-| **2026/04/15** | Continuous correlated states and dual-flatness in a moiré heterostructure | Mohammed M. Al Ezzi et al. | [2604.13958v1](http://arxiv.org/abs/2604.13958v1) | **NULL** |
-| **2026/04/15** | Tuning light-matter interaction of near-infrared nanoplasmonic scintillators | Michał Makowski et al. | [2604.13775v1](http://arxiv.org/abs/2604.13775v1) | **NULL** |
-| **2026/04/15** | Sub-nm range momentum-dependent exciton transfer from a 2D semiconductor to graphene | Aditi Raman Moghe et al. | [2604.13445v1](http://arxiv.org/abs/2604.13445v1) | **NULL** |
-| **2026/04/14** | Relativistic Quantum Chaos in Neutrino Billiards | Barbara Dietz | [2604.13003v2](http://arxiv.org/abs/2604.13003v2) | **NULL** |
-| **2026/04/14** | Remote Moiré Modulation of Decoupled Dirac Subsystems in Twisted Trilayer Graphene | Dohun Kim et al. | [2604.12614v1](http://arxiv.org/abs/2604.12614v1) | **NULL** |
