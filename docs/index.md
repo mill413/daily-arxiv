@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/26 10:55:07
+> Updated on 2026/04/27 10:57:56
 
 <summary>Table of Contents</summary>
 
@@ -24,6 +24,7 @@ layout: default
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
 | **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
+| **2026/04/15** | Partial Petrial Polynomials of Ribbon Graphs | Xiaoxiang Yu et al. | [2604.21942v1](http://arxiv.org/abs/2604.21942v1) | **NULL** |
 | **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v2](http://arxiv.org/abs/2604.12623v2) | **NULL** |
 | **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
 | **2026/04/13** | Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu) | Hao Jin et al. | [2604.11850v1](http://arxiv.org/abs/2604.11850v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
 | **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v2](http://arxiv.org/abs/2603.18915v2) | **NULL** |
 | **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
-| **2026/03/18** | Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels | Tian Cao et al. | [2603.17316v1](http://arxiv.org/abs/2603.17316v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/24** | Gate- and Optically Controlled Nonlinear Optical Response in Graphene via Non-Perturbative Ultrafast Carrier Dynamics | Xiaolong Lv et al. | [2604.22321v1](http://arxiv.org/abs/2604.22321v1) | **NULL** |
+| **2026/04/24** | QAssemble: A Pure Python Package for Quantum Many-Body Theory | Seongjun Mo et al. | [2604.22223v1](http://arxiv.org/abs/2604.22223v1) | **NULL** |
+| **2026/04/23** | Dive deeper with SUBMARINE: SUB-Mev dArk matter diRect detectIon using bilayer grapheNE | Rinchen Sherpa et al. | [2604.21969v1](http://arxiv.org/abs/2604.21969v1) | **NULL** |
 | **2026/04/23** | Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics | Ludwig Holleis et al. | [2604.21912v1](http://arxiv.org/abs/2604.21912v1) | **NULL** |
 | **2026/04/23** | Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons | Xuanchen Li et al. | [2604.21796v1](http://arxiv.org/abs/2604.21796v1) | **NULL** |
 | **2026/04/23** | Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures | Ylea Vlamidis et al. | [2604.21739v1](http://arxiv.org/abs/2604.21739v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/04/15** | Lifetime and spectral function of topological heavy fermions | Nemin Wei et al. | [2604.14369v1](http://arxiv.org/abs/2604.14369v1) | **NULL** |
 | **2026/04/15** | Modal analysis of electromagnetic resonators: MAN software expansion to 2D materials and coupled systems | Thomas Christopoulos et al. | [2604.14328v1](http://arxiv.org/abs/2604.14328v1) | **NULL** |
 | **2026/04/15** | Twisted Bilayer Graphene Lifetimes At Integer Fillings: An Analytic Result | Haoyu Hu et al. | [2604.14303v1](http://arxiv.org/abs/2604.14303v1) | **NULL** |
-| **2026/04/15** | Controlled Loop Expansion for the Topological Heavy Fermion Model | Yaar Vituri et al. | [2604.14278v1](http://arxiv.org/abs/2604.14278v1) | **NULL** |
-| **2026/04/15** | Thermodynamic signatures of non-Hermiticity in Dirac materials via quantum capacitance | Juan Pablo Esparza et al. | [2604.14150v1](http://arxiv.org/abs/2604.14150v1) | **NULL** |
-| **2026/04/15** | Chiral Fermion Localization in Two-Kink Scalar Backgrounds: Tunable Brane Positioning and Universal Divergence at the Single-Kink Limit | H. P. Pinheiro et al. | [2604.14103v1](http://arxiv.org/abs/2604.14103v1) | **NULL** |
