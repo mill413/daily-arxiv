@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/27 10:57:56
+> Updated on 2026/04/28 11:26:56
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/27** | An exponentially small gap of the Perron vector on independent sets | Hongzhang Chen et al. | [2604.24077v1](http://arxiv.org/abs/2604.24077v1) | **NULL** |
 | **2026/04/20** | Warm-Start Quantum Approximate Optimization Algorithm for QAM MIMO Data Detection | Soumyadip Paul et al. | [2604.18479v1](http://arxiv.org/abs/2604.18479v1) | **NULL** |
 | **2026/04/20** | FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs | Yun Hong et al. | [2604.18159v1](http://arxiv.org/abs/2604.18159v1) | **NULL** |
 | **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v2](http://arxiv.org/abs/2604.17647v2) | **NULL** |
@@ -46,12 +47,18 @@ layout: default
 | **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
 | **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
 | **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v2](http://arxiv.org/abs/2603.18915v2) | **NULL** |
-| **2026/03/18** | On the structures of {diamond, bowtie}-free graphs that do not contain an induced subdivision of $K_4$ | Feng Liu et al. | [2603.17645v2](http://arxiv.org/abs/2603.17645v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/27** | Electrical tunability of terahertz nonlinearity in graphene | Sergey Kovalev et al. | [2604.24651v1](http://arxiv.org/abs/2604.24651v1) | **NULL** |
+| **2026/04/27** | RowHammer Vulnerability Counter (RVC): Redefining RowHammer Detection with Victim-Centric Tracking | Lavi Jain et al. | [2604.24287v1](http://arxiv.org/abs/2604.24287v1) | **NULL** |
+| **2026/04/26** | Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler | Petr Červenka et al. | [2604.23759v1](http://arxiv.org/abs/2604.23759v1) | **NULL** |
+| **2026/04/25** | Mesoscopic Josephson effect in graphene disk at magnetic field | Adam Rycerz | [2604.23470v1](http://arxiv.org/abs/2604.23470v1) | **NULL** |
+| **2026/04/25** | Role of ultrafast electron-optical-phonon interactions in high harmonic generation from graphene | Adam Herling et al. | [2604.23294v1](http://arxiv.org/abs/2604.23294v1) | **NULL** |
+| **2026/04/25** | Analytical Treatment of Noise-Suppressed Klein Tunneling in Graphene with Possible Implications for Quantum-Dot Qubits | Kamal Azaidaoui et al. | [2604.23279v1](http://arxiv.org/abs/2604.23279v1) | **NULL** |
+| **2026/04/24** | Terahertz magneto-nanoscopy of encapsulated monolayer graphene | Richard H. J. Kim et al. | [2604.22940v1](http://arxiv.org/abs/2604.22940v1) | **NULL** |
 | **2026/04/24** | Gate- and Optically Controlled Nonlinear Optical Response in Graphene via Non-Perturbative Ultrafast Carrier Dynamics | Xiaolong Lv et al. | [2604.22321v1](http://arxiv.org/abs/2604.22321v1) | **NULL** |
 | **2026/04/24** | QAssemble: A Pure Python Package for Quantum Many-Body Theory | Seongjun Mo et al. | [2604.22223v1](http://arxiv.org/abs/2604.22223v1) | **NULL** |
 | **2026/04/23** | Dive deeper with SUBMARINE: SUB-Mev dArk matter diRect detectIon using bilayer grapheNE | Rinchen Sherpa et al. | [2604.21969v1](http://arxiv.org/abs/2604.21969v1) | **NULL** |
@@ -75,10 +82,3 @@ layout: default
 | **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
 | **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
 | **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
-| **2026/04/17** | Ultrafast Current Switching from Quantum Geometry in Semimetals | Youngjae Kim et al. | [2604.15924v2](http://arxiv.org/abs/2604.15924v2) | **NULL** |
-| **2026/04/17** | Facet-dependent Chemical Kinetics Governed Growth of Twisted Graphene Layers with Pre-designed Angles | Chaowu Xue et al. | [2604.15639v1](http://arxiv.org/abs/2604.15639v1) | **NULL** |
-| **2026/04/15** | Environment-dependent tight-binding models from ab initio pseudo-atomic orbital Hamiltonians | Marco Buongiorno Nardelli | [2604.14470v1](http://arxiv.org/abs/2604.14470v1) | **NULL** |
-| **2026/04/15** | Revisiting apparent ideal diamagnetism at ambient conditions in graphene-n-heptane-permalloy systems | Rajendra Dulal et al. | [2604.14395v1](http://arxiv.org/abs/2604.14395v1) | **NULL** |
-| **2026/04/15** | Lifetime and spectral function of topological heavy fermions | Nemin Wei et al. | [2604.14369v1](http://arxiv.org/abs/2604.14369v1) | **NULL** |
-| **2026/04/15** | Modal analysis of electromagnetic resonators: MAN software expansion to 2D materials and coupled systems | Thomas Christopoulos et al. | [2604.14328v1](http://arxiv.org/abs/2604.14328v1) | **NULL** |
-| **2026/04/15** | Twisted Bilayer Graphene Lifetimes At Integer Fillings: An Analytic Result | Haoyu Hu et al. | [2604.14303v1](http://arxiv.org/abs/2604.14303v1) | **NULL** |
