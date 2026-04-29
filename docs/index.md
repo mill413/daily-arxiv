@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/28 11:26:56
+> Updated on 2026/04/29 11:24:57
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/28** | Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research | Taryn Wong et al. | [2604.25776v1](http://arxiv.org/abs/2604.25776v1) | **NULL** |
+| **2026/04/28** | Dual-Polarized Massive MIMO Based on Precoding for Vehicle-To-Ground Communication in Urban Rail Transit | Zhengyuan Wu et al. | [2604.25217v1](http://arxiv.org/abs/2604.25217v1) | **NULL** |
 | **2026/04/27** | An exponentially small gap of the Perron vector on independent sets | Hongzhang Chen et al. | [2604.24077v1](http://arxiv.org/abs/2604.24077v1) | **NULL** |
 | **2026/04/20** | Warm-Start Quantum Approximate Optimization Algorithm for QAM MIMO Data Detection | Soumyadip Paul et al. | [2604.18479v1](http://arxiv.org/abs/2604.18479v1) | **NULL** |
 | **2026/04/20** | FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs | Yun Hong et al. | [2604.18159v1](http://arxiv.org/abs/2604.18159v1) | **NULL** |
@@ -45,13 +47,12 @@ layout: default
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
 | **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
-| **2026/03/22** | ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition | Zi Haur Pang et al. | [2603.21050v1](http://arxiv.org/abs/2603.21050v1) | **NULL** |
-| **2026/03/19** | An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles | Yufei Chang et al. | [2603.18915v2](http://arxiv.org/abs/2603.18915v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/28** | Exact results for the Hubbard model on bipartite lattices in spatial dimensions $d>1$: Seven theorems from the full [SU(2)$\times$SU(2)$\times$U(1)]/$\mathbb{Z}_2^2$ symmetry | J. M. P. Carmelo | [2604.25712v1](http://arxiv.org/abs/2604.25712v1) | **NULL** |
 | **2026/04/27** | Electrical tunability of terahertz nonlinearity in graphene | Sergey Kovalev et al. | [2604.24651v1](http://arxiv.org/abs/2604.24651v1) | **NULL** |
 | **2026/04/27** | RowHammer Vulnerability Counter (RVC): Redefining RowHammer Detection with Victim-Centric Tracking | Lavi Jain et al. | [2604.24287v1](http://arxiv.org/abs/2604.24287v1) | **NULL** |
 | **2026/04/26** | Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler | Petr Červenka et al. | [2604.23759v1](http://arxiv.org/abs/2604.23759v1) | **NULL** |
@@ -81,4 +82,3 @@ layout: default
 | **2026/04/20** | Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering | Tigran Zalinyan et al. | [2604.18517v2](http://arxiv.org/abs/2604.18517v2) | **NULL** |
 | **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
 | **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
-| **2026/04/17** | Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning | Haitao Yang et al. | [2604.15960v1](http://arxiv.org/abs/2604.15960v1) | **NULL** |
