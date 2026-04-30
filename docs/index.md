@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/29 11:24:57
+> Updated on 2026/04/30 11:26:04
 
 <summary>Table of Contents</summary>
 
@@ -26,6 +26,7 @@ layout: default
 | **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
+| **2026/04/16** | Speech Emotion Recognition Using MFCC Features and LSTM-Based Deep Learning Model | Adelekun Oluwademilade et al. | [2604.25938v1](http://arxiv.org/abs/2604.25938v1) | **NULL** |
 | **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
 | **2026/04/15** | Partial Petrial Polynomials of Ribbon Graphs | Xiaoxiang Yu et al. | [2604.21942v1](http://arxiv.org/abs/2604.21942v1) | **NULL** |
 | **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v2](http://arxiv.org/abs/2604.12623v2) | **NULL** |
@@ -46,12 +47,16 @@ layout: default
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 | **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
-| **2026/03/23** | MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition | Luz Martinez-Lucas et al. | [2603.22536v1](http://arxiv.org/abs/2603.22536v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/29** | Non-Equilibrium Orbital Transport in Terahertz Optorbitronics | Sobhan Subhra Mishra et al. | [2604.26717v1](http://arxiv.org/abs/2604.26717v1) | **NULL** |
+| **2026/04/29** | Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphene/hBN moiré superlattices | Chuanqi Zheng et al. | [2604.26643v1](http://arxiv.org/abs/2604.26643v1) | **NULL** |
+| **2026/04/29** | Influence of a graphene substrate on the stabilization of molecular systems with hydrogen bonds | Alexander V. Savin | [2604.26510v1](http://arxiv.org/abs/2604.26510v1) | **NULL** |
+| **2026/04/29** | Strain and Twist Engineering of Interfacial Thermal Transport in Homo- and Hetero-Interfaces of Graphene and Hexagonal Boron Nitride | Wenwu Jiang et al. | [2604.26300v1](http://arxiv.org/abs/2604.26300v1) | **NULL** |
+| **2026/04/29** | Dispersion Splitting of Phonon Polaritons in van der Waals Heterostructure | Daeho Noh et al. | [2604.26260v1](http://arxiv.org/abs/2604.26260v1) | **NULL** |
 | **2026/04/28** | Exact results for the Hubbard model on bipartite lattices in spatial dimensions $d>1$: Seven theorems from the full [SU(2)$\times$SU(2)$\times$U(1)]/$\mathbb{Z}_2^2$ symmetry | J. M. P. Carmelo | [2604.25712v1](http://arxiv.org/abs/2604.25712v1) | **NULL** |
 | **2026/04/27** | Electrical tunability of terahertz nonlinearity in graphene | Sergey Kovalev et al. | [2604.24651v1](http://arxiv.org/abs/2604.24651v1) | **NULL** |
 | **2026/04/27** | RowHammer Vulnerability Counter (RVC): Redefining RowHammer Detection with Victim-Centric Tracking | Lavi Jain et al. | [2604.24287v1](http://arxiv.org/abs/2604.24287v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/04/21** | Quantum transport in gapped graphene under strain and laser--electrostatic barriers | Hasna Chnafa et al. | [2604.19297v1](http://arxiv.org/abs/2604.19297v1) | **NULL** |
 | **2026/04/21** | Rippled graphene pores as fluidic memristive devices with synaptic and neuromorphic functionalities | Wenzhe Zhou et al. | [2604.19228v1](http://arxiv.org/abs/2604.19228v1) | **NULL** |
 | **2026/04/21** | Discovery of Graphene Sheets and C-Rich Micro-Oval structure in Stingless Bee Hive; Leading to an Emergent Material with Debut of Blue Emission | Manas Kumar Dalai et al. | [2604.19096v1](http://arxiv.org/abs/2604.19096v1) | **NULL** |
-| **2026/04/20** | Landau levels and magneto-optics in 30$^\circ$ quasi-periodic twisted bilayer graphene | Masaru Hitomi et al. | [2604.18854v1](http://arxiv.org/abs/2604.18854v1) | **NULL** |
-| **2026/04/20** | Extracting Dark-Matter Mass from Angular Scanning | Daeyeong Jeong et al. | [2604.18704v1](http://arxiv.org/abs/2604.18704v1) | **NULL** |
-| **2026/04/20** | Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering | Tigran Zalinyan et al. | [2604.18517v2](http://arxiv.org/abs/2604.18517v2) | **NULL** |
-| **2026/04/18** | Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids | Naman Khandelwal et al. | [2604.16863v1](http://arxiv.org/abs/2604.16863v1) | **NULL** |
-| **2026/04/17** | Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime | J. P. Dadario Pereira et al. | [2604.16152v1](http://arxiv.org/abs/2604.16152v1) | **NULL** |
