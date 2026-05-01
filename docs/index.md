@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/04/30 11:26:04
+> Updated on 2026/05/01 11:35:57
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
 | **2026/04/28** | Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research | Taryn Wong et al. | [2604.25776v1](http://arxiv.org/abs/2604.25776v1) | **NULL** |
 | **2026/04/28** | Dual-Polarized Massive MIMO Based on Precoding for Vehicle-To-Ground Communication in Urban Rail Transit | Zhengyuan Wu et al. | [2604.25217v1](http://arxiv.org/abs/2604.25217v1) | **NULL** |
 | **2026/04/27** | An exponentially small gap of the Perron vector on independent sets | Hongzhang Chen et al. | [2604.24077v1](http://arxiv.org/abs/2604.24077v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/03/26** | Explainable Speech Emotion Recognition: Weighted Attribute Fairness to Model Demographic Contributions to Social Bias | Tomisin Ogunnubi et al. | [2604.19763v1](http://arxiv.org/abs/2604.19763v1) | **NULL** |
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 | **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
-| **2026/03/24** | Prompt Amplification and Zero-Shot Late Fusion in Audio-Language Models for Speech Emotion Recognition | Saurabh Kataria et al. | [2603.23057v1](http://arxiv.org/abs/2603.23057v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/04/30** | Second harmonic generation and third harmonic generation in topological insulator-based van der Waals metamaterials | Alessandra Di Gaspare et al. | [2604.27864v1](http://arxiv.org/abs/2604.27864v1) | **NULL** |
+| **2026/04/30** | Chern number reversal and emergent superconductivity in rhombohedral graphene induced by in-plane magnetic fields | Xiaozhou Zan et al. | [2604.27788v1](http://arxiv.org/abs/2604.27788v1) | **NULL** |
+| **2026/04/30** | Topological phase transitions in twisted bilayer graphene/hBN from interlayer coupling and substrate potentials | Huiwen Wang et al. | [2604.27304v1](http://arxiv.org/abs/2604.27304v1) | **NULL** |
 | **2026/04/29** | Non-Equilibrium Orbital Transport in Terahertz Optorbitronics | Sobhan Subhra Mishra et al. | [2604.26717v1](http://arxiv.org/abs/2604.26717v1) | **NULL** |
 | **2026/04/29** | Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphene/hBN moiré superlattices | Chuanqi Zheng et al. | [2604.26643v1](http://arxiv.org/abs/2604.26643v1) | **NULL** |
 | **2026/04/29** | Influence of a graphene substrate on the stabilization of molecular systems with hydrogen bonds | Alexander V. Savin | [2604.26510v1](http://arxiv.org/abs/2604.26510v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/04/21** | Intrinsic i-wave altermagnetism in 2D graphene superlattices | Cuiju Yu et al. | [2604.19661v1](http://arxiv.org/abs/2604.19661v1) | **NULL** |
 | **2026/04/21** | Supermoiré domain-resolved effective Hamiltonians and valley topology in helical multilayer graphene | Kyungjin Shin et al. | [2604.19608v1](http://arxiv.org/abs/2604.19608v1) | **NULL** |
 | **2026/04/21** | Hydrodynamics of the viscous electron fluid in cadmium | Xiaodong Guo et al. | [2604.19416v1](http://arxiv.org/abs/2604.19416v1) | **NULL** |
-| **2026/04/21** | Quantum transport in gapped graphene under strain and laser--electrostatic barriers | Hasna Chnafa et al. | [2604.19297v1](http://arxiv.org/abs/2604.19297v1) | **NULL** |
-| **2026/04/21** | Rippled graphene pores as fluidic memristive devices with synaptic and neuromorphic functionalities | Wenzhe Zhou et al. | [2604.19228v1](http://arxiv.org/abs/2604.19228v1) | **NULL** |
-| **2026/04/21** | Discovery of Graphene Sheets and C-Rich Micro-Oval structure in Stingless Bee Hive; Leading to an Emergent Material with Debut of Blue Emission | Manas Kumar Dalai et al. | [2604.19096v1](http://arxiv.org/abs/2604.19096v1) | **NULL** |
