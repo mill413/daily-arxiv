@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/03 11:27:47
+> Updated on 2026/05/04 11:26:09
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/01** | Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning | Jiahang Li et al. | [2605.00609v1](http://arxiv.org/abs/2605.00609v1) | **NULL** |
+| **2026/05/01** | Polarization-controlled effective Rabi dynamics in driven Graphene: A Floquet-Magnus approach | V. G. Ibarra-Sierra et al. | [2605.00325v1](http://arxiv.org/abs/2605.00325v1) | **NULL** |
+| **2026/04/30** | Unified approach to time-resolved x-ray and electron diffraction imaging | Mingrui Yuan et al. | [2605.00286v1](http://arxiv.org/abs/2605.00286v1) | **NULL** |
+| **2026/04/30** | Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 Kitaev system a-RuCl3 | Servet Ozdemir et al. | [2605.00202v1](http://arxiv.org/abs/2605.00202v1) | **NULL** |
+| **2026/04/30** | Cryogenic Graphene-Based Phase Modulators for Quantum Information Processing | Leonard Barboza Navarro et al. | [2605.00112v1](http://arxiv.org/abs/2605.00112v1) | **NULL** |
 | **2026/04/30** | Second harmonic generation and third harmonic generation in topological insulator-based van der Waals metamaterials | Alessandra Di Gaspare et al. | [2604.27864v1](http://arxiv.org/abs/2604.27864v1) | **NULL** |
 | **2026/04/30** | Chern number reversal and emergent superconductivity in rhombohedral graphene induced by in-plane magnetic fields | Xiaozhou Zan et al. | [2604.27788v1](http://arxiv.org/abs/2604.27788v1) | **NULL** |
 | **2026/04/30** | Topological phase transitions in twisted bilayer graphene/hBN from interlayer coupling and substrate potentials | Huiwen Wang et al. | [2604.27304v1](http://arxiv.org/abs/2604.27304v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/04/23** | Emergence of a non-bulk hexagonal Fe$_2$S$_2$ single layer via phase transformation | Affan Safeer et al. | [2604.21613v1](http://arxiv.org/abs/2604.21613v1) | **NULL** |
 | **2026/04/23** | Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks | Aleksander Szewczyk et al. | [2604.21494v1](http://arxiv.org/abs/2604.21494v1) | **NULL** |
 | **2026/04/22** | Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry | Sunit Das et al. | [2604.20249v1](http://arxiv.org/abs/2604.20249v1) | **NULL** |
-| **2026/04/22** | Stability of Charge Collection Efficiency and Time Resolution in a Novel Ultra-fast Graphene-Optimized Silicon Carbide Detector Under X-ray Irradiation | Zhenyu Jiang et al. | [2604.20194v1](http://arxiv.org/abs/2604.20194v1) | **NULL** |
-| **2026/04/21** | Probing bilayer topological order with layer-resolved transport | Hongquan Liu et al. | [2604.19955v1](http://arxiv.org/abs/2604.19955v1) | **NULL** |
-| **2026/04/21** | Intrinsic i-wave altermagnetism in 2D graphene superlattices | Cuiju Yu et al. | [2604.19661v1](http://arxiv.org/abs/2604.19661v1) | **NULL** |
-| **2026/04/21** | Supermoiré domain-resolved effective Hamiltonians and valley topology in helical multilayer graphene | Kyungjin Shin et al. | [2604.19608v1](http://arxiv.org/abs/2604.19608v1) | **NULL** |
-| **2026/04/21** | Hydrodynamics of the viscous electron fluid in cadmium | Xiaodong Guo et al. | [2604.19416v1](http://arxiv.org/abs/2604.19416v1) | **NULL** |
