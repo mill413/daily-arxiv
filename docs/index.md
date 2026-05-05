@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/04 11:26:09
+> Updated on 2026/05/05 10:53:52
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/04** | Engineering THz-frequency light generation, detection and manipulation through graphene | Miriam S. Vitiello et al. | [2605.02383v1](http://arxiv.org/abs/2605.02383v1) | **NULL** |
+| **2026/05/03** | Polymorphic crystallites model for monolayer amorphous materials | Le-Ye Zhu et al. | [2605.01881v1](http://arxiv.org/abs/2605.01881v1) | **NULL** |
+| **2026/05/01** | Dirac Semimetal Phase in Rhombohedral $β-$Cu$_{2}$Se | Thomas Steele et al. | [2605.01142v1](http://arxiv.org/abs/2605.01142v1) | **NULL** |
+| **2026/05/01** | Fast reduction of electron-beam-activated graphene oxide by an infrared laser pulse | Israt Ali et al. | [2605.01125v1](http://arxiv.org/abs/2605.01125v1) | **NULL** |
+| **2026/05/01** | Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite | R. Weht et al. | [2605.01115v1](http://arxiv.org/abs/2605.01115v1) | **NULL** |
 | **2026/05/01** | Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning | Jiahang Li et al. | [2605.00609v1](http://arxiv.org/abs/2605.00609v1) | **NULL** |
 | **2026/05/01** | Polarization-controlled effective Rabi dynamics in driven Graphene: A Floquet-Magnus approach | V. G. Ibarra-Sierra et al. | [2605.00325v1](http://arxiv.org/abs/2605.00325v1) | **NULL** |
 | **2026/04/30** | Unified approach to time-resolved x-ray and electron diffraction imaging | Mingrui Yuan et al. | [2605.00286v1](http://arxiv.org/abs/2605.00286v1) | **NULL** |
@@ -71,14 +76,9 @@ layout: default
 | **2026/04/26** | Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler | Petr Červenka et al. | [2604.23759v1](http://arxiv.org/abs/2604.23759v1) | **NULL** |
 | **2026/04/25** | Mesoscopic Josephson effect in graphene disk at magnetic field | Adam Rycerz | [2604.23470v1](http://arxiv.org/abs/2604.23470v1) | **NULL** |
 | **2026/04/25** | Role of ultrafast electron-optical-phonon interactions in high harmonic generation from graphene | Adam Herling et al. | [2604.23294v1](http://arxiv.org/abs/2604.23294v1) | **NULL** |
-| **2026/04/25** | Analytical Treatment of Noise-Suppressed Klein Tunneling in Graphene with Possible Implications for Quantum-Dot Qubits | Kamal Azaidaoui et al. | [2604.23279v1](http://arxiv.org/abs/2604.23279v1) | **NULL** |
+| **2026/04/25** | Analytical Treatment of Noise-Suppressed Klein Tunneling in Graphene with Possible Implications for Quantum-Dot Qubits | Kamal Azaidaoui et al. | [2604.23279v2](http://arxiv.org/abs/2604.23279v2) | **NULL** |
 | **2026/04/24** | Terahertz magneto-nanoscopy of encapsulated monolayer graphene | Richard H. J. Kim et al. | [2604.22940v1](http://arxiv.org/abs/2604.22940v1) | **NULL** |
 | **2026/04/24** | Gate- and Optically Controlled Nonlinear Optical Response in Graphene via Non-Perturbative Ultrafast Carrier Dynamics | Xiaolong Lv et al. | [2604.22321v1](http://arxiv.org/abs/2604.22321v1) | **NULL** |
 | **2026/04/24** | QAssemble: A Pure Python Package for Quantum Many-Body Theory | Seongjun Mo et al. | [2604.22223v1](http://arxiv.org/abs/2604.22223v1) | **NULL** |
 | **2026/04/23** | Dive deeper with SUBMARINE: SUB-Mev dArk matter diRect detectIon using bilayer grapheNE | Rinchen Sherpa et al. | [2604.21969v1](http://arxiv.org/abs/2604.21969v1) | **NULL** |
 | **2026/04/23** | Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics | Ludwig Holleis et al. | [2604.21912v1](http://arxiv.org/abs/2604.21912v1) | **NULL** |
-| **2026/04/23** | Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons | Xuanchen Li et al. | [2604.21796v1](http://arxiv.org/abs/2604.21796v1) | **NULL** |
-| **2026/04/23** | Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures | Ylea Vlamidis et al. | [2604.21739v1](http://arxiv.org/abs/2604.21739v1) | **NULL** |
-| **2026/04/23** | Emergence of a non-bulk hexagonal Fe$_2$S$_2$ single layer via phase transformation | Affan Safeer et al. | [2604.21613v1](http://arxiv.org/abs/2604.21613v1) | **NULL** |
-| **2026/04/23** | Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks | Aleksander Szewczyk et al. | [2604.21494v1](http://arxiv.org/abs/2604.21494v1) | **NULL** |
-| **2026/04/22** | Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry | Sunit Das et al. | [2604.20249v1](http://arxiv.org/abs/2604.20249v1) | **NULL** |
