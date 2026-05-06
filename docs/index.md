@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/05 10:53:52
+> Updated on 2026/05/06 11:23:18
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/05** | Remote entropy measurement in coupled quantum dots | Owen Sheekey et al. | [2605.03876v1](http://arxiv.org/abs/2605.03876v1) | **NULL** |
+| **2026/05/05** | Numerical evidence of a critical point in the (2+1)D SO(5) nonlinear sigma model with Wess-Zumino-Witten term | Yuan Da Liao et al. | [2605.03700v1](http://arxiv.org/abs/2605.03700v1) | **NULL** |
+| **2026/05/05** | Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures | Niklas Hofmann et al. | [2605.03480v1](http://arxiv.org/abs/2605.03480v1) | **NULL** |
+| **2026/05/04** | Quantum Geometric Quadrupole of Cooper Pairs | Wenqin Chen et al. | [2605.03133v1](http://arxiv.org/abs/2605.03133v1) | **NULL** |
+| **2026/05/04** | Universal Theory of Incoherent Metals | Aaron Kleger et al. | [2605.03013v1](http://arxiv.org/abs/2605.03013v1) | **NULL** |
 | **2026/05/04** | Engineering THz-frequency light generation, detection and manipulation through graphene | Miriam S. Vitiello et al. | [2605.02383v1](http://arxiv.org/abs/2605.02383v1) | **NULL** |
 | **2026/05/03** | Polymorphic crystallites model for monolayer amorphous materials | Le-Ye Zhu et al. | [2605.01881v1](http://arxiv.org/abs/2605.01881v1) | **NULL** |
 | **2026/05/01** | Dirac Semimetal Phase in Rhombohedral $β-$Cu$_{2}$Se | Thomas Steele et al. | [2605.01142v1](http://arxiv.org/abs/2605.01142v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/04/25** | Mesoscopic Josephson effect in graphene disk at magnetic field | Adam Rycerz | [2604.23470v1](http://arxiv.org/abs/2604.23470v1) | **NULL** |
 | **2026/04/25** | Role of ultrafast electron-optical-phonon interactions in high harmonic generation from graphene | Adam Herling et al. | [2604.23294v1](http://arxiv.org/abs/2604.23294v1) | **NULL** |
 | **2026/04/25** | Analytical Treatment of Noise-Suppressed Klein Tunneling in Graphene with Possible Implications for Quantum-Dot Qubits | Kamal Azaidaoui et al. | [2604.23279v2](http://arxiv.org/abs/2604.23279v2) | **NULL** |
-| **2026/04/24** | Terahertz magneto-nanoscopy of encapsulated monolayer graphene | Richard H. J. Kim et al. | [2604.22940v1](http://arxiv.org/abs/2604.22940v1) | **NULL** |
-| **2026/04/24** | Gate- and Optically Controlled Nonlinear Optical Response in Graphene via Non-Perturbative Ultrafast Carrier Dynamics | Xiaolong Lv et al. | [2604.22321v1](http://arxiv.org/abs/2604.22321v1) | **NULL** |
-| **2026/04/24** | QAssemble: A Pure Python Package for Quantum Many-Body Theory | Seongjun Mo et al. | [2604.22223v1](http://arxiv.org/abs/2604.22223v1) | **NULL** |
-| **2026/04/23** | Dive deeper with SUBMARINE: SUB-Mev dArk matter diRect detectIon using bilayer grapheNE | Rinchen Sherpa et al. | [2604.21969v1](http://arxiv.org/abs/2604.21969v1) | **NULL** |
-| **2026/04/23** | Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics | Ludwig Holleis et al. | [2604.21912v1](http://arxiv.org/abs/2604.21912v1) | **NULL** |
