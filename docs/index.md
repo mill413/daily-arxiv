@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/06 11:23:18
+> Updated on 2026/05/07 11:24:21
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/06** | The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets | P. D. Taylor-Burdett et al. | [2605.05158v1](http://arxiv.org/abs/2605.05158v1) | **NULL** |
 | **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
 | **2026/04/28** | Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research | Taryn Wong et al. | [2604.25776v1](http://arxiv.org/abs/2604.25776v1) | **NULL** |
 | **2026/04/28** | Dual-Polarized Massive MIMO Based on Precoding for Vehicle-To-Ground Communication in Urban Rail Transit | Zhengyuan Wu et al. | [2604.25217v1](http://arxiv.org/abs/2604.25217v1) | **NULL** |
@@ -46,12 +47,14 @@ layout: default
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
 | **2026/03/26** | Explainable Speech Emotion Recognition: Weighted Attribute Fairness to Model Demographic Contributions to Social Bias | Tomisin Ogunnubi et al. | [2604.19763v1](http://arxiv.org/abs/2604.19763v1) | **NULL** |
 | **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
-| **2026/03/24** | Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition | Lucas H. Ueda et al. | [2603.23673v1](http://arxiv.org/abs/2603.23673v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/06** | Field-induced asymmetric band flattening and ideal quantum geometry in rhombohedral graphene | Hongyun Zhang et al. | [2605.05199v1](http://arxiv.org/abs/2605.05199v1) | **NULL** |
+| **2026/05/06** | Guidelines for band gap opening in graphene superlattices with periodic π-vacancy distribution | Diyan Unmu Dzujah et al. | [2605.04900v1](http://arxiv.org/abs/2605.04900v1) | **NULL** |
+| **2026/05/06** | Stability of Charge Collection Efficiency in a Novel Graphene-Optimized Silicon Carbide Detector Under 160 keV X-Ray Irradiation | Yingjie Huang et al. | [2605.04597v1](http://arxiv.org/abs/2605.04597v1) | **NULL** |
 | **2026/05/05** | Remote entropy measurement in coupled quantum dots | Owen Sheekey et al. | [2605.03876v1](http://arxiv.org/abs/2605.03876v1) | **NULL** |
 | **2026/05/05** | Numerical evidence of a critical point in the (2+1)D SO(5) nonlinear sigma model with Wess-Zumino-Witten term | Yuan Da Liao et al. | [2605.03700v1](http://arxiv.org/abs/2605.03700v1) | **NULL** |
 | **2026/05/05** | Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures | Niklas Hofmann et al. | [2605.03480v1](http://arxiv.org/abs/2605.03480v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/04/27** | Electrical tunability of terahertz nonlinearity in graphene | Sergey Kovalev et al. | [2604.24651v1](http://arxiv.org/abs/2604.24651v1) | **NULL** |
 | **2026/04/27** | RowHammer Vulnerability Counter (RVC): Redefining RowHammer Detection with Victim-Centric Tracking | Lavi Jain et al. | [2604.24287v1](http://arxiv.org/abs/2604.24287v1) | **NULL** |
 | **2026/04/26** | Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler | Petr Červenka et al. | [2604.23759v1](http://arxiv.org/abs/2604.23759v1) | **NULL** |
-| **2026/04/25** | Mesoscopic Josephson effect in graphene disk at magnetic field | Adam Rycerz | [2604.23470v1](http://arxiv.org/abs/2604.23470v1) | **NULL** |
-| **2026/04/25** | Role of ultrafast electron-optical-phonon interactions in high harmonic generation from graphene | Adam Herling et al. | [2604.23294v1](http://arxiv.org/abs/2604.23294v1) | **NULL** |
-| **2026/04/25** | Analytical Treatment of Noise-Suppressed Klein Tunneling in Graphene with Possible Implications for Quantum-Dot Qubits | Kamal Azaidaoui et al. | [2604.23279v2](http://arxiv.org/abs/2604.23279v2) | **NULL** |
