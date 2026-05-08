@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/07 11:24:21
+> Updated on 2026/05/08 11:21:46
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
 | **2026/05/06** | The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets | P. D. Taylor-Burdett et al. | [2605.05158v1](http://arxiv.org/abs/2605.05158v1) | **NULL** |
 | **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
 | **2026/04/28** | Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research | Taryn Wong et al. | [2604.25776v1](http://arxiv.org/abs/2604.25776v1) | **NULL** |
@@ -46,12 +47,17 @@ layout: default
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
 | **2026/03/26** | Explainable Speech Emotion Recognition: Weighted Attribute Fairness to Model Demographic Contributions to Social Bias | Tomisin Ogunnubi et al. | [2604.19763v1](http://arxiv.org/abs/2604.19763v1) | **NULL** |
-| **2026/03/26** | AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration | Chia-Yu Lee et al. | [2603.25041v1](http://arxiv.org/abs/2603.25041v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/07** | Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition | Yiming Pan et al. | [2605.06199v1](http://arxiv.org/abs/2605.06199v1) | **NULL** |
+| **2026/05/07** | Quantum phase diagrams for bosons in hexagonal optical potentials: A continuous-space quantum Monte Carlo study | Danilo Nascimento Guimaraes et al. | [2605.06171v1](http://arxiv.org/abs/2605.06171v1) | **NULL** |
+| **2026/05/07** | Geometric Engineering of Flat Bands in a Single-layer Photonic Graphene | Dun Wang et al. | [2605.05690v1](http://arxiv.org/abs/2605.05690v1) | **NULL** |
+| **2026/05/07** | Nonlinear Hall quantum oscillations to probe topological Brown-Zak fermions in graphene moiré systems | Jinrui Zhong et al. | [2605.05681v1](http://arxiv.org/abs/2605.05681v1) | **NULL** |
+| **2026/05/07** | Inter-harmonic ratio structure and saturation of Bernstein modes in graphene | Miguel Tierz | [2605.05655v1](http://arxiv.org/abs/2605.05655v1) | **NULL** |
+| **2026/05/06** | MLM: Multi-Layer Moire -- A Python Package for Generating Commensurate Supercells of Twisted Multilayer Two-Dimensional Materials | Anikeya Aditya et al. | [2605.05393v1](http://arxiv.org/abs/2605.05393v1) | **NULL** |
 | **2026/05/06** | Field-induced asymmetric band flattening and ideal quantum geometry in rhombohedral graphene | Hongyun Zhang et al. | [2605.05199v1](http://arxiv.org/abs/2605.05199v1) | **NULL** |
 | **2026/05/06** | Guidelines for band gap opening in graphene superlattices with periodic π-vacancy distribution | Diyan Unmu Dzujah et al. | [2605.04900v1](http://arxiv.org/abs/2605.04900v1) | **NULL** |
 | **2026/05/06** | Stability of Charge Collection Efficiency in a Novel Graphene-Optimized Silicon Carbide Detector Under 160 keV X-Ray Irradiation | Yingjie Huang et al. | [2605.04597v1](http://arxiv.org/abs/2605.04597v1) | **NULL** |
@@ -76,9 +82,3 @@ layout: default
 | **2026/04/29** | Non-Equilibrium Orbital Transport in Terahertz Optorbitronics | Sobhan Subhra Mishra et al. | [2604.26717v1](http://arxiv.org/abs/2604.26717v1) | **NULL** |
 | **2026/04/29** | Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphene/hBN moiré superlattices | Chuanqi Zheng et al. | [2604.26643v1](http://arxiv.org/abs/2604.26643v1) | **NULL** |
 | **2026/04/29** | Influence of a graphene substrate on the stabilization of molecular systems with hydrogen bonds | Alexander V. Savin | [2604.26510v1](http://arxiv.org/abs/2604.26510v1) | **NULL** |
-| **2026/04/29** | Strain and Twist Engineering of Interfacial Thermal Transport in Homo- and Hetero-Interfaces of Graphene and Hexagonal Boron Nitride | Wenwu Jiang et al. | [2604.26300v1](http://arxiv.org/abs/2604.26300v1) | **NULL** |
-| **2026/04/29** | Dispersion Splitting of Phonon Polaritons in van der Waals Heterostructure | Daeho Noh et al. | [2604.26260v1](http://arxiv.org/abs/2604.26260v1) | **NULL** |
-| **2026/04/28** | Exact results for the Hubbard model on bipartite lattices in spatial dimensions $d>1$: Seven theorems from the full [SU(2)$\times$SU(2)$\times$U(1)]/$\mathbb{Z}_2^2$ symmetry | J. M. P. Carmelo | [2604.25712v1](http://arxiv.org/abs/2604.25712v1) | **NULL** |
-| **2026/04/27** | Electrical tunability of terahertz nonlinearity in graphene | Sergey Kovalev et al. | [2604.24651v1](http://arxiv.org/abs/2604.24651v1) | **NULL** |
-| **2026/04/27** | RowHammer Vulnerability Counter (RVC): Redefining RowHammer Detection with Victim-Centric Tracking | Lavi Jain et al. | [2604.24287v1](http://arxiv.org/abs/2604.24287v1) | **NULL** |
-| **2026/04/26** | Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler | Petr Červenka et al. | [2604.23759v1](http://arxiv.org/abs/2604.23759v1) | **NULL** |
