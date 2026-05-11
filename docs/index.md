@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/10 11:30:33
+> Updated on 2026/05/11 11:42:04
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/08** | Static SERS with near-minus-one-epsilon substrate | Alexey P. Vinogradov et al. | [2605.07480v1](http://arxiv.org/abs/2605.07480v1) | **NULL** |
 | **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
 | **2026/05/06** | The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets | P. D. Taylor-Burdett et al. | [2605.05158v1](http://arxiv.org/abs/2605.05158v1) | **NULL** |
 | **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
@@ -46,13 +47,15 @@ layout: default
 | **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
 | **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 | **2026/03/27** | Analysis of the singular band structure occurring in one-dimensional topological normal and superfluid fermionic systems: A pedagogical description | Marcello Calvanese Strinati et al. | [2603.26490v1](http://arxiv.org/abs/2603.26490v1) | **NULL** |
-| **2026/03/26** | Explainable Speech Emotion Recognition: Weighted Attribute Fairness to Model Demographic Contributions to Social Bias | Tomisin Ogunnubi et al. | [2604.19763v1](http://arxiv.org/abs/2604.19763v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2026/05/07** | Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition | Yiming Pan et al. | [2605.06199v1](http://arxiv.org/abs/2605.06199v1) | **NULL** |
+| **2026/05/08** | Epitaxial growth of beta-bismuthene on Sb2Te3 | Giorgia Sementilli et al. | [2605.07700v1](http://arxiv.org/abs/2605.07700v1) | **NULL** |
+| **2026/05/08** | Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials | Sreehari M S et al. | [2605.07670v1](http://arxiv.org/abs/2605.07670v1) | **NULL** |
+| **2026/05/08** | Floquet second-order topological insulator in strained graphene | Yu-Wen Xu et al. | [2605.07190v1](http://arxiv.org/abs/2605.07190v1) | **NULL** |
+| **2026/05/07** | Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition | Yiming Pan et al. | [2605.06199v2](http://arxiv.org/abs/2605.06199v2) | **NULL** |
 | **2026/05/07** | Quantum phase diagrams for bosons in hexagonal optical potentials: A continuous-space quantum Monte Carlo study | Danilo Nascimento Guimaraes et al. | [2605.06171v1](http://arxiv.org/abs/2605.06171v1) | **NULL** |
 | **2026/05/07** | Geometric Engineering of Flat Bands in a Single-layer Photonic Graphene | Dun Wang et al. | [2605.05690v1](http://arxiv.org/abs/2605.05690v1) | **NULL** |
 | **2026/05/07** | Nonlinear Hall quantum oscillations to probe topological Brown-Zak fermions in graphene moiré systems | Jinrui Zhong et al. | [2605.05681v1](http://arxiv.org/abs/2605.05681v1) | **NULL** |
@@ -79,6 +82,3 @@ layout: default
 | **2026/04/30** | Second harmonic generation and third harmonic generation in topological insulator-based van der Waals metamaterials | Alessandra Di Gaspare et al. | [2604.27864v1](http://arxiv.org/abs/2604.27864v1) | **NULL** |
 | **2026/04/30** | Chern number reversal and emergent superconductivity in rhombohedral graphene induced by in-plane magnetic fields | Xiaozhou Zan et al. | [2604.27788v1](http://arxiv.org/abs/2604.27788v1) | **NULL** |
 | **2026/04/30** | Topological phase transitions in twisted bilayer graphene/hBN from interlayer coupling and substrate potentials | Huiwen Wang et al. | [2604.27304v1](http://arxiv.org/abs/2604.27304v1) | **NULL** |
-| **2026/04/29** | Non-Equilibrium Orbital Transport in Terahertz Optorbitronics | Sobhan Subhra Mishra et al. | [2604.26717v1](http://arxiv.org/abs/2604.26717v1) | **NULL** |
-| **2026/04/29** | Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphene/hBN moiré superlattices | Chuanqi Zheng et al. | [2604.26643v1](http://arxiv.org/abs/2604.26643v1) | **NULL** |
-| **2026/04/29** | Influence of a graphene substrate on the stabilization of molecular systems with hydrogen bonds | Alexander V. Savin | [2604.26510v1](http://arxiv.org/abs/2604.26510v1) | **NULL** |
