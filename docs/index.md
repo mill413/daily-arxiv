@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/13 11:37:07
+> Updated on 2026/05/14 11:36:18
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/13** | On weak convergence in Köthe-Bochner function spaces | José Rodríguez | [2605.13240v1](http://arxiv.org/abs/2605.13240v1) | **NULL** |
 | **2026/05/10** | On $\ell$-weakly cross $t$-intersecting families for sets and vector spaces | Shuhui Yu et al. | [2605.09557v1](http://arxiv.org/abs/2605.09557v1) | **NULL** |
 | **2026/05/08** | Static SERS with near-minus-one-epsilon substrate | Alexey P. Vinogradov et al. | [2605.07480v1](http://arxiv.org/abs/2605.07480v1) | **NULL** |
 | **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
@@ -46,12 +47,17 @@ layout: default
 | **2026/03/31** | HARNESS: Lightweight Distilled Arabic Speech Foundation Models | Vrunda N. Sukhadia et al. | [2604.14186v1](http://arxiv.org/abs/2604.14186v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
 | **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
-| **2026/03/27** | Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation | Einari Vaaras et al. | [2603.26592v1](http://arxiv.org/abs/2603.26592v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/13** | Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$ | Maciej Bazarnik et al. | [2605.13637v1](http://arxiv.org/abs/2605.13637v1) | **NULL** |
+| **2026/05/13** | Reconfigurable chiral superconductivity | Surajit Dutta et al. | [2605.13303v1](http://arxiv.org/abs/2605.13303v1) | **NULL** |
+| **2026/05/13** | Observation of an aperiodic polariton monotile | Sergey Alyatkin et al. | [2605.13206v1](http://arxiv.org/abs/2605.13206v1) | **NULL** |
+| **2026/05/13** | Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor | Runchen Zhou et al. | [2605.13184v1](http://arxiv.org/abs/2605.13184v1) | **NULL** |
+| **2026/05/13** | Ultrafast electron dynamics of electron-irradiated graphene | Yifan Yao et al. | [2605.12854v1](http://arxiv.org/abs/2605.12854v1) | **NULL** |
+| **2026/05/12** | Direct-write electrochemical nanofabrication of ultrasmall graphene devices | Xiao Liu et al. | [2605.12660v1](http://arxiv.org/abs/2605.12660v1) | **NULL** |
 | **2026/05/12** | Graphene lattice recoil in hard X-ray photoemission: Experiment and Theory | Simone Ritarossi et al. | [2605.12330v1](http://arxiv.org/abs/2605.12330v1) | **NULL** |
 | **2026/05/12** | Probing charge noise in bilayer graphene quantum dots by Landau-Zener-Stückelberg-Majorana spectroscopy | Katrin Hecker et al. | [2605.12257v1](http://arxiv.org/abs/2605.12257v1) | **NULL** |
 | **2026/05/12** | Engineering few-layer graphene by S-doping: from sustaining linear dispersion to flat bands | Armin Sahinovic et al. | [2605.12256v1](http://arxiv.org/abs/2605.12256v1) | **NULL** |
@@ -76,9 +82,3 @@ layout: default
 | **2026/05/07** | Inter-harmonic ratio structure and saturation of Bernstein modes in graphene | Miguel Tierz | [2605.05655v1](http://arxiv.org/abs/2605.05655v1) | **NULL** |
 | **2026/05/07** | Dynamically Characterizing the Structures of Dirac Points via Wave Packets | Dan-Dan Liang et al. | [2605.08236v1](http://arxiv.org/abs/2605.08236v1) | **NULL** |
 | **2026/05/06** | MLM: Multi-Layer Moire -- A Python Package for Generating Commensurate Supercells of Twisted Multilayer Two-Dimensional Materials | Anikeya Aditya et al. | [2605.05393v1](http://arxiv.org/abs/2605.05393v1) | **NULL** |
-| **2026/05/06** | Field-induced asymmetric band flattening and ideal quantum geometry in rhombohedral graphene | Hongyun Zhang et al. | [2605.05199v1](http://arxiv.org/abs/2605.05199v1) | **NULL** |
-| **2026/05/06** | Guidelines for band gap opening in graphene superlattices with periodic π-vacancy distribution | Diyan Unmu Dzujah et al. | [2605.04900v1](http://arxiv.org/abs/2605.04900v1) | **NULL** |
-| **2026/05/06** | Stability of Charge Collection Efficiency in a Novel Graphene-Optimized Silicon Carbide Detector Under 160 keV X-Ray Irradiation | Yingjie Huang et al. | [2605.04597v1](http://arxiv.org/abs/2605.04597v1) | **NULL** |
-| **2026/05/05** | Remote entropy measurement in coupled quantum dots | Owen Sheekey et al. | [2605.03876v1](http://arxiv.org/abs/2605.03876v1) | **NULL** |
-| **2026/05/05** | Numerical evidence of a critical point in the (2+1)D SO(5) nonlinear sigma model with Wess-Zumino-Witten term | Yuan Da Liao et al. | [2605.03700v1](http://arxiv.org/abs/2605.03700v1) | **NULL** |
-| **2026/05/05** | Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures | Niklas Hofmann et al. | [2605.03480v1](http://arxiv.org/abs/2605.03480v1) | **NULL** |
