@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/14 11:36:18
+> Updated on 2026/05/15 11:39:40
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/14** | HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks | Mahad Mohtashim et al. | [2605.14523v1](http://arxiv.org/abs/2605.14523v1) | **NULL** |
 | **2026/05/13** | On weak convergence in Köthe-Bochner function spaces | José Rodríguez | [2605.13240v1](http://arxiv.org/abs/2605.13240v1) | **NULL** |
 | **2026/05/10** | On $\ell$-weakly cross $t$-intersecting families for sets and vector spaces | Shuhui Yu et al. | [2605.09557v1](http://arxiv.org/abs/2605.09557v1) | **NULL** |
 | **2026/05/08** | Static SERS with near-minus-one-epsilon substrate | Alexey P. Vinogradov et al. | [2605.07480v1](http://arxiv.org/abs/2605.07480v1) | **NULL** |
@@ -46,12 +47,15 @@ layout: default
 | **2026/04/01** | Adjacent vertices of small degree in minimal matching covered graphs | Xiaoling He et al. | [2604.00361v1](http://arxiv.org/abs/2604.00361v1) | **NULL** |
 | **2026/03/31** | HARNESS: Lightweight Distilled Arabic Speech Foundation Models | Vrunda N. Sukhadia et al. | [2604.14186v1](http://arxiv.org/abs/2604.14186v1) | **NULL** |
 | **2026/03/30** | The role of focused laser plasmonics in shaping SERS spectra of molecules on nanostructured surfaces | Fran Nekvapil et al. | [2603.28140v1](http://arxiv.org/abs/2603.28140v1) | **NULL** |
-| **2026/03/28** | Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition | Youcef Soufiane Gheffari et al. | [2604.07357v1](http://arxiv.org/abs/2604.07357v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/14** | Periodic Behavior of Topology in Graphene with Nanohole Array | Yong-Cheng Jiang et al. | [2605.14436v1](http://arxiv.org/abs/2605.14436v1) | **NULL** |
+| **2026/05/14** | Shaping Maximally Localized Wannier Functions via Discrete Adiabatic Transport | Yuji Hamai et al. | [2605.14414v1](http://arxiv.org/abs/2605.14414v1) | **NULL** |
+| **2026/05/14** | Engineering Delocalization in Graphene Nanoribbons via Quasiperiodic Edges and Electronic Interactions | Diego B. Fonseca et al. | [2605.14216v1](http://arxiv.org/abs/2605.14216v1) | **NULL** |
+| **2026/05/14** | Spin Hall effect in electronic Lévy glasses: Enhanced spin current generation in the superdiffusive regime | Diego B. Fonseca et al. | [2605.14214v1](http://arxiv.org/abs/2605.14214v1) | **NULL** |
 | **2026/05/13** | Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$ | Maciej Bazarnik et al. | [2605.13637v1](http://arxiv.org/abs/2605.13637v1) | **NULL** |
 | **2026/05/13** | Reconfigurable chiral superconductivity | Surajit Dutta et al. | [2605.13303v1](http://arxiv.org/abs/2605.13303v1) | **NULL** |
 | **2026/05/13** | Observation of an aperiodic polariton monotile | Sergey Alyatkin et al. | [2605.13206v1](http://arxiv.org/abs/2605.13206v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/05/07** | Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition | Yiming Pan et al. | [2605.06199v2](http://arxiv.org/abs/2605.06199v2) | **NULL** |
 | **2026/05/07** | Quantum phase diagrams for bosons in hexagonal optical potentials: A continuous-space quantum Monte Carlo study | Danilo Nascimento Guimaraes et al. | [2605.06171v1](http://arxiv.org/abs/2605.06171v1) | **NULL** |
 | **2026/05/07** | Geometric Engineering of Flat Bands in a Single-layer Photonic Graphene | Dun Wang et al. | [2605.05690v1](http://arxiv.org/abs/2605.05690v1) | **NULL** |
-| **2026/05/07** | Nonlinear Hall quantum oscillations to probe topological Brown-Zak fermions in graphene moiré systems | Jinrui Zhong et al. | [2605.05681v1](http://arxiv.org/abs/2605.05681v1) | **NULL** |
-| **2026/05/07** | Inter-harmonic ratio structure and saturation of Bernstein modes in graphene | Miguel Tierz | [2605.05655v1](http://arxiv.org/abs/2605.05655v1) | **NULL** |
-| **2026/05/07** | Dynamically Characterizing the Structures of Dirac Points via Wave Packets | Dan-Dan Liang et al. | [2605.08236v1](http://arxiv.org/abs/2605.08236v1) | **NULL** |
-| **2026/05/06** | MLM: Multi-Layer Moire -- A Python Package for Generating Commensurate Supercells of Twisted Multilayer Two-Dimensional Materials | Anikeya Aditya et al. | [2605.05393v1](http://arxiv.org/abs/2605.05393v1) | **NULL** |
