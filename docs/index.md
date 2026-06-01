@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/05/26 11:44:32
+> Updated on 2026/06/01 12:16:29
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/26** | Raman spectroscopy at metal interfaces: A numerical study of the strong coupling regime | Zeyu Zhou et al. | [2605.27609v1](http://arxiv.org/abs/2605.27609v1) | **NULL** |
+| **2026/05/26** | Closed-Form Analytical Charge Response Model for Silicon Photomultipliers with Recursive Correlated Avalanches | Yiqi Liu et al. | [2605.27340v1](http://arxiv.org/abs/2605.27340v1) | **NULL** |
+| **2026/05/26** | A Counterexample to Kenig's Interpolation Problem for Sobolev Spaces with Zero Boundary Conditions | Xiaosheng Lin et al. | [2605.27119v1](http://arxiv.org/abs/2605.27119v1) | **NULL** |
+| **2026/05/26** | Sum of the $k$ Largest Eigenvalues of Symmetric Matrices: Theory and Applications | Shaowei Sun et al. | [2605.26707v2](http://arxiv.org/abs/2605.26707v2) | **NULL** |
 | **2026/05/25** | Tight cuts in matching covered graphs | Fuliang Lu et al. | [2605.25695v1](http://arxiv.org/abs/2605.25695v1) | **NULL** |
 | **2026/05/25** | AI-Driven SERS for Non-invasive and Label-Free Extracellular Vesicle Detection Across Cellular Origins in Tears and Sweat | Yang Li et al. | [2605.25465v1](http://arxiv.org/abs/2605.25465v1) | **NULL** |
 | **2026/05/23** | QCommE2E: An Open-Source Simulation of End-to-End Quantum Communication Systems | Omar Alnaseri | [2605.24723v1](http://arxiv.org/abs/2605.24723v1) | **NULL** |
@@ -43,15 +47,25 @@ layout: default
 | **2026/04/16** | Speech Emotion Recognition Using MFCC Features and LSTM-Based Deep Learning Model | Adelekun Oluwademilade et al. | [2604.25938v1](http://arxiv.org/abs/2604.25938v1) | **NULL** |
 | **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
 | **2026/04/15** | Partial Petrial Polynomials of Ribbon Graphs | Xiaoxiang Yu et al. | [2604.21942v1](http://arxiv.org/abs/2604.21942v1) | **NULL** |
-| **2026/04/14** | On the rainbow Cameron-Erdős problem with respect to generalized Sidon sets of multidimensional grids | Xihe Li et al. | [2604.12623v2](http://arxiv.org/abs/2604.12623v2) | **NULL** |
-| **2026/04/13** | Automated SVA Generation with LLMs | Lik Tung Fu et al. | [2604.11044v1](http://arxiv.org/abs/2604.11044v1) | **NULL** |
-| **2026/04/13** | Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu) | Hao Jin et al. | [2604.11850v1](http://arxiv.org/abs/2604.11850v1) | **NULL** |
-| **2026/04/13** | Ultrasensitive Nanoplastics Detection Leveraging Shrinking Surface Plasmonic Bubble | Yang Liu et al. | [2604.10871v1](http://arxiv.org/abs/2604.10871v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/05/29** | Feasibility study of continuous electronic Pomeranchuk cooling with a flavor-degenerate Wigner crystal | Robin J. Dolleman et al. | [2605.31307v1](http://arxiv.org/abs/2605.31307v1) | **NULL** |
+| **2026/05/28** | Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene | Owen I. Sheekey et al. | [2605.30316v1](http://arxiv.org/abs/2605.30316v1) | **NULL** |
+| **2026/05/28** | Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials | Yanmei Zang et al. | [2605.29821v1](http://arxiv.org/abs/2605.29821v1) | **NULL** |
+| **2026/05/28** | Breaking Bipartite and Time Reversal Symmetries by Fusing Porphine Unit in-between two Zigzag-edge Graphene Nanoribbons | R. K. Rohit et al. | [2605.29817v1](http://arxiv.org/abs/2605.29817v1) | **NULL** |
+| **2026/05/27** | Controlled Loop Expansion for Strained Twisted Bilayer Graphene | Eyal Keshet et al. | [2605.28937v1](http://arxiv.org/abs/2605.28937v1) | **NULL** |
+| **2026/05/27** | Symmetry breaking by quantum light in solid-state high-harmonic generation | P. Stammer et al. | [2605.28236v1](http://arxiv.org/abs/2605.28236v1) | **NULL** |
+| **2026/05/27** | Resonant excitation of terahertz surface magnetoplasmons by two p-polarized beating lasers interacting on a graphene-n-InSb surface | Rohit Kumar Srivastav et al. | [2605.28024v1](http://arxiv.org/abs/2605.28024v1) | **NULL** |
+| **2026/05/26** | Zero modes of non-abelian Dirac operator in topologically non-trivial band insulator | Neha Kumari et al. | [2605.27608v1](http://arxiv.org/abs/2605.27608v1) | **NULL** |
+| **2026/05/26** | MATBG Josephson diode as an universal thermal machine | Hadi Mohammed Soufy et al. | [2605.27560v1](http://arxiv.org/abs/2605.27560v1) | **NULL** |
+| **2026/05/26** | Absence of a Superradiant Phase Transition in Dirac Landau Polaritons | Elsa Jöchl et al. | [2605.27319v1](http://arxiv.org/abs/2605.27319v1) | **NULL** |
+| **2026/05/26** | Ultrafast signatures of Dirac / flat-band hybrid states from time-resolved ARPES | Maria-Elisabeth Federl et al. | [2605.26873v1](http://arxiv.org/abs/2605.26873v1) | **NULL** |
+| **2026/05/25** | Locally resolved electronic textures of reconstruction domains in marginally twisted monolayer-bilayer graphene | Sean M. Walker et al. | [2605.26393v1](http://arxiv.org/abs/2605.26393v1) | **NULL** |
+| **2026/05/25** | Resilience of the physicochemical properties of graphene-based materials for applications in harsh radiation environments | Marcilei A. Guazzelli et al. | [2605.26311v1](http://arxiv.org/abs/2605.26311v1) | **NULL** |
+| **2026/05/25** | Nematic Phase Transitions in Multilayer Graphene Systems | R. David Mayrhofer et al. | [2605.26270v1](http://arxiv.org/abs/2605.26270v1) | **NULL** |
 | **2026/05/25** | Machine Learning Multiscale Interactions | Àlex Solé et al. | [2605.25710v1](http://arxiv.org/abs/2605.25710v1) | **NULL** |
 | **2026/05/22** | Electrostatically stabilized surface flat bands in rhombohedral graphite at zero displacement field | Kryštof Kolář et al. | [2605.24080v1](http://arxiv.org/abs/2605.24080v1) | **NULL** |
 | **2026/05/22** | Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface | Sawani Datta et al. | [2605.23855v1](http://arxiv.org/abs/2605.23855v1) | **NULL** |
@@ -68,17 +82,3 @@ layout: default
 | **2026/05/20** | Chiral superconductors from parent states with non-uniform Berry curvature: Momentum-space vortices, BdG topology, and thermal Hall conductivity | L. David Le Nir et al. | [2605.21618v1](http://arxiv.org/abs/2605.21618v1) | **NULL** |
 | **2026/05/20** | Towards terahertz excitons in hydrogenated graphene superlattices | Vasil A. Saroka et al. | [2605.24027v1](http://arxiv.org/abs/2605.24027v1) | **NULL** |
 | **2026/05/20** | Ultra-Confinement of Polaritons in Single Atomic Layer Ag Photonic Quantum Dots | Xinyi Li et al. | [2605.21345v1](http://arxiv.org/abs/2605.21345v1) | **NULL** |
-| **2026/05/20** | Spin Peltier effect in graphene | Xin Theng Lee et al. | [2605.21087v1](http://arxiv.org/abs/2605.21087v1) | **NULL** |
-| **2026/05/20** | Generalized Phase Diagrams for Graphene CVD growth on Copper | Tongtong Wang et al. | [2605.20783v1](http://arxiv.org/abs/2605.20783v1) | **NULL** |
-| **2026/05/20** | Strain-Tuned Incommensurate Kekulé Spiral Order in Twisted Bilayer Graphene: a Quantum Many-Body Study | Cheng Huang et al. | [2605.20677v1](http://arxiv.org/abs/2605.20677v1) | **NULL** |
-| **2026/05/20** | Probing Lattice Dynamics in Real-Space and Real-Time | Navdeep Rana | [2605.20631v1](http://arxiv.org/abs/2605.20631v1) | **NULL** |
-| **2026/05/19** | Excitation-Energy-Selective Control of Hot-Carrier Cooling via a Resonant Optical-Phonon Bottleneck in Graphene | Sachin Sharm et al. | [2605.20430v1](http://arxiv.org/abs/2605.20430v1) | **NULL** |
-| **2026/05/19** | An AI-driven robotic system for two-dimensional hetero-assemblies | Xiaoxi Li et al. | [2605.20420v1](http://arxiv.org/abs/2605.20420v1) | **NULL** |
-| **2026/05/19** | Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics | Fabien Mortier et al. | [2605.20358v1](http://arxiv.org/abs/2605.20358v1) | **NULL** |
-| **2026/05/19** | Controlled expansion for correlated electrons with concentrated kinematics | Pavel A Nosov et al. | [2605.20171v1](http://arxiv.org/abs/2605.20171v1) | **NULL** |
-| **2026/05/19** | Probing tunable Kerr nonlinearity in graphene Josephson junctions | Priyanka Samanta et al. | [2605.20155v1](http://arxiv.org/abs/2605.20155v1) | **NULL** |
-| **2026/05/19** | Geometry-Dependent Crack Interaction and Toughening in Graphene | Suyeong Jin et al. | [2605.20017v1](http://arxiv.org/abs/2605.20017v1) | **NULL** |
-| **2026/05/19** | Non-Hermitian thermoelectric transport in graphene: Tunable anomalous transmission through complex barriers | Daniel A. Bonilla et al. | [2605.19907v1](http://arxiv.org/abs/2605.19907v1) | **NULL** |
-| **2026/05/19** | Impacts of annealing on structural and photophysical properties of zinc phthalocyanine adsorbed on graphene | Gautier Creutzer et al. | [2605.19676v1](http://arxiv.org/abs/2605.19676v1) | **NULL** |
-| **2026/05/18** | Spectral fringes without subcycles in Schwinger pair production and Dirac materials | I. A. Aleksandrov et al. | [2605.19086v1](http://arxiv.org/abs/2605.19086v1) | **NULL** |
-| **2026/05/18** | Qumus: Realization of An Embodied AI Quantum Material Experimentalist | Lihan Shi et al. | [2605.18407v1](http://arxiv.org/abs/2605.18407v1) | **NULL** |
