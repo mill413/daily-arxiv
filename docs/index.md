@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/01 12:16:29
+> Updated on 2026/06/02 12:09:50
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/01** | Stability of nontrivial graph pairs | Xiaomeng Wang et al. | [2606.02203v1](http://arxiv.org/abs/2606.02203v1) | **NULL** |
+| **2026/05/30** | Performance of DF Multihop Networks with TAS/GSC over Nakagami-m Fading Channels | Efendi Fidan et al. | [2606.00598v1](http://arxiv.org/abs/2606.00598v1) | **NULL** |
+| **2026/05/29** | Social learning community detection with nonlinear interaction | Anthony Couthures et al. | [2606.00268v1](http://arxiv.org/abs/2606.00268v1) | **NULL** |
 | **2026/05/26** | Raman spectroscopy at metal interfaces: A numerical study of the strong coupling regime | Zeyu Zhou et al. | [2605.27609v1](http://arxiv.org/abs/2605.27609v1) | **NULL** |
 | **2026/05/26** | Closed-Form Analytical Charge Response Model for Silicon Photomultipliers with Recursive Correlated Avalanches | Yiqi Liu et al. | [2605.27340v1](http://arxiv.org/abs/2605.27340v1) | **NULL** |
 | **2026/05/26** | A Counterexample to Kenig's Interpolation Problem for Sobolev Spaces with Zero Boundary Conditions | Xiaosheng Lin et al. | [2605.27119v1](http://arxiv.org/abs/2605.27119v1) | **NULL** |
@@ -44,14 +47,16 @@ layout: default
 | **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
 | **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
 | **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
-| **2026/04/16** | Speech Emotion Recognition Using MFCC Features and LSTM-Based Deep Learning Model | Adelekun Oluwademilade et al. | [2604.25938v1](http://arxiv.org/abs/2604.25938v1) | **NULL** |
-| **2026/04/15** | Sub-Nyquist time-domain surface-enhanced Raman mapping | Ting Wang et al. | [2604.14349v1](http://arxiv.org/abs/2604.14349v1) | **NULL** |
-| **2026/04/15** | Partial Petrial Polynomials of Ribbon Graphs | Xiaoxiang Yu et al. | [2604.21942v1](http://arxiv.org/abs/2604.21942v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/01** | Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices | Bao Q. Tu et al. | [2606.02338v1](http://arxiv.org/abs/2606.02338v1) | **NULL** |
+| **2026/06/01** | Integer quantum Hall effect | Hideo Aoki | [2606.01744v1](http://arxiv.org/abs/2606.01744v1) | **NULL** |
+| **2026/05/31** | Signatures of Rashba-Cavity-Induced Berry-curvature redistribution in the Spin-Hall Conductivity of Semiconductor Artificial Graphene | Maryam Mansouri et al. | [2606.01373v1](http://arxiv.org/abs/2606.01373v1) | **NULL** |
+| **2026/05/31** | Wilson Holonomy and Spectral Monodromy in Spin-Orbit Rings: Effective Gauge Connections and Loop Observables | N. Bolivar | [2606.01029v1](http://arxiv.org/abs/2606.01029v1) | **NULL** |
+| **2026/05/30** | Impact of Disorder Dynamics and Multi-Domain Kinetics on the Sliding Ferroelectricity of CVD-Grown 3R-WSe2 Bilayers | Sourav Paul et al. | [2606.00665v1](http://arxiv.org/abs/2606.00665v1) | **NULL** |
 | **2026/05/29** | Feasibility study of continuous electronic Pomeranchuk cooling with a flavor-degenerate Wigner crystal | Robin J. Dolleman et al. | [2605.31307v1](http://arxiv.org/abs/2605.31307v1) | **NULL** |
 | **2026/05/28** | Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene | Owen I. Sheekey et al. | [2605.30316v1](http://arxiv.org/abs/2605.30316v1) | **NULL** |
 | **2026/05/28** | Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials | Yanmei Zang et al. | [2605.29821v1](http://arxiv.org/abs/2605.29821v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/05/22** | Optical Transmission of 2D Material with Quantum Anomalous Hall Effect | Nathan Pravda et al. | [2605.23211v1](http://arxiv.org/abs/2605.23211v1) | **NULL** |
 | **2026/05/21** | Quantum Batteries in two-dimensional material-based Josephson Junctions | V. Varrica et al. | [2605.22582v1](http://arxiv.org/abs/2605.22582v1) | **NULL** |
 | **2026/05/21** | Transport Enhancement and In Situ Control of Electronic Correlation via Photoinduced Modulation Doping of van der Waals Heterostructures | Collin R. Sanborn et al. | [2605.22452v1](http://arxiv.org/abs/2605.22452v1) | **NULL** |
-| **2026/05/21** | Theory-Guided, Machine-Learning-Accelerated Discovery of a 3D Carbon Nested Nodal-Surface Semimetal | Shuaihua Zhang et al. | [2605.22141v1](http://arxiv.org/abs/2605.22141v1) | **NULL** |
-| **2026/05/20** | Quasiparticle GW for Superconductors: Toward a Unified Treatment of Electron-Phonon and Electron-Plasmon Couplings | Catalin D. Spataru et al. | [2605.21700v1](http://arxiv.org/abs/2605.21700v1) | **NULL** |
-| **2026/05/20** | Chiral superconductors from parent states with non-uniform Berry curvature: Momentum-space vortices, BdG topology, and thermal Hall conductivity | L. David Le Nir et al. | [2605.21618v1](http://arxiv.org/abs/2605.21618v1) | **NULL** |
-| **2026/05/20** | Towards terahertz excitons in hydrogenated graphene superlattices | Vasil A. Saroka et al. | [2605.24027v1](http://arxiv.org/abs/2605.24027v1) | **NULL** |
-| **2026/05/20** | Ultra-Confinement of Polaritons in Single Atomic Layer Ag Photonic Quantum Dots | Xinyi Li et al. | [2605.21345v1](http://arxiv.org/abs/2605.21345v1) | **NULL** |
