@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/02 12:09:50
+> Updated on 2026/06/10 11:55:13
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/09** | Towards Robust Arabic Speech Emotion Recognition with Deep Learning | Youcef Soufiane Gheffari et al. | [2606.10278v1](http://arxiv.org/abs/2606.10278v1) | **NULL** |
+| **2026/06/08** | A Meta-Learning Framework for Multitask Reverberation Mapping in Active Galactic Nuclei | Aman N. Raju et al. | [2606.09665v1](http://arxiv.org/abs/2606.09665v1) | **NULL** |
+| **2026/06/08** | New Baire category results for stochastic orders on bivariate copulas | María del Rosario Rodríguez-Griñolo et al. | [2606.09660v1](http://arxiv.org/abs/2606.09660v1) | **NULL** |
+| **2026/06/07** | Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition | Daniel Chen et al. | [2606.08573v1](http://arxiv.org/abs/2606.08573v1) | **NULL** |
+| **2026/06/05** | Acoustic Cue Alignment in Audio Language Models for Speech Emotion Recognition | Iosif Tsangko et al. | [2606.07309v1](http://arxiv.org/abs/2606.07309v1) | **NULL** |
+| **2026/06/04** | EPISODE II: Variability in the CO and H$_2$O rovibrational absorption lines in a periodically variable protostar EC 53 | Seokho Lee et al. | [2606.06628v2](http://arxiv.org/abs/2606.06628v2) | **NULL** |
+| **2026/06/04** | Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition | Jinyi Mi et al. | [2606.06200v1](http://arxiv.org/abs/2606.06200v1) | **NULL** |
+| **2026/06/04** | Geometric Second-Order Feature Correlation Learning for Self-Supervised Speech Emotion Recognition | Shuanglin Li et al. | [2606.06550v1](http://arxiv.org/abs/2606.06550v1) | **NULL** |
+| **2026/06/02** | Speech Emotion Recognition using Attention-based LSTM-Network with Residual Connection | Daniil Krasnoproshin et al. | [2606.03359v1](http://arxiv.org/abs/2606.03359v1) | **NULL** |
 | **2026/06/01** | Stability of nontrivial graph pairs | Xiaomeng Wang et al. | [2606.02203v1](http://arxiv.org/abs/2606.02203v1) | **NULL** |
 | **2026/05/30** | Performance of DF Multihop Networks with TAS/GSC over Nakagami-m Fading Channels | Efendi Fidan et al. | [2606.00598v1](http://arxiv.org/abs/2606.00598v1) | **NULL** |
 | **2026/05/29** | Social learning community detection with nonlinear interaction | Anthony Couthures et al. | [2606.00268v1](http://arxiv.org/abs/2606.00268v1) | **NULL** |
@@ -38,20 +47,29 @@ layout: default
 | **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
 | **2026/05/06** | The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets | P. D. Taylor-Burdett et al. | [2605.05158v1](http://arxiv.org/abs/2605.05158v1) | **NULL** |
 | **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
-| **2026/04/28** | Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research | Taryn Wong et al. | [2604.25776v1](http://arxiv.org/abs/2604.25776v1) | **NULL** |
-| **2026/04/28** | Dual-Polarized Massive MIMO Based on Precoding for Vehicle-To-Ground Communication in Urban Rail Transit | Zhengyuan Wu et al. | [2604.25217v1](http://arxiv.org/abs/2604.25217v1) | **NULL** |
-| **2026/04/27** | An exponentially small gap of the Perron vector on independent sets | Hongzhang Chen et al. | [2604.24077v1](http://arxiv.org/abs/2604.24077v1) | **NULL** |
-| **2026/04/20** | Warm-Start Quantum Approximate Optimization Algorithm for QAM MIMO Data Detection | Soumyadip Paul et al. | [2604.18479v1](http://arxiv.org/abs/2604.18479v1) | **NULL** |
-| **2026/04/20** | FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs | Yun Hong et al. | [2604.18159v1](http://arxiv.org/abs/2604.18159v1) | **NULL** |
-| **2026/04/19** | Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition | Girish et al. | [2604.17647v2](http://arxiv.org/abs/2604.17647v2) | **NULL** |
-| **2026/04/18** | Anonymization, Not Elimination: Utility-Preserved Speech Anonymization | Yunchong Xiao et al. | [2604.17000v1](http://arxiv.org/abs/2604.17000v1) | **NULL** |
-| **2026/04/17** | Extremal results for graphs with binding number strictly less than $1/r$ | Ruifang Liu et al. | [2604.16151v1](http://arxiv.org/abs/2604.16151v1) | **NULL** |
-| **2026/04/16** | Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID | Jiaxuan Li et al. | [2604.15090v1](http://arxiv.org/abs/2604.15090v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/09** | Optical fingerprints across the strain-driven semi-Dirac transition in Kekulé-O graphene | Yawar Mohammadi | [2606.10996v1](http://arxiv.org/abs/2606.10996v1) | **NULL** |
+| **2026/06/09** | Nonequilibrium Green Functions Simulations for Large Correlated Systems | Erik Schroedter et al. | [2606.10773v1](http://arxiv.org/abs/2606.10773v1) | **NULL** |
+| **2026/06/09** | Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures | Hansheng Xu et al. | [2606.10741v1](http://arxiv.org/abs/2606.10741v1) | **NULL** |
+| **2026/06/09** | Interaction-driven dynamics in graphene flakes as a benchmark for quantum simulation | Fabian Eickhoff et al. | [2606.10548v1](http://arxiv.org/abs/2606.10548v1) | **NULL** |
+| **2026/06/06** | Simultaneous nanoscale imaging of local conductivity and chemical potential in a quantum Hall isospin ferromagnet | Jiawei Hu et al. | [2606.08237v1](http://arxiv.org/abs/2606.08237v1) | **NULL** |
+| **2026/06/05** | Vacuum fluctuation induced quantum resource harvesting in triple-layer graphene | Yassine Dakir et al. | [2606.07306v1](http://arxiv.org/abs/2606.07306v1) | **NULL** |
+| **2026/06/05** | Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers | Alice Cartoceti et al. | [2606.06992v1](http://arxiv.org/abs/2606.06992v1) | **NULL** |
+| **2026/06/05** | Layer-Polarization-Driven Metal-Insulator Transition in multi-band Graphene Moire' Superlattices | Harsimran Kaur Mann et al. | [2606.06939v1](http://arxiv.org/abs/2606.06939v1) | **NULL** |
+| **2026/06/04** | 1/3 Fractional and Gapless Integer Quantum Anomalous Hall States in Rhombohedral Graphene | Jackson P. Butler et al. | [2606.06450v1](http://arxiv.org/abs/2606.06450v1) | **NULL** |
+| **2026/06/04** | Revealing quantum geometry effects in magic angle twisted bilayer graphene using the circular photogalvanic effect | Eylon Persky et al. | [2606.06389v1](http://arxiv.org/abs/2606.06389v1) | **NULL** |
+| **2026/06/04** | Majorana-like fermion physics: Emergence of topologically protected vortical states in graphene interacting with an electromagnetic field | H. V. Grushevskaya et al. | [2606.05746v1](http://arxiv.org/abs/2606.05746v1) | **NULL** |
+| **2026/06/03** | Fermiology and the Candidate Chiral Superconductor in Rhombohedral Tetralayer Graphene | Sandesh S. Kalantre et al. | [2606.05356v1](http://arxiv.org/abs/2606.05356v1) | **NULL** |
+| **2026/06/03** | Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses | Mingda Ding et al. | [2606.04504v1](http://arxiv.org/abs/2606.04504v1) | **NULL** |
+| **2026/06/02** | Attosecond pulse trains from graphene via macroscopic phase-matching in high harmonic generation | Sergio Martín-Domene et al. | [2606.03945v1](http://arxiv.org/abs/2606.03945v1) | **NULL** |
+| **2026/06/02** | Emergent Hall viscosity in the integer quantum Hall phases of graphene-like systems | M. Selch et al. | [2606.03932v1](http://arxiv.org/abs/2606.03932v1) | **NULL** |
+| **2026/06/02** | Ferroelectric-tunable quantum nonlinearity of chiral Bloch electrons in a moiré system | Zitian Pan et al. | [2606.03497v1](http://arxiv.org/abs/2606.03497v1) | **NULL** |
+| **2026/06/02** | Tailoring pure valley-Zeeman spin-orbit coupling in WSe$_2$-encapsulated monolayer graphene | Yaqing Han et al. | [2606.03278v1](http://arxiv.org/abs/2606.03278v1) | **NULL** |
+| **2026/06/01** | Second-Order Synaptic Memory using Inherent Plasticity of Moiré Superlattices | Tanweer Ahmed et al. | [2606.02931v1](http://arxiv.org/abs/2606.02931v1) | **NULL** |
 | **2026/06/01** | Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices | Bao Q. Tu et al. | [2606.02338v1](http://arxiv.org/abs/2606.02338v1) | **NULL** |
 | **2026/06/01** | Integer quantum Hall effect | Hideo Aoki | [2606.01744v1](http://arxiv.org/abs/2606.01744v1) | **NULL** |
 | **2026/05/31** | Signatures of Rashba-Cavity-Induced Berry-curvature redistribution in the Spin-Hall Conductivity of Semiconductor Artificial Graphene | Maryam Mansouri et al. | [2606.01373v1](http://arxiv.org/abs/2606.01373v1) | **NULL** |
@@ -64,21 +82,3 @@ layout: default
 | **2026/05/27** | Controlled Loop Expansion for Strained Twisted Bilayer Graphene | Eyal Keshet et al. | [2605.28937v1](http://arxiv.org/abs/2605.28937v1) | **NULL** |
 | **2026/05/27** | Symmetry breaking by quantum light in solid-state high-harmonic generation | P. Stammer et al. | [2605.28236v1](http://arxiv.org/abs/2605.28236v1) | **NULL** |
 | **2026/05/27** | Resonant excitation of terahertz surface magnetoplasmons by two p-polarized beating lasers interacting on a graphene-n-InSb surface | Rohit Kumar Srivastav et al. | [2605.28024v1](http://arxiv.org/abs/2605.28024v1) | **NULL** |
-| **2026/05/26** | Zero modes of non-abelian Dirac operator in topologically non-trivial band insulator | Neha Kumari et al. | [2605.27608v1](http://arxiv.org/abs/2605.27608v1) | **NULL** |
-| **2026/05/26** | MATBG Josephson diode as an universal thermal machine | Hadi Mohammed Soufy et al. | [2605.27560v1](http://arxiv.org/abs/2605.27560v1) | **NULL** |
-| **2026/05/26** | Absence of a Superradiant Phase Transition in Dirac Landau Polaritons | Elsa Jöchl et al. | [2605.27319v1](http://arxiv.org/abs/2605.27319v1) | **NULL** |
-| **2026/05/26** | Ultrafast signatures of Dirac / flat-band hybrid states from time-resolved ARPES | Maria-Elisabeth Federl et al. | [2605.26873v1](http://arxiv.org/abs/2605.26873v1) | **NULL** |
-| **2026/05/25** | Locally resolved electronic textures of reconstruction domains in marginally twisted monolayer-bilayer graphene | Sean M. Walker et al. | [2605.26393v1](http://arxiv.org/abs/2605.26393v1) | **NULL** |
-| **2026/05/25** | Resilience of the physicochemical properties of graphene-based materials for applications in harsh radiation environments | Marcilei A. Guazzelli et al. | [2605.26311v1](http://arxiv.org/abs/2605.26311v1) | **NULL** |
-| **2026/05/25** | Nematic Phase Transitions in Multilayer Graphene Systems | R. David Mayrhofer et al. | [2605.26270v1](http://arxiv.org/abs/2605.26270v1) | **NULL** |
-| **2026/05/25** | Machine Learning Multiscale Interactions | Àlex Solé et al. | [2605.25710v1](http://arxiv.org/abs/2605.25710v1) | **NULL** |
-| **2026/05/22** | Electrostatically stabilized surface flat bands in rhombohedral graphite at zero displacement field | Kryštof Kolář et al. | [2605.24080v1](http://arxiv.org/abs/2605.24080v1) | **NULL** |
-| **2026/05/22** | Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface | Sawani Datta et al. | [2605.23855v1](http://arxiv.org/abs/2605.23855v1) | **NULL** |
-| **2026/05/22** | Graphene-based Photodetector with Engineered Hot Carrier Cooling Dynamics | Yishu Huang et al. | [2605.23646v1](http://arxiv.org/abs/2605.23646v1) | **NULL** |
-| **2026/05/22** | C-band 160 Gbs-1 Zero-bias Graphene Photodetectors: Breaking the Responsivity-Bandwidth Trade-off by Heterostructure Engineering | Karuppasamy Pandian Soundarapandian et al. | [2605.23627v1](http://arxiv.org/abs/2605.23627v1) | **NULL** |
-| **2026/05/22** | Commensuration torques in double-moiré twisted trilayer hexagonal boron nitride and graphene heterostructures | Youngju Park et al. | [2605.23492v2](http://arxiv.org/abs/2605.23492v2) | **NULL** |
-| **2026/05/22** | Generalized Conductivity Modeling and Selective Harmonic Amplification in Time-Modulated Graphene Cavities | Ioannis M. Koutzoglou et al. | [2605.23374v1](http://arxiv.org/abs/2605.23374v1) | **NULL** |
-| **2026/05/22** | Cathodoluminescence Analysis of Defects and Grain Boundaries in Zn3P2 Thin Films Grown on Graphene by MOVPE and MBE | Thomas Hagger et al. | [2605.23357v1](http://arxiv.org/abs/2605.23357v1) | **NULL** |
-| **2026/05/22** | Optical Transmission of 2D Material with Quantum Anomalous Hall Effect | Nathan Pravda et al. | [2605.23211v1](http://arxiv.org/abs/2605.23211v1) | **NULL** |
-| **2026/05/21** | Quantum Batteries in two-dimensional material-based Josephson Junctions | V. Varrica et al. | [2605.22582v1](http://arxiv.org/abs/2605.22582v1) | **NULL** |
-| **2026/05/21** | Transport Enhancement and In Situ Control of Electronic Correlation via Photoinduced Modulation Doping of van der Waals Heterostructures | Collin R. Sanborn et al. | [2605.22452v1](http://arxiv.org/abs/2605.22452v1) | **NULL** |
