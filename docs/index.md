@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/10 11:55:13
+> Updated on 2026/06/13 11:57:51
 
 <summary>Table of Contents</summary>
 
@@ -52,7 +52,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
-| **2026/06/09** | Optical fingerprints across the strain-driven semi-Dirac transition in Kekulé-O graphene | Yawar Mohammadi | [2606.10996v1](http://arxiv.org/abs/2606.10996v1) | **NULL** |
+| **2026/06/11** | Engineering electrically-switchable quantum anomalous Hall states by spin-orbit coupling | Maosen Qin et al. | [2606.13651v1](http://arxiv.org/abs/2606.13651v1) | **NULL** |
+| **2026/06/11** | Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene | Ken Beard et al. | [2606.13434v1](http://arxiv.org/abs/2606.13434v1) | **NULL** |
+| **2026/06/10** | Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations | Elizane E. de Moraes et al. | [2606.12743v1](http://arxiv.org/abs/2606.12743v1) | **NULL** |
+| **2026/06/10** | Optical pulse-induced quantum geometric waves in graphene | Luis Fernando Cardenas Castillo et al. | [2606.12696v1](http://arxiv.org/abs/2606.12696v1) | **NULL** |
+| **2026/06/10** | Composite Quantum Geometry and Semiclassical Dynamics | Henry Davenport et al. | [2606.12525v1](http://arxiv.org/abs/2606.12525v1) | **NULL** |
+| **2026/06/10** | Stacking switching between correlation-protected radial Rashba field and persistent spin textures in graphene encapsulated by 1T-TaS$_2$ monolayers | Juraj Mnich et al. | [2606.12239v1](http://arxiv.org/abs/2606.12239v1) | **NULL** |
+| **2026/06/10** | Experimental straintronics in nanotube quantum dots | L. Huang et al. | [2606.12180v1](http://arxiv.org/abs/2606.12180v1) | **NULL** |
+| **2026/06/10** | Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure | Adam Hložný et al. | [2606.12104v1](http://arxiv.org/abs/2606.12104v1) | **NULL** |
+| **2026/06/10** | Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers | Dominik Lüthi et al. | [2606.11973v1](http://arxiv.org/abs/2606.11973v1) | **NULL** |
+| **2026/06/10** | Enhancement of nitride-based solar cells using graphene as transparent contact layer | Miriam Cadenas et al. | [2606.11941v1](http://arxiv.org/abs/2606.11941v1) | **NULL** |
+| **2026/06/10** | Kohn-Sham models for encapsulated two-dimensional materials | Éric Cancès et al. | [2606.11785v1](http://arxiv.org/abs/2606.11785v1) | **NULL** |
+| **2026/06/09** | Optical fingerprints across the strain-driven semi-Dirac transition in Kekulé-O graphene | Yawar Mohammadi | [2606.10996v2](http://arxiv.org/abs/2606.10996v2) | **NULL** |
 | **2026/06/09** | Nonequilibrium Green Functions Simulations for Large Correlated Systems | Erik Schroedter et al. | [2606.10773v1](http://arxiv.org/abs/2606.10773v1) | **NULL** |
 | **2026/06/09** | Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures | Hansheng Xu et al. | [2606.10741v1](http://arxiv.org/abs/2606.10741v1) | **NULL** |
 | **2026/06/09** | Interaction-driven dynamics in graphene flakes as a benchmark for quantum simulation | Fabian Eickhoff et al. | [2606.10548v1](http://arxiv.org/abs/2606.10548v1) | **NULL** |
@@ -71,14 +82,3 @@ layout: default
 | **2026/06/02** | Tailoring pure valley-Zeeman spin-orbit coupling in WSe$_2$-encapsulated monolayer graphene | Yaqing Han et al. | [2606.03278v1](http://arxiv.org/abs/2606.03278v1) | **NULL** |
 | **2026/06/01** | Second-Order Synaptic Memory using Inherent Plasticity of Moiré Superlattices | Tanweer Ahmed et al. | [2606.02931v1](http://arxiv.org/abs/2606.02931v1) | **NULL** |
 | **2026/06/01** | Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices | Bao Q. Tu et al. | [2606.02338v1](http://arxiv.org/abs/2606.02338v1) | **NULL** |
-| **2026/06/01** | Integer quantum Hall effect | Hideo Aoki | [2606.01744v1](http://arxiv.org/abs/2606.01744v1) | **NULL** |
-| **2026/05/31** | Signatures of Rashba-Cavity-Induced Berry-curvature redistribution in the Spin-Hall Conductivity of Semiconductor Artificial Graphene | Maryam Mansouri et al. | [2606.01373v1](http://arxiv.org/abs/2606.01373v1) | **NULL** |
-| **2026/05/31** | Wilson Holonomy and Spectral Monodromy in Spin-Orbit Rings: Effective Gauge Connections and Loop Observables | N. Bolivar | [2606.01029v1](http://arxiv.org/abs/2606.01029v1) | **NULL** |
-| **2026/05/30** | Impact of Disorder Dynamics and Multi-Domain Kinetics on the Sliding Ferroelectricity of CVD-Grown 3R-WSe2 Bilayers | Sourav Paul et al. | [2606.00665v1](http://arxiv.org/abs/2606.00665v1) | **NULL** |
-| **2026/05/29** | Feasibility study of continuous electronic Pomeranchuk cooling with a flavor-degenerate Wigner crystal | Robin J. Dolleman et al. | [2605.31307v1](http://arxiv.org/abs/2605.31307v1) | **NULL** |
-| **2026/05/28** | Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene | Owen I. Sheekey et al. | [2605.30316v1](http://arxiv.org/abs/2605.30316v1) | **NULL** |
-| **2026/05/28** | Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials | Yanmei Zang et al. | [2605.29821v1](http://arxiv.org/abs/2605.29821v1) | **NULL** |
-| **2026/05/28** | Breaking Bipartite and Time Reversal Symmetries by Fusing Porphine Unit in-between two Zigzag-edge Graphene Nanoribbons | R. K. Rohit et al. | [2605.29817v1](http://arxiv.org/abs/2605.29817v1) | **NULL** |
-| **2026/05/27** | Controlled Loop Expansion for Strained Twisted Bilayer Graphene | Eyal Keshet et al. | [2605.28937v1](http://arxiv.org/abs/2605.28937v1) | **NULL** |
-| **2026/05/27** | Symmetry breaking by quantum light in solid-state high-harmonic generation | P. Stammer et al. | [2605.28236v1](http://arxiv.org/abs/2605.28236v1) | **NULL** |
-| **2026/05/27** | Resonant excitation of terahertz surface magnetoplasmons by two p-polarized beating lasers interacting on a graphene-n-InSb surface | Rohit Kumar Srivastav et al. | [2605.28024v1](http://arxiv.org/abs/2605.28024v1) | **NULL** |
