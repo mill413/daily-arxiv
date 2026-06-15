@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/14 12:16:42
+> Updated on 2026/06/15 12:27:19
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/12** | A Qualitative Review of GenAI-Based Methods for Data Generation and Augmentation in Industrial Computer Vision Applications | Paul Koch et al. | [2606.14578v1](http://arxiv.org/abs/2606.14578v1) | **NULL** |
+| **2026/06/12** | Explainable and Trustworthy Speech Emotion Recognition Using Confidence Score and Reinforcement Learning Rectified Speech Emotion Descriptors | Youjun Chen et al. | [2606.14086v1](http://arxiv.org/abs/2606.14086v1) | **NULL** |
 | **2026/06/09** | Towards Robust Arabic Speech Emotion Recognition with Deep Learning | Youcef Soufiane Gheffari et al. | [2606.10278v1](http://arxiv.org/abs/2606.10278v1) | **NULL** |
 | **2026/06/08** | A Meta-Learning Framework for Multitask Reverberation Mapping in Active Galactic Nuclei | Aman N. Raju et al. | [2606.09665v1](http://arxiv.org/abs/2606.09665v1) | **NULL** |
 | **2026/06/08** | New Baire category results for stochastic orders on bivariate copulas | María del Rosario Rodríguez-Griñolo et al. | [2606.09660v1](http://arxiv.org/abs/2606.09660v1) | **NULL** |
@@ -45,13 +47,16 @@ layout: default
 | **2026/05/10** | On $\ell$-weakly cross $t$-intersecting families for sets and vector spaces | Shuhui Yu et al. | [2605.09557v2](http://arxiv.org/abs/2605.09557v2) | **NULL** |
 | **2026/05/08** | Static SERS with near-minus-one-epsilon substrate | Alexey P. Vinogradov et al. | [2605.07480v1](http://arxiv.org/abs/2605.07480v1) | **NULL** |
 | **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
-| **2026/05/06** | The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets | P. D. Taylor-Burdett et al. | [2605.05158v1](http://arxiv.org/abs/2605.05158v1) | **NULL** |
-| **2026/04/30** | Eclipsing time variations in close binaries produced by azimuthal dynamo waves | Felipe H. Navarrete et al. | [2604.27609v1](http://arxiv.org/abs/2604.27609v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/12** | Monolithic hybrid quantum dot devices in superconducting twisted bilayer graphene | Alexandra Mestre-Torà et al. | [2606.14685v1](http://arxiv.org/abs/2606.14685v1) | **NULL** |
+| **2026/06/12** | On-chip superconducting GHz RF reflectometry of the capacitance response in bilayer graphene | Sung Jin An et al. | [2606.14431v1](http://arxiv.org/abs/2606.14431v1) | **NULL** |
+| **2026/06/12** | Strain- and doping-tunable optical resonance in Kekulé-Y graphene | Yawar Mohammadi | [2606.14424v1](http://arxiv.org/abs/2606.14424v1) | **NULL** |
+| **2026/06/12** | A new class of degenerate solutions to the massless Dirac equation and their potential applications in optical memories | Georgios N. Tsigaridas et al. | [2606.14256v1](http://arxiv.org/abs/2606.14256v1) | **NULL** |
+| **2026/06/12** | General Theory for Ferroelectric Control of Spin Splitting in Collinear Antiferromagnets | Zhihao Dai et al. | [2606.14055v1](http://arxiv.org/abs/2606.14055v1) | **NULL** |
 | **2026/06/11** | Engineering electrically-switchable quantum anomalous Hall states by spin-orbit coupling | Maosen Qin et al. | [2606.13651v1](http://arxiv.org/abs/2606.13651v1) | **NULL** |
 | **2026/06/11** | Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene | Ken Beard et al. | [2606.13434v1](http://arxiv.org/abs/2606.13434v1) | **NULL** |
 | **2026/06/10** | Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations | Elizane E. de Moraes et al. | [2606.12743v1](http://arxiv.org/abs/2606.12743v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/06/03** | Fermiology and the Candidate Chiral Superconductor in Rhombohedral Tetralayer Graphene | Sandesh S. Kalantre et al. | [2606.05356v1](http://arxiv.org/abs/2606.05356v1) | **NULL** |
 | **2026/06/03** | Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses | Mingda Ding et al. | [2606.04504v1](http://arxiv.org/abs/2606.04504v1) | **NULL** |
 | **2026/06/02** | Attosecond pulse trains from graphene via macroscopic phase-matching in high harmonic generation | Sergio Martín-Domene et al. | [2606.03945v1](http://arxiv.org/abs/2606.03945v1) | **NULL** |
-| **2026/06/02** | Emergent Hall viscosity in the integer quantum Hall phases of graphene-like systems | M. Selch et al. | [2606.03932v1](http://arxiv.org/abs/2606.03932v1) | **NULL** |
-| **2026/06/02** | Ferroelectric-tunable quantum nonlinearity of chiral Bloch electrons in a moiré system | Zitian Pan et al. | [2606.03497v1](http://arxiv.org/abs/2606.03497v1) | **NULL** |
-| **2026/06/02** | Tailoring pure valley-Zeeman spin-orbit coupling in WSe$_2$-encapsulated monolayer graphene | Yaqing Han et al. | [2606.03278v1](http://arxiv.org/abs/2606.03278v1) | **NULL** |
-| **2026/06/01** | Second-Order Synaptic Memory using Inherent Plasticity of Moiré Superlattices | Tanweer Ahmed et al. | [2606.02931v1](http://arxiv.org/abs/2606.02931v1) | **NULL** |
-| **2026/06/01** | Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices | Bao Q. Tu et al. | [2606.02338v1](http://arxiv.org/abs/2606.02338v1) | **NULL** |
