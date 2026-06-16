@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/15 12:27:19
+> Updated on 2026/06/16 12:23:11
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/12** | Symbol Error Analysis of Linear Receivers in Terahertz Channels under Channel-Noise Dependence | Almutasem Bellah Enad et al. | [2606.15006v1](http://arxiv.org/abs/2606.15006v1) | **NULL** |
 | **2026/06/12** | A Qualitative Review of GenAI-Based Methods for Data Generation and Augmentation in Industrial Computer Vision Applications | Paul Koch et al. | [2606.14578v1](http://arxiv.org/abs/2606.14578v1) | **NULL** |
 | **2026/06/12** | Explainable and Trustworthy Speech Emotion Recognition Using Confidence Score and Reinforcement Learning Rectified Speech Emotion Descriptors | Youjun Chen et al. | [2606.14086v1](http://arxiv.org/abs/2606.14086v1) | **NULL** |
 | **2026/06/09** | Towards Robust Arabic Speech Emotion Recognition with Deep Learning | Youcef Soufiane Gheffari et al. | [2606.10278v1](http://arxiv.org/abs/2606.10278v1) | **NULL** |
@@ -46,12 +47,18 @@ layout: default
 | **2026/05/13** | On weak convergence in Köthe-Bochner function spaces | José Rodríguez | [2605.13240v1](http://arxiv.org/abs/2605.13240v1) | **NULL** |
 | **2026/05/10** | On $\ell$-weakly cross $t$-intersecting families for sets and vector spaces | Shuhui Yu et al. | [2605.09557v2](http://arxiv.org/abs/2605.09557v2) | **NULL** |
 | **2026/05/08** | Static SERS with near-minus-one-epsilon substrate | Alexey P. Vinogradov et al. | [2605.07480v1](http://arxiv.org/abs/2605.07480v1) | **NULL** |
-| **2026/05/07** | Locally Repairable Codes with Availability via Elliptic Function Fields | Junjie Huang et al. | [2605.06182v1](http://arxiv.org/abs/2605.06182v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/15** | Optical vortex probe of loop-current chirality in moiré materials | Nobuhiko Yokoshi et al. | [2606.16676v1](http://arxiv.org/abs/2606.16676v1) | **NULL** |
+| **2026/06/15** | Intervalley coherence and flavor polarization in three-valley moiré systems | Jeyong Park et al. | [2606.16622v1](http://arxiv.org/abs/2606.16622v1) | **NULL** |
+| **2026/06/15** | Interfacial Magnetotransport in a NiI_2/Graphene Heterostructure | Stasiu Thomas Chyczewski et al. | [2606.16594v1](http://arxiv.org/abs/2606.16594v1) | **NULL** |
+| **2026/06/15** | Direct Nanoscale Pyroelectric Characterization of a CuInP${}_2$S${}_6$ van der Waals Nanogenerator | Valentin Fonck et al. | [2606.16410v1](http://arxiv.org/abs/2606.16410v1) | **NULL** |
+| **2026/06/14** | Quantum Information Geometry of Multicomponent Superconducting Fluctuation Transport | Zi-Ting Sun et al. | [2606.15928v1](http://arxiv.org/abs/2606.15928v1) | **NULL** |
+| **2026/06/14** | Mapping the Stability of Spin Qubits in Superconducting Pseudogap Systems | Chen-How Huang et al. | [2606.15711v1](http://arxiv.org/abs/2606.15711v1) | **NULL** |
+| **2026/06/12** | Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene | Vo Tien Phong et al. | [2606.14878v1](http://arxiv.org/abs/2606.14878v1) | **NULL** |
 | **2026/06/12** | Monolithic hybrid quantum dot devices in superconducting twisted bilayer graphene | Alexandra Mestre-Torà et al. | [2606.14685v1](http://arxiv.org/abs/2606.14685v1) | **NULL** |
 | **2026/06/12** | On-chip superconducting GHz RF reflectometry of the capacitance response in bilayer graphene | Sung Jin An et al. | [2606.14431v1](http://arxiv.org/abs/2606.14431v1) | **NULL** |
 | **2026/06/12** | Strain- and doping-tunable optical resonance in Kekulé-Y graphene | Yawar Mohammadi | [2606.14424v1](http://arxiv.org/abs/2606.14424v1) | **NULL** |
@@ -75,10 +82,3 @@ layout: default
 | **2026/06/06** | Simultaneous nanoscale imaging of local conductivity and chemical potential in a quantum Hall isospin ferromagnet | Jiawei Hu et al. | [2606.08237v1](http://arxiv.org/abs/2606.08237v1) | **NULL** |
 | **2026/06/05** | Vacuum fluctuation induced quantum resource harvesting in triple-layer graphene | Yassine Dakir et al. | [2606.07306v1](http://arxiv.org/abs/2606.07306v1) | **NULL** |
 | **2026/06/05** | Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers | Alice Cartoceti et al. | [2606.06992v1](http://arxiv.org/abs/2606.06992v1) | **NULL** |
-| **2026/06/05** | Layer-Polarization-Driven Metal-Insulator Transition in multi-band Graphene Moire' Superlattices | Harsimran Kaur Mann et al. | [2606.06939v1](http://arxiv.org/abs/2606.06939v1) | **NULL** |
-| **2026/06/04** | 1/3 Fractional and Gapless Integer Quantum Anomalous Hall States in Rhombohedral Graphene | Jackson P. Butler et al. | [2606.06450v1](http://arxiv.org/abs/2606.06450v1) | **NULL** |
-| **2026/06/04** | Revealing quantum geometry effects in magic angle twisted bilayer graphene using the circular photogalvanic effect | Eylon Persky et al. | [2606.06389v1](http://arxiv.org/abs/2606.06389v1) | **NULL** |
-| **2026/06/04** | Majorana-like fermion physics: Emergence of topologically protected vortical states in graphene interacting with an electromagnetic field | H. V. Grushevskaya et al. | [2606.05746v1](http://arxiv.org/abs/2606.05746v1) | **NULL** |
-| **2026/06/03** | Fermiology and the Candidate Chiral Superconductor in Rhombohedral Tetralayer Graphene | Sandesh S. Kalantre et al. | [2606.05356v1](http://arxiv.org/abs/2606.05356v1) | **NULL** |
-| **2026/06/03** | Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses | Mingda Ding et al. | [2606.04504v1](http://arxiv.org/abs/2606.04504v1) | **NULL** |
-| **2026/06/02** | Attosecond pulse trains from graphene via macroscopic phase-matching in high harmonic generation | Sergio Martín-Domene et al. | [2606.03945v1](http://arxiv.org/abs/2606.03945v1) | **NULL** |
