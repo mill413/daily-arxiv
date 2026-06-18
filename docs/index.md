@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/17 12:18:02
+> Updated on 2026/06/18 12:10:11
 
 <summary>Table of Contents</summary>
 
@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/17** | Shape Sensing of Continuum Robots using Direct Laser Writing | Amber K. Rothe et al. | [2606.19265v1](http://arxiv.org/abs/2606.19265v1) | **NULL** |
+| **2026/06/17** | Emergence of Resonating Valence-Bond Correlations in Stretched Graphene | Sam Azadi et al. | [2606.18973v1](http://arxiv.org/abs/2606.18973v1) | **NULL** |
+| **2026/06/17** | Electron state tomography from quasiparticle interference maps | A. Razanajatovo et al. | [2606.18858v1](http://arxiv.org/abs/2606.18858v1) | **NULL** |
+| **2026/06/16** | Persistent current and orbital magnetization along a valley-contrasting junction in bilayer graphene in a magnetic field | K. Shizuya | [2606.18461v1](http://arxiv.org/abs/2606.18461v1) | **NULL** |
 | **2026/06/16** | Semiclassical Analysis of Tunneling in Graphene under Nonuniform Electrostatic and Magnetic Fields | Maria V. Perel | [2606.17689v1](http://arxiv.org/abs/2606.17689v1) | **NULL** |
 | **2026/06/16** | Graphene Josephson diodes from inherent asymmetric disorder | Ivan Villani et al. | [2606.17673v1](http://arxiv.org/abs/2606.17673v1) | **NULL** |
 | **2026/06/15** | Operator ordering as an emergent gauge field in twisted bilayer graphene: singular spectral signatures at the magic angle | C. A. S. Almeida | [2606.17349v1](http://arxiv.org/abs/2606.17349v1) | **NULL** |
@@ -78,7 +82,3 @@ layout: default
 | **2026/06/10** | Experimental straintronics in nanotube quantum dots | L. Huang et al. | [2606.12180v1](http://arxiv.org/abs/2606.12180v1) | **NULL** |
 | **2026/06/10** | Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure | Adam Hložný et al. | [2606.12104v1](http://arxiv.org/abs/2606.12104v1) | **NULL** |
 | **2026/06/10** | Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers | Dominik Lüthi et al. | [2606.11973v1](http://arxiv.org/abs/2606.11973v1) | **NULL** |
-| **2026/06/10** | Enhancement of nitride-based solar cells using graphene as transparent contact layer | Miriam Cadenas et al. | [2606.11941v1](http://arxiv.org/abs/2606.11941v1) | **NULL** |
-| **2026/06/10** | Kohn-Sham models for encapsulated two-dimensional materials | Éric Cancès et al. | [2606.11785v1](http://arxiv.org/abs/2606.11785v1) | **NULL** |
-| **2026/06/09** | Optical fingerprints across the strain-driven semi-Dirac transition in Kekulé-O graphene | Yawar Mohammadi | [2606.10996v2](http://arxiv.org/abs/2606.10996v2) | **NULL** |
-| **2026/06/09** | Nonequilibrium Green Functions Simulations for Large Correlated Systems | Erik Schroedter et al. | [2606.10773v1](http://arxiv.org/abs/2606.10773v1) | **NULL** |
