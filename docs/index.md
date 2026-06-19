@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/18 12:10:11
+> Updated on 2026/06/19 12:28:53
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/18** | Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications | Paul Koch et al. | [2606.20272v1](http://arxiv.org/abs/2606.20272v1) | **NULL** |
 | **2026/06/16** | MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition | Tanmay Srivastava et al. | [2606.18228v1](http://arxiv.org/abs/2606.18228v1) | **NULL** |
 | **2026/06/16** | Constellation Design for Nonlinear Unified SWIPT Receiver Channels with Memory | Triantafyllos Mavrovoltsos et al. | [2606.17903v1](http://arxiv.org/abs/2606.17903v1) | **NULL** |
 | **2026/06/16** | Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation | Rick Fritschek et al. | [2606.17893v1](http://arxiv.org/abs/2606.17893v1) | **NULL** |
@@ -46,12 +47,16 @@ layout: default
 | **2026/05/20** | Label-free SERS Discrimination of Native Proline Hydroxylation at Single-molecule peptide by Deep Learning-assisted plasmonic nanopore | Yingqi Zhao et al. | [2605.21084v1](http://arxiv.org/abs/2605.21084v1) | **NULL** |
 | **2026/05/20** | Gold Bipyramids as a Promising Alternative to Gold Nanorods for Analytical and Biomedical Applications | Andrey M. Burov et al. | [2605.20582v1](http://arxiv.org/abs/2605.20582v1) | **NULL** |
 | **2026/05/15** | A non-logarithmic approach to the rate of convergence of the deterministic chaos game | Krzysztof Caban et al. | [2605.15830v1](http://arxiv.org/abs/2605.15830v1) | **NULL** |
-| **2026/05/14** | HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks | Mahad Mohtashim et al. | [2605.14523v1](http://arxiv.org/abs/2605.14523v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/18** | Correlated Mott semi-metal in the topological heavy fermion model | Emile Pangburn et al. | [2606.20466v1](http://arxiv.org/abs/2606.20466v1) | **NULL** |
+| **2026/06/18** | Charge imprinting biases topology of correlated insulator in hBN-aligned rhombohedral multilayer graphene | Lei Qiao et al. | [2606.20377v1](http://arxiv.org/abs/2606.20377v1) | **NULL** |
+| **2026/06/18** | Diagnosing the origin of quantum oscillation beating in graphene | Akash Adhikary et al. | [2606.20339v1](http://arxiv.org/abs/2606.20339v1) | **NULL** |
+| **2026/06/18** | Tunable Flat Bands and magnetism in Triangulene-based Superatomic Graphene | Wenya Zhai et al. | [2606.20321v1](http://arxiv.org/abs/2606.20321v1) | **NULL** |
+| **2026/06/18** | Terahertz frequency upconversion by coherently driving charge dynamics in the InSb/CdTe heterostructure | Pai Peng et al. | [2606.20080v1](http://arxiv.org/abs/2606.20080v1) | **NULL** |
 | **2026/06/17** | Shape Sensing of Continuum Robots using Direct Laser Writing | Amber K. Rothe et al. | [2606.19265v1](http://arxiv.org/abs/2606.19265v1) | **NULL** |
 | **2026/06/17** | Emergence of Resonating Valence-Bond Correlations in Stretched Graphene | Sam Azadi et al. | [2606.18973v1](http://arxiv.org/abs/2606.18973v1) | **NULL** |
 | **2026/06/17** | Electron state tomography from quasiparticle interference maps | A. Razanajatovo et al. | [2606.18858v1](http://arxiv.org/abs/2606.18858v1) | **NULL** |
@@ -77,8 +82,3 @@ layout: default
 | **2026/06/11** | Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene | Ken Beard et al. | [2606.13434v1](http://arxiv.org/abs/2606.13434v1) | **NULL** |
 | **2026/06/10** | Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations | Elizane E. de Moraes et al. | [2606.12743v1](http://arxiv.org/abs/2606.12743v1) | **NULL** |
 | **2026/06/10** | Optical pulse-induced quantum geometric waves in graphene | Luis Fernando Cardenas Castillo et al. | [2606.12696v1](http://arxiv.org/abs/2606.12696v1) | **NULL** |
-| **2026/06/10** | Composite Quantum Geometry and Semiclassical Dynamics | Henry Davenport et al. | [2606.12525v1](http://arxiv.org/abs/2606.12525v1) | **NULL** |
-| **2026/06/10** | Stacking switching between correlation-protected radial Rashba field and persistent spin textures in graphene encapsulated by 1T-TaS$_2$ monolayers | Juraj Mnich et al. | [2606.12239v1](http://arxiv.org/abs/2606.12239v1) | **NULL** |
-| **2026/06/10** | Experimental straintronics in nanotube quantum dots | L. Huang et al. | [2606.12180v1](http://arxiv.org/abs/2606.12180v1) | **NULL** |
-| **2026/06/10** | Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure | Adam Hložný et al. | [2606.12104v1](http://arxiv.org/abs/2606.12104v1) | **NULL** |
-| **2026/06/10** | Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers | Dominik Lüthi et al. | [2606.11973v1](http://arxiv.org/abs/2606.11973v1) | **NULL** |
