@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/06/26 11:55:29
+> Updated on 2026/07/03 11:26:17
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/06/30** | AETDICE: Unified Framework and Offline Optimization for Nonlinear Multi-Objective RL | Woosung Kim et al. | [2606.31178v1](http://arxiv.org/abs/2606.31178v1) | **NULL** |
+| **2026/06/29** | SIGMA: Saliency-Guided Sparse Mask Attacks for Speech Emotion Recognition | Qiyang Sun et al. | [2606.30550v1](http://arxiv.org/abs/2606.30550v1) | **NULL** |
+| **2026/06/25** | Learning from Annotation Uncertainty: Entropy-Aware Curriculum for Speech Emotion Recognition | Zahra Omidi et al. | [2606.27536v1](http://arxiv.org/abs/2606.27536v1) | **NULL** |
 | **2026/06/25** | Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification | Nicolas Spiesshofer et al. | [2606.27367v1](http://arxiv.org/abs/2606.27367v1) | **NULL** |
 | **2026/06/24** | A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications | Eylon E. Krause | [2606.26464v1](http://arxiv.org/abs/2606.26464v1) | **NULL** |
 | **2026/06/23** | Defect Engineered 2D MoS2 Materials for ML-enabled Neurotransmitter SERS Detection | Md Arifur R. Khan et al. | [2606.25235v1](http://arxiv.org/abs/2606.25235v1) | **NULL** |
@@ -44,14 +47,33 @@ layout: default
 | **2026/06/04** | Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition | Jinyi Mi et al. | [2606.06200v1](http://arxiv.org/abs/2606.06200v1) | **NULL** |
 | **2026/06/04** | Geometric Second-Order Feature Correlation Learning for Self-Supervised Speech Emotion Recognition | Shuanglin Li et al. | [2606.06550v1](http://arxiv.org/abs/2606.06550v1) | **NULL** |
 | **2026/06/02** | Speech Emotion Recognition using Attention-based LSTM-Network with Residual Connection | Daniil Krasnoproshin et al. | [2606.03359v1](http://arxiv.org/abs/2606.03359v1) | **NULL** |
-| **2026/06/01** | Stability of nontrivial graph pairs | Xiaomeng Wang et al. | [2606.02203v1](http://arxiv.org/abs/2606.02203v1) | **NULL** |
-| **2026/05/30** | Performance of DF Multihop Networks with TAS/GSC over Nakagami-m Fading Channels | Efendi Fidan et al. | [2606.00598v1](http://arxiv.org/abs/2606.00598v1) | **NULL** |
-| **2026/05/29** | Social learning community detection with nonlinear interaction | Anthony Couthures et al. | [2606.00268v2](http://arxiv.org/abs/2606.00268v2) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/07/02** | Disorder-induced superconductivity in graphene | Jannes van Poppelen et al. | [2607.02267v1](http://arxiv.org/abs/2607.02267v1) | **NULL** |
+| **2026/07/02** | A depth resolved investigation of hydrogen uptake in carbon based nanostructures by soft-to-hard photoemission spectroscopy | Orlando Castellano et al. | [2607.02022v1](http://arxiv.org/abs/2607.02022v1) | **NULL** |
+| **2026/07/01** | Lamb Shift of a Static Atom Facing a Rotating Surface | César D. Fosco et al. | [2607.01495v1](http://arxiv.org/abs/2607.01495v1) | **NULL** |
+| **2026/07/01** | Confinement in a magnetically induced WSe$_2$ quantum dots | Rachid El Aitouni et al. | [2607.01192v1](http://arxiv.org/abs/2607.01192v1) | **NULL** |
+| **2026/07/01** | Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$ | Harry Rankin et al. | [2607.01186v1](http://arxiv.org/abs/2607.01186v1) | **NULL** |
+| **2026/07/01** | Bandwidth-Limited Critical Currents in Electrically Tunable Moiré Bands | Riccardo Bertini et al. | [2607.01056v1](http://arxiv.org/abs/2607.01056v1) | **NULL** |
+| **2026/06/30** | Valley-dependent electron optics using quantum dots in bilayer graphene | Fereshte Ildarabadi et al. | [2607.00271v1](http://arxiv.org/abs/2607.00271v1) | **NULL** |
+| **2026/06/30** | Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy | Pankaj Kumar et al. | [2606.31934v1](http://arxiv.org/abs/2606.31934v1) | **NULL** |
+| **2026/06/30** | Strain-Tunable Harmonic Responses in Valley-Polarized Bilayer Graphene | Narjes Kheirabadi et al. | [2606.31684v1](http://arxiv.org/abs/2606.31684v1) | **NULL** |
+| **2026/06/30** | Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2 | Jiao Xie et al. | [2606.31267v1](http://arxiv.org/abs/2606.31267v1) | **NULL** |
+| **2026/06/30** | Atom diffraction in the strong-coupling regime | Carina Kanitz et al. | [2606.31183v1](http://arxiv.org/abs/2606.31183v1) | **NULL** |
+| **2026/06/30** | Tunable Extended Magnetic Non-Fermi Liquid in Graphene Moiré Heterostructures | Yongqin Xie et al. | [2606.31028v1](http://arxiv.org/abs/2606.31028v1) | **NULL** |
+| **2026/06/29** | Carbon encapsulation of levitated Au nanoparticles | Joyce E. Coppock et al. | [2606.30858v1](http://arxiv.org/abs/2606.30858v1) | **NULL** |
+| **2026/06/29** | Microfabricated Au and Au/graphene bilayer platelets for levitation experiments | Sunghyun Kim et al. | [2606.30591v1](http://arxiv.org/abs/2606.30591v1) | **NULL** |
+| **2026/06/29** | Mechanical Manipulation of Graphene Auto-Kirigami with an AFM tip | Pierce C. Sinnott et al. | [2606.30472v1](http://arxiv.org/abs/2606.30472v1) | **NULL** |
+| **2026/06/29** | Phonon-driven Floquet-Bloch states probed by quantum beat spectroscopy | Yu-Chan Tai et al. | [2606.30065v1](http://arxiv.org/abs/2606.30065v1) | **NULL** |
+| **2026/06/29** | Spin-1 Dirac dispersion and Chern insulating phases in 2D honeycomb Sierpiński fractal | Shneha Biswas et al. | [2606.29827v1](http://arxiv.org/abs/2606.29827v1) | **NULL** |
+| **2026/06/28** | Probing Quantum Geometric Phases via Scanning Tunneling Microscopy | Chao Yan et al. | [2606.29564v1](http://arxiv.org/abs/2606.29564v1) | **NULL** |
+| **2026/06/26** | Graphene as a Tunable Nonradiative Bath for Moiré Excitons | Katsunori Wakabayashi | [2606.28591v1](http://arxiv.org/abs/2606.28591v1) | **NULL** |
+| **2026/06/26** | Vortex-enhanced photovoltaic current in disordered topological materials | Pavlo Sukhachov et al. | [2606.28509v1](http://arxiv.org/abs/2606.28509v1) | **NULL** |
+| **2026/06/26** | Determining Electron Beam Lateral Coherence in a Scanning Electron Microscope Using Electron Diffraction | Evelijn Akerboom et al. | [2606.28056v1](http://arxiv.org/abs/2606.28056v1) | **NULL** |
+| **2026/06/25** | Mapping the Growth of Two-Dimensional $π$-Conjugated Polymers on Au(111): Organometallic Intermediates and Edge Terminations | Simon W. Briesenick et al. | [2606.27512v1](http://arxiv.org/abs/2606.27512v1) | **NULL** |
 | **2026/06/25** | Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem | Christopher A. Leong et al. | [2606.27370v1](http://arxiv.org/abs/2606.27370v1) | **NULL** |
 | **2026/06/25** | Plasmonic coated scatterers for tunable coherent perfect absorption | Ali Ghorashi et al. | [2606.27218v1](http://arxiv.org/abs/2606.27218v1) | **NULL** |
 | **2026/06/25** | Low-energy model for doped graphene nanoribbons | J. Ferrer et al. | [2606.27102v1](http://arxiv.org/abs/2606.27102v1) | **NULL** |
@@ -60,25 +82,3 @@ layout: default
 | **2026/06/23** | Local spectroscopy of anyons bound to charge traps | Jeong Min Park et al. | [2606.25024v1](http://arxiv.org/abs/2606.25024v1) | **NULL** |
 | **2026/06/23** | Interaction-Enhanced Ergotropy in Phase-Driven Andreev Bound State Quantum Batteries | Disha Verma et al. | [2606.24456v2](http://arxiv.org/abs/2606.24456v2) | **NULL** |
 | **2026/06/22** | Probing the pairing symmetry of moiré graphene superconductors | Sayak Biswas et al. | [2606.23994v1](http://arxiv.org/abs/2606.23994v1) | **NULL** |
-| **2026/06/22** | Fine structure of the cyclotron resonance in heterobilayers of proximitized graphene and transition metal dichalcogenides | M. A. Rakitskii et al. | [2606.23895v1](http://arxiv.org/abs/2606.23895v1) | **NULL** |
-| **2026/06/22** | Visualizing Symmetry Broken Chern Insulators and their Quantum Melting | Minhao He et al. | [2606.23795v1](http://arxiv.org/abs/2606.23795v1) | **NULL** |
-| **2026/06/22** | Magnetic-Free Quantum Interference and Universal Josephson Diode Effect Driven by a Supercurrent Gauge Field | Haowei Ye et al. | [2606.23479v1](http://arxiv.org/abs/2606.23479v1) | **NULL** |
-| **2026/06/22** | Kohn-Luttinger like superconductivity in twisted bilayer graphene at large twist angles | A. O. Sboychakov | [2606.23308v1](http://arxiv.org/abs/2606.23308v1) | **NULL** |
-| **2026/06/22** | Harnessing Josephson-Shapiro physics to verify interlayer exciton superfluidity | Filippo Pascucci et al. | [2606.23303v1](http://arxiv.org/abs/2606.23303v1) | **NULL** |
-| **2026/06/22** | Step-Edge Passivation and Quantitative Raman Mapping of Transfer Quality in Aligned Graphene Nanoribbons | Dominik Lüthi et al. | [2606.23304v1](http://arxiv.org/abs/2606.23304v1) | **NULL** |
-| **2026/06/20** | Fine-Tuned Machine-Learned Interatomic Potentials for Structural and Vibrational Properties of Twisted 2D Materials | Viet-Anh Tran et al. | [2606.22234v1](http://arxiv.org/abs/2606.22234v1) | **NULL** |
-| **2026/06/20** | False Summit and Silent Drift: A Failure Taxonomy and Efficiency Analysis of LLM-Assisted Multiphysics Simulation in an Open-Source Framework | Chi-Chun Chiang et al. | [2606.21841v1](http://arxiv.org/abs/2606.21841v1) | **NULL** |
-| **2026/06/19** | Controlling the phase behaviour of ultraconfined water via bilayer graphene stacking | Yixuan Pu et al. | [2606.21490v1](http://arxiv.org/abs/2606.21490v1) | **NULL** |
-| **2026/06/19** | Peripheral Nitrogen Topology as a Defect-Chemical Switch for Electronic and Magnetic States in Graphene: A First-Principles Study of Pyridinic, Pyridazinic, Pyrrolic, and Pyrazolic Configurations | Md. Moktadir Billah Tahmid et al. | [2606.21480v1](http://arxiv.org/abs/2606.21480v1) | **NULL** |
-| **2026/06/19** | In-plane and out-of-plane magnetic field driven Josephson diode effect in magic-angle twisted four-layer graphene | Marta Perego et al. | [2606.21229v1](http://arxiv.org/abs/2606.21229v1) | **NULL** |
-| **2026/06/19** | Moiré-Enhanced Plasmonics in Non-Hermitian Twisted Bilayer Graphene | Andrianos Sygrimis et al. | [2606.21186v1](http://arxiv.org/abs/2606.21186v1) | **NULL** |
-| **2026/06/19** | Propagating edge and interfacial states in corrugated graphene: Robustness and configurability | Adel Belayadi et al. | [2606.21065v1](http://arxiv.org/abs/2606.21065v1) | **NULL** |
-| **2026/06/18** | Displacement-Field-Driven Semimetal-Superconductor Transition in Magic-Angle Twisted Trilayer Graphene | Bokai Liang et al. | [2606.20849v1](http://arxiv.org/abs/2606.20849v1) | **NULL** |
-| **2026/06/18** | Correlated Mott semi-metal in the topological heavy fermion model | Emile Pangburn et al. | [2606.20466v1](http://arxiv.org/abs/2606.20466v1) | **NULL** |
-| **2026/06/18** | Charge imprinting biases topology of correlated insulator in hBN-aligned rhombohedral multilayer graphene | Lei Qiao et al. | [2606.20377v1](http://arxiv.org/abs/2606.20377v1) | **NULL** |
-| **2026/06/18** | Diagnosing the origin of quantum oscillation beating in graphene | Akash Adhikary et al. | [2606.20339v1](http://arxiv.org/abs/2606.20339v1) | **NULL** |
-| **2026/06/18** | Tunable Flat Bands and magnetism in Triangulene-based Superatomic Graphene | Wenya Zhai et al. | [2606.20321v1](http://arxiv.org/abs/2606.20321v1) | **NULL** |
-| **2026/06/18** | Terahertz frequency upconversion by coherently driving charge dynamics in the InSb/CdTe heterostructure | Pai Peng et al. | [2606.20080v1](http://arxiv.org/abs/2606.20080v1) | **NULL** |
-| **2026/06/17** | Shape Sensing of Continuum Robots using Direct Laser Writing | Amber K. Rothe et al. | [2606.19265v1](http://arxiv.org/abs/2606.19265v1) | **NULL** |
-| **2026/06/17** | Emergence of Resonating Valence-Bond Correlations in Stretched Graphene | Sam Azadi et al. | [2606.18973v1](http://arxiv.org/abs/2606.18973v1) | **NULL** |
-| **2026/06/17** | Electron state tomography from quasiparticle interference maps | A. Razanajatovo et al. | [2606.18858v1](http://arxiv.org/abs/2606.18858v1) | **NULL** |
