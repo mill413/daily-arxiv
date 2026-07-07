@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/07/04 11:19:15
+> Updated on 2026/07/07 11:34:15
 
 <summary>Table of Contents</summary>
 
@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/07/04** | Adversarial LassoNet: Robust Feature Selection via Stability-Driven Sparse Learning | Zhen Huang et al. | [2607.03839v1](http://arxiv.org/abs/2607.03839v1) | **NULL** |
 | **2026/06/30** | AETDICE: Unified Framework and Offline Optimization for Nonlinear Multi-Objective RL | Woosung Kim et al. | [2606.31178v1](http://arxiv.org/abs/2606.31178v1) | **NULL** |
 | **2026/06/29** | SIGMA: Saliency-Guided Sparse Mask Attacks for Speech Emotion Recognition | Qiyang Sun et al. | [2606.30550v1](http://arxiv.org/abs/2606.30550v1) | **NULL** |
 | **2026/06/25** | Learning from Annotation Uncertainty: Entropy-Aware Curriculum for Speech Emotion Recognition | Zahra Omidi et al. | [2606.27536v1](http://arxiv.org/abs/2606.27536v1) | **NULL** |
@@ -46,12 +47,17 @@ layout: default
 | **2026/06/04** | EPISODE II: Variability in the CO and H$_2$O rovibrational absorption lines in a periodically variable protostar EC 53 | Seokho Lee et al. | [2606.06628v2](http://arxiv.org/abs/2606.06628v2) | **NULL** |
 | **2026/06/04** | Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition | Jinyi Mi et al. | [2606.06200v1](http://arxiv.org/abs/2606.06200v1) | **NULL** |
 | **2026/06/04** | Geometric Second-Order Feature Correlation Learning for Self-Supervised Speech Emotion Recognition | Shuanglin Li et al. | [2606.06550v1](http://arxiv.org/abs/2606.06550v1) | **NULL** |
-| **2026/06/02** | Speech Emotion Recognition using Attention-based LSTM-Network with Residual Connection | Daniil Krasnoproshin et al. | [2606.03359v1](http://arxiv.org/abs/2606.03359v1) | **NULL** |
 
 ## graphene
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/07/06** | Coexisting Charge Density Wave and Superconducting Order in Quantizing Magnetic Fields | Ron Q. Nguyen et al. | [2607.05039v1](http://arxiv.org/abs/2607.05039v1) | **NULL** |
+| **2026/07/06** | Tunable Nonlinear Landscapes in Graphene Nanoelectromechanical Systems | Ateesh K. Rathi et al. | [2607.04724v1](http://arxiv.org/abs/2607.04724v1) | **NULL** |
+| **2026/07/03** | Graphene Electric Double-Layer Transistors for Enhanced-Sensitivity Label-Free Detection of Human Serum Albumin | Arslan Liaquat et al. | [2607.03491v1](http://arxiv.org/abs/2607.03491v1) | **NULL** |
+| **2026/07/03** | Many-body quantum chaos in excitonic spectra from first principles | Daniel Hernangómez-Pérez et al. | [2607.03294v1](http://arxiv.org/abs/2607.03294v1) | **NULL** |
+| **2026/07/03** | One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution | Nicolò Bassi et al. | [2607.03267v1](http://arxiv.org/abs/2607.03267v1) | **NULL** |
+| **2026/07/02** | Twist-configured moire-moire reconstruction governs diverse commensurate double-moire phases in twisted bilayer graphene on h-BN | Yuta Seo et al. | [2607.02822v1](http://arxiv.org/abs/2607.02822v1) | **NULL** |
 | **2026/07/02** | Disorder-induced superconductivity in graphene | Jannes van Poppelen et al. | [2607.02267v1](http://arxiv.org/abs/2607.02267v1) | **NULL** |
 | **2026/07/02** | A depth resolved investigation of hydrogen uptake in carbon based nanostructures by soft-to-hard photoemission spectroscopy | Orlando Castellano et al. | [2607.02022v1](http://arxiv.org/abs/2607.02022v1) | **NULL** |
 | **2026/07/01** | Lamb Shift of a Static Atom Facing a Rotating Surface | César D. Fosco et al. | [2607.01495v1](http://arxiv.org/abs/2607.01495v1) | **NULL** |
@@ -69,16 +75,10 @@ layout: default
 | **2026/06/29** | Mechanical Manipulation of Graphene Auto-Kirigami with an AFM tip | Pierce C. Sinnott et al. | [2606.30472v1](http://arxiv.org/abs/2606.30472v1) | **NULL** |
 | **2026/06/29** | Phonon-driven Floquet-Bloch states probed by quantum beat spectroscopy | Yu-Chan Tai et al. | [2606.30065v1](http://arxiv.org/abs/2606.30065v1) | **NULL** |
 | **2026/06/29** | Spin-1 Dirac dispersion and Chern insulating phases in 2D honeycomb Sierpiński fractal | Shneha Biswas et al. | [2606.29827v1](http://arxiv.org/abs/2606.29827v1) | **NULL** |
-| **2026/06/28** | Probing Quantum Geometric Phases via Scanning Tunneling Microscopy | Chao Yan et al. | [2606.29564v1](http://arxiv.org/abs/2606.29564v1) | **NULL** |
+| **2026/06/28** | Probing Quantum Geometric Phases via Scanning Tunneling Microscopy | Chao Yan et al. | [2606.29564v2](http://arxiv.org/abs/2606.29564v2) | **NULL** |
 | **2026/06/26** | Graphene as a Tunable Nonradiative Bath for Moiré Excitons | Katsunori Wakabayashi | [2606.28591v1](http://arxiv.org/abs/2606.28591v1) | **NULL** |
 | **2026/06/26** | Vortex-enhanced photovoltaic current in disordered topological materials | Pavlo Sukhachov et al. | [2606.28509v1](http://arxiv.org/abs/2606.28509v1) | **NULL** |
 | **2026/06/26** | Determining Electron Beam Lateral Coherence in a Scanning Electron Microscope Using Electron Diffraction | Evelijn Akerboom et al. | [2606.28056v1](http://arxiv.org/abs/2606.28056v1) | **NULL** |
 | **2026/06/25** | Mapping the Growth of Two-Dimensional $π$-Conjugated Polymers on Au(111): Organometallic Intermediates and Edge Terminations | Simon W. Briesenick et al. | [2606.27512v1](http://arxiv.org/abs/2606.27512v1) | **NULL** |
 | **2026/06/25** | Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem | Christopher A. Leong et al. | [2606.27370v1](http://arxiv.org/abs/2606.27370v1) | **NULL** |
 | **2026/06/25** | Plasmonic coated scatterers for tunable coherent perfect absorption | Ali Ghorashi et al. | [2606.27218v1](http://arxiv.org/abs/2606.27218v1) | **NULL** |
-| **2026/06/25** | Low-energy model for doped graphene nanoribbons | J. Ferrer et al. | [2606.27102v1](http://arxiv.org/abs/2606.27102v1) | **NULL** |
-| **2026/06/25** | Spin-orbit coupling driven topological superconductivity in twisted bilayer graphene-WSe$_2$ heterostructures | Kamalesh Bera et al. | [2606.27013v1](http://arxiv.org/abs/2606.27013v1) | **NULL** |
-| **2026/06/23** | Real-space Imaging of Quantum Hall Quasiparticles | Jinghao Deng et al. | [2606.25036v1](http://arxiv.org/abs/2606.25036v1) | **NULL** |
-| **2026/06/23** | Local spectroscopy of anyons bound to charge traps | Jeong Min Park et al. | [2606.25024v1](http://arxiv.org/abs/2606.25024v1) | **NULL** |
-| **2026/06/23** | Interaction-Enhanced Ergotropy in Phase-Driven Andreev Bound State Quantum Batteries | Disha Verma et al. | [2606.24456v2](http://arxiv.org/abs/2606.24456v2) | **NULL** |
-| **2026/06/22** | Probing the pairing symmetry of moiré graphene superconductors | Sayak Biswas et al. | [2606.23994v1](http://arxiv.org/abs/2606.23994v1) | **NULL** |
