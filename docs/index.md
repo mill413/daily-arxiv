@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2026/07/09 11:27:29
+> Updated on 2026/07/10 11:30:17
 
 <summary>Table of Contents</summary>
 
@@ -52,7 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 | --- | --- | --- | --- | --- |
+| **2026/07/09** | Competing Chern states revealed by quasiparticle charging in moiré rhombohedral graphene | Hongyuan Li et al. | [2607.08710v1](http://arxiv.org/abs/2607.08710v1) | **NULL** |
+| **2026/07/09** | Valley Hall viscosity in the integer quantum Hall phases of (2+1)D Dirac materials | M. Selch | [2607.08648v1](http://arxiv.org/abs/2607.08648v1) | **NULL** |
+| **2026/07/09** | Vortex Dynamics in Magic-Angle Twisted Graphene | Marta Perego et al. | [2607.08585v1](http://arxiv.org/abs/2607.08585v1) | **NULL** |
+| **2026/07/09** | Charge carrier flow through trimmed graphene nanoribbon junctions | Julien Leuenberger et al. | [2607.08471v1](http://arxiv.org/abs/2607.08471v1) | **NULL** |
+| **2026/07/08** | Parity Anomaly of Preformed Pairs Governs the Thermal Hall Effect above $T_c$ | Kumar Ghosh | [2607.07807v1](http://arxiv.org/abs/2607.07807v1) | **NULL** |
 | **2026/07/08** | Thermal-response Functions and the Peierls-Boltzmann Equation for Second Sound and Phonon Hydrodynamics in Graphene | Antonio Martinez-Margolles et al. | [2607.07644v1](http://arxiv.org/abs/2607.07644v1) | **NULL** |
+| **2026/07/08** | Axion-Induced Casimir Interaction Between Graphene Plates | Ahmad Alachkar et al. | [2607.07757v1](http://arxiv.org/abs/2607.07757v1) | **NULL** |
 | **2026/07/08** | TACoS: Weakly Supervised Learning of Two-Dimensional Materials from Scribble Annotations to Precise Segmentation | Jiabei Chen et al. | [2607.07169v1](http://arxiv.org/abs/2607.07169v1) | **NULL** |
 | **2026/07/07** | Disorder signatures in coherent electronic waveguides | Alejandro Lopez-Bezanilla | [2607.06866v1](http://arxiv.org/abs/2607.06866v1) | **NULL** |
 | **2026/07/07** | Moiré Phonon Condensation in Magic-Angle Twisted Bilayer Graphene | Zhanghao Zhouyin et al. | [2607.06711v1](http://arxiv.org/abs/2607.06711v1) | **NULL** |
@@ -76,9 +82,3 @@ layout: default
 | **2026/07/02** | A depth resolved investigation of hydrogen uptake in carbon based nanostructures by soft-to-hard photoemission spectroscopy | Orlando Castellano et al. | [2607.02022v2](http://arxiv.org/abs/2607.02022v2) | **NULL** |
 | **2026/07/01** | Lamb Shift of a Static Atom Facing a Rotating Surface | César D. Fosco et al. | [2607.01495v1](http://arxiv.org/abs/2607.01495v1) | **NULL** |
 | **2026/07/01** | Confinement in a magnetically induced WSe$_2$ quantum dots | Rachid El Aitouni et al. | [2607.01192v1](http://arxiv.org/abs/2607.01192v1) | **NULL** |
-| **2026/07/01** | Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$ | Harry Rankin et al. | [2607.01186v1](http://arxiv.org/abs/2607.01186v1) | **NULL** |
-| **2026/07/01** | Bandwidth-Limited Critical Currents in Electrically Tunable Moiré Bands | Riccardo Bertini et al. | [2607.01056v1](http://arxiv.org/abs/2607.01056v1) | **NULL** |
-| **2026/06/30** | Valley-dependent electron optics using quantum dots in bilayer graphene | Fereshte Ildarabadi et al. | [2607.00271v1](http://arxiv.org/abs/2607.00271v1) | **NULL** |
-| **2026/06/30** | Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy | Pankaj Kumar et al. | [2606.31934v1](http://arxiv.org/abs/2606.31934v1) | **NULL** |
-| **2026/06/30** | Strain-Tunable Harmonic Responses in Valley-Polarized Bilayer Graphene | Narjes Kheirabadi et al. | [2606.31684v1](http://arxiv.org/abs/2606.31684v1) | **NULL** |
-| **2026/06/30** | Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2 | Jiao Xie et al. | [2606.31267v1](http://arxiv.org/abs/2606.31267v1) | **NULL** |
